@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>全国47都道府県 交通・取締り情報</title>
+<meta name="description" content="47都道府県のリアルタイム交通情報・取締り情報。地域別プルダウンから自分の都道府県を選んでください。">
+<style>
+:root {
+  --bg: #0f172a;
+  --bg-card: #1e293b;
+  --bg-elev: #334155;
+  --text: #e2e8f0;
+  --text-muted: #94a3b8;
+  --accent: #38bdf8;
+  --accent-strong: #0284c7;
+  --warn: #f97316;
+  --danger: #ef4444;
+  --border: #334155;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f8fafc;
+    --bg-card: #ffffff;
+    --bg-elev: #f1f5f9;
+    --text: #0f172a;
+    --text-muted: #475569;
+    --accent: #0284c7;
+    --accent-strong: #075985;
+    --warn: #ea580c;
+    --danger: #dc2626;
+    --border: #e2e8f0;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+header {
+  background: linear-gradient(135deg, var(--accent-strong), var(--accent));
+  padding: 24px 16px;
+  text-align: center;
+  color: white;
+}
+header h1 {
+  margin: 0 0 6px;
+  font-size: 1.5rem;
+  letter-spacing: 0.02em;
+}
+header p {
+  margin: 0;
+  opacity: 0.92;
+  font-size: 0.9rem;
+}
+main {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 20px 16px 80px;
+}
+.selector {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+}
+.selector label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
+#pref-select {
+  width: 100%;
+  font-size: 1.05rem;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-elev);
+  color: var(--text);
+  cursor: pointer;
+  -webkit-appearance: menulist;
+}
+#pref-select:focus { outline: 2px solid var(--accent); }
+.empty-state {
+  background: var(--bg-card);
+  border: 1px dashed var(--border);
+  border-radius: 14px;
+  padding: 48px 20px;
+  text-align: center;
+  color: var(--text-muted);
+}
+.empty-state .emoji { font-size: 3rem; display: block; margin-bottom: 8px; }
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.card h2 {
+  margin: 0 0 12px;
+  font-size: 1.15rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.pref-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+}
+.pref-header .name {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin: 0;
+}
+.pref-header .region {
+  display: inline-block;
+  background: var(--bg-elev);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+.pref-header .updated {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+.weather-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: center;
+}
+.weather-summary .icon { font-size: 2.6rem; }
+.weather-summary .temps { font-size: 1.5rem; font-weight: 700; }
+.weather-summary .meta { color: var(--text-muted); font-size: 0.9rem; }
+.hourly {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 6px;
+  margin-top: 14px;
+  overflow-x: auto;
+}
+.hourly .slot {
+  background: var(--bg-elev);
+  border-radius: 8px;
+  padding: 8px 4px;
+  text-align: center;
+  font-size: 0.8rem;
+  min-width: 56px;
+}
+.hourly .slot .time { color: var(--text-muted); font-size: 0.75rem; }
+.hourly .slot .temp { font-weight: 600; margin: 4px 0; }
+.hourly .slot .prob { color: var(--accent); font-size: 0.75rem; }
+.news-list { list-style: none; margin: 0; padding: 0; }
+.news-list li {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+.news-list li:last-child { border-bottom: none; }
+.news-list a { color: var(--accent); text-decoration: none; }
+.news-list a:hover { text-decoration: underline; }
+.news-list .date {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  margin-top: 3px;
+}
+.no-news { color: var(--text-muted); font-style: italic; margin: 8px 0; }
+.official-links { display: flex; flex-direction: column; gap: 8px; }
+.official-links a {
+  display: block;
+  background: var(--bg-elev);
+  color: var(--accent);
+  text-decoration: none;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  transition: background 0.15s;
+}
+.official-links a:hover { background: var(--accent); color: white; }
+.alert {
+  background: rgba(249,115,22,0.12);
+  border: 1px solid var(--warn);
+  color: var(--warn);
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  font-size: 0.92rem;
+}
+footer {
+  text-align: center;
+  padding: 24px 16px;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  border-top: 1px solid var(--border);
+}
+.loading { text-align: center; padding: 40px; color: var(--text-muted); }
+.spinner {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (max-width: 480px) {
+  header h1 { font-size: 1.2rem; }
+  .pref-header .name { font-size: 1.3rem; }
+  .hourly { grid-template-columns: repeat(4, 1fr); }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🗾 全国47都道府県 交通・取締り情報</h1>
+  <p>地域別プルダウンから自分の都道府県を選んでください</p>
+</header>
+
+<main>
+  <div class="selector">
+    <label for="pref-select">都道府県を選択:</label>
+    <select id="pref-select" aria-label="都道府県を選択">
+      <option value="">--- 選択してください ---</option>
+    </select>
+  </div>
+
+  <div id="content">
+    <div class="empty-state">
+      <span class="emoji">🗾</span>
+      <p>上のプルダウンから都道府県を選ぶと、<br>最新の天気・取締り情報・交通事故ニュースが表示されます。</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>データソース: Open-Meteo / Google News / 警視庁・神奈川県警ほか各都道府県警察公式</p>
+  <p>3時間ごとに自動更新 / Powered by ドライバーズ</p>
+</footer>
+
+<script>
+const META_URL = "./data/_meta.json";
+const dropdown = document.getElementById("pref-select");
+const content = document.getElementById("content");
+
+function fmtDateTime(iso) {
+  if (!iso) return "—";
+  try {
+    const d = new Date(iso);
+    return d.toLocaleString("ja-JP", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+  } catch { return iso; }
+}
+
+function fmtPubDate(s) {
+  if (!s) return "";
+  try {
+    const d = new Date(s);
+    if (isNaN(d.getTime())) return s;
+    return d.toLocaleString("ja-JP", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+  } catch { return s; }
+}
+
+function weatherIcon(code) {
+  const c = parseInt(code || 0, 10);
+  if (c === 0) return "☀️";
+  if (c <= 1) return "🌤";
+  if (c <= 2) return "⛅";
+  if (c <= 3) return "☁️";
+  if (c >= 45 && c <= 48) return "🌫";
+  if (c >= 51 && c <= 55) return "🌦";
+  if (c >= 61 && c <= 65) return "🌧";
+  if (c >= 71 && c <= 75) return "🌨";
+  if (c >= 80 && c <= 82) return "🌧";
+  if (c >= 85 && c <= 86) return "🌨";
+  if (c >= 95) return "⛈";
+  return "🌤";
+}
+
+function escapeHtml(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+async function loadMeta() {
+  try {
+    const r = await fetch(META_URL, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const meta = await r.json();
+    populateDropdown(meta.regions);
+    handleHashChange();
+  } catch (e) {
+    content.innerHTML = '<div class="alert">⚠️ メタデータの読み込みに失敗: ' + escapeHtml(e.message) + '<br>data/_meta.json が生成されているか確認してください。</div>';
+  }
+}
+
+function populateDropdown(regions) {
+  for (const region of Object.keys(regions)) {
+    const og = document.createElement("optgroup");
+    og.label = region;
+    for (const p of regions[region]) {
+      const opt = document.createElement("option");
+      opt.value = p;
+      opt.textContent = p;
+      og.appendChild(opt);
+    }
+    dropdown.appendChild(og);
+  }
+}
+
+async function loadPref(prefName) {
+  if (!prefName) {
+    content.innerHTML = '<div class="empty-state"><span class="emoji">🗾</span><p>上のプルダウンから都道府県を選ぶと、<br>最新の天気・取締り情報・交通事故ニュースが表示されます。</p></div>';
+    return;
+  }
+  content.innerHTML = '<div class="loading"><span class="spinner"></span>' + escapeHtml(prefName) + ' の最新データを取得中…</div>';
+  try {
+    const r = await fetch("./data/" + encodeURIComponent(prefName) + ".json", { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const data = await r.json();
+    render(data);
+    history.replaceState(null, "", "#" + encodeURIComponent(prefName));
+  } catch (e) {
+    content.innerHTML = '<div class="alert">⚠️ ' + escapeHtml(prefName) + ' のデータ読み込みに失敗: ' + escapeHtml(e.message) + '</div>';
+  }
+}
+
+function render(d) {
+  const w = d.weather || {};
+  const icon = weatherIcon(w.code);
+  const wmax = (w.temp_max != null) ? Math.round(w.temp_max) + "°" : "—";
+  const wmin = (w.temp_min != null) ? Math.round(w.temp_min) + "°" : "—";
+  const tnow = (w.temp_now != null) ? Math.round(w.temp_now) + "°" : "—";
+
+  let hourlyHtml = "";
+  if (Array.isArray(w.hourly) && w.hourly.length) {
+    hourlyHtml = '<div class="hourly">' + w.hourly.slice(0, 8).map(function(h) {
+      const t = (h.temp != null) ? Math.round(h.temp) + "°" : "—";
+      return '<div class="slot"><div class="time">' + escapeHtml(h.time) + '</div><div class="temp">' + t + '</div><div class="prob">💧' + (h.precip_prob || 0) + '%</div></div>';
+    }).join("") + '</div>';
+  }
+
+  const enf = d.enforcement_news || [];
+  const acc = d.accident_news || [];
+  const links = d.official_links || [];
+
+  const enfHtml = enf.length ?
+    '<ul class="news-list">' + enf.map(function(n) {
+      return '<li><a href="' + escapeHtml(n.url) + '" target="_blank" rel="noopener">' + escapeHtml(n.title) + '</a><span class="date">' + escapeHtml(fmtPubDate(n.date)) + '</span></li>';
+    }).join("") + '</ul>'
+    : '<p class="no-news">直近の取締りニュースはありません。</p>';
+
+  const accHtml = acc.length ?
+    '<ul class="news-list">' + acc.map(function(n) {
+      return '<li><a href="' + escapeHtml(n.url) + '" target="_blank" rel="noopener">' + escapeHtml(n.title) + '</a><span class="date">' + escapeHtml(fmtPubDate(n.date)) + '</span></li>';
+    }).join("") + '</ul>'
+    : '<p class="no-news">直近の交通事故ニュースはありません。</p>';
+
+  const linksHtml = links.length ?
+    '<div class="official-links">' + links.map(function(l) {
+      return '<a href="' + escapeHtml(l.url) + '" target="_blank" rel="noopener">🔗 ' + escapeHtml(l.label) + '</a>';
+    }).join("") + '</div>' : "";
+
+  content.innerHTML =
+    '<div class="card">' +
+      '<div class="pref-header">' +
+        '<h2 class="name">' + escapeHtml(d.pref) + '</h2>' +
+        '<span class="region">' + escapeHtml(d.region || "") + '</span>' +
+      '</div>' +
+      '<p class="updated">最終更新: ' + escapeHtml(fmtDateTime(d.generated_at)) + '（' + escapeHtml(d.capital || "") + '基準）</p>' +
+    '</div>' +
+    '<div class="card">' +
+      '<h2>🌤 天気</h2>' +
+      '<div class="weather-summary">' +
+        '<span class="icon">' + icon + '</span>' +
+        '<div>' +
+          '<div class="temps">' + escapeHtml(w.weather || "—") + ' ' + tnow + '</div>' +
+          '<div class="meta">最高 ' + wmax + ' / 最低 ' + wmin + ' / 降水確率 ' + (w.precip_prob_max || 0) + '% / 風 ' + (w.wind_speed != null ? w.wind_speed : "—") + 'km/h</div>' +
+        '</div>' +
+      '</div>' +
+      hourlyHtml +
+    '</div>' +
+    '<div class="card"><h2>🚨 交通取締り情報（直近報道）</h2>' + enfHtml + '</div>' +
+    '<div class="card"><h2>🚗 交通事故ニュース（直近）</h2>' + accHtml + '</div>' +
+    '<div class="card"><h2>🔗 公式・参考リンク</h2>' + linksHtml + '</div>';
+}
+
+function handleHashChange() {
+  const h = decodeURIComponent(location.hash.replace(/^#/, ""));
+  if (h && dropdown.querySelector('option[value="' + (window.CSS && CSS.escape ? CSS.escape(h) : h) + '"]')) {
+    dropdown.value = h;
+    loadPref(h);
+  }
+}
+
+dropdown.addEventListener("change", function() { loadPref(dropdown.value); });
+window.addEventListener("hashchange", handleHashChange);
+
+loadMeta();
+
+setInterval(function() {
+  if (dropdown.value) loadPref(dropdown.value);
+}, 5 * 60 * 1000);
+</script>
+
+</body>
+</html>
