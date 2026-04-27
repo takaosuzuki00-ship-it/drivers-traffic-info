@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.564329",
+  "generated_at": "2026-04-27T21:04:32.787945",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 15.2,
+    "temp_max": 18.5,
+    "temp_min": 13.0,
+    "precip_prob_max": 100,
+    "precip_sum": 33.2,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "03:00",
+        "temp": 14.6,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 14.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 13.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 57
+      },
+      {
+        "time": "18:00",
+        "temp": 15.7,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 22
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が“不適切な”交通違反取り締まりか…2000件以上の違反を取り消しへ 担当の警察官ら複数人を書類送検へ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wU0Z5dXRnREJHOE8ybFZXY0VUQWNiakJYdlFwem1NY1o0Q1dZQS1iRVlvcFdtVDgtREs2UHdSa09qdjFUdUxVLUFOaUxXNGNoanNDMXVTZ1lYbjJRZkxrVEdnZ2lNZGJXYmx2U1ZjT1RWQWthU01hek5ydnYzcVk?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "約2700件の交通違反取り消し 3500万円の反則金返還 神奈川県警“不適切交通取り締まり”で40代男性巡査部長ら7人書類送検 部下は「意見が言いづらかった」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzSHFIQjRLMEZrSGJTUFhWcHJGUW16SjZ4NVItekVsaEVqbDNoek5XWkF4LVZ6MHBEQnlqdi1ldFhhcmJKRzEtUXNGd3NHdHdtdG16b1pGMA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警、交通違反摘発で不正か 巡査部長らが2000件超に関与疑い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53eVJIN3RlNnI4MEVBeXlaYUh0clkwNmhwUWg5b2tzOEZNTkhUSFVETXgxWnU0RS1nY3h0Q3Z4UDJZOHJ3LXJZa0RrbHE4R2k0eW1SRUxaU0NMNzUwdkxTNUU0TnVkOXJjaGtxWg?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "警察署員の自家用車が道路標識に衝突 歩行者1人が重体、1人が重傷 [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTM3FMellRdFhqOFhPQVZDWkRTQlRRbGZTaGl0YjRsem56Znl1WG9EUV8zbnp0N2RLOERZVmxLa2tWTnNCbUlYQWhSSy1UeG80NWZXU29EUzl6dmtBdWJFeW4wc1dXRVk?oc=5",
+      "date": "Mon, 27 Apr 2026 01:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警警察官の車が標識柱に衝突 女性2人が下敷きになり重傷（tvkニュース（テレビ神奈川））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sa0ZFNDhYVWlUc2c2bUZ0aEhqT2J5N3k4cTY3aGNUTlFOa2JOeTB3Q254MzdrTFNjM0NSdlloRzFnRHEzazg4eDM4OTVSRW0wX3RNN1ZicDhkVEktNU0zR3hxVzl3REJXTmgzVmdKaGR4SDZha01jclUyOURWWU0?oc=5",
+      "date": "Sun, 26 Apr 2026 23:27:18 GMT"
+    },
+    {
+      "title": "神奈川県警の警察官が標識に衝突する事故 折れ曲がり女性2人にぶつかる…1人意識不明",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0S1pYWG1vMm1uRHdTNVljYlU0YXpIWnBtZ29DRkJua1pzYjFHLS1NaHFDOVFsaWlZbDd4czM4LU5qOGZaU05OUktNS2l3NjFuWUVzS0hRU0cxOXNQYWRUWjc4MmNMN1QwbzhkbTdBVEVGcGtjMzN4cTlvRno?oc=5",
+      "date": "Mon, 27 Apr 2026 03:15:01 GMT"
+    },
+    {
+      "title": "小3女児の死亡事故で神奈川県警が現場を速度規制 異例のスピードで [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xUUh2WHVuMFRqQS02N254WUw2V1piSXV6b0syQlZhMXp4WllhU1BfSFU5NFV1WmRxbjhodE0xQVFnbGR1QTJJQVpPenc0ZUNmYmFwb1cxZ2Nkd3dxS0x5SFBPcEZ0MFU?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "神奈川県、交通死亡事故多発警報を7件相次ぎ発令 自転車絡みが3件",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SnFITnNfZ1ZSSl9DTDFkZ0FEaW9UakhkQkdKbHV6Yk4zdmdMSk9zYTZLbTRwQjBOanhuM0k2SVRkcGtaMTB5dzFsdzAxOWpTQnZZ?oc=5",
+      "date": "Wed, 22 Apr 2026 22:30:10 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "神奈川県警 月次取締情報(横浜16+川崎7箇所)",

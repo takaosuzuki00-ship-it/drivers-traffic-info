@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.924632",
+  "generated_at": "2026-04-27T21:05:53.370986",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 15.7,
+    "temp_max": 20.7,
+    "temp_min": 12.6,
+    "precip_prob_max": 100,
+    "precip_sum": 22.8,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 13.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 12.6,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 14.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 20.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月27日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMTk2d3BkcTNadURNSEktMXM3dFA4eENGT3hkUUc4c1dYaG8xb0MwdjJ5RjJVTHpqakNUYi1xS0RuZnZ2VThNaldvS2Z6aEVXWlpGSlhGREpwMERxVXVtRmxLNmlqMDhfLURYV1RFNNIBdEFVX3lxTE10SnR2dW5HUVh3bDM0NG9vVFVIaU5vRUlDUWpGaUZGRGxQUUN6dE16YnJUYTIzQk5QaG1MYnYwM0ZMOGZmQkpUWUdrakh1a0lzRTVkM0NYdHJpU2EyMFh1a09PVmh4VkdkSFRjbUlqbmJkMzFP?oc=5",
+      "date": "Sun, 26 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YVNDZ1ZNZTEzcGpPbzI5R3QyT0cwMm5BZVZIbjEwTzRybFhVOVl1TTBvU3FsUmplVXN4TzFVM2tYUy1XNUk1QzZqaFd1bncxQm5JLVNCeHNWU3gtYzB6eDVYVFdrOFRYUTZTU1NESdIBdEFVX3lxTE9DNktBb1ZqbkpOWFV0M1VTbVlsVzZnTUt4MEdZdkhBSnVESThxS1k3aE1TQXZWcUkyM01NNTAwVkM0VVB5RUNHbE9PM1g4R1RORlZmUXlGejFEYjZrc3NLNWlWSnlCZkQ5aFFfOUNtc2xJN1du?oc=5",
+      "date": "Sat, 25 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "昨年の交通事故死者25人と前年比2人増 奈良県警 [奈良県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uLVpDWlRMVGJ5NnJWUFg1NEZSMEtaV0g5YmxoZ1hKXy1ZZFpRT3RsZExSRmRrem5yUWstcDFOeWhWdE9jR2JUcTMzZXBDeUJ0ZUtGVmY5Zm1Vd2hCTTVnQzVKQXNOOVE?oc=5",
+      "date": "Fri, 16 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通事故ゼロを 長男を亡くしたNPO法人「KENTO」児島早苗代表、奈良で講演",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vQ2RrT1ZUMVE2QlFsTUdtdVN6Z0N2eVZacTJmRnQzMWRjcjhmZGw0UUwtenI3V3NpekZIVzJ2dXRZY1hEci1OUGhGWDFCR0FvTHNLcjJfX0NkM1FvRUNJeHZMTVZ3TllqdG9nRFhIRm9NN0pyalE?oc=5",
+      "date": "Tue, 21 Apr 2026 03:00:00 GMT"
+    },
+    {
+      "title": "事故防止へ啓発を 奈良県自動車販売店交通安全対策推進協議会の総会2議案を承認",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XWHBBbW9HUW85WFFTRGpyUWxzQjNfQklkQnV1TzBFUEJyRkQ1ZzRtZjBibjJXU2RPSGprVVJ6Rmx1QVFMOWJBZktySQ?oc=5",
+      "date": "Sun, 12 Apr 2026 21:13:15 GMT"
+    },
+    {
+      "title": "奈良のシカ：生息調査で過去最多の1465頭を確認 交通事故も増加",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xV3hwZW1WNGxKdnhRYzB1UGF3V01iTkdoMXFZMTFlM2tPemlNdkRoaFFjeDNzUG11SHY3TlpNTGZIMG5rSEVZeXZxUmFrc1VQeEVlR0RlSQ?oc=5",
+      "date": "Tue, 05 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "死亡隊員３人が特別昇任 - 陸自戦車事故",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xYVB5SmVEbWxrOEF3c3ZtVjRYNVkyTW54bFE4NDlqWllKM2k4VWlCb3dnSkN5SThFMlVveGtMSlI1TnhFRkF0ZV9XRkVtMVo1ZmpSTDRvQXA4LUdCUnFPZ3laMGQ?oc=5",
+      "date": "Mon, 27 Apr 2026 09:37:37 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

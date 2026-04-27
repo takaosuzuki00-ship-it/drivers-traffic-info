@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.628389",
+  "generated_at": "2026-04-27T21:04:43.969922",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 13.0,
+    "temp_max": 16.9,
+    "temp_min": 11.7,
+    "precip_prob_max": 100,
+    "precip_sum": 19.5,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 12.7,
+        "weather": "弱い雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "06:00",
+        "temp": 12.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 12.7,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 13.6,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 16.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "18:00",
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月24日（金）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NZVJGckloZDhFZ3d4Q0ljNjVpaWJvOVF5bkxla1hTdnYyOEZSa3JxU01rNmxYSXI1dktUS3FKdFlaQldTWkw3M3dJRnoxd08wWWdhUmNNZ0NCOWJ4RHBrbEdyb0IwN2R3UEYzSkQ5b9IBdEFVX3lxTE1QY1o0UVBSejZ2QVMwRmVDRV95YzVvWnJ6Ym5fQkIzdVFZUXh3ZEVYQkpzaVdTM05BbDAtejA0bzVBOTZwb01uQjI0WjhISm9oRVB3blBLQ0dscEhiME9VVXo1ZmN5aHFkYndydmJvWDdmcy1y?oc=5",
+      "date": "Thu, 23 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "立ち去った男性は…発生時間に合わせ検問 未明の交差点で33歳女性死亡の事故 ひき逃げ事件の可能性も含め捜査 富山・高岡市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tX0x4dGhPNm0xMkZZRmV1dTJSVDVmVm8yTmVIdlpjcl8zVE5wR3RTTUVKUXpJeVpCYzY5dGRyam1wVFpUOXZrckhrZ1JVeVhtY0hBVG9sUHFLMlVNX1M0dUU5Q1k1Snc?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "自転車酒気帯び 石川３５８人摘発、富山１６人なぜ？ 罰則化１年（北國新聞社）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eHNCVV9hOFJra0xocjUySGJKeU8ySERlanlySF8zemQtYUQzT0FoQkI3N3gyeUd1RU9NTUwyczY4Y3hBY3F6OUpZRDdhLUIzVmlmcWZSNkVjUVRKQXBITEtSalhkNXBXUWRMYmxzNnF5NVpQd0lQWldBVjBuZTg?oc=5",
+      "date": "Sat, 06 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "富山・国道8号で初のヘリ取り締まり 先月の死亡事故受け「空と陸」から交通違反を摘発（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHaHZZUTJqWmc3WElNdEltMEhmNzNyb0doamtCUEZ2YlRVRElQRi0wMzQ3QVRFbXVpQUtNX2RXSzRLUzJGSWYzZVo5c01ZUWlDQ2swY1JrOTRwNjhHRTlSNC00ZktkVzhWOTNQSl9idjNGTWdrWlQyREtlZ1Y0MUU?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "赤信号を140キロで進入か、危険運転致死罪で起訴 親子死亡事故 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTmFuUkNZM2J3QzBTc3hORk5lMmNVZnB0N0Jjb1ROTTlfcW1iR0ozZUVRUkk0T1RMWTNyQndUM09seG1ORkp6NGk1b0xaODRWaUlYQ2xRRm9PN2NKeFI5M2FrazdDRms?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "数百メートル手前の信号も無視か 危険運転致死疑いの男（26）「他車を追い抜き、引き離そうと…」国道8号親子2人死亡事故 富山",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lTVo0ZVJPZ2IwMXRNZEF6WWpLdVJsRGF5X0VxN2hOeUhDc21nci05VlBlcWxjUW5DTEVfSGZZVGlaLU9XMksxWVpTTk0zcWtEdV9TX1pCeDZNNk8wWFYxMFc3LUd5MFk?oc=5",
+      "date": "Thu, 19 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "時速１４０キロ超で信号無視し交差点に進入か、軽乗用車に衝突し母親と男子中学生が死亡…富山",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGcEF5YkZibEhaWHlqaDdmRFVDYkp4ZS1kemVEMDdCdlQ2alZtWWxRejJoSnFwa3lYY3BScVpsaVVQTU9PNm9iOFNEeXFORWZQLWdSOUhUenhiOVBzRVNjak1PQmxodw?oc=5",
+      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "60〜70代とみられる男性が意識不明の重体 山あいの国道でスクーター同士が衝突 富山・砺波市（チューリップテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mcmpENDZkVERPcVdlaUxwNktfSThaRTB2QWV6dG1TQldMOWEwLVdkekN2UG5yRGh4Z1JhelRBOEM1REczQWlMN1NvdlFuamliQXpkV0p5bUR0OWV4aWlVcGlWY3pacm5FZnBRYUJLQU1hNHZqOUxGZzRhTnZSbzA?oc=5",
+      "date": "Thu, 23 Apr 2026 11:15:30 GMT"
+    },
+    {
+      "title": "悲惨な事故起こさない 県警、春の交通安全運動出発式",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qUG9SRlFtdjNyTEpWMG9rOU10VlFWWnRNY2ZGX1FEaXBZY1FyTG9JQjlXUFBoRTlTaWhRekhubXBfeWNCVFVyaE9R?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.778206",
+  "generated_at": "2026-04-27T21:05:08.088054",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 10.0,
+    "temp_max": 14.6,
+    "temp_min": 9.1,
+    "precip_prob_max": 100,
+    "precip_sum": 19.8,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 13.1,
+        "weather": "霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "06:00",
+        "temp": 11.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 11.5,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 12.5,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 14.6,
+        "weather": "曇り",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 12.8,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "21:00",
+        "temp": 10.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「覚醒剤を持っている」警察に出頭 会社員の26歳男を現行犯逮捕 覚醒剤取締法違反の疑い（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STFlIX3B0c00yQ2ZDdXFMQ2xFLVpsdkQ3anpfLWlHUnZLLXFEUXpKS01qSjhUbXQxZmMyUi15RG9QckwyRFF0ZXBVU2E4clFRa1AzcW0ydVBLNXpoMXJ5QzktRUdXaDVjWHFOeUNGa2VrNHUzbm1jREJLR2dRWEk?oc=5",
+      "date": "Mon, 27 Apr 2026 02:56:01 GMT"
+    },
+    {
+      "title": "4月22日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9na1BxcFZjTWhhOHBoNmdTZmNLRk5TVXpzZ0NpaEJIVjNKcTZ4SFZpb2oyc1pRTUpWWEZUYkNxbFoxM3h6S3F6dnRfZzJVbHRGdzFLU3JHMTB1b1Rzek9J?oc=5",
+      "date": "Tue, 21 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "ガザで複数の検問所を封鎖 イスラエル当局、イラン攻撃で",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MeFJHZW5MX3pCNlBZRlYzaXpRZ09JeFRJQmtsNll6R0RXRmRhUEZMUWVRS1gxMUgySkFIZElGYnd6UnlEbnV5S0E2T25JOC1ycFRfX0JmYzhyQ3R4eWtNQko2WFpyMmh6THc4?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "検問振り切って乗用車で逃走 71歳の土木作業員の男を無免許運転の疑いで逮捕 違反点数オーバーで免許取り消し中 長野・小諸市 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jcnZsc0tVbDU4UlQ5MmlXYUU0WWV5Um1tUllSZVVuaHVza2JsUFZxckhjT3JBX1RVeWJ0NG9JaVFDTXhnRkg2MWhJc3BOdXRhYngtNFFYU1FXQQ?oc=5",
+      "date": "Thu, 27 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "水門に車衝突…19歳と20歳の自動車整備科の訓練生4人死亡 かなりのスピードで走行し、ハンドル操作を誤ったか 事故から1年 友人「一瞬の判断や行動が取り返しのつかない結果に」 長野・飯田市（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ZzBaV2c2Szk2N3VXN1FHOWdvc1BGMHh0WHJnLUNjcWgyVVpGYlIyZ1dCVHZXMFY5bllqS1h5MW53MzVCNVhfVkl2aVN4SVJRWEdWRHhMZU01c2hwWFFaNjkwUlRUb0ZoVUxRUndkRHZFaFA2VHp1eEhoLVBqZm8?oc=5",
+      "date": "Fri, 24 Apr 2026 02:56:01 GMT"
+    },
+    {
+      "title": "接触して転倒したバイク運転手が左肩骨折…長野が女子選手の交通事故を報告",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZaTd0S01fcHpycmVfYmtFV29ScW05eUE0bGpsdTUtVUpCcDhDZkZ2R0Uwd25xY0gwQlU1bFJ5R3dVTVZlY2I2akRncjJ3SWlTRHRpb0pOMy00TWVEWkpfdVFFdUp6dGl2MnFySUpn?oc=5",
+      "date": "Thu, 23 Apr 2026 00:51:00 GMT"
+    },
+    {
+      "title": "長野県内の２０２５年の交通死亡事故 死者数は４４人 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDYkhWUzBNQ0tfSVo4T1JqUVdJUWVnUEMtYXJhV0pSaDhQcHJVZ3VxTEpOYmxtV1diM0k3cTctbC1KaDI0d2Q0aHIxRm5QS25VWFhneGNBRzdVQQ?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "犯罪や交通事故かっ飛ばせ 横浜ベイ・牧選手が広報大使に 長野県警 [長野県] [DeNA（横浜DeNAベイスターズ）]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmV3M4VUpmcFQzS08zNTZvRFhJZWhQUDA1bUNTZElaNkVid2V2WlAzZ0pyVkYtNlg5ejBGOGRZX2x3NkF4S0xVZXpncTc0b1VTcTNYdjN6SE8tVkMyYm14UVNfa1RUTE0?oc=5",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "自転車の20代女性「事故にあってしまった」助け求める　後ろから来た車にはねられ、腕の骨を折る大けが　車はそのまま走り去る　ひき逃げの疑いで捜査　長野・大町市",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyN3l0ZXVtMDBUd24tR1htNXI0OVZsY1BYY3NRd3dVRS1XM3dGbTVnVDdQLXdkRFhVMG1xY2FyR1JEVTNJZ0xqckg3c000MWM3eU9LOWdsaWxYZ3hPNUJrSWVoM054MXhTS2UxdtIBckFVX3lxTE5kWHdhZVN0M3RxN215QjlGNzJtZ01ka09Yb1EzTmRLODNOVnI5ZW1RT3o4bjBIRWkwbXlnVTE2Nmx5RXEzOEItZks0Q0tpdFdnQ1NUSXNpbmxHUUp3Mms0UlBJZEQ1dlRFZjZkc2NpY2N1dw?oc=5",
+      "date": "Fri, 24 Apr 2026 02:02:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.952633",
+  "generated_at": "2026-04-27T21:06:03.199732",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 14.1,
+    "temp_max": 19.3,
+    "temp_min": 13.3,
+    "precip_prob_max": 100,
+    "precip_sum": 14.0,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 14.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 13.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 14.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 16.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 19.3,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月26日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DNktBb1ZqbkpOWFV0M1VTbVlsVzZnTUt4MEdZdkhBSnVESThxS1k3aE1TQXZWcUkyM01NNTAwVkM0VVB5RUNHbE9PM1g4R1RORlZmUXlGejFEYjZrc3NLNWlWSnlCZkQ5aFFfOUNtc2xJN1du0gF0QVVfeXFMT0M2S0FvVmpuSk5YVXQzVVNtWWxXNmdNS3gwR1l2SEFKdURJOHFLWTdoTVNBdlZxSTIzTU01MDBWQzRVUHlFQ0dsT08zWDhHVE5GVmZReUZ6MURiNmtzc0s1aVZKeUJmRDloUV85Q21zbEk3V24?oc=5",
+      "date": "Sat, 25 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "自転車“青切符”制度 鳥取県で初摘発「一時停止違反」 取締中の警察官の指導にも関わらず交差点を進行",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FM3dZblRmaHVYVC1mY3VEclpWR2JSQWtGajVnYVlKTVRESlQzbkxaSnRnMVRScnNhNVZ4bjIyWG1jRktVblo1dUFLRzYxUQ?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋の交通安全運動 期間中の交通事故や取り締まり状況を県警が発表 交通指導取締状況は前年度より265件増加 鳥取県",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdE9JTWd2UkJCVE80b3lpVEdOd2p5ajRJUnhkdmVNTEZndW90alEzN2UyazROLS1KZ3RaU2tFZVNvMTVhUW5Dc0hHSVZTcmd5a2twX0R0M3M5MUdvUms4ZUJRd2xtWF9Rd2FUaVZnNTBYM1ZiZ1E2ZDdXV2VTWjNDdnJjTm9XeW8?oc=5",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NcVhhdDVydkpxMlA3dkZWSlMwVFltR1VpTGhfMWdIUTdDXzBIR3QzR1pnYmJiNFVNcEN6M2RZLVlUNUotUEh6MTBCSGZBSjNCSEdzbzdWamFCNS1YYjVKX3k2N2s1ODlkVTNnM19Odl9OWEFLU2prZFNKT0VRU0U?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ガザ検問所の試行「成功」 イスラエル報道、２日再開",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TalRHeTFmTjNqMG1takwyaExoSmRiWGxEWUdaQ1Q4Y2VCc19vZTFFWnNINzctYlpZUUJaMUc3S1BYZnZxVTJ2eUpiSlhNWlVT?oc=5",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車3台が衝突…山陰道で相次ぐ交通事故 連続するトンネルと高低差が誘発か “難所”に潜む危険（鳥取）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vX0xVN2Q0eE13Q3dLR01aUFZ6WjRFSkRvc3NuZjhRYVJCbGZfQTJSV0E0d215dEVnci1wODZBYXJjNjRwS09xRVB5eGV0UQ?oc=5",
+      "date": "Fri, 24 Apr 2026 09:00:00 GMT"
+    },
+    {
+      "title": "山陰道 車３台が関係する事故 親子２人が病院で手当て 鳥取",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Wc05HT1NfODVTaXBTMHhYT0FMTTVKaE1LY1lZSEYxeFlFcTRaSW9pQ3dQbFBwcmpxS3N4d1JQaW5aMnFyMm9BaXlIQ0RnSzFPdzVTQ3R4Sjg?oc=5",
+      "date": "Fri, 24 Apr 2026 02:55:00 GMT"
+    },
+    {
+      "title": "2025年鳥取県内の交通事故発生状況 死亡事故は17件 死者数は17人 早朝・夜間など特に注意呼びかけ 鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHNoMDJ5Sm1DRlJoN3dGWjFPLW5OTE01OEtpc053Z2pER0dFWXhqQ0ptYzlxZGhGekRwNU94bHo2eUFZc0QzOGpobEU4OFZvamhyZGFYOERjaXJhMHl0YmlzbElvZ1NFZ0xuTUdDM2NCMVFnYXZnU0xvb1FEbVNJNEhIdjdfU2c?oc=5",
+      "date": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「酒は抜けていると思っていた」 酒気帯び運転で事故を起こした男 鳥取県警鳥取警察署が現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUy1DWWlBU0RiX2xyZWJpWWVkTk12QmJNOGVubmVLSHZMbzFQUVZlQkVjTVItMHFCbjZJZ1A1ZFppbEhZNnA1TnNzVFZKc2M0QUJTMVFmdktDLXh3Tkl2eU9sTWZHdGc?oc=5",
+      "date": "Sun, 05 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐用の鳥取道「大原IC－佐用JCT」で一時通行止め 釜坂第二トンネルで車5台絡む事故|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uakxUZkJYVUsxVjBYSFpTQTRkdXdpcGQzemw4RHhyUkluY3gwVF91aFZ3YnFodmJSampfdGRIbERjZV9FVlZMSG9sWWxiUnpodDctWjJDQzRDSlNaVmkwZWM2S1J4bnduVUlZ?oc=5",
+      "date": "Thu, 09 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鳥取県警察 公式サイトを検索",

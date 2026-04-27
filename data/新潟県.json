@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.596493",
+  "generated_at": "2026-04-27T21:04:37.847423",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 11.8,
+    "temp_max": 13.6,
+    "temp_min": 10.9,
+    "precip_prob_max": 100,
+    "precip_sum": 8.7,
+    "wind_speed": 10.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 13.5,
+        "weather": "曇り",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 12.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 12.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 12.5,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 13.0,
+        "weather": "曇り",
+        "precip_prob": 73
+      },
+      {
+        "time": "21:00",
+        "temp": 11.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月27日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMTk2d3BkcTNadURNSEktMXM3dFA4eENGT3hkUUc4c1dYaG8xb0MwdjJ5RjJVTHpqakNUYi1xS0RuZnZ2VThNaldvS2Z6aEVXWlpGSlhGREpwMERxVXVtRmxLNmlqMDhfLURYV1RFNNIBdEFVX3lxTE10SnR2dW5HUVh3bDM0NG9vVFVIaU5vRUlDUWpGaUZGRGxQUUN6dE16YnJUYTIzQk5QaG1MYnYwM0ZMOGZmQkpUWUdrakh1a0lzRTVkM0NYdHJpU2EyMFh1a09PVmh4VkdkSFRjbUlqbmJkMzFP?oc=5",
+      "date": "Sun, 26 Apr 2026 20:12:53 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "４月２７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbXljVGZUQkFld3VkdDlneFY0SmE2dmd3bDFHYmkzdjRNN1hlX1J5aU1ybDlxUFVMQVdUR0JOSzUwZ3dOR0ZFVTBEd2tIMXRvbkEzRXpINFFCNVVYd2ttOHNIV2xMWjVBZ2haVUNabUd6QdIBd0FVX3lxTE55THdNdGdEYnY2ZHNCVFl3V05nS2U3VWVBaFpWTV9YTm5TRS1lT2dVNDdoT2hKaG9kbWFhdVhETFNDdlNfN3cxUGRyRV9yVlhUNWJjbjV0UFZPRmk4enJaeXBXSVlGamgwOHVDVS1UVjJTZGZMdlow?oc=5",
+      "date": "Sun, 26 Apr 2026 20:07:03 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "“交通安全運動期間の事故” 新潟県内 前年比10件増の72件に…1人死亡・88人がケガ「気を引き締め運転を」",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZzhVdGNzUDdxUGFiYkJSOGZRcEM0dk40QllqOEZRaEpPcndjSWdPeUFtVHhrN0M3TlR6OHVCZ1dSZFdVSU1Dcnc4bzNJS3d3b2RtRWdTSGc0WVY5UW8yZEZnXzR3X2FHZ3RFQ1lFLUxqTkhzQU04VXhReTJwOEk?oc=5",
+      "date": "Fri, 24 Apr 2026 13:00:01 GMT"
+    },
+    {
+      "title": "春の交通安全運動期間、新潟県内の事故件数は10件増の72件…県警発表 けが人は17人増の88人、前年同期比",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUm00LWM1Nm9TV2RvSWJGZ0xnbVpqMVJYOUV1UXFEX2F4eTZuYW5IWWtodmVSNUNTakJ2OTY4ZWNfYWRMUXVkR3NGVnRSTVJvNlI0anV4UXRHTjhKU0E?oc=5",
+      "date": "Wed, 22 Apr 2026 14:00:00 GMT"
+    },
+    {
+      "title": "新潟県上越市で歩行者の女性が死亡する交通事故、車を運転していた男を現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xNGViZGpJbTZiMC1BQXZBdkdKSEExOUxuTjN5Wng2NDZLUS04VF9ic0dOYlBjRFc2YVR2U3lYemoxSFh5?oc=5",
+      "date": "Fri, 24 Apr 2026 09:05:38 GMT"
+    },
+    {
+      "title": "春の交通安全運動期間、新潟県内の事故件数は10件増の72件…県警発表 けが人は17人増の88人、前年同期比",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SbVd0cGduMlFmMkNHV1BCT241ZUJWNDN3OVhYU1hveFpyY3Z6aTY4NHhwdWhlNDdiZWgzaFltSHBqdEZZaDM1SnZuSQ?oc=5",
+      "date": "Wed, 22 Apr 2026 14:10:00 GMT"
+    },
+    {
+      "title": "新潟市西区で車にはねられた男性死亡 3月の事故で入院、容体が急変",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40VkVDaXEyVTVLTXpMTmtMZkpseUk2dkQzY2F0N09fa2xJUG5WeWU5R0FmdHJKZUUyUEZ2R3FLT0RTSW5XejllSUtJbGlNUEliSUp5dlZrZURJSlJLQlE?oc=5",
+      "date": "Sun, 05 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

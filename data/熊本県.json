@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:46.116128",
+  "generated_at": "2026-04-27T21:07:10.623912",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.8,
+    "temp_max": 23.4,
+    "temp_min": 13.2,
+    "precip_prob_max": 33,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.0,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 13.2,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 13.5,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "18:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GZ0U0RnBXU1dWZU94Z2swRTk0TFJIYThXOFV1SUhtUC0zeWJ3RmdOVUwzNjJuWEJyOEZSWDktTUpXWkZEYzZrZW1VRVc2M2wyRExMdTdxZnBiYXFVTWxVMDd6a3RrU2h6M3N2RVB3NTJFeVk3cFlGQV84MEFFWDQ?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:14 GMT"
+    },
+    {
+      "title": "4月25日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zQ0ZpR3doNjRFYndYa3FpY0w2TTd2VmF6UmJWQWdPaEZxM19qazBkSEY3NWFCTXdmVlFEQndHRzJoMzVFdXZZb0xNYVN4Wl9wck85NUs2QQ?oc=5",
+      "date": "Fri, 24 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DNktBb1ZqbkpOWFV0M1VTbVlsVzZnTUt4MEdZdkhBSnVESThxS1k3aE1TQXZWcUkyM01NNTAwVkM0VVB5RUNHbE9PM1g4R1RORlZmUXlGejFEYjZrc3NLNWlWSnlCZkQ5aFFfOUNtc2xJN1du0gF0QVVfeXFMT0M2S0FvVmpuSk5YVXQzVVNtWWxXNmdNS3gwR1l2SEFKdURJOHFLWTdoTVNBdlZxSTIzTU01MDBWQzRVUHlFQ0dsT08zWDhHVE5GVmZReUZ6MURiNmtzc0s1aVZKeUJmRDloUV85Q21zbEk3V24?oc=5",
+      "date": "Sat, 25 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数 (2026年4月27日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00N2l1T01USWkyaWx6ZF9kSk1lTzd1Ym1la3pyODBsM1ZZdzdacnFfTG5xYllvLTJqeThISGk1RDFNV1c1b2FPeFgydjBMRkJlVl9nTXdid1VHNEo2LUE?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数 (RKK熊本放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDhyNlY2cVVkTUJqVmx3cGxHZkdlUmpnVUJJWWg0MURjZHlHVzBNeURkb21LUFlmVDdxNVVGY2MzOG1PcnpLeGRTblBNOUc5WkFJOU9hN0VZQ3ZFNXJ5OHpKcGJ2alZFSzF0V3ZUTXlaaXpObFpUdlM5ekVwNlIwWWcwUUJ4WjMtckRRR2pR?oc=5",
+      "date": "Sun, 26 Apr 2026 21:18:13 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "直線道路でトラック同士が正面衝突 86歳の男性が死亡 熊本県八代市の県道 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhS2JzSEhUNUNiOXZZaV9QdjJuRzM2ZmxxejVxMldfN3k3ak5GOG9xaXVJV3ZjYkFHdjMxblJxUnlEeDBuS1FFWUpPbmNrWmFzVXdrNXFuU3Fudw?oc=5",
+      "date": "Sat, 25 Apr 2026 01:02:00 GMT"
+    },
+    {
+      "title": "直線道路でトラック同士が正面衝突 86歳の男性が死亡 熊本県八代市の県道（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbDdqTW9ZVDRLWENFWWFDN08xMVdUSm1TNTlNclpMTFg2OW1FTXozYzJwZ3EtdGFXeWYtb21zOEI4MWwxTE0zSDhrb0FIUWdnajhNWE1ZOC1LQTM2LXhNQi1DSS14TGZfS1JtVW5xR05CUG8tX0hkbmJ3N0dvSWs?oc=5",
+      "date": "Sat, 25 Apr 2026 01:09:24 GMT"
+    },
+    {
+      "title": "熊本市電の追突事故の調査が長期化 速度を超過・付着物の影響は…",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TmRnb3I3ZGpLTkplYTI0c0dkdDdGRkJOV2VoQnViNENyN2d3T1hCTUtFNjNNV01NMFJYTElRSUN5SmJydXFTclRwckZrMldzQ2stU0VR?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "[TKUニュース 26.03.29 12:30 ] 熊本市でバイク同士が出合い頭に衝突 高齢男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpSGZaZ0NGSVNwOGJ1NFZSOHI1NGJMZmtOQm5HdC00LW9qYzVDSzMxTHJGNGF5ZHY1V2I1bDRwVlE4NHktbnhvZFZWQjdvVnlMaWlPbmlCM2ZMQ1l5ajRYWVVQVQ?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "熊本県内 2025年の交通事故死者数は41人 約3割が「道路横断中」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GWkczYW1Zc0NndjRNSUx2ekdxNWltRmoxLWVNVkktVlpNRzlZNzB3VDNMTVA0Y2M0T1ZUM0lrTGdzczRPWUxmUGxJb2tQZjdvajFsT1ZEaw?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

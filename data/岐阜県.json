@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.801125",
+  "generated_at": "2026-04-27T21:05:14.151644",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 15.7,
+    "temp_max": 22.3,
+    "temp_min": 12.9,
+    "precip_prob_max": 100,
+    "precip_sum": 26.4,
+    "wind_speed": 6.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.7,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 13.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 13.0,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 14.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "12:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 19.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【垂井警察署】交通検問の実施",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxY2tqSnhDWWpLMGZHQWNfamVscnMxS1p0ckpCb1hSeHVCVDlJeUFfejBpTEYyMThLWXJORnM2ZkdNSU1JaTYybmxiZWFnWmVkeTFUUElyUTZlRWRYXzhFcFZpamM?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "麻薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
+      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
+    },
+    {
+      "title": "【下呂警察署】交通検問のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1SXd1OHpJTXRnY1kwajctdlRPc3ZQQzNBSzNURG84d3FmanZQSDljMzJQbkoxMVhVakxocGdGMGRyTjI3d05veW9hc2hDbEplc2FjMDB5TGV1RWdHRFNSd0pXMA?oc=5",
+      "date": "Thu, 09 Apr 2026 09:32:52 GMT"
+    },
+    {
+      "title": "飲酒運転・風俗営業・トクリュウの摘発を徹底 岐阜県可児市中心部、可児署が2026年度方針",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OMHZ0OFNOa1JpMUduWFZ5MnhEZFhDUFAzcmhDZ1VQbElSaEFlVFVVX0hhQkdDeHpKUzdCcGlZMnh3eG5paVB5czM3X24xMU90LUR1WA?oc=5",
+      "date": "Thu, 26 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "岐阜県内の交通事故の犠牲者、昨年は55人 過去3番目の少なさ [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYM2lyczV2NGRwVHpCS3BkdG9rYlNSLUdtTmp2M0o2cllhOTJBRnRiS1FMWWJhVjhaUk81S3hseXdkOW5ET0Y0S2kwdVlHWDhYU2hub0VuSExCWUtCYWFoajZoaFFuQTduRmE3Z3h3?oc=5",
+      "date": "Sat, 25 Apr 2026 16:26:38 GMT"
+    },
+    {
+      "title": "【地図で見る】岐阜県内の交通事故多発場所 ワーストは国道１５６号渋滞の交差点",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbUtyUGh1Z1k2Rlc5VG9Eek9hMGNHeHBmZEs4d1d0R3NRWmJZVU1RbHIyLVoyRm41LTVBSWN1eU1OXzhJR2tyWE5XZmF4TlBPWER5UUFB?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "１歳男児、名鉄名古屋本線の回送電車にはねられる…意識不明の重体（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nTlprNG91ZWxuV21XbnJzQnB2bWdtVDVwOWlaMWRaa016MU5KOEtWRlpEY1RyYWdfMnlUUDZsaDItaXo1elpzNW8tNVpDRjRCeEFGQllfNkQ4Q25MQVRDdW44ZUE2anlqTFNPdldxalN6NVVFSk5DTVY2WnZKcFk?oc=5",
+      "date": "Fri, 24 Apr 2026 10:25:48 GMT"
+    },
+    {
+      "title": "国道19号で３台が玉突き事故 岐阜県恵那市、軽乗用車の男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKWUZvTTV6T0QydzFueklBWlJ6azhacDJVMFpjQTBCaEZtalZkTl96cGc3ZGVOMm5sWGctal9yT3NFbUQ2WmlpTU1NNmhEdjh5TkRhNw?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラック運転しながら箸持ってカップラーメン ｢前を見ていません」有料道路で見た“危険” ながらスマホも 新名神6人死亡事故から1か月 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kT1V6Qmtfc2QycmpZWXJNcno4Y3lsT00zcFdzZXlPR09iS0FkNkR5ajZfc3hYcXZPaWktbjI2V05CVkcxLU9RYzlrU2dVMnVoeDI2NGRCYnRVdw?oc=5",
+      "date": "Tue, 21 Apr 2026 11:17:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

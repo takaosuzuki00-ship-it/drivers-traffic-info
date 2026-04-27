@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.896046",
+  "generated_at": "2026-04-27T21:05:44.201580",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 16.7,
+    "temp_max": 21.7,
+    "temp_min": 13.5,
+    "precip_prob_max": 100,
+    "precip_sum": 24.4,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 14.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 13.5,
+        "weather": "曇り",
+        "precip_prob": 90
+      },
+      {
+        "time": "09:00",
+        "temp": 16.0,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "12:00",
+        "temp": 19.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通違反取締強化！（茨木）",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWpTZzRPdmQwbFJfYkNYWGRwOFRHTFVBblJ3RURWT21VQlBXRnVGczVBaVpxbm5rbHJHRlVOQlo1YUQ0a2hBYy1hd1dTbGw1VWFiTjhJUXpKM3I4R0JNS0NxQkZSOU1TNjl1dXJYc1o5bXFSVkJGYzBHUTJVUHJVRkctcUpkRkE1aFd2Z0QwQTJDZXFFWFM2ajdvVkNTTkhrcWxHWENZUGgtSE0?oc=5",
+      "date": "Fri, 05 Sep 2025 07:19:08 GMT"
+    },
+    {
+      "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
+      "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "大阪府警察本部 竹内広行交通部長 危険運転への交通指導取締を強化 二輪車の交通事故防止に重点",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cTEwTXBWdmdSX29WWTZFRjQtUmlvb183TC16akdNRk5zYi1KRk5iQTlTcEowWEprdWZ2TUdmOGJUdTVEUWJXOWJoUG1PeDlvRkE?oc=5",
+      "date": "Fri, 14 Nov 2025 04:25:40 GMT"
+    },
+    {
+      "title": "４０００万円分の薬物を押収 覚醒剤取締法違反疑いで山口組系組員ら２人逮捕 大阪市",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13NmtBaVEtWTJOeTlvejR3dk9DLXBBei1ORTJueUM4cXp0dDZFQ3Zjb25CSmZSMnNuN21uM0NLVFU3NlVCRDY5cHdmMFVIS2xxQjh3OEhXV3ZXbUI0bjRhcC1B?oc=5",
+      "date": "Mon, 20 Apr 2026 11:59:00 GMT"
+    },
+    {
+      "title": "【写真・画像】吉川友梨さん行方不明から２２年 「手がかりを」不明時間に検問 | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nR2V3dXdUYUUtaWJEMG1GYVVCb1k3NUN5WnN5b1hNWV9SdXNvWHMxM0VSXzNWcnVvd1RpT0hNc2R5SGZ0dk9IbHl2LVZ2em9oc1ZldnpVNWVHZ0hrekE?oc=5",
+      "date": "Mon, 13 Apr 2026 17:31:34 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通事故発生状況",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2VsSFFXZWN2UWZwTEUtUFhRWENFTmNzd2cyUzM1UVRGNnJRN2JtRE5LTGs1bmtkM01uc1V0bkhBeDhjWjVUckRWa3hsM0NZS0kxX01RWDlkVG5NcmtVdC1JMTIyX0xEOVdFdTRReWlwOHUzOXNEWkhDbDh3bzhWa2hTdGJsQ25NZTd4Vk9hZ0JXWDVrM2FiekdkTUtQWWY3?oc=5",
+      "date": "Wed, 18 Feb 2026 04:47:44 GMT"
+    },
+    {
+      "title": "大阪の迷子シカ、警察施設に駆け込む 「交通事故誘発恐れ」市と府警捕まえるシカない",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zd1hhd0p3bjhwY3NoN1dxb1FYelROdlNMam5xVFNSYUFidnhkUE5PZWJ6MzhlUHlJSm81ZGQ4ckFabzA4WGphOXB4T2NyUzN6YW9xaGl2UERUa2FyaVVhV19RWHp4Y1pUSmt0cElORVdyY3JBZWc?oc=5",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車と自転車の事故 4歳男児が車の下敷きに…意識不明で搬送 大阪狭山市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52eUJEdjlVZEkyeC1lb2RHTHp1UlJHY1Y4OFBxVmdHRU55elp3WG9ldEZTWG9qTHBFczlWaGdUa3EyWXdFTjFDRWcxX1Y4ZDkzeGxRTV9IQTU3bkFLWFA1NXNRX2xiTFZaVi00T05ON1VFZUxSam1CVFM4Zkl3a1U?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】工場内で男性が屋根から転落して死亡 「意識がない」と通報 54歳の男性作業員か 事故の原因を調査中 大阪・堺市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zeS1mRk5hOHI4Vldnd0RuQ0VpaVlnNVlOTG55dkh0WU0xenZleGJSSUw3ekFUUWttQVZQS1ZLcFlaX0d3YldVeVlYRURyLWdpYktpbDBJSXV2enJSUmFYN20tSmRMbkhoMWQwdnZtMjB6OHFxWDhUczFIMUVLQlU?oc=5",
+      "date": "Sun, 26 Apr 2026 08:52:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大阪府警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.532815",
+  "generated_at": "2026-04-27T21:04:18.091979",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 13.5,
+    "temp_max": 17.8,
+    "temp_min": 12.3,
+    "precip_prob_max": 100,
+    "precip_sum": 32.4,
+    "wind_speed": 2.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 13.4,
+        "weather": "雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "06:00",
+        "temp": 13.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 12.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 16.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 15.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 31
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月26日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YVNDZ1ZNZTEzcGpPbzI5R3QyT0cwMm5BZVZIbjEwTzRybFhVOVl1TTBvU3FsUmplVXN4TzFVM2tYUy1XNUk1QzZqaFd1bncxQm5JLVNCeHNWU3gtYzB6eDVYVFdrOFRYUTZTU1NESdIBdEFVX3lxTE9DNktBb1ZqbkpOWFV0M1VTbVlsVzZnTUt4MEdZdkhBSnVESThxS1k3aE1TQXZWcUkyM01NNTAwVkM0VVB5RUNHbE9PM1g4R1RORlZmUXlGejFEYjZrc3NLNWlWSnlCZkQ5aFFfOUNtc2xJN1du?oc=5",
+      "date": "Sat, 25 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数 (2026年4月27日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00N2l1T01USWkyaWx6ZF9kSk1lTzd1Ym1la3pyODBsM1ZZdzdacnFfTG5xYllvLTJqeThISGk1RDFNV1c1b2FPeFgydjBMRkJlVl9nTXdid1VHNEo2LUE?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月23日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkZVlzeEluTFI1ZTBuX3ZlZjRKblBickdIN0dBaFVxSXBjUTUzUmY1bHBJc05BczV2ekI0QU5ER2xBN2ctdU9ZTHFTQ1o1Z0o4UDRtVWdMY2pWVlBpQzBiNkNsWVU4YzNqQWVHRUJHWdIBdEFVX3lxTE1xdm45RDBTcDBDMTd4c1B1Vy1lS1U3cHVjeTVibUFQbnQzay1VY1BNcWQxaGpRVTg2VUpTVmtqQnExUjRhVThwUFlTYnhzdnZ2VnI4cmtzXzEtSU9Wd0c2bXU4OFF1V0FROEttWUhhM2lDRWVR?oc=5",
+      "date": "Wed, 22 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「息ハァ～ってして……酒気帯びだね」 東京全域“大規模検問”で全乗りもの一網打尽！ でも「クルマは3人だけ」いかにも令和な結果に!?（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfYzhvbFI5WTROd0psdnRQd3hSMXZ6YXZ2eFdMblg2bUY0VUZESXZsMDA5TTNWMHhOT0ZpZml3a3lYNzlyc2FvWWdR?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "ガザ、ラファ検問所を再開 イラン交戦開始後に封鎖",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhb1V0NDBYZHgxRi1Tb1p2UEVTczJVWGdDZGR1TFBQYUtnVjBxb3hYandiU2xZbkEyc3k3Y3BMcVBuNDZxYXR3TlAycXRXMHpHZkVF?oc=5",
+      "date": "Thu, 19 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "東京・港区の交差点でタクシーと自転車が衝突 60代女性が意識不明の重体（FNNプライムオンライン（フジテレビ系））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xdFRsbllKTHJjOEM4TVVDMEUtRDhfeG9lNUxrbndFLU1JUWpxZjEtdDRrbTczNjJyQlQzQ1k1OTN2M3J3eXNGWDB3aVZHY1gyT1IxSzZZNDhfMU5nRFN0cS0yOWgwZjkzdmZmanVFNmpNNVJ2RUtKS21VS1pRSjg?oc=5",
+      "date": "Fri, 24 Apr 2026 05:09:25 GMT"
+    },
+    {
+      "title": "横田基地関係者による飲酒を伴う交通事故について（要請）|1月",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVDU5QnlnSUV6VXNVbEgyakNvbmhZYjZkUHhSUjZNZ3hwQUZhdVlYTmxhQlZGTGpNX1I0OWhQQnZPeTBmN2wydUZPMllQdVhINFVPZm5rNmhZVXVvcjk3OEllanJXcW54ZTV1NHh6LTJHNTB4ejhHRV9ReFhuUQ?oc=5",
+      "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "親子連れに自転車ルール順守呼びかけ 警視総監「悲惨な事故減らす」 [東京都]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hM0cyczFyS3JGSC1Jdnh4Qnk4YWRLMkVFcWtid1lmd2hlMUhTejFSWkxHaXBtUVZzckJMOW5iV1JvZW9NdHdnSEZSRVJDbVNlVGgzRTk1S2hudEhXOTVRYkpETVpKU1U?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東京・赤坂の死傷事故 内閣府公用車、時速130キロで衝突",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QM1h6MVp1X2RlM2w2YkFaSzZ0VEYxMjhMTFhRR1c4eXhrWWlZUDA2ZWRtdVBlanlxVXhHZWZMOENGamN6a2MxYTMwaEJJQi13XzB2Y1Y0TEtUQjVYNkNZTV9yUU81anNvd0YwaQ?oc=5",
+      "date": "Thu, 29 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "2025年中の交通事故死者数は過去最少の2547人、前年比116人減―警察庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNWlSeGxPbkJaSmQ5cHhCU1F3eTJOQkZSRUx6Z1JpaEdFa0tfOGdaUzNta3hKWkdibU51c1BETml3c25IMWd6YkhMSEpiNkRFQXdRSEFvdw?oc=5",
+      "date": "Wed, 14 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

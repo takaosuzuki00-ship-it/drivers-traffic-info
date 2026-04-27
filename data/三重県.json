@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.843939",
+  "generated_at": "2026-04-27T21:05:29.048627",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 16.1,
+    "temp_max": 20.2,
+    "temp_min": 12.8,
+    "precip_prob_max": 100,
+    "precip_sum": 37.7,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.3,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 12.8,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 15.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 19.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "４月２７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbXljVGZUQkFld3VkdDlneFY0SmE2dmd3bDFHYmkzdjRNN1hlX1J5aU1ybDlxUFVMQVdUR0JOSzUwZ3dOR0ZFVTBEd2tIMXRvbkEzRXpINFFCNVVYd2ttOHNIV2xMWjVBZ2haVUNabUd6QdIBd0FVX3lxTE55THdNdGdEYnY2ZHNCVFl3V05nS2U3VWVBaFpWTV9YTm5TRS1lT2dVNDdoT2hKaG9kbWFhdVhETFNDdlNfN3cxUGRyRV9yVlhUNWJjbjV0UFZPRmk4enJaeXBXSVlGamgwOHVDVS1UVjJTZGZMdlow?oc=5",
+      "date": "Sun, 26 Apr 2026 20:07:03 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "４月２５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RUnBPZV93WWhlM2ctYkhvSFVvTnpSRklpc1hYbFJxcW1VclZ5Q2tRQWROUEJ0MmdROHJDaFF2WnR2S2pkRkJFUTRuY0xuM1FOYlNpLXJDUmp6OEtMTEZkZXktNnZzQjE5aTF4bVB1cmh4UdIBd0FVX3lxTE4tYWFlRmhtZHRPd01TZERQUHAwaFJhMHJucXBaNVJrbVdJSFVCUXdJcFAyUU5BN28zWFNKZ19uNkRZNXM4bWZzWU1heTNWRGRrUkE3MGZJWlgzZ2lrQm16NF9TMnZGX1dHaDgzRTR2ZWthay1oSW44?oc=5",
+      "date": "Fri, 24 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
+      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "４月２４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pUmMxclU3cE1ocTFVQjVncTY3MXdSbnkya3kzdjRoMnRPcFZwcnpXM1R4YVJ5eTJObm9seG01X0FwdmpGR1BucUFRVW8yQXVSZzdlenBTTVQxb1cyb2VabGY4YV9GWWtndXBKOFF3NUFfUdIBd0FVX3lxTFBPWWtJTkFUNnliX29pcUFhYmlaOGNLLVN2OVdCcXF2QVNmWkYyeWtCOEVDT3F3TFZhaVdweUNDeXNQVkpzdDJqWWlNQjN3T2tpdmRLWjl4cHRIN1B4aElMdHRuLTg4a1QtOWJ3Y3dkWkJhWWJkV3p3?oc=5",
+      "date": "Thu, 23 Apr 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "スマホ見ながら８２キロでトラック運転、ブレーキは９ｍ手前…６人死亡事故の女を起訴",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oaUZvbHJrMXF0c0FNc19YWkNqWktkUlRYd0EyMFQ0SW9lMjl1bXcwQjVVMnZpd2RRQjNnUlpnYmtIQV8wNnRVY2dmREZwNzV5Mlh0NnJmUmgxNmNLbzBYWmVFTVByZw?oc=5",
+      "date": "Thu, 09 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡事故2件、強い危機感 春の交安運動中、三重・松阪署管内（夕刊三重）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VVDVyWC1TNldhMFJWVUNabFA2emdidWkxLTFNeFBaNHNEdlBPYUJlQTcxdGU0Zlh4MDZBMWJqUklNN3pjemZpT2JqbHpWNHFRNURzam9KcTlSeVUxRGcybS02N0Q3OWJ2V1UtZGRsVmZqanJBQU8yTDRWRk9CaEU?oc=5",
+      "date": "Sun, 26 Apr 2026 01:01:59 GMT"
+    },
+    {
+      "title": "新名神高速のトンネル、多重事故で計6人死亡 3人は子どもか 三重 [三重県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kX3Vlc01DYW9vbkhKaVlNckxPdmNFVUhVT0tnWUVMUVlXd1YwZExtekxuNlBxbnpzaFM2SmI2MnFwQTRLUDVCTk8yMWtUbG0wN1BtNFBIWldtZ2gyRW9FX3Fab1ZqZzA?oc=5",
+      "date": "Fri, 20 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "三重県桑名市で交通事故 軽乗用車が車線はみ出し正面衝突、75歳男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80S0I1ZTBKZ2wzN3A5alRLVHhoTjVDMGhQZDBDMGZ6dTdOVXpTczJucTdtMUNUN05Fc1J3VTlhLXFqRDhzN3dhZ3NvWC1XZ2pLUUxCVw?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転で赤信号無視か　三重・松阪市の交通死亡事故　津市の22歳会社員の男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ialF5YzNTUk9PNWVBUnZiV2dqS0I4NXU5T1dEamIyOTJMdzVabHUxVGRwTUJjU0ZkQVZockpzdzhuMGxFQndtTW1QamdvUTBrYXfSAWRBVV95cUxQOEhOVHB2SFlNcHpabm93am9LTmlfT0VWN3RjaHFuQTBHOHlqdlA5cGVvR1E2Vmg2bjNEcUdrdVB4dVZ3eV9kSFQ1VDA5b2FETWRwTGhseXVUMUxiR21OZ0FMMmIy?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "三重県警察 公式サイトを検索",

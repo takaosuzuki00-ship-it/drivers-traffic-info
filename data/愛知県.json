@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.829631",
+  "generated_at": "2026-04-27T21:05:24.430196",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 16.2,
+    "temp_max": 22.4,
+    "temp_min": 13.1,
+    "precip_prob_max": 100,
+    "precip_sum": 24.7,
+    "wind_speed": 6.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 13.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 13.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 13.9,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 19.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xa3FYcmFLWGZCTVVrR1pBMFE1cU01TnM1QU85Tld0YmJsdk5uMHcySlhyb1l3OEMxSXFTb3F1Wlo3VURMZWdKZWdMaHVJeXluN0p6UmlvaF9pQ3Q0aEVnbXk5Q0xqck9GbEhNRUczY9IBdEFVX3lxTE1ObUJ0a1NvODNnWjM3UzdSZDlBNlJ5XzdzaHBIMU1EZTQyM056Um5HYmRISGdvOGM3QmNwWFk0WC1FMlhOSWE3X0k5SE9GWmFWNVp2aDdTTlFuek5ZZE1tZnI3VlZwcmJQTWZIdlNXYmxIVEx3?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "捜査員約8300人態勢で選挙違反に目を光らせる 参院選に向け「取締本部」を設置 愛知県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSXMxaGpTT2JITk54M0JPYXNlTVNQLVpMRG1PVnNodjVZUmdVdzlGRm9oZkE1bG1XckZFbFNsN2gtdDllaVF3a2dZVWo2MHFKOVlPT3BYNnNkWkZtTEYtcjhuNVNMc1U?oc=5",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警察官がウェアラブルカメラ活用テスト 交通取締の証拠保全などに",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0c2tacEpxUDV3TnZ4dURUc0N3cm42QWVDZmVBVndGRTRuc1R0cEFJWDhMdlNPSUU4QjJ0SE5jejFpVWhsNnZFbzR0QTRkaWsyWF9rTnQ1NXZyaHRwVUQwbzR0TDRPTjBaMkhsdA?oc=5",
+      "date": "Fri, 25 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "愛知県８警察署 合同検問を実施：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWHYyemZrX2NxWGJlNl9VMVdsNEJjd2tFcXhmdmZCdG9xM2lORm1fTGZyQndNOE1BRXBPRVlpbDBpRmFTN0VPbXQzN01lRmRCTnJDOUU1SDBramxMMUg4MERtSTNhNDFuRi1zbFZSNHM?oc=5",
+      "date": "Tue, 05 Aug 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "新学期に増える傾向　「交通事故」と「不審者」に注意　子どもが巻き込まれない対策",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJMGxvWGxOeERNemx3VTRvOWNJb09ZckNXaldwSHhNTUkzREJyQjlHQ2N0RHJSNDdOaldHUXgzS3RuUF9nU0VXdlo0OVNZNkoyM1BCaGg4UmdKTHhBbjdXa2p3RHTSAWRBVV95cUxQSTBsb1hsTnhETXpsd1U0bzljSW9PWXJDV2pXcEh4TU1JM0RCckI5R0NjdERyUjQ3TmpXR1F4M0t0blBfZ1NFV3ZaNDlTWTZKMjNQQmhoOFJnSkx4QW43V2tqd0R0?oc=5",
+      "date": "Mon, 27 Apr 2026 08:01:00 GMT"
+    },
+    {
+      "title": "GWは交通事故に注意 無理な割り込みや進路変更で事故も ドライバーらに車間距離を保った運転を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQenFTVnNwaE5LcUJMUG9wa2d3MnlvTENFeXJuY2phendMeHJPRXRodGo3cXBsakpyRHAxMWk1dS1hUlc1T0R0N1FhS2xRR1F4bkZXTjZwOHVpM2VERU16SkRsWWJORm1MTUtxVzNmakh2ZjRobnBSQjVsa3RJUW9pdkgzMHY3ZFA0YVA1NHRsR0l1dl9IM1RzeW43d19QWjd0cjJnSzhBeHJGb1lfZXRfbjk3R3FJYUJLMmFvN0FmMWRiUmNxME1pN0VQaHR2V2t0WGFaV0JmUlpnQ1hSaGc0?oc=5",
+      "date": "Mon, 27 Apr 2026 09:57:00 GMT"
+    },
+    {
+      "title": "夫「妻と娘にあわせる顔ない」妊婦死亡、生まれてきた娘は重い障害 愛知の死亡事故で検察が禁錮3年を求刑",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Qkc2Z1RjNUpuMWlONnZKSzNDdm5HdzhoUFFYdUwyTkZsd1BMYkdBWEt0RWRfN2hCcmp3QnQ0aTd2UmpvVXc1TVhRSnJaMHZQRnp6ZGVrQVRjeWZjVmlKTEZGMjFhaDdCNnVQODl5U0tyM1BOUElDaWhtakRJZkE?oc=5",
+      "date": "Wed, 22 Apr 2026 07:38:01 GMT"
+    },
+    {
+      "title": "愛知 ことしの交通事故死亡者43人で“全国ワースト” ｢自転車の青切符｣などルール徹底呼びかけ ｢春の全国交通安全運動｣",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkb0J2LUg4bWk3Z3VtOWU2VTlMdzdsNDhIR3A5LWw3cFZxdXg0QXFCekJuSW1raGRJVGxvcHFRMlpTc1YyZVdTTXN0WnN5Q2diYzVYWnJCdDNYZw?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
+      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",

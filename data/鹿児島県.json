@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:46.154902",
+  "generated_at": "2026-04-27T21:07:52.955740",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 18.0,
+    "temp_max": 22.4,
+    "temp_min": 15.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月１９日（木）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pUHgwbnhvR2RQNUYwbDNldnJweVNjQklVQkVPUTNVNjk0NGdLanVUNU5MUm9sS0JkbGFUTkhTdXI2bnBrQXVZQWlmR3hxU25BYjNrbzJuZVFYUHV3N3ktU0pwbldCZjg?oc=5",
+      "date": "Thu, 19 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月０６日（月）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4MnJpSTVreC1na3hWQ0w2Y0ZrNTJHbk9MNERNRHF3NmVyTUtxRVZfVGY1R3hUNEhsNzIxejNqeU5NSFVSeTRHdlJFRDFEb3hZVzRxdXpBNEhNZGxWMC1YR0cyUWY5a0k?oc=5",
+      "date": "Mon, 06 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月１０日（火）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEMVRFaWVwYm1SLV9tbF9UVDFzYlF4U0ZvZFo2T0FiaVhSWEFvYjJvT01kQTJzREU2ajJTaGZ1QkdLdC1UcWNINWEwLTFQZGhGVjNPaUJwdW54UmdvQW94Q2JWYUNLTEU?oc=5",
+      "date": "Tue, 10 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／6月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IRkpVQmdpeF9JcE9vMTY0bzBMSWM4ZnBPQjRhSE45ZXNTWlBnWUhkRkptMVA4Y1czdkxhcmQ0bXdXRUVwTTc2VVhPN1VBSnBTMHFWag?oc=5",
+      "date": "Tue, 03 Jun 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "鹿児島空港近くの国道504号 事故で通行止め 霧島市隼人町",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iWEROTWFDelZfZmhHaVUtZGI3Y3dmbXFZc0VRejBWSHBCTU5zNmNvOGlmMzRPNEJGd2ZRdjlJR1VUdGllMlFCUl9MOXk0VkxZM3BqTjVPcw?oc=5",
+      "date": "Mon, 27 Apr 2026 04:59:00 GMT"
+    },
+    {
+      "title": "鹿児島空港近くの国道504号 交通規制解除 車3台が絡む事故で一時通行止め（MBC南日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYV3hUMHpwUXkxeUY2c0NiWjBpdURWcFRWTk9aWHMwRUhpTkRZYWczNUF2Q2tsSUxzWEgtVHN1NjZFNE14NWQ0WUltMjR0YXFlYjN1ZzI5a2FYaU5oTE5PZnZ3bVBXTXJJR0pIamJYMzE0UkxtRERobEVqYzZMbmc?oc=5",
+      "date": "Mon, 27 Apr 2026 06:29:13 GMT"
+    },
+    {
+      "title": "軽乗用車が民家の塀に衝突 男性（70）が意識不明の重体 鹿児島市郡元の市道 「路上に出た後…」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT3c3X1BBWTNCR09pTlRteHpZd1U4VGpINmdWcjVYQ2tBanlXZVJZSWtYajk5eTNmN1pLbEtneTFDcU9qSDZ6MFZybk1BMWthOXpqYUhfTHpCT2xpNHdPR3RGUEUzS3gtWEdFYnQ4ZFJrLTBSYUpvNEJLd1EtdWJZT2hoZWVoZnc?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "鹿児島空港近くの国道504号　交通規制解除　車3台が絡む事故で一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uWTlSeE14a0tNWS1wQkJXRnh5eFlBbVM1c1lJUGNDaE5rNHg4c1U2THNVNDVtb3JkbFhrN1VxNGVLZWxKdFgtR3B3ZjY3SzJnUTJza1c5b0RLZmxFUUFzZjFPY3M3OFBKdkRwdU1Zc9IBdEFVX3lxTFAwd0FCSDhnQ1VMTkJzSm10ZXR3NHVYMUVhX1lTb2ZScEZYZHZCbUg2SFJkeDg2QnNhZE1ZN1VhN0xFT0xfbnA0WHNvZUg4NnB3NFlPYTdwVklLZlpKdVJwNnBwWHZfTElzNUg0aGEtWjRnSmdE?oc=5",
+      "date": "Mon, 27 Apr 2026 06:27:00 GMT"
+    },
+    {
+      "title": "令和8年度「交通事故ゼロを目指す交通安全県民運動」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2c2V1EtODVvUGNidHhBTkF3WEVyLTFTU0JMZmdJUmlFWkhRMHdoWE0tLU9VNkg0Z01SRzYwc3JpVURxb2lGNUU3OXB0SHFMSElHc19neEY2b05kSnZFQ3g5X3dLbGdDNC01ZFZaNzh1TUtLV2lvTVk4OFZMejRVX1Y1dm9iaUNVYjl3SjlyM00xUXZ3emJwYzluUHVxNXhUay1mdER3?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",

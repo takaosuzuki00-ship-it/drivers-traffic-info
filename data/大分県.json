@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:46.130293",
+  "generated_at": "2026-04-27T21:07:26.534083",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.9,
+    "temp_max": 20.5,
+    "temp_min": 14.4,
+    "precip_prob_max": 80,
+    "precip_sum": 0,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
+        "time": "03:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 6
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "ガザ、ラファ検問所を再開 - oita",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWGpKUVRrRWNwTWQ3TlJ4bXgzYnIzLUtWaVFIbnhLSHlsWXVMbWt6T1pCekhfNFhEMXk1MjVJaDQ1UkRyX0VBUEtPM0JsTERVamFDWjNZdGE2UFFWLWM3b1JpNEVTWHV4bHNpY0JKSGpEVzFmQVgtbdIBhAFBVV95cUxPZ3BKeEVuRGZkWVF4d2dQRlE2UWk1S3g1bEJRR2hCRXlLSTVPMkpUbXNmYnllb1NsS3hwOWV5WWItYzFidVhZNVlYQmZXelMwaTJxNk5RVUNKZWp0blUyVzU5cFVkWVVCaWJuM29uenZjdDM1MEY2V1drMVUwMHB3eFNYMWQ?oc=5",
+      "date": "Thu, 19 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ガザ南部検問所、限定再開 - oita",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMzdzY1lOYUUzNllUM0x4Rk40Y3NfYVppXzhuaXZEVHkzc1VjdHA3dnlqYkQ5MkFXMVFPdnNGVEpZZWs2S3dXQ05jelQxWVc4X250REtnMkhfNTJVRV9uR1V2RnZLUXhYX21EcnFfV2RFaHRSME5HbtIBhAFBVV95cUxONjJXZzRiMTVVR0dYUXAzdUVKa3g4MGViR2JqVEZrRTN6ZWVqcE9lRjJmRHJqVnp0RmxzQmtKOGlVSTR4cGUzdW5NeWdLazVuR21faDcwUERIcEk3a0Y5RWt3aGhic3RfZDM2WW5wc1BROWplbThKc054blVNRGdRa0FqQW8?oc=5",
+      "date": "Sun, 01 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "大規模飲酒検問を実施 ドライバー200人超の呼気確認 5件摘発 大分県警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMi1aQTIzUDJGUXlrdUpud0l3T3F4VkhJTnJGUG9ZZHRzaHVITmFkMmVuZDhmdXFzcXg3SUdveFNzdEhPbjYwMDVVLVVGYUlRcG83TlZlQnRrQQ?oc=5",
+      "date": "Sat, 13 Sep 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "大分県内の昨年の交通事故 人身事故は減少、死者数は13人増加 [大分県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDU1BEaWdTN2czbGRFeUtRekxxSVVkNXZUbjh5bTZMV1diQnlBTkFsN0lHSXg4YVdXb2FlY3gzc0J4TVIxU3pnUjVESFVlc2R0RWRMc09Pc1h1UUIxdVB1d2pWd0J4QXM?oc=5",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "大分県内25年の交通事故死者、前年上回る41人　増加は20年以来、65歳以上が６割 - oita",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XeDlaUUpNeWpwS09LMUI2RGExMjhMX2dLbTh6c05PVmJVWk1xOVVnNWQzX0J4bWFOSWlMVDczc0RKSmYyZWVmYUtWeTB1S3NSTlVwUm1OdWRhTjNXM3VaSllmUDdocXpQYVM5WVkyT2hfaWxvd2fSAYIBQVVfeXFMTlFCNVpKUV9xcnQtWHFSZXZwRkg4aVpVZk9lUlNSMTdHWWNpdUFTTlJjWVBtOUJPS21hY1dzYWFMcTRzQkJmaWp5MGluYkNDNDVLR25hZzVBYmJuZUtDd0NValFOcnYzQ3Q2bGVwLVZsc3lEX3pfYzBWMjlVZWNxMmhtUQ?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "戦車事故、死亡隊員は１階級の特別昇任 - oita",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96U281SWNPUTB0bWJFdnJWZXN5NUJtUTBrN2h4UVhZd0phOFd2UW9wWGo5TmY4VmxRek5hZHJhMXROblNzcDdRWHdMQlJ3cVNGT2pfVHN2bnBGbFMtTml5OEcyWmlidEZzM2gwSzZqUWJhcm03V1duetIBhAFBVV95cUxPTjdnbjhJQVo2TnlDeXBKeWhIUVViRnVfRzVXTUhDMkM1V3o3VUpHOVZUUE4tQWUxMVdlYVMtMUtONWx1U0V3aTViQnBTTDhnWHJ6dzlKcHc4VXBQZUpGalV6eVdLVFdKdUlrbEZDaGlFZXR5d3pmZm4tbDRHc0lwZjhqX0E?oc=5",
+      "date": "Mon, 27 Apr 2026 08:42:13 GMT"
+    },
+    {
+      "title": "車が海に転落 71歳男性が死亡 大分市日吉原公共埠頭（OBS大分放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42NkRuVXRvRzdITDVNaEg2LS1JRTI0RTg4dTVTUmpnemlnaGFWWmQ2NHNnTXp0TnNPX1ZZaC1pc1lEUFZKLXVJRkRvZTNVZmlWZ191NTNQeUdfQ1hUU05ObUphLW9wTmVRNjlzSVhhZVhLQS12eGgyN1BqTlBkLXc?oc=5",
+      "date": "Mon, 27 Apr 2026 03:14:14 GMT"
+    },
+    {
+      "title": "陸自、3人死亡戦車事故で葬送式 小泉防衛相も参列し献花、大分・玖珠駐屯地",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QZ1FxSGhqWEJxa2thZWk3TXU2ZkVzM1kxamxDN1Zpa2dDX1dRcDBPVXF6R0pxZHRkUmI5SEtjb2xONnYzTnF3UDRlLWdhbTdPay15aGdsMmllS0xBTl95LWsyQXA0emdac2lJQVNkeWdFNzJ2UWc?oc=5",
+      "date": "Sun, 26 Apr 2026 06:54:23 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",

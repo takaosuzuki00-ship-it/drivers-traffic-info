@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.983499",
+  "generated_at": "2026-04-27T21:06:12.329109",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 18.0,
+    "temp_max": 21.4,
+    "temp_min": 13.9,
+    "precip_prob_max": 100,
+    "precip_sum": 9.4,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 14.2,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 14.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      },
+      {
+        "time": "09:00",
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 18.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月27日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMTk2d3BkcTNadURNSEktMXM3dFA4eENGT3hkUUc4c1dYaG8xb0MwdjJ5RjJVTHpqakNUYi1xS0RuZnZ2VThNaldvS2Z6aEVXWlpGSlhGREpwMERxVXVtRmxLNmlqMDhfLURYV1RFNNIBdEFVX3lxTE10SnR2dW5HUVh3bDM0NG9vVFVIaU5vRUlDUWpGaUZGRGxQUUN6dE16YnJUYTIzQk5QaG1MYnYwM0ZMOGZmQkpUWUdrakh1a0lzRTVkM0NYdHJpU2EyMFh1a09PVmh4VkdkSFRjbUlqbmJkMzFP?oc=5",
+      "date": "Sun, 26 Apr 2026 20:12:53 GMT"
+    },
+    {
+      "title": "４月２７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbXljVGZUQkFld3VkdDlneFY0SmE2dmd3bDFHYmkzdjRNN1hlX1J5aU1ybDlxUFVMQVdUR0JOSzUwZ3dOR0ZFVTBEd2tIMXRvbkEzRXpINFFCNVVYd2ttOHNIV2xMWjVBZ2haVUNabUd6QdIBd0FVX3lxTE55THdNdGdEYnY2ZHNCVFl3V05nS2U3VWVBaFpWTV9YTm5TRS1lT2dVNDdoT2hKaG9kbWFhdVhETFNDdlNfN3cxUGRyRV9yVlhUNWJjbjV0UFZPRmk4enJaeXBXSVlGamgwOHVDVS1UVjJTZGZMdlow?oc=5",
+      "date": "Sun, 26 Apr 2026 20:07:03 GMT"
+    },
+    {
+      "title": "衆院選 選挙違反取締本部を設置 選挙違反に目を光らせる 岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13STJrbXViX1V1ZUZSQlVid3NHZkt3T3cwZFBhYW4zNzdEQjJyRkN2RHI3VGFlSnc4SFJoWTRwaHhMUUFzU1g3bVY1NjdtUk5OaHc?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "4月25日（土）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NNE5wbXMzLVNWYUpidUJPamdzTkxWVmdYa21ibllFc3ZEc2xhczJobndVSlFGeGM5ckQ5eElUZ3FvcWlzZUFpUXBRTDhRQ29DUHh0a3lCc1JJdWdHT2ZYNklpTXZfRXRrN2V6cmlRSdIBdEFVX3lxTE9UcUlCWWg4V01Qb0oxazVhMlMwdjJSX1JXZXNKamhCUHEyNWpXWmdCSExzQ1RGb2F0WFJ3SDVsUE4xUlBia2N3cC1ic0c0Nngxb2lKSW81d1I4MFJqa3RtMEk4cExUY0ZUVkY0dWpFLUVNOFcy?oc=5",
+      "date": "Fri, 24 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN2pNVURNU05OeTZjQnVpR1kwX3BmbklGTk9aa2FodG1Mcmt2ZkZSWF9GWWFSQmhZLUNJQlFfSFloODkzX0FPZFlQUVR5YnNU?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「出会頭の人身事故」多発交差点はどこ?「自転車が関係する人身事故」もっとも多い交差点は?【岡山県警】（RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bzFXZ2I2d3Vnc1ZEd0FCV1NuLUNheEw0Nk85NmtHOTRUc3VwU2U1MmdLWHc2c3hJY1RJakVNcGxzenVWc0tlZVppQjBCTEtkYWFtLTRXd3Nmb1ZBbEZ2VnN6QzUwaFFKQUZxQnlPQjhYalJOX2Nvb1VvclVTRVE?oc=5",
+      "date": "Fri, 24 Apr 2026 05:10:21 GMT"
+    },
+    {
+      "title": "【速報】岡山市北区内山下の市道で軽自動車と自転車の衝突事故 自転車に乗っていた71歳女性が重体（RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kblF3ZjhQam1oVFBCcy1pZDRXbnpYU20tM3prOUFwQTJpRnhmaTE4NzdiREc2d2dtQ0JrZGZydXlmQS1lNkJQNlVmSlZCTXAydnVMMXE2TzJNMTRmMm1MSHhRZWRiQ1hpRk9hbmRHb04wWFlDWUh0SDZkX1E2cjA?oc=5",
+      "date": "Sat, 25 Apr 2026 03:25:25 GMT"
+    },
+    {
+      "title": "事故防ぐ夜光反射材の着用を 相次ぐ事故受け岡山西署 スーパーで啓発",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERlVDQ3lwSkZYTWQzUmFfOXVLMVNhR1p5OVVoS2JZVTVZMXZJbUhKMklxYVhXY1c1R3ZtOE1Tdm1tZ29OX2RRZVQ4WE1pMlppV1E?oc=5",
+      "date": "Fri, 24 Apr 2026 06:42:48 GMT"
+    },
+    {
+      "title": "【速報】岡山市北区内山下の市道で軽自動車と自転車の衝突事故 自転車に乗っていた71歳女性が重体",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UekR3T2ZhZW1zY0tNenVRX1AydlAwUWV6aWJqVEVLSVhPa2FmdXZDLWFqVTlwSHY5emdlX0J4RkpTUERBT2FQMkxZWTMxMHZId3djbjI1OA?oc=5",
+      "date": "Sat, 25 Apr 2026 03:09:00 GMT"
+    },
+    {
+      "title": "夜間はハイビーム使って 岡山南署 死亡事故受け啓発活動",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINTIzMUpwaTIyNEV2bWhpWFlPckhEdVR3NVVsMXprWVdKQTdZVGhESGFkdUYyYVdmZWVfSDkta25Ha2l6OElGU25QUEZoeFQ2OGZuQllGWldDcU5TX0dVck9jMGJORGlQYUFVam05Yw?oc=5",
+      "date": "Sat, 25 Apr 2026 04:45:16 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

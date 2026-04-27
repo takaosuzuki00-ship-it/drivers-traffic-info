@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:45.870769",
+  "generated_at": "2026-04-27T21:05:39.286534",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 15.6,
+    "temp_max": 20.8,
+    "temp_min": 13.1,
+    "precip_prob_max": 100,
+    "precip_sum": 20.2,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 13.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 13.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 14.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 20.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4QWctUUh2QVNKOEtXS1ZUVV9ONEpHWlpIbGQyN0w3cjZBbWxyY0plWW5MLVNjS0ZqOUtPYWdNdVNMVHFpZ3FFRDFIZW1oSVpXWHhUR3R5TjNudGdsRk5JQzVHUDRZYzg?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月23日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkZVlzeEluTFI1ZTBuX3ZlZjRKblBickdIN0dBaFVxSXBjUTUzUmY1bHBJc05BczV2ekI0QU5ER2xBN2ctdU9ZTHFTQ1o1Z0o4UDRtVWdMY2pWVlBpQzBiNkNsWVU4YzNqQWVHRUJHWdIBdEFVX3lxTE1xdm45RDBTcDBDMTd4c1B1Vy1lS1U3cHVjeTVibUFQbnQzay1VY1BNcWQxaGpRVTg2VUpTVmtqQnExUjRhVThwUFlTYnhzdnZ2VnI4cmtzXzEtSU9Wd0c2bXU4OFF1V0FROEttWUhhM2lDRWVR?oc=5",
+      "date": "Wed, 22 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月19日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CeHhuaGpsRXlFeGdFeXhaVGplQy1hbkVEYTM4eURua3ZHU1V6N1BPQmEyYmRvRndkaGNRd1NfTEtvMXRUTldOaUc4bk1IMmNiWEF0M1VCaVBOb3JkSXZUZFNJUTBNSmc?oc=5",
+      "date": "Sat, 18 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "イスラエル・パレスチナ：ラファ検問所、再開へ ガザ南端 きょうから、人のみ可",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83RjlTaEpZU3dGTmRvUVBXMjFTbTRIVFhjeE5kd2NfaWFuSHVyZVdObFAtVXFiMUNEaERYWnRZazdLWGhTNk9OT1NUOUQyaTYxMndXOW94Y19sb1lpT2oxcElUU0FkLTh6?oc=5",
+      "date": "Sun, 01 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "ずっとわすれないよ大すき〉横断歩道を渡っていた小3女児死亡事故 20歳容疑者の“重大な落ち度”（FRIDAY",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPLVRzR3N1dl9IUmFuVll6aGVtcVJWVlU1S0VYZEpLU0lfQ3J2QmNIS3ptckdBNExBbFNnWTZ6dGdtNmUyNWUyV1BINEdMUm5Pbmt4dlNPYkpVdUw4TEptemQxN1JtLTlmUW5iZFBscGYzbG1jTzBlWkprNm1peFk?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "横浜・神奈川区の京急線踏切で男性ひかれ死亡 ２万６８００人に影響",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Q19nTVJnN0FPdlBDMTJtVVNFWXZ6ZDZSUzUwbEdxeE5RQWloNUlybFlNclUzc0dTOTdMU3BpelkxV3ZzV1RueG5IMExPY3Q5YUxqZnNacVlQMV93d0VYaUtHVWdYam1Yb0htSTZn?oc=5",
+      "date": "Tue, 24 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "『立春』のきょうも雪による死亡事故「男性が除雪機に足を挟まれる」新潟県内の死者は昨シーズンと並ぶ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbjJ0c3JDREYwbnZmTmZ6cDFjcWEybnpFYXlqNUxjMkhoYnZ4VkNvMTR6OUdCTldyczVyaTlXMEhLTVREbmlBZTh1TGwwbDZ0Nm5KU2FsMA?oc=5",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "京奈和自動車道に徒歩で侵入しはねられたか 京都・精華町で42歳会社員の男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DOGtRT1QxbVZqTTdQSVJrWlY2S0VhendkaW5nODBxbXdjcDUySkt5aTFYZUhoM2pYUjR2NTg0WmVkM3hxM2ZmNG5NeTlOUlJnMEU0RTktc0kwSl9vY09QdDhGa2tlQWNlSkh1YmFIejlHUFNIRlE?oc=5",
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "国道８号親子死亡事故 容疑者を現場に立たせ実況見分 きょう未明（2026年3月20日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYWRvNDdlekVDU2c3THNHVllHWWd4RHZkZm1Rb250U0NxRDhnQzVfRkU5T18xX0hyQjRpNWwwZjlGb1BOOWRtQU1seGFhY2lOVzR2d2JXNm04NS0tRGJfRDkyX2NWZDNIcEhIX0doeUlMazgwRkZlSWRzQXRidEk?oc=5",
+      "date": "Fri, 20 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",

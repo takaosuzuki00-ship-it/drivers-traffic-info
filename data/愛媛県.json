@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-27T18:05:46.044165",
+  "generated_at": "2026-04-27T21:06:37.106228",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 17.4,
+    "temp_max": 21.9,
+    "temp_min": 14.2,
+    "precip_prob_max": 100,
+    "precip_sum": 0.9,
+    "wind_speed": 5.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 14.4,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 14.2,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大洲市長選の違反取締本部設置 大洲署",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nckUzLWhKZkNoVWdRRVl3OElJSW5ZYWs4T1RaTHhXdUpGY213cVFOZ25KaFo3MkJLQk9jYllYOTkxclN2UnVhbWN6bGt1NmJXcmNzU1hkNF93Y3hoeENJYw?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転取り締まりへ自転車の検問・職質強化 12月、愛媛県警",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94LWE1dEVGbGs3dmpiTzBmeFJFcS1ISmtEMXZJMDI2Ui14dnB4U29lTGFyWmMxZENtUDFEaXlNSXZPcjBQdlEtNmViOW1TZHhyVnFoUklBMmpCUDR0cF9LUg?oc=5",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "「自転車も飲酒運転はいけない」 管内で去年の1.7倍にあたる54件の飲酒運転を摘発 ロープウェイ街では飲酒検問も 愛媛",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFA1R1AyYUo3NDl2TGZfM3RobG8temFibnloREdEZ0NRUkZhVlc0RG9qRmtjOTNUV2N5UHgtbFdGbUQtVG1McWtEYWxCNXVXLXoyOGdEelJvZw?oc=5",
+      "date": "Fri, 16 May 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "春の全国交通安全運動 交通事故件数は統計史上３番目の少なさ【愛媛】 (南海放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVBMcWwwRjVLOFdtNkNDYW9XSUpKR0cwbFhQaGJJd0VUZEtwOElEMlFKQ1Bpald5Qmpfck10OV9vUTZrNVFibGlkbjJvU25kZG1QWUJ5WVQtUEFEM21EWEdycmwwN1pXUndnUHFOMmREa0M3eUJ4d0JkREx5cWFfcjMySHp0YmNjYktSMHZn?oc=5",
+      "date": "Sun, 26 Apr 2026 04:32:01 GMT"
+    },
+    {
+      "title": "愛媛 春の交通安全運動中の事故３９件 過去３番目の少なさ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11dWUzaHRpZlotOHk0MmMzNXpWQ09oNzRlMUdmNE50cUFSdU85aFVvb2dCRGR0Q0F0ZDM0V3Jzb0xRWjhUY01admV5U1c2YVBycWlTUXh5Z00?oc=5",
+      "date": "Fri, 24 Apr 2026 02:10:00 GMT"
+    },
+    {
+      "title": "来日客の交通事故を減らそう 愛媛県警、空港で多言語チラシ配り啓発 [愛媛県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3WkZ0YTZOMEZ5Tm9GUDNnazRLeGhuZjV1OS11Q1gwMHZ6Vk5pdUJweHJWcFh4bHpNaXV1UWNLbGNyTHRhRFNDYVFIcnVFQllfNHJ2SndQNHBMWXdLZGFjNFBqVXoxUXM?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宇和島の街路灯で意識失いハーネスで宙づり 修理の男性死亡「応援来て欲しい」同僚が発見【愛媛】 （テレビ愛媛）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNnRmWm1tXzlpQWI5RDNyNnA1d3A5RGY0SXEzTHYtMndRV1BJYkY5M1RBZ0RHcnpKeUl0Z1FUV3gxWDhQN1Q4NHRTX2dhQnZrN2tMTk1GODhQWGlXS29lX21TSWx1MnBjTDVPbmRHaElSaFR4YzRPdUY1cjJ2LTA?oc=5",
+      "date": "Fri, 24 Apr 2026 02:39:01 GMT"
+    },
+    {
+      "title": "街路灯に宙づり状態で発見…修繕作業中の59歳男性死亡 愛媛･宇和島市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jR0laRTYxTmFwWGthYkh5aDJNcUNZdzF3amxQb1BaaGlqU2FyXzFYTktYVXVIMlpDQ1VlZ2FlekQ2aGpNYkJuWXhUWnpGUVREaGExVi0zWQ?oc=5",
+      "date": "Fri, 24 Apr 2026 03:47:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛媛県警察 公式サイトを検索",
