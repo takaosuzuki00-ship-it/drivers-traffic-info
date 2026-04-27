@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-04-28T03:08:58.689292",
+  "generated_at": "2026-04-28T06:13:36.813884",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 16.7,
+    "temp_max": 27.0,
+    "temp_min": 16.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 10.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
