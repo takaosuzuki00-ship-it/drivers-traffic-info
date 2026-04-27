@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-28T00:07:52.528097",
+  "generated_at": "2026-04-28T03:08:31.799171",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 16.5,
-    "temp_max": 18.3,
-    "temp_min": 14.8,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 15.5,
+    "temp_max": 18.5,
+    "temp_min": 14.6,
     "precip_prob_max": 4,
     "precip_sum": 0,
-    "wind_speed": 5.4,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
@@ -21,45 +21,45 @@
       },
       {
         "time": "03:00",
-        "temp": 15.6,
+        "temp": 15.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.9,
-        "weather": "快晴",
+        "temp": 14.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 16.7,
-        "weather": "晴れ時々曇",
+        "temp": 16.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 18.1,
+        "temp": 18.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 17.8,
+        "temp": 17.7,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "18:00",
         "temp": 17.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 17.0,
+        "temp": 17.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       }
     ]
   },
