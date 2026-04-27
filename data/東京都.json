@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-04-27T21:04:18.091979",
+  "generated_at": "2026-04-28T00:04:17.176885",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 13.5,
-    "temp_max": 17.8,
-    "temp_min": 12.3,
-    "precip_prob_max": 100,
-    "precip_sum": 32.4,
-    "wind_speed": 2.4,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 11.4,
+    "temp_max": 22.7,
+    "temp_min": 10.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.4,
-        "weather": "雨",
-        "precip_prob": 78
+        "temp": 10.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.4,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 12.0,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 12.3,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.8,
+        "temp": 22.3,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 16.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 55
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 15.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 96
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 13.5,
-        "weather": "快晴",
-        "precip_prob": 31
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
