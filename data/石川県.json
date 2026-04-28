@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-04-28T21:24:24.730526",
+  "generated_at": "2026-04-29T00:04:34.832829",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 16.0,
-    "temp_max": 20.6,
-    "temp_min": 11.1,
-    "precip_prob_max": 57,
-    "precip_sum": 0,
-    "wind_speed": 14.2,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 15.0,
+    "temp_max": 15.0,
+    "temp_min": 10.9,
+    "precip_prob_max": 85,
+    "precip_sum": 0.1,
+    "wind_speed": 17.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 15.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 43
       },
       {
         "time": "03:00",
-        "temp": 11.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 13.9,
+        "weather": "曇り",
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 12.8,
-        "weather": "晴れ時々曇",
+        "temp": 13.6,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 16.5,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 13.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 49
       },
       {
         "time": "12:00",
-        "temp": 20.2,
+        "temp": 14.1,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 17.8,
-        "weather": "晴れ",
-        "precip_prob": 57
+        "temp": 12.9,
+        "weather": "曇り",
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 16.4,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 12.4,
+        "weather": "曇り",
+        "precip_prob": 37
       },
       {
         "time": "21:00",
-        "temp": 16.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 41
+        "temp": 11.6,
+        "weather": "晴れ",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "4月28日（火）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWXVBUjBUa3hEbTdGbkxRaHdOWmpIZ2lxc3c5Z25FRmhJX0ZNVHN3emZFbTJMTmJOVzczVXNPTDZ3OWxqLXV6b0w2dnU1cVo3R2RxVm1aUTd5dm4xakhHZFRnMUVaV01SNlp6aXNDSdIBdEFVX3lxTE9ma0VGMUhQX1E1YndpUThpQzlXMnROSTR2Z3NIQ0o4M2pEaE9zR0hFVXItc3RLd0dieDJWOFNZdElqajNuVDVYNnUxSF9SaVYxd3VuQ1JnbWFIeUNKNDVDZzF0dVF5OGdJdzVoQm5pZVRuOXRk?oc=5",
-      "date": "Mon, 27 Apr 2026 20:00:00 GMT"
-    },
     {
       "title": "【交通取締情報】福井県警 ４月１８日",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV290Q2NxRDVkejJsdUNnb3BFRzJUTVdqVm1ROWN1SDQtZXJoNHFQZVEzY0lVNVdlQTlRa0d1RUFia2hueTZDRk9PbzVkb0RORWpDbVFRS1ZMY096QXc?oc=5",
@@ -78,6 +73,11 @@
       "title": "【交通取締情報】福井県警 ４月１日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月21日（火）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OQWFDOWMxRFVSdnpHb2NSYWVoZGEtT2FEMXdmcklydzVJVFoxM3YtNU9ROHdIREpuZlJsWXNQenBEWDJOQTV3ZHdGRlo4QW43LXdOOGVEbnZQdmo3YlRWRV9BNHNkRWdNR3VuUkwzZ9IBdEFVX3lxTE0tMFJ3aVlMWjFWNnk3Rmk0MERRNjNnNnZJSjVGaDRaend3N1BJd3JtTWM3OUJQOGdDX2dTbFhmdmpXQU5ZMHRFQS1NYUxFT1M4dWZyOGg0cXo2VEdCQzBzVjNTLVUtRTZjODFsZEFNMmlJWHlK?oc=5",
+      "date": "Mon, 20 Apr 2026 20:13:37 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１８日",
@@ -97,14 +97,14 @@
       "date": "Sun, 26 Apr 2026 01:51:00 GMT"
     },
     {
-      "title": "乗用車とミニバイクが衝突 バイク運転の50代男性が意識不明の重体 石川・金沢市（2026年4月12日掲載）｜テレ金NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3FwUkt1anJyNWpsZEotN09lTGl6eDZkeUZlSEpvMFJ2NGN6cnVjQ3pIcWVoTjlTWXFHUTgySDNnNUdJcDJONlZqQm9pa0p5VXV4NW5GX2szbThfLTU4YWg0ak1MMFRpWDdQRDBRU3BwWjNLd09kYmZNQUp6Sms5ODQ5ZzIzaVk?oc=5",
-      "date": "Tue, 28 Apr 2026 08:05:03 GMT"
-    },
-    {
       "title": "石川県金沢市の国道8号、交通事故で車線規制 4月25日朝、金沢河川国道事務所発表",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEUDk5aTd1Y0JyY1V1TUs0eWhxaWVPcUZEdFp5Znh3dlhRM29VMVpackFsUFBUeW1sZkFvUHVhUl9EakdwV2szZTRVVWt6QnZoQ0Z5QVRNRGhTSkM1S2c?oc=5",
       "date": "Fri, 24 Apr 2026 22:23:00 GMT"
+    },
+    {
+      "title": "乗用車とミニバイクが衝突 バイク運転の50代男性が意識不明の重体 石川・金沢市（2026年4月12日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3FwUkt1anJyNWpsZEotN09lTGl6eDZkeUZlSEpvMFJ2NGN6cnVjQ3pIcWVoTjlTWXFHUTgySDNnNUdJcDJONlZqQm9pa0p5VXV4NW5GX2szbThfLTU4YWg0ak1MMFRpWDdQRDBRU3BwWjNLd09kYmZNQUp6Sms5ODQ5ZzIzaVk?oc=5",
+      "date": "Tue, 28 Apr 2026 08:05:03 GMT"
     },
     {
       "title": "石川・金沢市 男性（55）が乗用車にはねられ死亡 26日未明の交差点近く（MRO北陸放送）",
