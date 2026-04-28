@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-29T03:08:43.365080",
+  "generated_at": "2026-04-29T06:06:59.573402",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 15.2,
-    "temp_max": 17.9,
-    "temp_min": 13.0,
+    "temp_now": 14.8,
+    "temp_max": 18.3,
+    "temp_min": 13.2,
     "precip_prob_max": 87,
-    "precip_sum": 3.0,
-    "wind_speed": 3.6,
+    "precip_sum": 3.9,
+    "wind_speed": 4.3,
     "hourly": [
       {
         "time": "00:00",
@@ -21,43 +21,43 @@
       },
       {
         "time": "03:00",
-        "temp": 15.2,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
         "temp": 15.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 14.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "09:00",
-        "temp": 16.4,
-        "weather": "晴れ時々曇",
+        "temp": 17.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 17.8,
+        "temp": 18.3,
         "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 17.5,
-        "weather": "晴れ時々曇",
+        "temp": 16.5,
+        "weather": "弱い霧雨",
         "precip_prob": 18
       },
       {
         "time": "18:00",
-        "temp": 13.7,
-        "weather": "霧雨",
+        "temp": 14.3,
+        "weather": "弱い霧雨",
         "precip_prob": 76
       },
       {
         "time": "21:00",
-        "temp": 13.5,
+        "temp": 13.6,
         "weather": "弱い霧雨",
         "precip_prob": 86
       }

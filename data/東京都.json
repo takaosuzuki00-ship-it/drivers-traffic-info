@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-04-29T03:04:39.183352",
+  "generated_at": "2026-04-29T06:03:58.078303",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 14.0,
+    "temp_max": 19.8,
+    "temp_min": 14.0,
+    "precip_prob_max": 94,
+    "precip_sum": 5.9,
+    "wind_speed": 3.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 25
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 19.8,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "18:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 14.8,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -16,9 +75,9 @@
       "date": "Sun, 26 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "４月２５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RUnBPZV93WWhlM2ctYkhvSFVvTnpSRklpc1hYbFJxcW1VclZ5Q2tRQWROUEJ0MmdROHJDaFF2WnR2S2pkRkJFUTRuY0xuM1FOYlNpLXJDUmp6OEtMTEZkZXktNnZzQjE5aTF4bVB1cmh4UdIBd0FVX3lxTE4tYWFlRmhtZHRPd01TZERQUHAwaFJhMHJucXBaNVJrbVdJSFVCUXdJcFAyUU5BN28zWFNKZ19uNkRZNXM4bWZzWU1heTNWRGRrUkE3MGZJWlgzZ2lrQm16NF9TMnZGX1dHaDgzRTR2ZWthay1oSW44?oc=5",
-      "date": "Fri, 24 Apr 2026 20:00:00 GMT"
+      "title": "4月26日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YVNDZ1ZNZTEzcGpPbzI5R3QyT0cwMm5BZVZIbjEwTzRybFhVOVl1TTBvU3FsUmplVXN4TzFVM2tYUy1XNUk1QzZqaFd1bncxQm5JLVNCeHNWU3gtYzB6eDVYVFdrOFRYUTZTU1NESdIBdEFVX3lxTE9DNktBb1ZqbkpOWFV0M1VTbVlsVzZnTUt4MEdZdkhBSnVESThxS1k3aE1TQXZWcUkyM01NNTAwVkM0VVB5RUNHbE9PM1g4R1RORlZmUXlGejFEYjZrc3NLNWlWSnlCZkQ5aFFfOUNtc2xJN1du?oc=5",
+      "date": "Sat, 25 Apr 2026 20:02:00 GMT"
     },
     {
       "title": "関東地域連絡協議会／「首都圏大規模同時合同取締」全20カ所で違反車両27台に行政指導",
@@ -43,11 +102,6 @@
       "date": "Mon, 27 Apr 2026 09:41:00 GMT"
     },
     {
-      "title": "東京・港区の交差点でタクシーと自転車が衝突 60代女性が意識不明の重体（FNNプライムオンライン（フジテレビ系））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xdFRsbllKTHJjOEM4TVVDMEUtRDhfeG9lNUxrbndFLU1JUWpxZjEtdDRrbTczNjJyQlQzQ1k1OTN2M3J3eXNGWDB3aVZHY1gyT1IxSzZZNDhfMU5nRFN0cS0yOWgwZjkzdmZmanVFNmpNNVJ2RUtKS21VS1pRSjg?oc=5",
-      "date": "Fri, 24 Apr 2026 05:09:25 GMT"
-    },
-    {
       "title": "１４人が死傷した東京・足立の盗難車暴走事故、３８歳男を傷害などの容疑で追送検…捜査終結",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vWHFTZGNkRkF1V1BJMDJ0cl9IcDZQVERERlpVS3pHVkhJMVJXS3pUaG1maE5PaElfRzdoSXZXY1d6ZzhocTFHTkJzQUVYSlhkUlBtOVRyOEZIRm56ZURTRDR2RDM4QQ?oc=5",
       "date": "Thu, 16 Apr 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "パトカーから逃走中に追突事故…ベトナム国籍の男逮捕 「ビザが切れ無免許運転なので逃げた」 東京・杉並区",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LbWl2UUJod0Zwd0NaNTQ3ZE9EQjVpeTI3R1ZMNXRHakx2MVk4bW1EQl9HOTdENzlwWjZmbmxjaWpsTm9lZU02UUtLbTR1QQ?oc=5",
       "date": "Tue, 28 Apr 2026 07:59:00 GMT"
+    },
+    {
+      "title": "東京・大田区城南島のひき逃げ事件で男性死亡 ひいたとみられる大型トラックを都内で発見 運転手から事情聴く 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xOEl0TE9vV0FjUW9BWmM3T0FtLXFXckxzRmRrcFdoSFZRbHdEMS0yT3pEUWlxeVVSNzZrUnhDaFhKYUVmbUZKY1loazVGTHVsYThGdk9xSQ?oc=5",
+      "date": "Tue, 28 Apr 2026 14:59:29 GMT"
     }
   ],
   "official_links": [
