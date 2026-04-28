@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T16:53:38.296870",
+  "generated_at": "2026-04-28T18:08:07.927801",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.2,
+    "temp_max": 23.6,
+    "temp_min": 13.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mb0ZoSFBWeVcySWNqRzFvcUotcFpmX2lIQ0hLdUZTejVhdjZnV0JHejYwckNfcHlvRHR3YldDUmk0dEdpY2NRdmQyazJsbHpiV1l3S0ZtNHFDQ0toOTFXTzEwNGlGalJISVFxb0dtZ9IBdEFVX3lxTE14Ul83LWxOb2lrWW5fX0JFZjBCb2paYWpJNFJNVk9zXy10V1lyM1dSaDZGMnJ5Skk2TVYyOWc1eVhfSHk1U2VicHJpbTJ3LV9pVTdvMVlKYlR1V0N1N1lwaS10bEdSWG5nYlhKc2V2NGdTTGFU?oc=5",
+      "date": "Mon, 27 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月19日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzNGtQZXlFaU12YzFmUGZrbXgyTFc3RE1DY2p4R3d2U29OMEZfX09hcFAxOVBXYkM0RXFvcXJyMGhoMnJlbzRUdWhITDV4VTR2Z01oWm11UQ?oc=5",
+      "date": "Sat, 18 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "広島県警、衆院選で11件の警告 取締本部を解散",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRkVmeDlxMVc0U095RThhd21hakZvdUxmUDFhR3lMVFBWVTV0YjZoV2l5ZGh5Y2RWNzZUd2VNbkRYOWdzUk9VMnlXbmJFRFZ2S2J3azhqVnhiZw?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMTk2d3BkcTNadURNSEktMXM3dFA4eENGT3hkUUc4c1dYaG8xb0MwdjJ5RjJVTHpqakNUYi1xS0RuZnZ2VThNaldvS2Z6aEVXWlpGSlhGREpwMERxVXVtRmxLNmlqMDhfLURYV1RFNNIBdEFVX3lxTE10SnR2dW5HUVh3bDM0NG9vVFVIaU5vRUlDUWpGaUZGRGxQUUN6dE16YnJUYTIzQk5QaG1MYnYwM0ZMOGZmQkpUWUdrakh1a0lzRTVkM0NYdHJpU2EyMFh1a09PVmh4VkdkSFRjbUlqbmJkMzFP?oc=5",
+      "date": "Sun, 26 Apr 2026 20:12:53 GMT"
+    },
+    {
+      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lYzNLUTJtczZmTXlDMk5ESkNtTWVsYW9DQ0R4b1JGVEg5b0UtaTBDMC0yNUxwa2hTNzVQRDdxUmhfVDhRbEMxbXhHQXJCUi1sTzNQdlJ2TVFaUQ?oc=5",
+      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【JAF広島】交通事故防止と安全な交通社会の実現を目指して 小中高生向け交通安全教室を開催",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHWXNqaDlZU29MWWx4a1ZldmJuMG9nTjlHczFfN1kzU2hkSlBtU1BYdG80TXAyMXRhbUdWUGUwNUZ3dFRrYWpJNzVtSEVZdGwyeTZWWkhpWTFCTk9EcFg1UkgzNElJMklralNrNlZnaw?oc=5",
+      "date": "Thu, 23 Apr 2026 18:28:15 GMT"
+    },
+    {
+      "title": "広島市中区で車同士が衝突、1台が川に転落 女性1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZa01lTW9KaS1ldE84OWs4d3NxWF9pdDJpZkprRHh0MVMySUhLbHFkbGw0eXVPRDVBZGN2dFk2TUJNeFdHX2RSaXV5RWV6S01abmNZQk1fb09UZw?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【JAF広島】交通事故防止と安全な交通社会の実現を目指して 小中高生向け交通安全教室を開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JWFVWa2pSQlNkZUhUanBmVmtpb3lJRlV1Si16WGZnOExuSkN2NVhsN21wb0RkRmZUYkZrUE5VRzhHSUxMbWwzWFlXUmRKWDUwUmxhLUpTWlNYdF90MExCRDZ6bUF0S0FQdUE?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

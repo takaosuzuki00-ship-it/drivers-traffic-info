@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T15:56:36.787321",
+  "generated_at": "2026-04-28T18:05:13.649386",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 14.0,
+    "temp_max": 17.6,
+    "temp_min": 11.3,
+    "precip_prob_max": 100,
+    "precip_sum": 0.5,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.3,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 11.5,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 11.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 14.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.2,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 16.4,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "18:00",
+        "temp": 14.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 13.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mb0ZoSFBWeVcySWNqRzFvcUotcFpmX2lIQ0hLdUZTejVhdjZnV0JHejYwckNfcHlvRHR3YldDUmk0dEdpY2NRdmQyazJsbHpiV1l3S0ZtNHFDQ0toOTFXTzEwNGlGalJISVFxb0dtZ9IBdEFVX3lxTE14Ul83LWxOb2lrWW5fX0JFZjBCb2paYWpJNFJNVk9zXy10V1lyM1dSaDZGMnJ5Skk2TVYyOWc1eVhfSHk1U2VicHJpbTJ3LV9pVTdvMVlKYlR1V0N1N1lwaS10bEdSWG5nYlhKc2V2NGdTTGFU?oc=5",
+      "date": "Mon, 27 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMTk2d3BkcTNadURNSEktMXM3dFA4eENGT3hkUUc4c1dYaG8xb0MwdjJ5RjJVTHpqakNUYi1xS0RuZnZ2VThNaldvS2Z6aEVXWlpGSlhGREpwMERxVXVtRmxLNmlqMDhfLURYV1RFNNIBdEFVX3lxTE10SnR2dW5HUVh3bDM0NG9vVFVIaU5vRUlDUWpGaUZGRGxQUUN6dE16YnJUYTIzQk5QaG1MYnYwM0ZMOGZmQkpUWUdrakh1a0lzRTVkM0NYdHJpU2EyMFh1a09PVmh4VkdkSFRjbUlqbmJkMzFP?oc=5",
+      "date": "Sun, 26 Apr 2026 20:12:53 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "“交通安全運動期間の事故” 新潟県内 前年比10件増の72件に…1人死亡・88人がケガ「気を引き締め運転を」",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80YnBYZzJJMTdQTmxUU3lVRi01RVFPSzR3VldYWElocVVyTzZ3N1gxYlN1enRCQ2dydUZHQVllQldiRl9wQUlXRjVDcHR0Zw?oc=5",
+      "date": "Fri, 24 Apr 2026 13:00:00 GMT"
+    },
+    {
+      "title": "春の交通安全運動期間、新潟県内の事故件数は10件増の72件…県警発表 けが人は17人増の88人、前年同期比",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUm00LWM1Nm9TV2RvSWJGZ0xnbVpqMVJYOUV1UXFEX2F4eTZuYW5IWWtodmVSNUNTakJ2OTY4ZWNfYWRMUXVkR3NGVnRSTVJvNlI0anV4UXRHTjhKU0E?oc=5",
+      "date": "Wed, 22 Apr 2026 14:00:00 GMT"
+    },
+    {
+      "title": "春の交通安全運動期間、新潟県内の事故件数は10件増の72件…県警発表 けが人は17人増の88人、前年同期比",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SbVd0cGduMlFmMkNHV1BCT241ZUJWNDN3OVhYU1hveFpyY3Z6aTY4NHhwdWhlNDdiZWgzaFltSHBqdEZZaDM1SnZuSQ?oc=5",
+      "date": "Wed, 22 Apr 2026 14:10:00 GMT"
+    },
+    {
+      "title": "夕暮れ・夜間の交通事故防止",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HVVdVR29MbUdEWGVybDhmeXJ3Nnl5VGQ4SHYzOER2VVA0cDBtSFdfTFNJdjVBTVhwREFCcVZtMmFQWWlOeGhYQXJyMWtUcG5tS2JBVHEwOWlUMHlYSjdVT0hQMnRWUkFLdkZDZ2N3?oc=5",
+      "date": "Fri, 09 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【事故】信号のない交差点で軽自動車と軽トラックが衝突 78歳男性が死亡《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMzhwTmNpZTlhMVByMmtwNTJ5VDM5dklfN1ZZZER4dmJRanJWMXE0dmItR0JZbUNVNkNFSkp5NHNyZEl5eU9yazVDM3QxSXV0RWNuRl9Pa2puRXlPcmtJcUV2SHlfY05WNGFKbzZZRjJ0cFo1b2R4dk4zd2REek0?oc=5",
+      "date": "Tue, 28 Apr 2026 07:19:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T16:59:38.386678",
+  "generated_at": "2026-04-28T18:08:26.249803",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.2,
+    "temp_max": 24.3,
+    "temp_min": 14.3,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "18:00",
+        "temp": 20.2,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 18.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【徳島県】2月はスピードの取り締まりにも十分注意！「交通取締計画」をチェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjFfWWJWTlFpZ0VJQ0ZtWkl0alk3WjRDeDBuUkotdmpUaFI5M2FPR1l1SmtuVkVjYVkxNFAya3BNc2ZIUnZWcFlaTWx0ZWl6QzhCdDljTHZYeU5yM2p2bDlMcng2dHFSMjA1SmNqUmtCZ1JEaVRCbm9fbWxKblZhVQ?oc=5",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】10月分「交通取締計画」をチェック＆把握して安全運転につなげてください。そのほかの取り締まりについては「スマートポリス」でチェック！",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1QycHpfUDBfdGFNRmpnQ2dpT3RYOEU5ampfQ2R6Znd0STJSOW1NUDR2QVRCWWJ5WDVUbVlRY1gwdHRUWTloa0xJRzdJcmJjYWZlajJ5TTZmSGRMWFlxanpHR202RkVRVHMyQXZhQ0s3OXFaWEFvOEx1dExCeV9fUzdQNXZUUQ?oc=5",
+      "date": "Tue, 07 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "検挙数は前年同期の約２倍 徳島県警が半年前から交通違反の取り締まりを強化 「見せる効果」で安全運転を促す",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aamNPdkFDbTJUUUxvVWZER1loVDMzeHNXOVNVdzhHTGxkQVlHODRZUGNxcjJWaDdraFFnNVVPSl9vTkc0cVc3ZXdOYUFJZElOTU9HRmhn?oc=5",
+      "date": "Sun, 19 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "高速道路で速度違反と無免許運転の疑い タンザニア国籍の22歳男を現行犯逮捕《新潟》",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTMFI4a1g4Z1dVd3lBZGRSM0F3SXBITEdzd0xSYTRJZTVnTThnRmV2dFBvalYzLXNXeDBGMWZJSHp2dVZIemhQTWVYQ0NIbUNXMkxYSEc3SV9qb1RKalNZR2kxT2NkUVlmT3V1S3MxZ0NRT3lVWGh1MFdlcw?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "板野町の交通死亡事故、女性の死因が判明",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yNjFZNHJBTHpkLUdGM3dBam84UnBxMExORldjbFh5T3pGSEJSOU9ta1lTWHNybGdOVnljNkYzME9XRXlveExHRWhwSQ?oc=5",
+      "date": "Tue, 28 Apr 2026 07:32:00 GMT"
+    },
+    {
+      "title": "徳島道で乗用車が側壁に衝突、運転の女性が死亡…上下線が一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9udkR4amk2Mjdzb0Fja3F4b1Rwd2w0elJOZ3I0YzBzXzBOdE9XVDBTU2kwYXBWRlAxMFI1Mkt4S0pTVjdZMjJWUlFZaU53WFdaNWZzWDN0YWp4VWQwZWdaSnN3R3E2b1BHOWVLV1NwUnE1Zw?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "板野町の交通死亡事故、女性の死因が判明",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSENDOGZnM1Fia2g4V1BBQXhvbko1NjhGZmRzRzYzNXUzdXZSWHlhSm5tbUYyWkRSUnp4S0dxSklybGxEU0lvVG4zcElOU2R3ekxybnY4Y0VvMS1RS1o5eENRb2FfY2c3UzhrWkk0QzlvZEluNGdHekZfYVI2SVlvVjRXSk5wVjV4TE96ekhOdF9MMzYtMkFQZDVfbmtUSEZkVTFBcDNtcWx1WUl0aHkwQm4yMFlzMWotSzhLVzVfR3RTZlhiMFhrUkYteDBwaDRNajdwWGRLSnhWa3lMc2fSAY4BQVVfeXFMTWdaSV9FMnR3Skl6MTY0Ynh2VDlKODZUQ0pDeHNjOXNCbmFZX2ZEYnIyTXVlVk53LUo2aC1XX3FReloxMHNLMVQtOWIwQ19IRHZmQmpCWGozUXM5d3dsRUF5bzRMamt2MzJNSTlKeDBZQVlCa1lOVTgzc081bDVUem92eHU4RFZ1cXJfeEdHZw?oc=5",
+      "date": "Tue, 28 Apr 2026 07:32:00 GMT"
+    },
+    {
+      "title": "板野町の交差点 高齢女性の軽乗用車が電柱に衝突し死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IZUIxalJPTldvdmJNVXFJTGJJalE2MzBVemlPT1pZZTU2X2RWZjNmeUJQWUNMRzhuNkswSkdtU1JHV1lBRXZoS0hTdXhpSHVTbzhoanV3?oc=5",
+      "date": "Mon, 27 Apr 2026 06:05:00 GMT"
+    },
+    {
+      "title": "25年の交通事故死は最少の19人 徳島県警、過去の事故分析し対策 [徳島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03enVhYlFLcGQ0czJ6QjYxVkw1eUhYVUJiREVVeS13RVZnY2lzMkpfbGltRmJhUk1MY1ZmLUpxRDN4b3c4WEFSNll4cFhWVEotOGYyV01jZk16ZDJUYUstaUV1MGFidEE?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "徳島県警察 公式サイトを検索",

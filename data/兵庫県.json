@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T16:35:38.049948",
+  "generated_at": "2026-04-28T18:07:13.051760",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.5,
+    "temp_max": 23.2,
+    "temp_min": 14.8,
+    "precip_prob_max": 39,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 19.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "兵庫県警が衆院選に向け取締本部を設置 選挙違反の取締りを強化",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BUFZRU0VEMm01Q2UydHFrLUFFQ0s4cHFBWm9QU21YWWxtZngxYU82WGZYTlJ0WXA5UzB1OTlwMUtjQ2t2U0QtR1JHQ1FNNENFZHJzUmUzRkN2dk1yeGZZMm9iT0hMRzVp?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "兵庫県警、衆院選を前に「選挙違反取締本部」設置 本部と全46警察署に|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVHhTNGZmVW5TbV9ETnNLWmtsNzBZdWdvSWFRb1F5YlBnWjV6anhlNWxLNEs5MnI4YjdFbnBqOGxudFdfOVdidHN2c0FTaTA3bWhMbVNsNHNaNFJ1V0QzZTVqUjAyN09qdjRGUVNB?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "国交省怒りの命令「すぐにクルマを直しなさい！」 不正改造車「6台」をその場で\"摘発\"！ 走り屋の聖地「六甲山」集結の\"大迷惑\"「爆音・ハミタイ」のスポーツカー検挙を実施",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RWVRQNl9HU0d2a3lZMnBVdUk5SU5KOTBuYXpOVWc2YkhfOFFmcWZTb0VSSHROZmR1bGItS0Z5WDJzYzhjOGhVa09n?oc=5",
+      "date": "Thu, 06 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "解除の夜ですが…「飲んだら乗るな」 兵庫県警、飲酒運転警戒へ検問強化",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTVKcU1mNmttRjhNdkhINmZMR2NrdE9KODJDWlVEWnZvTmhfa3BXNVJPS1V4OWN3X3JmS1NCbnJzVmFqR1RFVjRiTU5NVjB3X28xTDNhbEsza2tLTGpSdE95QlZZWHpTSEJwajR3?oc=5",
+      "date": "Fri, 01 Oct 2021 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "神戸・中央区で重傷事故 歩いて交差点横断の男性、大学生運転の軽乗用車にはねられる|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tTm1OMk8xOXpwajB0QVA2S2tKVXdNU18wWXplZXVBRjl3aUpmbkpQTTQ4aEtGeTJmZ2VtRFVnWmd2ZkFIS1kyTk4yYmhhbU9nanZuTVdKdkFYX3Zka0NudE5xUE4xUjBjbkd2OGgwQnp1dXJUMzA5VXZkSQ?oc=5",
+      "date": "Mon, 27 Apr 2026 14:10:18 GMT"
+    },
+    {
+      "title": "神戸市兵庫区の交通事故 軽自動車には19歳の男女5人が乗車 1人死亡2人意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iNFJRZU1vZ25QdHd3OUtTRm9YTXlkWms0dEd2QXNwS3BTbDVJNWNtSXBSdVpKS3BpV2oxa0ZscmJteVAya0o0M1A0a18wa2dHV2RsbHZoa05HUEV2NTA0cVoyYnlzb0M5?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "阪神高速湾岸線で大型トラックに追突 トラック運転の男性が意識不明の重体 兵庫・芦屋（神戸新聞NEXT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ck0xeDRZWWdnaXFCeGI2MUNuNEV0WFZQNk9Rd3kzM05jaHFvMzBCMHRndVJQYkJuVk5rcGctMUl1cXNEbkt1WXE5U1VFWHFGMU9EOTMtOTFhLUVJcUxBcHJQWktmUzQ1MlNHc1JwNXlmSUpQbGZ1Y2dqQUNHNmM?oc=5",
+      "date": "Tue, 28 Apr 2026 03:29:29 GMT"
+    },
+    {
+      "title": "【速報】神戸市の交通事故で1人死亡、2人意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02VHo3TFdCckFvLVpnSURqMHVySXlDM2FjelFYWTdkbEhJOGpjWk5sQ1dydjBKYjJ2dTN2ZGVEQnR5cWxLOVczTm5kNA?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "兵庫・加古川の県道でトラックとミニバイク衝突 70代の新聞配達員が死亡（神戸新聞NEXT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SMkFPUVdiWmpUOTNuNHprOW1vUXNfaTN0eUNMbnZRMnpDYUd4dUlDbTY3bEFNN3NJT25IRGlJNHdFWkF6OEJ3VlYtM05Uc0ZpN096cVhmSDlSYmpCTnBVOEFYalRaYmpZTzlvbkhpMEhjS0c0YnpLSWkzQm5lUVE?oc=5",
+      "date": "Thu, 23 Apr 2026 23:59:39 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",

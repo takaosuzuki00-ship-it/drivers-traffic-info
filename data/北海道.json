@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T15:14:35.928372",
+  "generated_at": "2026-04-28T18:03:05.237954",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 6.8,
+    "temp_max": 9.5,
+    "temp_min": 4.3,
+    "precip_prob_max": 50,
+    "precip_sum": 0,
+    "wind_speed": 14.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 7.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 6.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 8.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 9.5,
+        "weather": "曇り",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 8.4,
+        "weather": "曇り",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 6.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 5.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「全国 春の交通安全運動」開始前に「新種の“オービス”」が各地で本格稼働！ 最新式は「よーく見ないと」判別不可能!? 各地で目撃される“ニュータイプ”「半固定式オービス」とは",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmlUXzRTRkh5a1JSS0pwdUM4ajhoem9tQ3B5U2JDMFRKalprc096Snd1d0stbVlObWc4NFo3UHl5TWxJR2dRTnIta3diMnViVlFLcUo1MElMd0w3aERZUHVXaWJNanhIZmxfTUYwQ3RiMFF0RkVjclhKb29tVk1RWnhEak9jZ0dp?oc=5",
+      "date": "Sat, 04 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
+      "date": "Tue, 23 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Wed, 04 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "イスラエル、ガザ検問所を再開へ 最後の人質遺体を収容",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVdtNFdvMG5wQ2k0TTNmUE9pcDF5RFFJamZTREJ1bnc3Zy1mTzVpSWdKQnMtbFpKajRxdGhNNTNCU1J4bjFYV052aGxaaVdZZG9tNzhZZUgzVjBFeEF3bG5MMnZWV0JKdldqQ3EwVExOYllwdVFJa1lFVkhaSlRmYWt6dGg4eEhDRU1saXZic3FFNkJNc1JMcG5rZkhEYkJLM2s4WjBVTXg5RzZ2c1E?oc=5",
+      "date": "Tue, 27 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "新型「速度取締りマシン」登場に反響多数！ \"神出鬼没\"な「移動式」に「街に溶け込んでる」「こりゃ気付かない」の声も！ 全国で目撃される最新「レーダー機器」に寄せられた\"意見\"とは",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uVzFjb3hTY3Y5RjlHSFNKMFJueUtRU1Q1YUtrQWRlU3JlQnlEMHdjeEZLbVdaWWp2NFhLTjlQS1NrSnZnek5KMkZn?oc=5",
+      "date": "Sat, 10 May 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "＜警察署長の横顔＞若者の街 交通事故減へ全力 札幌豊平署・原琢将さん",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aOHBZdVlyNUtQREkwRG81T0ZZUzJPNGNhYS1kOEJkUmZxbDF2aUJPLXJ5ck14TkZyUUQzaFYzenphcXFaNXhtMDkzWlpNUlJUVURmelp2cTg1UQ?oc=5",
+      "date": "Fri, 24 Apr 2026 10:27:44 GMT"
+    },
+    {
+      "title": "死亡した22歳女性から基準値５倍のアルコール 路線バスと正面衝突19人死傷事故 女性運転の乗用車が反対車線にはみ出しか 北海道函館市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NaDZTWnNfNHJUWnpWN002V1NTUUVJYVNfT2dfUlpqSWtOVVlnUGtxWnFadmRnVmhJOFE4blFPX1dPRlZoc0huR2hRMEFmd3d1TlVpbnd3c2h3Z1BudDQ4?oc=5",
+      "date": "Wed, 22 Apr 2026 09:00:00 GMT"
+    },
+    {
+      "title": "北海道の事故多発交差点、3年連続上位の現場は 運転手を迷わす構造 [北海道]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mdUJfWFNUVjV3S0JieE1uQk11MnM5MzhqaTYxWTB3TmlteUl0NldkLVY5U1d5eWxhaTZFQzBhZzB3YUZvRTQxdnBwYm8wMlRyaVNhNW5IVlZrdEpsRUlIeW9xYmxFY2c?oc=5",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "令和8年3月17日 交通事故死ゼロ5000日を達成！",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SZzdhYmswMVhxQ2RRZU4yZEN2UTd3bHZiMHc3Q0dBZkhCcXU5Z3EzVkFlZG8yUFBkUG9hbGRxNUwtblB1LXZsbFVGcmtJYzg3NkVTald0bl83bzB1c2swY0xuam5MZGp4S3BRYVhnSUF4NDVpZVM5bzFSMkl4Zw?oc=5",
+      "date": "Wed, 18 Mar 2026 00:12:26 GMT"
+    },
+    {
+      "title": "杖を突きながら堂々と横断 危険な“乱横断”の実態「足が痛いから…」死亡事故も発生 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YcEo0UTQxbV9RM1dsR3dWd1RFQ0MzYVBuZlJVclBOVTd2SUJTQUJhUWtOTndEOHNOV3ptNEd4Slk3RFkyZFhmeE15UHhWeTU0cTZnZ2JINnhURXNDVWZKYTVTaXY1UVA4VGJqTXk1MkVfUlV3Rm41VzctczhNcDg?oc=5",
+      "date": "Fri, 24 Apr 2026 22:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T15:35:36.521734",
+  "generated_at": "2026-04-28T18:04:05.867941",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.5,
+    "temp_max": 24.1,
+    "temp_min": 8.5,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 12.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91YU5JdGQ0YkpEdmJ1ZXViRmpoUmRfdTBrNW4tQ1ZYbmtYV2xaT2V3ZWZGRHMyd2xhS0ZyaVZ6UklIdEpROTVJbTg1cnd2clAxSk9zNlRUUERhbU0tblQ5a0tBalZjV0VJS1llc2dvRkhsRFU?oc=5",
+      "date": "Tue, 28 Apr 2026 01:35:31 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "可搬式速度違反自動取締装置（通称「可搬式オービス」）による取締りについて",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ud2FLRC1ZZGRlM3BpN1J0b3duVnJJWXhhSDhvWTZhTldZeTg1cDNDOFZVVnBLNDNNV3RLTVctVkdxTlRHSzd0VzlYazdhV2ZTQjFBOUFIblZnb0FFS1R1TVkzRDNvODFLaU5iNlNJSmZyYXVNMXZsTWJYeFFwUQ?oc=5",
+      "date": "Wed, 29 Jan 2025 03:38:07 GMT"
+    },
+    {
+      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wVmNiZVNFVDQtckducnVtcE03WV9uZTJ4RTU5dG9JSlZ5T0RQWTIxbHpPR1pTOUVVbU95ekhlZWstZDJPd3hqYS1Ebw?oc=5",
+      "date": "Sat, 13 Dec 2025 23:22:04 GMT"
+    },
+    {
+      "title": "「暴走族・旧車會」への対策を強化する茨城県警! 年末年始にも“検問”を実施! 結果は? 今後の方針も聞いた",
+      "url": "https://news.google.com/rss/articles/CBMi3gZBVV95cUxNUVhzQmZzVkZ5N210OEJZdXlUaURlQkJiejdSU21EWUw3eGFqbnlXNmJGM0tIRTktSlpQUzYxaHdORE91d3VvSkhlZU5IcW1xYXlrRHFxcFVDbmhHMloxdmxObEJMSUo5cGdJa1NyUkR2NXBPNVpMc1lLSkNPanZFdVhrUUhlX0NweXFjQkRqbEI4S280ZGJUamg4TkY2WVhfX2Y0NVlwRDhORVA0Zm5QbUpDb0VHTUZSdHMzYUpPbkRQNDZ0Q0Y2VGROaVJteklaQWJ4enBlc00xMHpaYW5LZnM3cExzVkxBby1ybmZjcGR2UllVNjd0UXRETVkyWG9HSUVwZlAyd08zMFNucHZKd1lOVmx4SmdUWUpCc1RvTVZsZ3RYMWI5ZmpxVVNvSENBVEZWazdMWGlYM1VUVm9EUUs4cGZJUnpkQ2VtemxnNWFDZWxfNHZjUFQzS1JsTjZocDhLZFBGa1BEalVQTUlkRHZXcS13cFJfUWJuYmZNRFJwb2V3dWRmY1Y3c3F4OXNZZFFvTkxGU0lPZUtYOUxqUm1qc2Z1TWMxaEZ3eDRnQk0yWXIzUUkycGJPVEpJRmV6MFBMVmNrdkFkanhKMkUxaUFhaGRtZDZYYmdaVXZYQVI2UHJwMEFBQ0N3aXRDSjJoWXl3RlVuZ2lyZEMwS1hHemE2NmlYNlJZZDRjalJqR1lKcXh3S3VkR25XUzFqaXMxVEFJQy1xeG5mNFI5T3Y0dmgtM0NxTFRBaHB5NnZocWNld2Eya3l6SV92d2tReUtOdlN5RmR0M2NVZnVndlZ2dnNkSWFhMXJjRVJaVEx6VHk5d09IT0FhMXhKRFItZGhWWmcwb0hLdERTbzNQa1ZrSktJMHZfc1NRQWszYjUtX2ZQOHp6bzJId29ZNVNNbUZOSlJOYjhaUlBoYnViYW40MTZaNjJJSWxwVWllNjF3ME9BTUh5UlpXdVVGTFFNQ0NLZS1xeUJ1R0pFYVlSZVZEeU9jRUk5Y2I1eFdrZ212N01hNTNsT2p2dm1DSG1KNWVnQnluSmR5VG95V0E1OXNvdnlvZXRKOXR6VUljSklOdGJseVZZMGpVR3RoZFZCZU01YWRGXzFDTThsVVRHdUtPZS1EOFkwZTJ2dTNkRWRB?oc=5",
+      "date": "Mon, 27 Apr 2026 04:22:13 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "茨城県内で交通事故相次ぐ 神栖で車にひかれ６０代男性重体",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGNHBTMzFVU1U4dVY1SGpuRElSSWNESDB2WERqcV9XTVFWZUJYNndjSTNfdXpBd3JYWkFsa2lTVWN5Y1pYb2ZtOXROWjFaN29YLXBLV2lTRng?oc=5",
+      "date": "Tue, 28 Apr 2026 06:49:00 GMT"
+    },
+    {
+      "title": "茨城県内で交通事故相次ぐ １人意識不明の重体 １人大けが",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WMlRCSkZKb0RNVVk1eTh0YnBFbldtXzVKQW80WDU0QU1UTHJhUnhjUnNkY2NVczFfbVU3bDRYZ3VaSjAyQWstQzZQazFDMFRuVEhtOUxpSjA?oc=5",
+      "date": "Tue, 28 Apr 2026 05:20:00 GMT"
+    },
+    {
+      "title": "茨城・取手市で乗用車が横転 軽自動車も衝突か 一時通行止め（ANNニュース）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iNGpBRnNiOUFKelZvRlRzVUhvYnA4d2FDSnJZSlNZLVdUNzFuc0hxSWtNUHBNdjYzTTZJZFFZVkZGR252VzkyS3VxcU9ncERrV0NOTXMwRHY1cXppdUl5Y0Q3MjE?oc=5",
+      "date": "Sat, 25 Apr 2026 22:04:00 GMT"
+    },
+    {
+      "title": "茨城・取手市で乗用車が横転 軽自動車も衝突か 一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Rc05HWFJLZ19MNFBtbW40MUdHNTNmLWVjU0dDYmZ6YVF1U0lhZDVKTmxzcU91NUI5QUxPOVRHYnZQZHRiZjJIeGcyQ040SVpEUU5zSVl5TDYtLTBOZXhzRXk3a3ZOMVJhY2pzMzJrT2lYQQ?oc=5",
+      "date": "Sat, 25 Apr 2026 21:33:15 GMT"
+    },
+    {
+      "title": "【茨城】車の横転事故で一時通行止めに（ABEMA TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bHVlRG9WV3EyMXRPUDV6d1hOMjliNVk5YWpnbFVFZks3MVVoam83VG5EWm13QTZIcEp6ZldRQjFvc2VVWWxHYURlbFVualAySnAzRkdjbDlZc0JPazNKQTUzd3dWQnRuWVpZWnBCczVYODhmYUxVb1BtZGRVY2s?oc=5",
+      "date": "Sat, 25 Apr 2026 23:45:32 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",

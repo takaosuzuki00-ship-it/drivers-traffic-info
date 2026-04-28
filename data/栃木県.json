@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T15:38:36.555182",
+  "generated_at": "2026-04-28T18:04:15.272249",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.7,
+    "temp_max": 23.4,
+    "temp_min": 7.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 7.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選栃木 県警取締本部、文書掲示違反３件に警告",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13S0EzRF94SDNYRERzSGFnODN5eXQwSllrTm5hSjVkZk53UXhhUUhEc2stVE1xS3V2MURhd21Wa3pCWGYxZlRzLTZ4ZDZ6NkxzNGJzaHFITU9xYjA?oc=5",
+      "date": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "参院選２０２５：取締本部を県警が設置 ／栃木",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxaU9rVlVfVUwwbHFoZXU1M3VUcVlkbDBWYVYtSjFCckxCbFdCa0F3RU1MZGhWQlhHWVZ4c0pfQXVwVDZHcUl1WWw2d1VtalY0RzRWYVpxNndhZk9TWTFXbWdjUXRSczJ3?oc=5",
+      "date": "Tue, 24 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fd3ZvOHM4VGdYTFNOaGhsY1NlQ0p5YTBQcW9Ccy1LT1FHSnlSTGR6LWhHUlpJRjJveXJSa3NIcXlKZWkxTUdoWDNVY3QxbF9NdWVVVU5PVDdONGM?oc=5",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yM1I5SVhhZlFFX3NxR3djZFNrWUk2NFBDZ21UR0QzLWNwRGZJTndLRVRNNUhhdGFuUXFfT1U2TWI4X0I1VHRpXzdaUQ?oc=5",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "乗用車同士が衝突 運転の女性が死亡 栃木市－NEWS - tochigi",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWN0d3UkpsVUZtVlVkcXZDdzJ5OFcxazJvTk5mYVBoN0lRcWJwcFdBN2Q3Q0VnRFdpZl82c1g4WkgwWmhHaWpQTXRMWVltNnZQT251ZjRYWlQ0SDAtUER3?oc=5",
+      "date": "Wed, 15 Apr 2026 00:54:42 GMT"
+    },
+    {
+      "title": "栃木市の県道で車同士が衝突 死亡した女性の身元判明",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51Njc0WGJQT2t0ZlJSZ3hpa1hGaGtPQVJ0dndkQ0lRWnhOcE5TMUZXZkNsRlJ6OGtlSElreWdPMmZETjJZMkdMb0ptY2pfOTZNX2wzN3Y4SVJfbmM?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "栃木市の県道で車同士が衝突 死亡した女性の身元判明",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qVjFxdHRZSnk1ZzY4TVJ4MjJXUHpfVFVnS1AwdDNLTnNRdEJIVmoxdFI3MjVDMXIyZGdZTnpYYU4ydkRqMlhyOENhVQ?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故に関するご報告",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1heUc2ei1wR0ZENTZMN0xqeFUxdlc3cmtSUFJlU3M5V181Zm9wY2hKclFpVHRCbEJ4S05NR3lNcklLWGZPcXptQkRn?oc=5",
+      "date": "Wed, 08 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "栃木：鹿沼クレーン事故１５年追悼 交通安全の大切さ胸に 見守り登校、黙とう ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFNnBRa1F2Q1hKQl9VbVA0MndUM20zU1FoTlBiYTlSVkhQQjNFTXJBQTdlNHktakJNbHZ6RkVKSTN5QXJVczBLUHVja1gyUWpCaXFBVVFuc2NKeEtNNGR1TEhMelRUeTRNUkFTcXNaVE1wLU0?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "栃木県警察 公式サイトを検索",

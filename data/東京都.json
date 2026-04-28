@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-04-28T15:50:36.705748",
+  "generated_at": "2026-04-28T18:04:53.558075",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.9,
+    "temp_max": 23.1,
+    "temp_min": 10.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mb0ZoSFBWeVcySWNqRzFvcUotcFpmX2lIQ0hLdUZTejVhdjZnV0JHejYwckNfcHlvRHR3YldDUmk0dEdpY2NRdmQyazJsbHpiV1l3S0ZtNHFDQ0toOTFXTzEwNGlGalJISVFxb0dtZ9IBdEFVX3lxTE14Ul83LWxOb2lrWW5fX0JFZjBCb2paYWpJNFJNVk9zXy10V1lyM1dSaDZGMnJ5Skk2TVYyOWc1eVhfSHk1U2VicHJpbTJ3LV9pVTdvMVlKYlR1V0N1N1lwaS10bEdSWG5nYlhKc2V2NGdTTGFU?oc=5",
+      "date": "Mon, 27 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数 (2026年4月27日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00N2l1T01USWkyaWx6ZF9kSk1lTzd1Ym1la3pyODBsM1ZZdzdacnFfTG5xYllvLTJqeThISGk1RDFNV1c1b2FPeFgydjBMRkJlVl9nTXdid1VHNEo2LUE?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YVNDZ1ZNZTEzcGpPbzI5R3QyT0cwMm5BZVZIbjEwTzRybFhVOVl1TTBvU3FsUmplVXN4TzFVM2tYUy1XNUk1QzZqaFd1bncxQm5JLVNCeHNWU3gtYzB6eDVYVFdrOFRYUTZTU1NESdIBdEFVX3lxTE9DNktBb1ZqbkpOWFV0M1VTbVlsVzZnTUt4MEdZdkhBSnVESThxS1k3aE1TQXZWcUkyM01NNTAwVkM0VVB5RUNHbE9PM1g4R1RORlZmUXlGejFEYjZrc3NLNWlWSnlCZkQ5aFFfOUNtc2xJN1du?oc=5",
+      "date": "Sat, 25 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「息ハァ～ってして……酒気帯びだね」 東京全域“大規模検問”で全乗りもの一網打尽！ でも「クルマは3人だけ」いかにも令和な結果に!?（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfYzhvbFI5WTROd0psdnRQd3hSMXZ6YXZ2eFdMblg2bUY0VUZESXZsMDA5TTNWMHhOT0ZpZml3a3lYNzlyc2FvWWdR?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "運輸局「ブチギレ命令」に反響殺到！ 「自業自得」「即刻廃車で！」 不正改造車「24台」に「すぐにクルマを直して見せに来い！」 東京・埼玉で集結した\"大迷惑車\"を一斉検挙！ 2都県で取締り",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lRlhrWEd4SWYzbk5GUVJNOFZ6UUpGMi04UVBhTF96cVNjLWFqM3hKUFdfdkx0YnFZR0JSUkFWbFhydy1EbVZybEFn?oc=5",
+      "date": "Sat, 03 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "東京・大田区城南島の路上でひき逃げか 男性が血を流し倒れる 意識不明の重体 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Cb3FMN29FZ3ZrRE9KSEdJWUlKd2picWloWVdHcmI3aVM0TGg2alJIZGN1aXMxY1ZQMFZNTEZzczVrTGZTQzh6dkgwQUdhdDRXUmZ2dU5MTQ?oc=5",
+      "date": "Tue, 28 Apr 2026 08:26:54 GMT"
+    },
+    {
+      "title": "東京・杉並区で1月に追突事故、ひき逃げ容疑 ベトナム国籍の男逮捕 警視庁（時事通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IT3dQVkRyZEhLRFlJSWVObjlmdTBlRnQ2RGhzVXBGNTFKOV9LYXBCRk5ZYUx5elhNWTh5VzhiaDE1Mkg5dkVsUTV6TEZXVG5NUTgtMDhZcjVmUDVaVkVndDBqYUFBaFplTnQwUXdaVDdUSF83dkw0dkFuSjVwUWc?oc=5",
+      "date": "Mon, 27 Apr 2026 09:19:09 GMT"
+    },
+    {
+      "title": "東京・大田区城南島の路上でひき逃げか 男性が死亡　警視庁",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjdReHV5SGNDRkV1VGFXejh1U3Q0Q1lKUFV1V2R4LUNicVpDZ3BoaDFKUXFDQTJkTVl2bzBSRkNQVGVQRmJSWHNyRDZjVVdhcUJJb3VHcUNnWktVZ3U5UWtkSDRHYVJ5VEtERUR5eXZwcWtBMld1cWowOWZiV1lqWHdXZ3k4VjZYVFA4WF92LUdCeS1RMUhFNkxHWGt6VkpuUUVNVVJ1QTc4MDdUMk13QVZaNkpXX3hYRmpUem1Cd082eC1B0gF0QVVfeXFMTTdGMmVYR2tXSEF6bnJ6NDAtcGZzazJVaXJ1Z1FzZ3Bvay1XTmxIaGRvaEliai1ONk81QjB6dFJqQkpIUzVoaW9tdmZ0VEVtLXJGbGdqVXpTWWN2QUREbnJzazc5R1lUZG5jWHRIYTQtY3lTYjc?oc=5",
+      "date": "Tue, 28 Apr 2026 08:36:00 GMT"
+    },
+    {
+      "title": "横田基地関係者による飲酒を伴う交通事故について（要請）|1月",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVDU5QnlnSUV6VXNVbEgyakNvbmhZYjZkUHhSUjZNZ3hwQUZhdVlYTmxhQlZGTGpNX1I0OWhQQnZPeTBmN2wydUZPMllQdVhINFVPZm5rNmhZVXVvcjk3OEllanJXcW54ZTV1NHh6LTJHNTB4ejhHRV9ReFhuUQ?oc=5",
+      "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "東京ドームシティ従業員女性死亡事故 死因は外傷性ショック 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2VWc1UGdpVGFfUmFEQ1NmRG01Y2xZdGRTWFBERTRUZUxxQkpYanVwTDZUV0hYTS1KUUJ2QzA0MF9WdVl3R1VWNDA0TEVqR3lFUzllT2l6MA?oc=5",
+      "date": "Fri, 24 Apr 2026 00:43:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",
