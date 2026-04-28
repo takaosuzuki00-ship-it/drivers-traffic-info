@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-04-29T00:03:08.226797",
+  "generated_at": "2026-04-29T03:02:58.377708",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 8.2,
-    "temp_max": 12.2,
-    "temp_min": 6.2,
-    "precip_prob_max": 90,
-    "precip_sum": 2.0,
-    "wind_speed": 1.5,
+    "temp_now": 7.9,
+    "temp_max": 12.7,
+    "temp_min": 6.3,
+    "precip_prob_max": 100,
+    "precip_sum": 1.0,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
         "temp": 8.2,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "03:00",
-        "temp": 7.6,
-        "weather": "曇り",
-        "precip_prob": 27
+        "temp": 7.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
       },
       {
         "time": "06:00",
-        "temp": 7.0,
+        "temp": 7.4,
         "weather": "弱い霧雨",
-        "precip_prob": 31
+        "precip_prob": 24
       },
       {
         "time": "09:00",
-        "temp": 8.0,
+        "temp": 8.4,
         "weather": "弱い霧雨",
-        "precip_prob": 27
+        "precip_prob": 20
       },
       {
         "time": "12:00",
-        "temp": 9.7,
+        "temp": 10.0,
         "weather": "弱い霧雨",
-        "precip_prob": 88
+        "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 12.1,
+        "temp": 12.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 71
+        "precip_prob": 84
       },
       {
         "time": "18:00",
-        "temp": 11.3,
+        "temp": 11.4,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 16
       },
       {
         "time": "21:00",
         "temp": 8.0,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "4月26日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxQVh6VFc3WW5EeUhjMXE5RkpHNk5hVzI3dzFZLWdESzdUc05jUEU0TFJGeUEwTzlQYm5hdS0yWGU4VVRoaXJqRDdQVUk5bjNxWnlkUHl1aw?oc=5",
+      "date": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
     {
       "title": "4月28日（火）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVk5PSHo4VEZFR0l1TTFFSEY5UHpLQTRTb3YtVXREbU9PN2RKdzE5NW1jb2MyTFNpS05LUnB3QjN6c1A4RzZ5N0tqcExnR3U5eHhzLXU4TS1JWlZnYVJUVFRzLXUyYklsS21qdTk3ZGNzYV82LS1ONEdoVlEydkE?oc=5",
@@ -75,19 +80,14 @@
       "date": "Sun, 26 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "4月28日（火）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUFMaUZYMUN5WW1UQ0gtbC1MLV9aU3dkeWZ5Vnd6czRkdW51N21uX1plOUM3WUp4U1dlbnRVR3NkenMtZ3lHRDhhd2F0SmkxZ2dSSXVOdXp1MkdHbTBxSXpXWDgzaC1fNndkWmU5dFRuV0Y5VE9jejhveU1iN0RJWUdhT2x3OEwxMTg3NTdB?oc=5",
-      "date": "Mon, 27 Apr 2026 21:14:06 GMT"
-    },
-    {
-      "title": "4月24日（金）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XUk5QbFBoa1didlFXUEVIaGhQQ1lMcmsxdmJYYTFqUV95ZlVsaXFJUlpJa1VqMzZSOVp5bjJBVS1TNDd0Zkd5bjQxbTg3WC1lX3NHRWZjNk1RQQ?oc=5",
-      "date": "Thu, 23 Apr 2026 20:00:00 GMT"
-    },
-    {
       "title": "4月25日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNlRxN21SLURuM0F5Xzh1UTNDSmVRMEpBZ1BSLTRadXR6blR2NFQ3Z2VvSzROQTRuQWJfN2lvRzlMd0gyYmlGM3JMYnIxNDBmWFF2cnhndEI3RjJsOUJOY2lhOW5MLVhrUjFwVmVoNGs1dkF0RjV2YlhVazlTVHc?oc=5",
       "date": "Mon, 27 Apr 2026 11:03:00 GMT"
+    },
+    {
+      "title": "4月28日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MVJVbWVvdHBkdWprZGhhOFppMmthUktKUVc5OTA0YzJSMWVRRWpPbG85YzEydUxrSGNvMFB5Rmg5VW9BdFliRElhWEdBaTRFMzdfT0VSb3FPUQ?oc=5",
+      "date": "Mon, 27 Apr 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Sat, 25 Apr 2026 10:28:00 GMT"
     },
     {
-      "title": "人身事故の増加率が全国ワースト1位 死者は11人増、岩手県警 [岩手県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SR2puOUV0U1hXN1VCcWFRSXRXWFJvcGZSYUtNOWNlMm1STFZMMkFoS2JPM0hNYkxfU2JpcklBMzN4M2JoSG5SM0VHVXpfcnhfRkNEQWJCTE1HQ1I4OXp1QXdJcl90SWM?oc=5",
-      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
-    },
-    {
       "title": "ギョウジャニンニクだと思って知人からもらったら...イヌサフラン（有毒）だった 50代女性が死亡 県内21年ぶりの植物性自然毒による死亡事故 岩手（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZ3lqcm9lOW1ISVdxd0JnSG9MNGZBbDgweUtpZF9ZbkR4enBnb2hmcXJsQ0VvbHJxdUludnFCZFhpc0R0eUcwT3BqLUZvTkJXU1IycXlmejJNY0o4Sm9SU0g3ODJKNGxScm91QzI0dG9JNUN1cEZLeDFmVFh0bEE?oc=5",
       "date": "Tue, 28 Apr 2026 08:33:17 GMT"
+    },
+    {
+      "title": "ギョウジャニンニクだと思って知人からもらったら...イヌサフラン(有毒)だった 50代女性が死亡 県内21年ぶりの植物性自然毒による死亡事故 岩手",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JOGZMeVpDc2lRdTNmMEppbGtNd3ZudEFZaWRFME94NnJHZUctc1RwVWU5REptbzJNU0VLeFRJdjd2RTVkUk9JanNHbDBIMXhXelVOQW02bw?oc=5",
+      "date": "Tue, 28 Apr 2026 08:32:00 GMT"
     }
   ],
   "official_links": [

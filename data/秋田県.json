@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-04-29T00:03:23.011640",
+  "generated_at": "2026-04-29T03:03:10.428405",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 7.7,
-    "temp_max": 12.6,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 7.9,
+    "temp_max": 12.7,
     "temp_min": 6.2,
-    "precip_prob_max": 25,
-    "precip_sum": 0,
-    "wind_speed": 3.6,
+    "precip_prob_max": 19,
+    "precip_sum": 0.1,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 7.7,
+        "temp": 8.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 7.2,
+        "temp": 7.9,
         "weather": "曇り",
-        "precip_prob": 25
-      },
-      {
-        "time": "06:00",
-        "temp": 7.2,
-        "weather": "晴れ時々曇",
         "precip_prob": 18
       },
       {
-        "time": "09:00",
-        "temp": 8.8,
+        "time": "06:00",
+        "temp": 7.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 9.5,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 12.3,
+        "temp": 12.4,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 12.1,
+        "temp": 12.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 9.9,
+        "temp": 10.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 7.7,
+        "temp": 7.9,
         "weather": "快晴",
         "precip_prob": 0
       }
@@ -65,19 +65,9 @@
   },
   "enforcement_news": [
     {
-      "title": "4月23日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OYjdQdkJCNUJxS3A1S2lEc0M3UHpXeVlZeEtxMHFzU1BoZGozaVJzUVRoYmY1RzFNVThPSEdjRFRuOElnUW5zUWZmRFVaRU5XMkQ3WEtlU1V4UQ?oc=5",
-      "date": "Wed, 22 Apr 2026 20:00:00 GMT"
-    },
-    {
       "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
       "date": "Fri, 04 Jul 2025 07:00:00 GMT"
-    },
-    {
-      "title": "衆院選 県警察本部が選挙違反取締本部を解散 事前の選挙運動に関する違反で警告2件 秋田",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblhIUWphZ3hrUERUcUlQdE8tekJBbTczNEd5N1V6d2RkbTVNZVoxS2htQk5USGZ0M3BmbXJqbUxNTnJZN21QTGxtYXRJMjNxb1hTTncweDkxTGZwdzVHelh5QXI5c3NGeHNzMTFlcTc5OW1QTDlMLUVCWkpwNnRCV2c1eGVLYUU?oc=5",
-      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "ガザ、ラファ検問所を再開 イラン交戦開始後に封鎖",
@@ -88,6 +78,16 @@
       "title": "ガザ南部検問所、限定再開 イスラエル、運用緩和焦点",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJVE1PV3RVMk1ralc2MGFrRkNwLUR1N05jN1BCQURDQXkzMmsxdllLdFNjVDNhWC11bzNuaHJvZUlIZHV0UndJY2h5eUhGSjRoalNVYVBUWlQ2Mmx4anp5S0JR?oc=5",
       "date": "Sun, 01 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "速度違反摘発で虚偽書類か 神奈川県警、書類送検へ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lbWtoXzFkaHVjWlJJMVp2V1NtZnlPdlAxZXY0eTdqYXhLTXY5a21jSzl5VmhSdVJhSEVHLXpNMUZ3WWtWdFJuWkRjRFdjSVRDMzBjSHlNWFNJMWhPam1vMUl3?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "警察官が大麻取引容認疑い 書類送検、摘発打診され",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JblI4ZkFvWFRuWVNObkJqaFNkUk1PMDlqQlhrMzR6ZndBQU9kT09PREp4c2s3SFZPVGtmcWNMZVN5SWFVMnJUTHMzaGFFQQ?oc=5",
+      "date": "Fri, 01 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
