@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-04-30T00:05:03.517055",
+  "generated_at": "2026-04-30T03:05:07.801836",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 11.2,
-    "temp_max": 14.2,
-    "temp_min": 9.7,
+    "temp_now": 9.3,
+    "temp_max": 14.4,
+    "temp_min": 9.3,
     "precip_prob_max": 100,
-    "precip_sum": 13.6,
-    "wind_speed": 3.5,
+    "precip_sum": 19.3,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.2,
+        "temp": 10.3,
         "weather": "弱い霧雨",
-        "precip_prob": 49
+        "precip_prob": 53
       },
       {
         "time": "03:00",
-        "temp": 10.0,
-        "weather": "霧雨",
+        "temp": 9.3,
+        "weather": "強い霧雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 10.1,
+        "temp": 9.6,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 12.3,
-        "weather": "霧雨",
+        "temp": 11.9,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 13.7,
+        "temp": 13.2,
         "weather": "霧雨",
-        "precip_prob": 88
+        "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 14.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 14.3,
+        "weather": "曇り",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 13.8,
+        "temp": 14.3,
         "weather": "霧雨",
-        "precip_prob": 94
+        "precip_prob": 100
       },
       {
         "time": "21:00",
         "temp": 13.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 94
+        "weather": "強い霧雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "【交通取締情報】福井県警 ４月１１日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
       "date": "Fri, 10 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "4月19日（日）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RLWRHN3RfU0wtN2RuZWF5NU1lYXB3aEdscmxtZTk2UVBDODkwLWRSdUNMblg5RUVicDAwbzA4TlMzQjgtd1lSd3hqZHlVT1JTbW9aY3pocGtoeTU4ekpEVHhtbUdKZkU4elo0UjB3WdIBdEFVX3lxTE5Dek5NamtJNnBXTnJpU3dNSHNGcENPM3ZkeXg0cFFVa2hraTdEMnZWM3FJSHNFY21NOHdWenhaVGZZLV9Cb3VldlZwT1Fubi1KWDFzOGhtQVdSemZVMEE0bVRNbWNXRUkyaTFiOWVpa1FZZzQ2?oc=5",
-      "date": "Sat, 18 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月６日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZmFOamprWXRzTzYyX2p6UnVPX3RwUDdGRzNrSTNOUXBHbFJhaTREaEdrMjN0RlZSTUFVakUyQTBXRjNNaldjSkQ3NA?oc=5",
-      "date": "Sun, 05 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "【先行】山口県警が警察署長会議/衆院選の違反取締を徹底",
@@ -88,9 +83,19 @@
       "title": "山口：飲酒運転６５５件大幅増 自転車４割、摘発相次ぐ １１月末時点 年末年始注意呼びかけ：地域ニュース",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXhHU09KSVBzNmNlbGxzZWtkVDZ0TGxnMnhYWnk0RTlBZjgtX0laUFBPc3Y2NUl5d0JDSlg4UUdyQVhKWm5VQnNaejg1eFZFQWd0SGlGdXRFQXJGTlFjSDVtMWhCWTBoQmVjNHA0alRGNUJiamc?oc=5",
       "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転 絶対に許さない 千歳署、週末に市内で検問",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmRGtreGdJZ2xJdUxhOHE0bUUyNDJqNktncVlQWUdadHZNT0NpS0R1LU1nWkc5T3NwT2JLbkdmRnZLaG9JZFp1amdSYw?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "山口県内の交通事故発生状況/2026年4月26日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSjAxc2p1UmNfMko2eGkwRTdMT25lNzhvb0NiU1lMcUg4QjVWaGx3eWFHZDFLSWJLWlRVVFJJbUxsMkVIeHZQZUFWZ0FFd1Q5dzR2SGt5STBsZlE5bVJtTzd1aUVsVTRTbFE?oc=5",
+      "date": "Mon, 27 Apr 2026 07:30:00 GMT"
+    },
     {
       "title": "山口・下関市 長府駅前の交差点で軽自動車と歩行者の高齢男性が衝突「負傷者がいる」男性運転手が110番通報 高齢男性は意識不明の重体（TNCテレビ西日本）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qMGVqVDA3d3M1MTlkcDFlRGVqTTZ1R016M2JtS3hXQ0xpS3hCVVE5dF8xdnVMMEY2ZVZ3bW90aUNjeUowWW1EczBJcFQ2Ti13ZE9yZG1wemltd1JZVFYtUm1UV1J0N0VpRE1HMWxNM1NxNUVJQTdEVzJHWDdVTEk?oc=5",
@@ -102,19 +107,14 @@
       "date": "Mon, 27 Apr 2026 07:30:00 GMT"
     },
     {
-      "title": "下関市の広域農道で大型バイクと軽乗用車が正面衝突 大型バイクを運転していた58歳の男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUVsNWoxNDNuVDhETmhKOTRrb1dHcDJwMzV4QlBncmdKYzBXaHJfbkNOR1A4cDVBcWVuazlISURUWElRVWEzZVpIYXZWdjZ3X2t6d21ndHBwVV9kVzhVQ2d0ak1rSWxEbGhXa3V4VDNEdWJXNHMzSFJFQ0gzU3J5UXZyMnR4ZjA?oc=5",
-      "date": "Sat, 25 Apr 2026 03:03:00 GMT"
+      "title": "山口市の国道9号 乗用車とトラックが正面衝突 70代男性が病院に搬送（2026年4月23日掲載）｜KRY NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFozQXpfVXhTUlQ1QWZhZ05pWXdORzRFbnpyaWJ6aHdsN1NTQ0JNX3FVTXYwREhMek1INDQwT0owcEs2VEJwOHZRMFRDYmctNURKN2hndnM4SkgtLTdjSzRYS0gtOENZWEVzN3R6UUNISklKcWRieW9sR0tGV0d6QmxaNDdPZ0k?oc=5",
+      "date": "Fri, 24 Apr 2026 04:57:00 GMT"
     },
     {
       "title": "【山口】関門道 車５台の事故 １人死亡",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbWVIVUVsa3NoT1NCbHJRN0k0U2tPOWFRckFHVmRGN1oxRGEyTlI0YnF0cVNNTTNMQWZuTDdSSE9KLU1Fd052Mzg1ck5lV1BVSjBlUXFEQQ?oc=5",
       "date": "Fri, 24 Apr 2026 03:22:52 GMT"
-    },
-    {
-      "title": "関門道で大型トラックなど５台が絡む事故 乗用車の男性（50）が死亡 山口",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44N1NjVFZJOHlCbFJNaGZEem9TVE5IWVZXU285UnNaSVV6RXJfTFVvTlRRcXJSeGlEbl8zT2ZHTmZVOEFDWHBoMjFqQS1xLWFySFVWRHFyeTJ2cFJtdDZJQ1VKd0hhVWM?oc=5",
-      "date": "Fri, 24 Apr 2026 03:06:00 GMT"
     }
   ],
   "official_links": [

@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-04-30T00:04:53.779772",
+  "generated_at": "2026-04-30T03:04:58.512292",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 12.2,
-    "temp_max": 13.3,
-    "temp_min": 10.9,
+    "temp_now": 11.3,
+    "temp_max": 14.0,
+    "temp_min": 10.7,
     "precip_prob_max": 100,
-    "precip_sum": 14.4,
-    "wind_speed": 3.4,
+    "precip_sum": 15.0,
+    "wind_speed": 2.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.2,
+        "temp": 12.5,
         "weather": "弱い霧雨",
-        "precip_prob": 51
+        "precip_prob": 31
       },
       {
         "time": "03:00",
-        "temp": 11.2,
+        "temp": 11.3,
         "weather": "弱い霧雨",
-        "precip_prob": 80
+        "precip_prob": 75
       },
       {
         "time": "06:00",
-        "temp": 10.9,
+        "temp": 10.7,
         "weather": "霧雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 11.3,
-        "weather": "弱い雨",
+        "temp": 11.6,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 12.1,
+        "temp": 12.3,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 12.0,
+        "temp": 12.2,
         "weather": "強い霧雨",
-        "precip_prob": 100
+        "precip_prob": 92
       },
       {
         "time": "18:00",
-        "temp": 12.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 71
+        "temp": 12.9,
+        "weather": "霧雨",
+        "precip_prob": 90
       },
       {
         "time": "21:00",
-        "temp": 13.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 53
+        "temp": 13.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "4月29日（水）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2VjBaYkdGd0lZTFFxNWp1U0JMcHlma1ZxYl9SenJQN0Jzb09OcURvUGpfSkY1WEZRbUs2N3RQYkhMZFVYYWRMbVJWOGFwNnlvM3RleVN6UEwxdHJPSFhsdVJIWThKbk5BWUMyQlhaONIBdEFVX3lxTE45S0g4QzdPZzBYVWgxLVlYWFVsa3paQ0xpeW1JZlFiLXRzVmZ4M2JJMmZmMlpMUEdVOXhTTE54dUpFQTVZZUNMdnVGWFZRRl8zUkVvM0R1LV96YWlBWWtxb2xpcWNvUW1jd1Z6dmxjWjNjRTBB?oc=5",
-      "date": "Tue, 28 Apr 2026 20:00:00 GMT"
-    },
     {
       "title": "4月29日（水）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Z2VYcjhDeGdSdG13YmlySGk0bTdobXlXVnVleDhWekg4TWhaRmk1WmdUMGl5a2t3QlpEZVBwRE1JRE1fOWtnZlN2Y0tTUEYyeUJzUWZuemphNU1YamtmSGdMSFNjTFF3UEtubTk3RdIBdEFVX3lxTE04SFBqTHljcVNuejNBWnJnSHlzd3FCMGhpbGd4TDctZVFsWnhvMmwtNnhpNDFud0M5V2JhVTR2N01JSm02R09pSVRyYmhDeEVZa2xDeUljUHp6RlNIUUhMYTJNUTlHYWlQdVJVZzdVN1NibHJs?oc=5",
@@ -83,6 +78,11 @@
       "title": "衆院選 選挙違反取締本部を設置 選挙違反に目を光らせる 岡山県警",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13STJrbXViX1V1ZUZSQlVid3NHZkt3T3cwZFBhYW4zNzdEQjJyRkN2RHI3VGFlSnc4SFJoWTRwaHhMUUFzU1g3bVY1NjdtUk5OaHc?oc=5",
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "４月２７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbXljVGZUQkFld3VkdDlneFY0SmE2dmd3bDFHYmkzdjRNN1hlX1J5aU1ybDlxUFVMQVdUR0JOSzUwZ3dOR0ZFVTBEd2tIMXRvbkEzRXpINFFCNVVYd2ttOHNIV2xMWjVBZ2haVUNabUd6QdIBd0FVX3lxTE55THdNdGdEYnY2ZHNCVFl3V05nS2U3VWVBaFpWTV9YTm5TRS1lT2dVNDdoT2hKaG9kbWFhdVhETFNDdlNfN3cxUGRyRV9yVlhUNWJjbjV0UFZPRmk4enJaeXBXSVlGamgwOHVDVS1UVjJTZGZMdlow?oc=5",
+      "date": "Sun, 26 Apr 2026 20:00:00 GMT"
     },
     {
       "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
