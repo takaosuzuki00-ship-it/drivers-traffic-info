@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-04-30T03:03:49.702012",
+  "generated_at": "2026-04-30T06:03:54.558044",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 10.6,
-    "temp_max": 17.5,
-    "temp_min": 10.3,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 10.8,
+    "temp_max": 17.8,
+    "temp_min": 10.5,
     "precip_prob_max": 27,
-    "precip_sum": 0,
-    "wind_speed": 11.8,
+    "precip_sum": 0.2,
+    "wind_speed": 10.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.1,
+        "temp": 11.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 10.6,
+        "temp": 10.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 10.6,
+        "temp": 10.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 13.9,
+        "temp": 14.2,
         "weather": "曇り",
         "precip_prob": 0
       },
@@ -45,29 +45,29 @@
       },
       {
         "time": "15:00",
-        "temp": 16.4,
-        "weather": "晴れ時々曇",
+        "temp": 16.5,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 15.2,
-        "weather": "曇り",
+        "temp": 14.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 13.7,
-        "weather": "晴れ時々曇",
+        "temp": 13.4,
+        "weather": "曇り",
         "precip_prob": 24
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "4月29日（水）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Z2VYcjhDeGdSdG13YmlySGk0bTdobXlXVnVleDhWekg4TWhaRmk1WmdUMGl5a2t3QlpEZVBwRE1JRE1fOWtnZlN2Y0tTUEYyeUJzUWZuemphNU1YamtmSGdMSFNjTFF3UEtubTk3RdIBdEFVX3lxTE04SFBqTHljcVNuejNBWnJnSHlzd3FCMGhpbGd4TDctZVFsWnhvMmwtNnhpNDFud0M5V2JhVTR2N01JSm02R09pSVRyYmhDeEVZa2xDeUljUHp6RlNIUUhMYTJNUTlHYWlQdVJVZzdVN1NibHJs?oc=5",
-      "date": "Tue, 28 Apr 2026 20:02:00 GMT"
+      "title": "４月３０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9odFR3Q0xlc1hrRENpMjFfc1ZTZnFVWEZ0eWZzV2otLTBCbm5DUjNkZEhjY29tdHA2a20tV3RlOVRFMnphd0pOMm81S3FHbkc3eFVnT0Nmb21lNmxFNV84aS1nUllQd3VscUJZbmd5MzlTd9IBd0FVX3lxTFBuOFV3UVdVM3BKREZ6RU03NC1iT000dTEyZjl4OFNhWXpUOEwtVjJLSkpIRzFVR0czUWpYZWNWSFhhT2huVVpiWEljNUNUdlNGSE9ONWE0dWdNY2xoYjNjVUhIZm1hSXZqZkNqemJjbVJxUjk5eTI0?oc=5",
+      "date": "Wed, 29 Apr 2026 20:12:55 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１８日",
@@ -75,19 +75,19 @@
       "date": "Fri, 17 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月１日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
-      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xa3FYcmFLWGZCTVVrR1pBMFE1cU01TnM1QU85Tld0YmJsdk5uMHcySlhyb1l3OEMxSXFTb3F1Wlo3VURMZWdKZWdMaHVJeXluN0p6UmlvaF9pQ3Q0aEVnbXk5Q0xqck9GbEhNRUczY9IBdEFVX3lxTE1ObUJ0a1NvODNnWjM3UzdSZDlBNlJ5XzdzaHBIMU1EZTQyM056Um5HYmRISGdvOGM3QmNwWFk0WC1FMlhOSWE3X0k5SE9GWmFWNVp2aDdTTlFuek5ZZE1tZnI3VlZwcmJQTWZIdlNXYmxIVEx3?oc=5",
-      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
-    },
-    {
       "title": "【交通取締情報】福井県警 ４月１８日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycEJmY2NYMHFCeVhVMUlJX3RnQl9KRUVMQ2xGT185RHBLZlROSkpCOHAxYkQ0V0d6QXNGWWplc3pkMDNOYU5YTTNybw?oc=5",
       "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月28日（火）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWXVBUjBUa3hEbTdGbkxRaHdOWmpIZ2lxc3c5Z25FRmhJX0ZNVHN3emZFbTJMTmJOVzczVXNPTDZ3OWxqLXV6b0w2dnU1cVo3R2RxVm1aUTd5dm4xakhHZFRnMUVaV01SNlp6aXNDSdIBdEFVX3lxTE9ma0VGMUhQX1E1YndpUThpQzlXMnROSTR2Z3NIQ0o4M2pEaE9zR0hFVXItc3RLd0dieDJWOFNZdElqajNuVDVYNnUxSF9SaVYxd3VuQ1JnbWFIeUNKNDVDZzF0dVF5OGdJdzVoQm5pZVRuOXRk?oc=5",
+      "date": "Mon, 27 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Tue, 28 Apr 2026 08:05:03 GMT"
     },
     {
-      "title": "原付バイクと乗用車が正面衝突 50代男性が意識不明 何らかの原因で乗用車がセンターラインはみ出したか 金沢市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRGM3VmhxVElrUEd3aEVJT2poMF9WR1ZvZDVCb2lRTGhzaTNsQUx6R1l1MGFXWVZNTmk5d2IzOGZKRWtfajZfOFVnUGJSX0J5SlkySUNFNllwcHV0ekZwNFBRVGhHdnc?oc=5",
-      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+      "title": "「家族のこと見守ってね」 関越道バス事故から14年 石川の遺族らが事故現場で犠牲者追悼（テレビ金沢）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YM3FxODZoTVB6T0lBX2tTamZZelZpUlRlekw2QnNBd1RsWm9JZmd3N3hKbTBFcXZlOWozNEJJN1FzREhza1I1SHh1Uks2NHVqZGdUOUtiN1ZIb2hwVHkxVFBWVTJld2p4aGNUVG1LcDJIUkhDSUlkeWJQTEREM1E?oc=5",
+      "date": "Wed, 29 Apr 2026 09:31:01 GMT"
     }
   ],
   "official_links": [
