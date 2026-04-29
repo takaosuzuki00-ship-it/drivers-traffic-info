@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-29T12:05:01.263598",
+  "generated_at": "2026-04-29T15:05:02.333832",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 13.4,
+    "temp_now": 13.5,
     "temp_max": 14.9,
     "temp_min": 10.9,
     "precip_prob_max": 94,
     "precip_sum": 0,
-    "wind_speed": 10.2,
+    "wind_speed": 9.3,
     "hourly": [
       {
         "time": "00:00",
@@ -29,41 +29,46 @@
         "time": "06:00",
         "temp": 13.7,
         "weather": "曇り",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 14.4,
+        "temp": 14.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 39
+        "precip_prob": 51
       },
       {
         "time": "12:00",
-        "temp": 13.4,
+        "temp": 13.6,
         "weather": "曇り",
-        "precip_prob": 78
+        "precip_prob": 86
       },
       {
         "time": "15:00",
-        "temp": 13.7,
+        "temp": 13.5,
         "weather": "曇り",
-        "precip_prob": 76
+        "precip_prob": 86
       },
       {
         "time": "18:00",
         "temp": 12.6,
-        "weather": "晴れ",
-        "precip_prob": 47
+        "weather": "曇り",
+        "precip_prob": 61
       },
       {
         "time": "21:00",
-        "temp": 11.8,
+        "temp": 11.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "4月28日（火）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWXVBUjBUa3hEbTdGbkxRaHdOWmpIZ2lxc3c5Z25FRmhJX0ZNVHN3emZFbTJMTmJOVzczVXNPTDZ3OWxqLXV6b0w2dnU1cVo3R2RxVm1aUTd5dm4xakhHZFRnMUVaV01SNlp6aXNDSdIBdEFVX3lxTE9ma0VGMUhQX1E1YndpUThpQzlXMnROSTR2Z3NIQ0o4M2pEaE9zR0hFVXItc3RLd0dieDJWOFNZdElqajNuVDVYNnUxSF9SaVYxd3VuQ1JnbWFIeUNKNDVDZzF0dVF5OGdJdzVoQm5pZVRuOXRk?oc=5",
+      "date": "Mon, 27 Apr 2026 20:00:00 GMT"
+    },
     {
       "title": "【交通取締情報】福井県警 ４月１８日",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV290Q2NxRDVkejJsdUNnb3BFRzJUTVdqVm1ROWN1SDQtZXJoNHFQZVEzY0lVNVdlQTlRa0d1RUFia2hueTZDRk9PbzVkb0RORWpDbVFRS1ZMY096QXc?oc=5",
@@ -73,11 +78,6 @@
       "title": "【交通取締情報】福井県警 ４月１日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "4月22日（水）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83dllJc0sybzhqYVM1OWtrNGJUalhTWkl3R1BYbTdfRnlxZG9zU1h5Y0NrNEpMaHVjYk5lX2RXRFpTbkVxQ2F0dE5xRF91U0lvOVBldEJQbXFLdE1ZZjZ1NGRaX3dfU2lfTmd4VkhHQdIBdEFVX3lxTE8tYmhJQzdDN29UWUEyUFQ3MlpzYXNrV0RjWG1GN0p3Vm1MMHpRZEl3V3RpWWdsOXlhby0wZVA5ZklaaERVNjlfQzRJNjNuaWxGZXVFVEo2S3N1ZUlDMUE5UENSZTlPcGdUSXEwSDBaNkxTNkVF?oc=5",
-      "date": "Tue, 21 Apr 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１８日",
@@ -92,9 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "\"石川県内の4人含む7人死亡 38人重軽傷\" 関越道高速ツアーバス事故から14年 遺族ら現場で追悼",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtUkhpaXc3eUdPU1ctSlJpdjhvZ0l6NC1HcEpNdUYtaVNKZGxrUUJuX1BjTUM0ODM4c19QaGZ3ZEt5UXBrNHRESG5fS0RxMGVOWDVsdUJURGtCUHNVLXdZbXRzbUtyWlE?oc=5",
+      "date": "Wed, 29 Apr 2026 03:15:00 GMT"
+    },
+    {
       "title": "石川・金沢市 男性（55）が乗用車にはねられ死亡 26日未明の交差点近く",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKV19lbU04bS1IZDdMMk9jMGhDWG5NS1pyc3ZGUVdiUGlYcUlUZlMwWmpCeTlKZTczc1VWOFlmc0RIbmNPZmtuN1J4TWJFVDZyOGRnVk5uSQ?oc=5",
       "date": "Sun, 26 Apr 2026 01:51:00 GMT"
+    },
+    {
+      "title": "\"石川県内の4人含む7人死亡 38人重軽傷\" 関越道高速ツアーバス事故から14年 遺族ら現場で追悼（MRO北陸放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYZW5pbTBMZ3U1TXl4WFFOcGtiSzRHUWU2dlFqNzY1WE5rc2ZhWUphQkN4M29XNDdGUEJxNlBDaG90NXhhalBjQ0x1bTJKVEZWVXV3MFljcFFqT2YyTFhFU3dRRkdkRVl4ZXAxTjVQVkVkMHBEemU1YUcyYVQ1dGc?oc=5",
+      "date": "Wed, 29 Apr 2026 03:27:18 GMT"
     },
     {
       "title": "石川県金沢市の国道8号、交通事故で車線規制 4月25日朝、金沢河川国道事務所発表",
@@ -105,16 +115,6 @@
       "title": "乗用車とミニバイクが衝突 バイク運転の50代男性が意識不明の重体 石川・金沢市（2026年4月12日掲載）｜テレ金NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3FwUkt1anJyNWpsZEotN09lTGl6eDZkeUZlSEpvMFJ2NGN6cnVjQ3pIcWVoTjlTWXFHUTgySDNnNUdJcDJONlZqQm9pa0p5VXV4NW5GX2szbThfLTU4YWg0ak1MMFRpWDdQRDBRU3BwWjNLd09kYmZNQUp6Sms5ODQ5ZzIzaVk?oc=5",
       "date": "Tue, 28 Apr 2026 08:05:03 GMT"
-    },
-    {
-      "title": "石川・金沢市 男性（55）が乗用車にはねられ死亡 26日未明の交差点近く（MRO北陸放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pWGxCYjJrNmNvVk1vN25RTmc0V3FzYV93VkxYdEVRVnBIWnBqaUh0Y3dzTTFpeXZTVE5DX244MlRZLU4wX1dtLTdVN0ZMdElMQlNKNVl3a3pSa2VPX2RxbGFvYlFOcl92RXdaZFhDNzJiNUZBYWt4REVyWWl3VzA?oc=5",
-      "date": "Sun, 26 Apr 2026 01:52:16 GMT"
-    },
-    {
-      "title": "午前0時40分…未明の金沢で55歳男性が車にはねられ死亡 事故原因を調査中",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BWHVjOVFobmRoVnRVRDF5WVhVM05ZQm90QmRJd2dxVjVwVTlxUktRR2c1dW1WYklEc0hhcVNVZ2x5dEhDVUdJUl9RSHVOdw?oc=5",
-      "date": "Sun, 26 Apr 2026 08:09:00 GMT"
     }
   ],
   "official_links": [
