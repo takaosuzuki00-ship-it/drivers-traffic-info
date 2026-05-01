@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-05-01T09:04:08.719283",
+  "generated_at": "2026-05-01T21:04:08.869292",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 13.9,
-    "temp_max": 17.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 13.7,
+    "temp_max": 17.8,
     "temp_min": 12.1,
     "precip_prob_max": 100,
-    "precip_sum": 15.6,
-    "wind_speed": 5.7,
+    "precip_sum": 13.4,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 12.5,
         "weather": "強い霧雨",
-        "precip_prob": 25
+        "precip_prob": 35
       },
       {
         "time": "03:00",
         "temp": 12.6,
         "weather": "弱い雨",
-        "precip_prob": 51
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 12.6,
+        "temp": 12.7,
         "weather": "弱い霧雨",
-        "precip_prob": 49
+        "precip_prob": 82
       },
       {
         "time": "09:00",
-        "temp": 13.9,
-        "weather": "霧雨",
-        "precip_prob": 67
+        "temp": 13.5,
+        "weather": "弱い雨",
+        "precip_prob": 94
       },
       {
         "time": "12:00",
-        "temp": 16.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 90
+        "temp": 15.8,
+        "weather": "弱い雨",
+        "precip_prob": 96
       },
       {
         "time": "15:00",
-        "temp": 16.9,
-        "weather": "晴れ",
+        "temp": 17.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 14.4,
-        "weather": "晴れ",
-        "precip_prob": 61
+        "temp": 14.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 13.4,
+        "temp": 13.7,
         "weather": "曇り",
-        "precip_prob": 25
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xa3FYcmFLWGZCTVVrR1pBMFE1cU01TnM1QU85Tld0YmJsdk5uMHcySlhyb1l3OEMxSXFTb3F1Wlo3VURMZWdKZWdMaHVJeXluN0p6UmlvaF9pQ3Q0aEVnbXk5Q0xqck9GbEhNRUczY9IBdEFVX3lxTE1ObUJ0a1NvODNnWjM3UzdSZDlBNlJ5XzdzaHBIMU1EZTQyM056Um5HYmRISGdvOGM3QmNwWFk0WC1FMlhOSWE3X0k5SE9GWmFWNVp2aDdTTlFuek5ZZE1tZnI3VlZwcmJQTWZIdlNXYmxIVEx3?oc=5",
-      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
-    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -88,6 +83,11 @@
       "title": "停止中の車に追突 26歳の女 安全運転義務違反の疑いで現行犯逮捕 危険な速度と進路の安全確認しなかったか 富山",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZm9mSlBaQl9ueTA1dm5NNHNwUXg4ejl5RDJIS2xjbWRmVDRROGttcGVXU0tfWTJ2bnNpRmgtWmJKM2sxOFItTmluOHlTVVB6aFhsQkhYYjJ4Zw?oc=5",
       "date": "Tue, 16 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "富山・国道8号で初のヘリ取り締まり 先月の死亡事故受け「空と陸」から交通違反を摘発",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EN1Ryb2oxVUkwX294bnZSbXhHRG5BVDJFQWk1QnFrRXJsdW1saTVFYXM1d1d0NEtCSnFWdEN3cV9lS0NfVnE2bTZHd0xNYnBQMlFUdG55TEZSZ3otNVVDY3o2ZlRHVEh5RlluVFQ1T0E2WGRPQ2FOOWdDUQ?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Fri, 27 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "富山市の国道３５９号 車同士衝突の事故（北日本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YNEp2VU05VzA3SThYNWViTk95STZnN3NiZ2NNdDNLOXk3RllHTGplUmU0Z0UtYnZ4MXE0WVBQQms0WGFSSmFqN0FkYTl1dEZWU01OSHIyaVhfaGJjWTB5M0ZLOWhJZENfdjlpZmF5Q3NmY19VajBoUFdFejNNSjQ?oc=5",
-      "date": "Wed, 29 Apr 2026 10:28:00 GMT"
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-05-01T09:04:04.130175",
+  "generated_at": "2026-05-01T21:04:04.473257",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 15.0,
-    "temp_max": 20.2,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 13.4,
+    "temp_max": 19.4,
     "temp_min": 13.4,
     "precip_prob_max": 100,
-    "precip_sum": 8.5,
-    "wind_speed": 14.1,
+    "precip_sum": 17.9,
+    "wind_speed": 33.3,
     "hourly": [
       {
         "time": "00:00",
         "temp": 13.8,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
         "temp": 13.5,
         "weather": "曇り",
-        "precip_prob": 12
+        "precip_prob": 24
       },
       {
         "time": "06:00",
-        "temp": 14.3,
+        "temp": 13.9,
         "weather": "曇り",
-        "precip_prob": 71
+        "precip_prob": 90
       },
       {
         "time": "09:00",
-        "temp": 15.0,
+        "temp": 15.2,
         "weather": "弱い霧雨",
-        "precip_prob": 86
+        "precip_prob": 98
       },
       {
         "time": "12:00",
-        "temp": 18.0,
-        "weather": "曇り",
-        "precip_prob": 55
+        "temp": 17.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "15:00",
-        "temp": 18.5,
-        "weather": "霧雨",
+        "temp": 17.0,
+        "weather": "弱い霧雨",
         "precip_prob": 61
       },
       {
         "time": "18:00",
-        "temp": 13.9,
-        "weather": "霧雨",
+        "temp": 13.8,
+        "weather": "強い霧雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 13.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 13.4,
+        "weather": "霧雨",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月1日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QR0Zkd1Baak1Cd21aSmMwZFp0c3dMTTUwaVVKempXenZ2U2NoVWFvMHBVZHMzRFppMVVHd2ExeWQxbzB4UDZzeGVWWFF3U3FMbWZ4Z2FrSmlGN1NWUFRwRENjS1FBenBnbEF0RHdTSdIBdEFVX3lxTE1IZGJLZm9pSFhjNWlqVlFtTnJqVkJVYm5peXMtM2xHT1YxVkFkWkFKa0d3aDN1NlRVMmNDVzBqQlkxcFh1MDBPZXpTekhVOVhFZ29uUEFLSndRRFhmemJSY0w5bDFTZTI3YmxjUG1YZmFhQ09Q?oc=5",
-      "date": "Thu, 30 Apr 2026 21:46:26 GMT"
-    },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
@@ -85,16 +80,21 @@
       "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月１３日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qa1FULW9DVkl4WXBqa3p5THN6a2t1RHdLbWNuNUt1QUdVUVBpbkJ2cXlINXM3LUE3SUgyQ05oQUZhYlBfdWxiV2hETQ?oc=5",
-      "date": "Sun, 12 Apr 2026 07:00:00 GMT"
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mb0ZoSFBWeVcySWNqRzFvcUotcFpmX2lIQ0hLdUZTejVhdjZnV0JHejYwckNfcHlvRHR3YldDUmk0dEdpY2NRdmQyazJsbHpiV1l3S0ZtNHFDQ0toOTFXTzEwNGlGalJISVFxb0dtZ9IBdEFVX3lxTE14Ul83LWxOb2lrWW5fX0JFZjBCb2paYWpJNFJNVk9zXy10V1lyM1dSaDZGMnJ5Skk2TVYyOWc1eVhfSHk1U2VicHJpbTJ3LV9pVTdvMVlKYlR1V0N1N1lwaS10bEdSWG5nYlhKc2V2NGdTTGFU?oc=5",
+      "date": "Mon, 27 Apr 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【事故】信号のない交差点で軽自動車と軽トラックが衝突 78歳男性が死亡《新潟》（2026年4月28日掲載）｜TeNY NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJjWkhlSFFqUHhtb0tJTHRVNGFOOVlDNmFEbGlMcVI1Tk92ZlVQQ3JEMFQzQkljN0RMZ1RyQUtCNnduS3Y3OENsd0N5N00zTW9INV9WcFZfeUVhQzFWXzl4cmptMmsxVUJiQWtaVkpvalpFdGl5NHdiY3NQM1hiOTN4ck5CZkNV?oc=5",
-      "date": "Tue, 28 Apr 2026 07:19:00 GMT"
+      "title": "アクセルとブレーキの踏み間違えか…新潟県十日町市で車がコンクリート壁に衝突、運転手の男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pSUl5eEVkcWlwZzh5V0hXaFd4LTY5R2ZRdzYwYXJsbEFCRENleFhSRXEzaXB4Q1p2WmtoX2dIb1JISlI4?oc=5",
+      "date": "Thu, 30 Apr 2026 07:07:25 GMT"
     },
     {
       "title": "交通事故で死亡・重傷の中高生6548人、新潟県は118人・2021～25年 全国、県内とも自転車乗用中が最多",
@@ -102,19 +102,19 @@
       "date": "Sat, 28 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "【事故】信号のない交差点で軽自動車と軽トラックが衝突 78歳男性が死亡《新潟》（2026年4月28日掲載）｜TeNY NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHJjWkhlSFFqUHhtb0tJTHRVNGFOOVlDNmFEbGlMcVI1Tk92ZlVQQ3JEMFQzQkljN0RMZ1RyQUtCNnduS3Y3OENsd0N5N00zTW9INV9WcFZfeUVhQzFWXzl4cmptMmsxVUJiQWtaVkpvalpFdGl5NHdiY3NQM1hiOTN4ck5CZkNV?oc=5",
+      "date": "Tue, 28 Apr 2026 07:19:00 GMT"
+    },
+    {
       "title": "夕暮れ・夜間の交通事故防止",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HVVdVR29MbUdEWGVybDhmeXJ3Nnl5VGQ4SHYzOER2VVA0cDBtSFdfTFNJdjVBTVhwREFCcVZtMmFQWWlOeGhYQXJyMWtUcG5tS2JBVHEwOWlUMHlYSjdVT0hQMnRWUkFLdkZDZ2N3?oc=5",
       "date": "Fri, 09 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "“交通安全運動期間の事故” 新潟県内 前年比10件増の72件に…1人死亡・88人がケガ「気を引き締め運転を」",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80YnBYZzJJMTdQTmxUU3lVRi01RVFPSzR3VldYWElocVVyTzZ3N1gxYlN1enRCQ2dydUZHQVllQldiRl9wQUlXRjVDcHR0Zw?oc=5",
-      "date": "Fri, 24 Apr 2026 13:00:00 GMT"
-    },
-    {
-      "title": "アクセルとブレーキの踏み間違えか…新潟県十日町市で車がコンクリート壁に衝突、運転手の男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pSUl5eEVkcWlwZzh5V0hXaFd4LTY5R2ZRdzYwYXJsbEFCRENleFhSRXEzaXB4Q1p2WmtoX2dIb1JISlI4?oc=5",
-      "date": "Thu, 30 Apr 2026 07:07:25 GMT"
+      "title": "阿賀野市の交差点で軽乗用車と軽トラックが衝突事故、高齢男性が死亡【新潟】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQSFdEQllDOXFUdEJTTTlCTkg2eXlWX05uV1prTm1CeTdrcUN2XzJZaktmUmc1VV9nRmNwbzU3Z1ZMX0xYN2pDUXY0WGhZdHM0d1NSMTJJZDZyV0JaTGhXdGstUldtRkU3WkpYUWpUa2wtTUhxd3FtNWJ3cFc4dTF4R0hUQzk0WGlnVlVOTGxhdWR3c2FtYTBKREhPanYzSURDaERWVzEtNHI5WGtHTHJrWTZMNGVQd0ZQUUtaMVJEeTlFZENWMHB1bEJVSjhiNHBmZWp5MS14aFZQWTFqUU1zcEhRTzM3N0pNeHl0cldsZjFqc28ySEtjWDJzeWZSOGdFTGdrLVd0eTBrbkhPRVgwdDNqUmpTeklQbTRsNFZQR0RLWHBkZFpzcnk4RklmcVpqTlNZaDNPVFJjRWVxTzQ1cmRUem55VndzUUQ0?oc=5",
+      "date": "Tue, 28 Apr 2026 07:53:52 GMT"
     }
   ],
   "official_links": [
