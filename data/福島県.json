@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-05-02T00:03:01.226908",
+  "generated_at": "2026-05-02T03:03:40.991137",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 12.5,
-    "temp_max": 20.7,
-    "temp_min": 9.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 13.3,
+    "temp_max": 20.6,
+    "temp_min": 10.6,
     "precip_prob_max": 100,
-    "precip_sum": 6.9,
-    "wind_speed": 8.6,
+    "precip_sum": 2.9,
+    "wind_speed": 11.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.5,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 13.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "03:00",
-        "temp": 12.1,
-        "weather": "強い霧雨",
+        "temp": 13.3,
+        "weather": "弱い霧雨",
         "precip_prob": 90
       },
       {
         "time": "06:00",
-        "temp": 11.2,
+        "temp": 11.8,
         "weather": "快晴",
         "precip_prob": 100
       },
@@ -35,11 +35,11 @@
         "time": "09:00",
         "temp": 18.0,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 20.7,
+        "temp": 20.6,
         "weather": "快晴",
         "precip_prob": 0
       },
