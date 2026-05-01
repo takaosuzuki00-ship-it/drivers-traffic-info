@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-01T21:05:57.127434",
+  "generated_at": "2026-05-02T00:04:45.192916",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 13.4,
-    "temp_max": 16.8,
-    "temp_min": 12.1,
-    "precip_prob_max": 100,
-    "precip_sum": 13.1,
-    "wind_speed": 20.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 14.2,
+    "temp_max": 21.9,
+    "temp_min": 10.9,
+    "precip_prob_max": 84,
+    "precip_sum": 0,
+    "wind_speed": 10.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.9,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 84
       },
       {
         "time": "03:00",
-        "temp": 14.4,
-        "weather": "晴れ",
-        "precip_prob": 88
+        "temp": 11.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "temp": 11.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 15.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 16.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 15.6,
+        "temp": 20.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 94
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 13.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 18.5,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 13.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },

@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-01T21:04:13.495816",
+  "generated_at": "2026-05-02T00:03:45.608783",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 13.2,
-    "temp_max": 15.5,
-    "temp_min": 12.2,
+    "temp_now": 12.9,
+    "temp_max": 18.4,
+    "temp_min": 12.1,
     "precip_prob_max": 100,
-    "precip_sum": 18.2,
-    "wind_speed": 20.9,
+    "precip_sum": 2.6,
+    "wind_speed": 26.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.4,
-        "weather": "霧雨",
-        "precip_prob": 43
+        "temp": 12.9,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 12.8,
-        "weather": "霧雨",
+        "temp": 13.2,
+        "weather": "晴れ",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 13.4,
-        "weather": "霧雨",
-        "precip_prob": 71
+        "temp": 12.4,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 14.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 18.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 14.4,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 14.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
+        "temp": 16.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 13.2,
-        "weather": "曇り",
-        "precip_prob": 20
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },

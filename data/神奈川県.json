@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-01T21:04:00.796178",
+  "generated_at": "2026-05-02T00:03:32.223309",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 17.2,
-    "temp_max": 20.6,
-    "temp_min": 10.2,
-    "precip_prob_max": 100,
-    "precip_sum": 74.4,
-    "wind_speed": 15.5,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.0,
+    "temp_max": 25.8,
+    "temp_min": 14.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 15.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.3,
-        "weather": "強い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "03:00",
-        "temp": 10.4,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "06:00",
-        "temp": 10.9,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 11.8,
-        "weather": "強い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
-        "temp": 13.8,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 19.5,
-        "weather": "快晴",
-        "precip_prob": 94
-      },
-      {
-        "time": "18:00",
-        "temp": 19.1,
+        "temp": 16.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 17.2,
+        "time": "03:00",
+        "temp": 14.9,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
