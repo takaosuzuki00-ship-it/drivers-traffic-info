@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-03T03:05:37.343142",
+  "generated_at": "2026-05-03T06:06:44.353676",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 15.0,
-    "temp_max": 22.0,
-    "temp_min": 15.0,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 17.1,
+    "temp_max": 21.9,
+    "temp_min": 14.9,
     "precip_prob_max": 100,
-    "precip_sum": 40.7,
-    "wind_speed": 4.4,
+    "precip_sum": 38.4,
+    "wind_speed": 6.6,
     "hourly": [
       {
         "time": "00:00",
@@ -21,14 +21,14 @@
       },
       {
         "time": "03:00",
-        "temp": 15.0,
-        "weather": "晴れ",
+        "temp": 14.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.9,
-        "weather": "晴れ時々曇",
+        "temp": 17.1,
+        "weather": "晴れ",
         "precip_prob": 2
       },
       {
@@ -39,31 +39,36 @@
       },
       {
         "time": "12:00",
-        "temp": 20.4,
-        "weather": "霧雨",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
         "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 19.9,
-        "weather": "霧雨",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
         "precip_prob": 39
       },
       {
         "time": "18:00",
-        "temp": 19.3,
+        "temp": 19.4,
         "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 20.9,
+        "temp": 20.8,
         "weather": "雨",
         "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月3日（日）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdHp5M1dWNzlxakNhNnVRT1A5b0hkeUYxYkNaSGJWSmRpOTN6aTBLNm5FR0E2YkdVWldqeWw3YUlaWW91WTR1Zll5a1N5Vzd4a05LM2NWNmhlMDBwTHdOSUF0WUFrREhoaGxUaGZsa9IBdEFVX3lxTFB6WlItb0U3SDh3dUp6LXUtdnphMUdFczBzQVJJcWZMczN5RXJ0UXBwcTRBZS0wa3NBZ3NkQkJNNFR6YVVfZ0hyVE93NjFBb3FLZ0ZTVFhyZHJ3Z043djNKS2FqZ0ppQVlFaFlIMUpJdG1MYVVu?oc=5",
+      "date": "Sat, 02 May 2026 20:05:43 GMT"
+    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -87,11 +92,6 @@
       "date": "Fri, 20 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "交通事故に気を付けて 新１年生に黄色いワッペン、和歌山県田辺市",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtZkVuOWZZSDhCTVV6SU1IaVhndVZPYlRLNUM1MV9TcG10Mnp4dmpsMUIzSzN3MkhJdnlaaGpqOVZCZmJSUXZMdE1sNDhhZUE?oc=5",
-      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "ショベルカー、危険な積み方で死亡事故か「小さい現場、昔から」 [和歌山県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aTlNMUFFwX1Q0VWZPUGd3UnVDVXB5eVJGSjhaNGlCc2RTbUlMOGdjcDNxaDk3NnpWYXA4aUxUQ1JhN1ZLTkZSSnMxU3JXYXRIZTE5MFhRZEJ6OG9iYXBBWUNUaUx6cm8?oc=5",
       "date": "Sat, 13 Dec 2025 08:00:00 GMT"
@@ -100,6 +100,11 @@
       "title": "和歌山県が認可外保育所の監督強化へ 死亡事故受け独自指針の運用開始",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZjhqRTduRTNzZ3VjZElsYUwyVGFYQzUtUXZsZ24wbjhGOVBtb2dWcm5uRFFIUlZVOUhjbk9lUGpNSjB1bE0ybF9NdnR2YUZPNEhZ?oc=5",
       "date": "Tue, 17 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "許可外保育の指導強化 田辺の死亡事件受け、和歌山県が指針（紀伊民報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QMnlrWmJqSUtvc0ZVUWRweXQwZjJFQjcyVWRoYjJRdnFocDE0NTA0QTlXVzZGa2M1TTVKdW93d0lQOFIwMVlSOUJwVjc0amQ0MzhuQ3BjQkNHMjY5T1dyUVZKU2hoV2tRMVpyeWQ4MUJ2MlpNZmxzMDIxSGw0djg?oc=5",
+      "date": "Sat, 28 Feb 2026 08:00:00 GMT"
     }
   ],
   "official_links": [

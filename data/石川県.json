@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-05-03T03:04:20.760598",
+  "generated_at": "2026-05-03T06:05:01.571897",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 13.7,
-    "temp_max": 20.2,
-    "temp_min": 13.4,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 13.8,
+    "temp_max": 22.4,
+    "temp_min": 13.1,
     "precip_prob_max": 100,
-    "precip_sum": 8.3,
-    "wind_speed": 6.6,
+    "precip_sum": 9.2,
+    "wind_speed": 6.9,
     "hourly": [
       {
         "time": "00:00",
+        "temp": 13.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
         "temp": 13.9,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 13.7,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
         "time": "06:00",
-        "temp": 13.6,
+        "temp": 13.8,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 20.2,
+        "temp": 17.7,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
+        "time": "12:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
         "time": "15:00",
-        "temp": 18.8,
+        "temp": 18.9,
         "weather": "弱い霧雨",
         "precip_prob": 16
       },
       {
         "time": "18:00",
         "temp": 15.9,
-        "weather": "弱い雨",
+        "weather": "強い霧雨",
         "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 17.4,
-        "weather": "弱い雨",
+        "temp": 17.0,
+        "weather": "霧雨",
         "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "【交通取締情報】福井県警 ４月１８日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycEJmY2NYMHFCeVhVMUlJX3RnQl9KRUVMQ2xGT185RHBLZlROSkpCOHAxYkQ0V0d6QXNGWWplc3pkMDNOYU5YTTNybw?oc=5",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "4月29日（水）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -107,14 +107,14 @@
       "date": "Wed, 29 Apr 2026 03:27:18 GMT"
     },
     {
+      "title": "乗用車とミニバイクが衝突 バイク運転の50代男性が意識不明の重体 石川・金沢市（2026年4月12日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3FwUkt1anJyNWpsZEotN09lTGl6eDZkeUZlSEpvMFJ2NGN6cnVjQ3pIcWVoTjlTWXFHUTgySDNnNUdJcDJONlZqQm9pa0p5VXV4NW5GX2szbThfLTU4YWg0ak1MMFRpWDdQRDBRU3BwWjNLd09kYmZNQUp6Sms5ODQ5ZzIzaVk?oc=5",
+      "date": "Tue, 28 Apr 2026 08:05:03 GMT"
+    },
+    {
       "title": "春の交通安全運動期間、事故４２件、死者ゼロ 石川県内",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rNnM4MDlrQ1k0Z3M1VWtqLS1mQmNRLUt1LTN5WDIyTXZKTVNUSFEzajJBbmhNWjVsSkdydzlRZkxOODgtZUstNFFYNA?oc=5",
       "date": "Thu, 16 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "国道交差点でトラックが自転車はね50代男性が死亡 運転手を過失運転致死の疑いで逮捕 石川・金沢市",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3luTjB2My1lWkxpVVI0dG42ellXWVVicC1zTEZybFltUEZEWThCVnpmT2REakYxVTdzQmo5S1oxRW9ubnZkcU1EM211R3VGSGFvUk45YzRWd0dpaFV3LWxrdFZjVXRYb0EtS1F1eW9kYmlFdXI4QkVuM0VQSmE4UV9ocktwOEk?oc=5",
-      "date": "Thu, 19 Feb 2026 07:13:37 GMT"
     }
   ],
   "official_links": [
