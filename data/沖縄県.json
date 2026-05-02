@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-02T21:06:41.196663",
+  "generated_at": "2026-05-03T00:06:17.461766",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.3,
-    "temp_max": 23.4,
-    "temp_min": 17.1,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 13.7,
+    "code": 80,
+    "weather": "にわか雨",
+    "temp_now": 21.6,
+    "temp_max": 26.5,
+    "temp_min": 21.6,
+    "precip_prob_max": 82,
+    "precip_sum": 4.4,
+    "wind_speed": 15.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.0,
+        "temp": 21.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 17.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 21.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "12:00",
-        "temp": 23.0,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 26.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
       },
       {
         "time": "15:00",
-        "temp": 23.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 26.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 22.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 25.0,
+        "weather": "曇り",
+        "precip_prob": 49
       },
       {
         "time": "21:00",
-        "temp": 21.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 23.9,
+        "weather": "にわか雨",
+        "precip_prob": 6
       }
     ]
   },

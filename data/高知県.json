@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-05-02T21:06:04.039373",
+  "generated_at": "2026-05-03T00:05:43.701738",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 17.1,
-    "temp_max": 24.6,
-    "temp_min": 11.9,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 4.3,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 16.6,
+    "temp_max": 22.0,
+    "temp_min": 15.7,
+    "precip_prob_max": 100,
+    "precip_sum": 68.7,
+    "wind_speed": 1.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.4,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 12.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 12.8,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 20.7,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 24.3,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 23.1,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 21.3,
+        "temp": 16.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 17.1,
+        "time": "03:00",
+        "temp": 15.9,
         "weather": "晴れ",
         "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.8,
+        "weather": "霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 19.5,
+        "weather": "強い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 19.7,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "強い雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "５月２日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fREJyRmNJNlVVdGM5RWtIYTZRS3daNjhiODNEM0dwaXR2ZmtUazJVZG84czlSbEs2M0kySFd0WHRDaTZPbm9VZFc5ZGUtR3kyM3BHT29faTgxRlU?oc=5",
-      "date": "Fri, 01 May 2026 20:00:00 GMT"
-    },
-    {
       "title": "5月2日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJS2QydHFMVG5EQmpiM3Y5T3FhaDZGRC1QY3ZKaFBOeTd4aU9ncW9TUWNzVlZGQnFiNHJpMEpiWmFvb21QS3JHbnRFNjU2NlByMWdtcVhSQVNnU19XU1F6UXZTckE2NVVEMWZFUG5xRzhiY1VwTGQ1NlhCMnJ0ZTA?oc=5",
       "date": "Fri, 01 May 2026 20:00:46 GMT"
+    },
+    {
+      "title": "４月２９日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mQ1hrb3BMN0xhQ1pVUWZyZWEwR21Gc0tDeUZkVWVhLUpycmNTOGVlQ2l4Y0dOMkdUbllpc3l1WE5kTE5mS1FiejNNWW9SWW96NlhPRTVpemF0NGc?oc=5",
+      "date": "Tue, 28 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月2日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdk9yUEtfVWlmdDRac3JKamNXUlJGUXVKbi1HY0diSi10UXZhZGNuYy1oYTJrakt2blV1X0c4dlpodldBVHNyY045THRSQ2oyaE9DT3FjS3R6dmoyZ3dfOUVkZEdubVExMGd5LUhwazlURU9NVTVyb040SzlISGZvVTQzZUJzWjhUQTMwTHVn?oc=5",
+      "date": "Fri, 01 May 2026 20:33:54 GMT"
     },
     {
       "title": "４月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -80,14 +85,9 @@
       "date": "Tue, 28 Apr 2026 20:00:00 GMT"
     },
     {
-      "title": "4月30日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUWZudk96UVZXX212TDFJQTNJSUpLdlZkUnh2Yzg1WXhJMWpEdGZJV2xCSUMwWmlKb2t5S0JVMUJKM1FBZmlqakd3WW41UW1iQWNEc2hxZWc2Umx4djg1RDR1Z1VPVzE0QXdMemtESWRyWnVsTmVJM3FmVXVRZGc?oc=5",
-      "date": "Wed, 29 Apr 2026 20:00:40 GMT"
-    },
-    {
-      "title": "４月２９日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mQ1hrb3BMN0xhQ1pVUWZyZWEwR21Gc0tDeUZkVWVhLUpycmNTOGVlQ2l4Y0dOMkdUbllpc3l1WE5kTE5mS1FiejNNWW9SWW96NlhPRTVpemF0NGc?oc=5",
-      "date": "Tue, 28 Apr 2026 20:00:00 GMT"
+      "title": "４月３０日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UcHZjWmRhQ3lSelhGS1pnSExWZmEwWTgtWEJuNlFPeTBtcmtCaXZaZ2UxcVZLYVpsaUIzcnJrd0dQYV9leGdWVGNPMjZyUnpGeExwcmZxU2pyaVE?oc=5",
+      "date": "Wed, 29 Apr 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "高知県警と高知ヤクルトが連携協定 特殊詐欺・交通事故の被害防止を呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZbXIxeEFlTWFMRnUyaW80NDJZVzhmZ1E3Q3VGNkR6eUU0V2JvakpybTNXQV9rdGNFa0NydlBTWnJiN2xYV3AzUmhlaUJfMF9XaFJiLWFDQ3AwUGF6dkE?oc=5",
-      "date": "Sat, 25 Apr 2026 23:14:00 GMT"
+      "title": "交通事故死ゼロを目指す日 : ブログ : 高知市議会 山根たかひろホームページ",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRV85c1FjVGg3QmwydFNScHZZQVQ5V0cyTlZLUExndzFNNU5LLXNuQi1BV0g5UXdJNmYwM1NZTjZkY0dwTzUtV0NNSmREZDh4VGoydGc0cndzX3cxQW1MTFAzc1pOQ0lFa3RwVjRrUnNxYTUwajFUekFFS05XclM4a2g4TEdmQks1anlWcGFNWTQ2MnFmLUlnSjJNV1FoTEtjd0FfbGdVdzI1SVRBVGZrMkFSMlN0VndDX3V2SG5DNlIwVDdtUExlS3JYaHk1ZnlPN0dNZzctR0h3U2VpVEE2Y3gyRjhEMXNJdWdwemdGVE50UXVJdnB1SzZmUFVrNVZi?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-05-02T21:05:39.786757",
+  "generated_at": "2026-05-03T00:05:20.119334",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 17.4,
-    "temp_max": 23.4,
-    "temp_min": 10.8,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 3.2,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 15.7,
+    "temp_max": 18.8,
+    "temp_min": 15.1,
+    "precip_prob_max": 100,
+    "precip_sum": 63.0,
+    "wind_speed": 3.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.5,
+        "temp": 15.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 11.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 15.3,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 11.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 15.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 16.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 16.2,
+        "weather": "強い霧雨",
+        "precip_prob": 49
       },
       {
         "time": "12:00",
-        "temp": 22.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 16.8,
+        "weather": "雨",
+        "precip_prob": 84
       },
       {
         "time": "15:00",
-        "temp": 22.8,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 17.5,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 21.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 18.4,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 17.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 18.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "５月２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CYkpjSDF1QlFibG5CR3YyUExVUVEyQzJRODlvaGZid2lMejhLU0RtbXE5SlZIckJua09JS3dENlpIOU5URnJpM0E4U1NvNHVHLTNJWjBncVg5V1h0Q1FqLXBhQlZrTDM2VkFTZHItUjQ5UdIBd0FVX3lxTE9ENUdfQlNQUnJBaVNUaGFpOE1XRm1DSGVKVlExV085c3Q2THFSSlFpUXpfd2xJb0liUFdzOXd5eHNGY1hkMmxaQTRFQWdhSVJ2TzdDa1VHV0tnYmt0NjV6U0RFT2hKdnE2Z05Sc0NxZE15bnYzc1NB?oc=5",
-      "date": "Fri, 01 May 2026 20:37:30 GMT"
+      "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZ2ZwUXEyWC1lTVVXU2ttbWM4ak9BeUpVTlJacGVpNzhUU2F0dnRxaG80M3drbkQ0TldwbHFONTRWSnQ2NDBfWHE5bHVQemVGODZUN3F5T29YNE9rMkdUbWxUUlhfTDA?oc=5",
+      "date": "Mon, 27 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月1日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QR0Zkd1Baak1Cd21aSmMwZFp0c3dMTTUwaVVKempXenZ2U2NoVWFvMHBVZHMzRFppMVVHd2ExeWQxbzB4UDZzeGVWWFF3U3FMbWZ4Z2FrSmlGN1NWUFRwRENjS1FBenBnbEF0RHdTSdIBdEFVX3lxTE1IZGJLZm9pSFhjNWlqVlFtTnJqVkJVYm5peXMtM2xHT1YxVkFkWkFKa0d3aDN1NlRVMmNDVzBqQlkxcFh1MDBPZXpTekhVOVhFZ29uUEFLSndRRFhmemJSY0w5bDFTZTI3YmxjUG1YZmFhQ09Q?oc=5",
+      "date": "Thu, 30 Apr 2026 20:02:00 GMT"
     },
     {
       "title": "広島県警、衆院選で11件の警告 取締本部を解散",
@@ -75,19 +80,14 @@
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
-      "date": "Fri, 01 May 2026 20:02:00 GMT"
+      "title": "５月２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CYkpjSDF1QlFibG5CR3YyUExVUVEyQzJRODlvaGZid2lMejhLU0RtbXE5SlZIckJua09JS3dENlpIOU5URnJpM0E4U1NvNHVHLTNJWjBncVg5V1h0Q1FqLXBhQlZrTDM2VkFTZHItUjQ5UdIBd0FVX3lxTE9ENUdfQlNQUnJBaVNUaGFpOE1XRm1DSGVKVlExV085c3Q2THFSSlFpUXpfd2xJb0liUFdzOXd5eHNGY1hkMmxaQTRFQWdhSVJ2TzdDa1VHV0tnYmt0NjV6U0RFT2hKdnE2Z05Sc0NxZE15bnYzc1NB?oc=5",
+      "date": "Fri, 01 May 2026 20:00:00 GMT"
     },
     {
       "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lYzNLUTJtczZmTXlDMk5ESkNtTWVsYW9DQ0R4b1JGVEg5b0UtaTBDMC0yNUxwa2hTNzVQRDdxUmhfVDhRbEMxbXhHQXJCUi1sTzNQdlJ2TVFaUQ?oc=5",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hSHNBYTRZeXQtcW5neVlHdGRrX2R0Y0Z3TGwtbEw2UkNVZmRST29pSE1EY2ZCVXM5a2hwbmV5bE5uNWJEc3VEV05BMA?oc=5",
-      "date": "Tue, 23 Dec 2025 02:32:47 GMT"
     }
   ],
   "accident_news": [

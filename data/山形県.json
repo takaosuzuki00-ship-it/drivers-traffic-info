@@ -1,83 +1,73 @@
 {
-  "generated_at": "2026-05-02T21:03:18.803222",
+  "generated_at": "2026-05-03T00:03:17.237877",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 12.2,
-    "temp_max": 18.0,
-    "temp_min": 9.8,
-    "precip_prob_max": 100,
-    "precip_sum": 2.8,
-    "wind_speed": 5.0,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 12.4,
+    "temp_max": 22.0,
+    "temp_min": 12.4,
+    "precip_prob_max": 90,
+    "precip_sum": 0.8,
+    "wind_speed": 4.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.2,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 12.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 12.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "06:00",
-        "temp": 9.8,
-        "weather": "快晴",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 14.9,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 18.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 17.2,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 14.7,
+        "temp": 12.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 12.2,
-        "weather": "快晴",
+        "time": "06:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
+      },
+      {
+        "time": "21:00",
+        "temp": 14.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "5月1日（金）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KaHB3TUZwY2JoLXNsLUFjZ0FqS25xMzd6MjdCR1lMT05Oc25HZWhqQzYyNWR3dW1HeVVVZEwtbTZCUTZkSFBGYUZkR3hmNE1FckxTUG0tU1kzNkR1OTJ3THFSU3Jodlk?oc=5",
-      "date": "Thu, 30 Apr 2026 20:00:00 GMT"
-    },
-    {
       "title": "5月2日（土）【岩手県】　日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNlhyajBFQmdqcTlrZ25IeWFLN1p3QnlEUTE1dkRVN0c1Yzk2a2YwWjIyVWFNUEJydllkM01INWJ5bU5fR01JMWlaWmVRZTcwTTRHMGZ4ZDFzelJnU1RjZ2draVJMNlRQaWlMZzFxVdIBdEFVX3lxTE1tdHJrLXk1OFBXdnI0eExqZFhhbDVKanBpX0lveVlwMUZYZ0NiMGtLVmVuSnRJcjJBanNEdUZvdF9EbU5RNHFpV2p3RTJndktpdnU2RmR2eG85cWdnVkotNC1yLW15blNSWnBUUHZSbmY2eXJO?oc=5",
       "date": "Fri, 01 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
-      "date": "Fri, 01 May 2026 20:02:00 GMT"
     },
     {
       "title": "4月27日（月）【岩手県】 日中・夜間の交通取締情報",
@@ -88,13 +78,28 @@
       "title": "【交通取締情報】福井県警 ４月８日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRnhzcU42NWxZUndCWjgySkY1T29RQlVPazl3b0dJY3BhVk9fOUl1ekZ5b1FLVEplT0pSVUdNWWJhYlFZYnlFQkdxNA?oc=5",
       "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
+      "date": "Fri, 01 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WUMwVFVrWU9jeW16SGxKOEE1RWhETjZucWZaUVJPYlVvYlFWUTFTU1AxeERFWkx1bWJuM0tZTTNYQ3V5QWdzcHVfbDJQcUJoZkZyeExXZFRCZw?oc=5",
+      "date": "Sat, 25 Apr 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "軽乗用車は横転し...関山峠で軽乗用車と大型トレーラーが衝突 居眠り運転が事故原因か（山形・東根市）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82clBub25KQ2RYQmFHd0J6V0tmbGwyNGN3Y3d1am1UelgtRGllTW1yLUp3M3RfOWFZUWJsYW9WNm90a21hdkpzTXNBVnIwbHh1ejcxdUx5MzY3WnBKTDByNVgtbTJoTk0?oc=5",
-      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+      "title": "【現場画像】1人が意識不明に 山形市嶋北で交通事故 車体は大きく破損",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12eU4yR3VlNkx3WnRLUmNraXIxcWpFUzliXzdrVFZrT1FHUHRNemp3Y1ZXbW5aR01oeHlkXzdnWVM2MENydkZPYU9EMzN3N24tc2hiRlRSbUU2QXk2cFMweXd2bEgxb1k?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "特殊詐欺の被害防止や交通事故防止へ　警察署と郵便局が協定締結（山形）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZT2lGTGZhRW1SWUNwY3F4UEJNYlJ3Rm5NbVVZZU5ocFh0cWJaakRfSzlMTWNXdy13NkhuSkc1UVNMbHlJbHRWZkw0RTl5UnZpQVQ0elVDUXE5eDB3Y1VCOV81TVVGMVZhVDVfOTRkRdIBdEFVX3lxTFBVdUctT25EY25ac2YzclptZkgxY1NkanF2Wjd2VEVMSnZuMVg5bXc4OGZPYkRUcEZOMi04QWxndG9WN2NGa0RFX1hxWkFVRmRwMnNPLS1wUTNRQm5lcklNa0VJQ1VSZW9LelR6X2x2SkJycU9o?oc=5",
+      "date": "Mon, 27 Apr 2026 03:14:00 GMT"
     },
     {
       "title": "交通事故67件（前年比+16件）・死者2人 自転車の「青切符」検挙なし 山形・春の交通安全県民運動｜ニュース",
@@ -110,11 +115,6 @@
       "title": "「1件でも悲惨な交通事故が減っていけば」春の交通安全県民運動スタート 山形県内で出発式",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOajlxcmR4Zmo0OHBGdXR6bDdMY2hkVElQVVAxTndMUjFVSHNIQmhmNzc4a2p6dVRSLUhPZzBON0MtTS10c0NudVNNZUVYMnZ1YWYtWDNXdnNST2RBWEJzdXVPQmFfYzk1WXJ4QU80UDBmSUFmY2xCNXhRN3ozYzlsUXkyTlBqb3c?oc=5",
       "date": "Tue, 07 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【速報】山形市嶋北で交通事故　女性1人が意識不明（現場画像あり）",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yZmdFVHRaLUhIbFVaT1ZvWDRKTkNsSW13NkpOdVlpSWpBWDd2LWdVZ25mNWI2bVJ4Ym9lWGxkMlAxcTdCSzhrOVprTGxOVkQyTjJ3OU80NExaaGd4SDRBMEk4NzhRSFVOc18yMG9nUdIBdEFVX3lxTE5CenZGc2lyQ010aTdsLUNMSWcxWVF2elZla0tQSkNnOFoxMHl6R0k0UVZKNktRQ3pVSmRUWWQzUWt4ajllNW84eE5KeFdoVW9lZ3htNFFGYVhjdnNISm1mQU1VRmVqbDNBTnBVcEhmanZlenVO?oc=5",
-      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
