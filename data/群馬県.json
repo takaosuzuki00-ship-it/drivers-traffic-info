@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-05-02T15:41:31.822917",
+  "generated_at": "2026-05-02T18:03:14.951312",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.6,
+    "temp_max": 24.5,
+    "temp_min": 12.4,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 14.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.4,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 13.9,
+        "weather": "快晴",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 14.7,
+        "weather": "快晴",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車の“歩道走行”は取締対象になる？「車道走行で命の危険」罰則強化に困惑の声も…正しいルールを解説【あなたの声で調査しました】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEWjkyLVdHSEk0WExwcXVUcFZaVzExSFdaTkFyMGJMREZrSVRqdUFnellSWUgtdW1taG16MnFJZ3pBUUl6Zl9FdXJmLVZnek11Tm94UlF4WE1uTHhWdXc?oc=5",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "標識見えないのに…誤って32人摘発 反則金返還へ 7市13カ所の横断歩道で不備 群馬県警",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rWGIyQXNEWWZ3SDR5V3ZDemZYdFRJZ01ibUU5VGFNZm5jazB1VURHajd1ZW1kbHAxbWJ0M21pdHV4alhXRlBDY1dzZkx3dGpWdFhzNGdqN0U?oc=5",
+      "date": "Tue, 20 Dec 2022 08:00:00 GMT"
+    },
+    {
+      "title": "動画サイトで自慢するため、故意に速度超過違反を行った男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ya19GYlA1bzJNeEZ2RzVkTm1OellhVXlRR280VDVkS0c4Qk9BdHE0eFRJZk5TYkxiN3AyeHFyREN1TFhKbmo2NzBkNDhuNEV0UDhpWGk0RlprMDJaSGV3?oc=5",
+      "date": "Sun, 21 Jun 2015 07:00:00 GMT"
+    },
+    {
+      "title": "高速道に可搬式オービス 秋の行楽期の摘発強化 Go Toで車両増 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ScU9jQW12VkxzeEVXRS1tT2VINy0waGQ3cjhNWkkzQ0FiajlmeDA0aTdBek9YOFUtYXJKZmVuZXUxRHpfdVh0NFdXLUh6R3pSU0ZpSFB3Zw?oc=5",
+      "date": "Mon, 23 Nov 2020 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽バンと衝突、オートバイの男性が重傷 群馬・太田市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93MVVjZkZ3enNCTjY2ZnR4UUZ5cTFLc1RiU1Z5T3JneFBrcFRSX0NJem1hcDNEQ1BheXVYXzM4dWMzRkVqZ1ZtSlFtbUlsRThCc1V2QTdlekQ?oc=5",
+      "date": "Fri, 01 May 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「シカと衝突」したバイク男性が後続車にひき逃げされ死亡 目撃者も別のシカと衝突…現場で何が？ 61歳女を逮捕 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43RFBCb2o3aDVmM0dnb1lEbEpDMmhOaWpVcVJEM0VVaEFWbFdRdFBSV1BseXNQaVdoVmMwbzJzaVI3N3NlSFItcEk5dzF1czZaVG1fdDVhZw?oc=5",
+      "date": "Wed, 29 Apr 2026 22:27:24 GMT"
+    },
+    {
+      "title": "群馬・渋川でひき逃げか「道路に倒れている人が車にひかれた」、６１歳男性の死亡確認…近くにバイクとシカの死骸",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82eUw1QnZVTmMzQlM4c19WeG51b2N2US1tcGh4d0JHc1dxUDBBZlM3ZmNsM0xuUW1ZVm4waDhFX2hQUVlWSVZvY0dabFVfWHNEZF90UFlvNkg3RmFRLUpVTmd2WjZodw?oc=5",
+      "date": "Wed, 29 Apr 2026 02:35:00 GMT"
+    },
+    {
+      "title": "「バイクと人が倒れている」国道でひき逃げか男性死亡 バイクでシカと衝突後に後続車にはねられた可能性も 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GYmI4MzFnYVhCTUc3N1M0RWhpeHMxZVpPUTN3cjllS3ptcUhlNGs1TUVUaUpBdDF2RjhpTTlRZXFnTzBqRE5CR2hINDYyQQ?oc=5",
+      "date": "Wed, 29 Apr 2026 01:22:00 GMT"
+    },
+    {
+      "title": "バイクの男性が乗用車と衝突し重傷 群馬・下仁田町",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhendjcGpwdjZHbk1nQ0NDcGJTdzQ1RFVPUTFYaEs5ZGtGNzZIQUhNT1NoNG9SdUF2dXNLTFROZ1pPYUxnb2IwUnpQb09ZTm5ic1Y0dlFLeG0?oc=5",
+      "date": "Fri, 01 May 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",

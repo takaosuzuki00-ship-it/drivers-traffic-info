@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T16:50:34.177221",
+  "generated_at": "2026-05-02T18:04:53.399881",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.8,
+    "temp_max": 24.0,
+    "temp_min": 10.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
+      "date": "Fri, 01 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44VkJJMW1wRzIzSUlNejZsMEJLY01SRVZEd2NnZlJVdUlrdVpSYi15V0pGRjByNjFfYlpUX3FiWE16RWVFaVVHS1lTZEhwUjlzQlo4QXhKdw?oc=5",
+      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "５月２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CYkpjSDF1QlFibG5CR3YyUExVUVEyQzJRODlvaGZid2lMejhLU0RtbXE5SlZIckJua09JS3dENlpIOU5URnJpM0E4U1NvNHVHLTNJWjBncVg5V1h0Q1FqLXBhQlZrTDM2VkFTZHItUjQ5UdIBd0FVX3lxTE9ENUdfQlNQUnJBaVNUaGFpOE1XRm1DSGVKVlExV085c3Q2THFSSlFpUXpfd2xJb0liUFdzOXd5eHNGY1hkMmxaQTRFQWdhSVJ2TzdDa1VHV0tnYmt0NjV6U0RFT2hKdnE2Z05Sc0NxZE15bnYzc1NB?oc=5",
+      "date": "Fri, 01 May 2026 20:37:30 GMT"
+    },
+    {
+      "title": "国交省が「すぐに車を直せ」\"命令\"！ 「爆音」「シャコタン」「ハミタイ」の\"大迷惑車両13台\"を一斉摘発！ 「旧車イベント」参加の\"不正改造車\"を一網打尽 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82QndxZjJXRDJaRXFoSWRpbUVoa1BFMUdWZHA1TkIzNUpkS3BKMzZQTXUzY2VJYUlmQ1RGdDl1Z1YyMEtEeFUyYWphYw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【速報】「車が何台か事故をして渋滞している」と通報 山陽道（上り）岡山JCT付近で追突事故 1人が軽傷の見込み【2日午前11時20分更新】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WdHh0VkJWTGowU0d4MThZdUk2YWVtTlgyWjFHb0l0bzg0eW14X3huU0EydnNYdmF2N0k0RVRNMTUweG5rWWNTdTRoUE5MYnJuM0E3NFV2dw?oc=5",
+      "date": "Sat, 02 May 2026 00:04:00 GMT"
+    },
+    {
+      "title": "登下校時の交通事故を防ごう 岡山県警 通学路で見守りや指導",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9td2t1WW1NU1lFRzRYQkNhazdPVmV0cHR5aHpWNEktZEwtN2pRRy0xMHNiOU95MElBRzZLb3J6aGhJWXVaYTJtZ01iUlFSeDZNWnJOZ1poRFlRc2RnQlpFSjNHdnhFcTJONHBJ?oc=5",
+      "date": "Thu, 30 Apr 2026 06:00:07 GMT"
+    },
+    {
+      "title": "酒気帯び運転で事故 岡山市の58歳の男を現行犯逮捕（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRFdwT3FXVEtsTjBTYm5lbUxIVVpyS1pEMTFaWW5jVWlnVWc3WE5KNVZ3bC1INFg1ZUZVejZTNFlhYXJ0cDVfN0VIRllpVmFVYm43cjluR0VlQ0R2dFlRaEJGd0Y4MXZ0dkhoT1RxVzB1WWNuV0tJS0NjWU9QRms?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "春の交通安全県民運動始まる 「ながらスマホ」の根絶や交通事故死ゼロなど目指す【岡山・香川】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YVG9Kdlh6RXBoODAwSUFaX0tycDhjeE1peEdWNldoUVVKWE5BeEZQcVplNUhOSHV0N2RINTk3UkNfX2NqTlhNc2p6SE4tMWFiZ3NvNS1laDkyVmsxYTJkYk5DN3Y?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夜間はハイビーム使って 岡山南署 死亡事故受け啓発活動",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83VnlKc0traUdVM25EejNoRUdUWkw4RUpRU2dxSlhTV3RxcmZNck5Wa01pY2tfYnNRN3FKeGZDa3VUWEY4WXdiSk9RMmU0a2dTWXc?oc=5",
+      "date": "Fri, 01 May 2026 07:21:57 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T16:35:33.578316",
+  "generated_at": "2026-05-02T18:04:31.237964",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.1,
+    "temp_max": 22.5,
+    "temp_min": 13.0,
+    "precip_prob_max": 33,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.3,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "03:00",
+        "temp": 13.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "兵庫県警が衆院選に向け取締本部を設置 選挙違反の取締りを強化",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BUFZRU0VEMm01Q2UydHFrLUFFQ0s4cHFBWm9QU21YWWxtZngxYU82WGZYTlJ0WXA5UzB1OTlwMUtjQ2t2U0QtR1JHQ1FNNENFZHJzUmUzRkN2dk1yeGZZMm9iT0hMRzVp?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反の捜査報告書にうそを記載 容疑で巡査部長ら2人を書類送検「功績を残したかった」 兵庫県警",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DM0ZPalZOTEd2NHFFSjJBNzNnMlhWRU83dW5FQWNHMmRoR1BGQ2hQQlJrMFA1b3JnUlFIWElpdVZXcDlQNFpvd2cwQndBTEpxdXZqMDVxZElJcTI4bERmR2pwSURaOW9jSU93OXV3?oc=5",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "国交省怒りの命令「すぐにクルマを直しなさい！」 不正改造車「6台」をその場で\"摘発\"！ 走り屋の聖地「六甲山」集結の\"大迷惑\"「爆音・ハミタイ」のスポーツカー検挙を実施",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RWVRQNl9HU0d2a3lZMnBVdUk5SU5KOTBuYXpOVWc2YkhfOFFmcWZTb0VSSHROZmR1bGItS0Z5WDJzYzhjOGhVa09n?oc=5",
+      "date": "Thu, 06 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "解除の夜ですが…「飲んだら乗るな」 兵庫県警、飲酒運転警戒へ検問強化",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTVKcU1mNmttRjhNdkhINmZMR2NrdE9KODJDWlVEWnZvTmhfa3BXNVJPS1V4OWN3X3JmS1NCbnJzVmFqR1RFVjRiTU5NVjB3X28xTDNhbEsza2tLTGpSdE95QlZZWHpTSEJwajR3?oc=5",
+      "date": "Fri, 01 Oct 2021 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "神戸市兵庫区の交通事故 軽自動車には19歳の男女5人が乗車 1人死亡2人意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iNFJRZU1vZ25QdHd3OUtTRm9YTXlkWms0dEd2QXNwS3BTbDVJNWNtSXBSdVpKS3BpV2oxa0ZscmJteVAya0o0M1A0a18wa2dHV2RsbHZoa05HUEV2NTA0cVoyYnlzb0M5?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "神戸・新開地の5人死傷事故 軽乗用車運転の19歳大学生を過失致死傷疑いで逮捕|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CbmNXUXVSTVBZQVBXenJ0VC1SQ2JYQU9ZeUgtc3k0c2dpY0kwRUh0TUdlQjZVMWp2SE44Wi0tTENoTGc0NGhkbzlJRjVuRHdQeEozc3lBRFowb0U0MUhqVy1nUnM3VkJwSnpWblh6ZmdjcUVDblEwanpNMA?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】神戸市の交通事故で1人死亡、2人意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02VHo3TFdCckFvLVpnSURqMHVySXlDM2FjelFYWTdkbEhJOGpjWk5sQ1dydjBKYjJ2dTN2ZGVEQnR5cWxLOVczTm5kNA?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高速道路から16ｍ下に転落 バイクに乗っていた男性が落下して死亡",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bjAzQWFfcnlzSmtBaXZLci1sMmVJRDlUNFZoVHd3dUhXVjNNSzdmQzlQME1TYWlOcldhcjMxWkl1SS1IblJMNmVqYmc5Sngwa0JXODZIampaS2YwdnQ3YzI2MGdLcXZS?oc=5",
+      "date": "Wed, 29 Apr 2026 13:09:00 GMT"
+    },
+    {
+      "title": "西宮の国道176号で死亡事故 85歳女性が乗用車にはねられる|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41VUt6TEZ4bzVTMkNpSG5PanZYeEhNZWJZRVk1SF9JZGN4LTVDbmp0TFRqWlY0STNlYXg4WTNDUW9DYmJDMFM0d0xHZEk1UGw3TzcyZ0pGMWxzNlJKdWo2TmRUUmFnZnVXYzFscUMxUDFoMV9MWDJaaFpLNA?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",

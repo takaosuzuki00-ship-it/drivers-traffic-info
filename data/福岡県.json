@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T17:11:34.859404",
+  "generated_at": "2026-05-02T18:05:22.552538",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.0,
+    "temp_max": 23.0,
+    "temp_min": 12.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
+      "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警部補が交通違反摘発で虚偽書類、１６００件取り消し・返金へ…「仕事出来ると思われたく」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAteXBHTzhtcWtkQ3VlbWtPNHhjNTd3aEhnV0RnU0pfclI4M1pBSGZRc2owUEFOU2xqZUtQamlMa0NSb1pTWlBKNmZ4MzhiUE4wMHRJWGt6OU92SHhYb1NwcWMtak5HZw?oc=5",
+      "date": "Sat, 15 Jul 2023 07:00:00 GMT"
+    },
+    {
+      "title": "交通違反1600件取り消し 虚偽の図作成など元警官8件分で起訴 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OV1psN2RydTk0XzJINENzS2RsYWhka2Y4Q3VsZUNLSFE0clpiNXZycG84b2VGODVkN0UzTmJqb0JPWXduVF9CZUFXN0pTWkZjRUNlTFRfdTZnSDd5dGRnYWwycWhkUQ?oc=5",
+      "date": "Tue, 03 Oct 2023 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅を目指し 福岡県内で一斉取締り \"酒気帯び運転\"で1人を現行犯逮捕（FBS福岡放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1YmlucjVaRzZ2UWhfZzg2bTRSNTJTTUw2eExTbFlOS25ZSHEzMUUtQUdkMjRfX1ItT0x4Nnh1LUh3NlhjR2pwT1Ryb3ZTcTNhaHh2MzRNTUdIMEV3NlRIaE9MYjdrajhwWUpZMnFIWE4wV2w5Z1U1OUNucmhCRUE?oc=5",
+      "date": "Sat, 25 Apr 2026 04:00:02 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "横断中の成人女性が乗用車にはねられ死亡 福岡市博多区の通称「筑紫通り」（RKB毎日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRVZOak1YSTJQbWJXT1dzWEVEMFVjUTBHMGQ5a0tkMHJPRHNMbzNfQ1p0Y1VfQzRjRnNuOXNGQVFCRHNOYVpER1F3UHZyOC1EUU5HRzE0TXUtYjVXeFgyeWFEZDJHMnlxOWVHVUROYk1SdHA3dmVWaTRsT2VhcTA?oc=5",
+      "date": "Fri, 01 May 2026 02:59:13 GMT"
+    },
+    {
+      "title": "成人女性が乗用車にはねられ死亡 福岡市博多区",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrUkk4UWd2cXNNM0FCZ213Z2k2aFhKR1RZMGJQLXljYjU0bTJqY2FveUtsQXRwXzMxbTBLYlc1VTd0NEItWEpZNHd2a182RjEyb1B5RXI5bw?oc=5",
+      "date": "Thu, 30 Apr 2026 18:41:00 GMT"
+    },
+    {
+      "title": "筑紫通りで交通死亡事故 横断歩道外を横断中に｜KBCニュース",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mZGwtTndLM1JXM1FXaDY0RUF2WXQ1cVFWaGNEcTFXVS1NTnFIVzNQU2JMR0lyYWV1Zk9qYVhkMEN6bFoxRU96Si1ETUxDYy1zZGh2NnIxLXFMVnFUc0JGcUtuNlNNNEl3Tkhtb0ZR?oc=5",
+      "date": "Fri, 01 May 2026 00:16:00 GMT"
+    },
+    {
+      "title": "道路を横断中の事故か 車にはねられ女性死亡 福岡市博多区「筑紫通り」（2026年4月30日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0FIT25acXJPVzR4el9ZekVqUHpjMHNWUjJheHMtTzZpdk5SVm1xMS05Y3RhaVhhelFiUFlYVlRFS2VBYWUtT0drX3V0MmVQNkJHWmxRYjVMUlRCbnhVcDZFbVBKWU5TQVpEWmZkd3dRc3QwenBlTGRlMW5zNllNV0xtOXpYVXc?oc=5",
+      "date": "Thu, 30 Apr 2026 21:15:01 GMT"
+    },
+    {
+      "title": "道路横断中の女性が普通乗用車にはねられ死亡 横断歩道がない場所を渡ろうとしたか 身元確認進める 福岡市",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95WC0xTVp1STZLTG14MVpJaXFQV3lfekpRbjF4eGE4a1RMTTRDN0JHZU9VaUNuckJzdjVITWJTb3l2bGROZEp4bFhhUERRN3lMNk9nLS1LVVlMVDM1OUtkY2dEYw?oc=5",
+      "date": "Thu, 30 Apr 2026 21:15:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

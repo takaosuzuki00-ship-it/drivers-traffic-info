@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T17:29:35.767445",
+  "generated_at": "2026-05-02T18:05:45.897448",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.5,
+    "temp_max": 22.1,
+    "temp_min": 15.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月０６日（月）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4MnJpSTVreC1na3hWQ0w2Y0ZrNTJHbk9MNERNRHF3NmVyTUtxRVZfVGY1R3hUNEhsNzIxejNqeU5NSFVSeTRHdlJFRDFEb3hZVzRxdXpBNEhNZGxWMC1YR0cyUWY5a0k?oc=5",
+      "date": "Mon, 06 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月１０日（火）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEMVRFaWVwYm1SLV9tbF9UVDFzYlF4U0ZvZFo2T0FiaVhSWEFvYjJvT01kQTJzREU2ajJTaGZ1QkdLdC1UcWNINWEwLTFQZGhGVjNPaUJwdW54UmdvQW94Q2JWYUNLTEU?oc=5",
+      "date": "Tue, 10 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／6月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IRkpVQmdpeF9JcE9vMTY0bzBMSWM4ZnBPQjRhSE45ZXNTWlBnWUhkRkptMVA4Y1czdkxhcmQ0bXdXRUVwTTc2VVhPN1VBSnBTMHFWag?oc=5",
+      "date": "Tue, 03 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月０３日（火）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1reGQyNHJxVEhZN0xvRVlWQnVyUUZQVEI5cXdfU0ZNbGI3M2lmNExBdDdkNG9SY0FOS1NpWTdKQmRBRGZyNGhMdnZMSnJBeWRLV1dnbHpFVQ?oc=5",
+      "date": "Tue, 03 Dec 2024 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「車両4台が絡む事故です」と110番通報 2人搬送…駐車場から県道に出た乗用車が軽乗用車と衝突→その軽乗用車がトラックと衝突→さらに後続の軽乗用車も衝突",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zc0trZ3J3cGpGbVR0c1MzTkNIaHpDZTVfWDJha3JpOExjMWFlNHlRWkNGRUItOG41Qll2M2FqRERDejdzRTFlODBoTkRYQ2lUbWNDbHhuMnc4MDFTRzRKNFdhS1RuZmM?oc=5",
+      "date": "Thu, 30 Apr 2026 06:54:00 GMT"
+    },
+    {
+      "title": "【速報】東九州自動車道の国分IC－隼人東IC 交通事故のため上下線で通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pOWRiTHA5dDBvUk1ReEtLS3VKdWFZMlFOUnBWT2xGYm56d2pxdmRwem9KLUIzS1g4VGNqeG9Gc2drZ3lSWFJVNmFpR1BNcTlrX0p3SUpJWQ?oc=5",
+      "date": "Mon, 27 Apr 2026 01:33:00 GMT"
+    },
+    {
+      "title": "【JAF鹿児島】環境省と共同で「ストップ！ロードキル」動画公開 第2弾 ～アマミノクロウサギ交通事故件数 過去最多～",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBodWdtdE1jSks4VkMwNXdQQm16ZE1haGxSelAzM08yMW5aZUhMZlIwa05lcEMzNG5nak1BMWZHM1NaUW1CSG11S2NJRTVQeS1NZkNvTFk4YngtRFQybTJXVmc0NGJsd0JucVE?oc=5",
+      "date": "Fri, 01 May 2026 01:40:07 GMT"
+    },
+    {
+      "title": "令和8年度「交通事故ゼロを目指す交通安全県民運動」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2c2V1EtODVvUGNidHhBTkF3WEVyLTFTU0JMZmdJUmlFWkhRMHdoWE0tLU9VNkg0Z01SRzYwc3JpVURxb2lGNUU3OXB0SHFMSElHc19neEY2b05kSnZFQ3g5X3dLbGdDNC01ZFZaNzh1TUtLV2lvTVk4OFZMejRVX1Y1dm9iaUNVYjl3SjlyM00xUXZ3emJwYzluUHVxNXhUay1mdER3?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "薩摩川内市 男性が軽自動車にはねられ死亡 鹿児島",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZX25YVklEelg0NXpjU0ltVjM1RXRuX3FZZGlwOWNOd0NuQS1kZzhSb1dwWmRSR28zR216ZFdoQ1dIRzVLbTFHaVNLMDVWdw?oc=5",
+      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",

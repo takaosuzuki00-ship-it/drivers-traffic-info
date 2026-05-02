@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T16:56:34.377483",
+  "generated_at": "2026-05-02T18:05:01.115642",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.1,
+    "temp_max": 23.5,
+    "temp_min": 11.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 2.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月６日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZmFOamprWXRzTzYyX2p6UnVPX3RwUDdGRzNrSTNOUXBHbFJhaTREaEdrMjN0RlZSTUFVakUyQTBXRjNNaldjSkQ3NA?oc=5",
+      "date": "Sun, 05 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【先行】山口県警が警察署長会議/衆院選の違反取締を徹底",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FYldUd3o4VDluWUNhSnRYeUcxYWZKVEdHdU5VSjNkT09WeWVvMHBBbDhfSTVrb2NsNndLNFI2ZEhIbGJtUC1XMXpVVVJiTEt0RWNEZVV5NkE3b2toRFpHd0oxV1l2c3hJZFE?oc=5",
+      "date": "Mon, 26 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "乾燥大麻にコカイン、ＭＤＭＡまで所持か？密売人とみられる男らを麻薬及び向精神薬取締法違反の疑いで逮捕 山口",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uZFN5T29BWHctVkptdGRySjNPMmZTQmc0ck92RXBYbnQxTHhnWlNCbE1PYkU0bmZmU2xYNlFpbkVaRnQyQzhjbmZabWZjT2R2eXNaRzhLSlV0RHJMUkNYQWV0d09rQU0?oc=5",
+      "date": "Mon, 12 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "山口県の飲酒運転の摘発件数が２・３倍、自転車が４割…「自転車なら構わない」と考える人まだ多いか",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ONFJNeW8zMUh6TUhDQi16NXdpdi1aa21hX3hhV1FQekhhczFTWklwM1MxS1hWTnYxVjVacDFfa2VFaXp6VkYzWTd3TkZnYU1VSURWWEdWNkdSS2Q0UFhydnhQWjZ2aXR3Q0tFUkhoMUpGUQ?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "山口県内の交通事故発生状況/2026年4月30日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kZC1EWHJiQV8yLTlHYnkwT2NvUmREMmMxUE5hV2xoV08xRUdIQ0I5Si1DbExQbWdLdkNSVzVvZTAxMWJfMGVWU18zenlPRG1odHhzQUUyVEwwQVpPZTJ6LUM4S2IwYWREeUE?oc=5",
+      "date": "Fri, 01 May 2026 01:10:00 GMT"
+    },
+    {
+      "title": "【山口】ＧＷは交通量が増加…関門道で交通事故防止を呼びかけ（yab山口朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QT2drdW12T2NOQ1ROMDZlR2pQRHdhV2U4UkdBeE5Cb0pTTDhyRXljQzA4NjNCc0F3bVF2aDBWT3l6V0NrTzNjQVdpNlJUUUp3SHZfS1gzLXFmd2JzMUcycy1teUp6dFdNcHZ3aHFlZHBBWDkxWkwyWnhlbDR5bTA?oc=5",
+      "date": "Fri, 01 May 2026 10:00:23 GMT"
+    },
+    {
+      "title": "【交通情報】中国道下り線 小月ＩＣ～下関ＩＣ 事故のため一時通行止め 山口（1日午後５時２分に解除）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwcWZWeU9fQjRyTzJEOWNaRlFxMXlxVy1yb2xhZlRlVHB0ODBfdXQtVi04U2R3cml4eG1DNnpXeFpuX2haM29SQmZiY2djTGkwTm5PUm1Cdw?oc=5",
+      "date": "Fri, 01 May 2026 07:15:00 GMT"
+    },
+    {
+      "title": "山口県内の交通事故発生状況2026年4月30日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0NzQ4VDNNcUNyd1pjTVUyd3I3U29NZDBmWkg2WTlTTVFyY0lIWHNENDFJM2g5em9YOGxzaVpTRlRCQW5xc244SUhWcw?oc=5",
+      "date": "Fri, 01 May 2026 01:10:00 GMT"
+    },
+    {
+      "title": "【山口】関門道 車５台の事故 １人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbWVIVUVsa3NoT1NCbHJRN0k0U2tPOWFRckFHVmRGN1oxRGEyTlI0YnF0cVNNTTNMQWZuTDdSSE9KLU1Fd052Mzg1ck5lV1BVSjBlUXFEQQ?oc=5",
+      "date": "Fri, 24 Apr 2026 03:23:07 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山口県警察 公式サイトを検索",

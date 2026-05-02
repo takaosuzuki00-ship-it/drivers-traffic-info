@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T16:11:32.791621",
+  "generated_at": "2026-05-02T18:03:55.968980",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 18.6,
+    "temp_max": 22.3,
+    "temp_min": 8.8,
+    "precip_prob_max": 100,
+    "precip_sum": 1.3,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "03:00",
+        "temp": 10.6,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 9.2,
+        "weather": "快晴",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「覚醒剤を持っている」警察に出頭 会社員の26歳男を現行犯逮捕 覚醒剤取締法違反の疑い（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STFlIX3B0c00yQ2ZDdXFMQ2xFLVpsdkQ3anpfLWlHUnZLLXFEUXpKS01qSjhUbXQxZmMyUi15RG9QckwyRFF0ZXBVU2E4clFRa1AzcW0ydVBLNXpoMXJ5QzktRUdXaDVjWHFOeUNGa2VrNHUzbm1jREJLR2dRWEk?oc=5",
+      "date": "Mon, 27 Apr 2026 02:56:01 GMT"
+    },
+    {
+      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】″スピード違反″あり",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51Y096SXd2U1BWQjlFREVadG1UclJVRGZPMWpUSDZMYnp0b0dCVDVYX2RRb1RVekpES2FoX29oUjBOQ3pwVTJrbWxVeVhqTy1HYkEtU0QydEROdmw0a29F?oc=5",
+      "date": "Fri, 01 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月30日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sR3VCdjVGeFl5TldSeEQ0NkdMaG03MWNjMm1vZzdlQ0JlelNVUWdVRjJzREVTQjREOERhbm40SXVHZlplNDhsOGdKaEJ5OUo5TjU5eTF0MHZxZ3F1SWtrWFZlWHlaVUtudFRPRy0yTdIBdEFVX3lxTFBfaXFpQ21YZ0daLXExNmpuLWM1ajhWbldDRFRDOHc2czQ0bThoY3AwVFlFb2RsVENCRTh4UGpxeXB4bzlsUHBaT2Y4dVhsdjg3Y2pfck5CTEVsWXd5OTdBbDdjZGhhWjhFZFJ4MzBndjJMZEY4?oc=5",
+      "date": "Wed, 29 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56N1hPNEh3NXFPVGRLQmV3OEVxbGFuRzdYaURBZm1MdEp3Y3Byc24xQUJQNFFROU9EOGxTOTNqY3h1TnhDWUtHSGwzTFZUc0tPRHFMc2ZUdw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eVQxNmFRRlpobDk1THpjeFU2Nm9GNFdTNFN4cFI1V2xZWW1ndFpfRGtDWVdjU3JXd0p2SzVtYVVDQVBjWnlKdzBwRUtack1FdHNZZjdnM2g1Zw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "涙ながらにまとめた調書 長野県警交通部長が語る「交通事故ゼロ」への思い",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QY3prOUtaa3NWbUgwTmd2U05OX1RmenJOSEZVWEJzQzNOMXRqUUlsVlEtNG1IRmxJRFJ4RjdUekw1Ui04cmE0NGozQnRGLUhaOUZiV3VIeEdQTllMTGY3MTB0QlhEdUJQdmx6T2liN3c?oc=5",
+      "date": "Sat, 02 May 2026 01:49:00 GMT"
+    },
+    {
+      "title": "軽トラックと軽乗用車が出合い頭に衝突 78歳男性が意識不明の重体 67歳女性が大けが 水田地帯の信号機や標識のない交差点 長野・小諸市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMTdxMmdDTUpNb2dCeG5UTGdiVTVLdUVncGVXdWI2M3hyZ0lKY2lLTWN2SWxaZS0wMUtCVnVmY01yVUpaZFAydm9mSE5NUWN1a01odVUzWWo3c1JyaWlPQS1lTGlEWHc?oc=5",
+      "date": "Wed, 29 Apr 2026 09:38:00 GMT"
+    },
+    {
+      "title": "車同士が出合い頭に衝突 78歳男性が意識不明の重体 67歳女性が重傷 現場は信号機のない十字路交差点 長野・小諸市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ieHBiUzg4LTVjczdPdXFfSnRhLUk4QXJ4dGFiSkRnVFJ1NXdpNVpjanFsbVdKWXpnczZoVVBvV1E3YmN6Mnl1S184ZDh4Zw?oc=5",
+      "date": "Wed, 29 Apr 2026 09:40:00 GMT"
+    },
+    {
+      "title": "水門に車衝突…19歳と20歳の自動車整備科の訓練生4人死亡 かなりのスピードで走行し、ハンドル操作を誤ったか 事故から1年 友人「一瞬の判断や行動が取り返しのつかない結果に」 長野・飯田市（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ZzBaV2c2Szk2N3VXN1FHOWdvc1BGMHh0WHJnLUNjcWgyVVpGYlIyZ1dCVHZXMFY5bllqS1h5MW53MzVCNVhfVkl2aVN4SVJRWEdWRHhMZU01c2hwWFFaNjkwUlRUb0ZoVUxRUndkRHZFaFA2VHp1eEhoLVBqZm8?oc=5",
+      "date": "Fri, 24 Apr 2026 02:56:01 GMT"
+    },
+    {
+      "title": "接触して転倒したバイク運転手が左肩骨折…長野が女子選手の交通事故を報告",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZaTd0S01fcHpycmVfYmtFV29ScW05eUE0bGpsdTUtVUpCcDhDZkZ2R0Uwd25xY0gwQlU1bFJ5R3dVTVZlY2I2akRncjJ3SWlTRHRpb0pOMy00TWVEWkpfdVFFdUp6dGl2MnFySUpn?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

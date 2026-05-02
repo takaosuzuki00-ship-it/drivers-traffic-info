@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T15:56:32.454900",
+  "generated_at": "2026-05-02T18:03:35.324928",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 14.7,
+    "temp_max": 16.7,
+    "temp_min": 11.6,
+    "precip_prob_max": 100,
+    "precip_sum": 5.7,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 11.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 13.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      },
+      {
+        "time": "09:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 14.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
+      "date": "Fri, 01 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "5月1日（金）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YR0s5RHVRdUROb0w3cEVkTFEzNWZjMUlzVi00QkxwSjVuWGFwdDVYVXphQ1FZbjhYQ2NfRk9ud2RhcDR1MnA1RUhZMDRKRnhMQUk0OU5BN3REdzVFYlFoQ0dtQzBFVWVoN3NiUkhFMNIBdEFVX3lxTE55WVljZnFnTW1PaG0wYUtPWDRfNlBJWU81OV9IWjlENWpJSTdHVkwtRGY4OHJXaS01TU9rMm5JTVV2dHJFb1lPQzYxVWpYMTRpeFR4LXdfTWVBcTdjdXlBajRpQVh2WTFGOEs2RjM1YjZlS1Ro?oc=5",
+      "date": "Thu, 30 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２９日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MbGYtNzVhLVlLV3FGOEhFWWY5MHB3MWFvRjZyN052TndsLXRlV09wZHROX2U0dlVQUVFGTF9OREZ2bzN1WmctbVI0aw?oc=5",
+      "date": "Sat, 28 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "北陸道で多重事故 中之島見附ICー三条燕IC（下り）が一時通行止めに 現場周辺で渋滞発生 新潟県",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUGtqSi10RlpBOGNaNzhHR1FSdjBiR21SNU5laWk1XzU2Z3ltV3dIeDdmT05sVDFySjdGZnlkd1RzTUpYcTdxQ2JVcWdaMERydkFIY19JQ2F5YXJCajZQYWkxeGhvVUk?oc=5",
+      "date": "Sat, 02 May 2026 02:11:00 GMT"
+    },
+    {
+      "title": "［道路情報］新潟市の新新バイパス、事故で車線が一時減少（5月2日）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HY0FpeHFmR1JoUWJZSVYyQVlJSHdWLXZWakl4Y2FOczUxVWlIVDJ5Y1NxS1IwcGZkVXNaOXZpTHRKUHNnT3hVanV3MzVhcWtxanJPV2lzOVBZLWNZRUE?oc=5",
+      "date": "Sat, 02 May 2026 04:30:00 GMT"
+    },
+    {
+      "title": "車６台が絡む事故 北陸自動車道 中之島見附ICから三条燕IC間",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSGtZNXlrOEpYZGdPZEFmWm9rc2FRRWNqUGR3QmtoRFlmdkVZd0hrdmd1OGxSc1cxUDQwUnVEUzdLN2FTZjcxX252LVNPYVN0dmd0QXRYT1ZKME9GTXAxVkMwZnMyakNtZ1NXcUhEeUh4d0U1ZUF2LTh0SnZZVFpVczBGRmpQWDJRV0t6eXN2bzZFRVlFWC1oSzhHeTk3OHlxY3lvT1lGOHVLa2o5a3dYY0loX0hldi1ua1c2SHJOM1ZudVBLanFmWkdRZWZIaENHZ3lnUUQ0ckRkV0UybEoxaGI5emRWLVZITldPUWt0ZGRILW1vOWpHUmRtdUg0aTBPTGdIZ1YtUGp2TEVCT1FGTU9oclJ6UmtQZ0cwd293bEV5QmwyMlpNa3FEMzNBV2d0TUdDYnVsZ0FjV1g4Y2RnZEVRNFQyOHVWNkV1WTZn?oc=5",
+      "date": "Sat, 02 May 2026 02:01:25 GMT"
+    },
+    {
+      "title": "車６台が絡む事故 北陸自動車道 中之島見附ICから三条燕IC間（UX新潟テレビ21）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWGxrTHY3RHUzbmxNV01fZUdydlhZZWdiSTQ3dnFoTFhMblRHSER1MFF3bTI2SW9aQTdrRzBPYTlkOWFxbzNzTFFFd0F0UFVQYzFpSklyZU1XcVFyQkxXRU80WXNTdDhXSjhUbmdocjFXcHpkaGdCUllqLXQ5UnM?oc=5",
+      "date": "Sat, 02 May 2026 01:59:41 GMT"
+    },
+    {
+      "title": "アクセルとブレーキの踏み間違えか…新潟県十日町市で車がコンクリート壁に衝突、運転手の男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pSUl5eEVkcWlwZzh5V0hXaFd4LTY5R2ZRdzYwYXJsbEFCRENleFhSRXEzaXB4Q1p2WmtoX2dIb1JISlI4?oc=5",
+      "date": "Thu, 30 Apr 2026 07:07:25 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

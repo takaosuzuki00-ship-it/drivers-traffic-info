@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-02T17:23:35.439712",
+  "generated_at": "2026-05-02T18:05:37.855811",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.4,
+    "temp_max": 19.4,
+    "temp_min": 13.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月2日（土）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNlhyajBFQmdqcTlrZ25IeWFLN1p3QnlEUTE1dkRVN0c1Yzk2a2YwWjIyVWFNUEJydllkM01INWJ5bU5fR01JMWlaWmVRZTcwTTRHMGZ4ZDFzelJnU1RjZ2draVJMNlRQaWlMZzFxVdIBdEFVX3lxTE1tdHJrLXk1OFBXdnI0eExqZFhhbDVKanBpX0lveVlwMUZYZ0NiMGtLVmVuSnRJcjJBanNEdUZvdF9EbU5RNHFpV2p3RTJndktpdnU2RmR2eG85cWdnVkotNC1yLW15blNSWnBUUHZSbmY2eXJO?oc=5",
+      "date": "Fri, 01 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１７日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBneUdCVS1RNndQdzA0Slhidk1qZDVQNDBxdERyZG8zcjN6MU9PNURlXzdWbnRVbDM3cUNONzVwNXZsNVFGNXExNngzZw?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "５月２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CYkpjSDF1QlFibG5CR3YyUExVUVEyQzJRODlvaGZid2lMejhLU0RtbXE5SlZIckJua09JS3dENlpIOU5URnJpM0E4U1NvNHVHLTNJWjBncVg5V1h0Q1FqLXBhQlZrTDM2VkFTZHItUjQ5UdIBd0FVX3lxTE9ENUdfQlNQUnJBaVNUaGFpOE1XRm1DSGVKVlExV085c3Q2THFSSlFpUXpfd2xJb0liUFdzOXd5eHNGY1hkMmxaQTRFQWdhSVJ2TzdDa1VHV0tnYmt0NjV6U0RFT2hKdnE2Z05Sc0NxZE15bnYzc1NB?oc=5",
+      "date": "Fri, 01 May 2026 20:37:30 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
+      "date": "Fri, 01 May 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交差点でミキサー車同士衝突 最大7.5km 各地で“大渋滞”発生 バスは最大3時間15分の遅れ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11cmwydWxvRVZOS0dCRU1pZmE3QTI1a1MzdWJTeTUzWlUyMVlQb0FuclV2V2tuVnNZcU5qUFVTUHBIMURlbmxCdUllVHZsMzFfVjZDZkpxRGQ4cFRX?oc=5",
+      "date": "Thu, 30 Apr 2026 01:20:00 GMT"
+    },
+    {
+      "title": "国道10号でミキサー車2台が絡む事故 現場を中心に周辺で最大6キロの渋滞 大分市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52eWFkRjNqTWhqM1VWazNnd2FaVklyaHF5bG9lbktHOTk1RWk2YURSNkptd05yNGhWUmlxOU5JUzl5THdZdzJlWEU4bW5WMWVmazZvbkJFYTRkdw?oc=5",
+      "date": "Thu, 30 Apr 2026 01:37:00 GMT"
+    },
+    {
+      "title": "大分市の国道１０号でミキサー車同士の追突事故、道路をふさぎ…４時間４０分にわたって大規模な交通渋滞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uWXhiaTRnMDNBWGowNWwzX2o0VG4wc0ZoeVVwQS14MnBXcE9Va0pRRjlkc1djNV9yeW1VSEFYcDBfOFFHeG9XWm9VdE5iVE5rRkNOaWd2a3hkekhVTUp0QUtTNFNNampsMENZb3NBYjZBUQ?oc=5",
+      "date": "Fri, 01 May 2026 03:48:00 GMT"
+    },
+    {
+      "title": "大分県内の昨年の交通事故 人身事故は減少、死者数は13人増加 [大分県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDU1BEaWdTN2czbGRFeUtRekxxSVVkNXZUbjh5bTZMV1diQnlBTkFsN0lHSXg4YVdXb2FlY3gzc0J4TVIxU3pnUjVESFVlc2R0RWRMc09Pc1h1UUIxdVB1d2pWd0J4QXM?oc=5",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "隊員死亡事故から17年 大分県防災航空隊が安全誓う",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvczR0RElpc0pZM0dqR2NJMDNhakc0bXNabWxZX3JKTlFKaE5mTnV6aTd3eEx3a3BTeDU2eUNEVE9UYS03ajVpRWNaUzhZZ2V2MXRkSldmbjNEdURwVDJJ?oc=5",
+      "date": "Fri, 01 May 2026 11:27:43 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",
