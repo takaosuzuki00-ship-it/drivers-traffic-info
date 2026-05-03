@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-05-03T06:03:10.120313",
+  "generated_at": "2026-05-03T09:03:30.984160",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 16.2,
+    "temp_max": 19.9,
+    "temp_min": 11.3,
+    "precip_prob_max": 100,
+    "precip_sum": 2.6,
+    "wind_speed": 10.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 14.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "21:00",
+        "temp": 12.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "4月26日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WUMwVFVrWU9jeW16SGxKOEE1RWhETjZucWZaUVJPYlVvYlFWUTFTU1AxeERFWkx1bWJuM0tZTTNYQ3V5QWdzcHVfbDJQcUJoZkZyeExXZFRCZw?oc=5",
       "date": "Sat, 25 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "4月26日（日）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxQkJYcXROMDBYankxN0xiVjAyamEtQmVNUGVrN0VHVE5FNUdVdTliRTdlVzRrUmVsME1qWUFzcEtiQkVQUmRrVFRTYlZFWXlYMkM3VVJNdWUwcnBCT0ljUzJvaTdBaEVSZ2NXbU9kS0pRLUNhR1AxVmMwVmp0WGc?oc=5",
-      "date": "Mon, 27 Apr 2026 11:03:00 GMT"
     },
     {
       "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -29,6 +83,11 @@
       "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
       "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青切符、青森県内初摘発　ブレーキがない自転車運転／青森県警",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBocEhuQTFTNmJ0enhjSkdieW1JWGhVV2tCU3lpVzM3TVZqZUZTd1ZublRDWXl6SHN5S3lSNTdIVUFWcUdWdjVYZWw1UTcxcHlpdVJVT3o2NEdtOXlLT0tRN0sxZTRxTGc4dlNLQ205Qks5VFhRMzdCWmdTNNIBgAFBVV95cUxOTmhRdmZsLTNrYXVhY3hWR2g3eTVIQ0lBb0kzbFNMbktJUVl5WVU1cDIxN05pUkd3eUlwWmRQZW5ORjJrSkxYdGctR1g0OUJTQnN0OWpKVk5PVGVGbVpJa3pXZEZwdGo1R0JlV09fOXlGUDJsa0RjRmhMRzJLSDEteA?oc=5",
+      "date": "Fri, 24 Apr 2026 00:00:00 GMT"
     }
   ],
   "accident_news": [

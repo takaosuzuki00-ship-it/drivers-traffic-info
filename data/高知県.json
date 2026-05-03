@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-03T06:08:04.587345",
+  "generated_at": "2026-05-03T09:08:03.796834",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 18.9,
+    "temp_max": 21.9,
+    "temp_min": 15.6,
+    "precip_prob_max": 100,
+    "precip_sum": 50.9,
+    "wind_speed": 1.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 19.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 19.4,
+        "weather": "雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月2日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
@@ -11,9 +70,9 @@
       "date": "Fri, 01 May 2026 20:00:46 GMT"
     },
     {
-      "title": "４月２９日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mQ1hrb3BMN0xhQ1pVUWZyZWEwR21Gc0tDeUZkVWVhLUpycmNTOGVlQ2l4Y0dOMkdUbllpc3l1WE5kTE5mS1FiejNNWW9SWW96NlhPRTVpemF0NGc?oc=5",
-      "date": "Tue, 28 Apr 2026 20:00:00 GMT"
+      "title": "５月２日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fREJyRmNJNlVVdGM5RWtIYTZRS3daNjhiODNEM0dwaXR2ZmtUazJVZG84czlSbEs2M0kySFd0WHRDaTZPbm9VZFc5ZGUtR3kyM3BHT29faTgxRlU?oc=5",
+      "date": "Fri, 01 May 2026 20:00:00 GMT"
     },
     {
       "title": "４月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -26,9 +85,9 @@
       "date": "Wed, 29 Apr 2026 20:00:40 GMT"
     },
     {
-      "title": "４月３０日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UcHZjWmRhQ3lSelhGS1pnSExWZmEwWTgtWEJuNlFPeTBtcmtCaXZaZ2UxcVZLYVpsaUIzcnJrd0dQYV9leGdWVGNPMjZyUnpGeExwcmZxU2pyaVE?oc=5",
-      "date": "Wed, 29 Apr 2026 20:00:00 GMT"
+      "title": "４月２９日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mQ1hrb3BMN0xhQ1pVUWZyZWEwR21Gc0tDeUZkVWVhLUpycmNTOGVlQ2l4Y0dOMkdUbllpc3l1WE5kTE5mS1FiejNNWW9SWW96NlhPRTVpemF0NGc?oc=5",
+      "date": "Tue, 28 Apr 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -43,14 +102,14 @@
       "date": "Tue, 14 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "信号無視が原因か 交差点で車2台が衝突、ぶつけられた車は衝撃で横転し回転 高知・香南市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ucnBsdDI0dkxQRmN2dGd5c1NSTU1ER3BPNkk0enRvQ3NLQkJjTlNWOXVrQ1Q3dVZ5bVBLV3NiR2U4WVN1VHNkdHRrT2hadw?oc=5",
-      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "「運転支援」が油断を招いたとしたら 1歳児死亡の事故は過失なのか [高知県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13eVdtNmxyeC1RSkFJU3FqMFlUTkpTQ2VoWXFwU1ZXR0JTRXJWV3JBdkZVdDZTcldJS0c1R0NVWFJjbEhCQjlCblFjRnBTSXVQM0FfT0RJYlV1OFJMNmVVOW4zQmF4QzQ?oc=5",
       "date": "Tue, 11 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "信号無視が原因か 交差点で車2台が衝突、ぶつけられた車は衝撃で横転し回転 高知・香南市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ucnBsdDI0dkxQRmN2dGd5c1NSTU1ER3BPNkk0enRvQ3NLQkJjTlNWOXVrQ1Q3dVZ5bVBLV3NiR2U4WVN1VHNkdHRrT2hadw?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "交通事故死ゼロを目指す日 : ブログ : 高知市議会 山根たかひろホームページ",

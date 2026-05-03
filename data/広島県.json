@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-05-03T06:07:18.263228",
+  "generated_at": "2026-05-03T09:07:03.426304",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 15.8,
+    "temp_max": 18.4,
+    "temp_min": 14.9,
+    "precip_prob_max": 100,
+    "precip_sum": 61.4,
+    "wind_speed": 4.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.6,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 15.8,
+        "weather": "雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "12:00",
+        "temp": 16.9,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 16.7,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 17.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 18.2,
+        "weather": "霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "5月3日（日）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdHp5M1dWNzlxakNhNnVRT1A5b0hkeUYxYkNaSGJWSmRpOTN6aTBLNm5FR0E2YkdVWldqeWw3YUlaWW91WTR1Zll5a1N5Vzd4a05LM2NWNmhlMDBwTHdOSUF0WUFrREhoaGxUaGZsa9IBdEFVX3lxTFB6WlItb0U3SDh3dUp6LXUtdnphMUdFczBzQVJJcWZMczN5RXJ0UXBwcTRBZS0wa3NBZ3NkQkJNNFR6YVVfZ0hyVE93NjFBb3FLZ0ZTVFhyZHJ3Z043djNKS2FqZ0ppQVlFaFlIMUpJdG1MYVVu?oc=5",
-      "date": "Sat, 02 May 2026 20:05:43 GMT"
+      "title": "5月3日（日）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Rl9oQWtVQUI3b0xaZ1VLLVk4dWl4WHNweUVlUHNCRm1oYjJ2c0FNWEo2cmFQa3Z6bUI1ZmlyNDBva253ZjdfVEc2RlpQWGdaOEI5b2FJaEl1WmJpblExTHNKWFR1N2swaXd5R0RVZ9IBdEFVX3lxTE96RFY2ZEt3SGljQzdMQ0d3VVA3bXpiVTNDYWo4RG9kWDd4SHh1NVJvcHgxUXBDQjF0Z2NzdW9OR2tTM3BtVDU4dGdDZzEtbjJRZFNCakhPanZuay1meDV2UUdHazlDRDA4Y2NXVFFyMG1iRlEz?oc=5",
+      "date": "Sat, 02 May 2026 20:12:25 GMT"
     },
     {
       "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -16,14 +75,14 @@
       "date": "Mon, 27 Apr 2026 20:02:00 GMT"
     },
     {
-      "title": "広島県警、衆院選で11件の警告 取締本部を解散",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRkVmeDlxMVc0U095RThhd21hakZvdUxmUDFhR3lMVFBWVTV0YjZoV2l5ZGh5Y2RWNzZUd2VNbkRYOWdzUk9VMnlXbmJFRFZ2S2J3azhqVnhiZw?oc=5",
-      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+      "title": "５月３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeE9tc3VWbXVMRmV1ekFRbk1vZ3BpTElZOTgtOGRFMFVqUzd5WkI4ZDFMX2RCLVgyNmFCUTczT1FYYkhJd0laOUVnVG02VXFXOUxaMXV2dy12clJSUGJ2SEVlSVFPMzdQYVpuUUlZUkRiQ0NRdVRyVm53SV9HV29zQUJnYzlJOUxGUFRGUjB0WFhVQS1TQlRNODlNSTA1SjVYb1NLYVdWeWFscTlqUU8wcFI1RG90US1HOEYxd2FST0xWd21XbmRv0gF3QVVfeXFMTmdZWlJsUS1ZM2EtaDZuX2lfRThjbjAweEFEUGYwaFhfVjh5UDQtRF9tSGMxZHZXOGlxLVgxRzJOZ1l5d1lKOGNpZTgyREQ5Q245R3FsOE8yYUdFT0FNNnZHcnpFemcwYkRjSDZHWkE4UDR6MldkZVE?oc=5",
+      "date": "Sat, 02 May 2026 21:02:15 GMT"
     },
     {
-      "title": "4月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4QWctUUh2QVNKOEtXS1ZUVV9ONEpHWlpIbGQyN0w3cjZBbWxyY0plWW5MLVNjS0ZqOUtPYWdNdVNMVHFpZ3FFRDFIZW1oSVpXWHhUR3R5TjNudGdsRk5JQzVHUDRZYzg?oc=5",
-      "date": "Sun, 26 Apr 2026 20:02:00 GMT"
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
@@ -38,9 +97,9 @@
       "date": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "【事故多発】広島ヘリポート入口交差点（広島市西区）、事故の状況や注意点は デジタル「ここが危ない子どもの交通事故マップ」から",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kNmplMUZyTTEtbGNMSTQtX1pENGZyV2F0dlBkTkJialJORXZyZ3dlMWZrdXB3Z0ZVY1lxNkxUVjVGbEFJal9WcnlhR2pZR2NxMVNncW1XcHRHdw?oc=5",
-      "date": "Thu, 09 Apr 2026 07:00:00 GMT"
+      "title": "【事故】広島市佐伯区でタクシーと車が衝突 負傷者あり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMXhZSmR0aWFFWGNfWmszZENCSk5JLTRSeEZYN0k1UDhFU1pLdkhJbHJTM284UXlIck9vMi05Ul9YM0s4eDdfMEhUTno2NGhPZG82eVJjRHRmQQ?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "【JAF広島】交通事故防止と安全な交通社会の実現を目指して 小中高生向け交通安全教室を開催",
