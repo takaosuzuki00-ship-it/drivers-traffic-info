@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-03T12:08:04.150051",
+  "generated_at": "2026-05-03T15:09:30.069609",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.3,
+    "temp_max": 20.3,
+    "temp_min": 15.7,
+    "precip_prob_max": 100,
+    "precip_sum": 34.3,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.3,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 16.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 16.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "09:00",
+        "temp": 16.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 19.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 20.3,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 18.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 17.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月3日（日）【岩手県】　日中・夜間の交通取締情報",

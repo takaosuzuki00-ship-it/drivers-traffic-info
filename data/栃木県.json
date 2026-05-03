@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-03T12:04:22.579607",
+  "generated_at": "2026-05-03T15:04:57.480431",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 20.6,
-    "temp_max": 22.3,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 20.9,
+    "temp_max": 20.9,
     "temp_min": 11.0,
-    "precip_prob_max": 75,
-    "precip_sum": 3.5,
-    "wind_speed": 3.3,
+    "precip_prob_max": 70,
+    "precip_sum": 3.8,
+    "wind_speed": 5.8,
     "hourly": [
       {
         "time": "00:00",
@@ -33,33 +33,33 @@
       },
       {
         "time": "09:00",
-        "temp": 17.3,
-        "weather": "晴れ時々曇",
+        "temp": 17.1,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 20.6,
+        "temp": 19.7,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 21.8,
+        "temp": 20.9,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 20.3,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "21:00",
         "temp": 16.1,
-        "weather": "霧雨",
-        "precip_prob": 18
+        "weather": "強い霧雨",
+        "precip_prob": 37
       }
     ]
   },
