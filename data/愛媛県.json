@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-04T00:05:22.666497",
+  "generated_at": "2026-05-04T03:08:35.303833",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 16.5,
-    "temp_max": 18.3,
-    "temp_min": 13.3,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 15.9,
+    "temp_max": 18.1,
+    "temp_min": 13.2,
     "precip_prob_max": 88,
-    "precip_sum": 0,
-    "wind_speed": 12.9,
+    "precip_sum": 0.1,
+    "wind_speed": 13.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.5,
-        "weather": "曇り",
+        "temp": 16.3,
+        "weather": "弱い霧雨",
         "precip_prob": 88
       },
       {
         "time": "03:00",
         "temp": 15.9,
         "weather": "曇り",
-        "precip_prob": 86
+        "precip_prob": 75
       },
       {
         "time": "06:00",
-        "temp": 15.5,
+        "temp": 15.6,
         "weather": "晴れ",
-        "precip_prob": 57
+        "precip_prob": 76
       },
       {
         "time": "09:00",
-        "temp": 15.7,
+        "temp": 15.8,
         "weather": "晴れ",
-        "precip_prob": 49
+        "precip_prob": 39
       },
       {
         "time": "12:00",
-        "temp": 17.9,
-        "weather": "快晴",
-        "precip_prob": 12
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 17.7,
+        "temp": 17.2,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
         "temp": 17.1,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 15.1,
+        "temp": 14.9,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化（愛媛新聞ONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QYzdKUGhUOGdZR1ViTUpQUnN3dkw2OFZVNy11d1EyeVJMd1RTT2F0RmplcG5Kc1MxYWI2c201aHNYTmlpT19WamtNX1dBYWczenNXOU1QNlY3SzNVT0xqVi10R1R4RTc3U3U2R3NMYzM4ZEgybVdURnh6VDRlcnc?oc=5",
+      "date": "Tue, 28 Apr 2026 10:24:00 GMT"
+    },
     {
       "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QM3dBQ2pBYkh1VTFwQTlWVmZwVzR2QXo3MWlCOEt1V3RKcHhoa1dPZHRpZGx0elcxTVpKQ0tPRzFlclN5aE1ibXpHdw?oc=5",
@@ -75,19 +80,14 @@
       "date": "Mon, 27 Apr 2026 06:00:01 GMT"
     },
     {
-      "title": "5月1日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QR0Zkd1Baak1Cd21aSmMwZFp0c3dMTTUwaVVKempXenZ2U2NoVWFvMHBVZHMzRFppMVVHd2ExeWQxbzB4UDZzeGVWWFF3U3FMbWZ4Z2FrSmlGN1NWUFRwRENjS1FBenBnbEF0RHdTSdIBdEFVX3lxTE1IZGJLZm9pSFhjNWlqVlFtTnJqVkJVYm5peXMtM2xHT1YxVkFkWkFKa0d3aDN1NlRVMmNDVzBqQlkxcFh1MDBPZXpTekhVOVhFZ29uUEFLSndRRFhmemJSY0w5bDFTZTI3YmxjUG1YZmFhQ09Q?oc=5",
-      "date": "Thu, 30 Apr 2026 20:02:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "飲酒運転取り締まりへ自転車の検問・職質強化 12月、愛媛県警",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94LWE1dEVGbGs3dmpiTzBmeFJFcS1ISmtEMXZJMDI2Ui14dnB4U29lTGFyWmMxZENtUDFEaXlNSXZPcjBQdlEtNmViOW1TZHhyVnFoUklBMmpCUDR0cF9LUg?oc=5",
       "date": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "「自転車も飲酒運転はいけない」 管内で去年の1.7倍にあたる54件の飲酒運転を摘発 ロープウェイ街では飲酒検問も 愛媛",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeFA1R1AyYUo3NDl2TGZfM3RobG8temFibnloREdEZ0NRUkZhVlc0RG9qRmtjOTNUV2N5UHgtbFdGbUQtVG1McWtEYWxCNXVXLXoyOGdEelJvZw?oc=5",
+      "date": "Fri, 16 May 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
