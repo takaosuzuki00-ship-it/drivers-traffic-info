@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-03T21:10:42.442855",
+  "generated_at": "2026-05-04T00:03:12.437985",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 15.8,
+    "temp_max": 27.4,
+    "temp_min": 11.7,
+    "precip_prob_max": 100,
+    "precip_sum": 2.6,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 14.9,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 15.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 19.8,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.8,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】″スピード違反″あり (2026年5月2日掲載)",
@@ -21,26 +80,21 @@
       "date": "Wed, 23 Jul 2025 07:00:00 GMT"
     },
     {
+      "title": "トラック計141台を飲酒検問 5月の群馬・伊勢崎5人死傷事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zUlRWSHRTMFp5RXR0NnZna1NQcGRXRWN4cnp1aFZQcG80R1pGd3RudEVsbFlxVVo2Zm51cXpKTXhEMExHR1dTNFVJb2h4TEU5VTFzdGV5SDlkdk9ycnlLZWNSaUZZTENK?oc=5",
+      "date": "Thu, 29 Aug 2024 07:00:00 GMT"
+    },
+    {
       "title": "標識見えないのに…誤って32人摘発 反則金返還へ 7市13カ所の横断歩道で不備 群馬県警",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rWGIyQXNEWWZ3SDR5V3ZDemZYdFRJZ01ibUU5VGFNZm5jazB1VURHajd1ZW1kbHAxbWJ0M21pdHV4alhXRlBDY1dzZkx3dGpWdFhzNGdqN0U?oc=5",
       "date": "Tue, 20 Dec 2022 08:00:00 GMT"
-    },
-    {
-      "title": "動画サイトで自慢するため、故意に速度超過違反を行った男を逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ya19GYlA1bzJNeEZ2RzVkTm1OellhVXlRR280VDVkS0c4Qk9BdHE0eFRJZk5TYkxiN3AyeHFyREN1TFhKbmo2NzBkNDhuNEV0UDhpWGk0RlprMDJaSGV3?oc=5",
-      "date": "Sun, 21 Jun 2015 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "群馬・渋川市の上信道で男性死亡、ひき逃げなどの疑いで61歳の女を逮捕 群馬県警",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14bHJINFRWOTljWk84UktWSDhiNlJUcVk4QnVhNU9ZdThxUFJ0QUJSdGhibU5tS3d2OUJ3MnFRci1ORnB2MXFmMTNzZExUS3lxZkdacDBuSVo?oc=5",
-      "date": "Thu, 30 Apr 2026 06:06:00 GMT"
-    },
-    {
-      "title": "交通事故防止に関する取組みについて",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
-      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+      "title": "軽バンと衝突、オートバイの男性が重傷 群馬・太田市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93MVVjZkZ3enNCTjY2ZnR4UUZ5cTFLc1RiU1Z5T3JneFBrcFRSX0NJem1hcDNEQ1BheXVYXzM4dWMzRkVqZ1ZtSlFtbUlsRThCc1V2QTdlekQ?oc=5",
+      "date": "Fri, 01 May 2026 08:00:00 GMT"
     },
     {
       "title": "「シカと衝突」したバイク男性が後続車にひき逃げされ死亡 目撃者も別のシカと衝突…現場で何が？ 61歳女を逮捕 群馬・渋川市",
@@ -48,14 +102,19 @@
       "date": "Wed, 29 Apr 2026 22:27:24 GMT"
     },
     {
+      "title": "交通事故防止に関する取組みについて",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
       "title": "ひき逃げ疑いで６１歳女逮捕 群馬・渋川市の上信道で２９日に発生の事件（群馬テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93M2NDRk1fVEQ0bHBXRUNJYUswU0JsYm9qVnl1N1NKOThUSWtSWUEwQ2ZhQjk3dnNyNGczekh0Q3NTS1V4UDNQVHI2UV92ZExJd21BNDBJY3prejZVSWZlcmJvbC1jbHpVeGFxTThteWx4cTI5bmpwUmdEMWVUQ1E?oc=5",
       "date": "Thu, 30 Apr 2026 01:32:31 GMT"
     },
     {
-      "title": "【続報】上信道でひき逃げか 男性が死亡 群馬・渋川市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBELUxXNmMxbm1ObGFaWFQ2UlBwd2N1S21hd05fYWU4c1dVLWRfYTd3d01NeDBLN05yX3dFVFRic0N6a08tOEFNOGJ4elJfWnFTMTVNX2FscE4?oc=5",
-      "date": "Tue, 28 Apr 2026 23:22:00 GMT"
+      "title": "群馬・渋川市の上信道で男性死亡、ひき逃げなどの疑いで61歳の女を逮捕 群馬県警",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14bHJINFRWOTljWk84UktWSDhiNlJUcVk4QnVhNU9ZdThxUFJ0QUJSdGhibU5tS3d2OUJ3MnFRci1ORnB2MXFmMTNzZExUS3lxZkdacDBuSVo?oc=5",
+      "date": "Thu, 30 Apr 2026 06:06:00 GMT"
     }
   ],
   "official_links": [

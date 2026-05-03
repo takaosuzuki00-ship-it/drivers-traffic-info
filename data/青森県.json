@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-03T21:07:01.122267",
+  "generated_at": "2026-05-04T00:02:39.645396",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 10.8,
+    "temp_max": 17.0,
+    "temp_min": 6.7,
+    "precip_prob_max": 100,
+    "precip_sum": 6.1,
+    "wind_speed": 5.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.8,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 10.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 10.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 17.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "12:00",
+        "temp": 15.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 14.8,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 8.9,
+        "weather": "曇り",
+        "precip_prob": 41
+      },
+      {
+        "time": "21:00",
+        "temp": 6.8,
+        "weather": "曇り",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月3日（日）【岩手県】　日中・夜間の交通取締情報",
@@ -26,9 +85,9 @@
       "date": "Sat, 02 May 2026 20:02:00 GMT"
     },
     {
-      "title": "4月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Mb0ZoSFBWeVcySWNqRzFvcUotcFpmX2lIQ0hLdUZTejVhdjZnV0JHejYwckNfcHlvRHR3YldDUmk0dEdpY2NRdmQyazJsbHpiV1l3S0ZtNHFDQ0toOTFXTzEwNGlGalJISVFxb0dtZ9IBdEFVX3lxTE14Ul83LWxOb2lrWW5fX0JFZjBCb2paYWpJNFJNVk9zXy10V1lyM1dSaDZGMnJ5Skk2TVYyOWc1eVhfSHk1U2VicHJpbTJ3LV9pVTdvMVlKYlR1V0N1N1lwaS10bEdSWG5nYlhKc2V2NGdTTGFU?oc=5",
-      "date": "Mon, 27 Apr 2026 20:02:00 GMT"
+      "title": "ラファ検問所、人の往来再開 患者らガザ退避",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xQ3BKdFZfMWc0c2xoVXZXal9aWDVsUEE3WUtvVFRRVU1rNGVPN1pYOThIYy1LQnZqWGpSVERrWkttQmpPWWdIbm5uWGJsMWphQmdlZWZHclJ2ZnpaQnhHT0lWRQ?oc=5",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -53,9 +112,9 @@
       "date": "Tue, 14 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "国道45号で男性が車にはねられ死亡 男性は片側3車線の車道を歩行か 現場に信号機や横断歩道なし 警察が身元の特定を急ぐ 青森県八戸市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0X0hvT05fa0dlZnJMWEpYSFZLeU5LWWYwMWV6RXpqYVk5bnV0VXBRbUhqM0JvYk9La1hwZWVXM0ozVWZwZXFyR1dUeEpNQkx2bTdLVm1fZExsVl8xeUNTZ0Z5M1NzU28?oc=5",
-      "date": "Sun, 05 Apr 2026 07:00:00 GMT"
+      "title": "青森県内「交通事故で児童死傷」 小1が最多",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92QnJLOGl0Mm9sZGtxN25XaDJPenZ0N2dzeGR3Wk4yRlVfUC1aeXNZSzRFdHN2aVNFSWlrbGFXUTZXdFJEVVFLTTlOOA?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

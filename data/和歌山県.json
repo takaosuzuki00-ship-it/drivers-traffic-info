@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-03T21:18:39.841819",
+  "generated_at": "2026-05-04T00:04:37.518598",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 20.6,
-    "temp_max": 21.6,
-    "temp_min": 14.7,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.9,
+    "temp_max": 21.9,
+    "temp_min": 14.0,
     "precip_prob_max": 100,
-    "precip_sum": 38.6,
-    "wind_speed": 17.7,
+    "precip_sum": 13.3,
+    "wind_speed": 18.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.6,
+        "temp": 21.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 17.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 17.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 49
+      },
+      {
+        "time": "09:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.9,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 15.0,
+        "time": "15:00",
+        "temp": 18.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
-        "temp": 16.5,
+        "time": "18:00",
+        "temp": 16.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "09:00",
-        "temp": 20.1,
-        "weather": "曇り",
-        "precip_prob": 14
-      },
-      {
-        "time": "12:00",
-        "temp": 21.5,
-        "weather": "曇り",
-        "precip_prob": 37
-      },
-      {
-        "time": "15:00",
-        "temp": 19.0,
-        "weather": "雨",
-        "precip_prob": 67
-      },
-      {
-        "time": "18:00",
-        "temp": 19.5,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
         "time": "21:00",
-        "temp": 20.5,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 14.7,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月3日（日）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Rl9oQWtVQUI3b0xaZ1VLLVk4dWl4WHNweUVlUHNCRm1oYjJ2c0FNWEo2cmFQa3Z6bUI1ZmlyNDBva253ZjdfVEc2RlpQWGdaOEI5b2FJaEl1WmJpblExTHNKWFR1N2swaXd5R0RVZ9IBdEFVX3lxTE96RFY2ZEt3SGljQzdMQ0d3VVA3bXpiVTNDYWo4RG9kWDd4SHh1NVJvcHgxUXBDQjF0Z2NzdW9OR2tTM3BtVDU4dGdDZzEtbjJRZFNCakhPanZuay1meDV2UUdHazlDRDA4Y2NXVFFyMG1iRlEz?oc=5",
+      "date": "Sat, 02 May 2026 20:02:00 GMT"
+    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",

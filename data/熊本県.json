@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-03T21:25:13.692656",
+  "generated_at": "2026-05-04T00:05:43.983475",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.5,
+    "temp_max": 19.5,
+    "temp_min": 14.0,
+    "precip_prob_max": 65,
+    "precip_sum": 0,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "03:00",
+        "temp": 15.9,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "06:00",
+        "temp": 15.6,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "09:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 49
+      },
+      {
+        "time": "12:00",
+        "temp": 18.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月3日（日）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり（RKK熊本放送）",

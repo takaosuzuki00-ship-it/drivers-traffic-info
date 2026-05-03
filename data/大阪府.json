@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-03T21:17:18.273602",
+  "generated_at": "2026-05-04T00:04:24.767290",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 19.5,
-    "temp_max": 20.6,
-    "temp_min": 13.5,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 19.8,
+    "temp_max": 19.8,
+    "temp_min": 13.4,
     "precip_prob_max": 100,
-    "precip_sum": 12.8,
-    "wind_speed": 8.4,
+    "precip_sum": 20.4,
+    "wind_speed": 13.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 19.8,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 14.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 17.4,
+        "weather": "強い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 13.5,
+        "temp": 16.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 16.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 18.8,
-        "weather": "曇り",
         "precip_prob": 24
       },
       {
+        "time": "09:00",
+        "temp": 18.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
         "time": "15:00",
-        "temp": 18.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 63
+        "temp": 18.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
       },
       {
         "time": "18:00",
-        "temp": 18.3,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 16.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 19.2,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "阪和道で複数台絡む玉突き事故 大型トラックの男性死亡 大阪・松原 [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwanRGY3JWTjJneUp0dElVdVZNREE3d3lsNWV3NTRlXzRfT0pLX1hCT3FpZkVaX2pPOGF5ZlFVejkzSXVlXzZneGl1T2wxOUlFX2RTQzA1ZW9wRTY3aFpoS3BYSDdzWnc?oc=5",
+      "date": "Tue, 28 Apr 2026 14:59:40 GMT"
+    },
+    {
       "title": "交通事故発生状況",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2VsSFFXZWN2UWZwTEUtUFhRWENFTmNzd2cyUzM1UVRGNnJRN2JtRE5LTGs1bmtkM01uc1V0bkhBeDhjWjVUckRWa3hsM0NZS0kxX01RWDlkVG5NcmtVdC1JMTIyX0xEOVdFdTRReWlwOHUzOXNEWkhDbDh3bzhWa2hTdGJsQ25NZTd4Vk9hZ0JXWDVrM2FiekdkTUtQWWY3?oc=5",
       "date": "Wed, 18 Feb 2026 04:47:44 GMT"
@@ -110,11 +115,6 @@
       "title": "大阪の迷子シカ、警察施設に駆け込む 「交通事故誘発恐れ」市と府警捕まえるシカない",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zd1hhd0p3bjhwY3NoN1dxb1FYelROdlNMam5xVFNSYUFidnhkUE5PZWJ6MzhlUHlJSm81ZGQ4ckFabzA4WGphOXB4T2NyUzN6YW9xaGl2UERUa2FyaVVhV19RWHp4Y1pUSmt0cElORVdyY3JBZWc?oc=5",
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "大阪・難波の御堂筋で車が歩道に乗り上げる事故、子ども含む３人軽傷…運転の男「アクセルとブレーキ踏み間違えた」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OR2w2d1prYlN6cUh4WmVHMmh1cy1oUHdiMjA2S0Mtc1IyUjVWc2pldWx1dXZLTG1WQkprWVl5TkxPT1E3SEdraGtKMGhVOUNZNHFyWmdOMW45dlppM3E0V0RoNWk1QQ?oc=5",
-      "date": "Sat, 27 Dec 2025 08:00:00 GMT"
     }
   ],
   "official_links": [

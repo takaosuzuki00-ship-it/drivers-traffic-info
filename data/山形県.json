@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-03T21:09:17.072287",
+  "generated_at": "2026-05-04T00:02:55.588142",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 14.9,
+    "temp_max": 18.3,
+    "temp_min": 7.7,
+    "precip_prob_max": 100,
+    "precip_sum": 3.7,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 15.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 16.2,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 16.4,
+        "weather": "曇り",
+        "precip_prob": 51
+      },
+      {
+        "time": "12:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 11.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "21:00",
+        "temp": 7.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月2日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -48,14 +107,14 @@
       "date": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "特殊詐欺の被害防止や交通事故防止へ 警察署と郵便局が協定締結（山形） （テレビユー山形）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZXk0T28zTWIzZTF6NVdvdDAwQmJ2NUNZLVphZmttZUJ4UzMwbHhpWThwckpHS1F1NmpzUTJpcUZqbTZVSnh6cUVPN210UnpiUUxnbTVNYXdQOV9OSHRRQUx0bWpYMFo3cTZOSjFuMjlZYld2WHN4eEpUeVE3ZVE?oc=5",
-      "date": "Mon, 27 Apr 2026 03:16:14 GMT"
-    },
-    {
       "title": "交通事故67件（前年比+16件）・死者2人 自転車の「青切符」検挙なし 山形・春の交通安全県民運動｜ニュース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PdWd2MWRubHpiTFBCUlI1TnVtWlJ3ODcydEpiV3E1NE1LbHUycGV2YmE2Y1dmX1lIOXFwWGN5eDVJaVJiYVZoTEZ5YTdyNzVOd0c0TmphTXN5eDlycmFEeVlIUkliSzRjU0JoR3NHcGZPY1E?oc=5",
       "date": "Fri, 17 Apr 2026 10:50:00 GMT"
+    },
+    {
+      "title": "命の大切さ訴える、交通事故遺族の母親 6歳で他界した娘のために [山形県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XX1hnUjBZWmQ2U1Vta21aLWt2VGYzazlzQXVGZjZ1YmdhNVhxdE82MnprVE1wNlJRTzduN0llVVJKWmF4aGs3VUhqSzdBMjRVS0U3NE1YVjdDMnVTcWd3RDZhLXhCXzQ?oc=5",
+      "date": "Tue, 21 Oct 2025 07:00:00 GMT"
     }
   ],
   "official_links": [
