@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-04T21:04:41.957842",
+  "generated_at": "2026-05-05T00:04:50.825082",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 13.5,
-    "temp_max": 23.1,
-    "temp_min": 12.5,
-    "precip_prob_max": 100,
-    "precip_sum": 16.5,
-    "wind_speed": 11.1,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 11.7,
+    "temp_max": 21.4,
+    "temp_min": 9.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 10.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.7,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 11.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.0,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 10.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 9.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.8,
+        "temp": 14.8,
         "weather": "快晴",
-        "precip_prob": 29
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 51
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.1,
-        "weather": "晴れ",
-        "precip_prob": 51
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 15.2,
-        "weather": "曇り",
-        "precip_prob": 41
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 13.5,
-        "weather": "晴れ",
+        "temp": 14.7,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "5月4日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nWDloOGlSVU14a2FicHZpeVdwbF9sN3pXMmd4cXlTRDVid3RBdzNwSG8zbERDaFpXQ1lNd1Bid0Zsc3VfUEpEOExMbGh5enQtWk1Vb1hWbENzMzVXa3RUVHVGRzg5dG1wNVdFbGJzTdIBdEFVX3lxTFBtUjJZVEpNNWtWNDR2WHJQSDdOSjlXYzRUdE1RSk9tQUdFeHc2OThERmdSbzR0Mm1rRDROeDltbVRfUU9TOU1PVHVocmtwbXpseXFUWnBDdjY2Njc0djZvMU1xbWd1X3gwTlBUNENMa01lR1ZO?oc=5",
+      "date": "Sun, 03 May 2026 20:00:00 GMT"
+    },
+    {
       "title": "【交通取締情報】福井県警 ４月３日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0RIQlR4VjV3Rk9KdkFUaXE0SDhua3FJRXA5bTlmMTJ3YldrdVlzY2pFZFlqQVF6STZ1SXB5WWs2cDdzYzQyNl82WQ?oc=5",
       "date": "Thu, 02 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "５月４日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16ZHFSTGtSMUhUOFBIRjhXZ3NseVpfWVRjYlgxdzJHS21oU0xjc1Q2Tk05cUd1RUxITldKeVhlU2txaHFPVk5zOGJpRlk4V2pOYktMbGRMSnl5bU5jNUlwRHo0aUZTUXVIVTBOTGZrNmVkd9IBd0FVX3lxTE1BUEtZMzBBMXEwaVRVVmYyb2hRb3ZISFpCZWxCWlREa2t2Y0lUT2lrQmppak5EY00wXzVoamgtQzZLWmoxVTd1LXdkRVlCTEQwdlpDUWVBWkJuU1hEVTJKRWxJSmVISldUTHJRQktzMjZtWDMtOWFN?oc=5",
+      "date": "Sun, 03 May 2026 20:00:00 GMT"
     },
     {
       "title": "5月3日（日）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Rl9oQWtVQUI3b0xaZ1VLLVk4dWl4WHNweUVlUHNCRm1oYjJ2c0FNWEo2cmFQa3Z6bUI1ZmlyNDBva253ZjdfVEc2RlpQWGdaOEI5b2FJaEl1WmJpblExTHNKWFR1N2swaXd5R0RVZ9IBdEFVX3lxTE96RFY2ZEt3SGljQzdMQ0d3VVA3bXpiVTNDYWo4RG9kWDd4SHh1NVJvcHgxUXBDQjF0Z2NzdW9OR2tTM3BtVDU4dGdDZzEtbjJRZFNCakhPanZuay1meDV2UUdHazlDRDA4Y2NXVFFyMG1iRlEz?oc=5",
       "date": "Sat, 02 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "捜査員約8300人態勢で選挙違反に目を光らせる 参院選に向け「取締本部」を設置 愛知県警",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSXMxaGpTT2JITk54M0JPYXNlTVNQLVpMRG1PVnNodjVZUmdVdzlGRm9oZkE1bG1XckZFbFNsN2gtdDllaVF3a2dZVWo2MHFKOVlPT3BYNnNkWkZtTEYtcjhuNVNMc1U?oc=5",
-      "date": "Mon, 23 Jun 2025 07:00:00 GMT"
     },
     {
       "title": "愛知県８警察署 合同検問を実施：地域ニュース",
@@ -92,19 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "夫「妻と娘にあわせる顔ない」妊婦死亡、生まれてきた娘は重い障害　愛知の死亡事故で検察が禁錮3年を求刑",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aT3NkeGYzZ3lja0kzb3Q2dEkyYlNQWjdLcXZ0MTdEOC16VTZaRGg3WURaTkMybjlGYm9Ia0VyYkQwRmF5QkdSakhJOTN3VEpzaHfSAWRBVV95cUxObHFtSGdjYjAzSG9pbG9ENDBOR19PY1dWR1pKc1ROTWlpbWNMVldfU0YyaVp1NlBQMXkwWlVYbF9lQmlpS3pCMGo2anowZXg4LUJiS0hzQUJkbTcwT1ViLXZPQ1Vr?oc=5",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転で対向車に衝突か 危険運転傷害の疑いで自称会社役員の女（30）逮捕 愛知・東海市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtX09hZ0tDdDBkbHgxSm0tZVhJZjZualRacmNjVW9ITkE5b0VxUllCWGtFVUpKY29PT2xSM0xYRFdSRkJjVS1MSHhQUUVJUTFpX3VqWFJJMDlJemxDRzZnbDBlRnYyYVk?oc=5",
-      "date": "Sun, 03 May 2026 04:32:00 GMT"
-    },
-    {
       "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
       "date": "Tue, 06 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "新学期に増える傾向　「交通事故」と「不審者」に注意　子どもが巻き込まれない対策",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NV3h4N1VuLWowZGFPaEkyaFI0aDRCc2lmZF9nY1d4OVV0TlRsaFZxaHBRaTY3Q0dLUU5DcEhNZjU0cmEyUE44aUg4OXV0Q0NodVHSAWRBVV95cUxQSTBsb1hsTnhETXpsd1U0bzljSW9PWXJDV2pXcEh4TU1JM0RCckI5R0NjdERyUjQ3TmpXR1F4M0t0blBfZ1NFV3ZaNDlTWTZKMjNQQmhoOFJnSkx4QW43V2tqd0R0?oc=5",
+      "date": "Mon, 27 Apr 2026 08:01:00 GMT"
+    },
+    {
+      "title": "東名・新東名、事故で渋滞発生 愛知や静岡の区間、5月2日10時現在",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OYUxIZVJaSng2Tjl1RDg5anpRaHRybnJCdVlVWmhGa0tuT2NZV2RNUjNhZU5NcUxlVjdfUjlnODljeDMxQmtWMkcxTQ?oc=5",
+      "date": "Sat, 02 May 2026 01:33:00 GMT"
     },
     {
       "title": "夫「妻と娘にあわせる顔ない」妊婦死亡、生まれてきた娘は重い障害 愛知の死亡事故で検察が禁錮3年を求刑",
@@ -112,9 +112,9 @@
       "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "東名・新東名、事故で渋滞発生 愛知や静岡の区間、5月2日10時現在",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OYUxIZVJaSng2Tjl1RDg5anpRaHRybnJCdVlVWmhGa0tuT2NZV2RNUjNhZU5NcUxlVjdfUjlnODljeDMxQmtWMkcxTQ?oc=5",
-      "date": "Sat, 02 May 2026 01:33:00 GMT"
+      "title": "愛知 ことしの交通事故死亡者43人で“全国ワースト” ｢自転車の青切符｣などルール徹底呼びかけ ｢春の全国交通安全運動｣",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkb0J2LUg4bWk3Z3VtOWU2VTlMdzdsNDhIR3A5LWw3cFZxdXg0QXFCekJuSW1raGRJVGxvcHFRMlpTc1YyZVdTTXN0WnN5Q2diYzVYWnJCdDNYZw?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
