@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-04T06:06:19.143155",
+  "generated_at": "2026-05-04T09:06:18.096131",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 21.1,
+    "temp_max": 25.4,
+    "temp_min": 14.9,
+    "precip_prob_max": 100,
+    "precip_sum": 52.7,
+    "wind_speed": 11.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 19.4,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 21.1,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 24.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通指導・取締情報",
@@ -11,32 +70,27 @@
       "date": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "4月29日（水）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Z2VYcjhDeGdSdG13YmlySGk0bTdobXlXVnVleDhWekg4TWhaRmk1WmdUMGl5a2t3QlpEZVBwRE1JRE1fOWtnZlN2Y0tTUEYyeUJzUWZuemphNU1YamtmSGdMSFNjTFF3UEtubTk3RdIBdEFVX3lxTE04SFBqTHljcVNuejNBWnJnSHlzd3FCMGhpbGd4TDctZVFsWnhvMmwtNnhpNDFud0M5V2JhVTR2N01JSm02R09pSVRyYmhDeEVZa2xDeUljUHp6RlNIUUhMYTJNUTlHYWlQdVJVZzdVN1NibHJs?oc=5",
-      "date": "Tue, 28 Apr 2026 20:02:00 GMT"
-    },
-    {
       "title": "「不偏不党の立場で厳正な取り締まりを推進」衆院選前に選挙違反取締本部設置＝静岡県警",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9haldaTW1NUUxZdVV3aUNKb0JoVjByclpnS24xWmZlaFZpZVRaN1VpOU5mYlJUZlJkSnNIbjhJR1R1ZnFpZ0RXbHdwUXBhR2dCb0ZrREprLTJiZw?oc=5",
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "「飲酒運転は重大な犯罪」前年同時期よりも検挙数が増加 車のドライバーを対象とした飲酒検問=静岡県警沼津警察署",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsbUlROV9ZWnFOS2VuVWdOZXRPanNaUTBEZ01LQ3RCT3ZRblZtR3pkZmx6S3VqRUVjNWlVQUZWMHJJOTZQYk1lVUpWejZnS08yMy16TUtDX3RRejU3Vjhj?oc=5",
-      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+      "title": "4月29日（水）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Z2VYcjhDeGdSdG13YmlySGk0bTdobXlXVnVleDhWekg4TWhaRmk1WmdUMGl5a2t3QlpEZVBwRE1JRE1fOWtnZlN2Y0tTUEYyeUJzUWZuemphNU1YamtmSGdMSFNjTFF3UEtubTk3RdIBdEFVX3lxTE04SFBqTHljcVNuejNBWnJnSHlzd3FCMGhpbGd4TDctZVFsWnhvMmwtNnhpNDFud0M5V2JhVTR2N01JSm02R09pSVRyYmhDeEVZa2xDeUljUHp6RlNIUUhMYTJNUTlHYWlQdVJVZzdVN1NibHJs?oc=5",
+      "date": "Tue, 28 Apr 2026 20:02:00 GMT"
     },
     {
       "title": "飲酒運転根絶へ大規模夜間検問 沼津署が国道で実施",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KZk1XRF9LUVRhbG1VZkFzbzViaTY4T0Rfa3p1bzhHY1g3SnFXbVBqRmZ0SE5fTkFuZzlRRm13Mm1WWHBqUE1QS3hxbWwtdw?oc=5",
       "date": "Mon, 18 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "「事故を起こしてしまいました」車にはねられた90歳女性死亡 横断歩道のない場所を渡っていたか＝静岡県警",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ENzVnbWFuVkdOVnlUd3NfU1lpVGxzNlJRNjIyM2NJM2NVVzVOZWc1VzBKd18xRHRnazJGeHN2Ul83RlFXTUg0Vmd6a0l1TnpMWlNYNEhMTkJmOGNKckt2RG5uNDFHV3M?oc=5",
-      "date": "Sun, 03 May 2026 20:01:00 GMT"
-    },
     {
       "title": "静岡中央署が交通事故防止を積極的に推進する２つの事業所に指定書を交付（静岡朝日テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQXh3RjNVQVpOb01ucVNSd3NxdVc2eXJteHhkTnNkb3FZQWFyblNkZUl3QUdQem5qMFlRbXhYMkl5anJyU21BZ2xiSVBvc1NGenh2OGhGbENxVVhZc05IQUUzakxtU1hQTFN5cnI0TllObU1wY0kyVldobUw5VEE?oc=5",
@@ -48,14 +102,19 @@
       "date": "Sat, 02 May 2026 21:00:00 GMT"
     },
     {
-      "title": "GWのお出かけは高速道路の事故にご注意を JAF静岡支部、十分な車間距離や早めの休憩呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yNEdUUjVuTkV5X1c2ZXJXbkE4dHFYaUFxaXFWUHgxZE8zRnpfZmg2ckxpUC1leHo3d0xsVHdKaUx2RFNzejhiSXZoeU9jSHBxMkpMNg?oc=5",
-      "date": "Thu, 30 Apr 2026 20:10:00 GMT"
+      "title": "「事故を起こしてしまいました」車にはねられた90歳女性死亡 横断歩道のない場所を渡っていたか＝静岡県警",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mZ01TWXFDamlDTHBwbk5jNEZRaUdRMXg1d09vOGFOZS05VXJpVkQ1YW1teURnVnV4OVV1SVNZeWlCZHZQYnFlSFRaWFhjZXdXbjUwOXZOdlhYaDg0NHNuVngyR1BSZTBlVzVNd1pxd9IBdEFVX3lxTE80V1FzcFE2YWs1MGpYUmw5YlhDd1BtRGNIVElwM3E0Yk1fUDRJNEFnZHMwVmgybnNrSHhBU0hKdUI0ZXdXMUhNTUtFMUxfb1RITGF6N3JSaXdua0g1TWlHazVyX3h1SDlabVBBck1jZExKaHB1?oc=5",
+      "date": "Sun, 03 May 2026 20:09:47 GMT"
     },
     {
-      "title": "800CCの大型オートバイが道路脇の土手に衝突 運転手死亡 仲間4人とツーリング中 緩やかな右カーブ （テレビ静岡NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YVNLN0NTUUpFOGdMd3RFWTZYTTd3VnlDZ0FjNDlRel9QQm5wc0ZOUDNzb0hrLVVtVGtzc290dVFSOEM4bVZjN29NWUdaVEV1dDJtTzJvYkswN0tRLUxJXzY5cTZyZEgtczNDUHpkT0l2WkJZOW9ZYW00OE5PbW8?oc=5",
-      "date": "Sun, 03 May 2026 11:12:02 GMT"
+      "title": "交通死亡事故ゼロ1200日 静岡県菊川市が「交通安全優良市町」に",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RU3kyZVZFekVxZ1REUnNESUNZcC12d0JpaEhGOE5TQy1qXzVVdVlnS1RZbkpOSDJnWFg3NkVYaXBpcVhDY2FETEJfWGhIY2RDMTU0djFUS2czenBTSDlKMzJiYU9qOVk?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "GWに趣味のツーリングで事故…道路脇の土手に衝突し転倒か 公務員の48歳男性死亡=静岡県警（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETExLS1ZSaFBxTWY3T0FTUC1tS0ZiNDROcG5VRkMwbm1HOG52ZHppUmpQS21heUtnblR2M2ZjN1kta0hmbWd6Z2duQ3ZPSnFzaTlpMFphX3ExaGpXV1RHOUIyeE1aZmNSZGVsVDZBMGNYb1dBYXBOcWRiOEsyQmM?oc=5",
+      "date": "Sun, 03 May 2026 20:00:36 GMT"
     }
   ],
   "official_links": [
