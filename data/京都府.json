@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T13:29:34.044005",
+  "generated_at": "2026-05-05T15:10:28.181839",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.3,
+    "temp_max": 22.6,
+    "temp_min": 9.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月１８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycEJmY2NYMHFCeVhVMUlJX3RnQl9KRUVMQ2xGT185RHBLZlROSkpCOHAxYkQ0V0d6QXNGWWplc3pkMDNOYU5YTTNybw?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "５月３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeE9tc3VWbXVMRmV1ekFRbk1vZ3BpTElZOTgtOGRFMFVqUzd5WkI4ZDFMX2RCLVgyNmFCUTczT1FYYkhJd0laOUVnVG02VXFXOUxaMXV2dy12clJSUGJ2SEVlSVFPMzdQYVpuUUlZUkRiQ0NRdVRyVm53SV9HV29zQUJnYzlJOUxGUFRGUjB0WFhVQS1TQlRNODlNSTA1SjVYb1NLYVdWeWFscTlqUU8wcFI1RG90US1HOEYxd2FST0xWd21XbmRv0gF3QVVfeXFMTmdZWlJsUS1ZM2EtaDZuX2lfRThjbjAweEFEUGYwaFhfVjh5UDQtRF9tSGMxZHZXOGlxLVgxRzJOZ1l5d1lKOGNpZTgyREQ5Q245R3FsOE8yYUdFT0FNNnZHcnpFemcwYkRjSDZHWkE4UDR6MldkZVE?oc=5",
+      "date": "Sat, 02 May 2026 21:02:15 GMT"
+    },
+    {
+      "title": "「人に優しい運転を」高知県庁で交通取締隊の出発式 「春の全国交通安全運動」始まる",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Fc1NuMkJ4ZXBWQnZ6MkFpNG9DeHZFS2dOa2pvTWtTcHBIVGZzWmFHWWpOdDBzcUUwTWlRanNQNjdrdS1yNjI0akF3d1lhOGZxeW16dEVaYw?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府警が選挙違反取締本部を設置 千人体制で府知事選などの違反警戒へ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ubm95eUxhamNiRkpuQWRGQzd2U3VfVW5jYUFacUtoM2xvYWJsRWZyWHRjaHVVa291cjU2dlpBQkdCOFhBX2QxZl9UbWkxQUZVNHdyX2N1R2FDT1VSa01LT01pQzZPc2dqYkhEZGU0WWpULVhrY3c?oc=5",
+      "date": "Tue, 17 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "京都市西京区で路線バスが街路樹に衝突、運転手と乗客の計2人搬送 京阪京都交通",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01RzlRbFlsNVI3MUJUODFrVnRVNlVaZXp4X203UzAzWFk3VlpiUV9SQ2dSRWEyRi1TbnhPVlpuNl9kQ1gwUXEyT3RqRTNIaFJQQ0QxQkxsWmQ?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "ツーリング中にスノーシェッドに衝突する交通事故、京都の大学生が死亡 福井県の国道162号",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zQnJTaEplcmY2ZW9WNTZ2WEtNMFdsYmdvOVliLTdnck5FUEdiXzJwNzcxVU5Qd18zNzJ3TTZmT2tRNm5VcWQ0YTBVODJ0S2tqajVFXzBPcE5KUU1PNWc?oc=5",
+      "date": "Sat, 04 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "官民連携で観光地における交通事故対策などに取り組む ～「京都 はんなり 和（なごみ）のみちプロジェクト」始動～",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tMERkUHIyUXUyOUdNN3kxNkIyeDBaVnk1Q1FBOUs3MTFOaC1hTUFvM3RUNHdiNGFrVWlmd2NvbVZPdjJHbS02RXhCLTdEUVR2b1pyX2dpS1RoTzNYREtSVHdGQnlhalhtcTRwcmRTSDNodw?oc=5",
+      "date": "Fri, 29 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "ずっとわすれないよ大すき〉横断歩道を渡っていた小3女児死亡事故 20歳容疑者の“重大な落ち度”（FRIDAY",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPLVRzR3N1dl9IUmFuVll6aGVtcVJWVlU1S0VYZEpLU0lfQ3J2QmNIS3ptckdBNExBbFNnWTZ6dGdtNmUyNWUyV1BINEdMUm5Pbmt4dlNPYkpVdUw4TEptemQxN1JtLTlmUW5iZFBscGYzbG1jTzBlWkprNm1peFk?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",

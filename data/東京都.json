@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T12:50:31.944031",
+  "generated_at": "2026-05-05T15:06:06.934489",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 21.0,
+    "temp_max": 21.2,
+    "temp_min": 11.4,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 7.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 12.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月4日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1renRrS2JoVWNWTXhxM1kxMlBRY2U4bDhobWtwajFvMmVrOTZXaTJTTU5QSFpoMVpCbEt2VG00NDJYLW9ZY0E2dTZsMTNOUTZUSzYzVV9mT3E0Zw?oc=5",
+      "date": "Sun, 03 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "群馬・伊香保取締中の警察官を車で引きずった殺人未遂容疑で運転手の男（64）逮捕-群馬県警 | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HSGFGblZLS0F5WWljNWc0NFZSWm9reWhMc21BOGhDX1JCU3BmWjBxRXRmTVF6am5haFBmZ0N1Mk96SFhjLW5iUFlWdTU4WDVrdFYyczVldE5Fd21zXzlJ0gFkQVVfeXFMTzFuamZHSU5RbXZJUTBEQ3UwZkw4NExiUjF2WXhEMm9ZUVRtVmJwMWFhN2ZZdldGRHdTbFA0TEdWSUJlVEJVT1FmZXZYeEdGYmtZMlNmQlVndEtvLVJINnVrX1l6LQ?oc=5",
+      "date": "Tue, 05 May 2026 00:58:22 GMT"
+    },
+    {
+      "title": "5月3日（日）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Rl9oQWtVQUI3b0xaZ1VLLVk4dWl4WHNweUVlUHNCRm1oYjJ2c0FNWEo2cmFQa3Z6bUI1ZmlyNDBva253ZjdfVEc2RlpQWGdaOEI5b2FJaEl1WmJpblExTHNKWFR1N2swaXd5R0RVZ9IBdEFVX3lxTE96RFY2ZEt3SGljQzdMQ0d3VVA3bXpiVTNDYWo4RG9kWDd4SHh1NVJvcHgxUXBDQjF0Z2NzdW9OR2tTM3BtVDU4dGdDZzEtbjJRZFNCakhPanZuay1meDV2UUdHazlDRDA4Y2NXVFFyMG1iRlEz?oc=5",
+      "date": "Sat, 02 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "4月30日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"複数",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FT0JUY0NRdmJfd3d0X0pYQU5JckpLV3B5NVUyX1lmMHRHUUF2MUM2YW1iN2pMU3FJQ1hNcGtfYjR5Q0JTZi1MYk04R3NoMDhxU3RiZndmd0Rxdw?oc=5",
+      "date": "Wed, 29 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0RIQlR4VjV3Rk9KdkFUaXE0SDhua3FJRXA5bTlmMTJ3YldrdVlzY2pFZFlqQVF6STZ1SXB5WWs2cDdzYzQyNl82WQ?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "圏央道でバイク同士の事故 1人が死亡 一部区間での通行止めは解除 東京・青梅市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41QVdjNTItODBUV1FVemJqNm01SGFZTzNrNWU3YkhiMmJ4ai1qNmhzMDdqNEYwQjczTkVKczdtM1dBVEhZTTZ0SmlCcTVsZGh2WGl5ODEwWQ?oc=5",
+      "date": "Sun, 03 May 2026 05:15:00 GMT"
+    },
+    {
+      "title": "東京・渋谷のバス停で死亡事故 運転手が死亡 歩行者1人けが",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtdFE1aWRuVW1QUVlWMUtnc1dnNEowdWhYSWRiT0JDeURiTDlvOUxqcFd3d1NfVGZfX0hyZXk2MV91MlBHOExPdkI0c0wwSHl0TEJ0MWFjUG9tVDl6UkZDX3BYOU0wQmxSaUg5aUhfNVRzQQ?oc=5",
+      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東京・杉並区で１月に追突事故、ひき逃げ容疑 ベトナム国籍の男逮捕―警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93eGhJRXpOcGg0Wmw3Rmo1a3labFZKQUEwOEdkYzlVSm5QNnVNQzdKTFVDbWp4QWo3a0ZwbDBseWFpdkN2UUludUg4SHFHQ0h2NlFsMzc1OTRWcGJnUVBpUWNyRQ?oc=5",
+      "date": "Mon, 27 Apr 2026 09:41:00 GMT"
+    },
+    {
+      "title": "横田基地関係者による飲酒を伴う交通事故について（要請）|1月",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVDU5QnlnSUV6VXNVbEgyakNvbmhZYjZkUHhSUjZNZ3hwQUZhdVlYTmxhQlZGTGpNX1I0OWhQQnZPeTBmN2wydUZPMllQdVhINFVPZm5rNmhZVXVvcjk3OEllanJXcW54ZTV1NHh6LTJHNTB4ejhHRV9ReFhuUQ?oc=5",
+      "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "池袋乗用車暴走事故から7年 「人ごとだと思わないで」遺族の松永拓也さんが交通安全意識の向上を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rN3phQ1hWbTY4ZHlBUTNlODdIemRYY21OenRtT3dLQXBNS2ZqZE5IMDhDWFJoYnZJMWFMVC01QlFweExYUmNSY2tmVm5nZzRaNVhn?oc=5",
+      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T12:17:30.614184",
+  "generated_at": "2026-05-05T15:04:13.704877",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 18.1,
+    "temp_max": 18.9,
+    "temp_min": 6.4,
+    "precip_prob_max": 100,
+    "precip_sum": 0.6,
+    "wind_speed": 18.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 6.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 8.0,
+        "weather": "快晴",
+        "precip_prob": 33
+      },
+      {
+        "time": "09:00",
+        "temp": 12.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 18.1,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 18.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月5日（火）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIWUJlMnpaUzRQUWZ2U0k2VV9WUXp2NVQwc2tMWUJFck90czU2a3h6TWpnc0FWWURXcGg4SDM4SGVLZDVMMElZTU50TWNrdTFsUjFmVG95aVJkdy01QU83X29sYkNMOE9fNUFoeE1IMNIBdEFVX3lxTE9mNFhmZFdYeGs4UHFMM096MlB0bG4zXzV5M0Z6QjhMTDZYbTAwcTd2SWJpZklQMVRCcjNJQUg4dG5iRVZIX19ZVlZuTGVtRFpyWFZNelBHY19SN1lEUkpHWDFub2NwZVZUdjdudnUydEphbnBz?oc=5",
+      "date": "Mon, 04 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WUMwVFVrWU9jeW16SGxKOEE1RWhETjZucWZaUVJPYlVvYlFWUTFTU1AxeERFWkx1bWJuM0tZTTNYQ3V5QWdzcHVfbDJQcUJoZkZyeExXZFRCZw?oc=5",
+      "date": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【速報】自転車の“青切符” 青森県内で初めての摘発 自転車制動装置不良のため",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQZ01ZTEZ4aHVjWVZ1dHlfRVF5V245blNnSDg5TzlDdGZkOTB0MDQ5RmNwdmJJX2NpMEhqLVdrSTMtYlMwOVBzWlRKSkJzM1VFeURoLWpMdw?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」青森県内初摘発　鰺ケ沢署では中学生対象に安全教室",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OLVAyUnh4cVk0LUdDRk9BUEd6ZG02cEtzZ1dYNncyYXZiSXFVSEJhb3NxNkNMOXk2Wkh4eWN3NGJpZTFlaWZ6OGtwcWpQY1VFMl8tQWtxdWZKWTY2SnJBQTh2ZVdhZXhacG9YYlBaRjlSbjZxMnfSAXtBVV95cUxQdE56ejdMajNXYWFtWnk0M0o0OTExdWJFdWhWbXdwMXRyUG02MzI1WGQ0SEhXc2JucW42LVo2aGdCRkZfWTFkLXBmdTczbjJRcEhaWnJ5Rk05VzJma0tURmRwZUNyQ3ZGbjN6LVFXcnl6d2d6RF9TdkUtLVE?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【速報】国道4号でトラックと軽ワゴン車の衝突事故 現場周辺では渋滞発生 青森県平内町",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kUWpleUphSGFwMWhucURIV3hqdUNMMmpVVElycm5PMnQyenoxNTNWVVNKek52Nkozb0EtUEhjb3l0N0pieV9ydHJsQ3ZJQ0hWSmlXa2duelJOcmk2Rjdz?oc=5",
+      "date": "Sat, 02 May 2026 02:45:00 GMT"
+    },
+    {
+      "title": "トラックと自転車が出合い頭に衝突 青森市で事故 82歳男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BTXR4YTNVVWJ1Y3JUSjNkNEVPS1JDY25QaEhyYUVjQzBIMEFPTWh4NWtmTkJxajBZUVVOYzdSUnl1Y1MyYlVQc3BZRi14TWJ0cWZpMnFhM3A?oc=5",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青森：児童交通事故１年生２４％ 過去１０年死傷者 新学期注意呼びかけ ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XTVlOaTRfRm1iWEw3LU9VcGlfRG8zTjE5TkdsaWw1bldiNmtQTzJOZlRhR1E1TVV1cjg1TzJBNGptdUtudzJIM04xOC1CWW92b3h2Uzc0ekxJUkt5aG8zRVo3YjFDbldsTktrR2d0dHFuZw?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡事故相次ぎ緊急啓発 青森市で警察が歩行者にルール順守訴え、反射材配布で事故防止へ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHkxRnE4QzJFcVQ2TldRMi1RUkNuY2J6V2hSeDBiYnE3RWRLMVF4SmRzbnlqOTNIelFpZDZ2bHo1Rlp1a0JNTGlKYjkta3R4czJVYmVaLUpwY2ZaX29uaDJNR0NBelZDd09WUGVvY0tjNWIybnpQYUtibTVlM2hKX05acnZzYzQ?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青森県内「交通事故で児童死傷」 小1が最多",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92QnJLOGl0Mm9sZGtxN25XaDJPenZ0N2dzeGR3Wk4yRlVfUC1aeXNZSzRFdHN2aVNFSWlrbGFXUTZXdFJEVVFLTTlOOA?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

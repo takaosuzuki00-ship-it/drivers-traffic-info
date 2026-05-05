@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T13:17:33.666436",
+  "generated_at": "2026-05-05T15:09:35.935838",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.4,
+    "temp_max": 20.2,
+    "temp_min": 13.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 10.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFVyc1lQdTJWRjRXNnhTQkxobTZnV214eGdqdDBaWFkwdnVybEt6WThjV2trTk85bmR5aDdZSVJKdlhrRjFjSnVVOA?oc=5",
+      "date": "Fri, 20 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ大規模夜間検問 沼津署が国道で実施",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KZk1XRF9LUVRhbG1VZkFzbzViaTY4T0Rfa3p1bzhHY1g3SnFXbVBqRmZ0SE5fTkFuZzlRRm13Mm1WWHBqUE1QS3hxbWwtdw?oc=5",
+      "date": "Mon, 18 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転は重大な犯罪」前年同時期よりも検挙数が増加 車のドライバーを対象とした飲酒検問=静岡県警沼津警察署",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYVBKUXlXbThzWFlyOXBhSjYybGhCdm9tdnkyeDZsMW9VSkpzQ1ZMcjB5MTJQSkxOYjlhdnptSjZXaHlmOFpsSnNQQnBsOFA4VUstWnl3WVlQQQ?oc=5",
+      "date": "Sat, 17 May 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「事故を起こしてしまいました」車にはねられた90歳女性死亡 横断歩道のない場所を渡っていたか＝静岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KSmtrRmNlcndPSkROdnVnYmRjR2xFZmxjWUFnTjhTdkNBek05bHlFejlpRnlaQXFqNGdQOEVFLU90TU41Q1VmU1RJRndGOVZJRmotN3Rnbw?oc=5",
+      "date": "Sun, 03 May 2026 20:01:00 GMT"
+    },
+    {
+      "title": "「事故を起こしてしまいました」車にはねられた90歳女性死亡 横断歩道のない場所を渡っていたか=静岡県警（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdVk5WWhFeTNHWkthSURTTjZsa0tGRWN4SWhvejRpNl83cHBGQ3UxWmpoSHZnMEFrZ3lXeTU5TjB5eGdQblFUeVZDUjV6ZTJtbGRoaWtRUXNlS0d5SGRuaUJNVWNYd0hSZDVCWnlhMG45NURLT2FGdkZ2ZFdHQ2s?oc=5",
+      "date": "Sun, 03 May 2026 20:02:14 GMT"
+    },
+    {
+      "title": "高齢者事故防止モデルに中田地区 静岡南署などが指定",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxam9fWnNhSmVDSTJhLWJ5ZGRKRnhPbXZndkJGSUpiY0xDbVFlYWpjM3VyeG94d2R1anhGOUNKRWc3TGJfRGZnenEySFc5Zw?oc=5",
+      "date": "Sat, 02 May 2026 21:00:00 GMT"
+    },
+    {
+      "title": "東名・新東名、事故で渋滞発生 愛知や静岡の区間、5月2日10時現在",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OYUxIZVJaSng2Tjl1RDg5anpRaHRybnJCdVlVWmhGa0tuT2NZV2RNUjNhZU5NcUxlVjdfUjlnODljeDMxQmtWMkcxTQ?oc=5",
+      "date": "Sat, 02 May 2026 01:33:00 GMT"
+    },
+    {
+      "title": "GWに趣味のツーリングで事故…道路脇の土手に衝突し転倒か 公務員の48歳男性死亡=静岡県警（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETExLS1ZSaFBxTWY3T0FTUC1tS0ZiNDROcG5VRkMwbm1HOG52ZHppUmpQS21heUtnblR2M2ZjN1kta0hmbWd6Z2duQ3ZPSnFzaTlpMFphX3ExaGpXV1RHOUIyeE1aZmNSZGVsVDZBMGNYb1dBYXBOcWRiOEsyQmM?oc=5",
+      "date": "Sun, 03 May 2026 20:00:36 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

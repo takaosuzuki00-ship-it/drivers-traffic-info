@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T12:44:31.587479",
+  "generated_at": "2026-05-05T15:05:54.329781",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.2,
+    "temp_max": 22.2,
+    "temp_min": 11.3,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 12.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "埼玉県警、スピード違反の取り締まりを実施 約5時間で160件確認（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFVGx4SmlQc3R0WFNwMEtPazJqdVJaZXQ5UHpIcFlCWUx2cVc0cTJ4d1ZxZGdLSFdmc2tiZWZwNEZUTGFLQVVKc3ZRbi1zTmtJOW1mNXBLV29qbWpfdElSQWItN0lfYVJPOU1MNWQwdlh1OTRMQlpaUkxHNzYwNm8?oc=5",
+      "date": "Mon, 01 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "持ち運び可のオービス活用を強化中 「切符を切らなくても意味ある」 [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EV1YwZ01DUWxmZU5MSGp0QkxpTTBkOFVoQXM4VGNtUm56ajdUWVZTcU9PbEVYZnNIWHFDUDBMSEVqYVE4QUdMcS1odjNHUXVKWFRnMnJ5by15UHQxWkt2Ul9HdkdjZw?oc=5",
+      "date": "Sat, 17 Dec 2022 08:00:00 GMT"
+    },
+    {
+      "title": "ガザ検問所、往来わずか",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tb2g5N0pxTnJjS29ldFVlUEdEcTM2SDE4V0doZlZRV1lnVGxtbVF5aG00UllWUVIxaWd0MjdRSDhBazBONUFWelMxS21hSmFXSU9XY1hlNA?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "運輸局ブチギレ… 不正改造車「24台」に「すぐにクルマを直して見せに来い！」命令！ 東京・埼玉で集結した\"大迷惑\"「爆音」「シャコタン」「ハミタイ」車を\"即検挙\"！ 2都県で同日に取締り実施",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12ZUl0ZkZubnQ1bGJZQjM3M0ZkR1lPMHpEbDVqalFodVItYnlRd2RGOVhwaVJPRmFYbFNIR2hOclVYaFJjWEhPQkFR?oc=5",
+      "date": "Fri, 28 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "自転車の女性死亡…道路横断しようとして 軽乗用車にはねられる 搬送先の病院で死亡を確認 見通しの良い直線",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40a08waWxZOGJpWXBnZzNTa1dybUFhdWZ0a1dHV2gzT29wdnd2cGJWTGhEanBFR3FCS2lQMGk5Ym5MQVdlS0NEZmRxckxIaV9NOFI1Y1VPYw?oc=5",
+      "date": "Mon, 04 May 2026 00:09:00 GMT"
+    },
+    {
+      "title": "【速報】関越道で渋滞7キロ　事故で通過に50分",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObG9TUk9lZjUtQndPRkdGSG5BbEFDSHY5SHZIZnhXdzg2THM1UzFKeE1PT3hMWWllUTZKSFdlR2pQU3VvVm1HajBBQ3VIalNjWjV3QzAxbkNESVQwN3lXTVlOS3d6LXhzSGpvRWpCdi0zNjRUVmlYd3ZOVjhCMTZPbm5QONIBiAFBVV95cUxOcFJJNl93NmdkejZ3b2pNb0l4UUsyaklTWHB4R01HMkhBMWhzUHAwX3dCVy1UQUVaalUyZGdiSE5xMVY3cjJlektFWHBBaHBEejJGYWFvdXMwb1pNWGFtVEpNeWhTRm1taGd1YlFDWkQ2YURxZjBZclRmdFZJU1BCR0t0QlhHSVlK?oc=5",
+      "date": "Mon, 04 May 2026 22:52:00 GMT"
+    },
+    {
+      "title": "令和7年冬の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84aUtiS0h2dnVSelktZ3VWVld6eTdjWk94MlYwZVotUXJLUWEtWnRhZGJVQlV1N3p6am1DTTc4UGNnazNGZUxHeWpZcHBIdU82TTByTjdKTTB5UFA4YnZ1NEJxdnltcnN6UzNMNg?oc=5",
+      "date": "Tue, 04 Nov 2025 20:15:28 GMT"
+    },
+    {
+      "title": "埼玉が全国ワースト4位 2025年の交通事故死者 2024年から12人増えて125人 高齢者が最多の64人 高速道路では11人が死亡 うち7件が追突事故で、渋滞の最後尾を走る車両が車列に衝突するケースが目立つ（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWENuaGdQZzh5OHJMTzdwQnRpZkk0U0F1TGNyZkkyMWlHNzZtS3B1Y0pQV0xxOUFkVnk0QjNMVWhFMEdETVQ5T1k2dkhpR3dLeFNXdjhyMktmd255akdUeklvbDd3M1E2TEFueEtxQ0FwanNDa2tKczlmdjJvd0E?oc=5",
+      "date": "Wed, 07 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒・暴走・信号無視・ひき逃げ疑い事故 息子失った母「なぜ過失」 [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WSkl3QUc1d2FQbkl4V3VVNC0xR0oteGhCQ3NNVVBEM3R6TzhKVkVWTDR2V09FLUYwczRVdmFGTjJnaXNzbjhnUGZkY1F4QzNTdDM5Rzg2a1lfMENUSWU2UDA3YnJfR28?oc=5",
+      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

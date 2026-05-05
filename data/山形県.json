@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T12:29:30.826040",
+  "generated_at": "2026-05-05T15:05:19.814539",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.3,
+    "temp_max": 18.3,
+    "temp_min": 7.5,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 10.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 8.0,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 7.5,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 8.4,
+        "weather": "快晴",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 13.7,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月2日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MlYxUHZjTTh1a2Z1SU9TektJc1dCTEhYY1dIMWRZbXJFc2EtYnRMZ184d3dQRF92VGFRSUsxOUN4N0I1YTRHOU9TN1RFa2hNSlBsRklnUnY4Zw?oc=5",
+      "date": "Fri, 01 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WUMwVFVrWU9jeW16SGxKOEE1RWhETjZucWZaUVJPYlVvYlFWUTFTU1AxeERFWkx1bWJuM0tZTTNYQ3V5QWdzcHVfbDJQcUJoZkZyeExXZFRCZw?oc=5",
+      "date": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【速報】長井市の強盗事件で同時間帯検問",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMVVpOFZxV0xtdHpNMmRDcUs3b0RDbFVMS3NNZWJxVkR5ak9kc0lWenBPZU5lV0lmelVsN3Yta0VmamJpV1JXVDhpVVE1OXg3NFVTWmJvdFpUUGNuVUNkdFo2cThRWFk3aTRGeVJxbw?oc=5",
+      "date": "Fri, 26 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "犯人が逃走中・山形県上山市で発生の強盗事件、警察が検問も（2025年12月2日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTUxVlJScmtCeUZKV2lWWmozSXZoRW5xbVo1Nm11UXRUOC1NUmM0cXNpbE5NaV9vcXhvRFZibnhDTDFVZzlfc3lhMy1jTmtFdU5fYkhhQVRqRld2akxsRFp1VDllNWs4VkNkUURIb1FLMFE1MFE3UEFwczVJQUlzR19xODlPeFU?oc=5",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「片足がないようだ」「車とバイクが衝突」と複数の通報 GWの月山道で交通事故（山形・西川町）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tazA5OW9xa2tPNkNMa0p2VEtZcElIaUQtVWs1a3BTLTJUamZadEVYVWMwTVB1TFM4ZGZiUjFKUXR4Qk9vX3A4bnpVUWNyNVFmc0RJUVVZYzBvMEo1RUotb3BFaHNDLU9NZFRIZWljMWNjbmZKVjNPdU5uVHFnWTg?oc=5",
+      "date": "Tue, 05 May 2026 01:08:15 GMT"
+    },
+    {
+      "title": "【速報】「片足がないようだ」月山道で事故 車とバイクが衝突し男性1人が大ケガか（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sT0JsUHhLVnBzb2RuTjZqSDR1dzNjbG5lYl9MR1NtbjJMREMtcnNlOGxaXzFnUXRkMnh2dnlneTdoMHV2YU5tNXA2b2Vidl93V3JXOGdNSkpvQQ?oc=5",
+      "date": "Tue, 05 May 2026 00:46:00 GMT"
+    },
+    {
+      "title": "車と大型バイクが衝突し バイクの男性が搬送先の病院で死亡 国道112号は長時間にわたり交通規制で渋滞 山形県西川町",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS09MbWZnWUxOeE1CU0QwYWREcVNLaUpjZXRKVklhMEZyLS11V0hmV0ZjeE0wUnd1dTR5Rm1sdFZ3X1lWTzRFT0d1eDhscXRTaGY5amhTQzY4MElxd1Q1UGZMSXdraEZEdVdDMnZKZ1BYRTgxbVhqT3J0MzVEZVRkYkstTDh4d0U?oc=5",
+      "date": "Tue, 05 May 2026 04:29:00 GMT"
+    },
+    {
+      "title": "月山道の事故　男性1人が心肺停止（山形・西川町）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tR2t5bXFsRE42elpPMXpORE1UQ3g0WHlsbVlTSzBkUldkV201TTExVjlXR21oQWtCQ2dJdFZyeTdvZDk1UklOdGVSMktiOE5zcUh5dTNoZFVSVU4xSVFzQUItcE5PYkplUWpfcldOSdIBdEFVX3lxTE43dXRqZTNCd1liNTF5QUx0V2Jib0lTb1FHdWJEYlJfdWhRMXM1ZjNySHdHb0duSEtCSDhna3B2VV9talZiWWlxLW14emU1RVNKcWJPZktCN3JXYUhoXzloNUdzY3l3ZlhiV2VPNFIyNW11cjBB?oc=5",
+      "date": "Tue, 05 May 2026 01:38:00 GMT"
+    },
+    {
+      "title": "月山道の事故 心肺停止の男性（60代）は県内在住者か 4人でツーリング、鶴岡市方面に向かっていた（山形・西川町）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44YnFQcnBwZVFjWUdncERIM0ppZWhxOFo4RWlHR291T2Z1ODhMekNmWFlEcGIyeV9QaGc1dkttYmFRaHBaLWFEOWF5V3RVX0w0c3VEYVNvaUROQzVsS0FRS3FtdVBrM2VzTmhleHNtQkdJOEo4ekpBRTQ4cTA5UjA?oc=5",
+      "date": "Tue, 05 May 2026 02:30:38 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

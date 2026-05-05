@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T13:11:33.312659",
+  "generated_at": "2026-05-05T15:08:57.495085",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.0,
+    "temp_max": 20.4,
+    "temp_min": 5.8,
+    "precip_prob_max": 100,
+    "precip_sum": 0.1,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 6.7,
+        "weather": "快晴",
+        "precip_prob": 31
+      },
+      {
+        "time": "06:00",
+        "temp": 6.8,
+        "weather": "快晴",
+        "precip_prob": 63
+      },
+      {
+        "time": "09:00",
+        "temp": 12.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 17.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「覚醒剤を持っている」警察に出頭 会社員の26歳男を現行犯逮捕 覚醒剤取締法違反の疑い（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STFlIX3B0c00yQ2ZDdXFMQ2xFLVpsdkQ3anpfLWlHUnZLLXFEUXpKS01qSjhUbXQxZmMyUi15RG9QckwyRFF0ZXBVU2E4clFRa1AzcW0ydVBLNXpoMXJ5QzktRUdXaDVjWHFOeUNGa2VrNHUzbm1jREJLR2dRWEk?oc=5",
+      "date": "Mon, 27 Apr 2026 02:56:01 GMT"
+    },
+    {
+      "title": "4月29日（水）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2VjBaYkdGd0lZTFFxNWp1U0JMcHlma1ZxYl9SenJQN0Jzb09OcURvUGpfSkY1WEZRbUs2N3RQYkhMZFVYYWRMbVJWOGFwNnlvM3RleVN6UEwxdHJPSFhsdVJIWThKbk5BWUMyQlhaONIBdEFVX3lxTE45S0g4QzdPZzBYVWgxLVlYWFVsa3paQ0xpeW1JZlFiLXRzVmZ4M2JJMmZmMlpMUEdVOXhTTE54dUpFQTVZZUNMdnVGWFZRRl8zUkVvM0R1LV96YWlBWWtxb2xpcWNvUW1jd1Z6dmxjWjNjRTBB?oc=5",
+      "date": "Tue, 28 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "4月30日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sR3VCdjVGeFl5TldSeEQ0NkdMaG03MWNjMm1vZzdlQ0JlelNVUWdVRjJzREVTQjREOERhbm40SXVHZlplNDhsOGdKaEJ5OUo5TjU5eTF0MHZxZ3F1SWtrWFZlWHlaVUtudFRPRy0yTdIBdEFVX3lxTFBfaXFpQ21YZ0daLXExNmpuLWM1ajhWbldDRFRDOHc2czQ0bThoY3AwVFlFb2RsVENCRTh4UGpxeXB4bzlsUHBaT2Y4dVhsdjg3Y2pfck5CTEVsWXd5OTdBbDdjZGhhWjhFZFJ4MzBndjJMZEY4?oc=5",
+      "date": "Wed, 29 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "名物「検問うどん」7年ぶり復活 中野署友の会が年末警戒の署員を激励",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSDJ5aWRha1dyMElNdlRDQnJFbEFIUnlMZXFLVjdZYnhtMU1ieWZ2cHFrcVVteGN0aGs0bnc1NURZOTY2RE8zajJYWWt1S2lBYnFaN1dQRXhqRHZreVhGU0JId3JBNGhuWHZHVVdZSXQ?oc=5",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "長野自動車道上りトンネル内で9台絡む複数の事故…けが人なし【長野】（2026年5月4日掲載）｜テレビ信州NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldROHM3WGkyek90NGk0blY0R2tCVXpPemtnc0t5ZU9ETGVSbEp6SVBPdVJNQkVWbDdtdTVEckNxQmsxWmJFdHVQQ2cyZS02NGppMFR3RzlqWURlcnBnY1NnUXNvSERJTHFlSzdiR0prMDVIUTd0N3g1LUd0M29fM3EzT0xES1E?oc=5",
+      "date": "Mon, 04 May 2026 09:50:00 GMT"
+    },
+    {
+      "title": "長野道・岡谷トンネル内で追突事故 追い越し車線で車9台が絡む けが人はなし 事故当時、現場は渋滞 長野",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QN0NRRWYwZnBNRm83SldvS1lRNWszOXk1Vml0SG9mLUZzaERtMldISFJuc1pLeEJfS1pGc3hPN2pBeE52LUR6NEt1dkQyOXVrMW81UzZhazFFa2pNWjlscXdHUld3RkU?oc=5",
+      "date": "Mon, 04 May 2026 08:50:00 GMT"
+    },
+    {
+      "title": "長野道・岡谷トンネル内で追突事故 追い越し車線で車9台が絡む けが人はなし 事故当時、現場は渋滞 長野（ＳＢＣ信越放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CcWlxSFRaYXJIb1htN05qSXhRaHJ6ZkhDZndFM0xrTWVOZG1BdU1mWUlFRHZTQ0pKTkwyc2ZtU0V6NGJFM29sRWxweURBNDRzTHNLZ1dicGRTcmRnMkd2QUdkOUg4aWR6VFljb1luMFZJa2VVUGtNUVpyX1NIMGc?oc=5",
+      "date": "Mon, 04 May 2026 08:51:25 GMT"
+    },
+    {
+      "title": "涙ながらにまとめた調書 長野県警交通部長が語る「交通事故ゼロ」への思い",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QY3prOUtaa3NWbUgwTmd2U05OX1RmenJOSEZVWEJzQzNOMXRqUUlsVlEtNG1IRmxJRFJ4RjdUekw1Ui04cmE0NGozQnRGLUhaOUZiV3VIeEdQTllMTGY3MTB0QlhEdUJQdmx6T2liN3c?oc=5",
+      "date": "Sat, 02 May 2026 01:49:00 GMT"
+    },
+    {
+      "title": "長野道の岡谷トンネル内で車9台からむ事故　複数の追突事故が発生か",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqUWdDUUdrTU80VzBRenFKYmo3ZjlBblk5RnAtbWNlLXkzYl96aUJVb0p2SUhtclBoektFbjJfdFN2S21PY3lKVGZ6VFNXYjJWMDZtc2RydFJjVXZLQmd1U2lmZE16SV83T25zZtIBckFVX3lxTFB1cXA1LVlJOGdndkhJeTRlY0NpZ1hOVG1selE1c19TNFIzS2VGSmVUVkhHeGpFOVk2cEFXWnhVckIyOTF3LVRBYWpIMVRhYm9ZX2hneHRFX0ZzUlhKLW04WFV3M0s0VUdwRTZrNi14TmRpQQ?oc=5",
+      "date": "Mon, 04 May 2026 09:52:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

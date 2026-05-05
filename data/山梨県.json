@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T13:08:33.116474",
+  "generated_at": "2026-05-05T15:08:36.811879",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.2,
+    "temp_max": 23.2,
+    "temp_min": 10.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 14.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 15.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月5日（火）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIWUJlMnpaUzRQUWZ2U0k2VV9WUXp2NVQwc2tMWUJFck90czU2a3h6TWpnc0FWWURXcGg4SDM4SGVLZDVMMElZTU50TWNrdTFsUjFmVG95aVJkdy01QU83X29sYkNMOE9fNUFoeE1IMNIBdEFVX3lxTE9mNFhmZFdYeGs4UHFMM096MlB0bG4zXzV5M0Z6QjhMTDZYbTAwcTd2SWJpZklQMVRCcjNJQUg4dG5iRVZIX19ZVlZuTGVtRFpyWFZNelBHY19SN1lEUkpHWDFub2NwZVZUdjdudnUydEphbnBz?oc=5",
+      "date": "Mon, 04 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
+      "date": "Mon, 04 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tMm5lTTFrbEwwTzlQamhPTUlKU3BJY09fbDJISnJ2S3JzTF9jWEpwNmRHakQ3Q2pZYk5UVTh2MFBqVURSdk15aXpLMA?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "小学校の男性教諭 自転車の酒気帯び疑いで摘発 交通安全期間中の検問で発覚 山梨",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWkyeW1CRmh5NXdwSG1iS25xdzV5ZUt6MmlnT256RWZCcGswbEtLbkNvX3hxVlFHaFlad0pacmVWWFpvX29ZOVVQYklaLWZ3X2JXTXpyWV9EcEQ2SGhqMFdZUy0tTnF6Um83SXU1Z3gwa3psa2xDTG8yVE1zSGlBdnBoc2w4Znc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "中央道笹子トンネル内で車両事故",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11MXVOODlkZWhfVHI2X0JnR3FWS05JeXliUTN6aTZtaXhER3JRcUR4eERBdWUxbGlHU0NaMDV2VXBWU2FscWNyU0M3Nnh4dnpXaWpmR2x6M1VTS29yWmdwOXoxM20?oc=5",
+      "date": "Tue, 05 May 2026 04:04:26 GMT"
+    },
+    {
+      "title": "20代男性2人が乗った乗用車、道路脇の看板支柱に衝突 1人死亡、1人重傷 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wSHJmTy1jNzBqV1lMQ0RDVHJvQTF0WmRpRTFPbmtkZmgxSjhwQ01oYTZtY05YSTBGYzhad2NwMVhpUGZnYkpJWW1jbm9PeWhDUEhOZlRKSDAtUQ?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "春の交通安全運動 期間中の事故件数とけが人は去年と比べ増加 一方、青切符制度導入の自転車は事故件数は減少 山梨",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzcTNZRzJWa19zdUN6SFJta0RybEVpYTR0NC13ZlZ5WndfTlJjeUVnOThWRmZfMXBLYWtscENXU1NGMDhEdVdMQ21mOTFqbDFxb0tPcUlFUXFjOC15ZmowQnFrWkpKYTZwZFdqZ1FOTjRWOXAzN2JvQ0ZXTEZWX0U?oc=5",
+      "date": "Thu, 30 Apr 2026 02:42:24 GMT"
+    },
+    {
+      "title": "はねられ女性が死亡 運転の男に実刑判決 「許す気はありません」 遺族は信号機求め署名活動 山梨",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmhPbXpTVmpjWEN5akxjcldKTElaVmxJYWZuak1zYWZEV3ZEeXRxZFQybEdkeUVsSnlTRE0yMUoxMFhOcVcwRzZqUm9vMzVMRHFrQ1k2MjVwZUVJdGw4UWxPblAteFhZZEozam1BRUFtVDluNTBUR3NFa182QU8xWWMyWTFBemM?oc=5",
+      "date": "Thu, 26 Mar 2026 10:08:15 GMT"
+    },
+    {
+      "title": "知人から11回 金を騙し取るほか、わざと事故を起こし保険金を騙し取った男 懲役3年6か月の判決 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMDIxSVdNeGFoTlhWaWFKdmVTNkxvT3R2Z1l5U01fMlU5Yi0xQjlyLWxCQ2F5dnBXZnFUQmFYYzJQRXQ5U2lSWDZRWFlRWDVvQWpRdHJhOU13dzljcjljOXVPM2tjVmM?oc=5",
+      "date": "Thu, 30 Apr 2026 10:25:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山梨県警察 公式サイトを検索",
