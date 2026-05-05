@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T10:59:37.350680",
+  "generated_at": "2026-05-05T13:42:50.642504",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.1,
+    "temp_max": 19.3,
+    "temp_min": 11.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 8.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 15.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【徳島県】2月はスピードの取り締まりにも十分注意！「交通取締計画」をチェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjFfWWJWTlFpZ0VJQ0ZtWkl0alk3WjRDeDBuUkotdmpUaFI5M2FPR1l1SmtuVkVjYVkxNFAya3BNc2ZIUnZWcFlaTWx0ZWl6QzhCdDljTHZYeU5yM2p2bDlMcng2dHFSMjA1SmNqUmtCZ1JEaVRCbm9fbWxKblZhVQ?oc=5",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "5月4日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nWDloOGlSVU14a2FicHZpeVdwbF9sN3pXMmd4cXlTRDVid3RBdzNwSG8zbERDaFpXQ1lNd1Bid0Zsc3VfUEpEOExMbGh5enQtWk1Vb1hWbENzMzVXa3RUVHVGRzg5dG1wNVdFbGJzTdIBdEFVX3lxTFBtUjJZVEpNNWtWNDR2WHJQSDdOSjlXYzRUdE1RSk9tQUdFeHc2OThERmdSbzR0Mm1rRDROeDltbVRfUU9TOU1PVHVocmtwbXpseXFUWnBDdjY2Njc0djZvMU1xbWd1X3gwTlBUNENMa01lR1ZO?oc=5",
+      "date": "Sun, 03 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月３０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "検挙数は前年同期の約２倍 徳島県警が半年前から交通違反の取り締まりを強化 「見せる効果」で安全運転を促す",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aamNPdkFDbTJUUUxvVWZER1loVDMzeHNXOVNVdzhHTGxkQVlHODRZUGNxcjJWaDdraFFnNVVPSl9vTkc0cVc3ZXdOYUFJZElOTU9HRmhn?oc=5",
+      "date": "Sun, 19 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "徳島道・徳島ＩＣ～藍住ＩＣ（上下線） 事故のため通行止め【徳島】（JRT四国放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10OHJNV3FDUzZuWUhvYnFtOV8wWDM1M2VPNlJtZjFKY0tRYXhQeEdVbHFnRUhuOGpVbmpPaEk1dEhXLWFkcDBZZ014ZWNFTjg1SkFwQVJ1UDFlamNmWlpmVEpXZS01RjBvZDk3bVE2bHNMSkQ4VmFiSHYtaV95dkk?oc=5",
+      "date": "Mon, 04 May 2026 08:41:00 GMT"
+    },
+    {
+      "title": "【規制解除】徳島道の土成ICー藍住IC間、上り線が事故で一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51YkFDbGRyRHVBVGRvQVJNYlB3N0lYYjUtclk1QVpfTFlsSEF1cjFGOVVOQ0NBNEpxZjFLVUVVa1ZtYkxpUmY5V1d5UQ?oc=5",
+      "date": "Wed, 29 Apr 2026 09:10:00 GMT"
+    },
+    {
+      "title": "【規制解除】徳島道の土成ICー藍住IC間、上り線が事故で一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoLWJQQl9aWnlOX0E4YlFwaDlXWWo0VHcxc0Y4Q2FQMWg5RnRFamNHQTdjcVdDZk1hbm9OQzlCTmhzVEVrXzNQeVE1QjBZckJ6Yk1Rb2dB?oc=5",
+      "date": "Wed, 29 Apr 2026 09:10:00 GMT"
+    },
+    {
+      "title": "徳島道で乗用車が側壁に衝突、運転の女性が死亡…上下線が一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9udkR4amk2Mjdzb0Fja3F4b1Rwd2w0elJOZ3I0YzBzXzBOdE9XVDBTU2kwYXBWRlAxMFI1Mkt4S0pTVjdZMjJWUlFZaU53WFdaNWZzWDN0YWp4VWQwZWdaSnN3R3E2b1BHOWVLV1NwUnE1Zw?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ボートレース場の水面に男性遺体 事件と事故両面で捜査 徳島（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6QzBfQmFKdDJwM2dRcW05SV93WW1qRnExZkRSLWIyRXRETUNuQ3NtZEJQR3JXMjdBQ21mLWZUYzU1T2NlWnMxZ2tTSG5nVkk0ZnRiX0daeFhONmhMQzFUUUNXVlAtYnFUdVhhVEQtM3NWeXE3bGpnUno0eHlwczQ?oc=5",
+      "date": "Mon, 04 May 2026 11:55:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "徳島県警察 公式サイトを検索",

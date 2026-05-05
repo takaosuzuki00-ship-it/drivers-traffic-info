@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T10:53:36.940087",
+  "generated_at": "2026-05-05T13:42:36.080529",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.9,
+    "temp_max": 21.2,
+    "temp_min": 9.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 15.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
+      "date": "Mon, 04 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "広島県警、衆院選で11件の警告 取締本部を解散",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRkVmeDlxMVc0U095RThhd21hakZvdUxmUDFhR3lMVFBWVTV0YjZoV2l5ZGh5Y2RWNzZUd2VNbkRYOWdzUk9VMnlXbmJFRFZ2S2J3azhqVnhiZw?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "５月５日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtcnBnT0NtMkpFMlFFSlBCdzh0TmpjUENsUW9hRUJyNS14aUhBVW9kQzFYdlRxa05oY2FPVmFvZmFqTFIzWWdMTlNtcjk1NmliT3JhRzBrOVRvN2dZVV9KUzl0NzZVWDNSclNnb0tmVHJtd9IBd0FVX3lxTE1DZTFLc0xaMk5SY0U5OGFOaV9LMUlSRVQyVG1Oc0FDWGxOWjE2SFNxRFF0dVM0SGdhcUFmczhBTnBJUnZtek0zX3VHcnZOc2pIX3llWVJhNnM2NVp5M1RJN0w2QmY3U2pRYXFhVm5RWE1Fek5VbU40?oc=5",
+      "date": "Mon, 04 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lYzNLUTJtczZmTXlDMk5ESkNtTWVsYW9DQ0R4b1JGVEg5b0UtaTBDMC0yNUxwa2hTNzVQRDdxUmhfVDhRbEMxbXhHQXJCUi1sTzNQdlJ2TVFaUQ?oc=5",
+      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hSHNBYTRZeXQtcW5neVlHdGRrX2R0Y0Z3TGwtbEw2UkNVZmRST29pSE1EY2ZCVXM5a2hwbmV5bE5uNWJEc3VEV05BMA?oc=5",
+      "date": "Tue, 23 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【JAF広島】交通事故防止と安全な交通社会の実現を目指して 小中高生向け交通安全教室を開催",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Qy0yeS1EMkVXd2c4cTZTcHVMQklqVjEtVURJbHhodXBSMlpBUUZzeWNfM1RkejdoQVV2OVNLNk8tQk85Nk9tYlM2OXZSYUludWd4aTBLd3pQUDJwX3dWVi1CeTgzbGJpQ2h0ZktEMA?oc=5",
+      "date": "Mon, 04 May 2026 06:54:23 GMT"
+    },
+    {
+      "title": "高速道路の事故・渋滞情報 5月3日 広島・山口・岡山・島根・鳥取",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbVZWTDlIeWo5c2swMzZiazFISWFVNlQ3MEMwSlNybW92UzhqUWxDOWthMEhFaDJYal9qVWE3aXZzSWpNTzNVd2s5TXM4c2J4U1VVMUVtT3R4dw?oc=5",
+      "date": "Sun, 03 May 2026 04:11:05 GMT"
+    },
+    {
+      "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【事故】東広島市の山陽道奥屋PA付近、事故などで上下線10キロ渋滞（中国新聞デジタル）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYeDhzcjJrU0lmSFJKRTZEeUxpTFZzNENJYUdBWDJ6NnVSamZKX1d6U3BUS1pTNnBzZU10TWV5NjRMRG5fT3BNOHIyNTJyZGlfWnJLRlVnX0pKZU5mb1hPS3M4N2M1WUkxVFFEX05HVjU2TzdvcTN0bzRDTDBrQ1E?oc=5",
+      "date": "Mon, 04 May 2026 02:40:17 GMT"
+    },
+    {
+      "title": "【事故】東広島市の山陽道奥屋PA付近、事故などで上下線10キロ渋滞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93cUxCcnE3cWZuTnFPb2EybkdoN192bHpENXpieG84dml5UmpzOTNOaTBDRmd1Yi1vcmNqMHVjMUNfa3hkeFZSRHFaNA?oc=5",
+      "date": "Mon, 04 May 2026 01:46:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

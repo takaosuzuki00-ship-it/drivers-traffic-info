@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T11:32:38.853883",
+  "generated_at": "2026-05-05T13:44:22.577687",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.0,
+    "temp_max": 21.6,
+    "temp_min": 15.6,
+    "precip_prob_max": 100,
+    "precip_sum": 40.0,
+    "wind_speed": 14.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "弱い雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "03:00",
+        "temp": 15.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 17.0,
+        "weather": "曇り",
+        "precip_prob": 92
+      },
+      {
+        "time": "09:00",
+        "temp": 18.5,
+        "weather": "曇り",
+        "precip_prob": 76
+      },
+      {
+        "time": "12:00",
+        "temp": 19.4,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 20.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 19.5,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 19.7,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
+      "date": "Mon, 04 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転防止へ一斉検問 沖縄県警、未明から",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSnFBYm5TQlJVdFp1ekhCcmF5bm94Z0pOQjZ6T3Z0Z05IbUNQNFlNQXJqcnc0M1pWc2M1bXktN3lmN29FbXhIVW5KMXNJZXVMRnhxVUNOWFdpWVU?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」始まる 対象になる違反行為と反則金額は 自動車に距離確保の目安も",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zdk00dER5cWh4R1RlSEw1cnMwMFNJbHBhRGN0MGdna0cxWURVUjZGTTJIRktIU3E1RUY4RlRpTFkxSHBUdllUVkFTSXZxV0YyNWdqdFktVzVlektMRXc?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "南風原町の国道で交通事故 軽乗用車が歩行者をはねる 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUE1JQ0Zja2lBSnNTcXdoREhGblQ5Z1M4YlpKTTlJUEFiYTU3NFA1VlBJb0tnQkJpR3IyMU9rVkVENXpabWlMV29Mc0I1MDNuNjFqTTVBaXpJMHJwVXRISnpqQzRrS3JLa0xkeFZ2UmkxanN3eWFVS3JkNHM2U3c?oc=5",
+      "date": "Sun, 03 May 2026 09:01:48 GMT"
+    },
+    {
+      "title": "17歳と76歳の2人死亡 宜野湾市と沖縄市で事故相次ぐ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56MkZkQWJKYWxCQVUtNEI5V3Jqalc4OUh1Ry01UGowLVhvb1RfYUZTbmMzb0UzLXU4TDhEUlk4bGJrNi1Ob2hLaUNmc0xhbl95RFk5MVlaamY1WmRhOVE?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "バイクの17歳男性が死亡 車と衝突 沖縄市の国道329号",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wWVJOcGg4OHlEd3RwXzRveVNTVGZDNDA2TGtaMXBxMklIZEo0a1FNcWpOVTR5ODVDSGNycTNQUy0tWWFCZUJPMWViQldkaXo4cEVEWXVhdEx6ZFU?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "沖縄市と宜野湾市で交通死亡事故相次ぐ",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FMDVpdHdBdFNaVmstbml1MG9CVkxVbTltTWNZNW5qZEpVaUtWd0QwM0p2d2NWNERxMVhjSmJBVUJ5QzQ4UFZ6UlEzLWhaZw?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "沖縄タイムスがおわび、辺野古事故めぐる読者投稿で「不適切な表現」 [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11bE1TR2NrY0ZvZjRHeDFWQ2F6SHBkT29kaFpsSi1aZUZQWnRLMUFoMGFJdWxnS3lEbVhZNDJxUXhTLUlTdTgtcTBfZG5OY3ExWEp4SmNETFNJcWhHOEpLeFo4RWlfN1U?oc=5",
+      "date": "Mon, 04 May 2026 02:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "沖縄県警察 公式サイトを検索",

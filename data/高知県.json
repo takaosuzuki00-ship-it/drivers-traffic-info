@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T11:08:37.903735",
+  "generated_at": "2026-05-05T13:43:25.302837",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.9,
+    "temp_max": 20.9,
+    "temp_min": 10.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 8.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月3日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdHAxeTFucTV5MnlKSUZhMWxBd2MtSFdkdlIwZU9WeHJDNE1PazJTSTN1dTVKb0VSNzNwTm1sV3dlRGVqTml6WnpnakZ3d2dxZG5MTVpVR2RpSm55LVRlLW12c3B6bU9OUm1RbWFZb3BjcXVoQ0lwRGZmMFRfU3c?oc=5",
+      "date": "Sat, 02 May 2026 20:00:37 GMT"
+    },
+    {
+      "title": "５月５日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtcnBnT0NtMkpFMlFFSlBCdzh0TmpjUENsUW9hRUJyNS14aUhBVW9kQzFYdlRxa05oY2FPVmFvZmFqTFIzWWdMTlNtcjk1NmliT3JhRzBrOVRvN2dZVV9KUzl0NzZVWDNSclNnb0tmVHJtd9IBd0FVX3lxTE1DZTFLc0xaMk5SY0U5OGFOaV9LMUlSRVQyVG1Oc0FDWGxOWjE2SFNxRFF0dVM0SGdhcUFmczhBTnBJUnZtek0zX3VHcnZOc2pIX3llWVJhNnM2NVp5M1RJN0w2QmY3U2pRYXFhVm5RWE1Fek5VbU40?oc=5",
+      "date": "Mon, 04 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "５月４日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRUZqRzdKUW5neG5XRlE5ak9kb2FtQl82ZU1rbm95R25mR3RVMWJ2S1dBT0xpaEtiU0g1YU03LWwyVEN2WmZCUXRqcDE2cUF2djZHbVF1NnlDNWc?oc=5",
+      "date": "Sun, 03 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月4日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wX0xyWGRiQWlyb3lSb1oyZGtZNWpxR1ZlTmhlT1VEYXFFQkk1dFY3S3diT1l4QkdaeDFySnozRnQ4VDBqRWUydkZVTnh6ZEdKQmJLZkNTeHFTcnRaTjYtUmd3MkMwcGtzR3FKOURwQ0VaZk5OVjF4aS1qZVh4WVk?oc=5",
+      "date": "Sun, 03 May 2026 20:00:36 GMT"
+    },
+    {
+      "title": "５月３日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LTngtTE9SazNqXzNscGs5S0xxYVY5V0JMT3FnWVZITVFqVWlPT1VWVWlLN18tWU9tazRKQzhJS1FWWUJMbmlibHZzWmwwdFVMeWIxRWhOa3hLbXc?oc=5",
+      "date": "Sat, 02 May 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「車と車の事故です。はさまれているかもしれません」高知市長浜でトラックとワゴン車が正面衝突 ５人搬送も命に別状なし",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tUmdJYkZUX2FmWmExc3RERFVqal9BR2xOMjdpV05GQ1VBUjFqeDNHQmtXT3o2ck1TdWFsdFZ2TkZRQnpzMlRBckhvdDBjYmZZdm1OaUNPN0p6bTJOZGlUSi1iU21DZV9Y?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【高知道】土佐市内で事故 一部通行止め解除（4日16:30現在） | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CaWRROFdqUzhvaFlOVWFsV2RkMTMwU0gwLU1rVzljUWdlanVUUnBvR1pBbFZUZl9LNTVVcXpLWmZ6N0F0SHJZZUlmSGZxLWtDTnVranZVODZUQjJ6RnJB0gFkQVVfeXFMT3RaQm95YjNVN3RBVnNmaW5GaUZaLVhFZ093YTI0QnRqSUxoenJyeGg3dGxxenZXN2puVVgwZnRGLUxOa21rU3ZSS1l6cFdJMkdKTU9TUUxRUmhna1NaaE5jSVVuRg?oc=5",
+      "date": "Mon, 04 May 2026 05:47:33 GMT"
+    },
+    {
+      "title": "「運転支援」が油断を招いたとしたら 1歳児死亡の事故は過失なのか [高知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13eVdtNmxyeC1RSkFJU3FqMFlUTkpTQ2VoWXFwU1ZXR0JTRXJWV3JBdkZVdDZTcldJS0c1R0NVWFJjbEhCQjlCblFjRnBTSXVQM0FfT0RJYlV1OFJMNmVVOW4zQmF4QzQ?oc=5",
+      "date": "Tue, 11 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "高知東部道1歳児死亡事故、靴の履き替えで対向車線にはみ出した被告は事故前にも運転しながら着替え「48回ぐらい」…危険運転適用外に両親「理不尽きわまりない」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xSE1vbjM1aDRVNmJiakhOZ2U0cGduSFI1OGFaT1A0RE9tU19yamxsRVdVcHJCMk5ac05DVDQzcUtudVZFcUJMT3IwNEczRG5XMTIxN3ZOZmxOVDVtT0dhZjZYNk1Kc1VZYVR1bnZaVUtCUQ?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ダンプカーと乗用車が正面衝突、女性(21)が死亡 ダンプカーは事故の衝撃で大破し道路外へ、運転手は足を挟まれ出られず⋯【高知・黒潮町 国道56号】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMR1pnQXNUdjZZcTdBQVNEaDF4MGdaeVhCX0dlakZpa2QzODR5ZTNHNVEyUU9LMEZkUkx6ZmlaSHl2dGtwemNUTWhSOGZicUg4UmJYekdERQ?oc=5",
+      "date": "Thu, 05 Mar 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "高知県警察 公式サイトを検索",

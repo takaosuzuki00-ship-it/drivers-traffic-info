@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T11:26:38.740906",
+  "generated_at": "2026-05-05T13:44:06.721420",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.6,
+    "temp_max": 19.7,
+    "temp_min": 12.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
+      "date": "Mon, 04 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」知って 宮崎県警取締隊が出発式（宮崎日日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UGdVLWNqeDNubE1oejh1cmNWTW1vY2xaUjRTcGhob3pLdjA4MmNZbnFOczFKcGtXOFlWNWdFU2tqWEdvRzRFbnotV05jYi04dWlOdEstZ29zemJBRkRzTExhQXlXUzVTc0tXNjRJSDd2Z3lJcHloM0hDQUxlUGs?oc=5",
+      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」知って 宮崎県警取締隊が出発式",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hUXU3a29YNHhBV2tVVW5CU09hMmM5VmptTnJFR2hyOVpDdmJYam1sMHNrX0RKT00wSW5YQWFTbVBZdXlpM0dCeDFuUQ?oc=5",
+      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「公務員としての自覚欠く行為」――50代課長級職員を懲戒処分 マイカーを運転中、スピード違反で摘発される 都城市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQcWVudk5sUVktQThrdzFFS0R4alo1VE04U1F5U0ZqRk4taFZDQnR3Q1dEdGQ1cmtZMUZPeW5PLWI1bElzdUNYZ2k1Y2VVaHlzUG0xN0V0TQ?oc=5",
+      "date": "Sat, 23 Aug 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽乗用車にはねられ男性死亡 運転していた18歳の男性を逮捕・釈放",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mSXducWJxVjNCTllxcDRtb3pVdTlnOWVDZHdlVU5EdE1KNTRPTk44X0FlN2RsNG96cTUwalNQanRZN0lKWDBnTWVoVkxXOGpPTkh0U0h0a1JqQQ?oc=5",
+      "date": "Sun, 03 May 2026 03:00:00 GMT"
+    },
+    {
+      "title": "軽乗用車にはねられ男性死亡 運転していた18歳の男性を逮捕・釈放（MRT宮崎放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3b2hYNUZkNVpSQ3kzbm52Y2RiZ1lhdm9Td3duYnZxbnpuSWNpb1RnUUFsTEVLeGkzcUJRQ0d5OFI0V0YtSkkyUDFwRElMWlZDZzJLeFN3czMyTzFidG1mT2lFQWdXaEpISjFIMEpYbEJheTFLMVBHbVp3RFZyUEk?oc=5",
+      "date": "Sun, 03 May 2026 03:09:17 GMT"
+    },
+    {
+      "title": "所属スタッフの交通事故について",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd1QwdnpMeUgtbFdZN0Y2TTBmSl9oVEh3RmpTd3RVc2lmZHo3UHRpWjJTWTVONnN1MXVlbXRJZnFFVnJtVkE?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車のヘルメット着用呼びかけ 事故の当事者も参加 宮崎市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMUo1NkxyQTd0Mmk1anV2a3JkOTlsdjBiam0yakpPS2pNQ1dvLUJuQVRKM2dqR3dldGd4SVltMVdJTWVwNmJTdEJIUHVYNVVhTldkbVROb0E?oc=5",
+      "date": "Fri, 01 May 2026 02:38:00 GMT"
+    },
+    {
+      "title": "新富町の国道10号 バイクと軽乗用車が衝突 バイクを運転していた20歳男性が死亡｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpRWpXNjh2NFVDeGRJS0IxZkNmWTVsdDJpcDU2RWNVZ19FdHVIc2NuU2h2UUZqRXFhWlhoTVM3RDJ0UmZyaVV2OHR6LUhRSEVSVHYyUXoxcERVNDFRc1hJ?oc=5",
+      "date": "Thu, 30 Apr 2026 02:55:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮崎県警察 公式サイトを検索",

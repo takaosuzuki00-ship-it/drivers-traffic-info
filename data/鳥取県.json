@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T10:44:36.425609",
+  "generated_at": "2026-05-05T13:42:10.924185",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.3,
+    "temp_max": 20.4,
+    "temp_min": 7.9,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 9.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 8.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 8.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車“青切符”制度 鳥取県で初摘発「一時停止違反」 取締中の警察官の指導にも関わらず交差点を進行",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FM3dZblRmaHVYVC1mY3VEclpWR2JSQWtGajVnYVlKTVRESlQzbkxaSnRnMVRScnNhNVZ4bjIyWG1jRktVblo1dUFLRzYxUQ?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋の交通安全運動 期間中の交通事故や取り締まり状況を県警が発表 交通指導取締状況は前年度より265件増加 鳥取県",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdE9JTWd2UkJCVE80b3lpVEdOd2p5ajRJUnhkdmVNTEZndW90alEzN2UyazROLS1KZ3RaU2tFZVNvMTVhUW5Dc0hHSVZTcmd5a2twX0R0M3M5MUdvUms4ZUJRd2xtWF9Rd2FUaVZnNTBYM1ZiZ1E2ZDdXV2VTWjNDdnJjTm9XeW8?oc=5",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "ガザ検問所の試行「成功」 イスラエル報道、２日再開",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TalRHeTFmTjNqMG1takwyaExoSmRiWGxEWUdaQ1Q4Y2VCc19vZTFFWnNINzctYlpZUUJaMUc3S1BYZnZxVTJ2eUpiSlhNWlVT?oc=5",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「スピード違反で止められたがスピード違反はしていない」県道を17キロオーバーで走行した疑いの80代男 身元明かさず運転席に戻ろうと…現行犯逮捕（BSS山陰放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndkZDMEJOX3BYdkdhSFRYd19ORnZMVURvVEpfeDBrazNJSDMwc0UxY1Q2dl9wRkhRblRZX3ZZcUllR0taeFhCbXdoY1lIYjY3a09Rc3loXzd3VXRQejJVdGJKQ21xLWFQRFVucGpGNEp2TXkwNjNKQk9sME9yV0E?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "名前や住所を言わず運転席に戻ろうと…速度制限40km/hの道路を57km/hで走行したとして84歳の男を逮捕 「スピード違反はしていない」と容疑を否認 島根県安来市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkhiaGgzS0czYmFYalFNZ1Qyd1ozdURqeFRsSjlndHBGMGJhX29PRUlHMlNsUVpxa05IN09Rd1o3OW9rbHZyZVFYaXN4YWQwYkE3LTdaOHl2aWdCQThIajdNV29ZdTltOVJPczRxeGVqMkI5ZnpIU1M2NzZEOHR4Q3c0M2NRemc?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "鳥取道で事故 大原―西粟倉ＩＣ間下り線通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wOHhKZW1BYUJYSXlHYnA2MDBING1NX0pCTmgtRnRXX1hPTXNVNTJDaks1VFYwbFRHWjZ2RG9KOG52elI3OXVnQi1yVFlsakNI?oc=5",
+      "date": "Tue, 05 May 2026 02:50:00 GMT"
+    },
+    {
+      "title": "大型連休期間の山陰道で交通事故相次ぐ…大山町から琴浦町で連続発生し一時通行止めなど交通規制（鳥取）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydDJIU0pqeUIyS0FkQjg3VXJvYTQyWTE3SFVtN2h2UHY4LXVSQW50dmRTN2tzSzgxWW9jMmlMSTl6T0h0cFN4T3ZkUVdBZw?oc=5",
+      "date": "Sun, 03 May 2026 08:00:00 GMT"
+    },
+    {
+      "title": "高速道路の事故・渋滞情報 5月3日 広島・山口・岡山・島根・鳥取",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbVZWTDlIeWo5c2swMzZiazFISWFVNlQ3MEMwSlNybW92UzhqUWxDOWthMEhFaDJYal9qVWE3aXZzSWpNTzNVd2s5TXM4c2J4U1VVMUVtT3R4dw?oc=5",
+      "date": "Sun, 03 May 2026 04:11:05 GMT"
+    },
+    {
+      "title": "2025年鳥取県内の交通事故発生状況 死亡事故は17件 死者数は17人 早朝・夜間など特に注意呼びかけ 鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHNoMDJ5Sm1DRlJoN3dGWjFPLW5OTE01OEtpc053Z2pER0dFWXhqQ0ptYzlxZGhGekRwNU94bHo2eUFZc0QzOGpobEU4OFZvamhyZGFYOERjaXJhMHl0YmlzbElvZ1NFZ0xuTUdDM2NCMVFnYXZnU0xvb1FEbVNJNEhIdjdfU2c?oc=5",
+      "date": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "鳥取県内の山陰道で事故相次ぐ要因は…連続トンネルと高低差で「速度が一定に保てない」危険を誘発か GW期間中も多発【鳥取発】（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRTUpwcExDTTU0SDFvUTFrOHNvSXI0c2pRZGJBTVQ5NWMxWHRZOVdPUGxBM3c2alpCbkVDNHlpSFFTVmFoWEs5R1ppcnJueGJyc3hHd1VpY2JXOGdpazdWbmRFVzRMeXdIY2FlR2o4SQ?oc=5",
+      "date": "Mon, 04 May 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鳥取県警察 公式サイトを検索",

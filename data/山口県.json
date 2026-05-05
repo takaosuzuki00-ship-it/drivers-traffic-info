@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-05T10:56:37.152231",
+  "generated_at": "2026-05-05T13:42:42.392872",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 20.9,
+    "temp_max": 20.9,
+    "temp_min": 9.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 8.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月６日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZmFOamprWXRzTzYyX2p6UnVPX3RwUDdGRzNrSTNOUXBHbFJhaTREaEdrMjN0RlZSTUFVakUyQTBXRjNNaldjSkQ3NA?oc=5",
+      "date": "Sun, 05 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山口：飲酒運転６５５件大幅増 自転車４割、摘発相次ぐ １１月末時点 年末年始注意呼びかけ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXhHU09KSVBzNmNlbGxzZWtkVDZ0TGxnMnhYWnk0RTlBZjgtX0laUFBPc3Y2NUl5d0JDSlg4UUdyQVhKWm5VQnNaejg1eFZFQWd0SGlGdXRFQXJGTlFjSDVtMWhCWTBoQmVjNHA0alRGNUJiamc?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "道路法第47条第2項違反者（重量超過車両）の告発について - c",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "対向車同士が衝突 男子児童（8）と男性（25）が死亡 どちらかが車線をはみ出したか 山口・美祢市",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUXlfVldXTTlZMjZjOUhlekxFV3JKdDduTUZJR1dlQXU0TnpuRTNrRmxremUyTDJFcjUwUzg1R3FlY3d0UWVUQld0VEdjcWRfMlJCZnVIWU1HRTZlTF84MzRyaw?oc=5",
+      "date": "Tue, 05 May 2026 01:00:46 GMT"
+    },
+    {
+      "title": "男性（25）と男子児童（8）が死亡 国道490号で乗用車どうしが衝突 山口・美祢",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05UWhURTVXUll3dDBuS3VJTGg5ZDlwWDVMNDY2TDFxUEpfdEIxenk4M3p5VEdVRDVWcjBIZEhKSDM0eURzTHVjUDRUY1YzbEs0d1BDdVFmZw?oc=5",
+      "date": "Mon, 04 May 2026 22:50:00 GMT"
+    },
+    {
+      "title": "8歳男児ら2人が死亡 山口・美祢市の国道で車の衝突事故",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15Qm04bmdPenFBVlJPNTdtNlZYN21oNTc5V1laN0xSMGlPWmxRWUpsTWY2TEdYRG85RHRWOG9VazFfc1dicXl0enZWSlB5LW5YUmQzNHJ3cVRFLWhiZlJvUXoyZXB4NlNkdllNVXZrNFBkUQ?oc=5",
+      "date": "Mon, 04 May 2026 23:12:34 GMT"
+    },
+    {
+      "title": "山口 美祢 車どうしが衝突 8歳の男の子と20代男性の2人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85TXdTa21UYVcxX2VVTWZ5YTVFVkJOSldKTWtrbjJoLTJsZzV5MjhBWFU4YkdYRDBaZG8yYWlndC1YWjJudTVwanBFenRycEhjWU8yelNLQjZzSkpCU3pN?oc=5",
+      "date": "Mon, 04 May 2026 19:39:54 GMT"
+    },
+    {
+      "title": "男性（25）と男子児童（8）が死亡 国道490号で乗用車どうしが衝突 山口・美祢（ｔｙｓテレビ山口）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EMnpfakxldFE2azVYWVBNRk9zT1VwaDdHd3lBaldJTkpYTWM1RjNrMnhjYkljVTZpRHBKNlFFMm1KT05ZQVVxYnJUZ0J4Z2JkMGswc2x5WHdIM1ZfQ2VLNzJXbm9DQTVpcTY0TllCdWpYUDdtdmVkcVR4eVRHUmc?oc=5",
+      "date": "Mon, 04 May 2026 14:31:48 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山口県警察 公式サイトを検索",
