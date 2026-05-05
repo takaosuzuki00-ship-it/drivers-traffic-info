@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-06T00:05:57.026737",
+  "generated_at": "2026-05-06T03:04:55.578254",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 15.1,
-    "temp_max": 24.2,
-    "temp_min": 13.4,
-    "precip_prob_max": 2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 13.4,
+    "temp_max": 25.5,
+    "temp_min": 13.2,
+    "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 2.0,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.1,
-        "weather": "晴れ",
+        "temp": 15.2,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.7,
+        "temp": 13.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.5,
-        "weather": "晴れ時々曇",
+        "temp": 13.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
         "temp": 18.2,
-        "weather": "晴れ時々曇",
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.9,
+        "temp": 23.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 24.2,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "18:00",
-        "temp": 22.6,
+        "temp": 25.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "18:00",
+        "temp": 22.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
         "time": "21:00",
-        "temp": 19.7,
+        "temp": 20.0,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92OHV6N3g2MEp1RXNkWDBJRVYyTFo4cnF6UjdrN19tbGZrbG1MMDFQS3hrZW9SSmFFOTN2YVVVZTJtUWJmWEtVMEdqdEt2Vk9UYTJ4UlVKZw?oc=5",
+      "date": "Mon, 04 May 2026 20:02:00 GMT"
+    },
     {
       "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり（RKK熊本放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pM2E0TUJuN20xQ3VaV3J3QzFjeGxBaUVDSmNfVWtULTBHbTQtbGo4T3d6UF96OUZZcTBOMzNwMHY2a0lVNnlxMl9zeTRaM21VaHY3c3haR1V5SFhGcWRKcEZCTjdLVkdWTDRWLVhLb3gtcHNHY0FUdG4tSjBMNDA?oc=5",
@@ -73,11 +78,6 @@
       "title": "5月4日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85Zm9EUFNzLU92ZWgwZTFFT2ROWmdyWTRNb3NNakxVdVYtbnh0dmRDOXN3Zzg4aUxpbEYzUmlhRzB5SDZyUHF2SHM2QkdOTzBoODR6Z0lLYw?oc=5",
       "date": "Sun, 03 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり (2026年5月5日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRlZ3Y3Y1eDVVYlEwaDkwSWVIdkRfTW5YdFRacndQZU9WNlBGZWxUU3FWVDhUdTBLbDNYbkxWTGg4SUZlTU55SGdoMGQyV29QUGlIdjZyOXFOOWt1aEE?oc=5",
-      "date": "Mon, 04 May 2026 20:02:00 GMT"
     },
     {
       "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり (RKK熊本放送)",
@@ -97,6 +97,11 @@
       "date": "Mon, 04 May 2026 10:54:07 GMT"
     },
     {
+      "title": "交差点ではねられ女子児童が重体「ブレーキとアクセル踏み間違った」男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlWWZsZ3VJYnhEeTJvOXVFNXlLR3BvTGJub3lFUC1TSTZCSkdvVFNWcnJXUHNJWGtoZ1F4LWoxT01FOHo1WFdic1J5N0g3MEttN2RrT1Bn?oc=5",
+      "date": "Mon, 20 Apr 2026 03:07:48 GMT"
+    },
+    {
       "title": "「ブレーキとアクセルを踏み間違えた」小1女児をはねた運転手を現行犯逮捕 女の子は意識不明の重体",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWbndyZW1MQmJTTFAxRWg1TDExMjlQRjNCVmtVMlJWUUM1UGxOU295aE5ic2VtYmR5SjRwaThKMnI2enQ2NmozQWN3YmR0bjgyTFd3bDFXMm5nWkR6QXhKZ2h4SzRDQjg?oc=5",
       "date": "Sun, 19 Apr 2026 07:00:00 GMT"
@@ -110,11 +115,6 @@
       "title": "車にはねられ、6歳女児重体 過失運転致傷容疑の男「踏み間違えた」 [熊本県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOUlOeHdPYkhsWVdoTHRyUkZMdXFaUUhLYXNJSXJvZl9lc3ZCQnBqZUdfY2dZdXN1bDhQcE14TVBSRUlYZ2VlTnRhYXVSdE5GMy1jcl9Gb0E5NHZDcjNzd0c0ZWZxdGc?oc=5",
       "date": "Sun, 19 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[TKUニュース 26.05.04 12:00 ] 速報）長洲町の国道で歩行者の女性が車にはねられ死亡【熊本】",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybWlCNjdRTnFDTGNGdnlzY0o5VzZZYUQtRXNvV3VPSXFDRGFWc3dxQlBKdm1hV3ozRF9rQnI0RDBUVDhpUkhELUhxamJwZU1udDluaXM2QVhxVTMxSHlyQlVfRQ?oc=5",
-      "date": "Mon, 04 May 2026 03:11:44 GMT"
     }
   ],
   "official_links": [
