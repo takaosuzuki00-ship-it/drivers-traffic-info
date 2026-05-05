@@ -1,79 +1,69 @@
 {
-  "generated_at": "2026-05-05T21:05:44.904913",
+  "generated_at": "2026-05-06T00:05:13.015586",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
   "weather": {
-    "code": 0,
-    "weather": "快晴",
-    "temp_now": 14.8,
-    "temp_max": 23.6,
-    "temp_min": 8.8,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 13.9,
+    "temp_max": 25.6,
+    "temp_min": 11.8,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 4.3,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.4,
+        "temp": 13.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 9.5,
+        "temp": 12.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 9.1,
+        "temp": 12.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 17.2,
+        "temp": 20.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.6,
+        "temp": 25.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 20.4,
+        "temp": 24.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.5,
+        "temp": 21.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 14.8,
+        "temp": 17.3,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月4日（月）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nWDloOGlSVU14a2FicHZpeVdwbF9sN3pXMmd4cXlTRDVid3RBdzNwSG8zbERDaFpXQ1lNd1Bid0Zsc3VfUEpEOExMbGh5enQtWk1Vb1hWbENzMzVXa3RUVHVGRzg5dG1wNVdFbGJzTdIBdEFVX3lxTFBtUjJZVEpNNWtWNDR2WHJQSDdOSjlXYzRUdE1RSk9tQUdFeHc2OThERmdSbzR0Mm1rRDROeDltbVRfUU9TOU1PVHVocmtwbXpseXFUWnBDdjY2Njc0djZvMU1xbWd1X3gwTlBUNENMa01lR1ZO?oc=5",
-      "date": "Sun, 03 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【自転車青切符制度】島根県内で初摘発 自転車運転中の「ながらスマホ」で反則金1万2000円科される 交通の危険を生じさせた場合は…「1年以下の拘禁刑」または「30万円以下の罰金」科される可能性も",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BbmpoQ1RQUEwtN1BSMTdjWThRS1dvNVE4MG1yd2dnOF9wVnFqWl9idWFGOVR0Y2JHMzBaLUt2LW1YeTBHQkQzSWU0VXh3QkZtYUZhN2c3MVRqZlN1bzFrZw?oc=5",
-      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
     {
       "title": "島根県警と鳥取県警、選挙違反取締本部を設置 衆院選",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qamx5WmFaNnB4Ylk0dHY4dUFhTGdNenpKLW03VkxSaThDaU84UFYyREJYLWl2TzlHaEtGN0hiUk1tM19mdXFSN2d2TUt2NE92ZDFxNF9mcndZdw?oc=5",
@@ -86,15 +76,25 @@
     },
     {
       "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NcVhhdDVydkpxMlA3dkZWSlMwVFltR1VpTGhfMWdIUTdDXzBIR3QzR1pnYmJiNFVNcEN6M2RZLVlUNUotUEh6MTBCSGZBSjNCSEdzbzdWamFCNS1YYjVKX3k2N2s1ODlkVTNnM19Odl9OWEFLU2prZFNKT0VRU0U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FDM3A4NXpBa2REdlFER3l3Z19uRUNTN1otY2l5WEpqVzVYMlFiaWE4bXJIQ1RBbFpMMGpUNVdJMzR6TzdJZ1JFM1c0bHJxOXZPQkRlWFhPWVBYcml1V18xckwxbkxSaVVlR0tKM010cVJ3b0diVUhRSDdyaDMwT2NLZWxtb2s?oc=5",
       "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "島根：自転車酒気帯び 摘発４２件：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTElXQWEtWEpDcGV2QmItZ2EzSWFJRVZEc0V1UmxLUEFWc3RyZWRlZVRPdXozN0lhanZ1QnJib29vME1jWUNwVUdSY3pNZUNQOGhjTm1RQ1ljbDRTQlVkUXp6XzdRdVFYZGJ4V3VUS09DUTQ?oc=5",
+      "date": "Thu, 13 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "ガザ検問所、往来わずか",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVkpkNzVxRFhpYTk3MTN3X1NwZUdVRUdmSER6ay00dE1Od0xiQVY5amMyUndnQ0tLU01nbUJNUXhFVjJnNHM3WFU4Vmd3SmlXTDhJQjFsY293QQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "高速道路の事故・渋滞情報 5月3日 広島・山口・岡山・島根・鳥取",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbVZWTDlIeWo5c2swMzZiazFISWFVNlQ3MEMwSlNybW92UzhqUWxDOWthMEhFaDJYal9qVWE3aXZzSWpNTzNVd2s5TXM4c2J4U1VVMUVtT3R4dw?oc=5",
-      "date": "Sun, 03 May 2026 04:11:05 GMT"
+      "title": "高速道路の事故・渋滞情報 5月5日 広島・山口・岡山・島根・鳥取",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wallXR3NCOU52MkhPbFhhMjhGeld6c0Y1em5mUzV1NVJYdVpUM05zMW0zSXdEQzRteTlZWlNRbklvTk9QY2ZIanhGaENhZGpYMFhYb3N3YWJtdw?oc=5",
+      "date": "Tue, 05 May 2026 10:13:21 GMT"
     },
     {
       "title": "【続報】大型バイク運転の男性が死亡 出雲市大社町の県道で転倒し滑走…対向車線の車と衝突（島根）",
@@ -107,9 +107,9 @@
       "date": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "大田市 国道9号・大田三瓶インターの出入り口付近で交通事故 一時、全面通行止めに 島根県",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NWEYyMDVIT0Yxd0xGajhzTFlYeHpzR1QxVXFlcHVMYWtzLVNZdHlzU3FSNlpXRUpOdy03SDhGYl9zdGNMUC1BZkh2QVRWLW8wVVFxdVF3WWpZbS13NWE2Zm5HbzNqMW1EUDBsYmRaZnUxdnFLTDhUa19nN3lVWlE?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+      "title": "小2男児がトラックにはねられ死亡 公園に向かい道路を横断中か 島根・益田市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nYTNjSmhBQXhubmMydVRqR3NZRGJtQ20wZkNOX1BFeVB0NjVPSFV6YWFXdTZyYm1TV0h0MGRwdGlZWjVPZmtHVUEwNFZLdURuR0tzZm0yYUY1QnVzR29Zenl5OFVyazc3ODQwdW5LdEtSQQ?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "島根：小学生死亡事故：地域ニュース",
