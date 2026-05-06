@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-06T18:05:37.275043",
+  "generated_at": "2026-05-06T21:06:18.970014",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 19.2,
+    "temp_now": 16.8,
     "temp_max": 22.8,
     "temp_min": 12.5,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 2.6,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
@@ -45,30 +45,25 @@
       },
       {
         "time": "15:00",
-        "temp": 22.7,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 19.2,
+        "temp": 22.3,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 17.5,
+        "time": "18:00",
+        "temp": 18.6,
         "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "西条市長選の取締本部設置 市内２署",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSF9zMXRpQ2FDOHFGOF90ZzN0eGNSeUl3dlJZNldJbWRmYjc0R3k2b0w1ek43clRRcEhndGhDZ3dMeUlaY0NlWDloY0t2SWdhdi1iZDFCamJkNldGUk1vZw?oc=5",
-      "date": "Mon, 27 Apr 2026 06:00:01 GMT"
-    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -88,13 +83,18 @@
       "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QM3dBQ2pBYkh1VTFwQTlWVmZwVzR2QXo3MWlCOEt1V3RKcHhoa1dPZHRpZGx0elcxTVpKQ0tPRzFlclN5aE1ibXpHdw?oc=5",
       "date": "Tue, 28 Apr 2026 10:26:00 GMT"
+    },
+    {
+      "title": "警察も動いた 謎多きセンターライン はみ出し禁止？ それとも追い越せる？ 違反になるの？",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PYTRzUnNMaGZkX3pOcEZGdU85ZXVDQklnczhHUEtYNTZKbFladEF1cUNXcTZ6UWFDbjQ2MVJDYXdRMVpPUEFKdG1vT09qbHNEUXdYdnJnYlJ4MHFXYzdiOUk2Zw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "「夫を車でひいてしまった」妻が運転する車にはねられ男性死亡 愛媛・宇和島市の住宅地",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZvcXJobTh1dHJOclo2aV9nbWRKSHBuTm1IZ2JDdFhNUE84R09Tc2RNb2JfYnh6d1JEdXJ0c3I1aHRSb2E4UVZoSndKYTdDRFdUWm9lVWVqelVsMURIc29YMHE1Y2ZvRVVoY1l2bXVNU2swOEJKZFREbXhjbVFxTXN5UVZ1Slk?oc=5",
-      "date": "Wed, 06 May 2026 02:51:01 GMT"
+      "title": "松山市で2件の死亡事故、愛媛県内で今月に入り6件の死亡事故相次ぎ 県警が特別対策を開始",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVIbFczVUI3TElDdzFKalZYRXcxOGpIZ2pkQVUyeXRQbDRuWENrclNpY1VtUVFTVmJMaUU1YVN4WTJZcHg5a2FlVm8xeDVwNDRSODdzVG1PVlRFM1FTQWViLWFyQmF6cWJWalo0cmp5MzNQS2tjZDcwT3hyMFFlcnRfd29Ic00?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "来日客の交通事故を減らそう 愛媛県警、空港で多言語チラシ配り啓発 [愛媛県]",
@@ -102,19 +102,19 @@
       "date": "Sat, 18 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "松山の国道１９６交差点で自動車と衝突 自転車の男性が頭を強打し死亡 車の高齢女性から状況聴く【愛媛】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WdFVfQ0szeW9Rdzh6SU1CLU5DYVJTSXhSVTNWd0dWdy1mU0RTZTFqZHpnY1k1d2Z4VjBTSEVTZ2VESFUwbjJuOHgtak1pUQ?oc=5",
-      "date": "Tue, 28 Apr 2026 06:24:18 GMT"
+      "title": "松山の国道１９６交差点で自動車と衝突 自転車の男性が頭を強打し死亡 車の高齢女性から状況聴く【愛媛】（テレビ愛媛）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSd1BZbFJ2ZkQ4UFlvRS1mRExHSVNORmtvTXhYcWdGRGlCdjN0TDZNZExyRFdpTXVkcF9lcDVMX2dFMlZudnBUaWp0ekttaDdkYXp6TDFFTVdGTGMwV24zN2oyRE9URFBWTWFidXZnMzUxVzIzYlpiU2NjT0ZiWmM?oc=5",
+      "date": "Tue, 28 Apr 2026 06:16:01 GMT"
     },
     {
-      "title": "「車の下敷きになっている」妻の運転する軽乗用車にはねられ 70代男性死亡【愛媛・宇和島】（あいテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EVW9NUkVTVXBBQnNJV0JfcDlHR0sxM2pqWHl6MGxlbVVLbUlCTk9waUVaZ1NQNzlkT3hydHBnMjZlVWhzSlpuQkVIamN2V0pXampkZGhiZzI1X2UwYlJDdHlaZEc4T2xqVHFlTTB3dW1zaW1rUjJlMkx5S2dCTk0?oc=5",
-      "date": "Wed, 06 May 2026 01:40:03 GMT"
+      "title": "「車の下敷きになっている」妻の運転する軽乗用車にはねられ 70代男性死亡【愛媛・宇和島】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URlVGUmp2alQ3UTZWMmM4aGZzemFWam0zWW9YbmkzLWphcDJXMmRwOUR4SDFqRkNkVXR5NVU0SE9ISkNmblhjTkNCVlV4WHhGVzFwN3Y0bw?oc=5",
+      "date": "Wed, 06 May 2026 01:40:00 GMT"
     },
     {
-      "title": "宇和島市のトンネルで正面衝突 35歳の男性が死亡 愛媛 | 愛媛のニュース - Nスタえひめ｜あいテレビは6チャンネル (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZeExzRGdKMEhsNTFVNzc1Zkt1dk5oeWI5WnBHdEVuMnpBQkFkdFBJTGFKZU9ELUxwWmdMR2I4NTlRSUNLTmVvQ3UyY1czd0dWLWlCNUdna0JwS0c3Qmg1a1E4WkVwdG8?oc=5",
-      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+      "title": "「夫を車でひいてしまった」妻が運転する車にはねられ男性死亡 愛媛・宇和島市の住宅地",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZvcXJobTh1dHJOclo2aV9nbWRKSHBuTm1IZ2JDdFhNUE84R09Tc2RNb2JfYnh6d1JEdXJ0c3I1aHRSb2E4UVZoSndKYTdDRFdUWm9lVWVqelVsMURIc29YMHE1Y2ZvRVVoY1l2bXVNU2swOEJKZFREbXhjbVFxTXN5UVZ1Slk?oc=5",
+      "date": "Wed, 06 May 2026 02:51:01 GMT"
     }
   ],
   "official_links": [
