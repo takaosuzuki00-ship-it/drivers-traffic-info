@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-05-07T00:05:27.198223",
+  "generated_at": "2026-05-07T03:04:57.711697",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 13.9,
-    "temp_max": 24.1,
-    "temp_min": 11.9,
-    "precip_prob_max": 0,
+    "temp_now": 12.3,
+    "temp_max": 24.2,
+    "temp_min": 11.7,
+    "precip_prob_max": 3,
     "precip_sum": 0,
-    "wind_speed": 4.2,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.9,
+        "temp": 13.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 12.5,
+        "temp": 12.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 12.1,
+        "temp": 11.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.0,
+        "temp": 17.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.6,
+        "temp": 23.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.6,
+        "temp": 23.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 21.7,
-        "weather": "晴れ時々曇",
+        "temp": 21.8,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "21:00",
         "temp": 19.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
-      "date": "Mon, 04 May 2026 20:02:00 GMT"
-    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "５月６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94RjJQc1lrZTBIenJpc0NDWXdfZEhzWUtyVmgzNkdsRFltd0NjMDRoc2ZKckZTdlMyLUlYb2VRWWpWblFLOWlOaWRDdjJpMW1Gb2I0MGJTVEpjNmR1bUhDRnpYRVdnWm1Oc0tLenRWWmh0UdIBd0FVX3lxTE1FOGdCUkhScTNfc3VRRnVPenVUQzVKQVVhQzVwYU9aQURiaF9ESE9HR3hCS05iZm81TWg2RjkwWWlPT0xzWTZCTDlBR2N3SFh5YnFwcVd6SUtNV0VVYy10am9UdGkydDBDa0pGLUtjRmpFN0liT25R?oc=5",
-      "date": "Tue, 05 May 2026 20:48:45 GMT"
+      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
+      "date": "Mon, 04 May 2026 20:02:00 GMT"
     },
     {
       "title": "衆院選 選挙違反取締本部を設置 選挙違反に目を光らせる 岡山県警",
@@ -88,6 +83,11 @@
       "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN2pNVURNU05OeTZjQnVpR1kwX3BmbklGTk9aa2FodG1Mcmt2ZkZSWF9GWWFSQmhZLUNJQlFfSFloODkzX0FPZFlQUVR5YnNU?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ県道で大型検問 岡山県警、４月死亡事故現場近く",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGOXJCTU1MZmhZSmVZNnVqVTFtamVsWmNMN1BLY3lZcGFkazVXTmF4ZklveXZKQWZ5QU9LTGxIbFNJYzFsQ2c2TENROHRFdklxeVlwYmIxdHlRODVyZk5FbG83cnlFUXc?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
