@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-06T21:03:44.475975",
+  "generated_at": "2026-05-07T00:03:12.987825",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 17.1,
-    "temp_max": 23.8,
-    "temp_min": 10.9,
-    "precip_prob_max": 0,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.1,
+    "temp_max": 27.3,
+    "temp_min": 11.6,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 5.2,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.7,
+        "temp": 14.1,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -27,48 +27,43 @@
       },
       {
         "time": "06:00",
-        "temp": 11.7,
-        "weather": "晴れ",
+        "temp": 12.4,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.4,
+        "temp": 19.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.4,
-        "weather": "曇り",
+        "temp": 25.5,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.7,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
+        "temp": 23.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 17.1,
-        "weather": "曇り",
+        "temp": 20.0,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月6日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56blN1WGx6N1JkUFhFcEpKc1dIVHdlT041QUJtQkZHVnpJc1RBSEMyMWtnRUZFTkJwUFVKaEo2bDhJSERuS3ltdWJhQnc2NjZwYVdTRlJyWkFyb01lZlAyUGZIaGZBSE1fcktEQV9OY9IBdEFVX3lxTFBpY2hZd1dqblFfTE1ZQ3kwRG9qZ3RrWUpXak56ZDY2eV9VV1cwM3ExVlhFU3lTMVdjOFBSQ21ydnRmZGxkZmhhVVQtbGlDM2JYdlFNbTcyMnpZeHdBVkR2SE9zekQ2ZDhjcHpBSEwxZTJ5OVBa?oc=5",
-      "date": "Tue, 05 May 2026 20:02:00 GMT"
-    },
     {
       "title": "【交通取締情報】福井県警 ４月２３日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
@@ -85,36 +80,41 @@
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "５月６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94RjJQc1lrZTBIenJpc0NDWXdfZEhzWUtyVmgzNkdsRFltd0NjMDRoc2ZKckZTdlMyLUlYb2VRWWpWblFLOWlOaWRDdjJpMW1Gb2I0MGJTVEpjNmR1bUhDRnpYRVdnWm1Oc0tLenRWWmh0UdIBd0FVX3lxTE1FOGdCUkhScTNfc3VRRnVPenVUQzVKQVVhQzVwYU9aQURiaF9ESE9HR3hCS05iZm81TWg2RjkwWWlPT0xzWTZCTDlBR2N3SFh5YnFwcVd6SUtNV0VVYy10am9UdGkydDBDa0pGLUtjRmpFN0liT25R?oc=5",
-      "date": "Tue, 05 May 2026 20:48:45 GMT"
+      "title": "5月6日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56blN1WGx6N1JkUFhFcEpKc1dIVHdlT041QUJtQkZHVnpJc1RBSEMyMWtnRUZFTkJwUFVKaEo2bDhJSERuS3ltdWJhQnc2NjZwYVdTRlJyWkFyb01lZlAyUGZIaGZBSE1fcktEQV9OY9IBdEFVX3lxTFBpY2hZd1dqblFfTE1ZQ3kwRG9qZ3RrWUpXak56ZDY2eV9VV1cwM3ExVlhFU3lTMVdjOFBSQ21ydnRmZGxkZmhhVVQtbGlDM2JYdlFNbTcyMnpZeHdBVkR2SE9zekQ2ZDhjcHpBSEwxZTJ5OVBa?oc=5",
+      "date": "Tue, 05 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xMGtRVXVHTXhtUGNCczBNZ19LTS1oUk50MDVzeDNkZVNNLUxvcmRGLTV1aTdVM3JLTHpxWU5SQmpEeDhxOS0tS3FLcXl1QlU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "福島・磐越道で高校生らが乗るバスが事故 17歳死亡、複数の重傷者 [福島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HMlRYTHdPRTBaMU1OV09MVGY4ZEx6blBaRGVjRXE2MEdNUloyR3dBaXNHMWdjMTlkVGJyaHMzaUxTWU5jQ01aSVZ6ZXFBVFN4ZVZoRERZUkNteFVWWWo4RW1tS2l4bUU?oc=5",
+      "date": "Wed, 06 May 2026 13:35:06 GMT"
+    },
     {
       "title": "中央分離帯を越え反対車線へ 投げ出された男子高校生死亡 福島・郡山市の磐越道27人死傷事故 ソフトテニス部の練習試合に向かう途中",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jaTRnNGZONEVjWVZfRS1Vbkc2ckYycHpacmNBd294Q3JGbXktZjBUM0pjaEVGc3hiSU9qc2FnRUMxeUhjazhlc01SZEN2aVB0UEZyczZrZw?oc=5",
       "date": "Wed, 06 May 2026 04:53:00 GMT"
     },
     {
-      "title": "福島・磐越道で高校生らが乗るバスが事故 17歳死亡、複数の重傷者 [福島県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HMlRYTHdPRTBaMU1OV09MVGY4ZEx6blBaRGVjRXE2MEdNUloyR3dBaXNHMWdjMTlkVGJyaHMzaUxTWU5jQ01aSVZ6ZXFBVFN4ZVZoRERZUkNteFVWWWo4RW1tS2l4bUU?oc=5",
-      "date": "Wed, 06 May 2026 00:18:00 GMT"
+      "title": "福島・磐越道でバス事故、男子高校生1人が死亡 26人搬送",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xS1NnVUhTQ2dHNEYyU3VSTWNrbFpXSGlIRTBUbWNRRVE2cmYxdVVJaGotZXZjdU95dGVLVzh0T2ZiYVdrTEpMQjZOTmtvSjUwdTlZQk5KOFZ0N2JwYVUxZzFFNmYwYjloZk9Hdw?oc=5",
+      "date": "Wed, 06 May 2026 14:27:37 GMT"
     },
     {
       "title": "【情報更新】高校生1人死亡、26人がけが(重傷者含む)…磐越道でマイクロバスなど絡む事故 亡くなったのは新潟県の高校生 福島（福島中央テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TDBSUzF1UXRtYmFYWWtIYW9ZZnJZMlVuazhOakVvbzVvWVAwbml3dXRyVlQ3NDcxbGpUd0thNE1RM2l2VTNJTzMtUzNyQlMxU2tSek9BYU5maVpMMks5cUhnei1qZWVMT3dZQkMwbEhHUk83OW9yMFlwMVlvUUE?oc=5",
-      "date": "Wed, 06 May 2026 07:05:20 GMT"
+      "date": "Wed, 06 May 2026 00:53:01 GMT"
     },
     {
-      "title": "福島・磐越道でバス事故、男子高校生1人が死亡 20人超けが",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xS1NnVUhTQ2dHNEYyU3VSTWNrbFpXSGlIRTBUbWNRRVE2cmYxdVVJaGotZXZjdU95dGVLVzh0T2ZiYVdrTEpMQjZOTmtvSjUwdTlZQk5KOFZ0N2JwYVUxZzFFNmYwYjloZk9Hdw?oc=5",
-      "date": "Wed, 06 May 2026 02:46:56 GMT"
-    },
-    {
-      "title": "福島 磐越道でマイクロバスなど車3台絡む事故 1人死亡 複数人を搬送",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jenI5T0tZeW5MdDk2LVQtd1BDNzhnNnBiRTVvWndEMjQ3dmpfU3BzY1lNTmFlcVZXQk5aak9LS2RteGc1MUVINTUweFd0NG8?oc=5",
-      "date": "Wed, 06 May 2026 01:16:52 GMT"
+      "title": "郡山の磐越道でマイクロバス事故 高校生1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lQkZCY3B5TjcwaF9xY0VOa2E1RFJSQndpMnA4eTBlQzJYM1piRDZOeUh2eDhHMGVRMU5NenZ6TzdEV3RCamhoU2o2ckI2dXc?oc=5",
+      "date": "Wed, 06 May 2026 08:51:21 GMT"
     }
   ],
   "official_links": [
