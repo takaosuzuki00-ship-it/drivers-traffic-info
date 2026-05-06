@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-06T09:04:21.884432",
+  "generated_at": "2026-05-06T12:04:45.662971",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 17.5,
-    "temp_max": 19.7,
+    "temp_now": 20.4,
+    "temp_max": 20.4,
     "temp_min": 11.9,
-    "precip_prob_max": 18,
+    "precip_prob_max": 33,
     "precip_sum": 0,
-    "wind_speed": 4.7,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
@@ -27,32 +27,32 @@
       },
       {
         "time": "06:00",
-        "temp": 12.5,
+        "temp": 13.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 17.5,
+        "temp": 18.3,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 19.1,
+        "temp": 20.4,
         "weather": "曇り",
-        "precip_prob": 16
+        "precip_prob": 22
       },
       {
         "time": "15:00",
-        "temp": 18.7,
+        "temp": 19.2,
         "weather": "曇り",
-        "precip_prob": 16
+        "precip_prob": 33
       },
       {
         "time": "18:00",
-        "temp": 17.5,
-        "weather": "曇り",
+        "temp": 17.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 4
       },
       {
@@ -65,6 +65,11 @@
   },
   "enforcement_news": [
     {
+      "title": "5月6日（水）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CR0R1SE1MbHZqSkNkVWxlbnNPR0VrbUVhNlVGOFhKY0UtVHNGVmFDaUw3NDFfWmdrR0dJYmVPSm9kZS1nQWc0QmVZVHN2R3N6c2tjNEFpWGpmanptaDhXOHNLT2dWbkl2SXBIWVpvNNIBdEFVX3lxTE45U2g0TmZyRHI2MFBGZjlYNTNnc0U0dW5DcVJ1SEktM0pzd1kwMFVpTVJWRWRic21yQ3VwbkJBUlM2bm1QY0M0QUtyMm1YYnh2VkFZWlQ1WVpVQUU0UlZUSUlvMVJyT19mWFZmTnlWMjlib1cw?oc=5",
+      "date": "Tue, 05 May 2026 20:00:00 GMT"
+    },
+    {
       "title": "【交通取締情報】福井県警 ４月１４日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
@@ -73,11 +78,6 @@
       "title": "5月3日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tUTlBWUdOakdVYXVHV01YS2J3WVZTOUtJM3BWbHlNeFh0cGdIdVZnUUd3dGw1cjlZdjE5Qlg1Uy1lekhtbFFpb3FvQzhhNkgxS0RqLXJDQQ?oc=5",
       "date": "Sat, 02 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "5月6日（水）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CR0R1SE1MbHZqSkNkVWxlbnNPR0VrbUVhNlVGOFhKY0UtVHNGVmFDaUw3NDFfWmdrR0dJYmVPSm9kZS1nQWc0QmVZVHN2R3N6c2tjNEFpWGpmanptaDhXOHNLT2dWbkl2SXBIWVpvNNIBdEFVX3lxTE45U2g0TmZyRHI2MFBGZjlYNTNnc0U0dW5DcVJ1SEktM0pzd1kwMFVpTVJWRWRic21yQ3VwbkJBUlM2bm1QY0M0QUtyMm1YYnh2VkFZWlQ1WVpVQUU0UlZUSUlvMVJyT19mWFZmTnlWMjlib1cw?oc=5",
-      "date": "Tue, 05 May 2026 20:12:40 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１４日",
@@ -92,29 +92,29 @@
   ],
   "accident_news": [
     {
-      "title": "滋賀 彦根の国道で車2台が正面衝突 中学生10人含む13人けが",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYa1NxRG9xTTFvZUZaRWJXTWJ6bjN6OHlVSld1YlVwQmhWUXFodWtBVVhTY3BfN2RORUhwS3lGUzA2VU5YQ1JYSk1NZWw0elNkWF93UzNBZnZaSGljYkRN?oc=5",
-      "date": "Sat, 02 May 2026 19:39:04 GMT"
+      "title": "道路横断中の死亡事故、歩行者はどちらからが多い？ 思い込み影響か [滋賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SRHdTUGlUTEpxSm1CLXZWZElhSzFfYzFhanUzRHItRjZ6cHNqUHR0bTE2dWNpczRCSmxpN1VjM1IwbDRCZExZbzdHaW9vVG1ma3hoZ1JFV2hlWEpEdGtNMlcxVTloSEU?oc=5",
+      "date": "Tue, 05 May 2026 11:41:57 GMT"
     },
     {
-      "title": "１１人乗り車と貨物自動車など衝突 少なくとも１４人搬送 子ども含まれている可能性も 滋賀・彦根市の国道３０６号",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00b2g2d3d1ODlsUHpnNzQ3ZVhRSlFDWUVNNWhxLTdSVjhJMUNNLXZZcjhMSUl3anJLRDd3N1RmYlowdTVHYkJXTDJNQTNnUTNCdGJRTWE3SQ?oc=5",
-      "date": "Sat, 02 May 2026 17:40:32 GMT"
-    },
-    {
-      "title": "中学生ら13人重軽傷 ハンドボールの試合帰りに車衝突 滋賀・彦根 [滋賀県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWmpSbUxDd2liS0wzWnIxQ0EwVzhDR1VtMG5STlE5Z2JkekJQY3N3YjhON1FwTUw2Z0ZzUHNOaW1UQVJtRGJZbGJOVWNGMDFCc09YdWxQOFpaY0laV19velFaTEtEUG8?oc=5",
-      "date": "Sun, 03 May 2026 02:32:28 GMT"
-    },
-    {
-      "title": "ワンボックスカーとミニバンが正面衝突 中学生10人含む13人重軽傷 滋賀・彦根市（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjNGlHYXY2aUdfcDgwLVQtSGszdEd6ZEJKSTlvU3RuUVpLYXlaRC1PdVJCNnFXR3RVUGktNTJFTVlqYnJDeVN1UGhabEdmZmdyaGI0dzI4UnhCdVA5OWhPLWNTYmpmMERvOGlpQ3ZUR1l4QjJGTzRTVEFraThmTVE?oc=5",
-      "date": "Sun, 03 May 2026 03:11:01 GMT"
+      "title": "滋賀県彦根市の国道でミニバンなどが衝突、千葉や茨城の中学生など13人が重軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrcVJUNVFFbzhCVEdhbHoxWEEtUFBIb2pzOXNuenVBbkhxV0JvQmhJakd6OXNlUnVNLVFXZ01EOG8telliVlItZWdfZ2V1T25kaXVKcQ?oc=5",
+      "date": "Sat, 02 May 2026 14:22:55 GMT"
     },
     {
       "title": "滋賀の国道で正面衝突事故 関東の中学生ら13人が重軽傷",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kRkpHRWtrODdhV3kwUy1DU2RSRlFTdlhuUjdqcWNZUGc1RmE1Q09Na3plRk1kZHVEYXZ3VHF5aUx2NUdSSmNSU0o3dlJ2dFNBcDBKcDFYS3JUYURVMjlRMmNjcnVmcl9u?oc=5",
       "date": "Sun, 03 May 2026 01:52:35 GMT"
+    },
+    {
+      "title": "ワゴン車とミニバン正面衝突、ハンドボールクラブの中学生ら１３人が重軽傷…滋賀・彦根市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHclgxS0NQMm1NSFJXbjBRX09lTFo0anB5Y1g4aWhZLXRDVG5RZmxueUdVOWE2bDVDVG1uR1E2MWhTM1dQTi1ibEU2Z3FOdmxjT2JhcjB2ZmhaaEFlVDVlc3dRTlpyUQ?oc=5",
+      "date": "Sun, 03 May 2026 03:43:00 GMT"
+    },
+    {
+      "title": "ワンボックスカーとミニバンが正面衝突 中学生10人含む13人重軽傷 滋賀・彦根市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjNGlHYXY2aUdfcDgwLVQtSGszdEd6ZEJKSTlvU3RuUVpLYXlaRC1PdVJCNnFXR3RVUGktNTJFTVlqYnJDeVN1UGhabEdmZmdyaGI0dzI4UnhCdVA5OWhPLWNTYmpmMERvOGlpQ3ZUR1l4QjJGTzRTVEFraThmTVE?oc=5",
+      "date": "Sun, 03 May 2026 03:11:01 GMT"
     }
   ],
   "official_links": [

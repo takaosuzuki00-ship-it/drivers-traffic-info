@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-06T09:05:49.325317",
+  "generated_at": "2026-05-06T12:06:58.084068",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 19.3,
-    "temp_max": 20.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.2,
+    "temp_max": 20.7,
     "temp_min": 15.6,
-    "precip_prob_max": 51,
-    "precip_sum": 0.1,
-    "wind_speed": 10.2,
+    "precip_prob_max": 63,
+    "precip_sum": 0,
+    "wind_speed": 10.8,
     "hourly": [
       {
         "time": "00:00",
@@ -28,31 +28,31 @@
       {
         "time": "06:00",
         "temp": 16.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.3,
+        "temp": 18.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 35
+        "precip_prob": 16
       },
       {
         "time": "12:00",
         "temp": 20.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 51
+        "weather": "曇り",
+        "precip_prob": 63
       },
       {
         "time": "15:00",
-        "temp": 20.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 20
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "18:00",
-        "temp": 20.1,
-        "weather": "曇り",
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
@@ -65,14 +65,19 @@
   },
   "enforcement_news": [
     {
+      "title": "5月6日（水）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CR0R1SE1MbHZqSkNkVWxlbnNPR0VrbUVhNlVGOFhKY0UtVHNGVmFDaUw3NDFfWmdrR0dJYmVPSm9kZS1nQWc0QmVZVHN2R3N6c2tjNEFpWGpmanptaDhXOHNLT2dWbkl2SXBIWVpvNNIBdEFVX3lxTE45U2g0TmZyRHI2MFBGZjlYNTNnc0U0dW5DcVJ1SEktM0pzd1kwMFVpTVJWRWRic21yQ3VwbkJBUlM2bm1QY0M0QUtyMm1YYnh2VkFZWlQ1WVpVQUU0UlZUSUlvMVJyT19mWFZmTnlWMjlib1cw?oc=5",
+      "date": "Tue, 05 May 2026 20:00:00 GMT"
+    },
+    {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vaDJ4bWY1RVJjdWpqWFZuYjduanFIU2QtaU5QaDh2aDZ3RGRQdE81Z3hBTzJubzJaZjdnSUNuZFczeUk5NDRmSTJ2cXVkM1dUZ1NMYTFFZUhwa0g1eHRseHA2MS1aWS1OVXIyTDNtVdIBdEFVX3lxTFAtVVV5N3I5WDZXdGJqUEtNSU5oZzQzVjNaa1oxdHpwNC1nT1pYd0dvaTRYemhyUW00elRGVGNQeDJlbW43LTRNMDRzTWpPU1RuaEJYRE53SldnUXVmTHVQNEllb2k2SXkyOUswNjZacDVFWm9E?oc=5",
-      "date": "Mon, 04 May 2026 20:02:00 GMT"
+      "title": "5月6日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56blN1WGx6N1JkUFhFcEpKc1dIVHdlT041QUJtQkZHVnpJc1RBSEMyMWtnRUZFTkJwUFVKaEo2bDhJSERuS3ltdWJhQnc2NjZwYVdTRlJyWkFyb01lZlAyUGZIaGZBSE1fcktEQV9OY9IBdEFVX3lxTFBpY2hZd1dqblFfTE1ZQ3kwRG9qZ3RrWUpXak56ZDY2eV9VV1cwM3ExVlhFU3lTMVdjOFBSQ21ydnRmZGxkZmhhVVQtbGlDM2JYdlFNbTcyMnpZeHdBVkR2SE9zekQ2ZDhjcHpBSEwxZTJ5OVBa?oc=5",
+      "date": "Tue, 05 May 2026 20:02:00 GMT"
     },
     {
       "title": "自転車「青切符」知って 宮崎県警取締隊が出発式（宮崎日日新聞）",
@@ -83,11 +88,6 @@
       "title": "自転車「青切符」知って 宮崎県警取締隊が出発式",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hUXU3a29YNHhBV2tVVW5CU09hMmM5VmptTnJFR2hyOVpDdmJYam1sMHNrX0RKT00wSW5YQWFTbVBZdXlpM0dCeDFuUQ?oc=5",
       "date": "Wed, 11 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "自転車の「ながらスマホ」は反則金1万2000円！4月1日から“青切符”導入、宮崎県警が指導取締隊を発足し駅前で啓発",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWZMM1RQTUpzUEl1MnRURFlaZFAteFU0Q3JUUXJQOTJCeW5ibmY1ekd5VlNUSWJaeVV1TnZrbjJiamRuVERYTkVGbUtOdGdYRHFMUDRrNVBRZHVmbXlnV1V5blJOWE5EMlVRVXRlaGJnRjlEVy1seW5Od0wtaDJ5VTN1YUdCQmM?oc=5",
-      "date": "Tue, 17 Mar 2026 20:16:08 GMT"
     }
   ],
   "accident_news": [
