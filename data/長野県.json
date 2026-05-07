@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-07T15:17:02.295209",
+  "generated_at": "2026-05-07T18:04:22.837858",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.6,
+    "temp_max": 26.5,
+    "temp_min": 12.7,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
@@ -21,17 +80,43 @@
       "date": "Thu, 27 Nov 2025 08:00:00 GMT"
     },
     {
+      "title": "名物「検問うどん」7年ぶり復活 中野署友の会が年末警戒の署員を激励",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSDJ5aWRha1dyMElNdlRDQnJFbEFIUnlMZXFLVjdZYnhtMU1ieWZ2cHFrcVVteGN0aGs0bnc1NURZOTY2RE8zajJYWWt1S2lBYnFaN1dQRXhqRHZreVhGU0JId3JBNGhuWHZHVVdZSXQ?oc=5",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "長野・茅野署と合同飲酒検問 北杜署、国道２０号で",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCbFZPUzV2ajczTkNYM0V6NS1aQWpfZDdhNG55VFNDaWhubVFhT0U5RjFWZDlRR2tXTWtyYVU5YURWOW4yYm4tREl6RzZiX0pfWlRlTXBDQnk2TnR4bXZtTG5yUDc?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "スピード違反の男が“免許提示”拒否で逮捕！ “後出し提示”も時すでに遅し！ 取り締りを受けた時の「NG行為」とは？",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fSFEzZHR5a0hOaFZoRDBKM2dudXlhQkZPSk0zd1Z3YzBQajRPUE0xMklleHJYOVhXcDVPR2k4RVh1SUFLemtQajdTN3RibXBKV29qenBDQXBrMkh2dXJ1TEVxS0hBcXBHVUUwRUZCaUlTcnlFcGpnSlIwRUw5TVE?oc=5",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
     }
   ],
-  "accident_news": [],
+  "accident_news": [
+    {
+      "title": "長野道・岡谷トンネル内で追突事故 追い越し車線で車9台が絡む けが人はなし 事故当時、現場は渋滞 長野",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QN0NRRWYwZnBNRm83SldvS1lRNWszOXk1Vml0SG9mLUZzaERtMldISFJuc1pLeEJfS1pGc3hPN2pBeE52LUR6NEt1dkQyOXVrMW81UzZhazFFa2pNWjlscXdHUld3RkU?oc=5",
+      "date": "Mon, 04 May 2026 08:50:00 GMT"
+    },
+    {
+      "title": "国道で車同士が衝突 高齢男性が死亡 片側1車線の見通しの良い直線道路 長野・小諸市 - nbs",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16MU52ZlJibE9EZm1RN1RlWHRSb1pjQkJaUTFmUWlobjV1azc1WDQ3ZHRPdjQwYlcyMkVqWjlsQS1PQmNCX3lldEp0VkxKLW9XWkF4TkozaGNTTXpPVHc?oc=5",
+      "date": "Wed, 06 May 2026 09:15:00 GMT"
+    },
+    {
+      "title": "小諸市の国道で交通事故 軽ワゴン車とワゴン車がぶつかる 軽ワゴン車運転の93歳男性が死亡【長野】（テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jS1dON0ZjTmJFX2xROGFxYjI5d2NpanpTTW1FODJEU1E3UzBMQUs1QmNIQVpFWkRvSEI2MFEyZjQ1WmdLNkk4WGNMaHZENWFYWDN6QkJqMS0ySUlwbW9XME5SLVl0UEl0d29SOE0xV29RLTdBMFViOUtna0xmaHM?oc=5",
+      "date": "Wed, 06 May 2026 07:08:00 GMT"
+    },
+    {
+      "title": "長野自動車道上りトンネル内で9台絡む複数の事故…けが人なし【長野】（2026年5月4日掲載）｜テレビ信州NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldROHM3WGkyek90NGk0blY0R2tCVXpPemtnc0t5ZU9ETGVSbEp6SVBPdVJNQkVWbDdtdTVEckNxQmsxWmJFdHVQQ2cyZS02NGppMFR3RzlqWURlcnBnY1NnUXNvSERJTHFlSzdiR0prMDVIUTd0N3g1LUd0M29fM3EzT0xES1E?oc=5",
+      "date": "Mon, 04 May 2026 09:50:00 GMT"
+    },
+    {
+      "title": "軽自動車を運転の93歳男性が死亡　施設の駐車場から出てきた所でワンボックスカーと衝突　現場は見通しの良い国道　長野・小諸市",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BcEZiNlBFZExDSHowZXMySXVaWi15X20yVmRONXpHZ1pSSWJyUGdMOFZWUXFNOW91TXJXM0VfMkxWZVJ2R3FFSGtVTTdmdUp3eEFPb21ZazE1RWIzNEhIaFdvYnZ0RGhPZDV4Z9IBckFVX3lxTE9jcWtTcXNUdzVXQWRYbGhsN0tqNUUwbjRyNnBFeVdMaG82SG1RM28waENUNFhRbG05TEhzRmh5SW56S21zQUdSeUNvZ1J4cTFBUDFVdVVRRmNjMVNqN0g3T1hmRTBMT0lwRTN2NUV5MmRvZw?oc=5",
+      "date": "Thu, 07 May 2026 01:54:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-07T15:06:55.581227",
+  "generated_at": "2026-05-07T18:02:48.998877",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 13.1,
+    "temp_max": 22.2,
+    "temp_min": 9.8,
+    "precip_prob_max": 3,
+    "precip_sum": 0,
+    "wind_speed": 6.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 13.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 10.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
@@ -51,6 +110,11 @@
       "title": "令和8年3月17日 交通事故死ゼロ5000日を達成！",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SZzdhYmswMVhxQ2RRZU4yZEN2UTd3bHZiMHc3Q0dBZkhCcXU5Z3EzVkFlZG8yUFBkUG9hbGRxNUwtblB1LXZsbFVGcmtJYzg3NkVTald0bl83bzB1c2swY0xuam5MZGp4S3BRYVhnSUF4NDVpZVM5bzFSMkl4Zw?oc=5",
       "date": "Wed, 18 Mar 2026 00:12:26 GMT"
+    },
+    {
+      "title": "杖を突きながら堂々と横断 危険な“乱横断”の実態「足が痛いから…」死亡事故も発生 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YcEo0UTQxbV9RM1dsR3dWd1RFQ0MzYVBuZlJVclBOVTd2SUJTQUJhUWtOTndEOHNOV3ptNEd4Slk3RFkyZFhmeE15UHhWeTU0cTZnZ2JINnhURXNDVWZKYTVTaXY1UVA4VGJqTXk1MkVfUlV3Rm41VzctczhNcDg?oc=5",
+      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
