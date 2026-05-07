@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-07T21:06:32.979808",
+  "generated_at": "2026-05-08T00:06:15.294897",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 19.9,
-    "temp_max": 25.8,
-    "temp_min": 13.7,
-    "precip_prob_max": 4,
+    "temp_now": 18.0,
+    "temp_max": 23.2,
+    "temp_min": 13.9,
+    "precip_prob_max": 73,
     "precip_sum": 0,
-    "wind_speed": 2.6,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.7,
+        "temp": 18.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.1,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 14.1,
+        "temp": 17.0,
         "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "09:00",
-        "temp": 18.5,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "12:00",
-        "temp": 23.7,
-        "weather": "快晴",
-        "precip_prob": 2
-      },
-      {
-        "time": "15:00",
-        "temp": 25.8,
-        "weather": "快晴",
         "precip_prob": 4
       },
       {
+        "time": "06:00",
+        "temp": 17.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 73
+      },
+      {
+        "time": "09:00",
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "12:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "15:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
         "time": "18:00",
-        "temp": 23.5,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
       },
       {
         "time": "21:00",
-        "temp": 19.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 15.3,
+        "weather": "快晴",
+        "precip_prob": 4
       }
     ]
   },
