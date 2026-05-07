@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-08T00:04:07.895790",
+  "generated_at": "2026-05-08T03:04:07.941416",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 14.8,
-    "temp_max": 18.8,
-    "temp_min": 12.4,
+    "temp_now": 13.4,
+    "temp_max": 19.2,
+    "temp_min": 12.8,
     "precip_prob_max": 98,
-    "precip_sum": 5.9,
-    "wind_speed": 0.5,
+    "precip_sum": 7.2,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.8,
+        "temp": 14.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.0,
+        "temp": 13.4,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 12.5,
+        "temp": 12.8,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 17.5,
-        "weather": "晴れ時々曇",
+        "temp": 17.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 18.8,
-        "weather": "晴れ",
+        "temp": 19.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 16
       },
       {
         "time": "15:00",
-        "temp": 15.4,
+        "temp": 15.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 67
+        "precip_prob": 57
       },
       {
         "time": "18:00",
-        "temp": 15.1,
-        "weather": "霧雨",
+        "temp": 15.6,
+        "weather": "弱い雨",
         "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 15.4,
+        "temp": 15.3,
         "weather": "弱い霧雨",
-        "precip_prob": 59
+        "precip_prob": 53
       }
     ]
   },

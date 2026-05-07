@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-08T00:08:15.520070",
+  "generated_at": "2026-05-08T03:08:21.355054",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.6,
+    "temp_max": 21.1,
+    "temp_min": 16.4,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 5.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 19.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など",
@@ -33,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "交差点でミキサー車同士衝突 最大7.5km 各地で“大渋滞”発生 バスは最大3時間15分の遅れ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11cmwydWxvRVZOS0dCRU1pZmE3QTI1a1MzdWJTeTUzWlUyMVlQb0FuclV2V2tuVnNZcU5qUFVTUHBIMURlbmxCdUllVHZsMzFfVjZDZkpxRGQ4cFRX?oc=5",
+      "date": "Thu, 30 Apr 2026 01:20:00 GMT"
+    },
+    {
       "title": "大分市の国道１０号でミキサー車同士の追突事故、道路をふさぎ…４時間４０分にわたって大規模な交通渋滞",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoLTJHZjcyVGdmR0pqekd4NXNwZWdtcXUtWmZLTUtybWRvQ0JrczhLY25FOGFfeWQ0SXlrSTVLcWFrUWFXT0U3Ulp5OGpIeVJXdHY4eXR4Y0RFU3pTb1FVX3B6Tkduc3FCSm9VOFRHSWR6TmdEa0cwQ3MxUlc2Xzg?oc=5",
       "date": "Fri, 01 May 2026 03:48:43 GMT"
@@ -43,19 +107,14 @@
       "date": "Thu, 07 May 2026 04:18:45 GMT"
     },
     {
-      "title": "国道10号でミキサー車2台が絡む事故 現場を中心に周辺で最大6キロの渋滞 大分市",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52eWFkRjNqTWhqM1VWazNnd2FaVklyaHF5bG9lbktHOTk1RWk2YURSNkptd05yNGhWUmlxOU5JUzl5THdZdzJlWEU4bW5WMWVmazZvbkJFYTRkdw?oc=5",
-      "date": "Thu, 30 Apr 2026 01:37:00 GMT"
-    },
-    {
       "title": "福島のバス死亡事故受け　大分県教委が全高校に安全管理の徹底を通達へ",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kM0lRNHBRSlBhNEtja0pWSUxpSlU5VFNpOXhCSkVGLVNHNEdhbXVIQlhpbk45UzVYM2Vjbk9WbXBlbjVWVl9QbjNHMUZQWjBlTmZxZTZjb0Z2YkN5OEFFQjRXUFRydXRpV1FDWXZxeV9aOEc5aGkyMXdvVGnSAYIBQVVfeXFMTndIOXN0ZUwyU2hJb1dMZ2tuTlV6dHo2SldzRHpmaURjbUFURERDS2d5cGNONnV0TlNvMmVFLVhMOEgzdEt3Q085ZXF0c1ZVaHR0VUpxR2kzZFVlT3VPb2ZvbGJfZnVqZTBtTVFRN3NDLXZmaW5WbnJOdXc5X0JtSERRZw?oc=5",
       "date": "Thu, 07 May 2026 03:31:00 GMT"
     },
     {
-      "title": "福島のバス死亡事故受け 大分県教委が全高校に安全管理の徹底を通達へ（ＯＡＢ大分朝日放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmT2U2QUprTTluVnVWTWVuaWt6R0V6ekwyckdZVElXdU1uTlhrNG56S3VVUmlNX2RHZHZhLUx3WTByLXpydGxVUnpENWpTMkxjMjFXYkhla0loR1E0cExMYWNxQ2VNOEJpcDNVUWFlQlQ2XzEwSFJqVnB4NGxNX3c?oc=5",
-      "date": "Thu, 07 May 2026 03:31:12 GMT"
+      "title": "川で流され？中1男子死亡 福岡・大分県境の山国川、友人と川遊び中",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55OWlYYTc5R3ktZDNLTWpKU3Z1TDZPX2VPOFQwdUJpNkhyRlBzVnJyNWVqZndyMXEyZVZhWjU5VEZ4RVBLR0NxczFqSi03LWtBYXZQUUI0bVRhQm1qczYwZC1McHhVWFk?oc=5",
+      "date": "Wed, 06 May 2026 10:20:00 GMT"
     }
   ],
   "official_links": [
