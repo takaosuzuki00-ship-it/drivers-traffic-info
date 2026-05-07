@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-05-07T09:03:07.733020",
+  "generated_at": "2026-05-07T12:03:07.913062",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 19.4,
+    "temp_now": 22.7,
     "temp_max": 22.7,
     "temp_min": 14.8,
-    "precip_prob_max": 33,
-    "precip_sum": 0.1,
-    "wind_speed": 1.1,
+    "precip_prob_max": 29,
+    "precip_sum": 0.2,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
         "temp": 16.5,
         "weather": "弱い霧雨",
-        "precip_prob": 33
+        "precip_prob": 29
       },
       {
         "time": "03:00",
         "temp": 15.8,
         "weather": "曇り",
-        "precip_prob": 14
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 15.0,
+        "temp": 15.2,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 19.4,
+        "temp": 19.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.2,
+        "temp": 22.7,
         "weather": "曇り",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 21.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.7,
+        "weather": "曇り",
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 19.6,
+        "weather": "曇り",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 18.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 18.5,
+        "weather": "晴れ",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTmg3M1NNMDIwLXdOcmwyeUtxZlZNV0xHcHlNX1ZhSXdHV3RaM2xFT2d4aUpuTGNMLURzSXJaSlRFdWxFUlM3dm5iVk15cnlydHZjNU1DN3dQWWNDTUlfOUhaNFh1WWVLSmdBQUNJNNIBdEFVX3lxTE14Qk1QVXkzYnU0RmJ4NkpFdjdFdktGUU5aWlZ3TWgyb3kzTG5rZzM1OHZ1LWZWLUprc1ZsTmpNcWN2MVRtcGQ2c0g1TDgyNGVLUWE5LTFpVjdmc0txbVF0R1ZRVGpUZHBfV28xUU5GVDZUU04x?oc=5",
-      "date": "Wed, 06 May 2026 20:11:13 GMT"
-    },
     {
       "title": "5月4日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1renRrS2JoVWNWTXhxM1kxMlBRY2U4bDhobWtwajFvMmVrOTZXaTJTTU5QSFpoMVpCbEt2VG00NDJYLW9ZY0E2dTZsMTNOUTZUSzYzVV9mT3E0Zw?oc=5",
       "date": "Sun, 03 May 2026 20:02:00 GMT"
     },
     {
-      "title": "5月7日（木）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZGYwZEp2amRudEhqRkFfSEl0cVFwRlZ6aTZOV3plOTV2NldBR2t0dzAyS1diQXdGdmNQUHpKSnBnTzJYRzZmNzNaSkhvVDBMOXAzRGk0S2NSQ1EyVTNYWFU0RndxVzJiNW1BLW5rc9IBdEFVX3lxTE9lYTlCT1pPdHBHcVRfRG5kd05NX1pGVXlLdUwyZHczVkxHLWh4YnlDd3lWXzJHLUdmMGIyeXNwSlRQY3pKY3FvRTdJdnU2QTNkcWRoeUdNMTB5b2N5ZE5KV3lwZTZTWWY0YWpWeUgzd1hMUjR3?oc=5",
-      "date": "Wed, 06 May 2026 20:51:17 GMT"
+      "title": "5月3日（日）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4Rl9oQWtVQUI3b0xaZ1VLLVk4dWl4WHNweUVlUHNCRm1oYjJ2c0FNWEo2cmFQa3Z6bUI1ZmlyNDBva253ZjdfVEc2RlpQWGdaOEI5b2FJaEl1WmJpblExTHNKWFR1N2swaXd5R0RVZ9IBdEFVX3lxTE96RFY2ZEt3SGljQzdMQ0d3VVA3bXpiVTNDYWo4RG9kWDd4SHh1NVJvcHgxUXBDQjF0Z2NzdW9OR2tTM3BtVDU4dGdDZzEtbjJRZFNCakhPanZuay1meDV2UUdHazlDRDA4Y2NXVFFyMG1iRlEz?oc=5",
+      "date": "Sat, 02 May 2026 20:02:00 GMT"
     },
     {
       "title": "群馬・伊香保取締中の警察官を車で引きずった殺人未遂容疑で運転手の男（64）逮捕-群馬県警 | チバテレ＋プラス",
@@ -88,14 +83,14 @@
       "title": "4月30日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"複数",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FT0JUY0NRdmJfd3d0X0pYQU5JckpLV3B5NVUyX1lmMHRHUUF2MUM2YW1iN2pMU3FJQ1hNcGtfYjR5Q0JTZi1MYk04R3NoMDhxU3RiZndmd0Rxdw?oc=5",
       "date": "Wed, 29 Apr 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月2日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\"あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41T1loNVF4S2tvdjM5OUd0WW1vb2xYMVJxdTVndVVPRWxNQmxNbXFtZVBqSThVel9XVEpScUJkY3B4bDZaRkJiTll0YTBXeHdWSy1IVmEyXzVhVzYzX1kxQlhRWGhhenVOa1BmV0FfONIBdEFVX3lxTE0xS0ZkWkZQZlI3OXAzQ3FRdXNxRXk0N1RHMHJhTW51cWE4dzhOZjdHZTJIRmp4MlJpdm5TNkgwQVJKQUxhNzF2VzZoal8tYWcwdW5HUVhXYy1YckxoZ0Y0VEcwMW5qQk96Znl6ZUFKeFRHNl9i?oc=5",
+      "date": "Fri, 01 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "車の衝突事故で歩行者含む5人が軽傷 白バイ追跡後か 東京・湯島 [東京都]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcFFtVGlza0ppS0pDOGVqaFNlOTNob2NvV2RWbjN6RUt5VDFaYzBnNGw0bmdDa1UyWkxaZmZLamNMV21kTGl4bnQ1eExZYUlrYUh3YnFyUEdsRTFvRTBnVEg2YnpUWEk?oc=5",
-      "date": "Tue, 05 May 2026 10:50:00 GMT"
-    },
     {
       "title": "東京・文京区で軽乗用車が信号無視をして乗用車に衝突 歩行者4人が巻き込まれ軽傷 運転手の男を危険運転傷害の疑いで逮捕 別の事故で逃走中だったか",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNcnpEVE9jdWcxN2JmZlJSbUZqay1YTUZ4OW1HanMzbnJnUGFVSGQ5Y1dBdFBnbVFDT184LXVOc2ZtVE5zMDhxaTFKWFgxckJGLUJ4XzBzdw?oc=5",
@@ -107,14 +102,19 @@
       "date": "Tue, 05 May 2026 10:46:00 GMT"
     },
     {
-      "title": "東京・板橋で車5台と自転車2台が絡む事故 警官含む6人搬送",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS2JVTkNBai1kZ0hBNGRxVFpPTUszVnFlTkRXZTlpNzk0RmJBVk9GZ0x0aWRmamVnU1o0ZlpKdnBWSTR0TnRwc085azlXTXBvN1M4Yk11dlJJd0J1ZDVEN0JxaWIxODVm?oc=5",
-      "date": "Wed, 29 Apr 2026 06:35:53 GMT"
+      "title": "路上に倒れた男性…死亡ひき逃げ事件として捜査 東京・中央区（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GUmI4X0xwNEsxREdKRnpZTDFsSVE4N3hHajZTRFprc3VWVWt6UWl2MGpyWV9Pb2Y4dmRFV3RtRnFYdGdrVFFieDRaN3MxdHdkNWdrN210cHZIWXJmdVRJeXVrOHoxSTVVWmM0MklYMjZtOHU1OU11dzNnOHlKRFU?oc=5",
+      "date": "Thu, 07 May 2026 02:04:01 GMT"
     },
     {
-      "title": "信号無視で車衝突し横転 運転手の母親「人格が変わる」スピード違反で逃走…別の事故も",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pSkFDWWJCd01scGFEdkRCVE96MUs2QWNCX2JHelhnVHlYQzJLYkpFRy1BbG8ySS12OTcwTmdlSERiZlNZQkJEWngwWjQxTUxIdkZOR3hDVFFmcjNSclNLekE2T1otSHJhTlo5OVhEdS1HUW5vazhCTVlJQzE?oc=5",
-      "date": "Tue, 05 May 2026 21:55:34 GMT"
+      "title": "東京・板橋で車5台などが絡む多重事故 自転車の警察官ら3人が重傷 [東京都]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ReThRX2RzdGc3elVHc1J5ZElDblo5YTVObTZrVEY2MVRWZFhNV2NnZjV4RmR5TzZUMUIzcnQ1UTdKUnhiVGpBaHhiS2p1NktkUG1sS21HNDRQRXR4NG9wN0ZrNW1Td1E?oc=5",
+      "date": "Wed, 29 Apr 2026 04:30:00 GMT"
+    },
+    {
+      "title": "路上に倒れた男性…死亡ひき逃げ事件として捜査 東京・中央区",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxWFN5XzRLUFFGVER6dUdxTkszblhzNlFwMlotcEhNa24yeWdtdUVrS3NXRS1vdDNvRFBqRkFUczczelRQTXpWc3RHOWVYMTMyZURvZk41MVd6TnB2Q2ZiZ2pTWDREUFg4bWQ3V0hJMmVCVXVqMlYtcTVlYw?oc=5",
+      "date": "Thu, 07 May 2026 02:06:00 GMT"
     }
   ],
   "official_links": [
