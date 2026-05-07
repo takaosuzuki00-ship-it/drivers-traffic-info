@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-05-08T03:08:13.949411",
+  "generated_at": "2026-05-08T06:08:36.568860",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 17.4,
-    "temp_max": 22.3,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 17.1,
+    "temp_max": 22.0,
     "temp_min": 13.9,
     "precip_prob_max": 96,
-    "precip_sum": 0.1,
+    "precip_sum": 0,
     "wind_speed": 3.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.3,
+        "temp": 18.0,
         "weather": "晴れ時々曇",
         "precip_prob": 10
       },
       {
         "time": "03:00",
-        "temp": 17.4,
-        "weather": "晴れ時々曇",
+        "temp": 17.2,
+        "weather": "晴れ",
         "precip_prob": 43
       },
       {
         "time": "06:00",
-        "temp": 17.3,
+        "temp": 17.1,
         "weather": "晴れ",
         "precip_prob": 31
       },
       {
         "time": "09:00",
-        "temp": 20.0,
+        "temp": 19.8,
         "weather": "晴れ",
         "precip_prob": 96
       },
       {
         "time": "12:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
+        "temp": 19.9,
+        "weather": "晴れ",
         "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 22.3,
+        "temp": 22.0,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -57,13 +57,28 @@
       },
       {
         "time": "21:00",
-        "temp": 15.6,
+        "temp": 15.5,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月8日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9heDJvMVpZbDkwMVdjRHFPTmJfbFdLRXNTVTB5LUpIWlNFRlBiTm5DR0tiYmE4YVJ4Z1NkVHpQSjZZNXAxdHdxQ20wU0prbzlnMWtyREJPVQ?oc=5",
+      "date": "Thu, 07 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月8日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOeTh3VE5BeVNFYVh4N1BIdlVNSnlrR2tWUWtqSHZfeHh0SnpkbzFob2Q2TVp1LU5nVUxzQlVTNkVzQloxcWc0Yjd6REZHWGJ1Ni1xMVlLVGFvREdaaThGUF9TMTJhYUVWd2plUEZPVnhvMHR5OGd2U2hIWG5kQVU?oc=5",
+      "date": "Thu, 07 May 2026 20:08:22 GMT"
+    },
+    {
+      "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14Qk1QVXkzYnU0RmJ4NkpFdjdFdktGUU5aWlZ3TWgyb3kzTG5rZzM1OHZ1LWZWLUprc1ZsTmpNcWN2MVRtcGQ2c0g1TDgyNGVLUWE5LTFpVjdmc0txbVF0R1ZRVGpUZHBfV28xUU5GVDZUU04x0gF0QVVfeXFMTXhCTVBVeTNidTRGYng2SkV2N0V2S0ZRTlpaVndNaDJveTNMbmtnMzU4dnUtZlYtSmtzVmxOak1xY3YxVG1wZDZzSDVMODI0ZUtRYTktMWlWN2ZzS3FtUXRHVlFUalRkcF9XbzFRTkZUNlRTTjE?oc=5",
+      "date": "Wed, 06 May 2026 20:02:00 GMT"
+    },
     {
       "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQTJPX2lMbE1pSjZ6YW9iWGJVcnJpdUkzRjVrRVBWLUI4VXlzLUxibGFQLS1LeGZTTmc2U3VLMXF1T2FhZTJKN3Y1S0JEODA3NXJJQWN5UQ?oc=5",
@@ -72,21 +87,6 @@
     {
       "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など（RKK熊本放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KeGt3d3FyWjZ0aHh4cU9MX0ZPbWpSaVpHS1VtOUVPcEkyV0RONkJqaTc3U0t2bFVJa0theEZuZXVYb1pXaUtqNmg0RGFjbFBWcGpYOGoyeDRrVThiUnduYUpuQ2xYSzNyTWsyQzVVTVN5VTA5WU9hYzJfcnNxbW8?oc=5",
-      "date": "Wed, 06 May 2026 20:02:24 GMT"
-    },
-    {
-      "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14Qk1QVXkzYnU0RmJ4NkpFdjdFdktGUU5aWlZ3TWgyb3kzTG5rZzM1OHZ1LWZWLUprc1ZsTmpNcWN2MVRtcGQ2c0g1TDgyNGVLUWE5LTFpVjdmc0txbVF0R1ZRVGpUZHBfV28xUU5GVDZUU04x0gF0QVVfeXFMTXhCTVBVeTNidTRGYng2SkV2N0V2S0ZRTlpaVndNaDJveTNMbmtnMzU4dnUtZlYtSmtzVmxOak1xY3YxVG1wZDZzSDVMODI0ZUtRYTktMWlWN2ZzS3FtUXRHVlFUalRkcF9XbzFRTkZUNlRTTjE?oc=5",
-      "date": "Wed, 06 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "5月5日（火）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話・シートベルト”あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92OHV6N3g2MEp1RXNkWDBJRVYyTFo4cnF6UjdrN19tbGZrbG1MMDFQS3hrZW9SSmFFOTN2YVVVZTJtUWJmWEtVMEdqdEt2Vk9UYTJ4UlVKZw?oc=5",
-      "date": "Mon, 04 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など (RKK熊本放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2x1UTRJMWFFQkhEZFZFTE9PbXdfTUZZbW92NDZtU2QtM1VNSDY0UUJwLUQzTURIcmVIWGMwRkZfZmhhbnpESkthYnFLbjlSd0VMaW9JMEtCcWlZQnJJVWltYjd3LXc0UlE2elB1ZEtrMGhLMTVvWjd1OWx0WHpaYk9LclhsRDBiZ2hOWGhB?oc=5",
       "date": "Wed, 06 May 2026 20:02:24 GMT"
     }
   ],
