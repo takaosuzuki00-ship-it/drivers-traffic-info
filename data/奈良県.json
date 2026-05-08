@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-05-08T21:05:23.879102",
+  "generated_at": "2026-05-09T00:05:21.421657",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 15.6,
-    "temp_max": 22.4,
-    "temp_min": 13.7,
-    "precip_prob_max": 89,
-    "precip_sum": 0.5,
-    "wind_speed": 10.9,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 12.6,
+    "temp_max": 21.1,
+    "temp_min": 11.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.6,
-        "weather": "快晴",
+        "temp": 12.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
-      },
-      {
-        "time": "06:00",
-        "temp": 17.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 84
-      },
-      {
-        "time": "09:00",
-        "temp": 20.1,
-        "weather": "晴れ",
-        "precip_prob": 75
-      },
-      {
-        "time": "12:00",
-        "temp": 21.2,
-        "weather": "曇り",
-        "precip_prob": 22
-      },
-      {
-        "time": "15:00",
-        "temp": 22.4,
+        "temp": 11.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 11.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "18:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 43
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 15.6,
-        "weather": "晴れ",
-        "precip_prob": 84
+        "temp": 14.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月7日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” “自転車”など",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTmg3M1NNMDIwLXdOcmwyeUtxZlZNV0xHcHlNX1ZhSXdHV3RaM2xFT2d4aUpuTGNMLURzSXJaSlRFdWxFUlM3dm5iVk15cnlydHZjNU1DN3dQWWNDTUlfOUhaNFh1WWVLSmdBQUNJNNIBdEFVX3lxTE14Qk1QVXkzYnU0RmJ4NkpFdjdFdktGUU5aWlZ3TWgyb3kzTG5rZzM1OHZ1LWZWLUprc1ZsTmpNcWN2MVRtcGQ2c0g1TDgyNGVLUWE5LTFpVjdmc0txbVF0R1ZRVGpUZHBfV28xUU5GVDZUU04x?oc=5",
+      "date": "Wed, 06 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
+      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
     {
       "title": "5月8日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTFFVUzhnZVFkYTBOVTRpM1VjWnhKWllEV19vd3JxRE5iZ1BxSmVGQ1BxZ1V1Qm5hMXNoR2tLNmwzTTRiSGl5dWtsZ3cyMmk5UDVLUmUzVXhPWWxKeEVRX2lwZ2hTQTF4cU52TFdPUdIBdEFVX3lxTE9CeW1FdWNXX1FBSFhoR0QyUjJHUTRTQ2JrZld2aWlnOXJjZnV1RmNHdWhCQXdxcXg3dU1VR0hYRFprdW0ta2JCaThaeC1TTlZjZ2hWSGFIWFBrTlpQR0pXMXl5N05NelJnVDlRVmpUa1ROcE9F?oc=5",
@@ -73,21 +88,6 @@
       "title": "【交通取締情報】福井県警 ４月１４日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aWtjUDljazZIMlZaWkl6Vy1IWk5LSjFobVF4RnJURWc5YnRNNTJncWxzdEp5dUJMOTNmbUJ5X1N5RkM3cVhpeWkxbw?oc=5",
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "５月８日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zQ2FWNEdBamRpN0VwMHJkN2ZKa3k3elc0TklVWkpOdGs1d1B6Nm5RNXpubm9MMnFocXpxZjBvcXJJU1lkQ2dVT2FkaGt2dUlsZ081dHNyMVhVQ1N6bEhodjQ5bDVxOHYxQWZ6N2FXRFNzd9IBd0FVX3lxTE9zZTlyVFA4LW1vYnVKbTRuVTRqTFMtV2cyMGw5eVBpRm5NSDRlNVctNy1oWWt0VFpSd01NZUpxOUtILVhOaGswYlVqeEJEc2lGV1ZXWjlhdjhHeVZuX1JLOFdmTm4yVWhtS1FDUUdYZFViUThqMEl3?oc=5",
-      "date": "Thu, 07 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１２日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
-      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Thu, 07 May 2026 05:00:00 GMT"
     },
     {
-      "title": "奈良県内の令和7年の交通事故死者は25人 過去2番目に少なく半数超が高齢者",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub1BVNmRLSjM2b2w4UUdJc3dIZmFhMThuRmlFdWs4OWI0Y2QtZU11NlVYSFpPZFRJT3JuMC16ZzE1ZWFZNU9ZdkZ2V0ZyZ0pZOEpzSXMyekdJRnBZSmREQ0E2N2N0UmVxbElyckVYWUgwMzFJeUE?oc=5",
-      "date": "Mon, 04 May 2026 00:00:00 GMT"
-    },
-    {
       "title": "奈良県内の令和7年の交通事故死者は25人 過去2番目に少なく半数超が高齢者 (産経新聞)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVEyUER0TGRlSFNEdDNTMzVGdno4YlhuVU1FVVhybGhPQXlURWFQTWVUTlJnWGJWRS1VazNHeTgzd1haWHkwbTdacmJyc3NWZkw4bUZlMldlT1RMVFlEWEVvZnFEbnUyeldicVBSMWdxN0JoZXNzRkZ0S0V3OW0wckpTUm1Sa2d4OEhVYzZ3?oc=5",
       "date": "Mon, 04 May 2026 00:10:46 GMT"
+    },
+    {
+      "title": "奈良県内の令和7年の交通事故死者は25人 過去2番目に少なく半数超が高齢者",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub1BVNmRLSjM2b2w4UUdJc3dIZmFhMThuRmlFdWs4OWI0Y2QtZU11NlVYSFpPZFRJT3JuMC16ZzE1ZWFZNU9ZdkZ2V0ZyZ0pZOEpzSXMyekdJRnBZSmREQ0E2N2N0UmVxbElyckVYWUgwMzFJeUE?oc=5",
+      "date": "Mon, 04 May 2026 00:00:00 GMT"
     },
     {
       "title": "昨年の交通事故死者25人と前年比2人増 奈良県警 [奈良県]",
@@ -112,9 +112,9 @@
       "date": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "事故捜査で阪奈道路を一時通行止め 4月16日午後11時から17日午前4時まで - 奈良県警生駒署",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SVTZBWGowRmxyYzNDdnNFVFZ6ckVWRUdaMzZ1R055WHNQeW5pbEhhajBnQjRvZkRnZjBwaW9mYTlEbWlSdmVZcEFlMA?oc=5",
-      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+      "title": "死亡は奈良県の女性と判明 トラックと軽乗用車の衝突事故 知人とレンタカーで旅行中か 北海道羅臼町 ｜ ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3RvYnBWRk5oNFhDTm94NV9uWGRxLXdGZFY0MGJwYU5Nc1R0QXBJZm8tQXVfWkFWWVlIajFLdlVUNGxuaTFuV25YX215eklxdXMxRU1mWTEtTjJTVEJTTGQ3UTZDY3p5MWF4OEY0d0NWT3J3RldpM3lwVjZtYXhGek5R?oc=5",
+      "date": "Fri, 01 May 2026 13:16:07 GMT"
     }
   ],
   "official_links": [
