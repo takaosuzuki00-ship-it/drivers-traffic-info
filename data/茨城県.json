@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-05-09T00:03:58.605149",
+  "generated_at": "2026-05-10T00:02:48.542472",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 15.8,
-    "temp_max": 20.7,
-    "temp_min": 10.9,
-    "precip_prob_max": 98,
-    "precip_sum": 0.2,
-    "wind_speed": 5.9,
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 10.5,
+    "temp_max": 22.0,
+    "temp_min": 8.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 10.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 12.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 43
+        "temp": 8.8,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 11.9,
+        "temp": 9.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 17.8,
+        "temp": 17.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 19.6,
+        "temp": 21.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 20.7,
+        "temp": 20.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.1,
-        "weather": "晴れ",
+        "temp": 18.4,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 13.5,
-        "weather": "晴れ",
+        "temp": 16.0,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
@@ -66,8 +66,13 @@
   "enforcement_news": [
     {
       "title": "きょうの交通取締",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NWklQNGVYQUZVcWw0Tm84OEltZU96OEpMRGphY3kwVGkzOGM5N0tJLXdqQWZWYkszRURYcndReHVkbEpLcGNQSVczMlZBMkNQZmpqQjNCT2xaeGNvQktlc1VXQVctZnVVVEVlXzVmaGZfMEU?oc=5",
-      "date": "Wed, 06 May 2026 01:15:47 GMT"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWU1mYkhQTHlUQm9tZGRFTU5LTkxTWUZJTXhraWFQdXFGM0p2N3RqUnc2eTVGTzd4VU93SUVqOEl5MUtCRHVYWk5iMFpFLXRtbXZIZGxkSkd4aXAwdkpIOU81aUd4dS0xWHkwSkRnNElyS3M?oc=5",
+      "date": "Sat, 09 May 2026 01:09:59 GMT"
+    },
+    {
+      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40bmJwazJhNjRWekdoQWVpRVpHbzhaXzNncGtIVzRRSmxWdWxWRm9VRDJXWHJ1LXZFWkNLTDBNX1Brai16NVNMNmU1UWtHT3BMTS1CUFhMQVhORTBmcTViN29rWDZvbHFFTkVBdnIzTdIBdEFVX3lxTE9RT1Fmb1RJZXM3WlZxRGxHV0pxeUNmbWM0T01wMHNxVDZMS0NvYVBYQUlVU1JoVk1fUDJjU3dITHdVM3hNTUpoUXlGVzk1TWJ1YktzRHNVRVRqbVh4OGloX0NfTFFyaXJtblZEZXozR1dIY0ZN?oc=5",
+      "date": "Fri, 08 May 2026 20:02:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月２３日",
@@ -75,46 +80,41 @@
       "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "５月３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xWmJQaXRqTDNEN1pCTXRtbEVxWmtGTDVDVXo2VkZuQjNlRmpxbDd0MDUwRThMQWpnbjhHdS00NG4wUkFlYjAxNFNGNUQtRkxnTElmNVFaTGRtUFh0ZEVKeHpvQm9KdWRpd1piWnIxcDI4QdIBd0FVX3lxTE5nWVpSbFEtWTNhLWg2bl9pX0U4Y24wMHhBRFBmMGhYX1Y4eVA0LURfbUhjMWR2VzhpcS1YMUcyTmdZeXdZSjhjaWU4MkREOUNuOUdxbDhPMmFHRU9BTTZ2R3J6RXpnMGJEY0g2R1pBOFA0ejJXZGVR?oc=5",
-      "date": "Sat, 02 May 2026 20:00:00 GMT"
+      "title": "自転車の交通違反に青切符導入 県警が導入初日に指導取締を実施",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3N3k4RWtKVEwyRXMwLWd3RnpQYU0yTEVJREl6V0lXaFdhdWdNTHlGVXEyeTcySXpkSUhlM0ZyUXZNejhXWFFoci1jUG1JSy16S19qU3V3?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wVmNiZVNFVDQtckducnVtcE03WV9uZTJ4RTU5dG9JSlZ5T0RQWTIxbHpPR1pTOUVVbU95ekhlZWstZDJPd3hqYS1Ebw?oc=5",
-      "date": "Sat, 13 Dec 2025 23:22:04 GMT"
-    },
-    {
-      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QS0tLWnR4ZFUxdUdFY1FONXl4NzJTbnc0bkJsMEFLU2UxangtVzZlU0tvdXlsbFVOcVhMbzh1MzFiVmViRWVnbjNrVkZSbmg5UXdRczNiT0JIRXFLQ2RSeV9Fcjc2eGxoQlFBU2pBZ2RtTjg?oc=5",
-      "date": "Sun, 14 Dec 2025 08:00:00 GMT"
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【続報】守谷の交通事故 死亡は79歳女性と判明 茨城県警取手署（茨城新聞クロスアイ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQ2llcm12S21XaWZKcWpnOTRfUVZvTVJoUzZWdEtKMmJnRm1FV0R0RGY3M2dDWTNSbUtJVmRGeUdOUjlvaFBYRmNUSE5TWXRkSzc2bk1iUGNja2p1N291T2NMZWRSc09uaU5SRGk0QnJCeFg2aUNSSzctUWVJRlk?oc=5",
+      "title": "【速報】乗用車と衝突 10代とみられるオートバイの男性、意識不明 茨城・水戸",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lXzI3QnItRFdvLVhSTmd6X0pOazFSUUFKNTB6OE5hcEoycDNPN29HcmlwYjlld0VQSUMxYXo0RGFtbjUxaV96OC05UzRWeWtNS1p0UVZYSUI2NmZGYm4tc3AyNERSODJJYmhmS2NmRGI2Ulk?oc=5",
+      "date": "Sat, 09 May 2026 12:29:27 GMT"
+    },
+    {
+      "title": "【速報】乗用車と衝突 10代とみられるオートバイの男性、意識不明 茨城・水戸（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwNjhzUTU5YVBoc2ZRRFI5bG9Del9LN25zdlBKRjBMUnhtUDA0eXE3djRDY0FrbGRNRk5famtka1RjZHpLb2tIekQ5M3k1M2x5bGd3NUlFWW8zYXVWel9mMEJwTnIzZ3R1b1N2X19JOU9SakZOeEFieGJzNWo2TTQ?oc=5",
+      "date": "Sat, 09 May 2026 12:03:00 GMT"
+    },
+    {
+      "title": "高齢者の交通事故防止",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdzgzTDdVQ0QyQjJybWN3cmQ1NWdjWF81Vk1WcDZvcjl1YlRwSW1pMXIxNzZhMnRWTHBpMWFhRWl6OVRZOHlXUDhyZ01QdFRtZWtqT3V4bTRiZDNPNVdMUDZBMnJYVjMtcXJGTFg5SFZJNFpfWVloU3Rn?oc=5",
+      "date": "Thu, 26 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【続報】守谷の交通事故 死亡は79歳女性と判明 茨城県警取手署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zTUlPaDZaWktXQ1V4SWc2SzVYX2Fyc2d1b003Zm90N1BXRV9aSUtDb2xFQndkNU9feTZxY0QzRTYtcmVIRV9NREIwdw?oc=5",
       "date": "Wed, 06 May 2026 04:30:00 GMT"
-    },
-    {
-      "title": "【続報】八千代の乗用車横転事故 死亡は27歳男性 茨城県警下妻署",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sR3dYdEZkQXNZc3ZSTmZvU3R3eVZQX1ZRd00wVExEVkFvd3Y2ZDlZaXh5NlQtYmUzOTJrLUwzYTg3eGM4TzlGYkdDbw?oc=5",
-      "date": "Tue, 05 May 2026 04:59:00 GMT"
-    },
-    {
-      "title": "オートバイ転倒、死亡の男性は茨城県在住 遠野市で交通死亡事故",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RWY2c2NuX1VGWmVhWUJRSE9sdUw0UnMwSm9UNXp1T01BcF9OcDlDSHNmTzVoN3lGRTBJVDJEbmNOU3JHSHpDNExEb3ZXVjNHNmk4a1RBbUlzS3dXWmc4?oc=5",
-      "date": "Mon, 04 May 2026 02:59:00 GMT"
-    },
-    {
-      "title": "【更新】東海で3台絡む事故 軽乗用者の男性重傷 茨城",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83TGhEY0Y3UGFYcUxRTXBoQzkwa21CeUVjcWFiVFhkUnREZUxlYkF3ck1YbkluVDl2TWcxc1lmdXUxY0U5ZzJTVFRzZWp5ZXdtYWEtSWdIaVJfSDBud1BweElmcHY5cDk1bGgtVGg2UzUxZkk?oc=5",
-      "date": "Tue, 05 May 2026 06:35:59 GMT"
-    },
-    {
-      "title": "韓国客に運転ルール紹介　茨城・水戸市と県警　レンタカー事故防止へ動画制作",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTNNcUhncGZmWGkwS0FaUnpYbnUwWGozaDF2MjNkQ1BKWU5pNF95eWRZM2t0OGQ1LWw1UTkxdTFfbmh5Wjd0eUs2Z3JaRnR6bmt0clRkM1gtTDdoVWxaSHpkalYyQVdiZUhnN09kbHFEc3laZXl5MGVLeVRrdGZpZVh3TV92X1pNeEJ5dnQyb0ZSSkVpWTc0UlpOdVRjRjhRTzZ6MXh3ZEJTaVpPVXVSQVhiNHh0Wjc0MDNhZGR5NGZFZEVPWTkzNFhmb0VOcnlCMUhIRVljejDSAYgBQVVfeXFMUFphbTVDQU1jRnNHc3UyWVRSUXJjNm5OX09CR0MzLWY4Q0h2cnJpS3VpWFBUWTJwNFMyNWoyU1Jza2tMelNqYkJ3R2drQkdoQUNxNFZ5d3RFRVk3TWxqTHVMeGVFRkhUelgwVDJLYnFqZ09zWWFIS2w1TDA5NDRnYUpJVHN0ekd4QQ?oc=5",
-      "date": "Fri, 08 May 2026 01:00:00 GMT"
     }
   ],
   "official_links": [
