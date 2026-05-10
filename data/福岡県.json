@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-10T15:06:10.327627",
+  "generated_at": "2026-05-10T18:05:15.631462",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 19.7,
+    "temp_max": 24.2,
+    "temp_min": 12.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
@@ -33,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "【続報】福岡・春日市で死亡交通事故 軽自動車と歩行者が衝突 近くに住む71歳の女性が死亡 横断歩道がないところを渡りごみ出しか",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0NXBkTUpILWRpZ2pxOVRaZmsyS1BVZ05MekNMaTd3NF9EY3pwVTFNS3JGWnBtYXg0alpBM1BmR1dFTElxN3dlRWFIMDV2RkY0TXpGQnlZNjI2QXlBR2p1UjBZYw?oc=5",
+      "date": "Mon, 27 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "筑紫通りで交通死亡事故 横断歩道外を横断中に｜KBCニュース",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mZGwtTndLM1JXM1FXaDY0RUF2WXQ1cVFWaGNEcTFXVS1NTnFIVzNQU2JMR0lyYWV1Zk9qYVhkMEN6bFoxRU96Si1ETUxDYy1zZGh2NnIxLXFMVnFUc0JGcUtuNlNNNEl3Tkhtb0ZR?oc=5",
       "date": "Fri, 01 May 2026 00:16:00 GMT"
@@ -51,11 +115,6 @@
       "title": "川で流され？中1男子死亡 福岡・大分県境の山国川、友人と川遊び中",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55OWlYYTc5R3ktZDNLTWpKU3Z1TDZPX2VPOFQwdUJpNkhyRlBzVnJyNWVqZndyMXEyZVZhWjU5VEZ4RVBLR0NxczFqSi03LWtBYXZQUUI0bVRhQm1qczYwZC1McHhVWFk?oc=5",
       "date": "Wed, 06 May 2026 10:20:00 GMT"
-    },
-    {
-      "title": "クレーン車が横転 滑り落ちた鉄板にはさまれた65歳男性が死亡 おもりを吊り上げる作業中に 福岡・大牟田市",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wb3ZJNGR5cDIwUVF6dTVjSVlSWWRuQUExMzRBc1hCR2U5aEFvVEU1WUhndGgyWVIxRjRMd21mOFk5Q1BzREpIUzcyVk5GaFh1V1BMSDdGZFppQk5SUEFnWU9Zbw?oc=5",
-      "date": "Fri, 08 May 2026 01:40:00 GMT"
     }
   ],
   "official_links": [
