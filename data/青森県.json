@@ -1,84 +1,10 @@
 {
-  "generated_at": "2026-05-10T21:02:44.165915",
+  "generated_at": "2026-05-11T00:03:19.039516",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 13.8,
-    "temp_max": 20.7,
-    "temp_min": 9.7,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 11.3,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 9.7,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 10.5,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 12.2,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 18.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 20.7,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 19.9,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 16.3,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "21:00",
-        "temp": 13.8,
-        "weather": "快晴",
-        "precip_prob": 0
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
-    {
-      "title": "5月10日（日）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uUC1LcVpnVkFCSld3b3hKTEwwaGtxbDZjdWxUcVNoZTBjUjF6TmFtM1RQTndxRTFBb2M0Sm02dVNNZ0pqa2lrUUtJdWNXd2NNSlpfTVZUd2l5VzZfV1JkTGZmMkEweU5sdDVvelJzb2pFOTRP0gF0QVVfeXFMT25QLUtxWmdWQUJKV3dveEpMTDBoa3FsNmN1bFRxU2hlMGNSMXpOYW0zVFBOd3FFMUFvYzRKbTZ1U01nSmpraWtRS0l1Y1d3Y01KWl9NVlR3aXlXNl9XUmRMZmYyQTB5Tmx0NW96UnNvakU5NE8?oc=5",
-      "date": "Sat, 09 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "5月7日（木）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZGYwZEp2amRudEhqRkFfSEl0cVFwRlZ6aTZOV3plOTV2NldBR2t0dzAyS1diQXdGdmNQUHpKSnBnTzJYRzZmNzNaSkhvVDBMOXAzRGk0S2NSQ1EyVTNYWFU0RndxVzJiNW1BLW5rc9IBdEFVX3lxTE9lYTlCT1pPdHBHcVRfRG5kd05NX1pGVXlLdUwyZHczVkxHLWh4YnlDd3lWXzJHLUdmMGIyeXNwSlRQY3pKY3FvRTdJdnU2QTNkcWRoeUdNMTB5b2N5ZE5KV3lwZTZTWWY0YWpWeUgzd1hMUjR3?oc=5",
-      "date": "Wed, 06 May 2026 20:00:00 GMT"
-    },
     {
       "title": "【速報】自転車の“青切符” 青森県内で初めての摘発 自転車制動装置不良のため",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQZ01ZTEZ4aHVjWVZ1dHlfRVF5V245blNnSDg5TzlDdGZkOTB0MDQ5RmNwdmJJX2NpMEhqLVdrSTMtYlMwOVBzWlRKSkJzM1VFeURoLWpMdw?oc=5",
@@ -88,6 +14,16 @@
       "title": "青切符、青森県内初摘発　ブレーキがない自転車運転／青森県警",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBocEhuQTFTNmJ0enhjSkdieW1JWGhVV2tCU3lpVzM3TVZqZUZTd1ZublRDWXl6SHN5S3lSNTdIVUFWcUdWdjVYZWw1UTcxcHlpdVJVT3o2NEdtOXlLT0tRN0sxZTRxTGc4dlNLQ205Qks5VFhRMzdCWmdTNNIBgAFBVV95cUxOTmhRdmZsLTNrYXVhY3hWR2g3eTVIQ0lBb0kzbFNMbktJUVl5WVU1cDIxN05pUkd3eUlwWmRQZW5ORjJrSkxYdGctR1g0OUJTQnN0OWpKVk5PVGVGbVpJa3pXZEZwdGo1R0JlV09fOXlGUDJsa0RjRmhMRzJLSDEteA?oc=5",
       "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kSGVkU0o4WmtmMFpYQk43X0JLQmtKd21uQVlEanVDd2lnTXp0c29sM2tjWFNmaGhsSnBRcUdoQzRpYlhpU1BSREhQWXpQZEJVZy04TklhUjVrdw?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車違反に反則金「青切符制度」青森県内でも 歩道通行注意を（Web東奥）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TS1A5SzNOcExaYWhlWnNySVJ3ZG1XTkFLUV96dmpHOTg5LTRvQnBFeHNhU0NfNGhFM0FNeEY5UFRzdkRLQnVIUW5rRkQtUQ?oc=5",
+      "date": "Tue, 28 Apr 2026 09:17:31 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +48,9 @@
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "県道交差点付近で一方の車は横転 弘前市で事故「軽乗用車同士の交通事故があった」 青森県",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UVF9vNGZPQy1JeGFUVk85RVc2d2ZCMDVCV24tTVFrQ0w3R3l0SGRwc2ZCckc0RmFmRlM4MExYUmJIZ3M1NHlQSmo5RFFnYUxVMDFwSlkwUGxfdw?oc=5",
-      "date": "Thu, 07 May 2026 04:30:00 GMT"
+      "title": "十和田で軽自動車が正面衝突 女性が死亡｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZzhmUnc5RGRMYmFoVlptWnI2Z3VBVlpEbVlrYjR6N2NHNUlOenQwaHZYNTRHOFVFdE10TG00cGJQM0U4R2pwQUpucXNUb1hYSENlQ0pCMjI?oc=5",
+      "date": "Thu, 07 May 2026 00:00:00 GMT"
     }
   ],
   "official_links": [
