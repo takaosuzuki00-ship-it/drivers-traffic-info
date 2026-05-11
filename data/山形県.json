@@ -1,83 +1,73 @@
 {
-  "generated_at": "2026-05-12T00:02:57.140549",
+  "generated_at": "2026-05-12T03:03:19.853504",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 14.9,
-    "temp_max": 23.2,
-    "temp_min": 14.1,
-    "precip_prob_max": 24,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.7,
+    "temp_max": 23.3,
+    "temp_min": 13.9,
+    "precip_prob_max": 17,
     "precip_sum": 0,
-    "wind_speed": 2.9,
+    "wind_speed": 5.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.9,
-        "weather": "快晴",
+        "temp": 15.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.6,
-        "weather": "快晴",
+        "temp": 14.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 15.9,
-        "weather": "快晴",
+        "temp": 15.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.5,
+        "temp": 19.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.8,
+        "temp": 23.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 22.9,
+        "temp": 22.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 24
+        "precip_prob": 16
       },
       {
         "time": "18:00",
         "temp": 19.8,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 17.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oa283YzRpWWprSTdBTWRWRGhJazF4OWkyNjdyZ0wzUC1EcExoLUh3cnQybEFfa0ZkMVRkVHdhNGhGbmRVNnJWYkc3SGZjaHZmN3VZbmNKZw?oc=5",
-      "date": "Fri, 08 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "5月11日（月）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oSGxnbVJQcFlwbXNBQzJTemxUZ1RTQk5ESHBTZjVMZEYta3dXZ3pOOWtnb1RHNWs5M2FaWlJvUzdQTE9hX0xRdGhrcW9RT09yQkZXdVpGSXNHNDQwUFlyZVVvVFVkYmFSY0tQMnVVSdIBdEFVX3lxTE0xalRQTW5Yd0JTLTlqa1hKTF94MVAxekZjc0hhV01RWE5HdHh2SE1qMEZCWTRXaVlWTVpmMl9HUHQwNDJ1Zk0wTVdEZUZKblZ6b05oSWdHQmZxODZIak92YklZWjBkQ1Q1OW8zdWNybjFMbjN5?oc=5",
-      "date": "Sun, 10 May 2026 20:11:12 GMT"
-    },
-    {
-      "title": "５月９日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMzNib3pyWFUzd0hmeEsyS1JQYkk2TXNMRHNrd2w0WlpORHFQc3FVMC1LLWVKRlhjd0ZXbERLRGptdktiMzQyV2liVzVfWnUtdzRhTDVJcw?oc=5",
-      "date": "Fri, 08 May 2026 20:00:00 GMT"
+      "title": "5月10日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZklGSVRVeDJCRUZqaC1qY0o5ZlZ3bURWV2xPbWVpbVd2NS1BX05MRXNPa3pIcUpBOExyb0JpQmVSUEhrYnhaSTEtNlktVXdKUXBaOWRGaWZoTGZsRmRVNUVvOTc?oc=5",
+      "date": "Sat, 09 May 2026 20:02:00 GMT"
     },
     {
       "title": "5月10日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -85,12 +75,27 @@
       "date": "Sat, 09 May 2026 20:02:00 GMT"
     },
     {
-      "title": "5月7日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82X0ZTQ2MxTWdodGVIcVFiNTN0c2tLdnlmUC10OUpVWTlnOVUxbFBPTW1mTS1qalB3NGxFZl83eWtoSHpSVFR0YVBzT3d0SEg1d192MGRfOA?oc=5",
-      "date": "Wed, 06 May 2026 20:00:00 GMT"
+      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oa283YzRpWWprSTdBTWRWRGhJazF4OWkyNjdyZ0wzUC1EcExoLUh3cnQybEFfa0ZkMVRkVHdhNGhGbmRVNnJWYkc3SGZjaHZmN3VZbmNKZw?oc=5",
+      "date": "Fri, 08 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "５月９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2WE9Mb2x0aHR4SEp3QTlMNTZsRDVzYjJGRlkycFhqMHRSSGZZdEszaDN2ME9RUXNNNG5WS2VGTzhCVEQwaG1qVWlTb3pYdUlHS1hHYkpQeXNCR2JtTmY2dkIzV0l2SVBCWDN6amtwRnpQUdIBd0FVX3lxTE0zNVhTNF9QZEpsQzIyRDRKcGtVUmZId3g0WW5hRFRwWEg5Q1dWV3Q4ZW5GbDZOVHMtTTFEVUs1UEJabTJYbkg4SzdYV2Z0R2FmTEQxZlY1cUtva3V0Q3JsYTBrZGU1T1hLU3AwVzFEakJpVURoTTNR?oc=5",
+      "date": "Fri, 08 May 2026 20:14:35 GMT"
+    },
+    {
+      "title": "５月９日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMzNib3pyWFUzd0hmeEsyS1JQYkk2TXNMRHNrd2w0WlpORHFQc3FVMC1LLWVKRlhjd0ZXbERLRGptdktiMzQyV2liVzVfWnUtdzRhTDVJcw?oc=5",
+      "date": "Fri, 08 May 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "山形市で酒気帯び運転の疑い 48歳の男を逮捕 交通事故の通報受け判明（2026年5月8日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3BCZ3ZrcVdPUEFvc3pQaVI5bUZjcFFTVW9EYTRrS2k0MFdRT3ZhUDJlYVRzSmp6SG5FU3pQQkxCSVRNVGNnZUROWEtrVzVzTTc4cVVVZUY1NmxTR0hkc21lbU5zREtsRnBMOFp0QTlsVndTWVFaaEc4RFR5TnJzRXdSYnFvb3c?oc=5",
+      "date": "Fri, 08 May 2026 07:03:00 GMT"
+    },
     {
       "title": "【現場画像】1人が意識不明に 山形市嶋北で交通事故 車体は大きく破損",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12eU4yR3VlNkx3WnRLUmNraXIxcWpFUzliXzdrVFZrT1FHUHRNemp3Y1ZXbW5aR01oeHlkXzdnWVM2MENydkZPYU9EMzN3N24tc2hiRlRSbUU2QXk2cFMweXd2bEgxb1k?oc=5",
@@ -102,19 +107,14 @@
       "date": "Sat, 09 May 2026 03:06:00 GMT"
     },
     {
-      "title": "山形市で酒気帯び運転の疑い 48歳の男を逮捕 交通事故の通報受け判明（2026年5月8日掲載）｜YBC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3BCZ3ZrcVdPUEFvc3pQaVI5bUZjcFFTVW9EYTRrS2k0MFdRT3ZhUDJlYVRzSmp6SG5FU3pQQkxCSVRNVGNnZUROWEtrVzVzTTc4cVVVZUY1NmxTR0hkc21lbU5zREtsRnBMOFp0QTlsVndTWVFaaEc4RFR5TnJzRXdSYnFvb3c?oc=5",
-      "date": "Fri, 08 May 2026 07:03:00 GMT"
-    },
-    {
-      "title": "交通事故が発生し発覚...酒を飲んだ状態で軽乗用車を運転 無職の男(48)を逮捕（山形市）",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNXpNMWEyTS1tdDkzTWhybnZwVzNIN2RNalE0YWRLenVSWDMxS1U2LUlFMVRuUWFhQWFZdzdlNnU1VEV3OHhEOFBxVDBiNzFsNGNmdGphbw?oc=5",
+      "title": "交通事故が発生し発覚...酒を飲んだ状態で軽乗用車を運転　無職の男(48)を逮捕（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUk1lS2lhNHdfLWhZTURQbGhFZVo2empUVXhDbjRwVFBVY0RoZkNyQkFXeDRBUGlMQlVFWGJsM3lWQ3E2enA3RnJxdFBFbHBCY2FveVhKZFlSbkNhTzhPZ2JoNFZPazk5UDlMWjNBSdIBdEFVX3lxTE9paUpaNVRURVFYdjFWWnA0SlJtMW5CcmpoX1plNWQweE1JdkVBa0FWellSM0U4M3VsNWVVamk0UUkwWGJ6YzJUT1ZYdDFxNjhwMVpFOTRqQnM3T1hFMlNrSnM5Y2lCcTZXZUdmVGZyZ2JuWGNR?oc=5",
       "date": "Fri, 08 May 2026 07:36:00 GMT"
     },
     {
-      "title": "山形市で酒気帯び運転の疑い 48歳の男を逮捕 交通事故の通報受け判明 (YBC山形放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblkyZVRuY0dyMHItQ01ia3VnVGRicjRBUVQ3NzhRblRRcTBfdktYM3pFaGxwWHlYMzdjOW1OYXBoMmZ4M3QtaHR5Wks1aVJ3WnRqSzM2bkR0WHlITDQwTUlNT01nclduVEZUdUx6TmxzMW1QTWZQc0JFWHQ4ZThhaVZnYmtkclhFaGF1a0dB?oc=5",
-      "date": "Fri, 08 May 2026 07:03:00 GMT"
+      "title": "交通事故注意！連休ドライブ、締まっていこう 出発前の点検大事",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hTlBqQWtCeE5DUURfNGV4N294YXQ3MUNwc2taVnEyOTlGNWdZWFVNWVUtcnN3U213YXpFQWlIVTNfckZwOGFSOVlXQlMxU2VLSmtsb042Sld0cmNRdTRhQVdWeXBiemZlTTN5Y09pTQ?oc=5",
+      "date": "Sun, 03 May 2026 01:14:00 GMT"
     }
   ],
   "official_links": [

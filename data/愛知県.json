@@ -1,101 +1,96 @@
 {
-  "generated_at": "2026-05-12T00:04:14.913792",
+  "generated_at": "2026-05-12T03:04:34.003547",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 17.4,
-    "temp_max": 23.7,
-    "temp_min": 15.4,
-    "precip_prob_max": 25,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.6,
+    "temp_max": 23.8,
+    "temp_min": 15.0,
+    "precip_prob_max": 8,
     "precip_sum": 0,
-    "wind_speed": 3.5,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.4,
+        "temp": 17.0,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 16.2,
+        "temp": 15.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 15.5,
+        "temp": 15.1,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 19.0,
+        "temp": 18.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "12:00",
         "temp": 21.9,
-        "weather": "晴れ",
+        "weather": "曇り",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 23.7,
+        "temp": 23.8,
         "weather": "快晴",
-        "precip_prob": 25
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 21.1,
+        "temp": 20.8,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 18.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 18.1,
+        "weather": "晴れ",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月10日（日）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZjQ2QzBGVnY2VDlhMHd2NWdjUmcwNFZ2M05fVnNEbjB5TEc5dTJDQWpoMkxJUEt2MnlJMWRFV2k1SF9oQTBTemxqM08yOWFIWmUwQ3U0YUFqZjFseWdaR3I4bkhIUWxQaTVtN3V2ONIBdEFVX3lxTE9uUC1LcVpnVkFCSld3b3hKTEwwaGtxbDZjdWxUcVNoZTBjUjF6TmFtM1RQTndxRTFBb2M0Sm02dVNNZ0pqa2lrUUtJdWNXd2NNSlpfTVZUd2l5VzZfV1JkTGZmMkEweU5sdDVvelJzb2pFOTRP?oc=5",
-      "date": "Sat, 09 May 2026 20:11:11 GMT"
-    },
     {
       "title": "銃刀法・火薬類取締法",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZnF1ZjlDTzh3Z1BVd0lNbnJvNV9jb2hJU0c4X0M4WkJvVlBkRjkyeG4yQ01XZGFPWFJlMEgzejFYNXMxd3ZVa2V6Ym5KSUJUcldWeEkzQWlObmFtY01N?oc=5",
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月２２日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
-      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+      "title": "「可搬式オービス」による\"取り締まり情報\"を警察がSNSで発信！ \"抜き打ち\"じゃないのは一体なぜ？ 愛知県警と大分県警に聞いてみた",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03eURDcC1aVEx4YzNZNXJ4enlmLTVnVUhlNTczNFZTWlFpamZoRGhnTVdEQ3l4dkFHUmdsVjVhVks1Yk5BcGY2enFR?oc=5",
+      "date": "Sun, 16 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "5月10日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZF9sU1phVFVHRlRFVmE4QlpyT0o5TGEweHNuSWpBYjhHSVRpSWx0ODBtZ2llbnB2M2p6enNKd3FmSmQzSHdXNDZzN2RqNUlTcjZEZWVyM1Z3OFM5LWhrS1JEWUdYcm5ibkZEMm8zONIBdEFVX3lxTE45d3QwTElsNENjdEtTQzF4T2tLUnpxRFJMWDgtQzhrZ21QcndiVEMyek9xekoxRVd3ZTJGYlBqQno2Qi10VkE2Qkd2M1dIQTZLNmlRRHZxd3IxekRlRFB6TmNhRTdXb1hCOTVja2hveFBlbkZt?oc=5",
-      "date": "Sat, 09 May 2026 20:02:00 GMT"
+      "title": "自転車青切符 愛知の違反は250件超 相次ぐ“便乗詐欺”も… ｢現場で反則金を受け取ることはない｣ 高校で警察官がルール呼びかけ | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (4ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3aHRUMW5fZXJBeE56cTNNQWxzYTJmUmNYMGZWZVNJQnpCZWpOdDFnNmN2M0M4b1BjcFRkVTBWWTkwa0IyZFdYQW1vMVVKX1N4RmpUNms0ZWFidm9mWTRWYktDUQ?oc=5",
+      "date": "Fri, 01 May 2026 10:02:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "名古屋の基幹バスレーンで後絶たない違反車…「危ない」「バスが遅れる」苦情多く警察が取り締まり実施",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiUE5pYmQ2YUxnZm5wSkZTNkluWGJHb19Gd2hHR3dORENxUWxJUlRROXBxRmJhTUdxREJqanhtR05aeVAtX210cVdDQkJwN1V1a05BMg?oc=5",
+      "date": "Wed, 21 Jan 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "「連休中の交通事故にご注意ください」 交通事故専門の弁護士法人しまかぜ法律事務所がコラムを公開",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaQlJaQkFnWjFVeFVzaTRkQWJYZWpHeUwtR3BaRlhrNlBNXzNfWVRCemxVZEZOWE5GUFladjliSjRPY2tyT1ZzU2thcEVkSWM?oc=5",
-      "date": "Fri, 08 May 2026 03:00:00 GMT"
-    },
     {
       "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
@@ -115,6 +110,11 @@
       "title": "本年２件目の交通死亡事故発生",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4c0s1dlpiY2ZWM0I5aEliQmdic1JEOHdRQmtqRTFMWEpOOFBnR0l3NHFoWXY5ZldJZnVaOFllRlY1UnpyM1FFWnliRzdNNkpla0xPeWM0d3JlZjhXcEZkZHE4ZEVnSXdqMkhHRmVPZldXZmtKWm1qSG5pdw?oc=5",
       "date": "Mon, 01 Dec 2025 06:20:06 GMT"
+    },
+    {
+      "title": "愛知県一宮市の妊婦死亡事故、禁錮3年を求刑 被害者の夫「現在進行形の被害にも目を向けて」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FVkI5aUdYODJNbnNxLU5iODBNOVY1eWZodm9DZDM3RjRCd3ZjUGFqTm1sR2FhdWdWM24tNmd3aHJtemR3T19mdEdaUl8zUnl3dVMxQg?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-05-12T00:05:57.741836",
+  "generated_at": "2026-05-12T03:06:08.464679",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 16.0,
-    "temp_max": 22.0,
-    "temp_min": 14.5,
-    "precip_prob_max": 64,
-    "precip_sum": 0,
-    "wind_speed": 7.0,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 15.3,
+    "temp_max": 22.1,
+    "temp_min": 14.7,
+    "precip_prob_max": 26,
+    "precip_sum": 7.1,
+    "wind_speed": 7.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.0,
+        "temp": 16.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.9,
+        "temp": 15.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.6,
-        "weather": "快晴",
+        "temp": 14.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.8,
+        "temp": 19.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 21.9,
+        "temp": 22.0,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "15:00",
         "temp": 21.8,
-        "weather": "晴れ",
-        "precip_prob": 39
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 21.1,
-        "weather": "曇り",
-        "precip_prob": 45
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 18.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 45
+        "temp": 18.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 14
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月10日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZF9sU1phVFVHRlRFVmE4QlpyT0o5TGEweHNuSWpBYjhHSVRpSWx0ODBtZ2llbnB2M2p6enNKd3FmSmQzSHdXNDZzN2RqNUlTcjZEZWVyM1Z3OFM5LWhrS1JEWUdYcm5ibkZEMm8zONIBdEFVX3lxTE45d3QwTElsNENjdEtTQzF4T2tLUnpxRFJMWDgtQzhrZ21QcndiVEMyek9xekoxRVd3ZTJGYlBqQno2Qi10VkE2Qkd2M1dIQTZLNmlRRHZxd3IxekRlRFB6TmNhRTdXb1hCOTVja2hveFBlbkZt?oc=5",
-      "date": "Sat, 09 May 2026 20:02:00 GMT"
-    },
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
@@ -88,6 +83,11 @@
       "title": "自転車の「ながらスマホ」は反則金1万2000円！4月1日から“青切符”導入、宮崎県警が指導取締隊を発足し駅前で啓発",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWZMM1RQTUpzUEl1MnRURFlaZFAteFU0Q3JUUXJQOTJCeW5ibmY1ekd5VlNUSWJaeVV1TnZrbjJiamRuVERYTkVGbUtOdGdYRHFMUDRrNVBRZHVmbXlnV1V5blJOWE5EMlVRVXRlaGJnRjlEVy1seW5Od0wtaDJ5VTN1YUdCQmM?oc=5",
       "date": "Tue, 17 Mar 2026 20:16:08 GMT"
+    },
+    {
+      "title": "ガザ南部検問所、限定再開 イスラエル、運用緩和焦点",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PR3dXN0dHQnBJRlpibjJaSlpnM3Q3cVJZanBTcXBZSERJd2IxQ3RsVGVGVmUzaXdpUnhlRE9aazlSX2dxRTFlSkFXcWxQYVhqNENhd044eFlRblBzVEloMUJ2aE1rcERSMEo2U2ppUDJhSjg?oc=5",
+      "date": "Sun, 01 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Tue, 04 Nov 2025 08:00:00 GMT"
     },
     {
+      "title": "【日録交通死亡事故】8都県10人［4/29］千葉・茨城で1日2件、宮崎県新富町で6年1か月ぶり | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tMTF6OW5sVUNVV2lSUlhiOGVZenM0M05DUHdpVXZvSFEwWFcwZVZ3b0lQaVV4emRrWWIzTTVTQWIzdFBqRUNYd2wzQzd4dXIycXN6QTZuNl9scTlCMUEw0gFkQVVfeXFMTk5WZHVYYkwxQklmUFdyWkZJN2hPYzJjLTlMcWFZZVFFcTU4dDktNFc0aE53TGROQ01SRjQtRXllaHdfZjhkdlUtODV6Mm55MFVQSXlGN2hmZFF4dzV2bG9QRlBmWg?oc=5",
+      "date": "Fri, 08 May 2026 13:49:05 GMT"
+    },
+    {
       "title": "自転車のヘルメット着用呼びかけ 事故の当事者も参加 宮崎市",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JMUo1NkxyQTd0Mmk1anV2a3JkOTlsdjBiam0yakpPS2pNQ1dvLUJuQVRKM2dqR3dldGd4SVltMVdJTWVwNmJTdEJIUHVYNVVhTldkbVROb0E?oc=5",
       "date": "Fri, 01 May 2026 02:38:00 GMT"
-    },
-    {
-      "title": "GW初日 佐伯警察署が宮崎県警と合同で安全運転呼びかけ「事故無く楽しい旅を」大分",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sUF9wQnlsTVktNmUzUU54NEZvZ2NhTUt0QzFKM3VFZDlpLWNiRlF6QUFrM0RPWGdmaVFiSWVFeTM5Wjh6M2xsMDdYUDR0V09WZGU5UHRWdkcyS3Rt?oc=5",
-      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "高齢者が運転する軽トラ同士が衝突 87歳女性が死亡 都城市山田町の市道で事故 82歳女性もけが",
