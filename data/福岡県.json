@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-05-12T03:05:46.759790",
+  "generated_at": "2026-05-12T06:05:00.177146",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 14.8,
-    "temp_max": 22.2,
-    "temp_min": 14.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 14.7,
+    "temp_max": 23.3,
+    "temp_min": 14.7,
     "precip_prob_max": 47,
-    "precip_sum": 7.0,
-    "wind_speed": 4.1,
+    "precip_sum": 3.6,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.5,
+        "temp": 15.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.8,
+        "temp": 15.0,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.9,
-        "weather": "晴れ",
+        "temp": 14.7,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
+        "temp": 20.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 20.9,
-        "weather": "弱い霧雨",
+        "temp": 23.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.5,
-        "weather": "晴れ時々曇",
+        "temp": 23.1,
+        "weather": "晴れ",
         "precip_prob": 10
       },
       {
         "time": "18:00",
-        "temp": 17.2,
-        "weather": "霧雨",
+        "temp": 17.8,
+        "weather": "強い霧雨",
         "precip_prob": 24
       },
       {
         "time": "21:00",
-        "temp": 16.0,
-        "weather": "晴れ時々曇",
+        "temp": 16.7,
+        "weather": "晴れ",
         "precip_prob": 47
       }
     ]
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "福岡ト協、事故防止・環境対策助成の受付開始",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzdTMxSFdFNkVyd0szS1ZTd0c3eERsa0VFNEVIMzVjdlFlLXkwZWt6OWN3M2lyT0hfaXJaQ0cwdmNPTkZkV3I5UQ?oc=5",
+      "date": "Mon, 11 May 2026 19:48:23 GMT"
+    },
+    {
       "title": "【続報】福岡・春日市で死亡交通事故 軽自動車と歩行者が衝突 近くに住む71歳の女性が死亡 横断歩道がないところを渡りごみ出しか",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0NXBkTUpILWRpZ2pxOVRaZmsyS1BVZ05MekNMaTd3NF9EY3pwVTFNS3JGWnBtYXg0alpBM1BmR1dFTElxN3dlRWFIMDV2RkY0TXpGQnlZNjI2QXlBR2p1UjBZYw?oc=5",
       "date": "Mon, 27 Apr 2026 07:00:00 GMT"
@@ -102,19 +107,14 @@
       "date": "Fri, 01 May 2026 00:16:00 GMT"
     },
     {
-      "title": "高齢者ドライバーの交通事故防止目指し交通安全講習 福岡市城南区",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wSHctS1AzV2dneUZGRk82dk53SU5hVHVZWXp2MVBKZDRIZnhYU3VmaldCSTd2UGFwWm5UZVlrUk84NXJOZm0zZlc4amtJbjJFYTZzbnNRdw?oc=5",
-      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "「スパーリング」実際は暴行か、死亡の男を書類送検へ 傷害致死容疑 [福岡県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ORldGUXFLR2poZVRDTzhHOXVzT1ZLVzg1WXV5UWE4UVRVY05iak1YdFhvbU0wSkFIM1Q1bzZFaWtTRFJKMlJsOEpadXd5bllJU1hOWU05cU5MSmdNekk4U0YzU0hQRDQ?oc=5",
       "date": "Mon, 11 May 2026 02:00:00 GMT"
     },
     {
-      "title": "「スパーリングをしていた」大学生が死亡 通報した知人を容疑者死亡のまま書類送検へ 福岡（FBS福岡放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQUpVNHJ1cDY2dEFiWklTZEp0Yzk3UXpaUGdTRWZBcEFQd3Z4bHJ5YTlDdWthSUg0UXNCd2JjNGZxUUh1emNSR1Q5bEJCeFktYmFfMGloWEMyeEdZaGZ6eXFZUU5hY1NEZ0lMMEFLYjhDZXVaLVhiSWF3dEtZQW8?oc=5",
-      "date": "Mon, 11 May 2026 08:18:01 GMT"
+      "title": "大学生死亡事件 「スパーリングしていた」通報の知人男性を書類送検へ（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PT01RaXBERE9yc283MEpROTUwV0c0TEpZYnBNZHFjZ0pLZUVpaHBJakRBRVlKOWMzMVJMbGZOczhwa0NMNzJGTWZBN3N2aGhCc1o2WXlTV1dMSUhBcG1XNEhtM1ZqdWFjbnBsY0h3TWZ5cWNETGdTZi0yZHRoSlU?oc=5",
+      "date": "Mon, 11 May 2026 10:11:01 GMT"
     }
   ],
   "official_links": [
