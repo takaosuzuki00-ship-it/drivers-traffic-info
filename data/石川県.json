@@ -1,100 +1,80 @@
 {
-  "generated_at": "2026-05-12T21:39:16.830794",
+  "generated_at": "2026-05-13T00:40:16.563110",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 17.6,
-    "temp_max": 22.5,
-    "temp_min": 13.7,
-    "precip_prob_max": 91,
-    "precip_sum": 0,
-    "wind_speed": 4.2,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.0,
+    "temp_max": 21.1,
+    "temp_min": 14.6,
+    "precip_prob_max": 51,
+    "precip_sum": 0.1,
+    "wind_speed": 5.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.8,
+        "temp": 16.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.8,
-        "weather": "快晴",
+        "temp": 15.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.2,
-        "weather": "晴れ時々曇",
+        "temp": 14.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.1,
+        "temp": 17.3,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.1,
-        "weather": "晴れ",
-        "precip_prob": 24
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "15:00",
         "temp": 20.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 84
+        "weather": "晴れ",
+        "precip_prob": 51
       },
       {
         "time": "18:00",
-        "temp": 19.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 84
+        "temp": 18.0,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 17.9,
+        "temp": 16.9,
         "weather": "晴れ",
-        "precip_prob": 20
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "【交通取締情報】福井県警 ４月１日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
-      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１８日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV290Q2NxRDVkejJsdUNnb3BFRzJUTVdqVm1ROWN1SDQtZXJoNHFQZVEzY0lVNVdlQTlRa0d1RUFia2hueTZDRk9PbzVkb0RORWpDbVFRS1ZMY096QXc?oc=5",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
-      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "５月１０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OZEpheldsNERLaDUtVlpVQkp1Z0E3ZTNacEl0ZjJxMDBQa25WVTgyaXFSOWFzelhuSGhtdlkxODFyVldRRlpQZFRlX3NBUFJlTGVsZWJnZTNBUmltSFZ0aGx3MUVLbFJJMk4zdDAzN0FQQdIBd0FVX3lxTE9wemN6bExrSVZUVExnZERJeDdzQkxkb0ROd2dsMEgyNFp2bnJtZ2Z5S01CajNlaXhVakVEZ0FscGUzN0dpYnlPR0loakpORlUzWUpKa0MwY3hxMndzRGI1dWdOMWRtQ3NMQmpPei1UdjhQLUI4aHpr?oc=5",
-      "date": "Fri, 01 May 2026 07:00:00 GMT"
+      "title": "綱島駅西口を駐車違反取締の「最重点地域」に新指定、日吉駅周辺も重点地域を継続",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zRVZtV2hkNmRlYXQyUVpyNnVBX3NXekNNZElDWVJXNzRRb096b1NzWkJVWjVoODc2Mzl1OTZITk1lVGlhU2U0ck52MHR5YWpRaUNRUUtmT2RHNUpYQkE?oc=5",
+      "date": "Tue, 05 Jul 2016 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "「正直、細かいところはちゃんとできていない」 石川県では学校関係者の本音も 磐越道バス事故を機に浮き彫りになる指針をめぐる課題（MRO北陸放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nTzZiUlJJX2hRbmxHcll6OWlsN3ItUEtianJDQUlPRGpWWXBteXk2YlBSVS1vM2h2WGxNRXpHejlpVHFuanZJbnNkWm5XQmRJd0dYTXVMQjNXNmVZRDYtMDYzQnhGY1ZjSTFtc3NoRmFEMDlmaTVwQnFURmVWcVE?oc=5",
-      "date": "Tue, 12 May 2026 10:05:24 GMT"
+      "title": "「正直、細かいところはちゃんとできていない」 石川県では学校関係者の本音も 磐越道バス事故を機に浮き彫りになる指針をめぐる課題",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUXZ6b0xxWkhxUDgzakhfWThfd1VlVzJMSlJNS1Fzdk1sQVhkak84QzZOVzdPTElpeFZOWTFKOFhLS2tCMWFIX05DSVMxRjN6bnI4VHdwMExSaU9IeDk1bg?oc=5",
+      "date": "Tue, 12 May 2026 10:04:00 GMT"
     },
     {
       "title": "石川県金沢市の国道8号、交通事故で車線規制 4月25日朝、金沢河川国道事務所発表",
@@ -102,19 +82,19 @@
       "date": "Sat, 25 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "「正直、細かいところはちゃんとできていない」 石川県では学校関係者の本音も 磐越道バス事故を機に浮き彫りになる指針をめぐる課題",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tVXVqZTEwOWlMVzk3YmFyYWphTVhaelpBc2l0UjktYjl4cnd1NElaSHdVY0JCbng3cWs0Y2lUSUp5NzJvQnpZNXZtSHFkUXdaaWpnazk3bFptYjdxOFlqQ3ZCclRWbWdTbnBfTTZFQjRVY1gzYVBUWnAzTQ?oc=5",
-      "date": "Tue, 12 May 2026 10:12:00 GMT"
-    },
-    {
       "title": "春の交通安全運動期間、事故４２件、死者ゼロ 石川県内｜社会｜石川のニュース",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbFlvRWNzSks1NE16dkRtWTd0dkpLd1UtSHVMYXhranpabXl0d0xYOHBRSkJIeFhGMnVsMHZ2WkRSVEZhVmdyOWtoQ24wdXNhUG1zRkx5MA?oc=5",
       "date": "Thu, 16 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "「特殊詐欺被害 ３か月で14億円」 ”特殊詐欺”と”交通事故”抑止 商業施設で注意呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5bl85dktGb1YyYkZxekZwcFNxRE81M1hfV1J4TnpXSVExVmw4VWg1bWJEb0I3LUJTN29mVXR0TjkzU3dKMk82VFNFdTlaYTdDbnZHazdCcjJ1bFV4NndKalc4VXhCYVk?oc=5",
-      "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+      "title": "「正直、細かいところはちゃんとできていない」 石川県では学校関係者の本音も 磐越道バス事故を機に浮き彫りになる指針をめぐる課題",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tVXVqZTEwOWlMVzk3YmFyYWphTVhaelpBc2l0UjktYjl4cnd1NElaSHdVY0JCbng3cWs0Y2lUSUp5NzJvQnpZNXZtSHFkUXdaaWpnazk3bFptYjdxOFlqQ3ZCclRWbWdTbnBfTTZFQjRVY1gzYVBUWnAzTQ?oc=5",
+      "date": "Tue, 12 May 2026 10:12:00 GMT"
+    },
+    {
+      "title": "国道交差点でトラックが自転車はね50代男性が死亡 運転手を過失運転致死の疑いで逮捕 石川・金沢市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3luTjB2My1lWkxpVVI0dG42ellXWVVicC1zTEZybFltUEZEWThCVnpmT2REakYxVTdzQmo5S1oxRW9ubnZkcU1EM211R3VGSGFvUk45YzRWd0dpaFV3LWxrdFZjVXRYb0EtS1F1eW9kYmlFdXI4QkVuM0VQSmE4UV9ocktwOEk?oc=5",
+      "date": "Thu, 19 Feb 2026 07:13:37 GMT"
     }
   ],
   "official_links": [
