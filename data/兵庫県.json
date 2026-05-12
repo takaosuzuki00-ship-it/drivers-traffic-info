@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-12T09:04:04.656042",
+  "generated_at": "2026-05-12T12:04:25.211687",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 20.4,
-    "temp_max": 23.5,
+    "temp_now": 22.9,
+    "temp_max": 23.7,
     "temp_min": 16.6,
-    "precip_prob_max": 6,
+    "precip_prob_max": 16,
     "precip_sum": 0,
-    "wind_speed": 3.1,
+    "wind_speed": 6.0,
     "hourly": [
       {
         "time": "00:00",
@@ -27,43 +27,48 @@
       },
       {
         "time": "06:00",
-        "temp": 17.0,
+        "temp": 17.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.4,
+        "temp": 20.5,
         "weather": "快晴",
         "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 23.3,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "15:00",
         "temp": 22.3,
         "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 19.5,
-        "weather": "晴れ",
         "precip_prob": 2
       },
       {
-        "time": "21:00",
-        "temp": 18.2,
+        "time": "18:00",
+        "temp": 19.7,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月２２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
+      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -75,26 +80,21 @@
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月１２日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
-      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "警察官2人を懲戒免職 麻薬取締法違反の罪で起訴",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tYVgteG95MWR5Tk1sdDM4dnZZaThkcnRCQXZSdmFnVjlEbEJwdjBhQkhNLVBlSWRET2NGeURtTko0aFk0VTlwaGtOOWVtTXNsR3JUN19GcWtGTWRFN1R3TzVVaER0dzNa?oc=5",
       "date": "Fri, 28 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "国交省怒りの命令「すぐにクルマを直しなさい！」 不正改造車「6台」をその場で\"摘発\"！ 走り屋の聖地「六甲山」集結の\"大迷惑\"「爆音・ハミタイ」のスポーツカー検挙を実施",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RWVRQNl9HU0d2a3lZMnBVdUk5SU5KOTBuYXpOVWc2YkhfOFFmcWZTb0VSSHROZmR1bGItS0Z5WDJzYzhjOGhVa09n?oc=5",
-      "date": "Thu, 06 Nov 2025 08:00:00 GMT"
+      "title": "解除の夜ですが…「飲んだら乗るな」 兵庫県警、飲酒運転警戒へ検問強化",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTVKcU1mNmttRjhNdkhINmZMR2NrdE9KODJDWlVEWnZvTmhfa3BXNVJPS1V4OWN3X3JmS1NCbnJzVmFqR1RFVjRiTU5NVjB3X28xTDNhbEsza2tLTGpSdE95QlZZWHpTSEJwajR3?oc=5",
+      "date": "Fri, 01 Oct 2021 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "交通事故ゼロへの願い「大きくな〜れ」　兵庫・明石郵便局で「ひまわりの絆プロジェクト」",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVphaGtiRjRQaFVjZ2NSc3RjazBiVV9PWGJFS0xnLTZtMHJYSlY0RkkzSFMxWUVlYUtRaExoZWVfUzNzQ05iV1VhSlJCbU5kUkZtY3IxMlRZTkNzSGtBUnYxbnNPVkdSRWV6Zm92b3prbXFQTGJ3VHE2Sm11eTJMLTB1eEw3WWJqTGdfRDNRemw1T1FucC0ycXpaMy0xS1JrQ2hpOS1MZ25tQ2pNV0pvMNIBowFBVV95cUxQVzhpNE9aMXlDSE1xX3NDMTNjZGwxYnM0dDRwakRqYlEwV1FoM2w2TlBsbmxSV0hGc3lLTFVMS3hOOENzQkpsa2dRNFlET2lhSGZBek9mN1k3U2lucUxmOGhqbjNLaXRHS0k0dGFqdEJOQ0F5bHAxQ1g1ZXVfeEFHRS11cDZtbS1pdFJzV1pKSHhwYnNEcVNsUF9zMFM0cm9uZjVZ?oc=5",
-      "date": "Mon, 11 May 2026 23:24:25 GMT"
+      "title": "交通事故ゼロへの願い「大きくな～れ」 兵庫・明石郵便局で「ひまわりの絆プロジェクト」（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMnpyaGZwVmx5WkM0c2kwS2F0dGNiejRaNkFiTFBrUnZxcDRtQWJ2UF9iRzdXb0pieTRBQ3FOLURWUXBXOFFPX09wYmFFWERzU3RDeUt1X3RBc3h2MGZBdTJsV0JtY1hpbG1JelBUbS0zY001OTEtaVVlZkg3TlE?oc=5",
+      "date": "Mon, 11 May 2026 23:46:38 GMT"
     },
     {
       "title": "職務質問中の警察官を振り切り、バイクで引きずった容疑 20歳の男逮捕 兵庫署|事件・事故",
@@ -102,19 +102,19 @@
       "date": "Wed, 06 May 2026 02:13:39 GMT"
     },
     {
-      "title": "大会に向かうバスケ部員乗せたマイクロバスなど４台、加古川バイパスで玉突き事故…高校生１人含む３人軽傷",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTDlZT1pVbUFkMVdpTVk4dFgtUG5Ycnc4bHJXT2I4Uk52YS1aWmZkd1RjSjNJRUx1M0VNSlY0Tm5ETzlSV2hjUGZlSHlxMmp4VGlUMnpOdTFoYldpc3FsRXd3SUg0UkdXaVlBYm1WOXowYTZUdHUtUEFteEN3N00?oc=5",
-      "date": "Mon, 11 May 2026 11:40:00 GMT"
-    },
-    {
       "title": "神戸市兵庫区の衝突事故 軽乗用車の運転手も逮捕",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53QkcwbURfdXpVZEs3aGEtQjhYN0o3bnA4bDE1eW1Vd0E5dEpiWlMzT0xXa0MtTkZtUEsycnpJbUNvS2lZT3B3MnRzOUxrTWpuXzkzNDZId0cwZ3I0NHNuS2w2Q3FWMlRL?oc=5",
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "部活マイクロバス追突事故、兵庫 高校生１人含む３人軽傷",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWtwUDV2NHZ5LUM1NDdyYkNfUWFUVEtxQlRRRTRnWWxLS3Q5MVN5MDlpaUlBNTE1TmZ0Y0VPUEFaNVh2TWViRnlQWERCMUxoeExTNktkLUdkT3pEVkFrN1d3U1dmZWJlTTlUdXVyazJieVJtZVpvaERIbnlqOVJScEV4NzY1cnl1em1ydW5mU2t6S2xkVmpCdm5vdVdyRGEzZ3J6SUZn?oc=5",
-      "date": "Mon, 11 May 2026 20:44:34 GMT"
+      "title": "兵庫でも高校部活動のマイクロバスが追突事故、３人が軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PN2FEWFA3ZXhCV1liUDFhRlVJenJvLTJDSEVTTGsxdjVzU0FJWDN3d2ZfQi05Q3FHanJsOHYtTlpJZHNWRTVPQWtxX3Q4eWs3dVlpZDVPT3ZTNkNINUE?oc=5",
+      "date": "Sun, 10 May 2026 04:30:00 GMT"
+    },
+    {
+      "title": "南あわじの国道でひき逃げか、92歳女性死亡 容疑で軽乗用車運転の53歳男逮捕、一部否認|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GRWxycHc3YkxxN0NmVkQxSVlDN3NHNGcxR0xhS3l1dU8wbW53VzhBMDJFQm5HaUlDbjA5djdpeFNjYkNvNnlvMFFTbV94LTNiV0ZETVFGQ014dEpBbVVLZXk4dl9lYWRXeTZTMGJPbVRRdVdyRWVQX0lyVQ?oc=5",
+      "date": "Sun, 10 May 2026 10:29:52 GMT"
     }
   ],
   "official_links": [

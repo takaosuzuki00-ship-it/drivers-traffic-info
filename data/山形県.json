@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-12T09:02:47.697987",
+  "generated_at": "2026-05-12T12:03:03.704285",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 19.3,
+    "temp_now": 23.0,
     "temp_max": 23.3,
     "temp_min": 13.9,
-    "precip_prob_max": 17,
+    "precip_prob_max": 18,
     "precip_sum": 0,
-    "wind_speed": 2.0,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 14.7,
-        "weather": "晴れ時々曇",
+        "temp": 14.8,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.3,
+        "temp": 19.5,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
         "temp": 23.0,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 22.3,
+        "temp": 22.1,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 18
       },
       {
         "time": "18:00",
         "temp": 19.9,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 16.9,
+        "temp": 17.1,
         "weather": "快晴",
-        "precip_prob": 6
+        "precip_prob": 0
       }
     ]
   },
@@ -92,19 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "【現場画像】1人が意識不明に 山形市嶋北で交通事故 車体は大きく破損",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12eU4yR3VlNkx3WnRLUmNraXIxcWpFUzliXzdrVFZrT1FHUHRNemp3Y1ZXbW5aR01oeHlkXzdnWVM2MENydkZPYU9EMzN3N24tc2hiRlRSbUU2QXk2cFMweXd2bEgxb1k?oc=5",
-      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "山形市で酒気帯び運転の疑い 48歳の男を逮捕 交通事故の通報受け判明（2026年5月8日掲載）｜YBC NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3BCZ3ZrcVdPUEFvc3pQaVI5bUZjcFFTVW9EYTRrS2k0MFdRT3ZhUDJlYVRzSmp6SG5FU3pQQkxCSVRNVGNnZUROWEtrVzVzTTc4cVVVZUY1NmxTR0hkc21lbU5zREtsRnBMOFp0QTlsVndTWVFaaEc4RFR5TnJzRXdSYnFvb3c?oc=5",
       "date": "Fri, 08 May 2026 07:03:00 GMT"
     },
     {
-      "title": "交差点で出会いがしらの事故 軽トラックを運転していた男性が頸椎と肋骨を折る大けが 山形県飯豊町（YBC山形放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NOVo4M2tOb1pEWUdhWEgySmNTWTRkaHVWazNmM091bkJZN3l5YURId09PbnlaSmZ0b0JEQ0ZPeW9SZTF0S212ZTBScG9kc0tEdElNRDZCdnRZZ3h5eW9FdUVjSWlLRGtaZkcwSXVPMndHYjRJT0cyaUVmUXJ3YmM?oc=5",
-      "date": "Sat, 09 May 2026 03:06:00 GMT"
+      "title": "山形市で酒気帯び運転の疑い 48歳の男を逮捕 交通事故の通報受け判明 (YBC山形放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblkyZVRuY0dyMHItQ01ia3VnVGRicjRBUVQ3NzhRblRRcTBfdktYM3pFaGxwWHlYMzdjOW1OYXBoMmZ4M3QtaHR5Wks1aVJ3WnRqSzM2bkR0WHlITDQwTUlNT01nclduVEZUdUx6TmxzMW1QTWZQc0JFWHQ4ZThhaVZnYmtkclhFaGF1a0dB?oc=5",
+      "date": "Fri, 08 May 2026 07:03:00 GMT"
     },
     {
       "title": "交通事故注意！連休ドライブ、締まっていこう 出発前の点検大事",
@@ -112,9 +107,14 @@
       "date": "Sun, 03 May 2026 01:14:00 GMT"
     },
     {
-      "title": "交通事故が発生し発覚...酒を飲んだ状態で軽乗用車を運転 無職の男(48)を逮捕（山形市）",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNXpNMWEyTS1tdDkzTWhybnZwVzNIN2RNalE0YWRLenVSWDMxS1U2LUlFMVRuUWFhQWFZdzdlNnU1VEV3OHhEOFBxVDBiNzFsNGNmdGphbw?oc=5",
-      "date": "Fri, 08 May 2026 07:36:00 GMT"
+      "title": "山形県内でクマの可能性による被害相次ぐ 死亡事故なら38年ぶり",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMmx4d1hoR1BVODZrbmFTazlqTnhRRUNBR1JCX3Y1blJ0cHRNNDk5VlI5RW9CckI2WVhHUUJtRzZwYjhZdWRkQTlDSHlBdE5acXZudVcyWm9YOE5ZZF95NVk4YXExaDQ?oc=5",
+      "date": "Fri, 08 May 2026 11:15:00 GMT"
+    },
+    {
+      "title": "「片足がないようだ」と緊迫の通報 大型バイクの男性が車と衝突し死亡 4人でツーリング中に車の右側に接触し、もう一台に衝突（山形） | 山形のニュース│TUYテレビユー山形 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xNmtEQ0ZhZEIxX2FlaWR2c0JTLXJWdUtYN09SZUNrWEdRU21JTDlja0ZMNzVabVd0RWNBYU1hd0plSXNNVXduUUJ2NlRrVkxWOE9iUmtJZTIzZjJ2M2l0WGNOTGNfWjg?oc=5",
+      "date": "Tue, 05 May 2026 04:41:00 GMT"
     }
   ],
   "official_links": [
