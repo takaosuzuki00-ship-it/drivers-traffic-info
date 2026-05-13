@@ -1,95 +1,10 @@
 {
-  "generated_at": "2026-05-13T12:03:53.722018",
+  "generated_at": "2026-05-13T15:10:32.902009",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 22.8,
-    "temp_max": 23.5,
-    "temp_min": 12.7,
-    "precip_prob_max": 98,
-    "precip_sum": 0.4,
-    "wind_speed": 0.7,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 15.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 13.5,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 13.3,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 18.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 22.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 68
-      },
-      {
-        "time": "15:00",
-        "temp": 23.3,
-        "weather": "晴れ",
-        "precip_prob": 98
-      },
-      {
-        "time": "18:00",
-        "temp": 20.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 66
-      },
-      {
-        "time": "21:00",
-        "temp": 17.8,
-        "weather": "晴れ",
-        "precip_prob": 2
-      }
-    ]
-  },
-  "enforcement_news": [
-    {
-      "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Z2gzaFJSZjh0MzlUMVl3UEVtYUxlR1I0WlBEdm1aQUdQdl9CU2NWQW9zS3F1d2FqQVNaMU4xV2pqTHR0YWotRDRaZUUxaVlxbGRtZGRNQmVZMkE4UmQ0QnJFdHhsMnFKRkJvMFJDNNIBdEFVX3lxTE1JdFV4LWpweXhkNGFIM2JZbV9obVl1cmplWV9GdDM0TWpYbnE3ZjBkcGxmZmgzX3JEaWtHTUJuQW1mbllLT0NseDhrTXRaMThBeHlBWUk5NGRZS0czQVdLYl9zb1NBWEVkOUZuUmdOYWRiMmxw?oc=5",
-      "date": "Tue, 12 May 2026 22:29:01 GMT"
-    },
-    {
-      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oa283YzRpWWprSTdBTWRWRGhJazF4OWkyNjdyZ0wzUC1EcExoLUh3cnQybEFfa0ZkMVRkVHdhNGhGbmRVNnJWYkc3SGZjaHZmN3VZbmNKZw?oc=5",
-      "date": "Fri, 08 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "５月１３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pMkZuTkRRWjdPamR5S2k2V013TGs5WTd5ZEMzX0t6WGpXX05VM0sxT2syRUFTUXNHLWhOUU5oTUtNZE9YQkNsQW9kZVQtQnJtRUpWcU9XNXZETDRjX0JNMmRFcXFFdGFPV2tmR1kzbTlHZ9IBd0FVX3lxTE1vLTBpUy1ySHQ4bTFfQXgtRk0yR3dLUXczMXVHWmEwd1R6cGpsNUhUWU1KUVp3bXBVV01lSmZFMEVSWEFPS2VKVDc5OEVoQklXcDAzdGdOR01yVmk5RWdUQXRVeXMwcFBqd2FjQVhCc3FPNFVhN0tV?oc=5",
-      "date": "Tue, 12 May 2026 21:17:55 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１９日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kYjAzUl9lVjVsRm5XUHRYNmllSF92VXZDUGhhODEwSThvNDB4emZfM3d1ek16SEdxVjVEQURfaS1wWWJBMzJmU3p3MA?oc=5",
-      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "５月６日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wQUlibVJhY1M3RjlaeTBfZC1XeFpwVUlGRXA3bGJ5X3B6bjFoUmZnZENNVjQ4N3A4cS1Zam5qNHFOU2JBcFhXWEc4RmctcnFMRF9LNEMwbmh1TGlpOVJpQzc1V2cwaENz?oc=5",
-      "date": "Tue, 05 May 2026 20:00:00 GMT"
-    }
-  ],
+  "weather": {},
+  "enforcement_news": [],
   "accident_news": [
     {
       "title": "◇１１日の県内交通事故",
@@ -112,9 +27,9 @@
       "date": "Mon, 11 May 2026 11:35:00 GMT"
     },
     {
-      "title": "ＧＷ最終日に悲劇 磐越道で事故１人死亡 バス大破、破片散乱（福島民報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRVNqcW8weTlNX1l2WGlSME5WMEIxNWQ1b1Y2NTl0TVVZcm5LZ3NDUHc3S29kZ2VYY2dTUnp4ZGpBVG1IS01UWlRyQ3V3QXlzZXpJRHdNdmNGTFVjTDdjMnoxb1JBak1XT0xacU03RGxJbGludlBoSUVFWDhpdnc?oc=5",
-      "date": "Fri, 08 May 2026 07:52:00 GMT"
+      "title": "福島県の部活動バス事故で、道教委が緊急通知 「公共交通機関や貸し切りバスの利用を原則」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMjl3YU43SEtXZ2FwcFVYbG9hckhOeEhYbzVZRVZ4S0ZUYzZOalZqcHRCaGp6dzZLLS12R1FwVHNPRURSeGQ5VEZrVFY3OGpxUG51Z0lwTnVidw?oc=5",
+      "date": "Tue, 12 May 2026 09:53:00 GMT"
     }
   ],
   "official_links": [
