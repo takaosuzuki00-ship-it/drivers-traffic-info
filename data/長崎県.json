@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-13T09:05:53.995968",
+  "generated_at": "2026-05-13T12:06:23.508925",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.2,
+    "temp_max": 22.3,
+    "temp_min": 16.0,
+    "precip_prob_max": 50,
+    "precip_sum": 0.1,
+    "wind_speed": 7.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.9,
+        "weather": "快晴",
+        "precip_prob": 16
+      },
+      {
+        "time": "03:00",
+        "temp": 16.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 16.0,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 19.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 50
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "すでに「警告」２件 【長崎県知事選挙】選挙違反取締本部設置 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
@@ -16,9 +75,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "衆議院議員選挙違反取締本部を設置 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWQ2c1bm1UcXdVWXRNdVk2Z2pwNnhybVZWME9sUzk1d09ReFVqT0VMZ1Q0dXcydW5DcG0wcEwzZjRKMll3ekJXYlNxVU9LT2NRVmM2NS1NVXgxU0Y2RnhTaFEwYk1zb3c?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+      "title": "すでに「警告」２件 【長崎県知事選挙】選挙違反取締本部設置",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HaXUyQmRKSDZoSVo4Uno4c2tZLXRha2FvUjdHbHNLd1ItcjlQYTV0VHFNd01pb3poamlmb0dQeEdONHprMEx0cjJHUFRHTVhVR3V3MjhuYw?oc=5",
+      "date": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "【知事選】県選管「衆議院解散次第で投票日の変更検討も」 県警は選挙違反取締本部を設置《長崎》",
@@ -32,6 +91,11 @@
     }
   ],
   "accident_news": [
+    {
+      "title": "明け方の交通事故…道路を渡っていた男性が車にはねられ死亡 片側1車線の見通しの良い直線道路",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03SFBoVmxXSDM4eDFkM0ZXUEZXZGpOQzl2dkQ0TjJScldvc2JTa0lXcWpxLWtvMnNMLUZTUFp5bmxQY29zSk8wN2F5aW9jc1pZLUZuWUJLOUVvekl3S0dmTU53?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
     {
       "title": "明け方の交通事故…道路を渡っていた男性が車にはねられ死亡 片側1車線の見通しの良い直線道路（KTNテレビ長崎）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMUxUUmpXaDRyQWZ6NDYzUVkxR0VDZ19GN3pzS09WVDhGbFNXQTZHRjdwSC1FVkxLcVlvUWxwTHh4MXJxdjRmUUc2Tld5SnROS04tVTFOMFM0Wmg4dU96bGdSTkFLM25mcEYwQVVlazNfc3NKNGVoTzl4Nk5QLVU?oc=5",
@@ -48,14 +112,9 @@
       "date": "Mon, 11 May 2026 03:11:01 GMT"
     },
     {
-      "title": "長崎県内で事故相次ぐ 長崎市では車とバイクが交差点で衝突 60代の女性が意識不明の重体｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CcjVpV2x5R0pTOTlWR1M5Y2U4Vmw0UDdvLXVVLU8xbmhQandHV2REWmlFdUwxZk9NTTRwZGNuNzVzWURRSFhFWUc5dWxHZTNpU0d1a3VtU3lja2J6b1JRbmN3?oc=5",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【長崎】高速道路で3台が玉突き 「脇見運転をしていた」工事規制中のＮＥＸＣＯ西日本の車両に乗用車が追突（長崎文化放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FQ2d1dHpRV05HNGlMbTUxLUEwdG01MTFKUG15SGVyNHBOekJVTUJHMjJtQVM2NDh1VHBfWUtwZl9KRzBvN1h0NHhBSm9DYUZPZktWV0tfOEktcEM3MUxiT016Tlkzc2YtZXFOTjl2OFllRTBYQzdDVjVNLTBpcUE?oc=5",
-      "date": "Tue, 12 May 2026 08:34:19 GMT"
+      "title": "【長崎】高速道路で3台が玉突き 「脇見運転をしていた」工事規制中のＮＥＸＣＯ西日本の車両に乗用車が追突",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mUGRFUzdJVmEweDNEV0g3cW1Xa1ZqVHRfRWpxcnI3RGlZSTVJYlM0bnpiOUk1Q2FRbk8wMndUbFdpMV9sUlZZUTJpLXA3NEgwOXlxTEJKd1gycG1GSXFTVS1XeUZOS3ROdThvUUtfSDRUenJsZUE?oc=5",
+      "date": "Tue, 12 May 2026 08:37:43 GMT"
     }
   ],
   "official_links": [
