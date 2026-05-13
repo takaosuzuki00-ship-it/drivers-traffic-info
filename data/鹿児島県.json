@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-05-13T21:06:18.069952",
+  "generated_at": "2026-05-14T00:05:40.280269",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 19.9,
-    "temp_max": 23.5,
-    "temp_min": 17.4,
-    "precip_prob_max": 94,
-    "precip_sum": 0.2,
-    "wind_speed": 5.9,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 18.8,
+    "temp_max": 24.1,
+    "temp_min": 18.2,
+    "precip_prob_max": 24,
+    "precip_sum": 0,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.5,
+        "temp": 18.8,
         "weather": "快晴",
-        "precip_prob": 94
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 6
+        "temp": 18.6,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.4,
+        "temp": 18.2,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.5,
+        "temp": 20.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.6,
+        "temp": 23.1,
         "weather": "快晴",
-        "precip_prob": 30
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.1,
-        "weather": "快晴",
-        "precip_prob": 6
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 22.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 24
       },
       {
         "time": "21:00",
-        "temp": 19.9,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
     {
       "title": "鹿児島県交通取締り情報２０２５年０１月０６日（月）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4MnJpSTVreC1na3hWQ0w2Y0ZrNTJHbk9MNERNRHF3NmVyTUtxRVZfVGY1R3hUNEhsNzIxejNqeU5NSFVSeTRHdlJFRDFEb3hZVzRxdXpBNEhNZGxWMC1YR0cyUWY5a0k?oc=5",
@@ -85,6 +80,11 @@
       "date": "Sat, 31 May 2025 07:00:00 GMT"
     },
     {
+      "title": "鹿児島県交通取締り情報２０２４年１月１９日（金）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MndtVXhJblJaU3NUZDQ5ZVRFZHJSNmxBek8xMmRYUG0yWFJlN3NTOUU1LV9CMXhGa0cybk11NlRwVzZtbDZQMXFMd3E2LWhnOFIyRElMbzA?oc=5",
+      "date": "Fri, 19 Jan 2024 08:00:00 GMT"
+    },
+    {
       "title": "鹿児島県で不適正な交通規制2973カ所 県警が誤摘発139件取り消し",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZjNfT3pTQXhBMmdDamNrRXJGdEEyXzh3NXJGaDcxRC0wSmg0dXZnUnROLU1nb0xKdlVZeVA0NDVjT0FlRWVUS1FvR0xoWWtTbUdaeWln?oc=5",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT"
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "交通事故死185匹で最多…アマミノクロウサギ 生息数増加「車運転に注意」 鹿児島",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ITFd5Y2hsSWZYaFRhZ1RjUnh5T1ZxQmpXOHVqNHd3LWgzd01SLVZwbDRScXh2TThOQjBEaWE1d1QtUG14SjRuVFZ6a0Y0eWg4OGRmOTRkUnFiYkdqQVpKR1BtMG9POWs?oc=5",
-      "date": "Wed, 13 May 2026 02:57:00 GMT"
-    },
-    {
       "title": "アマミノクロウサギ 交通事故死が最多更新 鹿児島（KKB鹿児島放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sYWVPTFh2VlR0azJlWkQzcnJQTE1aWUs2MmVmbEQ4YnZGbjh5WGRvQzRxR29QcnI4dGJHM0NoM3Zqa01aUm5sNTFiR1E4MVZOaEk5a3hFX1N0VFRMNjNMUDJQUjFxVE45aFFUWlQ0YzBHUUo3V1lSazRiWmt1Tmc?oc=5",
       "date": "Wed, 13 May 2026 03:12:17 GMT"
+    },
+    {
+      "title": "豚10頭が国道で逃げる トラックと軽乗用車が接触する事故 トラック横転で荷台の豚が… 鹿児島・南さつま市",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPVGtNY0s1V2ZWVV9iUHo3Q1VqNVdEU3I0c0x1V1RSVnJFbkl4aHJXRnViN2N1dFhTSWRONWxncXQ2Skt1OFRLUzd2WnFHUnRqRVZjOUc2N3FJMFoySWhhT2h0bUY?oc=5",
+      "date": "Mon, 11 May 2026 07:14:00 GMT"
     },
     {
       "title": "小学5年男児が横断歩道で車と接触し軽傷――車は立ち去り、ひき逃げ容疑で捜査 鹿児島市",
@@ -112,9 +112,9 @@
       "date": "Mon, 02 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "豚10頭が国道で逃げる トラックと軽乗用車が接触する事故 トラック横転で荷台の豚が… 鹿児島・南さつま市",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPVGtNY0s1V2ZWVV9iUHo3Q1VqNVdEU3I0c0x1V1RSVnJFbkl4aHJXRnViN2N1dFhTSWRONWxncXQ2Skt1OFRLUzd2WnFHUnRqRVZjOUc2N3FJMFoySWhhT2h0bUY?oc=5",
-      "date": "Mon, 11 May 2026 07:14:00 GMT"
+      "title": "鹿児島市草牟田の国道３号 車4台絡む事故 酒気帯び運転容疑で36歳の女逮捕（2026年3月6日掲載）｜KYT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcC1YZlI2NDU3UEhydWNPcWpyYy1VM09yMmxQQVRuYWh3cjJXbXNKaXFFaGZxeW1BdWtOTGJtUHR0Uy1mY0JIM0lGcnpPZnhES1BLRnI1dzJ4UDJHNEc4SnZTOFRZaXBKN3JXVE1KS3lWMERIckkySF9iU1lTbEx0TUxVNVRRSHc?oc=5",
+      "date": "Fri, 06 Mar 2026 08:00:00 GMT"
     }
   ],
   "official_links": [
