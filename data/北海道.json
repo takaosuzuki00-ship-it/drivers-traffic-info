@@ -1,17 +1,122 @@
 {
-  "generated_at": "2026-05-13T15:04:36.716591",
+  "generated_at": "2026-05-13T18:04:30.368888",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 12.7,
+    "temp_max": 19.9,
+    "temp_min": 8.9,
+    "precip_prob_max": 97,
+    "precip_sum": 1.7,
+    "wind_speed": 11.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 18.1,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "15:00",
+        "temp": 14.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 12.7,
+        "weather": "曇り",
+        "precip_prob": 64
+      },
+      {
+        "time": "21:00",
+        "temp": 11.5,
+        "weather": "曇り",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
+      "date": "Wed, 24 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Wed, 04 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "でっち上げははなぜ繰り返される？ スピード違反捏造の道警・警部補逮捕に「本当に遺憾」、小此木国家公安委員長",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12dmdkNlE2SGozNUVlXzdLLUFZb2wwTnZDbzZXUmo3WnljWWFuY0JYeE5RTUMtUmYzRkZnUTZmb1FkakZaZ21XSEVua1YyT21BQ3c?oc=5",
+      "date": "Tue, 20 Oct 2020 07:00:00 GMT"
+    },
+    {
+      "title": "「後ろも\"取締り\"」可能!? 最近増えてる「\"すごい\"パトカー」って何？ 新「前後レーダー」機能搭載モデル「他地域にも波及」か",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XbW9zXzJSSkdCdjlyaElzVEwzTENpa0kyRXByLXRIOXlVQkZhNndKc3VwOWZ4bEJlS0Vab1c4UnZfVnlZVFB1bzNB?oc=5",
+      "date": "Sun, 09 Jun 2024 07:00:00 GMT"
+    },
     {
       "title": "新型「速度取締りマシン」登場に反響多数！ \"神出鬼没\"な「移動式」に「街に溶け込んでる」「こりゃ気付かない」の声も！ 全国で目撃される最新「レーダー機器」に寄せられた\"意見\"とは",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uVzFjb3hTY3Y5RjlHSFNKMFJueUtRU1Q1YUtrQWRlU3JlQnlEMHdjeEZLbVdaWWp2NFhLTjlQS1NrSnZnek5KMkZn?oc=5",
       "date": "Sat, 10 May 2025 07:00:00 GMT"
     }
   ],
-  "accident_news": [],
+  "accident_news": [
+    {
+      "title": "杖を突きながら堂々と横断 危険な“乱横断”の実態「足が痛いから…」死亡事故も発生 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YcEo0UTQxbV9RM1dsR3dWd1RFQ0MzYVBuZlJVclBOVTd2SUJTQUJhUWtOTndEOHNOV3ptNEd4Slk3RFkyZFhmeE15UHhWeTU0cTZnZ2JINnhURXNDVWZKYTVTaXY1UVA4VGJqTXk1MkVfUlV3Rm41VzctczhNcDg?oc=5",
+      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "25年の北海道交通事故死、前年比25人増の129人 2年ぶり増 4番目の少なさ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SHR4c0JfZXZHQWx2dVZqTlc0M0hjSktSS1dDUmdpVDBOSUZaRm1IVWt1U0c5dE1FWGo0RC0zWHl5N3hYNVlqUGdscjEwMzY0VTJuY1VkeE92QQ?oc=5",
+      "date": "Fri, 02 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "北海道の事故多発交差点、3年連続上位の現場は 運転手を迷わす構造 [北海道]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mdUJfWFNUVjV3S0JieE1uQk11MnM5MzhqaTYxWTB3TmlteUl0NldkLVY5U1d5eWxhaTZFQzBhZzB3YUZvRTQxdnBwYm8wMlRyaVNhNW5IVlZrdEpsRUlIeW9xYmxFY2c?oc=5",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "トラックと軽乗用車が正面衝突 70代の男性が死亡 北海道・平取町",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51NU1pZS1aeGhVU0lsOXpWQkd4SWlJT0d5a2pQYnhCMXVCSHVOQXNVUVN4R3hONV9vcF9HR0VPOWhIZXAwLXROV0QxeHJldklMV1dLaUdMSWQxTVViRVBhYkE2ZkkwR0VrZTVJUF8tbUwxUQ?oc=5",
+      "date": "Mon, 27 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「ツール・ド・北海道」死亡事故で、今年の開催見送り 凄惨な現場“フラッシュバック”、それでも走り続ける選手「下りコーナーを出た瞬間、選手が車のフロントガラスを突き破り…一つ二つしかない大会、ちゃんと対策を練って開催してほしい」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhQ2VsSl80VFl0QkpLNjdGbzdxeEt6WDJxNUtINzMtU0ZULUd0ajBPWVRtRG9BYm5zY213d2Y5ckdnVUl0VnpPY3BBd1NXdkpRcnlHMHpGUHJPazFLY2VB?oc=5",
+      "date": "Wed, 13 May 2026 00:06:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",

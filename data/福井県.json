@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-13T15:19:08.166371",
+  "generated_at": "2026-05-13T18:06:00.564747",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.7,
+    "temp_max": 24.1,
+    "temp_min": 15.4,
+    "precip_prob_max": 80,
+    "precip_sum": 0.1,
+    "wind_speed": 8.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "12:00",
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月２２日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00OGZWenVaSEx0SnpvalBNV2w4ZTZFYzBITEk0bUxzcnY0UEg0NnVVeVF0dXg1TUc0bk9sQUExVE5McGpHYzJmcUxBRVBNOW5NNlVvNmYyUkNiSk9LalE?oc=5",
+      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２１日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83akFOSEdLWWpKbVY0WUt2ZjZsbFVNcjE2S2RfbURHeWNGM2xnODdIM1FibzBEMERSR1pYeVRWYmZwVXJrYW5HZ0FKQnhlVFEyZngtVF9BcE9NZVNVNXc?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２０日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubFBUaTVpTlo1a1ZYcXI2U21fLUwwRWdZU2Y4TUV6d3oyRHJ6RGd0d1NhS3NPRjZ6clZEZzIxT25Eb2FTel9GYWZVdXNuV2ZWSnN5Z3RIdjNnN19WLXc?oc=5",
+      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWU9ncmZ1Y3E2NWtnZEc2TzczcGZDc0Z1Z0FVODFYb0I2UmJtcUsySVBpTkVJZFpCMUlrTWlvNVNyOVdGR29uUW5nTk9IQVlWWlg1SVE0OURGREF3X2c?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKRk1mRVNNYW1BQ1dpcTc5STl6UXc5TUQxRXFsSkxsb0h1Q2hKa08tTTJRSWozSEhCd2M0MW1aRUd3c01UZ2lJRTBodEJkUm42VmtJSnEtV0dSSDQ2R0E?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "道路脇のブロックに衝突 運転の88歳男性が死亡 カーブ曲がりきれず衝突か 大野市の国道158号（FBC 福井放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxYWNQTXJYa1hESmc3N1cteHVneUF1OXRzQndVQjVIM2x1S1NWRFZaSXBDUExKaWRhcURaQmhIQV9NRGY4LTlidTU5d0dOMVd5aWFHdnBnZUFKSS0yS0p5N0theERPeGV2aEREdXlWNmpKMGhJc2xtbXFIaGJrVVE?oc=5",
+      "date": "Sun, 10 May 2026 06:28:00 GMT"
+    },
+    {
+      "title": "坂井で乗用車と軽が衝突、女性重傷 | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0weXE3YlpJcXFTWEhJeGE2QUd4Sk1KQlUwTDIzWksyVlcybHRfV2FPODJOaURud0pNNVA4LThaX3pSMlFmeHFrVGlQWmhXanJKaDZYNVBDemIxSzROeXc?oc=5",
+      "date": "Sun, 10 May 2026 11:10:00 GMT"
+    },
+    {
+      "title": "88歳男性が運転の車、カーブを曲がり切れなかったか…道路脇のブロックに衝突し死亡 大野市九頭竜湖沿いの国道158号",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNa3JFdHpsQ0xkTmNRa196VDFzX2xyS05QOG44N2F2dEM2MGJ6b1pCWEVIc05JVGhQMTc5QTNvNk0wekpRNUczY1g4ZUxnd1FxSlkzNDk2Zk9PXzdJTnp2cTJFWVBpanNLS05jOExJMTVuczlmSmJlcmVkZ2gzTHY4TlhYcldMeTJMLTZ1TTZWWURYTlpBd3IxcEhfT2g5TGY3MFJRQWpGUVp6THFpWlozU3RzSFcxZWwtNER6cXJKRzhXcW4yZWZ6TllnZ2ZTVC1ZcXhIQnBORXBuVEliQUFyajBxeFFXRFVLcHduMW5WSk5RTWR0ZFdvTVA1b21iaTNRTUlhVjFhcVRNSHdacU9YVkRPUnowRVNGbFB6U0ZWa2JGNTRtY0tVbUhNOVpnQy1Wd3FhTHI4eUZnX3dvMHJkRGUwTS1jTU9CNG9ISUItUFBLWFdsRi0wdHZNcw?oc=5",
+      "date": "Sun, 10 May 2026 11:51:53 GMT"
+    },
+    {
+      "title": "オートバイに乗っていた30歳男性が死亡…福井県の国道158号で車と衝突",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDdEFrTWdMbWFlT0txZGhJZHJ6TDNWc3JtUEl5ZzNncjNSZGh6cnFuQm9OX1FpeVFXak9wbHh2SEhDcE5hVGswWmhUZDdIdDdZdF9pTXNwWjVTc0dCWWc?oc=5",
+      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "坂井 防波堤の転落死亡事故受け 福井県が柵設置などの対策",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XcVVTXzJOVjlWVy10NnhRRGNvU2x2VzFCNEl5blNoSnpvMGZwUzROOFhRZXdRS0pCQzdFU1l0Z1ZseXRNWUFsczM4SU9SYWJaS3hKMHJQbk8?oc=5",
+      "date": "Sun, 10 May 2026 05:58:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",

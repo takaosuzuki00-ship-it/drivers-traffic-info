@@ -1,10 +1,95 @@
 {
-  "generated_at": "2026-05-13T15:09:06.459694",
+  "generated_at": "2026-05-13T18:04:56.844195",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 17.4,
+    "temp_max": 21.2,
+    "temp_min": 11.6,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 8.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.8,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月13日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wYnFXTEhsaU1rcE1uNTVZcTF2T0tFRHRpYkstTTU1LW0tWUpPTXc4aDc4VS1TYzlwTVNCbzV4VmFwWnExamtRY2lCQUxrbS1rNnMtSUpfR2gwSm5Jcy16dVgwVHQ?oc=5",
+      "date": "Tue, 12 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月13日（水）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wWHdIXzJDWFRQVGsyOFNuQVRzLTBLZEpicktFQ0VJTmpmMW9oWGFqVUVEbTBXakttVDE0VWp5TGd5RDhXamxIdXpHWGw5WDBRVVdTa0J5ZW1nbnZESkpGblRTcHBUMnd4LTFPSkJoUEwzNUJFNnU2UXJSOVN5T0E?oc=5",
+      "date": "Tue, 12 May 2026 20:00:34 GMT"
+    },
+    {
+      "title": "5月9日（土）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHOTh0bnh6SHpYanp2aE1uWVZpMFBaOWFKUFlydnBRbkc4cWNRcmZ6aEc2SktrVTZDdXJQNkJBUWpCNGZkNDlXVVA5LVBSRzYzd3B3TDV1S2hJZ0lmSDFsaGxwODVBTTNBLXgtdGVid9IBdEFVX3lxTE9sWjZFRkFVMWhXekhYNzhFLVJTMFlHVkxMVU9LeUVfLXpGM2l6c1B2NU5hUWRoYUg3aUtpODhyTnJLb253WkJUSEQwaTUxa05lVmdpd3V6aS1FYU1VVmY3VUM5M0N4NUxBVXNxX2hoa2ZCek1P?oc=5",
+      "date": "Fri, 08 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月6日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ldXNkV2Frc3ZUUW9zempQbngtY3ZGUFZxcjktdDEyXzVpMzhkdWVreGFKSGZXRFctWFM1aEtkanJ1QkItZ3ZnT0RPQUZ2RHZBcnl6Y0czS0dBZw?oc=5",
+      "date": "Tue, 05 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zbW9hUnBEakxFOTk4UEZjczV2YnMtQzZTaXV6V2MzTlJOLUdPVVo3UFlSNm13ZEJhcEJrbFpkNXY1VlJaRTJRTENSUQ?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "accident_news": [
     {
       "title": "原付運転の男性死亡 大仙市の県道、バンと衝突",
@@ -25,6 +110,11 @@
       "title": "大仙市でバイクと貨物自動車が衝突 60代男性死亡 /秋田（秋田朝日放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfWEpETUN5NUV0Ml9lWDJxemRSM1EwUFZod2F4eE41RUN5WmFvRXROcUJZdnNIMGxDUjVOTmp4bnJBa3lzZWdiN1hoSVNIU1p2UjIydVF4WmRGb1FfRVNTcHJpQ0ktLTk2RENyanFJVE5PQlMxM04tSE1Ld3NEWlk?oc=5",
       "date": "Mon, 11 May 2026 03:04:02 GMT"
+    },
+    {
+      "title": "死亡男性はSUPをしていたか? 秋田・田沢湖で水難事故 秋田市の男性が浮かんでいるのを発見、その場で死亡が確認される",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FZVFvNGNoQkZqcWdCc1ZscDdIQmM4Wk5kZFg3Z0dDUzYtaGlNM0FrOER2eUJLbWt5T19XdFE4ZzVheERBRHYwSjFZUndmU1NuRjQ2aWFhMHBIa0FrMnRqYUE3NWFUSEZCblVLOUdsU0pHdmtGZ0xlZFlod044bms?oc=5",
+      "date": "Mon, 11 May 2026 10:37:13 GMT"
     }
   ],
   "official_links": [

@@ -1,35 +1,120 @@
 {
-  "generated_at": "2026-05-13T15:21:02.851965",
+  "generated_at": "2026-05-13T18:06:04.451589",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 15.3,
+    "temp_max": 22.8,
+    "temp_min": 13.5,
+    "precip_prob_max": 100,
+    "precip_sum": 9.8,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.5,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 14.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 32
+      },
+      {
+        "time": "12:00",
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 18.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 15.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 14.4,
+        "weather": "曇り",
+        "precip_prob": 72
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oa283YzRpWWprSTdBTWRWRGhJazF4OWkyNjdyZ0wzUC1EcExoLUh3cnQybEFfa0ZkMVRkVHdhNGhGbmRVNnJWYkc3SGZjaHZmN3VZbmNKZw?oc=5",
+      "date": "Fri, 08 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "５月１３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pMkZuTkRRWjdPamR5S2k2V013TGs5WTd5ZEMzX0t6WGpXX05VM0sxT2syRUFTUXNHLWhOUU5oTUtNZE9YQkNsQW9kZVQtQnJtRUpWcU9XNXZETDRjX0JNMmRFcXFFdGFPV2tmR1kzbTlHZ9IBd0FVX3lxTE1vLTBpUy1ySHQ4bTFfQXgtRk0yR3dLUXczMXVHWmEwd1R6cGpsNUhUWU1KUVp3bXBVV01lSmZFMEVSWEFPS2VKVDc5OEVoQklXcDAzdGdOR01yVmk5RWdUQXRVeXMwcFBqd2FjQVhCc3FPNFVhN0tV?oc=5",
+      "date": "Tue, 12 May 2026 21:17:55 GMT"
+    },
+    {
+      "title": "5月8日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9heDJvMVpZbDkwMVdjRHFPTmJfbFdLRXNTVTB5LUpIWlNFRlBiTm5DR0tiYmE4YVJ4Z1NkVHpQSjZZNXAxdHdxQ20wU0prbzlnMWtyREJPVQ?oc=5",
+      "date": "Thu, 07 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Z2gzaFJSZjh0MzlUMVl3UEVtYUxlR1I0WlBEdm1aQUdQdl9CU2NWQW9zS3F1d2FqQVNaMU4xV2pqTHR0YWotRDRaZUUxaVlxbGRtZGRNQmVZMkE4UmQ0QnJFdHhsMnFKRkJvMFJDNNIBdEFVX3lxTE1JdFV4LWpweXhkNGFIM2JZbV9obVl1cmplWV9GdDM0TWpYbnE3ZjBkcGxmZmgzX3JEaWtHTUJuQW1mbllLT0NseDhrTXRaMThBeHlBWUk5NGRZS0czQVdLYl9zb1NBWEVkOUZuUmdOYWRiMmxw?oc=5",
+      "date": "Tue, 12 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "飲酒運転 警察官に頭突きなど現行犯逮捕は2人 1週間で20代〜80代の男女5人を摘発 山梨（UTYテレビ山梨）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SeUI1bkk5MW1lNEw2VGN2SWUxeU1NT1NQTnE0OGtqQUdWdExfVjN0VklQV1NSbFJGSkdHYTdaREJ4dnlPSGpoXzN2a2pOUWxmT2dzRWZ1akE1cFhmVXBHVzBjeEJOaVNOTXNvZVJsREk0RTNZOVVpOVR5MllqdTQ?oc=5",
+      "date": "Mon, 11 May 2026 08:24:18 GMT"
+    }
+  ],
   "accident_news": [
     {
-      "title": "死亡事故ゼロ連続900日 警察が町に感謝状 県内で死亡事故ゼロ最長は17年10か月 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qY3dGUWNEbXhEaHdCaFlxYXk0dGZWZVJmZ0JtWFVIWHFMY0tubG9pU1dNNk5GMXlaSlc0Sl9QdVVGbXlEUVNiNV9GZkliOUg5S2pncjFvSWJpdw?oc=5",
-      "date": "Tue, 12 May 2026 02:51:00 GMT"
-    },
-    {
-      "title": "死亡事故ゼロ連続900日 警察が町に感謝状 県内で死亡事故ゼロ最長は17年10か月 山梨（UTYテレビ山梨）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fU1ppZnhpTVdLODJ1UTRTcVZNT1pMNGJZSWVOOVRJMTExYXlZYndFUlRHZldtcVZGQnVUUk1YR0hqZVlDZzJOclY4MUhMc3BSX1ZEaG5pRTFSSGJtY0xpS3hwR2tneFFKSUVxLXd1azF1dFhlNnRiaDRJeDI1SlU?oc=5",
-      "date": "Tue, 12 May 2026 02:51:18 GMT"
-    },
-    {
-      "title": "「ペット連れで入山しないで」西沢渓谷に看板設置へ 犬助けようと転落死亡受け 山梨（2026年5月8日掲載）｜YBS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY09tMEZDYkllMlF5RUVwVTBqeUxVMTBZaklxY3VjUkp0LU5kRlRGZUVCRFlVdE5MTXNJRmdzTUljSm5aTTkxVl9JYzg1UTgxQmg1MWNrVzJRYTlfUEstRXVwMHZMZEhpeGhmT0ZEeG5iT0V1UFNLa04xTGRGZGRwQmF3bThZVE0?oc=5",
-      "date": "Fri, 08 May 2026 10:09:01 GMT"
-    },
-    {
-      "title": "８０代女性死亡事故 男に有罪判決",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rLWFtU3I0UUxlNjlzcWpnbVNPejBUWkV1M1o2ZFNtSVdlVDk1czFpQldJVVRzRGx3Nmhid1o0ZExRZ1pKeTlNX0o5ZXZqTGRlSFFBczhrQzl3Uk1mZC1ieDkwTW9BbTRPQlRqYTB5a0k5MFp1?oc=5",
-      "date": "Fri, 08 May 2026 06:48:08 GMT"
-    },
-    {
       "title": "死亡事故ゼロ連続900日 警察が町に感謝状 県内で死亡事故ゼロ最長は17年10か月 山梨",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fb2tiRF9LVDgtUFlrTHU2WG9VbEp5QU9nNFJGU1EwMlk4bm9lZDdMczBJZGVYSm1YclhsVVh0dWVKYzJSbzY4eGZmTUtSRnBrQTBFdjFxWlVPb2VaODVudkdSdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yVUxBRENxcXRfLVFPYVdmcFM1UGZmZzMtSHZoLVJwWnlNd3h1Nm5pcGFyX25LLTZIeWRsNDNZWUk5QU8wamwwamhBbmpuSmxRZ01YY2dxcw?oc=5",
       "date": "Tue, 12 May 2026 02:51:00 GMT"
+    },
+    {
+      "title": "山梨トヨタ、新年度出発式で交通事故撲滅宣言",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UQ2RubURxWjg3ZExJdmZsTXVnTl9GZ2lycE1laXFqbzJQYUR5cUF5anJlN3E5M0dGZXp2NUdhdENXai1aYzF6N0hpR0g2VzRZQlE?oc=5",
+      "date": "Wed, 06 May 2026 20:39:03 GMT"
+    },
+    {
+      "title": "交通事故 買い物途中は要注意",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUFprWFI4YkRfMTEwcE5LYy1BeFA0ZDdpWEhBa3p6N3NmcEpaSUZ4R2k0RWZZVXRvSGtELUhBMlhNb2E1UTIzdnVoRU9fRGVmajVjZUJWZHNfajcxRFNiUE9NN1k?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "知人から11回 金を騙し取るほか、わざと事故を起こし保険金を騙し取った男 懲役3年6か月の判決 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMDIxSVdNeGFoTlhWaWFKdmVTNkxvT3R2Z1l5U01fMlU5Yi0xQjlyLWxCQ2F5dnBXZnFUQmFYYzJQRXQ5U2lSWDZRWFlRWDVvQWpRdHJhOU13dzljcjljOXVPM2tjVmM?oc=5",
+      "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「車が壁に張り付いていた」 助手席に乗っていた東京都の25歳女性が死亡 車が道路から外れ民家の塀などに衝突 山梨・富士吉田市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qSmJSTHM3V29ZbHNzckF4TENsZW1oQkZPTEtibmljdTlVN2kzSURzd28zZnhBYm56T29LYUV1LTNLUjFzQldHQUUwaU1pcWd0M2xpZFUyWQ?oc=5",
+      "date": "Mon, 16 Feb 2026 08:00:00 GMT"
     }
   ],
   "official_links": [

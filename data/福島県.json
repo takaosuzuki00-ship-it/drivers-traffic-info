@@ -1,10 +1,95 @@
 {
-  "generated_at": "2026-05-13T15:10:32.902009",
+  "generated_at": "2026-05-13T18:05:03.303662",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 18.9,
+    "temp_max": 23.4,
+    "temp_min": 12.7,
+    "precip_prob_max": 93,
+    "precip_sum": 1.0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 28
+      },
+      {
+        "time": "09:00",
+        "temp": 18.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 82
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 18.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oa283YzRpWWprSTdBTWRWRGhJazF4OWkyNjdyZ0wzUC1EcExoLUh3cnQybEFfa0ZkMVRkVHdhNGhGbmRVNnJWYkc3SGZjaHZmN3VZbmNKZw?oc=5",
+      "date": "Fri, 08 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Z2gzaFJSZjh0MzlUMVl3UEVtYUxlR1I0WlBEdm1aQUdQdl9CU2NWQW9zS3F1d2FqQVNaMU4xV2pqTHR0YWotRDRaZUUxaVlxbGRtZGRNQmVZMkE4UmQ0QnJFdHhsMnFKRkJvMFJDNNIBdEFVX3lxTE1JdFV4LWpweXhkNGFIM2JZbV9obVl1cmplWV9GdDM0TWpYbnE3ZjBkcGxmZmgzX3JEaWtHTUJuQW1mbllLT0NseDhrTXRaMThBeHlBWUk5NGRZS0czQVdLYl9zb1NBWEVkOUZuUmdOYWRiMmxw?oc=5",
+      "date": "Tue, 12 May 2026 22:29:01 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "５月１３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pMkZuTkRRWjdPamR5S2k2V013TGs5WTd5ZEMzX0t6WGpXX05VM0sxT2syRUFTUXNHLWhOUU5oTUtNZE9YQkNsQW9kZVQtQnJtRUpWcU9XNXZETDRjX0JNMmRFcXFFdGFPV2tmR1kzbTlHZ9IBd0FVX3lxTE1vLTBpUy1ySHQ4bTFfQXgtRk0yR3dLUXczMXVHWmEwd1R6cGpsNUhUWU1KUVp3bXBVV01lSmZFMEVSWEFPS2VKVDc5OEVoQklXcDAzdGdOR01yVmk5RWdUQXRVeXMwcFBqd2FjQVhCc3FPNFVhN0tV?oc=5",
+      "date": "Tue, 12 May 2026 21:17:55 GMT"
+    },
+    {
+      "title": "5月5日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PekJDcWkzSFdiWWZ3RDItQkxzdS1DckJzVmVMWHJUZGFoQmJocnZKelozdnl5X2hYbUlwbU1YdkJscmJKc3pNTHZfTzJTbHhOYmFFNDdwZw?oc=5",
+      "date": "Mon, 04 May 2026 20:00:00 GMT"
+    }
+  ],
   "accident_news": [
     {
       "title": "◇１１日の県内交通事故",
@@ -22,9 +107,9 @@
       "date": "Wed, 06 May 2026 00:18:00 GMT"
     },
     {
-      "title": "部活バス死亡事故、「トンネルでぶつかって擦っていた」「こすったような跡あった」と生徒証言",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHbTZyU1lPZ0FhbG56dzY1SG14T0ZmbWhMdndORV9lV1lyLVlQZ3RsaDAwdE0yTUtrTWR2SHo4bGRjMTY5b1RGUTdNcTVaSlhkMmVKZ1R1YUQwcm1SWVBDSjZyNjR5QQ?oc=5",
-      "date": "Mon, 11 May 2026 11:35:00 GMT"
+      "title": "高校生死傷バス事故、運転手は今年に複数回の交通事故…運転能力に問題がなかったか捜査",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KVE9zVjhpbmVjQWMzRk5zY2V1UW5qNXFSQmIza3VzU29Ybng0cXdET09NbEprTFkwR3FaZF9Bd25BcFQyYlhKZ2NTVmFmMHhKY2E5MnNfOXVyQzduWm1FdzhHdU5MQQ?oc=5",
+      "date": "Sat, 09 May 2026 02:53:00 GMT"
     },
     {
       "title": "福島県の部活動バス事故で、道教委が緊急通知 「公共交通機関や貸し切りバスの利用を原則」",

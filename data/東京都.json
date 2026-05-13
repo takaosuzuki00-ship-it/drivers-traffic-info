@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-13T15:14:15.135907",
+  "generated_at": "2026-05-13T18:05:41.881877",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.4,
+    "temp_max": 24.7,
+    "temp_min": 12.1,
+    "precip_prob_max": 77,
+    "precip_sum": 0,
+    "wind_speed": 8.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 70
+      },
+      {
+        "time": "21:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 70
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "５月１３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -43,19 +102,19 @@
       "date": "Tue, 05 May 2026 07:57:35 GMT"
     },
     {
-      "title": "優しさが走る街・東京でとんでもない交通事故が発生　警視庁は「過去10年起こっていない」と説明 | チバテレ＋プラス",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tTzhnNXZSTmJlOURxNG1DQWE4c2RUUi00VjNoMTJHVUFwdkNLZ3F0LXl1blg3RF9WaXZXVndueUZHR0dVVURCU185M2dEaFlpeWxOUHZ4Mjg5LVdZZms4R2d5VGvSAWRBVV95cUxPLU84ZzV2Uk5iZTlEcTRtQ0FhOHNkVFItNFYzaDEyR1VBcHZDS2dxdC15dW5YN0RfVml2V1Z3bnlGR0dHVVVEQlNfOTNnRGhZaXlsTlB2eDI4OS1XWWZrOEdneVRr?oc=5",
-      "date": "Tue, 12 May 2026 20:42:39 GMT"
-    },
-    {
       "title": "優しさが走る街・東京でとんでもない交通事故が発生 警視庁は「過去10年起こっていない」と説明",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GQWpXQUE2UzhEWlVKNmdhUFJvM0NxUW81REp6a05ROVRwSlN0TExZNmNsdVlXTmNhRHIwZ1UxYkdGY3FVTFc2NDN0b0NCU3dQbEFDVDFsUUctVW42T1Q4emRoM2ctOEVBVDIyb2tLbXdLUGVjaVE1aUQ5RQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RamhreHRKeTE3QTA5QW5xNTV3WVV2eHMxZnduLXpaeHFxQ2hvMGRDWjRNc2ViRWR2aVRQWXpPaEhicjA3eVRKLXc1WVhybl9rejRDajBB?oc=5",
       "date": "Tue, 12 May 2026 20:30:00 GMT"
     },
     {
       "title": "うつ伏せで路上に倒れ込む警察官の姿 車5台と自転車2台絡む事故 過失運転致傷の疑いで23歳中国籍の男を逮捕 東京・板橋区",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WTWwzM2FfU3lFdmhzT0pmZTVHSnV6V3JfSXp0UFdrSWhFMG9fVVJnd01kdzViQTdRb3diT3F4NlFVMlpPX05EN2xqb0J0UQ?oc=5",
       "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "優しさが走る街・東京でとんでもない交通事故が発生 警視庁は「過去10年起こっていない」と説明",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GQWpXQUE2UzhEWlVKNmdhUFJvM0NxUW81REp6a05ROVRwSlN0TExZNmNsdVlXTmNhRHIwZ1UxYkdGY3FVTFc2NDN0b0NCU3dQbEFDVDFsUUctVW42T1Q4emRoM2ctOEVBVDIyb2tLbXdLUGVjaVE1aUQ5RQ?oc=5",
+      "date": "Tue, 12 May 2026 20:30:00 GMT"
     }
   ],
   "official_links": [
