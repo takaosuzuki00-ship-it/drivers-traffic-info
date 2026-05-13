@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-14T03:05:20.940125",
+  "generated_at": "2026-05-14T06:04:18.281909",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 16.5,
-    "temp_max": 26.8,
-    "temp_min": 16.1,
+    "temp_now": 15.7,
+    "temp_max": 26.7,
+    "temp_min": 15.7,
     "precip_prob_max": 54,
-    "precip_sum": 1.3,
-    "wind_speed": 2.4,
+    "precip_sum": 0.7,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
@@ -21,19 +21,19 @@
       },
       {
         "time": "03:00",
-        "temp": 16.5,
-        "weather": "晴れ",
+        "temp": 16.6,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.1,
+        "temp": 15.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.1,
+        "temp": 22.4,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -45,25 +45,30 @@
       },
       {
         "time": "15:00",
-        "temp": 26.6,
+        "temp": 26.7,
         "weather": "晴れ",
         "precip_prob": 44
       },
       {
         "time": "18:00",
-        "temp": 22.6,
-        "weather": "霧雨",
+        "temp": 25.1,
+        "weather": "晴れ",
         "precip_prob": 52
       },
       {
         "time": "21:00",
-        "temp": 19.3,
-        "weather": "快晴",
+        "temp": 20.0,
+        "weather": "弱い霧雨",
         "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月14日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2OWVVRlRCWUNmSEhrYjBYS3lNbXZyclJMTTYzZzVIaFFCem9UREJnUktqNjd2SlVkV1h2ME5hX3BHWmhVLW5zSm84aW1hT0k5VEdCRXNtZl9xVEJBWVJ3OVJQY2QyRFhVMmhPVGpJTnc4NWVCQTM0Mmg1dVM3SlE?oc=5",
+      "date": "Wed, 13 May 2026 20:06:09 GMT"
+    },
     {
       "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRNkpPaEpTLUNOdEs1dVljbXljdHZMN210UXdmR0hVY0VlcXhYVkpJNi1oZGUyZERRc3hjdmhxQjRITmlVZVBid0xIWmNkS0JOV2xhczdLZDlCZw?oc=5",
@@ -73,11 +78,6 @@
       "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数（RKK熊本放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zV0JtV0p0bEF2MkhPU1g5WGpuVWdiWHltQjkzS00ycHZONkdUTWFYb2RoTTN0aTFrb0NkejFRcEQyWkwxUjI1aVp6clE2dFFwbDBlQWh2ODRTcHpqSE5FY0tRTkJOYWtIVVdQQW5hbU5qdnV3SGxsUFBuQnhHUkE?oc=5",
       "date": "Tue, 12 May 2026 20:02:13 GMT"
-    },
-    {
-      "title": "5月12日（火）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数（RKK熊本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZ3M3SDVOVW40anNrcThjUmp6LVp0eEtKSW1HWk1wT2V5Q2F4Z0VMTVdMS04xalluME5wcXRmWk9IWUdTMUp3MUN2NV9IdW9FRC1jLUg3a0M2QTg1blltWWVuaU1IWlhqbzJBNFdUcTR4Vl9Gc1hULUFxa19rMUE?oc=5",
-      "date": "Mon, 11 May 2026 20:02:13 GMT"
     },
     {
       "title": "5月10日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -107,9 +107,9 @@
       "date": "Mon, 04 May 2026 10:10:25 GMT"
     },
     {
-      "title": "飲酒運転の根絶呼びかけ「交通違反ではなく犯罪行為」高校生死亡事故から8年（熊本ニュース KAB ONLINE）",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dEt0ZUNKeGEtSFh2Q0RJdVdpTzZ5bzZMSnVNdUpCdmQyQlYwSl9UdGNONDdCWHV3WDRVU2NuMTVyX0w2bFdKZ2pXOEFPUWRsUFFDU01HNnhzMk5xNG9iMWlkSDFQejA3eGpmLVBycG0?oc=5",
-      "date": "Mon, 11 May 2026 03:18:00 GMT"
+      "title": "[TKUニュース 26.05.10 17:30 ] 宇土市で乗用車がブロック塀に衝突し運転していた高齢男性が死亡【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4MUktcm10WGU0MmQ0OTUwbTlnVHVTR2lMR1YxNjhDQ2w3UldCM1ZaNlMwR3pwMEI3ZU0wNm96WTdLR1YyRDhPXy00WmNRazlfN3g4SDJSM3g0LVJtdG1GQUVTOA?oc=5",
+      "date": "Sun, 10 May 2026 09:15:39 GMT"
     },
     {
       "title": "農薬散布車の下敷きに 熊本・和水町のミカン山で転落事故 27歳農業男性が死亡（RKK熊本放送）",
