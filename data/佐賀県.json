@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-15T03:09:19.241897",
+  "generated_at": "2026-05-15T06:06:33.283791",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 15.3,
+    "temp_max": 30.0,
+    "temp_min": 15.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "衆院選、選挙違反取締本部を設置 佐賀県警、1250人体制 「選挙の自由と公正確保」 | 行政・社会 | 佐賀県のニュース",
@@ -38,6 +97,11 @@
       "date": "Wed, 13 May 2026 03:00:00 GMT"
     },
     {
+      "title": "国道で正面衝突事故→運転していた男から基準値の７倍近くのアルコール 佐賀県職員の男を酒酔い運転の疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BNExZbm5yS2lkQUNZcWdodnM0Vmg2TzhIcXhXX054SFU0LUk5U2d1ckhMU3NDbzJ1R01qQlpEdTd1Mi1jWEtCbHVvRzF5RVBTdDRDcEtvaGVRT01nR3lpYWZReDlEV2c?oc=5",
+      "date": "Thu, 14 May 2026 20:15:00 GMT"
+    },
+    {
       "title": "深夜に嘉瀬大橋で4台絡む事故 大型貨物自動車に乗用車が衝突、さらに後方の2台が乗用車に衝突【佐賀県】",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RW9jT3ZJbGFHcTdUY01kZm8wWmtJeGdoYnFlV09WeXh5NjExYTRqam1nVTllM1pJV0RCcURkemZkVUduMW9MdEFLZmVBVnhHQUtqSm5yOUIwb3dlNG4tRVhuNncyV19qX2F3YU5fbURIS0RjRDlRVXlwRXM4REU?oc=5",
       "date": "Wed, 13 May 2026 03:23:02 GMT"
@@ -51,11 +115,6 @@
       "title": "高校生1人死亡の磐越道事故を受け 県教委が県立47校へ安全管理再周知【佐賀県】｜佐賀のニュース",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KblBZUE9VRkJmc29TOTdMMFNoZkZkeHhFajc4UDNkVW1YVGdyb0ZGdWI4Mm9TUEpCZXIwNlBVVE15WElQcW5yMDN2ZEtvdFZ1MS1DRzRMdjQzNDF2b0RKM21n?oc=5",
       "date": "Tue, 12 May 2026 03:00:00 GMT"
-    },
-    {
-      "title": "観光客、写真撮影で踏切誤侵入か 有田町・神社の列車死亡事故 運輸安全委員会が調査報告",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VNzhsdjdQZlpkQ2c1ZGJoOWl4LURWeWdoRENvbUFXWEppdm9YSVNWZEk0NGFhS0ZOQ3kzMUZBX0JQMVJQOTFiVndxN2U5bkFCbmZGbzZ3?oc=5",
-      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

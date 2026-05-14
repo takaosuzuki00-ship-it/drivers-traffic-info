@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-15T03:05:21.062667",
+  "generated_at": "2026-05-15T06:04:17.457992",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 14.5,
+    "temp_max": 22.5,
+    "temp_min": 13.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 1.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【交通取締情報】福井県警 ４月２２日",

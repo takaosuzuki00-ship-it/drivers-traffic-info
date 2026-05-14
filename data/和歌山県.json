@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-15T03:07:05.098686",
+  "generated_at": "2026-05-15T06:05:17.412969",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 15.2,
+    "temp_max": 24.0,
+    "temp_min": 14.9,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 20.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "正体判明！最新のレーザー式速度測定機LSM-200はオービスではなくネズミ捕り用だった!!",
@@ -33,9 +92,9 @@
       "date": "Wed, 06 May 2026 09:09:00 GMT"
     },
     {
-      "title": "田辺市で身元不明の男性死亡",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PSnRTMWd1UmlrZjhTcl9IM25rcWNaZmxVV0g1aFNyWnJ2bnFBOGR3T1FaRjREektEQTBlS3EyVlZOSndFLXNTSW9LQ0VoRHpkQ09TT3hzYVk5MDdMZTFJTlFVZ08?oc=5",
-      "date": "Sat, 09 May 2026 08:34:35 GMT"
+      "title": "和歌山県が認可外保育所の監督強化へ 死亡事故受け独自指針の運用開始",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZjhqRTduRTNzZ3VjZElsYUwyVGFYQzUtUXZsZ24wbjhGOVBtb2dWcm5uRFFIUlZVOUhjbk9lUGpNSjB1bE0ybF9NdnR2YUZPNEhZ?oc=5",
+      "date": "Tue, 17 Mar 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
