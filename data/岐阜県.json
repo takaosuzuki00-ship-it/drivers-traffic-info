@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-14T10:14:35.265478",
+  "generated_at": "2026-05-14T12:03:55.493612",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.7,
+    "temp_max": 27.5,
+    "temp_min": 13.7,
+    "precip_prob_max": 29,
+    "precip_sum": 0,
+    "wind_speed": 4.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "18:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 28
+      },
+      {
+        "time": "21:00",
+        "temp": 19.4,
+        "weather": "快晴",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【垂井警察署】交通検問の実施",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxY2tqSnhDWWpLMGZHQWNfamVscnMxS1p0ckpCb1hSeHVCVDlJeUFfejBpTEYyMThLWXJORnM2ZkdNSU1JaTYybmxiZWFnWmVkeTFUUElyUTZlRWRYXzhFcFZpamM?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "麻薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
+      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
+    },
+    {
+      "title": "【下呂警察署】交通検問の実施",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXVTJvQXFGeGtBV3c2RGRWQmpSMC1OaUJQcWZrSWkzRkt4SEV3ZkRKaDRncHllb1pPYk5nc3Rub1VPRTd2Z3RiZnFpWVlIOXZxbzlnRk1yTzlZT1VMM3pHZUU2WQ?oc=5",
+      "date": "Tue, 14 Apr 2026 08:04:40 GMT"
+    },
+    {
+      "title": "飲酒運転・風俗営業・トクリュウの摘発を徹底 岐阜県可児市中心部、可児署が2026年度方針",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OMHZ0OFNOa1JpMUduWFZ5MnhEZFhDUFAzcmhDZ1VQbElSaEFlVFVVX0hhQkdDeHpKUzdCcGlZMnh3eG5paVB5czM3X24xMU90LUR1WA?oc=5",
+      "date": "Thu, 26 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ＶＲゴーグルで交通事故を疑似体験 岐阜県関市の外国人留学生 交通ルールの大切さを実感 (ぎふチャンDIGITAL)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnNmODkxWXlWaGpwSExJYVpwSkxuc1pMdUhnSk1zRkhrNV9TeXBWaVdVMnMxS2kxRkFuT3JSVXROUkZUWnRYbDlvZDVXeGRnN21EckNkQUU1WjB6Tzd3MG01RW5uRGx5RnlURzB2MWxIbHNvS05PZG9LV1NvTS1lMy0zdEY0YzdtdlB2X0pB?oc=5",
+      "date": "Tue, 12 May 2026 08:52:22 GMT"
+    },
+    {
+      "title": "【中津川】岐阜県トラック協会恵那支部交通事故防止大会での交通安全講話",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbDV4VXhDN1EwVW1YbTlMNWJsX1BvaW1vUkhVZGQyeVVzQlNtZWtuVFJWWndtV3J2ZFUwSjVFYVhXYU1zck8zZ2s2RHFsZWsyaTBsVFpwM2JnaEdVSVJRVQ?oc=5",
+      "date": "Fri, 10 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "車同士による衝突事故…東京と岐阜の男女4人が重軽傷 長野・茅野市の国道",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVlA0bTdrV0VaMzhqMVYySW0teE9YaFBlZmdsQ1ZpQXEtRlZhWTRZR25LeVFOTFYxWFk3QnhRbUdKalU1QnFiZnZkX0R6M3R2RXExaDk3RQ?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「車内から練炭」21歳大学生を含む男性3人死亡 岐阜・多治見市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XVjdRa0VPYTlYQlctZXo1QzlOMFY5S0ZSLTFqSkhTQXBEamwtNlNzMFZOWERyWHA0amFjZ3dERktJM3FNaHRLRjQ1YVpiRFVvVG1HSmpWQzlZOWFqaGtKM256amg2NE0?oc=5",
+      "date": "Fri, 08 May 2026 20:46:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

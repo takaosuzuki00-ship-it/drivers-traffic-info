@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-14T10:11:35.119566",
+  "generated_at": "2026-05-14T12:03:50.135796",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 23.0,
+    "temp_max": 23.1,
+    "temp_min": 11.0,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 9.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 22.1,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eVQxNmFRRlpobDk1THpjeFU2Nm9GNFdTNFN4cFI1V2xZWW1ndFpfRGtDWVdjU3JXd0p2SzVtYVVDQVBjWnlKdzBwRUtack1FdHNZZjdnM2g1Zw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56N1hPNEh3NXFPVGRLQmV3OEVxbGFuRzdYaURBZm1MdEp3Y3Byc24xQUJQNFFROU9EOGxTOTNqY3h1TnhDWUtHSGwzTFZUc0tPRHFMc2ZUdw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "南木曽町のＷオービスは、そのまま放置！ ついに壊滅、長野県のHシステム！ 最終回【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEIxczZNMndzd0NqeGY0aF9GMGh3M05Qc3o0ZWlqcU11QkpfUWlKY1lQRGJSZVBTMGxhT0N0aTFuZ3o5bXNvNmoxMlluWHMzMHlFSFh4NFBPY2pKQ1lqTGxJV25QTi1BRmNwUTB4Rm1iRUxrMVdSc21FV3dzOGxmR0haX3VKU00y?oc=5",
+      "date": "Wed, 25 Dec 2019 08:00:00 GMT"
+    },
+    {
+      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "名物「検問うどん」7年ぶり復活 中野署友の会が年末警戒の署員を激励",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSDJ5aWRha1dyMElNdlRDQnJFbEFIUnlMZXFLVjdZYnhtMU1ieWZ2cHFrcVVteGN0aGs0bnc1NURZOTY2RE8zajJYWWt1S2lBYnFaN1dQRXhqRHZreVhGU0JId3JBNGhuWHZHVVdZSXQ?oc=5",
+      "date": "Fri, 19 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "長野自動車道 岡谷ジャンクション周辺リニューアル工事が再開 去年工事に伴う交通事故は146件 約7割が追突事故 車間距離・前方をよく見て運転を【長野】 （2026年5月10日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnowOUl4WWEyeHRfeU9xajJDYV9RYXlieEE1LVROLXZ3V3QtTTQ4bjBBUmJTZlI2RC1tOEFsWHpGMVVoY2lGTXRqcllLcllISW1GekluSWp4RmVUdDFNT3lmX2U5OEJCWERWaVVja20zUmthVS00UEJmS19ZX05xV0YtWVJyQXc?oc=5",
+      "date": "Mon, 11 May 2026 03:39:00 GMT"
+    },
+    {
+      "title": "日テレNEWS NNN 5月11日(月) 12:39 長野自動車道 岡谷ジャンクション周辺リニューアル工事が再開 去年工事に伴う交通事故は146件 約7割が追突事故 車間距離・前方をよく見て運転を【長野】 ｜報道／ドキュメンタリー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sWnZjZ3ZIczNHbEw1WVUyOTdyeG1ObXNzVXBzRm0xUHAzb29OS3NyUm1lUFZSbXQxSEx0QThkOGdFQmI0aHlIVzBDbw?oc=5",
+      "date": "Wed, 13 May 2026 07:19:48 GMT"
+    },
+    {
+      "title": "伊那市で出合い頭の事故 82歳女性が大けが、同乗の9歳男児と7歳女児が軽いけが【長野】（テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTWpTOHhDR3B3TjBTVFlycFhVMXd1YkNoRXlWVF9MQjg4ZU8za0lBcmhjZlc2cTlhaWt5YlMtbzVocF9lQTg0ZWFBemZnelV1b0ZNOVl5MzcwRDlBMXhqMm5EMVptV3pHeHFWeHo2VU9rMlNvcXlFWklnNGI3UXc?oc=5",
+      "date": "Mon, 11 May 2026 03:14:00 GMT"
+    },
+    {
+      "title": "車同士による衝突事故…東京と岐阜の男女4人が重軽傷 長野・茅野市の国道",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVlA0bTdrV0VaMzhqMVYySW0teE9YaFBlZmdsQ1ZpQXEtRlZhWTRZR25LeVFOTFYxWFk3QnhRbUdKalU1QnFiZnZkX0R6M3R2RXExaDk3RQ?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "磐越道バス事故　「生徒引率時の安全確保を」業者の安全管理体制、運転者の健康管理・労務管理　長野県教委は県立高校に通知",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JMFlmeHMwdS1wOEFfZlg1UUlQNkpHeWxFNlY4cEtkZXM0NUJ3VDF4RmNyOEJsZXFTOW5WSXlZNGE3aFpDVkNrN1VSdXVsM3RpbWM1aFR0Q0N0RTdHMDU0dFI2MjUtUll3SVBwaNIBckFVX3lxTE5ETVZvemdTZkJqOUszVmJLZ0d2YUd2U3djZElHOGpVeF94UGljY3VGSzVOLU5JZmwzdjVhTEphUndGY2JJZjVkVlJvYzN6RzFHOXJVVUFJclJaZXY2TlFMTWJPUVVvczZDcHdLbldlU0xEZw?oc=5",
+      "date": "Wed, 13 May 2026 11:48:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

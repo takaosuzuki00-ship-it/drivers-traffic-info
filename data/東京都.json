@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-14T09:50:34.293654",
+  "generated_at": "2026-05-14T12:03:25.496532",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.1,
+    "temp_max": 23.1,
+    "temp_min": 14.8,
+    "precip_prob_max": 93,
+    "precip_sum": 0.1,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 15.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.1,
+        "weather": "快晴",
+        "precip_prob": 46
+      },
+      {
+        "time": "15:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 19.5,
+        "weather": "晴れ",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 38
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月12日（火）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41STZDWEJkYUh3MHlzLXp2cGZSMWVSNTlVamY0cHpwN2YtVms4bU13a0ttR1RXalIyZFhzX3g4RW1kZzVMSjdIemdYY05DeDNfXzdleGNqN1ZKaEoyaXQzX1VVYWhKNk02M05OUFdaRdIBdEFVX3lxTFBuZl9qeDhUUHIwOHlEekdyQXBLeGd0dEQ0NVl4WTlGRzlHeHRYVmRqZHFld2huSTJ0NEE3SnRHVzZ0Y252Si1fR0YtTDJ3UFgwMlNDaVpWUm9Da1NsSVdxYjlzRmp6TzF6M2xZZXhNVWxOWUg1?oc=5",
+      "date": "Mon, 11 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月10日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZF9sU1phVFVHRlRFVmE4QlpyT0o5TGEweHNuSWpBYjhHSVRpSWx0ODBtZ2llbnB2M2p6enNKd3FmSmQzSHdXNDZzN2RqNUlTcjZEZWVyM1Z3OFM5LWhrS1JEWUdYcm5ibkZEMm8zONIBdEFVX3lxTE45d3QwTElsNENjdEtTQzF4T2tLUnpxRFJMWDgtQzhrZ21QcndiVEMyek9xekoxRVd3ZTJGYlBqQno2Qi10VkE2Qkd2M1dIQTZLNmlRRHZxd3IxekRlRFB6TmNhRTdXb1hCOTVja2hveFBlbkZt?oc=5",
+      "date": "Sat, 09 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "関東地域連絡協議会／「首都圏大規模同時合同取締」全20カ所で違反車両27台に行政指導",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFN1FnUEt5VnE3bjJveGtkanI0TzlXSklOcG4zRmJoNzg4SnNIbWFJLWdmUDNCbEpKc2g5d2xoVWladmhzSTFJSnVrSkFkVnJfcXBYbg?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "「息ハァ～ってして……酒気帯びだね」 東京全域“大規模検問”で全乗りもの一網打尽！ でも「クルマは3人だけ」いかにも令和な結果に!?（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfYzhvbFI5WTROd0psdnRQd3hSMXZ6YXZ2eFdMblg2bUY0VUZESXZsMDA5TTNWMHhOT0ZpZml3a3lYNzlyc2FvWWdR?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "「息ハァ」東京都内で、管下一斉飲酒検問が実施された結果は？ (2025年12月11日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNnV4S0pqWDhRLVBLamxDczViR21tbE5UY3o0RDRiOG9kUXRvaFdjd1FxUHdVOFUtX0dfSmxyeHVwd1htbGZ4Z1BXNW5MSFhaQTFOTUtESkpBaFNxakE?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "観光バスが電柱に衝突、運転手が搬送 乗客なし 東京・江戸川（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDclk3RDV6aFRkeklfaTJxamZJbVo2YjB4cnh0S3M2TzVoUzgxdkdCZ2hfaHdyY2toOUVqMkZPQXBLd2tIZEpuWE5mZ3ppQmhQZjJqaE4wbjIzWl9hTXhxa3hjaTEtQzdkS2xRTU50MGI3US1lRnVCWTZhMzR1VzA?oc=5",
+      "date": "Wed, 13 May 2026 21:56:12 GMT"
+    },
+    {
+      "title": "東京・文京区で信号無視の軽自動車が乗用車と衝突・横転 歩行者4人巻き込み5人病院搬送も軽傷 直前にスピード違反や当て逃げか",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyTlA4TXVNb1hXSWtmRFVuWWJlbHQ4RkFUZjBramZ3RmJFUHpwckIxZmNYdWVxTnBiQmYyTnRRS2VWdGZwWWozUjFYNWlfdw?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】乗用車4台と自転車2台絡む事故 5人けが 東京・板橋区",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pSXpNWUZrRGZmOUg0OW9jWDFXZWZfT1BQbkdPM0hXRW1JcGx0eUk4cjY3S3pOSEJmb09ZWXZJZU55eDZKdTlDVHh6V3NsQjQ?oc=5",
+      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東京・板橋で車5台と自転車2台が絡む事故 警官含む6人搬送",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS2JVTkNBai1kZ0hBNGRxVFpPTUszVnFlTkRXZTlpNzk0RmJBVk9GZ0x0aWRmamVnU1o0ZlpKdnBWSTR0TnRwc085azlXTXBvN1M4Yk11dlJJd0J1ZDVEN0JxaWIxODVm?oc=5",
+      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東京ドームシティ、作業中女性の死亡事故を謝罪 「アトラクションズ」は当面の営業を中止「今回の事態を極めて深刻に受け止めております」",
+      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOVlpad1BkTVdkUWN5NEloMm9SdUkyOHcyYlFYNThtN0RGb2wxQTRlY01RM1VZeWVyckpvZ2w5X1lOdUNFclFxZTVtbEFVTURCRHoyYVpKdTd5dGRKQVlfQzQ0VTRXQzNwZ2Z4RWo5VmxkMFBNNXItWFZrMlM4dUd5YnlSNkhCSzNsNG51azR5ejlLbkFuaVFLanVRSS1fWnBPYV9zVzNMZTdUdjBGNVMtQUZSRDlJZWRKRWdfcFpBTkliQ2xvNHIzd3JsOFlvR3U2cDM3dVcydEF0bHpQbHpDVEVpYy15UnZySWVlS0hwZ2V3WHFsdHJQYVhSZWtldmR2NGNDQzVVRnZTeTh0MDFiWFhYa2R2R2xUSWZqc2RWcE40akdrM2FxcU9HaFY0WHh2NFJmZnFFeTJIUEpjTERwUHlTSUxWbUpXNDVuM3E0R3B0TmNhREJ2bXlPbGlvdFA1TlRhaWhfS3ZrZ1N1U293em9EcjByWU91a3lMcEg0OVRBRG5McEwzYmRBLVlENk9SeDFwLS1yclh4ZmZQRjlacWpCUHdSOExFRllENVBuQTF4SnJQaFFZdEJsSzJMVVNvelE5SG9TTlNUaWRsaDlkbDJqYWYzamtpcVQ5aUFYaGRmb1ZJTzBv?oc=5",
+      "date": "Wed, 13 May 2026 20:25:29 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

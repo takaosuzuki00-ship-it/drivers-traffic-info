@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-14T09:32:34.030319",
+  "generated_at": "2026-05-14T12:03:00.770674",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.4,
+    "temp_max": 20.4,
+    "temp_min": 11.0,
+    "precip_prob_max": 99,
+    "precip_sum": 0,
+    "wind_speed": 8.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 13.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 13.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 18
+      },
+      {
+        "time": "15:00",
+        "temp": 16.4,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 13.7,
+        "weather": "晴れ",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 11.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月14日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hbUVuZTZScmVhTTRCOWFfNEtFZzhwZ1JTT2VfSU1mRjVrTlV1eThzQWZHMnM4bzVsSXUxTzEyQVNDX2QzcEZZZVRIRFpETGdqWk5sM2ZjZjdXdy1zeE1WaGNkSk1nd080c0ZzUXdxQdIBdEFVX3lxTE5YbmFYbVB3OFV4RzRmVlMtMXdLT0dWMEEwUkdIejJ6azJsSDNjRS1GQ0FqNGNFbEMxcGI5eVVKREszbUNDcVc4M2EwNVZFV0RXX1RFbEM1MC1jazE0QjBlZENqUEI4bzdDTWFEOXVPSEpWdnRq?oc=5",
+      "date": "Wed, 13 May 2026 20:09:15 GMT"
+    },
+    {
+      "title": "5月9日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oa283YzRpWWprSTdBTWRWRGhJazF4OWkyNjdyZ0wzUC1EcExoLUh3cnQybEFfa0ZkMVRkVHdhNGhGbmRVNnJWYkc3SGZjaHZmN3VZbmNKZw?oc=5",
+      "date": "Fri, 08 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "５月１４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMlhvQlBOeU9SZ3I0bFQtNjBXT1lvMHk2bE0yeFZNZ0pabEtIaWkyY3Qwa1RqQl94eFZVZVlPMUZ6ODJBUFNRRWtybk56dTVkTEUzczBTSVJiRlBEWGpSbXZza2YwZE9fN1drenJ0cUowUdIBd0FVX3lxTE5xMjBTQzlhYTBIR3FhdUVHNEh5aS1wMWd1YkMwU2Y4OHN1eWxpMDkzNmtkS1dGWUdjU1lfR1ZXX281R29RWThPOHhRSUExODBnVDktN0J3d21ycnF0enhUZUR5aTVqWF83Z1Z4SjZXV1hnZ1NIT2VB?oc=5",
+      "date": "Wed, 13 May 2026 20:53:39 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycEJmY2NYMHFCeVhVMUlJX3RnQl9KRUVMQ2xGT185RHBLZlROSkpCOHAxYkQ0V0d6QXNGWWplc3pkMDNOYU5YTTNybw?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "5月8日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9heDJvMVpZbDkwMVdjRHFPTmJfbFdLRXNTVTB5LUpIWlNFRlBiTm5DR0tiYmE4YVJ4Z1NkVHpQSjZZNXAxdHdxQ20wU0prbzlnMWtyREJPVQ?oc=5",
+      "date": "Thu, 07 May 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "◇１１日の県内交通事故",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1teTVBRXJwdjg0ZTlBNEZiMzhqVU5xR3M0NEdiQ0o5N3BxTWJlYzc2TzBGTE9XWk9uaW5FV2VXUkNkajRuTndhemtFckVTUHM?oc=5",
+      "date": "Wed, 13 May 2026 02:00:00 GMT"
+    },
+    {
+      "title": "福島・磐越道で高校生らが乗るバスが事故 17歳死亡、複数の重傷者 [福島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HMlRYTHdPRTBaMU1OV09MVGY4ZEx6blBaRGVjRXE2MEdNUloyR3dBaXNHMWdjMTlkVGJyaHMzaUxTWU5jQ01aSVZ6ZXFBVFN4ZVZoRERZUkNteFVWWWo4RW1tS2l4bUU?oc=5",
+      "date": "Wed, 06 May 2026 00:18:00 GMT"
+    },
+    {
+      "title": "福島県の部活動バス事故で、道教委が緊急通知 「公共交通機関や貸し切りバスの利用を原則」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aMjl3YU43SEtXZ2FwcFVYbG9hckhOeEhYbzVZRVZ4S0ZUYzZOalZqcHRCaGp6dzZLLS12R1FwVHNPRURSeGQ5VEZrVFY3OGpxUG51Z0lwTnVidw?oc=5",
+      "date": "Tue, 12 May 2026 09:53:00 GMT"
+    },
+    {
+      "title": "高校生死傷バス事故、運転手は今年に複数回の交通事故…運転能力に問題がなかったか捜査",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KVE9zVjhpbmVjQWMzRk5zY2V1UW5qNXFSQmIza3VzU29Ybng0cXdET09NbEprTFkwR3FaZF9Bd25BcFQyYlhKZ2NTVmFmMHhKY2E5MnNfOXVyQzduWm1FdzhHdU5MQQ?oc=5",
+      "date": "Sat, 09 May 2026 02:53:00 GMT"
+    },
+    {
+      "title": "セーフティチャレンジで交通事故防止！",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veTd3ckZvZGVzZi0td0N1YUN6U0xOVDFFd2ZmTzBaOVFfSTRDMllMV2RuYUlieFp1WTduaFlyMlBXcHZ5Nm1DamxOQnZ0RHk0OXUtY25mZVVOWV8yVFlqcFJ3VXF1ejQ0c05CRjU1SjEwakE?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

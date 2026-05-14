@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-14T09:20:33.580261",
+  "generated_at": "2026-05-14T12:02:43.967727",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 17.6,
+    "temp_max": 20.9,
+    "temp_min": 11.4,
+    "precip_prob_max": 86,
+    "precip_sum": 1.8,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.9,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 12.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.1,
+        "weather": "晴れ",
+        "precip_prob": 32
+      },
+      {
+        "time": "09:00",
+        "temp": 12.7,
+        "weather": "霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 48
+      },
+      {
+        "time": "15:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 32
+      },
+      {
+        "time": "18:00",
+        "temp": 16.8,
+        "weather": "晴れ",
+        "precip_prob": 26
+      },
+      {
+        "time": "21:00",
+        "temp": 12.8,
+        "weather": "晴れ",
+        "precip_prob": 8
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月14日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DeW1rNHJiaTJVWVVMSzVieXk4NFNnWGttbm43T09uandLczZOVVFGS3AzVkNOZDRvd2QybmhCYkpQSVF0d01rdzZGRHBON0EyWGY3QktTbUlqdGhRbG9DdGI0YkRtdlBqN2REM3NkTkJPQUxwcGVfZDJDRGhXWWc?oc=5",
+      "date": "Wed, 13 May 2026 20:00:34 GMT"
+    },
+    {
+      "title": "5月11日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zMWNnbUgzSmIweWNCY1JTS1NQdkhtOVBRYTBPSjVGLWQ5QV94bXdBcElFUG5TeU8yazFqUFh4bUNKbEtPYXdaOHRRVm1QNWtkeUlnbjRrWkxkc0ZaYm1aSVlXOEM2QTA?oc=5",
+      "date": "Sun, 10 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月14日（木）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmY3MzJzQ0FFUzdiUVlhUVJObmt2NklhT3ZpTGNSNDAwa3BIVW9WU0xMa1lwXzBOSHNETGEyRjA3WGltT3FzOTRiLTVRMUgxMWtyT3kzRzY4MHV4a1dYQko3N2QxVnBxVG9PNEc5Ui13b1BiZU9abGFsaThINy1RdVd0WTYwN0M5YlI0b19R?oc=5",
+      "date": "Wed, 13 May 2026 21:34:23 GMT"
+    },
+    {
+      "title": "5月10日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uVzBJT05MOW9NekNKaHdDdW5EZm43YkppWnowSmJ6bFpCdTkzd3FmNEJmWkNqWmtxME04dUE5ODdaUGR5bVZCNnQ2aU1VX21FSDRxcEdRM002MDJTWWFCck1rdENPcTQ?oc=5",
+      "date": "Sat, 09 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月9日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40TUU2YUxFTmRScV85OUpKTDhZMXdZR0Y3YzZrbWQzV3NlWmx5ejlGU2VPaEstWVhLVTN0VUVaMFU1Mmd3RExJbVBpZnhCNDg3Y1RmM2JaRWZwZw?oc=5",
+      "date": "Fri, 08 May 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "人身事故の増加率が全国ワースト1位 死者は11人増、岩手県警 [岩手県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SR2puOUV0U1hXN1VCcWFRSXRXWFJvcGZSYUtNOWNlMm1STFZMMkFoS2JPM0hNYkxfU2JpcklBMzN4M2JoSG5SM0VHVXpfcnhfRkNEQWJCTE1HQ1I4OXp1QXdJcl90SWM?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「ただ抱きしめたい」交通事故で小1息子亡くした母が講演 岩手",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxS2NjS05FQUl6U1RsTGVJTXlqVUdWWDVoSTZuUnhVbjRoelBQck0wSk1Majl4VDBWaXIzN01TZ3JTRkpfN0JWRVMxdnFxYUwwQVZKdjlJRXlidGVFR2FFUXdlR05scG11?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故防止の徹底について",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XOVFMaXZEcUgyeWlIRENMVG11VUpRcHQwX0x6eTBITmZwM0xSQmVxRlNXTzVYZk9fTjQzOUlfc21zVEpxMlRzN1p6VDU0U3F1dFBEVi1Wd1Z4UHFsQmJhcUdQckZ6NXZXY3RKSV9hU0JPbTBKWDZOMGZB?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "女性が歩いて踏切に進入か 列車にはねられ死亡 警察が身元確認を進める 岩手・奥州市（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1abHM4aEhldjdadF9Odk1uVGdUSmpSbHViR0xwOHlvR3p3WmQzNS0wOW44MTVnWkZSZ21ramxLTU5ZZlpyVjVVNzdkRGdRM3hvNHdRVVlHVHI0TWU2RklnYy1qN3VubTRNWlV5UGw3WWpfeDNlY3NoNTE3dTVRbFk?oc=5",
+      "date": "Wed, 13 May 2026 04:42:00 GMT"
+    },
+    {
+      "title": "女性が歩いて踏切に進入か 列車にはねられ死亡 警察が身元確認を進める 岩手・奥州市 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuWkhEYW5LMTR4T0RsRTFkejZyRGFCME5sdU53dUpEYTl3eDNDemJ0ZHg5c21wQ1Q1MkFiYThWTjZaSVNDM3Z4bnUxMVRrUDRockp4dVVZY1ppN2tndVVVb0tmd2wyYjg?oc=5",
+      "date": "Mon, 11 May 2026 02:21:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岩手県警察 公式サイトを検索",
