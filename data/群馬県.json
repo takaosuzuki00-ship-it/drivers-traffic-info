@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-15T18:03:43.098995",
+  "generated_at": "2026-05-15T21:03:40.266950",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.7,
+    "temp_max": 23.2,
+    "temp_min": 12.1,
+    "precip_prob_max": 28,
+    "precip_sum": 0,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 28
+      },
+      {
+        "time": "03:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.7,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察官引きずり“殺人未遂”で男送検 出頭の際「交通違反をしたので来た」 群馬・渋川市",
@@ -48,14 +107,14 @@
       "date": "Wed, 06 May 2026 07:00:00 GMT"
     },
     {
-      "title": "群馬・渋川でひき逃げか「道路に倒れている人が車にひかれた」、６１歳男性の死亡確認…近くにバイクとシカの死骸",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82eUw1QnZVTmMzQlM4c19WeG51b2N2US1tcGh4d0JHc1dxUDBBZlM3ZmNsM0xuUW1ZVm4waDhFX2hQUVlWSVZvY0dabFVfWHNEZF90UFlvNkg3RmFRLUpVTmd2WjZodw?oc=5",
-      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "「シカと衝突」したバイク男性が後続車にひき逃げされ死亡 目撃者も別のシカと衝突…現場で何が？ 61歳女を逮捕 群馬・渋川市",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43RFBCb2o3aDVmM0dnb1lEbEpDMmhOaWpVcVJEM0VVaEFWbFdRdFBSV1BseXNQaVdoVmMwbzJzaVI3N3NlSFItcEk5dzF1czZaVG1fdDVhZw?oc=5",
       "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒事故遺族が献花、群馬 ３人死亡「２年実感ない」",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZTGEtVk1fYWtIcEpKY2ZRMzVta0VQdjRuOXdsdUJRdUF2X3djNEVmaFdwWU8xZklYTWRlNHBnS3dkLXNTQTRFRmdTeTJvT1lpbnpacFhPV1RhLTNjdk4xMjl6Yw?oc=5",
+      "date": "Mon, 11 May 2026 21:27:18 GMT"
     }
   ],
   "official_links": [
