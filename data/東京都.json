@@ -1,14 +1,83 @@
 {
-  "generated_at": "2026-05-16T00:04:46.800241",
+  "generated_at": "2026-05-16T03:04:24.638316",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 13.8,
+    "temp_max": 24.3,
+    "temp_min": 13.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "5月15日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jT1pIZndUajhlVmlUT3dMdzhnRi1Td3RBN3E4WHBYUHRfYkZzMmJDZEwyR0Q2ZUpobG83WWNyTUdpbXpWOF9zU3JyVlRSMFNQUzU3N2Y4RQ?oc=5",
+      "date": "Thu, 14 May 2026 20:02:00 GMT"
+    },
     {
       "title": "5月15日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZVW5fYzBPVkRremV5b3NfaFZTQjk1RVpOQUtRVjJnYnhpSVViMEpiUkRBS1lyNDBLYkduUE9WaFplcEZwUFV5Ulk2UjhkTFE2cTdScmxxWFRTSTNjYmVlQklVN3NkbnJvakhvcXhWY9IBdEFVX3lxTE5HM2ZUM3d3SmJZRC1FeXJMamo5SDJENzJkX0dpYk9WcEdGOG1seGFaT1piRXF4UnBjb0tIQlhwZGRBbFh6QS1rT1l3UTNPbHRtTlh0SktOc2o3V2UxVDZRMjVJdG8taWZ1am9CUnRSaHJINjlY?oc=5",
       "date": "Thu, 14 May 2026 20:07:39 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月３０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
@@ -19,16 +88,6 @@
       "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Z2gzaFJSZjh0MzlUMVl3UEVtYUxlR1I0WlBEdm1aQUdQdl9CU2NWQW9zS3F1d2FqQVNaMU4xV2pqTHR0YWotRDRaZUUxaVlxbGRtZGRNQmVZMkE4UmQ0QnJFdHhsMnFKRkJvMFJDNNIBdEFVX3lxTE1JdFV4LWpweXhkNGFIM2JZbV9obVl1cmplWV9GdDM0TWpYbnE3ZjBkcGxmZmgzX3JEaWtHTUJuQW1mbllLT0NseDhrTXRaMThBeHlBWUk5NGRZS0czQVdLYl9zb1NBWEVkOUZuUmdOYWRiMmxw?oc=5",
       "date": "Tue, 12 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ３月３０日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
-      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "関東地域連絡協議会／「首都圏大規模同時合同取締」全20カ所で違反車両27台に行政指導",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFN1FnUEt5VnE3bjJveGtkanI0TzlXSklOcG4zRmJoNzg4SnNIbWFJLWdmUDNCbEpKc2g5d2xoVWladmhzSTFJSnVrSkFkVnJfcXBYbg?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,9 +107,9 @@
       "date": "Tue, 05 May 2026 07:00:00 GMT"
     },
     {
-      "title": "3カ月の死者数が4月だけで2倍に!? 【警視庁】バイク関連死亡事故多過ぎで“二輪車ストップ作戦”実施",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYUpBVU5SeWw5VDFIREswcFVkVmQybVN0NkxveWRHY0VFd0JycUJLWFhPcGV0YkFwdlFUVFJDNEFKaEh3QzNzS0xPV3E5ZDlxYThoaDJGV2ZrMnpvU05nZEtfNlFuMGdTb0hONmE0cXRfRlRCTmRaakRWeEdVSzg?oc=5",
-      "date": "Sat, 09 May 2026 02:47:00 GMT"
+      "title": "【速報】乗用車4台と自転車2台絡む事故 5人けが 東京・板橋区",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pSXpNWUZrRGZmOUg0OW9jWDFXZWZfT1BQbkdPM0hXRW1JcGx0eUk4cjY3S3pOSEJmb09ZWXZJZU55eDZKdTlDVHh6V3NsQjQ?oc=5",
+      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "大阪・東京で死亡重傷事故増、大型車比率も上昇",
