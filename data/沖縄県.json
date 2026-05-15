@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-16T03:08:22.477671",
+  "generated_at": "2026-05-16T06:07:37.741053",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.5,
+    "temp_max": 24.8,
+    "temp_min": 21.2,
+    "precip_prob_max": 63,
+    "precip_sum": 2.1,
+    "wind_speed": 24.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 31
+      },
+      {
+        "time": "03:00",
+        "temp": 21.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 43
+      },
+      {
+        "time": "06:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 51
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
+      },
+      {
+        "time": "12:00",
+        "temp": 24.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 24.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "18:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
@@ -53,9 +112,9 @@
       "date": "Tue, 12 May 2026 03:13:01 GMT"
     },
     {
-      "title": "バイクの17歳男性が死亡 車と衝突 沖縄市の国道329号",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wWVJOcGg4OHlEd3RwXzRveVNTVGZDNDA2TGtaMXBxMklIZEo0a1FNcWpOVTR5ODVDSGNycTNQUy0tWWFCZUJPMWViQldkaXo4cEVEWXVhdEx6ZFU?oc=5",
-      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+      "title": "那覇市で交通死亡事故 歩行者がはねられ死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdWtyelYtUl81VGFMc25PQWx1WnJEU2RzVUIzVWFoZmhzbFRWRVU2TjZfMmJjRVFJRlRsdnZDVWZ1TXZFSFg4SUZXcVlYYUxpWXBCN0M5dURPZw?oc=5",
+      "date": "Tue, 12 May 2026 03:10:23 GMT"
     }
   ],
   "official_links": [
