@@ -1,83 +1,73 @@
 {
-  "generated_at": "2026-05-20T00:03:56.650650",
+  "generated_at": "2026-05-20T03:05:02.309051",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 17.3,
-    "temp_max": 23.6,
-    "temp_min": 16.2,
-    "precip_prob_max": 96,
-    "precip_sum": 7.1,
-    "wind_speed": 4.7,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 16.8,
+    "temp_max": 23.9,
+    "temp_min": 16.1,
+    "precip_prob_max": 81,
+    "precip_sum": 6.8,
+    "wind_speed": 3.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.3,
+        "temp": 17.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
         "temp": 16.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 17.1,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 22.9,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 22.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
         "time": "15:00",
-        "temp": 21.8,
+        "temp": 22.8,
         "weather": "晴れ時々曇",
         "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 20.5,
+        "temp": 20.0,
         "weather": "弱い霧雨",
-        "precip_prob": 18
+        "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 18.1,
+        "temp": 17.6,
         "weather": "強い霧雨",
-        "precip_prob": 84
+        "precip_prob": 47
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "５月１９日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyRERPZl9QaFJYQXZ6RURiYl8zZkpvMERMZnJ1SXF0X3Z3MW81OTMzUkRLTllyclNCc3F2M0R3NnpKbzBDWDRmcnNuUjZNMXlCdzFpYjhzOTJpV2ltUjJ1UElGa0xZdlla?oc=5",
-      "date": "Mon, 18 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "５月１６日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NYXExblQtUUpvckNta3dZdzlYMVY2dGVPNXJEbkFWUV9DSE1yNnZfU2RuZXFUZHF5YWhWYmppSnhhZnN0YzlTb0VkNmRkNlkxQ3JUeGl5YzQzMlU?oc=5",
-      "date": "Fri, 15 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ３月２９日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MbGYtNzVhLVlLV3FGOEhFWWY5MHB3MWFvRjZyN052TndsLXRlV09wZHROX2U0dlVQUVFGTF9OREZ2bzN1WmctbVI0aw?oc=5",
-      "date": "Sat, 28 Mar 2026 07:00:00 GMT"
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "５月１８日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -85,9 +75,19 @@
       "date": "Sun, 17 May 2026 20:00:00 GMT"
     },
     {
-      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdDZGdm0wV3lxZTB0M1BzdzBqLWtGbHBiZzFYbzJEUEluS2p4OHRBa1VMZzhEZk1iRFYzaExKS1dqZTFVVnFGZDF5TndyT216bDNtSlVRZ0VXVEhJQ1M1WVhYMV8wVHNDWmdHM2pEeWw2LUxPdDh6NjluVW1nLWc?oc=5",
+      "title": "【交通取締情報】福井県警 ４月１８日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV290Q2NxRDVkejJsdUNnb3BFRzJUTVdqVm1ROWN1SDQtZXJoNHFQZVEzY0lVNVdlQTlRa0d1RUFia2hueTZDRk9PbzVkb0RORWpDbVFRS1ZMY096QXc?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕（2026年3月4日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
       "date": "Wed, 04 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Fri, 15 May 2026 20:05:00 GMT"
     },
     {
-      "title": "「正直、細かいところはちゃんとできていない」 石川県では学校関係者の本音も 磐越道バス事故を機に浮き彫りになる指針をめぐる課題（MRO北陸放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nTzZiUlJJX2hRbmxHcll6OWlsN3ItUEtianJDQUlPRGpWWXBteXk2YlBSVS1vM2h2WGxNRXpHejlpVHFuanZJbnNkWm5XQmRJd0dYTXVMQjNXNmVZRDYtMDYzQnhGY1ZjSTFtc3NoRmFEMDlmaTVwQnFURmVWcVE?oc=5",
-      "date": "Tue, 12 May 2026 10:05:24 GMT"
-    },
-    {
       "title": "2025年の交通事故死者は前年より3人多い状況 石川県警本部長も加わって歩行者事故防止へ街頭キャンペーン",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Ym04NldMT042TkNzdFdnUEZSZ1d6cms3WUFlUjZ2LW5JVkVDRFhiZmFKUWRYaWZGRUhKU1JNLUlWSGJjRVVJNnRtU2ptN0d1XzRGeHN2YVYxdw?oc=5",
       "date": "Tue, 21 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "県立４校が外部運転手 磐越道事故受け石川県教委調査 顧問の同乗呼び掛けへ（北國新聞社）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Y215a3RRdVI4MWhCYzJ0OFN4U1E1bFhlamg1TE43S0FHYzYySWRtVFdEdU1wMmVvcmtuUTlNYWJpcG8wb1lkLU9NV3N6YzRRSmxEV1p1TG9FMXVTQVVFYTZnUkEwdnRIUm5KZnd1TFV1anZEMVFlVUQyMGowNjQ?oc=5",
+      "date": "Fri, 15 May 2026 20:00:33 GMT"
     },
     {
       "title": "春の交通安全運動期間、事故４２件、死者ゼロ 石川県内｜社会｜石川のニュース",

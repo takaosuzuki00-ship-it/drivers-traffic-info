@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-05-20T00:05:01.223255",
+  "generated_at": "2026-05-20T03:06:25.465257",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
+    "code": 63,
+    "weather": "雨",
     "temp_now": 18.9,
-    "temp_max": 21.2,
-    "temp_min": 17.8,
-    "precip_prob_max": 84,
-    "precip_sum": 8.7,
-    "wind_speed": 2.6,
+    "temp_max": 21.5,
+    "temp_min": 17.5,
+    "precip_prob_max": 92,
+    "precip_sum": 15.5,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.9,
-        "weather": "晴れ時々曇",
+        "temp": 18.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 18.5,
-        "weather": "晴れ時々曇",
+        "temp": 18.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.8,
+        "temp": 18.1,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "09:00",
         "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 21.5,
         "weather": "晴れ時々曇",
         "precip_prob": 12
       },
       {
-        "time": "12:00",
-        "temp": 20.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 24
-      },
-      {
         "time": "15:00",
-        "temp": 19.0,
-        "weather": "弱い雨",
-        "precip_prob": 49
+        "temp": 18.7,
+        "weather": "雨",
+        "precip_prob": 20
       },
       {
         "time": "18:00",
-        "temp": 18.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 84
+        "temp": 17.7,
+        "weather": "強い霧雨",
+        "precip_prob": 65
       },
       {
         "time": "21:00",
-        "temp": 17.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "島根県警と鳥取県警、選挙違反取締本部を設置 衆院選",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qamx5WmFaNnB4Ylk0dHY4dUFhTGdNenpKLW03VkxSaThDaU84UFYyREJYLWl2TzlHaEtGN0hiUk1tM19mdXFSN2d2TUt2NE92ZDFxNF9mcndZdw?oc=5",
-      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
-    },
     {
       "title": "「厳正公平な取り締まりを徹底していく」 島根県警本部に選挙違反取締本部が設置 公正な選挙のため1000人近くが取り締まりに 島根県（2025年6月23日掲載）｜日本海テレビNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUtTNE5sWk82amJOb3phSHo2SkJPZWJkdFYxT0owRGZFTFdjNmJ4aUxyUEpjTmpIM010MzlhWnpGcjNzaHdXOEJnZWc4R0Q0T0hmSTNrYWVkbzJ5S0lWd2ViX0RjZDBxMTliX0VZRlZlaTRYcFRYU2ZLRGE1ajB3SXBlX0FSSUU?oc=5",
@@ -88,6 +83,11 @@
       "title": "島根：自転車酒気帯び 摘発４２件：地域ニュース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTElXQWEtWEpDcGV2QmItZ2EzSWFJRVZEc0V1UmxLUEFWc3RyZWRlZVRPdXozN0lhanZ1QnJib29vME1jWUNwVUdSY3pNZUNQOGhjTm1RQ1ljbDRTQlVkUXp6XzdRdVFYZGJ4V3VUS09DUTQ?oc=5",
       "date": "Thu, 13 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ一斉検問 島根県警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xODhJUWgxM29GWFpvN18yVnpmZmFfdnRoSXhCLWJ1QTBIcXN4R1BoZkUwM2RPMXdKTFVaQzB3TW9TNS1ya0VwcDB4YTZSb0t5dUp2QUlQUlJfQQ?oc=5",
+      "date": "Tue, 30 Sep 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [

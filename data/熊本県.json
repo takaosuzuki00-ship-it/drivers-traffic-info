@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-20T00:05:59.561890",
+  "generated_at": "2026-05-20T03:07:42.858623",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.9,
+    "temp_max": 30.2,
+    "temp_min": 21.9,
+    "precip_prob_max": 100,
+    "precip_sum": 1.5,
+    "wind_speed": 3.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "03:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 28.4,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 75
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数（RKK熊本放送）",
@@ -11,14 +70,14 @@
       "date": "Mon, 18 May 2026 20:02:14 GMT"
     },
     {
-      "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyWUxBYzYyaFlhU2FIR3JlWERsX1hMRjQzVXZUaGplUlo5V25DSV91Z1lBdC1EYkVZZU91b2p0RUlBcGFTeXFwbm83RlVhMWF3YlVjbzlkSFlPbmZPMklIQ0JnQ1lDRFVRZ01OYzc4OFRSVUc00gF0QVVfeXFMUDJZTEFjNjJoWWFTYUhHcmVYRGxfWExGNDNVdlRoamVSWjlXbkNJX3VnWUF0LURiRVllT3VvanRFSUFwYVN5cXBubzdGVWExYXdiVWNvOWRIWU9uZk8ySUhDQmdDWUNEVVFnTU5jNzg4VFJVRzQ?oc=5",
-      "date": "Mon, 18 May 2026 20:02:00 GMT"
-    },
-    {
       "title": "5月14日（木）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMWcyTUQ0YXVfbElONWN1cmg5UFZLV1dZTWc3YlFTV2FqV052Wl9NaGhpcUpxRjRKZEpLVW5peUxrMmdJUjVzMUFPLTZXV2Q0NFlxdU91ZDdmZw?oc=5",
       "date": "Wed, 13 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyWUxBYzYyaFlhU2FIR3JlWERsX1hMRjQzVXZUaGplUlo5V25DSV91Z1lBdC1EYkVZZU91b2p0RUlBcGFTeXFwbm83RlVhMWF3YlVjbzlkSFlPbmZPMklIQ0JnQ1lDRFVRZ01OYzc4OFRSVUc00gF0QVVfeXFMUDJZTEFjNjJoWWFTYUhHcmVYRGxfWExGNDNVdlRoamVSWjlXbkNJX3VnWUF0LURiRVllT3VvanRFSUFwYVN5cXBubzdGVWExYXdiVWNvOWRIWU9uZk8ySUhDQmdDWUNEVVFnTU5jNzg4VFJVRzQ?oc=5",
+      "date": "Mon, 18 May 2026 20:02:00 GMT"
     },
     {
       "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数 (2026年5月19日掲載)",
@@ -48,9 +107,9 @@
       "date": "Sun, 17 May 2026 00:51:43 GMT"
     },
     {
-      "title": "交差点で大型バイクと軽乗用車が衝突 バイクの男性が意識不明の重体",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LX2xsREozZmh4dmZlR1JxNmRfc0tsT0psRm96Vlk2NzdZM2JIUi1aYzc4U29BZU42LXdJVEk2UmVMOEJDWFE5WndDZmM4YlJULWUwdXhR?oc=5",
-      "date": "Mon, 04 May 2026 10:10:26 GMT"
+      "title": "中学生が\"オートバイ3人乗り\"か…車と衝突し2人を病院搬送 熊本・嘉島町（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xc0pHUHdMa2p3NjJ5N3dxUW40V0tKaDhDV1ZuX0Z5Y3Z5dHd4SnotTmY1Y1hObklUSENaT21EenFCS0NWQ1A3UUNRYjhHUnpMT0dnT3c5dlJWcklDeFVySHBDdDVCMkNSbFBiLVBjbkR3Y0dKNjRQR1VIeWc1djA?oc=5",
+      "date": "Mon, 18 May 2026 21:02:12 GMT"
     },
     {
       "title": "直線道路でトラック同士が正面衝突 86歳の男性が死亡 熊本県八代市の県道",
