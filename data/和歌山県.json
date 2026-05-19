@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-05-19T13:41:35.552063",
+  "generated_at": "2026-05-19T15:07:19.445368",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 25.0,
+    "temp_max": 25.0,
+    "temp_min": 15.8,
+    "precip_prob_max": 1,
+    "precip_sum": 0,
+    "wind_speed": 12.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "和歌山県 漁業取締船「みさき」就役披露式",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZ2pMMC12cmMydG83aXktX1ZBbzRubzJpa0NaOFdXSll2ckJKMlllV1pzRk1pZTUweUhSaHd3bkM3b0U?oc=5",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【速報】父親の車の復旧作業中に…追突で挟まれ20代息子が死亡 計4台が絡む多重事故に 阪和道（読売テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BSnNvWEVDQ1UxNVlxNkh0ZXB6MVJzUnNpTnd4TUM2VHlBWjhXMnAzZFdEOHNtbl9jcldTQU8wdGlFNEt4OVhoUWVBYnVpVkFMUjFhLVo5N2JQZzNIRFlHRkd2c3BmREpKNGxORXJDdHdCM0xibWY0X0ZNR3NUN2s?oc=5",
+      "date": "Tue, 19 May 2026 01:06:01 GMT"
+    },
+    {
+      "title": "【速報】阪和道トンネル内で4台が絡む玉突き事故 故障車両を助けようとしたか…車外に出た20歳の男性 車にはさまれ死亡 後続車が次々追突 和歌山・海南市（関西テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVW5OQTJUSEl3S19Wekd4ZmdQQ0NVemZkVURmZkVlT2pEcTRhZFVSeTVpU0lKTkw0MndlZDRvaTlheXFJNDVtYzlFMzZsXzNNckNGTF9zYXNZQXp3X0I1bThrT0RGbmRSeVhTRUUwamhxbFlHWnd0V3FFa2I4RGc?oc=5",
+      "date": "Mon, 18 May 2026 16:31:21 GMT"
+    },
+    {
+      "title": "新宮市で単独死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1manJTMmZGR0U4YzU4T0lRN19mTm5objJKSnFwWmhQMlozV3VyaU1iTmpnUVE2M3g3b003ZlktVk5nemJFUlJXd0twTVVmYzhqbFNXalVMbXE3LUozZ1Fkc0xTMFE?oc=5",
+      "date": "Tue, 12 May 2026 09:32:30 GMT"
+    },
+    {
+      "title": "和歌山・海南市の阪和道下津トンネルで車4台が絡む事故 男性１人が意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERjN5aFZGUnhKbDB0cTB0TGV1bGlwM21HLUJjZmNua01OcjJNRmpYZXNGTVlTSWdMZ294UFFLSEk5UG1kaXlwbjU2cE9SNW9RNXg0Y3U4WUVyMENCbU9Wa3lWQkhybk9jRVFGOEJ6RTNqXzFoQmxB0gF8QVVfeXFMTU9fMV9DUTktbkw3LUN5VU9OdmZKSnl6cW1Sa21iQ3o2Q0lSaWZXNWlhVGtRUTJLNVpBM1RIRWo4V29iNmtBejZwQUF0UTlxOXdnbzhUZFlvS0gyRGZuNWFPUi00eWoyVjVKaE5HRVk0SDF2TjBqeERXSUNYRw?oc=5",
+      "date": "Mon, 18 May 2026 22:05:45 GMT"
+    },
+    {
+      "title": "トンネルで4台からむ多重事故、20歳男性が車に挟まれ死亡 阪和道 [和歌山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ORTQ1NEl2c1BXallwQ05uOVIwY3EzYlFQaExXekdtZDNuVlVVVjlhNjB5dFJjeFNzR3NYWWFNNlk1MXhiRGpnOFdUU0ZWVkNKMEFzSjFvcGhCcWtCZUtBWUVWbWd3eFk?oc=5",
+      "date": "Tue, 19 May 2026 01:29:02 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "和歌山県警察 公式サイトを検索",

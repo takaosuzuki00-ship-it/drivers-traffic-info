@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-19T12:50:34.438033",
+  "generated_at": "2026-05-19T15:04:46.841107",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.9,
+    "temp_max": 27.1,
+    "temp_min": 15.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 22.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "５月１６日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NYXExblQtUUpvckNta3dZdzlYMVY2dGVPNXJEbkFWUV9DSE1yNnZfU2RuZXFUZHF5YWhWYmppSnhhZnN0YzlTb0VkNmRkNlkxQ3JUeGl5YzQzMlU?oc=5",
+      "date": "Fri, 15 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "５月１７日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45QU1xTFJucHB4ajktS3YyVG1aWVF4NTRxYmFvbzVWNHJhTF83NXdaV1R4TzAyeE1Ea3Q5S1Y4YkZvbm1QMjJCdThqRWhOZ2VGWm5vOXI2UQ?oc=5",
+      "date": "Sat, 16 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjX2dzZjFFcmoteEZCb0J1N2pyMXdFMXd0aXhwREJEaW01UUpMaWVWeUlMN0xSeEdzdk1pZnE4YUItRWl6cy1VbVk0RQ?oc=5",
+      "date": "Thu, 09 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "5月15日（金）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZVW5fYzBPVkRremV5b3NfaFZTQjk1RVpOQUtRVjJnYnhpSVViMEpiUkRBS1lyNDBLYkduUE9WaFplcEZwUFV5Ulk2UjhkTFE2cTdScmxxWFRTSTNjYmVlQklVN3NkbnJvakhvcXhWY9IBdEFVX3lxTE5HM2ZUM3d3SmJZRC1FeXJMamo5SDJENzJkX0dpYk9WcEdGOG1seGFaT1piRXF4UnBjb0tIQlhwZGRBbFh6QS1rT1l3UTNPbHRtTlh0SktOc2o3V2UxVDZRMjVJdG8taWZ1am9CUnRSaHJINjlY?oc=5",
+      "date": "Thu, 14 May 2026 20:07:39 GMT"
+    },
+    {
+      "title": "「息ハァ～ってして……酒気帯びだね」 東京全域“大規模検問”で全乗りもの一網打尽！ でも「クルマは3人だけ」いかにも令和な結果に!?",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DUm5VaW1KQ1hnOTI3MDQ4emJuZUZKbUl0b214V0VnRkp1VHJyWUxTTjhwTjI5ZmNMaWs4YTd5M3J4Znczb0NJWEVOeWx6ekpuam9xXzgtaDlXRXpCQWQwNlFRNWxBUVduZjBQQXpoenBKY2ZoclhxelZB?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "東京・渋谷区神南の交差点で車2台の事故 1人がけが 渋谷神南郵便局前の交差点 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sTHRkeHA4Z3lha2NNMVRkRFVGelJSYTdnRmhrcm4tMFRseTY0akFFX1Y0RmxKSGkteUd5cG0wQTZrZmJQT0hvaGdXOGNudU14SmpjUXFSZw?oc=5",
+      "date": "Sun, 17 May 2026 06:57:23 GMT"
+    },
+    {
+      "title": "【速報】東京・八王子で乗用車が歩道に乗り上げる事故 歩行者ら4人けが – Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zOWtsc05qXzV2M18zQnhrUmpTbnZjcV83dWlnd0thNVNxZjZFUXVHQTR6aEJxenFKSk1pUy1fWDhNRkRZOGU0VHNUa0ltdXBjQjl1UHRKNE8?oc=5",
+      "date": "Tue, 19 May 2026 04:47:14 GMT"
+    },
+    {
+      "title": "東京・八王子市で軽トラックと乗用車の交通事故　歩行者含む4人が軽いけがか　軽トラック右折禁止の交差点を右折しようとしたか",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RN1dyM2RMcnpaM25kdjctell0MmN3cmhDWEtySTVWRVJQLS1zM2QtR2M4Tml3LW5XS3h1c3J4V1djQ3RzOHV0QVJUNW9LbzhfTmhmaDNsSEtsdm1wNkc4cXZJblk5a2NaUmVtaEFlVdIBdEFVX3lxTE52TE5mLUNsX3JFbWxRTXNxUENJd2VWMFlxSDFZX0VBd2JJOEViM2JIb3kyemZVcjlmcXBZWWhWZUFqTmFBVkltRWNMR1F3UnIyUUY4OXFjeC01UGZLejRlcUlGaW8yWllaRFpwV011QkQ1MkR6?oc=5",
+      "date": "Tue, 19 May 2026 05:49:30 GMT"
+    },
+    {
+      "title": "東京・八王子市 乗用車が歩道に乗り上げる事故 4人けが",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mMXp3RnRDYTEtRFlWYlgtY1kyM2JFMzZ6cFNfbTJKUGtvTC1EZlk4UDkyYm9SdWtFWjVHbVR6VFJsc04yYVk4MThJX2V2TGQ0VEc0Qw?oc=5",
+      "date": "Tue, 19 May 2026 05:58:00 GMT"
+    },
+    {
+      "title": "交通事故で停電の影響 小学校で授業取りやめ 東京 江戸川区",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRmQweFZiTWVNT1BmMmVhMFFYbjdYY19TNFg0VVFBRGYwWHpiWTYyamhqRXRfd0cwZE95bjNobXMwM1NucHNRNW5jaktaajdjT04zTDhJc3k?oc=5",
+      "date": "Thu, 14 May 2026 03:47:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

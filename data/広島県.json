@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-19T13:53:35.751762",
+  "generated_at": "2026-05-19T15:07:54.349176",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.0,
+    "temp_max": 26.0,
+    "temp_min": 16.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNFVhY3FGemw5Ni02NE82Q0lBTzRZSjBqeFRpZ1FqR2hSTElPRnVoOEVmb09uMHFyb0x0aG81akxPMS14VVBaekQ3WUg1LWgwbXVBWXpNWHV5SjJUVkxKYjBkZFJGVmp4X2NDMjNCQdIBdEFVX3lxTFAyWUxBYzYyaFlhU2FIR3JlWERsX1hMRjQzVXZUaGplUlo5V25DSV91Z1lBdC1EYkVZZU91b2p0RUlBcGFTeXFwbm83RlVhMWF3YlVjbzlkSFlPbmZPMklIQ0JnQ1lDRFVRZ01OYzc4OFRSVUc0?oc=5",
+      "date": "Mon, 18 May 2026 20:13:23 GMT"
+    },
+    {
+      "title": "5月19日（火）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fVFFyNjB3VnVkSUpaRlB6elBEajg2TTA2em1hR3ZCczNlVjlRV1ptSC1oMHZSemFCb2tSV01xcDBDM0ZVbUpCS0p1ZURKUlI4N3lfejlNWFVpWTNPZXR6ak1DUTAyV0IyUXoyblhVWdIBdEFVX3lxTE44R1dUYm1iZ1VuZXUzazhVUzBoY2F1aVBTUFM3RF9BamtmS0xsMzFFY0JrcHV3aENLYnJXY0h4VF9OZWQ4U1VGN2t5Q0lyLTRCSnBESm9FRDVidjRXVHZvU0lHbzdqV1o1S1l3bTR0YVFjak02?oc=5",
+      "date": "Mon, 18 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月16日（土）【熊本県 交通取締情報 午前・午後・夜間】″スピード違反″ あり (2026年5月16日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5TUZraFU2UkVXcy1CSmJ3SUdyNnRSQ0xwancyMUl3OHRXcFkybm9RT2hHWHRHUFZaXzM1MFZHazgyUHotcXd0bHRRanhia2dER0dQVl9xY1NtOHNsRlE?oc=5",
+      "date": "Fri, 15 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月12日（火）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" 複数",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HdjdGZVZRczhPT0ZhMTFqdm1ELUVNTlNfdFdKSzBqbjMxOE5yQzNXQW1ULXBCLW9XT3F2MzNmYmJJT1JpRmsybFpPLWJaUmt1eGZzZldhS0pabmJOanFtT2prUEFUUVU?oc=5",
+      "date": "Mon, 11 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "産廃不適切処理防止へ検問 北広島で石狩振興局など",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjlEUzMxWlVrbFlVc3NUN2VSZGtaU3Y3WUtOY3ZyWDNiVFpLRm5mUkRxeW4yWUdNTkJMZjliaGpSS3BBeFUyaTE5VnpTaTRUbkRLRG5LZ3ZEd0VVMTM5TGhZX2xIY1dOT2ZtWnFFRTVNdXZ1ckNEZmVDSTJveTBzUm1hRDYyTmFYTFpNSFd0TGNPRHBIQ2c?oc=5",
+      "date": "Sun, 17 May 2026 01:37:43 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国道2号西広島バイパスで事故 広島市西区で車線規制（中国新聞デジタル）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTTJaMFJMZVBJZnF2WFZIRk5fMVQwekhkVlpPa1VSaEJjOVRvTEVOQkUxSDBDS3B3WWU3eDg3YnpnT1FTTWhxVVRRR1B4RUVCcGNFWHE3STlzNW9oV3Z3c2dvV3V3TTV4RXFmY2NleXl5RURMZW9LdGY3SXlzV0E?oc=5",
+      "date": "Mon, 18 May 2026 08:42:19 GMT"
+    },
+    {
+      "title": "広島市東区で自動車が横転 3台絡む事故で4人けが",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xNnlDQjFEODctVGo3dFBDbmlGU0lrWC1ZVjMwM2dhSnpZZmZiWl9KTTFQWU5xd2d5RkZWb243VGxVUE90U2xqVWFUbXRvck9fSjUtNFhRazV0QQ?oc=5",
+      "date": "Sat, 16 May 2026 11:03:00 GMT"
+    },
+    {
+      "title": "【事故】広島市中区の寺町電停交差点付近で車同士が衝突 広島電鉄が一時運転見合わせ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Mb3lVOXJEQmY4NU92OXNOWDQtV0p0UUxNYUpGVVhrYWl2RVJYV2ZtM0hzcmVZckpVSEt6MG9wLWRNQVd0VHNaNm5taw?oc=5",
+      "date": "Thu, 14 May 2026 13:53:00 GMT"
+    },
+    {
+      "title": "国道2号西広島バイパスで事故 広島市西区で車線規制",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMEpZX0R6Qng2aFplSVZVTXlILTUxMHhDOFI3NDZDbmUzTnVxUXRwOWI3SzhiVXBWVFV5blZndUlnTHhTNkhLZnFHc1R4MUJqam9RSnBvd1NSUQ?oc=5",
+      "date": "Mon, 18 May 2026 08:33:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

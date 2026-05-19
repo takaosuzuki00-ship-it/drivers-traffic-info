@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-19T12:47:34.403806",
+  "generated_at": "2026-05-19T15:04:38.404938",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.9,
+    "temp_max": 26.1,
+    "temp_min": 17.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 13.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 22.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "公開交通指導取締（２０１８年３月２１日）",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55WUNVMzlIX1prcUlUenpSMW9rZ1dOREdXMmlNVERuODF5M182OHUwSXIyZUtPbTlmc29lVTIyWC1BbTdna2kyVnZ2MUlFTFVpX0w1eTJR?oc=5",
+      "date": "Mon, 18 May 2026 05:31:12 GMT"
+    },
+    {
+      "title": "５月１８日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCR2ZsUHNEVThiNGdYRDBMMnRZTEg2cGJ1Smp5SENnTHJkQzhHZDJ3SXVpOGRSV0MtQXZCX2pqeE5pNXFKN1Fpd180SHFCc05CN21LMEtueWJNeUl6aFgtVXRxaFdILURQVl9NZjhWQ0pxZ9IBd0FVX3lxTE9RNUU5blpSOGs1NUlVeXhfZTFtUTUzX2tKakZrTUkyVEg0S01DdnQ3bDB1bW9mQkx2TUZ2bVl0bGEwbjB2NV9vRktjZ0dFdWRUM3lJZEhONEF5TEN6cDZnQi1CV3pHR3A0OVRoTE1mMDc4dHlGbEhj?oc=5",
+      "date": "Sun, 17 May 2026 20:02:21 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２３年８月８日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBR2RsZEliU3pycF8wSDltOFQwRWJGYTFlMnd6bzM2dm9TOElxT0lIdUxqZVpndHoyakpWUTUycFEtLTRibDFDdGFjQVdIVTdseGF5aENiMA?oc=5",
+      "date": "Mon, 18 May 2026 03:17:27 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
+      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "横断歩道の男児、車2台に続けてはねられて死亡 千葉市の国道 [千葉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRmQtc3lkN0RnSHlrS2hVWml6Ti1ncnJTYko5c2VWbmp5eEhzM2FIblZDYTQzZ3ZwNElqb1lmcmxGY3p0d2VvQkFwOTU2OUJpZGpHdG5mQ3BRQ3gtMFk5emZhaUNIMDA?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故死、最少２６３６人",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mazluUmowSUFURDQ1VmFPUEpLVlJ0UFlaMkJjcWFQNVVycmViOGNYbWpUTjVUQVRfQVI2SVpQSVpnWjd0M0FsVllDNDJkQ0pWaVhfaEFlTDhJSy1nVjBR?oc=5",
+      "date": "Sat, 16 May 2026 19:18:03 GMT"
+    },
+    {
+      "title": "千葉県警の警察官２人はねられ１人重体・１人重傷…軽貨物車運転の男を過失運転致傷容疑で現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hSURScEpTLThGUkYtMi1BTmVCYmVpRkM4R3k2bGNjZjc0TnpQTlZtbDFtR1JPWXUtZFNGWnowVW5XVUhycGhLaFJBbW1wWVpUN19mTnY5dnF1ZXhCUlhQeWxWU1Y2QQ?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "事故対応中、警察官2人に車衝突 千葉・市原、1人は意識不明（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GaFowSEVPZmg0YzhLbGJrQTlfUUxGUVk3RFFXRERDZ1lvaXdBeUoxTkttN3hFY1NDMFZ5Sy1vTHlfRHFBZjgzU2FBS1BqTmRhdk04V25BVDFuU3ZvQ3lRMDA2U0JvemowS3ZLc0dWczllcDYxRmtMbE1KYmM1OVE?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "単独事故か、ガードレール衝突 バイクの女性死亡 成田の国道408号（千葉日報オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YV016Y2pheWNhSjlidHNud0VPQUduYW0wZGl2ZWpiUVhyQXI4bHk0aGVCSk1RZTdxM1ZRdGphcXJhQ2ZVN3Y2amhtb3BXU2hqZExPUDVZci1KZ0NyR1NqMUJ2Z2h6T0pQQWZOR0tNckFjVFR3X01McWdmcC1sQjA?oc=5",
+      "date": "Sun, 10 May 2026 03:03:15 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",

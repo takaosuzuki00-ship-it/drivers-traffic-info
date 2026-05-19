@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-19T12:41:34.343395",
+  "generated_at": "2026-05-19T15:04:21.153112",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 29.9,
+    "temp_max": 29.9,
+    "temp_min": 15.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 11.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察官引きずり“殺人未遂”で男送検 出頭の際「交通違反をしたので来た」 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzWllVaTBRYUVwcm02dHRhZTB1eWNfUG9yeXQtdG5nTkZNS1o3VENXVHhJd2tYZnphU0ZEZzJOR2c4YUN5ekJZejNoSQ?oc=5",
+      "date": "Wed, 13 May 2026 06:27:15 GMT"
+    },
+    {
+      "title": "交通取締中の警察官を車で引きずり殺害しようとしたか、男を逮捕 群馬 (2026年5月6日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUkoxaktrVkVueDV2aUEyT1hmRnRxUXFqU2hIZG5KaEF4NjY0UUNXVjNoY2huYXFKWVA4MzJHYzNiLVMyR3JRc3RjZ3pMX3AtNUJVSkRlT0lJUGlNT1E?oc=5",
+      "date": "Wed, 06 May 2026 03:03:01 GMT"
+    },
+    {
+      "title": "交通違反取締中の男性警察官が停止に応じなかった車に引きずられ重傷　殺人未遂などの容疑で64歳の男を逮捕　群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ySzhsWEFZNGE2VmFwd0w5MTQ4eFU2ZFFmNGhfRU1IbEZSLWV1VTZIQ3VWZ2dMSlVVcXZreUFHb0hBUk1oNHJ4X0ZyRlNlamdRNjh5LWNhUmhwTElISlk1LVF5cGxTbEtIczItUXE4YjJ0UjdQ0gF0QVVfeXFMTjJLOGxYQVk0YTZWYXB3TDkxNDh4VTZkUWY0aF9FTUhsRlItZXVVNkhDdVZnZ0xKVVVxdmt5QUdvSEFSTWg0cnhfRnJGU2VqZ1E2OHktY2FSaHBMSUhKWTUtUXlwbFNsS0hzMi1RcThiMnRSN1A?oc=5",
+      "date": "Mon, 04 May 2026 22:54:00 GMT"
+    },
+    {
+      "title": "酒気帯び運転疑い巡査逮捕 群馬県警、検問中に逃走",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSEFpc3BiTS1DSDQtaTdlQXB0NUlSaXYwSGx2MmoyeExwcUJwYnM2ekVaUXFoTXZwV19DbEtJWGh4R09tMkxLN0JaYkJaODJtdXFLQ1A2MGtYQzBwRFp1enFQcURLd0k5eVl5WmdabUUtdGoxUGc?oc=5",
+      "date": "Mon, 24 Aug 2020 07:00:00 GMT"
+    },
+    {
+      "title": "摘発外国人比率、5年トップは群馬 受け入れ先進県の今",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OZWFQRzkwQV9jVm5YY0M1U1FsQ1dOWXRHMUM4R1pRa1NNMWNwNkdrczZ0eTJwdlJ5TmVoc056MHliWUc4bEROU2tKdHhRbmpKWGV6VGpXUDNLR2pSMHNEcVBFNGREaVFNU21tNQ?oc=5",
+      "date": "Fri, 29 Mar 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止に関する取組みについて",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "群馬・太田市で重傷ひき逃げ事件 63歳の男を逮捕 「事故を起こし現場から立ち去ったことは間違いない」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HWmFoQ3RPbkZVbXpTbjg0ZmFXcmVPVDVpNTl3WmNIZi1fc3Y5TG9rdVh0eHExOGluZENpeTF3VTVuX0djdGRqWUVxVl91cklPbjlkNjJiaw?oc=5",
+      "date": "Tue, 12 May 2026 15:47:20 GMT"
+    },
+    {
+      "title": "乗用車と衝突、バイクの男性が重体 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fM3VUcUhObTIxdE9pdnQ1UnkyMFpsN1RYbzR6M1ZtSm9sQWhvTkdZYmExNjNUZWdLaHZoYXFiXzlwOUFyX2lRV1pzcVFXUnRBYXJaNi0zQjk?oc=5",
+      "date": "Mon, 18 May 2026 08:00:00 GMT"
+    },
+    {
+      "title": "誕生日前日の男子高校生はねられ意識不明の重体 群馬・邑楽町（ANNニュース）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4ycFkzWTR6SWMyTVVCUHBiNDQ1ZDNjcE1jaEhlSHNJZkh4Q3l2eXJ4cHdfeDRTeHZ5eVBSZG9BbTFiWW5ublB3Wk5VNlVXNWFGR0RSQTBELWotZDhWZnM1THVLbG8?oc=5",
+      "date": "Wed, 06 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "《群馬・上武道路3人死亡事故2年》数秒で起きた惨事 遺族「怖さ知ってほしい」【動画】",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRHFsUjRZUzFzTEk3RlBQeFRqS3RsSFdNRmhCMGpscTVtcUQ5NGoxOHhOYlZ1TGFmVnhrWkwweVhtSmF6eUlpNklwaHVlbElpcUpLUDBGSU0?oc=5",
+      "date": "Wed, 06 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",

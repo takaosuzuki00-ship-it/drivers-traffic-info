@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-19T14:23:36.622652",
+  "generated_at": "2026-05-19T15:09:22.430446",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.7,
+    "temp_max": 26.1,
+    "temp_min": 17.6,
+    "precip_prob_max": 5,
+    "precip_sum": 0,
+    "wind_speed": 13.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNFVhY3FGemw5Ni02NE82Q0lBTzRZSjBqeFRpZ1FqR2hSTElPRnVoOEVmb09uMHFyb0x0aG81akxPMS14VVBaekQ3WUg1LWgwbXVBWXpNWHV5SjJUVkxKYjBkZFJGVmp4X2NDMjNCQdIBdEFVX3lxTFAyWUxBYzYyaFlhU2FIR3JlWERsX1hMRjQzVXZUaGplUlo5V25DSV91Z1lBdC1EYkVZZU91b2p0RUlBcGFTeXFwbm83RlVhMWF3YlVjbzlkSFlPbmZPMklIQ0JnQ1lDRFVRZ01OYzc4OFRSVUc0?oc=5",
+      "date": "Mon, 18 May 2026 20:13:23 GMT"
+    },
+    {
+      "title": "１１日から密輸の「取締強化期間」ＪＲ大分駅前で協力呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dUVROW9mb1hteVFLUzN2RWdVY19LM2VSNnhoZ1g5QWw0eFBGTVNyRHBOMkVpOHZfdTZsYk5heldhc3RBY2dnTGZ1MVJQQXlYMHBwbE9nX3E?oc=5",
+      "date": "Mon, 11 May 2026 03:37:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRnhzcU42NWxZUndCWjgySkY1T29RQlVPazl3b0dJY3BhVk9fOUl1ekZ5b1FLVEplT0pSVUdNWWJhYlFZYnlFQkdxNA?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "5月17日（日）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ENFpGLWxGRzhCbW5yQl9IaE1YMkZaQ2JuRU1obEpJeU1KT3RDbVZIUGxkNERfZVhsOHhuX1MtZ0NrLU05WExnOV9pVXJwLXhNMjdOR2loN3ZiU0hUdGhJMG5DRWYwNl9FT1RDSUtBMNIBdEFVX3lxTE9FTm1ES3dLRm0tSFhac1BQZ3EwelhxZmVVSm1iUV9raTVMVV9sRUU3ZFl3VXRWNGQ1Qm9uNHIxQWliODVKLUIwRTZzcjVQTHZ0V19DNGl1OEg4OF8ycGdCQmxrRWN5TFF2T0RqZncwbEZsRDU4?oc=5",
+      "date": "Sat, 16 May 2026 20:13:42 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "GWの高速道路が一時通行止めに 佐伯市の東九州道でバイク転倒し男性死亡 大分",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9URk5YMHM2OTFBcW5WYVBNdkJ3Ymp6LTBoYmtaYnN5MU9pN2FGRzNJZWg4Yi02aWpQNDZYX0ttLTVZNnltUk5NLU4yYUJYbERZWUF0NVZXalBldjdU?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大分自動車道でトラックが横転事故 玖珠IC〜日田IC上り線で通行止め（OBS大分放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNHp4N3RwdU5aOEZvSXhhNzlNRElRSmZCWHQyazNBVlp5Y2RuZk95bXpWOUU3Z0dPM3YwTjAzaHNOTFdnaV9QdVBCUlo3QUdGQXdtZFJNMG9HQjc1Y2JGU3NTQkVoX0gtbFc5WVJsODFNSXN4X3gxc0tNNGptQjg?oc=5",
+      "date": "Mon, 18 May 2026 07:39:16 GMT"
+    },
+    {
+      "title": "大分自動車道でトラックが横転事故 玖珠IC～日田IC上り線で通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SY0JzS293cFF1TEJOb1NqWVJEVjB3YmtVVDdFWmc3RGtKZWJuQ1QtZUdzNDY4cnJHcm1HTHJ4YmpOX0RBUDJPZjRMTXhBaGRlT1ZwXzdTOGlaQQ?oc=5",
+      "date": "Mon, 18 May 2026 07:38:00 GMT"
+    },
+    {
+      "title": "ミキサー車2台が交差点で追突事故 大分市 – Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96YWJDdmJPT05NbWVkWWpXTV9MTEJfc012RHRsM0JwM0NVbTd5dHp2dUNFcjdOVXllYTdvVDJMRmE2dVZoTXlab2xvYW5JV2tpSE1GdUpiemE?oc=5",
+      "date": "Fri, 01 May 2026 03:04:33 GMT"
+    },
+    {
+      "title": "【問う 時速194km交通死亡事故】加害者と被害者⑤ 謝罪の言葉信じられず「会えば許してしまうかも」（大分合同新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Yd291d2NPMC1lZzBCTmN0MWl6WUFLcVFPM0Z2c2lkY0labjRpMTBwZXZNZTVleDlCZXM2Rl8wVVNLMUI3Z3ViZU5pSXZ3NTRCQTlCQVQ2R2lnd1E5TzZRYXVDaFQtVEhhUDlwUFVfVGhEcGdhaENrWkJWNGVzajA?oc=5",
+      "date": "Fri, 15 May 2026 22:01:33 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",
