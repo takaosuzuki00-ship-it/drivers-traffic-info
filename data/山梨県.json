@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-19T21:05:01.460456",
+  "generated_at": "2026-05-20T00:04:04.494316",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 19.8,
-    "temp_max": 30.4,
-    "temp_min": 16.1,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 1.3,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 17.5,
+    "temp_max": 29.7,
+    "temp_min": 15.6,
+    "precip_prob_max": 92,
+    "precip_sum": 7.7,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.5,
+        "temp": 17.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
         "temp": 16.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 16.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "09:00",
-        "temp": 22.6,
+        "temp": 21.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.8,
-        "weather": "快晴",
+        "temp": 28.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 28.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 27.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 23.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 23.1,
+        "weather": "曇り",
+        "precip_prob": 10
       },
       {
         "time": "21:00",
-        "temp": 19.8,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 20.0,
+        "weather": "強い霧雨",
+        "precip_prob": 75
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMU9veHNfNkgtYm1UcF9CRGN6RDcyb3NyeWVWb2p0eFRCTGx2TjlzeTNCZ3hwWngtamhvS2hhQ0ZsVTQxaXF6UzRHY1lsTExuTXJiOFhvOA?oc=5",
+      "date": "Mon, 18 May 2026 20:02:00 GMT"
+    },
     {
       "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNFVhY3FGemw5Ni02NE82Q0lBTzRZSjBqeFRpZ1FqR2hSTElPRnVoOEVmb09uMHFyb0x0aG81akxPMS14VVBaekQ3WUg1LWgwbXVBWXpNWHV5SjJUVkxKYjBkZFJGVmp4X2NDMjNCQdIBdEFVX3lxTFAyWUxBYzYyaFlhU2FIR3JlWERsX1hMRjQzVXZUaGplUlo5V25DSV91Z1lBdC1EYkVZZU91b2p0RUlBcGFTeXFwbm83RlVhMWF3YlVjbzlkSFlPbmZPMklIQ0JnQ1lDRFVRZ01OYzc4OFRSVUc0?oc=5",
@@ -75,19 +80,14 @@
       "date": "Sun, 17 May 2026 20:02:00 GMT"
     },
     {
-      "title": "5月16日（土）【熊本県 交通取締情報 午前・午後・夜間】\"スピード違反\" あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40NVEwaTQ4R1hvdFdtdS1Ra2ZGMGhOZlJZSkUyU2tGMkp4RURPN0lEVnk4TXd0enE5cTJURG1feWYtY2lJVVpqZTA5NG8wdzVOWDhKRmRHNA?oc=5",
-      "date": "Fri, 15 May 2026 20:02:00 GMT"
-    },
-    {
       "title": "5月17日（日）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ENFpGLWxGRzhCbW5yQl9IaE1YMkZaQ2JuRU1obEpJeU1KT3RDbVZIUGxkNERfZVhsOHhuX1MtZ0NrLU05WExnOV9pVXJwLXhNMjdOR2loN3ZiU0hUdGhJMG5DRWYwNl9FT1RDSUtBMNIBdEFVX3lxTE9FTm1ES3dLRm0tSFhac1BQZ3EwelhxZmVVSm1iUV9raTVMVV9sRUU3ZFl3VXRWNGQ1Qm9uNHIxQWliODVKLUIwRTZzcjVQTHZ0V19DNGl1OEg4OF8ycGdCQmxrRWN5TFF2T0RqZncwbEZsRDU4?oc=5",
       "date": "Sat, 16 May 2026 20:13:42 GMT"
     },
     {
-      "title": "小学校の男性教諭 自転車の酒気帯び疑いで摘発 交通安全期間中の検問で発覚 山梨",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWkyeW1CRmh5NXdwSG1iS25xdzV5ZUt6MmlnT256RWZCcGswbEtLbkNvX3hxVlFHaFlad0pacmVWWFpvX29ZOVVQYklaLWZ3X2JXTXpyWV9EcEQ2SGhqMFdZUy0tTnF6Um83SXU1Z3gwa3psa2xDTG8yVE1zSGlBdnBoc2w4Znc?oc=5",
-      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+      "title": "【交通取締情報】福井県警 ４月９日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lSkpoR2toRldvOW1DUExveHpLRG1OZVVXZ3NOaE8tUWktRXNhN3VhNHNOUEptb2hNRTN1WlBBUEFoNE5IbEZxX3N6dw?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
