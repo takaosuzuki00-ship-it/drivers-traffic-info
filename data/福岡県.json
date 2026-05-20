@@ -1,24 +1,93 @@
 {
-  "generated_at": "2026-05-20T21:06:40.572070",
+  "generated_at": "2026-05-21T00:06:22.608546",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.3,
+    "temp_max": 23.8,
+    "temp_min": 19.5,
+    "precip_prob_max": 100,
+    "precip_sum": 1.8,
+    "wind_speed": 6.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "03:00",
+        "temp": 22.8,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 22.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 23.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZlprejU2MXNnVnBaRE1tVmFZUEVNcExteEFwSHhrVXVKd3FJaXlYWmJmUHRpaEVCeHBnaUNZaDNBemtMNTMyZHlLTG02a2xZODByaHpOWHBjcVN1MklzUGNITDdnY0t2QndTY2FhRG1Wdw?oc=5",
-      "date": "Sun, 26 Apr 2026 07:00:00 GMT"
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "運営実態を偽装か 建設業法違反容疑で2人逮捕 福岡・大任の建設会社代表",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aNktlUGhuRUotTk5Sd3p5N0JHR2JGTFE0bEpReE1JdkdzZnBQeXBMU1MyVHlJMkk4bEwzZlFPRGxrMkRHa2dhVlduVm9oRnEyNGp2NjJ5S0Z4UWR0M1pHVDY1UXFzbUd5STdYeEtVTW5wSHZ1aGc?oc=5",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+      "title": "衆院選の選挙違反取締本部を設置 福岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nQW5xdFFqMnctTnhIbGV3dEdPVVhkN2VrMWJqZEVUc01QWFU1WFkzTERuc0JUakdyeTV0TUEtM1hGU1lmOTdFNVJaVThfQVNiOW1va2hkd1hWbWlWUm9iR2tPLS1YUlU?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+      "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
+      "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選、福岡県警が取締本部 7600人態勢、「公正確保へ厳正に対処」",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VempHdXNkdWRnSDJyVkZiTkUtOHpxOEZRNzgzaVV1ZHFEZlFaS1lreld1aERWQkVWWFFXUl9IS2pMX1luSEpOOGE2V3lodC10d2QxVDFB?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "警部補が交通違反摘発で虚偽書類、１６００件取り消し・返金へ…「仕事出来ると思われたく」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAteXBHTzhtcWtkQ3VlbWtPNHhjNTd3aEhnV0RnU0pfclI4M1pBSGZRc2owUEFOU2xqZUtQamlMa0NSb1pTWlBKNmZ4MzhiUE4wMHRJWGt6OU92SHhYb1NwcWMtak5HZw?oc=5",
+      "date": "Sat, 15 Jul 2023 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -28,9 +97,9 @@
       "date": "Sun, 17 May 2026 17:30:00 GMT"
     },
     {
-      "title": "バイク教習中に事故 女性が意識不明 福岡・大野城市（2026年5月19日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yU2xydjlidmdXZlBTWUtIS3hkazJWWTVjaVdpS2cyUUhxZmpNYlFORlltWDJTbEdpMW16YWlxR0ZBM3Q3Q1dDbno0a09ncklaS0xVYmNYRkx0X2tVWVBPWFR6YVRCVERpRWNmaURRRTdyMHd1d1lTb09FemxlbEE?oc=5",
-      "date": "Tue, 19 May 2026 21:47:00 GMT"
+      "title": "福岡の自動車学校でバイク事故 教習中に壁に衝突、女性が意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EVks1RENycVhIZkh4MmhvOXJseXl1VWphWE41cDR0M3BfTVhQSFU4Z213cWVxWDlxV1U0NzZBTDdLQVhtNmtncHFJejFKdVIydHZHa2Nn?oc=5",
+      "date": "Tue, 19 May 2026 12:14:00 GMT"
     },
     {
       "title": "博多区の国道３号交差点で車の衝突事故 男女３人が病院搬送 命に別状なし",
@@ -38,14 +107,14 @@
       "date": "Sun, 17 May 2026 23:40:00 GMT"
     },
     {
-      "title": "福岡の自動車学校でバイク事故 教習中に壁に衝突、女性が意識不明",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EVks1RENycVhIZkh4MmhvOXJseXl1VWphWE41cDR0M3BfTVhQSFU4Z213cWVxWDlxV1U0NzZBTDdLQVhtNmtncHFJejFKdVIydHZHa2Nn?oc=5",
-      "date": "Tue, 19 May 2026 12:14:00 GMT"
+      "title": "交差点で車同士の衝突事故 軽乗用車に同乗の女子大学生(20)が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LcVVIejRCbWZsR0hHcUtPT1U1R2FZWVZMWGpjR0otMmJBZUNwMHV3TlBTMEo0RTBidS0tbnNJX3lTcmVVOExaZlVrUGpTSndGZ2ZpM21scw?oc=5",
+      "date": "Wed, 13 May 2026 03:01:00 GMT"
     },
     {
-      "title": "自動車学校でバイク教習中に事故 教習生の30代とみられる女性意識不明の重体 急にスピードを上げ建物の壁に衝突か",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uaGlSUXFKeGpONTNEWDQzMFZLYk91a2FJcmZyanNxZUxlRHBQR0dfbkc1YVlHNktyUlVYSi12bmVpNUo4UHVseE04SGVMaHlBMThVdXVUM1hrN1VqVGMyTEFod19HNG8?oc=5",
-      "date": "Tue, 19 May 2026 13:48:00 GMT"
+      "title": "車同士が衝突 子どもら6人搬送…大学生1人が死亡 福岡・南区（ANNニュース）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kWmFjOXhJQjREa2JxZFRuc0FGMUtfUkFYdDRUWU5ITjkwLTB0RjhnZ3Q2WFdHUkZHSjhiN20xVnZndGhOMmFvWFhuZF9KM1JBVUdpSy1Wa1RwbG85VVlKbmRvVXA?oc=5",
+      "date": "Wed, 13 May 2026 01:59:00 GMT"
     }
   ],
   "official_links": [
