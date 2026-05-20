@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-05-20T03:07:47.290839",
+  "generated_at": "2026-05-20T15:14:04.742376",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 20.7,
-    "temp_max": 21.6,
-    "temp_min": 20.0,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 19.9,
+    "temp_max": 21.8,
+    "temp_min": 19.3,
     "precip_prob_max": 100,
-    "precip_sum": 5.7,
-    "wind_speed": 5.5,
+    "precip_sum": 2.5,
+    "wind_speed": 11.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.8,
+        "temp": 20.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 20.9,
+        "temp": 20.2,
         "weather": "曇り",
-        "precip_prob": 35
+        "precip_prob": 59
       },
       {
         "time": "09:00",
-        "temp": 21.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 80
+        "temp": 20.7,
+        "weather": "曇り",
+        "precip_prob": 94
       },
       {
         "time": "12:00",
-        "temp": 21.0,
-        "weather": "弱い雨",
-        "precip_prob": 98
+        "temp": 21.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 20.5,
-        "weather": "曇り",
+        "temp": 19.9,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 20.1,
-        "weather": "霧雨",
-        "precip_prob": 82
+        "temp": 19.7,
+        "weather": "曇り",
+        "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 20.1,
+        "temp": 19.7,
         "weather": "晴れ時々曇",
         "precip_prob": 35
       }
@@ -65,9 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "5月19日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNFVhY3FGemw5Ni02NE82Q0lBTzRZSjBqeFRpZ1FqR2hSTElPRnVoOEVmb09uMHFyb0x0aG81akxPMS14VVBaekQ3WUg1LWgwbXVBWXpNWHV5SjJUVkxKYjBkZFJGVmp4X2NDMjNCQdIBdEFVX3lxTFAyWUxBYzYyaFlhU2FIR3JlWERsX1hMRjQzVXZUaGplUlo5V25DSV91Z1lBdC1EYkVZZU91b2p0RUlBcGFTeXFwbm83RlVhMWF3YlVjbzlkSFlPbmZPMklIQ0JnQ1lDRFVRZ01OYzc4OFRSVUc0?oc=5",
-      "date": "Mon, 18 May 2026 20:13:23 GMT"
+      "title": "5月20日（水）【熊本県 交通取締情報 午前・午後・夜間】一斉自転車指導取締り日",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHQzWEZCQkV5RzNBUHVnYWVsUzNlTlIxczY1VGVvQWRNSldEZmRsRmk5V015eldtcG8wWi1Edmx4NVdjVlhYUEdBOTU4VXNyeU84Zk1zMjZ0R1JYV0dHT2xabEtpalNIWGhZS3R5d2d5TWpIM0pNdlV4M0Ftd0tRekFR0gF0QVVfeXFMTm5nQzRwMXdweVFJUUNtdVRsNm92ZUczTUlScTkzN0ZPMjNsQ0lpckNWOFQ4Wm9IUGNtZEViR0FWVGU4OGJFNUNzN1VldEtzY3BjYW8ycm1KSkxIU2JkZ2l1eGJFRlhkSGN0RW1xSnFnUmp5V1c?oc=5",
+      "date": "Tue, 19 May 2026 20:16:05 GMT"
+    },
+    {
+      "title": "５月２０日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWERkdTVFSDNyV1UtRWpieWNLcmJITWE5NHQ2Tm4tX3VRVmxqaEpkUVBIYzNVcUtPdVdqOUFHanByZlpEVjlZYmRuc3dJM1lQZ2VVd2cyTTVzdUVnNXItbmZtNmk5YWFPVmlRX2tVVjVqdWlxM2pZNGVoSzFVLUF1V3lmVnHSAXdBVV95cUxPQ0Z2TmtrWk9RN0M2QVY3MjhXNFlRNkxaY0F3ekJzQjBDUnJIdGFTZkVmcnpaRDVDSnFHZER1N1JxeVB0RjlnN2R6QVA2QmJnODU0MmVoWkZSa01OS0FodW5Jc2RBQS1pYU1MRVp1Tl8tVTdkTExaQQ?oc=5",
+      "date": "Tue, 19 May 2026 20:08:20 GMT"
     },
     {
       "title": "１１日から密輸の「取締強化期間」ＪＲ大分駅前で協力呼びかけ",
@@ -75,19 +80,14 @@
       "date": "Mon, 11 May 2026 03:37:00 GMT"
     },
     {
-      "title": "５月１９日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KUGRxQXFPTXZVUW56ZGpqZ3AySThnTUFNVW9zYTRFdFZOSXlEcnZaekhKejhGYUM4dlE0N1NPRjZyaXlRVnNnZURhMDNlMHFiRnJRZXhtQmdDTXJHN3RjN1J0aWo0ZFY1RVpmNGtRVzlwZ9IBd0FVX3lxTE45SzBHOUo4UHhuazhNd0QwMmNLWGc0TF9udzBMQjM1cGZyWGozbkVBNElNNFVRUWlpQTd5TG9aek9qa00yQ2xhY19fNTBQakFaZVFsNnNncEtJOF9Wa01uendTMHpCWlpEeU1Wa2JTWHhMVUdHYkZR?oc=5",
-      "date": "Mon, 18 May 2026 20:11:39 GMT"
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRnhzcU42NWxZUndCWjgySkY1T29RQlVPazl3b0dJY3BhVk9fOUl1ekZ5b1FLVEplT0pSVUdNWWJhYlFZYnlFQkdxNA?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月８日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRnhzcU42NWxZUndCWjgySkY1T29RQlVPazl3b0dJY3BhVk9fOUl1ekZ5b1FLVEplT0pSVUdNWWJhYlFZYnlFQkdxNA?oc=5",
-      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Mon, 04 May 2026 07:00:00 GMT"
     },
     {
-      "title": "大分自動車道でトラックが横転事故 玖珠IC〜日田IC上り線で通行止め（OBS大分放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNHp4N3RwdU5aOEZvSXhhNzlNRElRSmZCWHQyazNBVlp5Y2RuZk95bXpWOUU3Z0dPM3YwTjAzaHNOTFdnaV9QdVBCUlo3QUdGQXdtZFJNMG9HQjc1Y2JGU3NTQkVoX0gtbFc5WVJsODFNSXN4X3gxc0tNNGptQjg?oc=5",
-      "date": "Mon, 18 May 2026 07:39:16 GMT"
-    },
-    {
       "title": "大分自動車道でトラックが横転事故 玖珠IC～日田IC上り線で通行止め",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SY0JzS293cFF1TEJOb1NqWVJEVjB3YmtVVDdFWmc3RGtKZWJuQ1QtZUdzNDY4cnJHcm1HTHJ4YmpOX0RBUDJPZjRMTXhBaGRlT1ZwXzdTOGlaQQ?oc=5",
       "date": "Mon, 18 May 2026 07:38:00 GMT"
+    },
+    {
+      "title": "大分自動車道でトラックが横転事故 玖珠IC〜日田IC上り線で通行止め（OBS大分放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZNHp4N3RwdU5aOEZvSXhhNzlNRElRSmZCWHQyazNBVlp5Y2RuZk95bXpWOUU3Z0dPM3YwTjAzaHNOTFdnaV9QdVBCUlo3QUdGQXdtZFJNMG9HQjc1Y2JGU3NTQkVoX0gtbFc5WVJsODFNSXN4X3gxc0tNNGptQjg?oc=5",
+      "date": "Mon, 18 May 2026 07:39:16 GMT"
     },
     {
       "title": "大分県内25年の交通事故死者、前年上回る41人　増加は20年以来、65歳以上が６割 - oita",
