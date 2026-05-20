@@ -1,70 +1,81 @@
 {
-  "generated_at": "2026-05-21T03:04:53.179026",
+  "generated_at": "2026-05-21T06:03:35.514752",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 23.0,
-    "temp_max": 23.6,
-    "temp_min": 21.7,
+    "temp_now": 23.1,
+    "temp_max": 23.5,
+    "temp_min": 22.0,
     "precip_prob_max": 100,
-    "precip_sum": 21.3,
-    "wind_speed": 11.3,
+    "precip_sum": 23.5,
+    "wind_speed": 12.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.3,
+        "temp": 22.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 35
+        "precip_prob": 49
       },
       {
         "time": "03:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 75
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 76
       },
       {
         "time": "06:00",
         "temp": 23.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
       },
       {
         "time": "09:00",
-        "temp": 23.3,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "12:00",
-        "temp": 22.9,
-        "weather": "雨",
+        "temp": 23.4,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
-        "time": "15:00",
-        "temp": 23.6,
-        "weather": "晴れ時々曇",
+        "time": "12:00",
+        "temp": 23.2,
+        "weather": "雨",
         "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 23.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
       },
       {
         "time": "18:00",
         "temp": 23.4,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 22.0,
-        "weather": "晴れ",
-        "precip_prob": 98
+        "temp": 22.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
       }
     ]
   },
-  "enforcement_news": [],
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
   "accident_news": [
+    {
+      "title": "【速報】父親の車の復旧作業中に…追突で挟まれ20代息子が死亡 計4台が絡む多重事故に 阪和道（読売テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BSnNvWEVDQ1UxNVlxNkh0ZXB6MVJzUnNpTnd4TUM2VHlBWjhXMnAzZFdEOHNtbl9jcldTQU8wdGlFNEt4OVhoUWVBYnVpVkFMUjFhLVo5N2JQZzNIRFlHRkd2c3BmREpKNGxORXJDdHdCM0xibWY0X0ZNR3NUN2s?oc=5",
+      "date": "Tue, 19 May 2026 01:06:01 GMT"
+    },
     {
       "title": "新宮市で単独死亡事故",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1manJTMmZGR0U4YzU4T0lRN19mTm5objJKSnFwWmhQMlozV3VyaU1iTmpnUVE2M3g3b003ZlktVk5nemJFUlJXd0twTVVmYzhqbFNXalVMbXE3LUozZ1Fkc0xTMFE?oc=5",
@@ -76,14 +87,9 @@
       "date": "Tue, 19 May 2026 10:56:29 GMT"
     },
     {
-      "title": "【速報】父親の車の復旧作業中に…追突で挟まれ20代息子が死亡 計4台が絡む多重事故に 阪和道",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGNheHRCZ211RVJmdFBCdlJRa3d6Vk56Q2JZLUZfNTZfa09IWjdhOWtFUWFlNS0wM1FKNDFZdmg2NlJPOWRwbmlIeGY5UkREc1Z1NGp4YUh5WHFjMzBvSDd6c1EwRHp3Z1NTTlNITkIwb3hMM2w2ai1qTVJZOXg2TTZJRmF1ZHc?oc=5",
-      "date": "Tue, 19 May 2026 01:06:01 GMT"
-    },
-    {
-      "title": "和歌山市、校長会で注意喚起 1週間前までに遠征申請書提出を 磐越道バス事故受け（産経新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXSldiWHdsVTNyUXlpblA0Y0g4Vlc4bGZuTDM5VVB1Y2tOanJyMTNBWFAyRS1BX3ZCM1RmNzVUNjJDdFdYM3B4RDExcjJwVFVrX0xaYzgtU2RVV3ZjdFktaUgtbUhrRDAtbzB3U3I3QWVJRTV0em5TV0htUVk1RU0?oc=5",
-      "date": "Wed, 20 May 2026 03:57:37 GMT"
+      "title": "トンネルで4台からむ多重事故、20歳男性が車に挟まれ死亡 阪和道 [和歌山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ORTQ1NEl2c1BXallwQ05uOVIwY3EzYlFQaExXekdtZDNuVlVVVjlhNjB5dFJjeFNzR3NYWWFNNlk1MXhiRGpnOFdUU0ZWVkNKMEFzSjFvcGhCcWtCZUtBWUVWbWd3eFk?oc=5",
+      "date": "Tue, 19 May 2026 01:29:02 GMT"
     },
     {
       "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
