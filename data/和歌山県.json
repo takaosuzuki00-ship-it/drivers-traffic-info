@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-21T21:05:33.477630",
+  "generated_at": "2026-05-22T00:05:10.456990",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 23.1,
-    "temp_max": 24.2,
-    "temp_min": 22.0,
-    "precip_prob_max": 100,
-    "precip_sum": 18.1,
-    "wind_speed": 9.5,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.8,
+    "temp_max": 22.7,
+    "temp_min": 19.4,
+    "precip_prob_max": 96,
+    "precip_sum": 1.3,
+    "wind_speed": 6.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 51
+        "temp": 21.8,
+        "weather": "霧雨",
+        "precip_prob": 96
       },
       {
         "time": "03:00",
-        "temp": 22.8,
-        "weather": "晴れ",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
         "precip_prob": 76
       },
       {
         "time": "06:00",
-        "temp": 22.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
+        "temp": 19.7,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "09:00",
-        "temp": 23.3,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 25
       },
       {
         "time": "12:00",
-        "temp": 24.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 33
       },
       {
         "time": "15:00",
-        "temp": 23.8,
-        "weather": "曇り",
-        "precip_prob": 98
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 22.8,
-        "weather": "雨",
-        "precip_prob": 92
+        "temp": 21.6,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 96
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       }
     ]
   },

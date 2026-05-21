@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-21T21:03:00.476737",
+  "generated_at": "2026-05-22T00:02:38.065858",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 11.5,
-    "temp_max": 16.0,
-    "temp_min": 11.2,
-    "precip_prob_max": 24,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 11.1,
+    "temp_max": 16.1,
+    "temp_min": 9.7,
+    "precip_prob_max": 8,
     "precip_sum": 0,
-    "wind_speed": 10.8,
+    "wind_speed": 11.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.6,
+        "temp": 11.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 11.6,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 10.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "06:00",
-        "temp": 12.9,
+        "temp": 10.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 15.7,
-        "weather": "曇り",
+        "temp": 13.3,
+        "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "12:00",
         "temp": 15.8,
-        "weather": "曇り",
-        "precip_prob": 12
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 16.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 24
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 12.9,
-        "weather": "曇り",
-        "precip_prob": 20
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 11.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 10.2,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月16日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIMi1VUGRwQ2F0ZU9zR2pTc1RMTlVCaC1BcWUyYURmVkVacnlCM1EwcUFROGMza1FVZUlmMjBoTV82dWE5QzJzZzhiOXB6UUZxRE9mZUt0aw?oc=5",
+      "date": "Fri, 15 May 2026 20:00:00 GMT"
+    },
     {
       "title": "５月２１日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhQRTJsUTBBSEppZ0RMX0xUNU92Yzc0TFEtU19BUlhaUXRSX09kYm9ibVVMZGhjUmZfbDVSdGpwY2dMcjA4YjRxalF0YmtjRjU1bXNpWkx1c1RqM1lnQ0c5bFFDS3U2d2VwSElacEExdHNxZW8tRktXd0lNTVFQNkFNVDTSAXdBVV95cUxPX0FtNXRqVE85STdzbEtEaVdjTnVVZnVtQ3p6ZE5XdTZfTVY5NUk2c2tLeWFOM3pRY1FDeVRpUF8wRWpNZFFWS0dYUkhHZWdsOEJyZ1l2Sk1uV2pHVkRwY0dnWUdCY2Izd204SXQ3d185bmtwQlIzWQ?oc=5",
@@ -80,26 +85,16 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
-      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "速度超過で摘発、県立特別支援学校の男性教諭を懲戒処分／青森県教委",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45ZndzWTYxcm1TX2RBUzc5b3Q4WW9sUV9maVdfV1UtVlNvYTdwNFlkLS0xc2Fyb1FpMVRORFJZLTBmdEtqZFdTcEpyRmZYa0EtbzFWMnJReGw?oc=5",
-      "date": "Wed, 12 Nov 2025 08:00:00 GMT"
+      "title": "５月１７日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CWm1DM2NZWXZSWWJja0VaRXRvbVBWVkVxR01wOTZ3OGx4X3hpX2l3SlkxVUpCZmZSOWd5MENRS19XV0NqcEl0Z1ZQYjBCdzlOcWkxNFJtSEhVM1JBcHpFOUFzYm1kQWJrMjYwLU5jS0VvQdIBd0FVX3lxTE1SRXRNS0NGektudlJ3OENONFkwdC1YTlZweUFfTWtUY1FaUFhIRmxmX080a3pTSEZKOEtBM3FvdEZ3ZGFGeWNlSnhxMVU3Q054UmdrOGFhdXZucDN4UmhyOVZTSG1sbXBsamU5MDZ3YVJIQWt4Z3dj?oc=5",
+      "date": "Sat, 16 May 2026 20:10:40 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "相次ぐ交通事故 弘前市では車が横転 十和田市では国道で軽乗用車同士が正面衝突 65歳の女性が死亡 18歳の少年が足首に軽いけが 青森県",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XVGJoZnUwUjdVQnBrTGtzWGpiUkhVZTVwMXNKUkF0anNram1lTlV4dXdQblJyZmxpU0NlLWZ3Z0JBTDk5RmJRRkhYZTJ4dTJpMEJ5WmRxcw?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "東北の事故多発交差点、最多は青森市・環7細越の11件 損保協会 [青森県]",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUDJVbmEtRThYdFN2QW5jQzlHTU1RN0QtZzBIOFc3dmNUSW5FV0s1OUtBM3BYN0hJUEo2bWtkeUJrOGwtdmF2ZjBlaEhFbm1qdGZUZl9MbzhTLW9rdnhrNWpKZDJ6RmdlNkQ0TG5B?oc=5",
-      "date": "Fri, 15 May 2026 01:00:00 GMT"
+      "title": "交通事故が相次ぐ青森県内… 85歳の高齢女性2人が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVkRHLXV6QWFyNUVrWUZLVks3Qmd3WUlRdXhkenZwUFp4ZHVzTVM3SHJHN19UeGRwMC12RzJoQkI3NDkyWjJXaWJPc0hoQ3M1OVk3NU9VejhvSnlkQ0E?oc=5",
+      "date": "Wed, 20 May 2026 21:02:00 GMT"
     },
     {
       "title": "死亡は十和田市の女性／国道102号交通事故｜青森ニュース｜Web東奥",
@@ -107,9 +102,14 @@
       "date": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "title": "トラックと自転車が出合い頭に衝突 青森市で事故 82歳男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BTXR4YTNVVWJ1Y3JUSjNkNEVPS1JDY25QaEhyYUVjQzBIMEFPTWh4NWtmTkJxajBZUVVOYzdSUnl1Y1MyYlVQc3BZRi14TWJ0cWZpMnFhM3A?oc=5",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
+      "title": "相次ぐ交通事故 弘前市では車が横転 十和田市では国道で軽乗用車同士が正面衝突 65歳の女性が死亡 18歳の少年が足首に軽いけが 青森県",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XVGJoZnUwUjdVQnBrTGtzWGpiUkhVZTVwMXNKUkF0anNram1lTlV4dXdQblJyZmxpU0NlLWZ3Z0JBTDk5RmJRRkhYZTJ4dTJpMEJ5WmRxcw?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "50歳の会社役員を逮捕 横断歩道で91歳女性はねられ死亡／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpQ3U5NDg2a1FLUnpzWk9kaUJ5WjBHVnhIOGd3TWZ6M1BndERnejlnN1VEMWlzMWRrallpTnpmRTZyR3hUanBUSklhU1VZeUpnR1A0NEFtbnk?oc=5",
+      "date": "Wed, 13 May 2026 02:45:00 GMT"
     },
     {
       "title": "用水路にトラクター横転 運転していた男性死亡 青森・八戸市（2026年5月16日掲載）",
