@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-05-22T06:31:50.146943",
+  "generated_at": "2026-05-22T09:03:53.158356",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 15.6,
+    "temp_max": 15.7,
+    "temp_min": 13.6,
+    "precip_prob_max": 100,
+    "precip_sum": 29.1,
+    "wind_speed": 14.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "03:00",
+        "temp": 15.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 15.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 15.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 14.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 13.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 13.9,
+        "weather": "曇り",
+        "precip_prob": 37
+      },
+      {
+        "time": "21:00",
+        "temp": 14.0,
+        "weather": "曇り",
+        "precip_prob": 12
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "公開交通指導取締（２０１８年３月２１日）",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55WUNVMzlIX1prcUlUenpSMW9rZ1dOREdXMmlNVERuODF5M182OHUwSXIyZUtPbTlmc29lVTIyWC1BbTdna2kyVnZ2MUlFTFVpX0w1eTJR?oc=5",
       "date": "Mon, 18 May 2026 05:31:12 GMT"
-    },
-    {
-      "title": "５月１８日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCR2ZsUHNEVThiNGdYRDBMMnRZTEg2cGJ1Smp5SENnTHJkQzhHZDJ3SXVpOGRSV0MtQXZCX2pqeE5pNXFKN1Fpd180SHFCc05CN21LMEtueWJNeUl6aFgtVXRxaFdILURQVl9NZjhWQ0pxZ9IBd0FVX3lxTE9RNUU5blpSOGs1NUlVeXhfZTFtUTUzX2tKakZrTUkyVEg0S01DdnQ3bDB1bW9mQkx2TUZ2bVl0bGEwbjB2NV9vRktjZ0dFdWRUM3lJZEhONEF5TEN6cDZnQi1CV3pHR3A0OVRoTE1mMDc4dHlGbEhj?oc=5",
-      "date": "Sun, 17 May 2026 20:02:21 GMT"
     },
     {
       "title": "公開交通指導取締（２０１８年６月１５日）",
@@ -26,9 +80,14 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "ガザ南部検問所、限定再開 イスラエル、運用緩和焦点",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DMTBoZDR2MTJHSG4tb0huNjU5WThYLWtPRG5yQXBSaHYxUHhWVUU3el9MWUVEdndURWQxZ2ctLXVJVW05VHNLakR3NWExMEtZT0E?oc=5",
-      "date": "Sun, 17 May 2026 00:23:49 GMT"
+      "title": "公開交通指導取締（２０２０年１２月１２日）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HdU5BZkRYdXNvQVZna2tTZGx3UVRwbVNDQ0s0M05XSEdzZm9oZjMwR0wtbFVBbDhvLXktODRsZV9HLUF2QnBRZ2hCVi1lY2JaRUZYcw?oc=5",
+      "date": "Sun, 17 May 2026 19:36:13 GMT"
+    },
+    {
+      "title": "過積載は危険 3署一斉検問 茂原・いすみ・勝浦 ／千葉",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtWG9NZU5LZVRaWEktdDUzSG5GV2ZYYUlRWFFnaTUwcHAtWHJQcU1yNlA2anQ1ZVhJQmRDVXAtRTFMTV9WOVd4aFdiTWZCdEhZdTRMUnU4STF2Ym03YkVuZjZ5UFAxMV9P?oc=5",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -43,19 +102,19 @@
       "date": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "「トラックぶつかり横転した」交差点で車3台絡む事故 1人搬送 千葉市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fcFNBWE1vS1dqNndJbDFkWE9vOFpHbVN3T0Naall0OW1MSkNob1ZMcDZneTAxSEhVcng5Mkxwd3VqX2tvU3FrU29UVjBiYW5ZTU11eHZQX1JIcG43QklZU01WRmNBeTg1SE1JLVZYSmlCUQ?oc=5",
-      "date": "Sun, 10 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "事故対応中、警察官2人に車衝突 千葉・市原、1人は意識不明（共同通信）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GaFowSEVPZmg0YzhLbGJrQTlfUUxGUVk3RFFXRERDZ1lvaXdBeUoxTkttN3hFY1NDMFZ5Sy1vTHlfRHFBZjgzU2FBS1BqTmRhdk04V25BVDFuU3ZvQ3lRMDA2U0JvemowS3ZLc0dWczllcDYxRmtMbE1KYmM1OVE?oc=5",
       "date": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "君津市でひき逃げか 男性（66）が死亡 現場には車両のライトカバーとみられるレンズ片が散乱 千葉県警",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUWks1M0wtTV9abDNkOThSTnpDNjBlWHpSdVl5ZEpfLXJFVWg5NzlmeURFb0hzMV82RGRCWUNweVBqNmFGTEpYeXkxWDNGSTcybmtrekthZw?oc=5",
-      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
+      "title": "交通事故撲滅の願いをこめて、新中学生にサイクルリフレクターを贈呈",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZHdEZlF3d1loYlpiTlVDYVotaTVjY0tBUjl4dXRaSzlSOXVJOE1WVlNhNmR4Z1ZNaFdzZk5mMmNQNWlsV3JaNTcxdVcwZ1JyeVdfNF9TMExIaGEwUWo1VHZXSmt0Ql9PWmc?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「普段から車通り多く危ないと…」 千葉・八千代の男児死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81U0ZKSVBpWUQ0YXRTcnlwV2tpeUdzUmNtaUN5dmlxMmZVSzNaeS1IQTVvcDBZRzJFYnA0ZlpuQnk2S0tLaXRrTWVHYXJuNllBbjdXcGdHTjM4ODV1RVFWc21Fekh5eFpK?oc=5",
+      "date": "Wed, 08 Oct 2025 07:00:00 GMT"
     }
   ],
   "official_links": [
