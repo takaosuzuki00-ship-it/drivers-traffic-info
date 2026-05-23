@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T10:26:34.312510",
+  "generated_at": "2026-05-23T13:08:43.391087",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.7,
+    "temp_max": 19.3,
+    "temp_min": 17.5,
+    "precip_prob_max": 5,
+    "precip_sum": 0,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 18.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月１１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucnhNbTN6V0xtLWFsZXcyOUlPWVB1NHY5bjVBSDN0czE0V3BnTWhHYzQ4dHl2Si1mRUZvZzNfZERrVDExdTMyOVpBamotcUQ2amtNYVJDMlFKQkFaR3c?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1SUJrZFdrR2hpZ1lxMlZIdVZxX2lock5KdjByXzlfZXNOT1hmWVJhaWlQRXhhOW5ISkp4MjVOR3NHdlhmWHNTcWtpSQ?oc=5",
+      "date": "Thu, 19 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１１日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdEs5bmk3Q3NJRUpOU0hUaFRYX19JYU9vRmlPdmdELUVkMFFIN0dMMnQwYjRvOWNBSHJNS1Z2WlQzZ256YlpXS0lodXM4elJJVTVWc1BwTDBKWFZmS3c?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "中学生ら13人重軽傷 ハンドボールの試合帰りに車衝突 滋賀・彦根 [滋賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWmpSbUxDd2liS0wzWnIxQ0EwVzhDR1VtMG5STlE5Z2JkekJQY3N3YjhON1FwTUw2Z0ZzUHNOaW1UQVJtRGJZbGJOVWNGMDFCc09YdWxQOFpaY0laV19velFaTEtEUG8?oc=5",
+      "date": "Sun, 03 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jNTZRYmtYeGRsQWxSRXhLcWZSbGZfa25wUUZiV2ZhaHo3T2tyNUNLT00teGYybWhFcDN4RkFKVHRhRDdyRjd1ZDBHV1VLcjlLVFEwaFEtSDFnanNVc0Y5MmV6eFAxWVI1Mjc1QWlyTV9pVTU1QU4zVg?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「じてんしゃ 三方よし」で交通事故防止！",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zbW0zdmJfVXhXVTRiVGdUSnFSZW0wbWpRSDd4emVNTmV4eUpydTg3RzBqT3lZbHVIck1LV1V3RXVTX1A4YnNaRU42NjdvalVNZTdZU0pidmNNbFQ0RHpmT3hqcHNsY0prOTV1cW1uOXg0bzhwVUVj?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "滋賀県大津市の2園児死亡事故7年、ドライバーに安全運転訴え「この道を通るたびに思い出す」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oUFB4RVRhVmdrYTlNaHhqbU5MWEx3Y3ozdHZtNm42clR3UWFGUjV1V1ZFYl81ckhENDNCdUdUS2s2NmdqVjVPV2xmQndkNEF2M1dMMEU1Y2E?oc=5",
+      "date": "Sat, 09 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故の死者数の増加率で全国ワーストになった滋賀県、高齢者の道路横断や後部座席のシートベルトに課題…県警「非常に深刻な事態」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sd0c3T2tIUkVMZVJDWTc4UjhSNE5YNy1RcTh2cndteEd1Ui1lVEN5dnRfb1VJUFZZVnpFQmJaSmlmX3dBcURhTlpzcXloWTR3VkNxdS1wUldqQkZLTVZCX0RKRjZMWk04azlJR0VzQlVEZw?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "滋賀県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T10:20:34.018792",
+  "generated_at": "2026-05-23T13:08:23.888846",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.2,
+    "temp_max": 20.5,
+    "temp_min": 16.5,
+    "precip_prob_max": 37,
+    "precip_sum": 1.2,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.1,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "03:00",
+        "temp": 17.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 16.9,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "09:00",
+        "temp": 17.1,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 19.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.6,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 16.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "銃刀法・火薬類取締法",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZnF1ZjlDTzh3Z1BVd0lNbnJvNV9jb2hJU0c4X0M4WkJvVlBkRjkyeG4yQ01XZGFPWFJlMEgzejFYNXMxd3ZVa2V6Ym5KSUJUcldWeEkzQWlObmFtY01N?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "５月２２日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DdF9wWnIzS1hxcU8zWEoxUnNyMklUaE5EUDlSX2tNMWFVb2RnbHg5Z2RHWU0xcEF5a3JsWW4zUndnU0hRbmpVN19XT2hvWHd4Z0RmYnFOZkFIQVV6X1ViSG1fRzhnYXY5SG05NmJEempWd9IBd0FVX3lxTFBPcGczT2owT2JjUkJjeWZnSUN2Y3dpOThEYU1jQ04xV1cxblAwME1sWEVZUVNocEFydGYyWWZvNERaZDJad19KY0dBbjhfSm1rbjJWN0g0QktYR0xsY3VLSjdhUFpBNGxaZm5NWHExSjFQX0xreEZz?oc=5",
+      "date": "Thu, 21 May 2026 20:11:13 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "５月２１日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94SDJCdUt3bmlTOThQSE9TemxyMVVtNHB4dHFtb0VOMVcxRTlKSjNNWnBFMzdjUDJrME4tV2hQYnpGc2hNX2oyMVptSmlqN0Utb1hha2ZGQ2h0Yzl3a3RLQkJ4dzZzZllPMmVHNU14Xzk5QdIBd0FVX3lxTE9fQW01dGpUTzlJN3NsS0RpV2NOdVVmdW1DenpkTld1Nl9NVjk1STZza0t5YU4zelFjUUN5VGlQXzBFak1kUVZLR1hSSEdlZ2w4QnJnWXZKTW5XakdWRHBjR2dZR0JjYjN3bThJdDd3Xzlua3BCUjNZ?oc=5",
+      "date": "Wed, 20 May 2026 22:43:22 GMT"
+    },
+    {
+      "title": "捜査員約8300人態勢で選挙違反に目を光らせる 参院選に向け「取締本部」を設置 愛知県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSXMxaGpTT2JITk54M0JPYXNlTVNQLVpMRG1PVnNodjVZUmdVdzlGRm9oZkE1bG1XckZFbFNsN2gtdDllaVF3a2dZVWo2MHFKOVlPT3BYNnNkWkZtTEYtcjhuNVNMc1U?oc=5",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "自転車の男性はねた重傷ひき逃げ事件で男逮捕「交通事故を起こした覚えなし」と一部否認 愛知・美浜町",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqcmk0ZXpXcDREb1B2MFAtTktzTHYwVUJpcjVSMGFFVnBpMy0zeTNuNU52OFI2MHA3eGhta0ZSaC15UGI3MEp1Xy1iU1FJUjhiaGfSAWRBVV95cUxNMGloZ0JLSXhFMnVHUkJKVV84Q2Q4WDROUnV4QlVnemwyMUhxNFNWMmFadWd2ZWNYVjg2dlFhcFhydHVSTk12eXBMX2lzb2JpQU9fcHY2QmVEVU9qLXdXMV9WQ3N1?oc=5",
+      "date": "Mon, 18 May 2026 14:30:00 GMT"
+    },
+    {
+      "title": "【速報】｢逆走してきた車と正面衝突した｣ 軽乗用車が逆走か 4人ケガ 運転していたのは70代女性 愛知･春日井市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FMFBSd2VTdFViazhoMFNhQXhZNXFXN2toZGJHeVYtcS1DLUhPV0liSVJoTUdkdmlJZjdCVGV1MnN5QnpSUDhWWkRRUVpCUkpab3B5R2l1dEg0UQ?oc=5",
+      "date": "Thu, 21 May 2026 09:23:00 GMT"
+    },
+    {
+      "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
+      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "愛知 春日井の国道で車２台が関係する事故 ４人けが",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUYW0xNzBFZ0FuVGItUzVFR2I5QS16aExfenR3WE5CVnFfTEdEUXVGc0JRc2dYZElOT0k5UldpeTJnVm5TWmRoaUVMS3cyQ08tdmtzSlJKVEY?oc=5",
+      "date": "Thu, 21 May 2026 09:44:00 GMT"
+    },
+    {
+      "title": "本年２件目の交通死亡事故発生",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4c0s1dlpiY2ZWM0I5aEliQmdic1JEOHdRQmtqRTFMWEpOOFBnR0l3NHFoWXY5ZldJZnVaOFllRlY1UnpyM1FFWnliRzdNNkpla0xPeWM0d3JlZjhXcEZkZHE4ZEVnSXdqMkhHRmVPZldXZmtKWm1qSG5pdw?oc=5",
+      "date": "Mon, 01 Dec 2025 06:20:06 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T10:50:35.289620",
+  "generated_at": "2026-05-23T13:09:38.132246",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.8,
+    "temp_max": 22.0,
+    "temp_min": 16.1,
+    "precip_prob_max": 56,
+    "precip_sum": 0.5,
+    "wind_speed": 14.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 18.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 55
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtTHJXblhWMWk5ZWFIdDNlNWNscTZ4YXVJNkdFZWtZOUVLOTlYVEdzRFVRemdsU2ZDdWFKTjc1eUNUeWp1NnkxdGxJOGlYM3FfVWNYUW9vVXNXdW9xNlFCeGVUbDFMNEpPdlNtSW4wa9IBdEFVX3lxTE9sbzY0YVlEM2xsU04waHYzVGxWTGQ3VEl6R3d6MFJvb3RYYktnYVhjbVlESE81bHJDaXR3ZTd1TEw1LV9oV1NQZXBZTHVKWXZKaDFPMWNHa25PemxhWEFQcUM1cmtmbHBMSjEtYWtRc1o4WXFF?oc=5",
+      "date": "Fri, 22 May 2026 20:13:51 GMT"
+    },
+    {
+      "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajRaLUx5N09RWDlQeTFtVTJHQ0RQb3lSLU5UN1huVHdVNUxZQWlRb1NMTzZzMVlyX3JJbjNsRjYzOGFYc0VpbTRJTzFRakJKbEEweG1kNThVVEtwVERBeUNkckhZcmhMWUxuWUFnLVloSWdHZ0lZeHU0N3hXaHNiX1Q2WFBvNDV4ZE5rYzczMDZJSk50bjZ3dTRwX0hkUk0?oc=5",
+      "date": "Tue, 19 May 2026 21:43:18 GMT"
+    },
+    {
+      "title": "５月２３日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45dGdudGVKWWRxZElKck5PTjN6NXBwSWhMRGxMaVdFTVBmUWV1YV9vYzJpMnJBX2VOaEFSVThBTExRUFdDY2ZfbDRBZTh1c3NtM1lzbTl2NVdLTVlDbXFOU3c5TmZiQ0RYN3RweFRmNEx5UdIBd0FVX3lxTE8xbjJSdTFrS2hoS0tkZ1dhaW1SZ1kxMmJGd3hVWG8tbjZWNEVxR3JnQ1JOODBFUndTZXpvY3lPUElQTG9PdDlBcmlXZFgyLUdiTjJ4QWpZWjVYVEFRbG5CMUZ3ckZJMW50akNsQ0F0ZHl5UjE0ek9J?oc=5",
+      "date": "Fri, 22 May 2026 20:40:44 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "5月21日（木）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90V1VnM2NUUW1jak9NWEdzYXlGdzZJS3NUZ20zb0VLNWRjdzBvSVI0MlFEOE41SWdnYldQdmRURURLQmgwbXRPa3VWemtxTnNDUjJ6SXBpc2c2TmMxMXIxd01KM0hpMTBndW9CbENxUdIBdEFVX3lxTFB2RTJGYnRxekJlcGpNRDV0dGpKRmM3aXJ2LWgtMU9pSjBQYjhnR09VdUVuV0N1WGUwMVg0QWxPdmxFQ2hVTDd1Sk9RZU83YVpuUmVWMmlLT2VHcmdJWS0tTTNlRDZidllON3FJM00tZVl5Njlz?oc=5",
+      "date": "Wed, 20 May 2026 20:06:09 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「私がどんなに努力をしたとしても謙真は帰ってこない」下校途中だった長男（当時7歳）を交通事故で亡くした母親の思い【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OeVlaWXZid1ZrWWRWLWhEbGphdEtoanpxTmpQWk5CbHdESUYyaHY5Z25CZFdJeVp3cXVmSFFfbkJVZmlMci1mTUxKR05oNzVfb0s0THdIU1pXUQ?oc=5",
+      "date": "Fri, 22 May 2026 11:00:00 GMT"
+    },
+    {
+      "title": "岡山市でオートバイが乗用車と衝突 オートバイの男子高校生(17)が重体",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GdC0xSVhDN3FPdzJ1aUJDMEpaaVVOR04yMWZhTGRVek5hZVF4aC1aWU1iY0s4b1BnNVduQjE4ejM3WXl1RUhZVFRQekttUkhB?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故遺児の就学に役立てて 岡山トヨタ自動車が１００万円寄付",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUnM5NDhBWjR1ZjUydG0yMnFfUHFwZ1Zna2tPNnJfN3lPOWxsQlZFUmtkbWw2Z0FRVlRrV0ZlZVhIdWdpMXFENmRUSFFIY0g4X0E?oc=5",
+      "date": "Fri, 22 May 2026 06:33:12 GMT"
+    },
+    {
+      "title": "「私がどんなに努力をしたとしても謙真は帰ってこない」下校途中だった長男（当時7歳）を交通事故で亡くした母親の思い【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04ODZEUHE4RXk4dDlZbzR3bUVwVWVGUFFnSDVJMF9SZFZoTHg4T0tzcEQ2cU5fblFRZmE3cDZtTi1nWkgyc19rZEdTZTBHTUhkV1ZWN1lEUDExNE1fVWxiV0F4dVB3NXRCc0lJc2tqT2xrajhpaUdGdml3RQ?oc=5",
+      "date": "Fri, 22 May 2026 11:07:00 GMT"
+    },
+    {
+      "title": "昨年の交通事故死者数 過去最少の41人に 前年より19人減 岡山 [岡山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MaHR3SzA0S0tReUU0cGtMOURVTml2YmlfNVZVTFBLZjdJNi1VWG1XY0FEZEpXaWcyZTdxcFRycTlwVXRqWDRBSFdCbVZldDRjVXl2R2ZGTkdvNl83NmZ3RzFlVFFjZkU?oc=5",
+      "date": "Wed, 07 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

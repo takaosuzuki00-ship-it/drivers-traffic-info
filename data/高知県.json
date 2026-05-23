@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T11:08:35.966246",
+  "generated_at": "2026-05-23T13:10:30.753243",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.9,
+    "temp_max": 22.8,
+    "temp_min": 19.7,
+    "precip_prob_max": 100,
+    "precip_sum": 4.3,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "03:00",
+        "temp": 19.8,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "09:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "５月２２日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRDQzMExBQVBSWjduSUpXNnNlTU1RdEpRZkRpOWpWT05ZQXZXemU5bk9Kc0NvdnVock9fRkYxYXZCb0JMOGhuU2dDYWZpb08yLVNLb29iRQ?oc=5",
+      "date": "Thu, 21 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月22日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11dWFUaHY0MUQ0aHFYR054OWdCTHNqZXFlblhNQnE2WFhVZHFfMXRLWUN4VjdFRnowWXVNMmRUeTdRd1BLM05SeDdqS2JiYmxYYWdWX0ZrVGNlR1FpZ04ydVdMdHpRNTkzemw5bk5DeWV0a3VxaWxCTjVPMUxoZTQ?oc=5",
+      "date": "Thu, 21 May 2026 20:00:35 GMT"
+    },
+    {
+      "title": "5月21日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSYnItZkRnalBpNkNuQXIzeS14V1hlcTZpVFdkTnNYR3Q0RDhVeWo3X0s4dWVtZ01XMEhGbnBWU2pvTjNwWi1CdWtvMG40ckVCVGNXZURkc2lpMmJvbzgxTTVleGx1RFhOWHhtZl9nMW9PMmtNek1adkV5X2c1V1E?oc=5",
+      "date": "Wed, 20 May 2026 20:00:32 GMT"
+    },
+    {
+      "title": "５月１９日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1eEdLWS11WEFkV1d1T0liOVpKckNFTFJtMkVyNG9ZczRhU0tYRl9CN01NUU9jbVVQUlBJMzFNeWx2ak1GR3IwN2pwN0h5NC1USmdNMDdHQQ?oc=5",
+      "date": "Mon, 18 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月22日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenBPZDQtR0hiLXpyQk1ESkxjR3poSTNQaFRyQl9aejBnM0lIamszOEFaNWM1UDNSWU1xMlFBaXBjd2NRVm9JOG45anhmVWpVZlpCTzBTSVg4aDRjOU9HTnZ5NlBLMFZpU3hiVDJORXBFRFpibHAzTjMyMXJUNnZra1VURUt1UzU5MFhwa0Nn?oc=5",
+      "date": "Thu, 21 May 2026 21:40:54 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「車と車の事故です。はさまれているかもしれません」高知市長浜でトラックとワゴン車が正面衝突 ５人搬送も命に別状なし",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tUmdJYkZUX2FmWmExc3RERFVqal9BR2xOMjdpV05GQ1VBUjFqeDNHQmtXT3o2ck1TdWFsdFZ2TkZRQnpzMlRBckhvdDBjYmZZdm1OaUNPN0p6bTJOZGlUSi1iU21DZV9Y?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高知が交通事故を報告「回避操作を行ったものの…」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIXzhCdkR5dVdwc04tVHE3MnZ4QU5Cd0FfTVlqdm5HVzRwV2g5VThPdVJab05kb1c1S201UEZmMEJnRmZqSmhLUzVmMmpfTUZRUWNZb2VuZWxjdU9uZkhFNUlCOWVHdEFqS2R3UmFB?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "部活で「長距離移動」は必要か 磐越道バス事故受け、高知県教委が「安全確保の徹底」通知へ（高知さんさんテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03Qms2UWxfUUpwaDFrcHdCQmRiQlNEcGc5Z0dhYUt2SHN0ZXBqRnB1NkpQdHN0SlF0YzhyeFg2RmNJaS12LWlUYkZvdERreW1kb19mUlBwR3hlNXMwMTVWN3pXeTRUZ09DU1Z3S3hwNy1wQzR0cmNpczR5LW0?oc=5",
+      "date": "Wed, 20 May 2026 10:57:33 GMT"
+    },
+    {
+      "title": "「運転支援」が油断を招いたとしたら 1歳児死亡の事故は過失なのか [高知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13eVdtNmxyeC1RSkFJU3FqMFlUTkpTQ2VoWXFwU1ZXR0JTRXJWV3JBdkZVdDZTcldJS0c1R0NVWFJjbEhCQjlCblFjRnBTSXVQM0FfT0RJYlV1OFJMNmVVOW4zQmF4QzQ?oc=5",
+      "date": "Tue, 11 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "天神大橋から飛び降り、高知市の８０歳男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PRVVOMWZXanUwd21PTXRnSkV1dmxCMnQ1UWxSMmdtTDJicWRKYkNpdFVzakM5cmhvVnN0X3h2ZzZyMWV1eUFVRzduYXp6UUwzODFtaHNhZElpNzQ2dk9r?oc=5",
+      "date": "Sat, 16 May 2026 23:55:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "高知県警察 公式サイトを検索",
