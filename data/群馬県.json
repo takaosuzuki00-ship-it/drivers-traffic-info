@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:41:33.617827",
+  "generated_at": "2026-05-23T15:03:38.254216",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.7,
+    "temp_max": 17.7,
+    "temp_min": 12.3,
+    "precip_prob_max": 57,
+    "precip_sum": 0,
+    "wind_speed": 7.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.6,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "03:00",
+        "temp": 12.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.4,
+        "weather": "曇り",
+        "precip_prob": 14
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察官引きずり“殺人未遂”で男送検 出頭の際「交通違反をしたので来た」 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzWllVaTBRYUVwcm02dHRhZTB1eWNfUG9yeXQtdG5nTkZNS1o3VENXVHhJd2tYZnphU0ZEZzJOR2c4YUN5ekJZejNoSQ?oc=5",
+      "date": "Wed, 13 May 2026 06:27:15 GMT"
+    },
+    {
+      "title": "交通違反取締中の男性警察官が停止に応じなかった車に引きずられ重傷　殺人未遂などの容疑で64歳の男を逮捕　群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ySzhsWEFZNGE2VmFwd0w5MTQ4eFU2ZFFmNGhfRU1IbEZSLWV1VTZIQ3VWZ2dMSlVVcXZreUFHb0hBUk1oNHJ4X0ZyRlNlamdRNjh5LWNhUmhwTElISlk1LVF5cGxTbEtIczItUXE4YjJ0UjdQ0gF0QVVfeXFMTjJLOGxYQVk0YTZWYXB3TDkxNDh4VTZkUWY0aF9FTUhsRlItZXVVNkhDdVZnZ0xKVVVxdmt5QUdvSEFSTWg0cnhfRnJGU2VqZ1E2OHktY2FSaHBMSUhKWTUtUXlwbFNsS0hzMi1RcThiMnRSN1A?oc=5",
+      "date": "Mon, 04 May 2026 22:54:00 GMT"
+    },
+    {
+      "title": "交通違反取締中の男性警察官が停止に応じなかった車に引きずられ重傷 64歳の男を逮捕 殺人未遂などの容疑 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkLWthenNfYm9uc28tUUVjNzZ5VEJWSXAxbnNKLTFBSS1FYzE0bE9FamUtR05GWVpFWml6bkpDamtma254U0FHN1JMdW1nNVV2NGNnWXhPOVRaX2Z5?oc=5",
+      "date": "Tue, 05 May 2026 02:26:25 GMT"
+    },
+    {
+      "title": "警察官引きずりで逮捕の男 「交通違反をしたので来た」 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85MFRmYzhMNGpYbndYQ0JGVmE5aHlaRjNESmVMa1M4SDB2OGZHcmc4Z0UxRzdkMGpDWThFUzZRY2FjZm1YbnphMHJGVGxjQlhVbmRVRWZpQ0dvRzhrYWluQlpoVU82aHhwYUdDa1JZQzJDaFQ1amlCdHp5cw?oc=5",
+      "date": "Wed, 06 May 2026 09:05:00 GMT"
+    },
+    {
+      "title": "動画サイトで自慢するため、故意に速度超過違反を行った男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ya19GYlA1bzJNeEZ2RzVkTm1OellhVXlRR280VDVkS0c4Qk9BdHE0eFRJZk5TYkxiN3AyeHFyREN1TFhKbmo2NzBkNDhuNEV0UDhpWGk0RlprMDJaSGV3?oc=5",
+      "date": "Sun, 21 Jun 2015 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "乗用車や軽自動車など9台からむ事故 6人ケガ、うち2人搬送 群馬・館林市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqc0pnR0pCd0E1RjVPWjhvdWFORFdMdVBIWWMyY2FiZnZrMy00ZXlrbGVEYnh3UjFVSkg2TVVBWjZTelRsZ3BBS0FZYUo4TmhSeGVCQWZTQlNzeFlEaUhVU2wtRHo2SlJUVXFrTHllelM5Y1BLc0ZJLTlIakRsQ00?oc=5",
+      "date": "Sat, 23 May 2026 04:36:01 GMT"
+    },
+    {
+      "title": "【速報】群馬・高崎市でトラックと車が衝突し…車が歩道に突っ込む 小学生くらいの女の子含む5人けが",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vZ0puTVAwemFWaVdwUzN2cnV0cmxYTENDb2h2UHZrMDd4SThwSEtEODNjTmEyc21wOU1LUUphbk1NZXVHbmR1SnNJNFpuVTlPVkV6ZkszTQ?oc=5",
+      "date": "Tue, 19 May 2026 11:24:00 GMT"
+    },
+    {
+      "title": "乗用車や自転車など複数台が関係する事故 男女5人を病院に搬送 歩行者も巻き込まれた恐れ 群馬・高崎市の市道",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ya3hxRGpxMXNvc2VKOTMzR0p6Vy12V3JqWXpJTXoxZ2lSQ0RhYjlSa0VheVRNVVFxTzM2WDFYVGRzTU1kRnhXTGpxc0ltZkVsdFA0aU5EcUo?oc=5",
+      "date": "Tue, 19 May 2026 14:00:00 GMT"
+    },
+    {
+      "title": "【続報】車とトラックが衝突、車が自転車と歩行者はねる 女児2人含む5人けが 群馬・高崎市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41M28xb1FfSi1tRk1XenpWT0d4VFJwaENTLXRjNG1JSWdRNVBmUXY4WEV6VDQtRGo4bW9aU21aOUw2MnhEdEFjNE9Vbw?oc=5",
+      "date": "Wed, 20 May 2026 01:22:00 GMT"
+    },
+    {
+      "title": "乗用車や軽自動車など9台からむ事故 6人ケガ、うち2人搬送 群馬・館林市（2026年5月22日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RR1p5NVZDU2JUUi1aQk05SFRLS2RNdEJnaVVLOW9oWlBVV0xaVjd0TUFndzZkaS1MNnhzS19jVnBLbW9zQ2tVcHV1ek9Fejlhb3JMQ0Q4NHVNMHpiM0ZVM2hqLVowRk5vd1BNLTEzMEFZQ3Y2dFVfUnlRZko?oc=5",
+      "date": "Sat, 23 May 2026 04:36:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:38:33.477704",
+  "generated_at": "2026-05-23T15:03:32.826738",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.9,
+    "temp_max": 19.0,
+    "temp_min": 10.7,
+    "precip_prob_max": 24,
+    "precip_sum": 0,
+    "wind_speed": 9.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.0,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "03:00",
+        "temp": 11.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選栃木 県警取締本部、文書掲示違反３件に警告",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13S0EzRF94SDNYRERzSGFnODN5eXQwSllrTm5hSjVkZk53UXhhUUhEc2stVE1xS3V2MURhd21Wa3pCWGYxZlRzLTZ4ZDZ6NkxzNGJzaHFITU9xYjA?oc=5",
+      "date": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "参院選２０２５：取締本部を県警が設置 ／栃木",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxaU9rVlVfVUwwbHFoZXU1M3VUcVlkbDBWYVYtSjFCckxCbFdCa0F3RU1MZGhWQlhHWVZ4c0pfQXVwVDZHcUl1WWw2d1VtalY0RzRWYVpxNndhZk9TWTFXbWdjUXRSczJ3?oc=5",
+      "date": "Tue, 24 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "栃木の住宅強盗事件受け茨城県内で警察が検問など警戒を強める",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qSGNXcUttRXZxM3plN3RRdFRtU253eFJGa1pBQXQ2Z3ljQlk2eEdLR21wcE5MWDdMLTVEUGs5UU53ejVvamlmcy1yWGJZSU0ydzREYlcyVno?oc=5",
+      "date": "Thu, 14 May 2026 09:49:00 GMT"
+    },
+    {
+      "title": "国境検問に波消しブロック 東部緊張、ロシア侵攻に備え ウクライナ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fckJJY25RMWVDem16V1gyTWhGWEdCNjhXVWtsVURoTWdMRFQwUzZnMlZNSUhaRFpIQXlJWnhwZU1qN1lCTk81WGdEbjJzYXg2NnBZb0hRNU9sVDJybHkybjJ0bmRXbDR5MTVoSEJ3?oc=5",
+      "date": "Mon, 18 May 2026 17:53:44 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通死亡事故ゼロ1000日達成 野木町に栃木県警が感謝状、22年以来2回目",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKVGJ3MFExX0tvX1pBUmxBSC1QS3hqejg4bmVXMUY2MzNLT1BSQVlNaGNpa1hCeU1EZk40RjEzeW96VEdmOXZ3UFh0VVo1NGRFaEtjUlFQVm1jSEE?oc=5",
+      "date": "Sat, 23 May 2026 03:00:00 GMT"
+    },
+    {
+      "title": "鹿沼で交通事故、歩行者が重傷",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VSWk1NjN2RnNjNG9LMDdSMnRiTHE4eDZDMm4wLVpGX0VONjU4bmlGRl95TldTTWVfdXNVeVVhSHdoQ3lFSHF5SjVBSQ?oc=5",
+      "date": "Thu, 21 May 2026 11:01:00 GMT"
+    },
+    {
+      "title": "交通死亡事故ゼロ1000日 ２度目の達成 野木町－NEWS - tochigi",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nR1ZqZlBzQnNKaDZYNVNqOFhyVF9ib0Z1aVdhN0dBcTVYWXNiZ19JamFQNUlfSEVBVW5PbVBESFozX19ZaHJsUXJwWmIxODY4VmotdzB5SjZvYkx5OWxZ?oc=5",
+      "date": "Thu, 21 May 2026 06:08:53 GMT"
+    },
+    {
+      "title": "鹿沼で交通事故、歩行者が重傷",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EcnNGQ21ZUHpnM3podmJZbVUwUEhPUkJjR3FiVmFmNi1wSkpZMjBOYkl4TkpQUUJxTDJ4V0k0OV9oY0Jlc3hKWUFfaXc5RURORHo1S3ZBRzJvTms?oc=5",
+      "date": "Thu, 21 May 2026 11:01:00 GMT"
+    },
+    {
+      "title": "交通事故に関するご報告",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1heUc2ei1wR0ZENTZMN0xqeFUxdlc3cmtSUFJlU3M5V181Zm9wY2hKclFpVHRCbEJ4S05NR3lNcklLWGZPcXptQkRn?oc=5",
+      "date": "Wed, 08 Oct 2025 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "栃木県警察 公式サイトを検索",

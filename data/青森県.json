@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:17:32.581331",
+  "generated_at": "2026-05-23T15:02:54.437124",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.1,
+    "temp_max": 20.1,
+    "temp_min": 8.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 12.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 8.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月16日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIMi1VUGRwQ2F0ZU9zR2pTc1RMTlVCaC1BcWUyYURmVkVacnlCM1EwcUFROGMza1FVZUlmMjBoTV82dWE5QzJzZzhiOXB6UUZxRE9mZUt0aw?oc=5",
+      "date": "Fri, 15 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "５月２１日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhQRTJsUTBBSEppZ0RMX0xUNU92Yzc0TFEtU19BUlhaUXRSX09kYm9ibVVMZGhjUmZfbDVSdGpwY2dMcjA4YjRxalF0YmtjRjU1bXNpWkx1c1RqM1lnQ0c5bFFDS3U2d2VwSElacEExdHNxZW8tRktXd0lNTVFQNkFNVDTSAXdBVV95cUxPX0FtNXRqVE85STdzbEtEaVdjTnVVZnVtQ3p6ZE5XdTZfTVY5NUk2c2tLeWFOM3pRY1FDeVRpUF8wRWpNZFFWS0dYUkhHZWdsOEJyZ1l2Sk1uV2pHVkRwY0dnWUdCY2Izd204SXQ3d185bmtwQlIzWQ?oc=5",
+      "date": "Wed, 20 May 2026 20:42:40 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "七戸町の国道 ワンボックスカー事故 外国人など4人重傷2人軽傷（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OYnpzbmtLdUlFV1ZHOUotUmdiYnRVWEF6Sy1Dd0RSUWZ1b1k2MmdSZ3I0Z0hLWGlFVk8zQzF5TFoyNUJER0dQV1I2RlRudHdhcDVPNkcwY01nVWlaemZreWxCenJFTnluMDBmZFQ5RXhFMFVfWTdXS19SUmdrQ0k?oc=5",
+      "date": "Thu, 21 May 2026 03:01:20 GMT"
+    },
+    {
+      "title": "相次ぐ交通事故 弘前市では車が横転 十和田市では国道で軽乗用車同士が正面衝突 65歳の女性が死亡 18歳の少年が足首に軽いけが 青森県",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XVGJoZnUwUjdVQnBrTGtzWGpiUkhVZTVwMXNKUkF0anNram1lTlV4dXdQblJyZmxpU0NlLWZ3Z0JBTDk5RmJRRkhYZTJ4dTJpMEJ5WmRxcw?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "十和田で軽自動車が正面衝突 女性が死亡｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZzhmUnc5RGRMYmFoVlptWnI2Z3VBVlpEbVlrYjR6N2NHNUlOenQwaHZYNTRHOFVFdE10TG00cGJQM0U4R2pwQUpucXNUb1hYSENlQ0pCMjI?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東北の事故多発交差点、最多は青森市・環7細越の11件 損保協会 [青森県]",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXkwcXRWTkdzTFlLOGlUSGVieXByMWZlMVBIMHZleG5lc1RjcGZuTlAwSTg3azdXcUJVUVpBWTBhQmlWcVZvWEx2YnpUNU9wbVVEU0VjcEhRY3M1ZURjWVhHOE1jbkttZjRtUGZHeFZPeG9OS1Q2MGI4ck9mZHRNeDJEUmRMTWktVm5tY3hoa1NFUzQzMU9pTXo2RVd2OVpOSUxwWA?oc=5",
+      "date": "Fri, 15 May 2026 01:00:00 GMT"
+    },
+    {
+      "title": "幸畑男児死亡事故受け意見交換／青森署など｜行政・政治｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqVlgtdlR3VHVQYlVKUXN2cnhwZTFPMEVNakFwMjZQb29oV0s5aU43XzFDbDU1SGlOSTNPdGNqRC1iMU51SEZ1QXNqQmpDemhQU1pPcDFZS3M?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

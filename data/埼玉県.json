@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:44:33.693516",
+  "generated_at": "2026-05-23T15:03:45.779405",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.1,
+    "temp_max": 18.1,
+    "temp_min": 12.2,
+    "precip_prob_max": 22,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.1,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 12.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 12.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 16.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "埼玉県警、スピード違反の取り締まりを実施 約5時間で160件確認（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFVGx4SmlQc3R0WFNwMEtPazJqdVJaZXQ5UHpIcFlCWUx2cVc0cTJ4d1ZxZGdLSFdmc2tiZWZwNEZUTGFLQVVKc3ZRbi1zTmtJOW1mNXBLV29qbWpfdElSQWItN0lfYVJPOU1MNWQwdlh1OTRMQlpaUkxHNzYwNm8?oc=5",
+      "date": "Sun, 30 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "友梨さん不明２３年、大阪で検問",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wanNveC1Pdmsxdk5fcnZnZ3VaYnk2TXlqVURCODFVTzRoaTFlaEdXY0JHdlFidEc4Rm1fTkJtUDktYUptd0hKZXFQT1k3ajR1TjNLV1BhOA?oc=5",
+      "date": "Tue, 19 May 2026 08:29:00 GMT"
+    },
+    {
+      "title": "許さない…通行禁止なのに運転した男逮捕、スクーターの35歳 歩行者用の道路で50メートルにわたり違反の疑い 反則金も滞納、6千円を払わず…さらに出頭せず無視「標識に気付かなかった」",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZRFoybmE1TDJDQWJud01rSEVMTE1sbWxCYVMtTDN3MngyTFZ2SGU2TEx6SWV3dWhBYTdyVWJpM1hMTTEwQXBSa3J2R3owTlFFSElxZWU3UzIzTWRjTzBPWnBQLTFUSlQ5TFQ4NnE3eFV0N3pPcWE2WlNFTQ?oc=5",
+      "date": "Fri, 06 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "埼玉・幸手市で高齢女性が車にひかれ死亡 ひき逃げ事件として捜査 埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40TEM2THo0eUlzWDF0UXphWklBMzgzejFuWlN6RExpYkc5Mmd0ekJQNUZuLTBoQ0RBU0daZUkxWmt2V1p3bjdxRU15UG1rbTBCMEplVVhNWQ?oc=5",
+      "date": "Wed, 20 May 2026 09:57:23 GMT"
+    },
+    {
+      "title": "令和7年冬の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84aUtiS0h2dnVSelktZ3VWVld6eTdjWk94MlYwZVotUXJLUWEtWnRhZGJVQlV1N3p6am1DTTc4UGNnazNGZUxHeWpZcHBIdU82TTByTjdKTTB5UFA4YnZ1NEJxdnltcnN6UzNMNg?oc=5",
+      "date": "Tue, 04 Nov 2025 20:15:28 GMT"
+    },
+    {
+      "title": "無免許の17歳少年、2人乗り事故で友人大けがも逃走か…信号のない交差点で車と衝突、16歳少年は出血性脳挫傷や骨折で6カ月の重傷 事故後に姿消し、約7時間後、母親らとともに警察へ出頭し逮捕「逃げたのは間違いない」（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DM1F3aVlxX0tQMEpMOXZ0UzNSanNEbDdBWUd6aXo1UGludTRqaEh0U1ZFRV9jODNJbC0xVDBwMzNCZko3SldidlF6dE96ejNOUDhmdUU1YjdCMWd5eEdNUFJEUUJsTDhhVXNDd1NERHBGRmxzZ2N0Y25KZzgxUkU?oc=5",
+      "date": "Wed, 20 May 2026 23:43:16 GMT"
+    },
+    {
+      "title": "「猛スピードで逃げていった」交差点で停車中の軽自動車に車が追突 まさかの…そのまま逃走 埼玉・川越市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pWlRkUVEwYXpxTGxiTkFfYWcyZFFNbHllalk3eE1USXpHbXE1d2JqenU4THI1RlplUDJDWEZXMmVkQWl1d1lLOFFRYXBuUQ?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "埼玉・吉川市 ひき逃げ死亡事件 現場から逃走していた男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSVpvYzdNNk5kZTItNS11T3ZIbjBRT3FoajNhb0wzVjJtM2d6bGdMSzhOQVRFRUYxM0pUd2FheGdlVWdiMU5JU1Vscy1qNnBtVmlmSF9Waw?oc=5",
+      "date": "Tue, 19 May 2026 08:15:52 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

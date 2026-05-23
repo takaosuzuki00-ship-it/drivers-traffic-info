@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:53:33.807244",
+  "generated_at": "2026-05-23T15:04:00.695054",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.6,
+    "temp_max": 17.7,
+    "temp_min": 12.7,
+    "precip_prob_max": 46,
+    "precip_sum": 0,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 15.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が“不適切な”交通違反取り締まりか…2000件以上の違反を取り消しへ 担当の警察官ら複数人を書類送検へ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wU0Z5dXRnREJHOE8ybFZXY0VUQWNiakJYdlFwem1NY1o0Q1dZQS1iRVlvcFdtVDgtREs2UHdSa09qdjFUdUxVLUFOaUxXNGNoanNDMXVTZ1lYbjJRZkxrVEdnZ2lNZGJXYmx2U1ZjT1RWQWthU01hek5ydnYzcVk?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "約2700件の交通違反取り消し 3500万円の反則金返還 神奈川県警“不適切交通取り締まり”で40代男性巡査部長ら7人書類送検 部下は「意見が言いづらかった」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzSHFIQjRLMEZrSGJTUFhWcHJGUW16SjZ4NVItekVsaEVqbDNoek5XWkF4LVZ6MHBEQnlqdi1ldFhhcmJKRzEtUXNGd3NHdHdtdG16b1pGMA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "横浜の8台玉突き事故 無免許運転とひき逃げ容疑で17歳少年を逮捕 [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBODZfTVF1bmtMeUJ5U09nMlZSQ3ltYVBDVi1OS1VFaWFOd0g4dTMxVDJLOHRWWVFnazY0VVdrcVZqRHF0MFRuZFZPMllIaEV3MnNjWm9nZ0tReGJNLTdOUl93eGNTOGM?oc=5",
+      "date": "Sat, 23 May 2026 01:20:06 GMT"
+    },
+    {
+      "title": "横浜 車8台関係する事故 高校生をひき逃げなどの疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUR3JMVE5VNURJeGZUVWNoVV9fMEFRQWYwS2NmU0RPV2ZUTXZFekFlcXBQWmd1UTY4cmZVRDFMNUtzS05kRndET3M1dTJlUXQtZjExLVp4NWFSa2FORWFr?oc=5",
+      "date": "Fri, 22 May 2026 21:58:30 GMT"
+    },
+    {
+      "title": "横浜で車８台絡む事故 無免許運転で追突、５人にけが負わせ逃走疑いの高２逮捕（カナロコ by 神奈川新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMDRUZ3piY2UtRGlxcWZSVUJTUE9RV1ZrYmNpZE5DRFJ1aWh4UzZjNTlreHcyck5COWliREFyd3ZwQXg4TlFqa1loVGN6bzNRaUxqbjRnUWp5TVNVaFBKZ0VON0Myb2VKUHg1aEM0LW5rbVZhTUI4NFFyQmNUdU0?oc=5",
+      "date": "Sat, 23 May 2026 02:21:01 GMT"
+    },
+    {
+      "title": "横浜市で車8台絡む事故 逃走していた無免許の少年（17）を逮捕 神奈川県警｜Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMHlEckRiM1UzYy1XYmRaQlU3V2o5YnpzakhYTVlua0pDTjN6RUFXZWNaUFI0cFRkNzBXQ1NqaHZsZlJXeW1xMTJrajZwbVNveE1adDZ0SlA?oc=5",
+      "date": "Fri, 22 May 2026 20:07:53 GMT"
+    },
+    {
+      "title": "神奈川県、交通死亡事故多発警報を7件相次ぎ発令 自転車絡みが3件",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SnFITnNfZ1ZSSl9DTDFkZ0FEaW9UakhkQkdKbHV6Yk4zdmdMSk9zYTZLbTRwQjBOanhuM0k2SVRkcGtaMTB5dzFsdzAxOWpTQnZZ?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "神奈川県警 月次取締情報(横浜16+川崎7箇所)",

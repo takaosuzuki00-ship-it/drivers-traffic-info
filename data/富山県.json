@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:59:34.047026",
+  "generated_at": "2026-05-23T15:04:10.692670",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 22.6,
+    "temp_max": 23.2,
+    "temp_min": 16.3,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
+    "wind_speed": 6.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 21.7,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 19.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "車内からナイフとコカインを発見、職務質問で19歳大工の男を逮捕…銃刀法違反と麻薬取締法違反の疑い　富山県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wVEhqXzNnWWVpa3Y1elZubEliMzA1dW8zUzFLZzVYb3FUdV9xR2FkUFpzNzFJX0tlRVI3VzlZWWlrczk4WnpaVXN3ZnFLWjQzdmFZeTRPRnc1LVI3bkxnREVIYzFQcEF4bkRaQ0x6VWhiV0pkc0VZMDZn0gF_QVVfeXFMTk1Ic0tiNUs0ald2UlNvQmE2bjZIMWlYc1R0OFhoU1RRR0x0TDNQREtSNl9IQ21VM29rOTdkTVhVbEhsMGwzNmFtV3MxUU1PT3ZUVWZ5ZTBTcnRCUThuM0dYZ0dMREU5STI1c0prMFh5M0NOLVk1N3NRY2hLVjdsMA?oc=5",
+      "date": "Thu, 21 May 2026 08:30:00 GMT"
+    },
+    {
+      "title": "富山・国道8号で初のヘリ取り締まり 先月の死亡事故受け「空と陸」から交通違反を摘発",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MS2hOaVpBNExBYjAwTW1HOUtyQ25yQjkxYlMyaU50MFlQdDFPSjBIWkNyaTlQanh5cHZRWmljTHZ6OEpCZ1NnOGJxcG0tdw?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "立ち去った男性は…発生時間に合わせ検問 未明の交差点で33歳女性死亡の事故 ひき逃げ事件の可能性も含め捜査 富山・高岡市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tX0x4dGhPNm0xMkZZRmV1dTJSVDVmVm8yTmVIdlpjcl8zVE5wR3RTTUVKUXpJeVpCYzY5dGRyam1wVFpUOXZrckhrZ1JVeVhtY0hBVG9sUHFLMlVNX1M0dUU5Q1k1Snc?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "悪質運転５件摘発 県警、国道８号で特別取り締まり 富山の親子死亡事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwb1FVLXFRd1NjVWFnaE56T0pXaTFPOGtXcDFBVU9ObWlJMWpqRFB4TU0wOEpsWU5PWmVOenRad1BVOVYtMS1valdibmZiWm1ZWHpOTS1iZw?oc=5",
+      "date": "Thu, 21 May 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "部活動の移動 富山市の全中学校に実態調査 磐越自動車道の事故を受け 県内市町でも調査広がる",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVc4TkctR29UOTFKVkFubE16YUd3czVEMFdqRl80Rnp1c2VmR0FsYng1OHd4Y3dFOVpuR29MN1JtM2wweF8yQWlJOTRkNGNlYTY0VXBQYllfLUZWeUZ6ZmZ5RU9pVmpDMVIxZnNoZzN2R3BXSXR4d24zTjkzMjZVY25wZ2xrMDQ?oc=5",
+      "date": "Wed, 20 May 2026 11:17:00 GMT"
+    },
+    {
+      "title": "危険運転に目光らせ 国道８号で富山県警取り締まり、３月の親子死亡事故受け（北日本新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTGFjS0FYdkdONGNMSzk0RndNZ0JPbDRsVjczbTNfWGdlcjZHQnFpU2I2MzFyM19OeEh1eWxoWXQ3Vk00MDBKcGR2Y3FFbW1iSjQ5V2xFRHdwTzltdzZZazJZQkFaalNNQWEtazlKUWpxcDFVMlRkZnNGUzY5V2c?oc=5",
+      "date": "Thu, 21 May 2026 22:21:26 GMT"
+    },
+    {
+      "title": "赤信号を140キロで進入か、危険運転致死罪で起訴 親子死亡事故 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTmFuUkNZM2J3QzBTc3hORk5lMmNVZnB0N0Jjb1ROTTlfcW1iR0ozZUVRUkk0T1RMWTNyQndUM09seG1ORkp6NGk1b0xaODRWaUlYQ2xRRm9PN2NKeFI5M2FrazdDRms?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "悪質運転５件摘発 県警、国道８号で特別取り締まり 富山の親子死亡事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwb1FVLXFRd1NjVWFnaE56T0pXaTFPOGtXcDFBVU9ObWlJMWpqRFB4TU0wOEpsWU5PWmVOenRad1BVOVYtMS1valdibmZiWm1ZWHpOTS1iZw?oc=5",
+      "date": "Thu, 21 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

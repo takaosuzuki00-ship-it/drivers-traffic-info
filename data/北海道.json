@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-23T12:14:32.546277",
+  "generated_at": "2026-05-23T15:02:49.072473",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.2,
+    "temp_max": 18.5,
+    "temp_min": 6.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 17.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 6.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 8.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 11.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "根室に移動オービス導入 道警釧本など 交通死現場で取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rkk2R1lLMFNPemxQWDQxWkI0NGpKZUhNMXBQS21MOUl4MXdLODZ5MV9Xdk5xdmdnbW5XSjRDaGk4QVhlYVotR2JOamIzc3lSRXVGUDRrNVgzQQ?oc=5",
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
+      "date": "Tue, 23 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選に向け違反取締本部設置 北海道警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56M21SZGpIa1R4dHU4cFNpRnBzSVNxaThmZnpwLU52V0NKejBxN0Eyc1k4b3ZtNWFlamZTZ0xvdEZpUzJlRXpvRW9sbWxmZUw0ZE1heS04eldJdw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Wed, 04 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "でっち上げははなぜ繰り返される？ スピード違反捏造の道警・警部補逮捕に「本当に遺憾」、小此木国家公安委員長",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12dmdkNlE2SGozNUVlXzdLLUFZb2wwTnZDbzZXUmo3WnljWWFuY0JYeE5RTUMtUmYzRkZnUTZmb1FkakZaZ21XSEVua1YyT21BQ3c?oc=5",
+      "date": "Tue, 20 Oct 2020 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "杖を突きながら堂々と横断 危険な“乱横断”の実態「足が痛いから…」死亡事故も発生 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YcEo0UTQxbV9RM1dsR3dWd1RFQ0MzYVBuZlJVclBOVTd2SUJTQUJhUWtOTndEOHNOV3ptNEd4Slk3RFkyZFhmeE15UHhWeTU0cTZnZ2JINnhURXNDVWZKYTVTaXY1UVA4VGJqTXk1MkVfUlV3Rm41VzctczhNcDg?oc=5",
+      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "25年の北海道交通事故死、前年比25人増の129人 2年ぶり増 4番目の少なさ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SHR4c0JfZXZHQWx2dVZqTlc0M0hjSktSS1dDUmdpVDBOSUZaRm1IVWt1U0c5dE1FWGo0RC0zWHl5N3hYNVlqUGdscjEwMzY0VTJuY1VkeE92QQ?oc=5",
+      "date": "Fri, 02 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "片側1車線のカーブで軽自動車とトラックが正面衝突_女性死亡_対向車線はみ出しの可能性＜北海道羅臼町＞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhNFdfRVBOSEFsdFF5NXl0NE1qZEtYcHRuWllVMTVuWTgtSE93MURNalF0dy1sbDlLQzVZb2E4ZVh0bUowVzhsbGdoUW1Ib2JPbF9MMWs2Yw?oc=5",
+      "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "乗用車どうしが正面衝突 道外ナンバーのRV車1台が路外逸脱し横転 見通しのよい道路で一方がはみ出しか 北海道倶知安町・国道5号 | 北海道のニュース｜HBC北海道放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGN1FDWTRWN0xudDBoa0xhdlVDNkc1TVVIRUVuOUJsNi1WenhCdVY1akNUSjBYVFdyeHpOczI1VTRFNnhpcER4YmJHREw2RVpHa3FKc3RkMmQ5MUdBWkFPemV5QTRyVVU?oc=5",
+      "date": "Sun, 03 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「ツール・ド・北海道」死亡事故、規制中に走行した車のカメラ映像入手…スルーの警備員、合図だけの先導バイクに憤る選手「運営側に大きな責任がある」 | 北海道のニュース｜HBC北海道放送 (2ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YZnBpUkFxNzZNelQ5VWJNNWRUeUJOWUxieDlaNk9fYjNKLVloN3pyUFJhNGt2RHhVYmRranNrQk51a1loek02aVE4ZmhXRE5vN001V0FiMEkwUDhwbnJFam9R?oc=5",
+      "date": "Mon, 18 May 2026 17:55:16 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",
