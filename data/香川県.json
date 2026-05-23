@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-23T15:06:17.599093",
+  "generated_at": "2026-05-23T18:06:05.484064",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.6,
+    "temp_max": 22.9,
+    "temp_min": 18.5,
+    "precip_prob_max": 30,
+    "precip_sum": 0,
+    "wind_speed": 11.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "09:00",
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "12:00",
+        "temp": 22.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "15:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月21日（木）【岩手県】　日中・夜間の交通取締情報",
@@ -16,14 +75,14 @@
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RlRzWkQ3Z2VMbEZxX3RTc29MbllkbWt4MndhM3RVek5GeGRXNmFLSUFPd2s4dVVLeDRuX2hISUxRdVF1b2k3bVFCVUhfY3N2VUVVaS1JeDZaWGcxS2R1T0l1Y0s?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "5月13日（水）【熊本県 交通取締情報 午前・午後・夜間】″スピード違反″ 複数 (2026年5月13日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQWxQeGs1X1RCRUxFMUtOSGdQd25lanA1MEpySjVmQmtvOGhyOTQwSk1Hemx6V0dvUU5sVWxvVmZYTXptMk1Xcno3RlM2UklJU2RpYXNueTVZUHR0Z0E?oc=5",
+      "date": "Tue, 12 May 2026 20:02:00 GMT"
     },
     {
       "title": "「南海トラフ地震」想定 香川県警とJB・本四高速、NEXCO西日本が「交通検問所」を設置するなど対応訓練",
@@ -53,9 +112,9 @@
       "date": "Sat, 16 May 2026 07:57:00 GMT"
     },
     {
-      "title": "三豊市で軽トラックが建物の壁に衝突 乗っていた男性（61）が死亡【香川】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ak1iV2lKWUh1V1UxcEF1UzRpdUNsMnNvbUpJQXJyV3RqUjVkRTY1Mm43MEpjWFd2TXVmNUt0WVFreVU1NExBR1k0bGQ0Y09NNnRLeE1mNA?oc=5",
-      "date": "Sat, 16 May 2026 08:38:00 GMT"
+      "title": "【続報】自転車で転倒して死亡の男性 死因は病死と判明 香川・善通寺市（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tdlFhSHdhR0pzS0ZKU1hsVV95bFJrQmJoMkJ2bHI1eHNsRXFUb204Q3NHT3c0dk1FcEZCZF9FVnNJVTEzYlRmM0lRSXZ3Y1hUbXg0YkhrSXotYTZteVJDMk4wOS1jeHdUdlEzdjZjRmFsYTc3NFliX2hONTFwZkU?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
