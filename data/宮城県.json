@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-24T12:02:54.822708",
+  "generated_at": "2026-05-24T15:03:31.415671",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 16.1,
-    "temp_max": 17.2,
+    "temp_now": 15.7,
+    "temp_max": 16.2,
     "temp_min": 11.8,
-    "precip_prob_max": 57,
-    "precip_sum": 0.3,
-    "wind_speed": 4.7,
+    "precip_prob_max": 87,
+    "precip_sum": 0.4,
+    "wind_speed": 4.6,
     "hourly": [
       {
         "time": "00:00",
@@ -29,46 +29,41 @@
         "time": "06:00",
         "temp": 11.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 47
+        "precip_prob": 75
       },
       {
         "time": "09:00",
-        "temp": 13.1,
+        "temp": 12.4,
         "weather": "弱い霧雨",
-        "precip_prob": 33
+        "precip_prob": 86
       },
       {
         "time": "12:00",
-        "temp": 16.1,
-        "weather": "曇り",
-        "precip_prob": 57
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 59
       },
       {
         "time": "15:00",
-        "temp": 16.9,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 17.0,
+        "temp": 16.1,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 15.3,
+        "temp": 14.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtTHJXblhWMWk5ZWFIdDNlNWNscTZ4YXVJNkdFZWtZOUVLOTlYVEdzRFVRemdsU2ZDdWFKTjc1eUNUeWp1NnkxdGxJOGlYM3FfVWNYUW9vVXNXdW9xNlFCeGVUbDFMNEpPdlNtSW4wa9IBdEFVX3lxTE9sbzY0YVlEM2xsU04waHYzVGxWTGQ3VEl6R3d6MFJvb3RYYktnYVhjbVlESE81bHJDaXR3ZTd1TEw1LV9oV1NQZXBZTHVKWXZKaDFPMWNHa25PemxhWEFQcUM1cmtmbHBMSjEtYWtRc1o4WXFF?oc=5",
-      "date": "Fri, 22 May 2026 20:02:00 GMT"
-    },
     {
       "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
@@ -80,14 +75,19 @@
       "date": "Thu, 30 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
       "date": "Fri, 22 May 2026 07:14:39 GMT"
+    },
+    {
+      "title": "高校生３人の命を奪った多賀城市の飲酒運転事故から２１年 現場付近で検問実施〈宮城〉（仙台放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfME5MdWNuZHVNaEtGZkg5WGV3Y0J1SkVnOU9TSUktcWF1VzZRRTVrdjFya2NSSTgzQWJJYVhrZTBvZkdiQW1iT2plYmxZX1RMTU81dWlfa3BsbWxpTEZkUUpIeGZBUDBwZTg4S1pqRWE5aWNWQ2NvS3lrTVV2V1U?oc=5",
+      "date": "Fri, 22 May 2026 03:10:01 GMT"
+    },
+    {
+      "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10RzRnQVMtekhOQlV2YXBrZS10OVhLUENkZi14QkM1R3RFUVNYbFJpeWNwTG16Z2lrV1NrLVRoQ2llWDRlaExNRUVFX0otbFI2Uk1GZTU1MW5OVnVTSXltc1IxR1otbWs?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Sun, 03 May 2026 07:00:00 GMT"
     },
     {
-      "title": "【RV車の飲酒運転事故から21年経過】宮城県の飲酒運転の摘発件数＆危険運転に数値基準が盛り込まれている",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaZnVXSG5wbDRYVXVJSmNPUi1mUVdGS01JY2hyaG45T0s0RFQyVDhpT0M0bzZ6Ti12NVludmlGTklrdkFWMXoyRGYwVnNYZ3hqWmJueVNCTQ?oc=5",
-      "date": "Fri, 22 May 2026 09:30:00 GMT"
+      "title": "宮城県は部活動遠征に「公共交通機関利用を推進」方針も 「郡部に行けば行くほど厳しくなる」 県内の高校から不安の声＜磐越道バス事故",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JNTJsQjhUU0d1VFpFcWdaOU9MQmdES1NCT0FnbzZRREZDbjZpM3hqd3RKNElzX2R1MV9YRG9BZWI5eUZ1cjhfVGV0RHg4WUxmMUVnUXpUZnh0dmlNRWdPVw?oc=5",
+      "date": "Mon, 18 May 2026 02:00:00 GMT"
     }
   ],
   "official_links": [

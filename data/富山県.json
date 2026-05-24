@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-24T12:03:45.507940",
+  "generated_at": "2026-05-24T15:04:44.187817",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 21.0,
-    "temp_max": 21.6,
+    "temp_now": 21.9,
+    "temp_max": 21.9,
     "temp_min": 17.1,
-    "precip_prob_max": 98,
+    "precip_prob_max": 92,
     "precip_sum": 2.1,
-    "wind_speed": 5.6,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
@@ -29,41 +29,46 @@
         "time": "06:00",
         "temp": 17.8,
         "weather": "弱い霧雨",
-        "precip_prob": 98
+        "precip_prob": 92
       },
       {
         "time": "09:00",
-        "temp": 20.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 76
+        "temp": 19.2,
+        "weather": "曇り",
+        "precip_prob": 61
       },
       {
         "time": "12:00",
-        "temp": 21.0,
+        "temp": 20.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 21.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 20.3,
-        "weather": "晴れ",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 18.8,
+        "temp": 18.3,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94am5WZm1mRjVLSGdVYmNZS2V5S1o0bXdlZ3VWVUh1R01ZaWtzTERTZU5XdTNQMEUySUF0VWlqYnZsNUlHam1jRkxQenNrWTlPOWhZLTZ2VDdjYmR0ZDJrTEZYdEEwSTVVWXVsWm1kWdIBdEFVX3lxTE1wdk9LZXV1ejcxWWFPeTRZXzZ3RkhhdVBNOVEzODZ2U0NOUDItcHY3dDluT0tyYVdjTTVmZ1c3TTNmNlUyZkxFVGRVUXdVbEVfQjV4MkNDLVAzSF9ZV3RRVTBIWTBURmRUMHBoMkg3Z3lPVUdl?oc=5",
+      "date": "Sat, 23 May 2026 20:02:00 GMT"
+    },
     {
       "title": "車内からナイフとコカインを発見、職務質問で19歳大工の男を逮捕…銃刀法違反と麻薬取締法違反の疑い 富山県警が捜査",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Nb29LV3pWZC1BaDFYVTZIYWFSbG5TZmFwTlJTcTRLUm9ndm9nQUxjazlSaVJhTm14akxfamt4ME5FYmdwaG5iMDduTGxNZ3N5T1BQTVVPdw?oc=5",
@@ -73,11 +78,6 @@
       "title": "富山・国道8号で初のヘリ取り締まり 先月の死亡事故受け「空と陸」から交通違反を摘発",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MS2hOaVpBNExBYjAwTW1HOUtyQ25yQjkxYlMyaU50MFlQdDFPSjBIWkNyaTlQanh5cHZRWmljTHZ6OEpCZ1NnOGJxcG0tdw?oc=5",
       "date": "Wed, 08 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月３日",
@@ -97,24 +97,24 @@
       "date": "Fri, 27 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "部活動の移動 富山市の全中学校に実態調査 磐越自動車道の事故を受け 県内市町でも調査広がる",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVc4TkctR29UOTFKVkFubE16YUd3czVEMFdqRl80Rnp1c2VmR0FsYng1OHd4Y3dFOVpuR29MN1JtM2wweF8yQWlJOTRkNGNlYTY0VXBQYllfLUZWeUZ6ZmZ5RU9pVmpDMVIxZnNoZzN2R3BXSXR4d24zTjkzMjZVY25wZ2xrMDQ?oc=5",
+      "date": "Wed, 20 May 2026 11:17:00 GMT"
+    },
+    {
+      "title": "大型バイクの川崎市の女性死亡 富山・高岡市の能越自動車道 ガードケーブルに接触し右脚にけが 最大5時間半通行止めに",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LTlJoa1RMSTZMdHhndThSaklQQ1ZTVEpVRXQ1bkM3SFJFSzl3NVlhNEFpazZFZUhoY2pLdy1Vc3NjNGxJaDQ5Q053WEo2Rmc1SlYyNXhoNmd6UQ?oc=5",
+      "date": "Sun, 24 May 2026 03:25:00 GMT"
+    },
+    {
       "title": "能越道上り線でガードケーブルに衝突 大型バイクの58歳女性が死亡 現場は5時間以上にわたり通行止めに 富山・高岡市",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FY29WUWdnd1JQOGViMFV2ajR4Xzlla0lxaDBBVGRXQzZJNVVzb0xfbEF2TF9KQXNqYVJ1N014bE1fcmkzQWI5dFM3dVJLNUt5dHNmeHRGc2dPdmhnUXZKVGl6YTdvYXpha1N6VWczR1hvM2Y4QWlEU09HOXZpUVU?oc=5",
       "date": "Sat, 23 May 2026 13:55:24 GMT"
-    },
-    {
-      "title": "悪質運転５件摘発 県警、国道８号で特別取り締まり 富山の親子死亡事故受け",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SlhkNWhzLWdNdTJCRGhWNmtYOHFUVGNBNnNnQ0h3OEt4Szh4N2J4S2hCVnhhaEp5NnFyUnR4OHdRc1F1QU1rVjlWY05qMnVVMVZvcUVZY2VGQQ?oc=5",
-      "date": "Thu, 21 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "危険運転に目光らせ 国道８号で県警取り締まり、３月の親子死亡事故受け",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1VC1SZVJXNFdDQ0o0MkNBZjNoWlJDR2VKd1pqTS1ONFNxNHl2VjluVF9hMDlZVFJGTHlqTDFjQ29USkZjNHlqTk9Eaw?oc=5",
-      "date": "Thu, 21 May 2026 14:37:00 GMT"
-    },
-    {
-      "title": "危険運転に目光らせ 国道８号で富山県警取り締まり、３月の親子死亡事故受け",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81ZzFEVFhQbnMyUGNTdnU1eVJFdlhLVDNVcWxTZTRaNGF2UkJudURhTlBsU21LRU9GSTRMcmNOZ01GYWtLcXI1VzFSUQ?oc=5",
-      "date": "Thu, 21 May 2026 22:00:00 GMT"
     }
   ],
   "official_links": [

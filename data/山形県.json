@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-24T12:03:06.795952",
+  "generated_at": "2026-05-24T15:03:54.869949",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 17.2,
-    "temp_max": 19.2,
+    "temp_now": 18.7,
+    "temp_max": 18.8,
     "temp_min": 11.1,
-    "precip_prob_max": 75,
+    "precip_prob_max": 92,
     "precip_sum": 1.4,
-    "wind_speed": 2.1,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
@@ -29,41 +29,46 @@
         "time": "06:00",
         "temp": 11.5,
         "weather": "弱い霧雨",
-        "precip_prob": 25
+        "precip_prob": 61
       },
       {
         "time": "09:00",
-        "temp": 14.1,
+        "temp": 13.7,
         "weather": "弱い霧雨",
-        "precip_prob": 75
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 17.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 35
+        "temp": 18.8,
+        "weather": "曇り",
+        "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 19.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 17.8,
+        "temp": 18.7,
         "weather": "晴れ時々曇",
         "precip_prob": 6
       },
       {
+        "time": "18:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
         "time": "21:00",
-        "temp": 16.2,
+        "temp": 16.5,
         "weather": "晴れ",
-        "precip_prob": 10
+        "precip_prob": 43
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLS2pKRlN6bW5hYmxlQThoUkNRZ3dnOUNSMnk1YXRVUE9qVFZFdmkwSGZ4Y0xROEVoN2tuc1ZwYW1iUUZ5eC15dHdOeFBHSURQS3lTV0JrNA?oc=5",
+      "date": "Sat, 23 May 2026 20:02:00 GMT"
+    },
     {
       "title": "5月24日（日）【岩手県】　日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSUsxbkZVYWZhWldnYWh6STdFd0VmUTRtN0w5dDBlNGxoeW5iQThhWGppdkxiVHB0Q3hfOVYtbnU2R2hCaUNjbE55N3Zab1ZrLTlybENyM2pUcFdzd0xtdjQyY3UxUVlycVAxSUFPNNIBdEFVX3lxTFB0bks4aW8xTFFtV3BJbzJ4LVVuT21yS05iZ3ZzQzJLVzY4aW9hYkVRaU92YUZTZ2RIYkhaTmVINjlWdnIwQW55SXpHaFc4YjJFSXVBVnAtRnVlMW5SQS1IRUMtQktXZ3Z2V0RiT1B4Zl9CQ0JB?oc=5",
@@ -83,11 +88,6 @@
       "title": "【交通取締情報】福井県警 ４月２３日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SazVjVlVYOTFVZFhhLU1Cb0MzSUN3RXpCRnp1QmhHOHE0cEY1VjcwOExEYV9EZEZ0N194NmxnMFkxcFRZTElTR1lndw?oc=5",
       "date": "Wed, 22 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "5月18日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kMGJxNmMzYXRRUlk1dTBkX0hQQlFtM1IxQTg0OHBNTTJjV2ZqVkh2dU05anNIVGRtNGE4aW4tajE5MzNkRlpXREl0M2hVczFpdmZrVy10Yw?oc=5",
-      "date": "Sun, 17 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [

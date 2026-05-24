@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-24T12:02:44.622751",
+  "generated_at": "2026-05-24T15:03:12.078740",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 12.8,
+    "temp_max": 15.0,
+    "temp_min": 10.0,
+    "precip_prob_max": 100,
+    "precip_sum": 3.6,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "12:00",
+        "temp": 13.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 12.8,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 14.4,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "21:00",
+        "temp": 14.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月24日（日）【岩手県】　日中・夜間の交通取締情報",
@@ -16,19 +75,19 @@
       "date": "Fri, 15 May 2026 20:00:00 GMT"
     },
     {
+      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94am5WZm1mRjVLSGdVYmNZS2V5S1o0bXdlZ3VWVUh1R01ZaWtzTERTZU5XdTNQMEUySUF0VWlqYnZsNUlHam1jRkxQenNrWTlPOWhZLTZ2VDdjYmR0ZDJrTEZYdEEwSTVVWXVsWm1kWdIBdEFVX3lxTE1wdk9LZXV1ejcxWWFPeTRZXzZ3RkhhdVBNOVEzODZ2U0NOUDItcHY3dDluT0tyYVdjTTVmZ1c3TTNmNlUyZkxFVGRVUXdVbEVfQjV4MkNDLVAzSF9ZV3RRVTBIWTBURmRUMHBoMkg3Z3lPVUdl?oc=5",
+      "date": "Sat, 23 May 2026 20:02:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
-      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
-      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+      "title": "5月21日（木）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90V1VnM2NUUW1jak9NWEdzYXlGdzZJS3NUZ20zb0VLNWRjdzBvSVI0MlFEOE41SWdnYldQdmRURURLQmgwbXRPa3VWemtxTnNDUjJ6SXBpc2c2TmMxMXIxd01KM0hpMTBndW9CbENxUdIBdEFVX3lxTFB2RTJGYnRxekJlcGpNRDV0dGpKRmM3aXJ2LWgtMU9pSjBQYjhnR09VdUVuV0N1WGUwMVg0QWxPdmxFQ2hVTDd1Sk9RZU83YVpuUmVWMmlLT2VHcmdJWS0tTTNlRDZidllON3FJM00tZVl5Njlz?oc=5",
+      "date": "Wed, 20 May 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,9 +107,9 @@
       "date": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
-      "title": "6歳児死亡の事故現場を診断 参加者が要望した街灯や縁石の状態は？青森市の県道で警察などが対策検討",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjZHVkVxc0RvN0V1ZHV4Rl9QRzZ3Q1R4d05ZYUJVREhaTXY3OVhnUmxZb2RNMVJmamozMFBueUpsZ1pvVEJpRndYRDR5aU9WWTBPbV9vWk5ndTMxQktpbWtmSEdCeGZFVkNqenZ1eXZveGR3ckM2VDNjUjhET0QxN2tMYUdadFk?oc=5",
-      "date": "Mon, 11 May 2026 07:00:00 GMT"
+      "title": "東北の事故多発交差点、最多は青森市・環7細越の11件 損保協会 [青森県]",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUDJVbmEtRThYdFN2QW5jQzlHTU1RN0QtZzBIOFc3dmNUSW5FV0s1OUtBM3BYN0hJUEo2bWtkeUJrOGwtdmF2ZjBlaEhFbm1qdGZUZl9MbzhTLW9rdnhrNWpKZDJ6RmdlNkQ0TG5B?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
       "title": "幸畑男児死亡事故受け意見交換／青森署など｜行政・政治｜青森ニュース｜Web東奥",

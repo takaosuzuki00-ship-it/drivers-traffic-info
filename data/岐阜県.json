@@ -1,15 +1,69 @@
 {
-  "generated_at": "2026-05-24T12:04:15.722243",
+  "generated_at": "2026-05-24T15:05:16.640639",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 24.3,
+    "temp_max": 24.3,
+    "temp_min": 16.3,
+    "precip_prob_max": 21,
+    "precip_sum": 0.1,
+    "wind_speed": 8.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.9,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 16.5,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94am5WZm1mRjVLSGdVYmNZS2V5S1o0bXdlZ3VWVUh1R01ZaWtzTERTZU5XdTNQMEUySUF0VWlqYnZsNUlHam1jRkxQenNrWTlPOWhZLTZ2VDdjYmR0ZDJrTEZYdEEwSTVVWXVsWm1kWdIBdEFVX3lxTE1wdk9LZXV1ejcxWWFPeTRZXzZ3RkhhdVBNOVEzODZ2U0NOUDItcHY3dDluT0tyYVdjTTVmZ1c3TTNmNlUyZkxFVGRVUXdVbEVfQjV4MkNDLVAzSF9ZV3RRVTBIWTBURmRUMHBoMkg3Z3lPVUdl?oc=5",
-      "date": "Sat, 23 May 2026 20:02:00 GMT"
-    },
     {
       "title": "【垂井警察署】交通検問の実施",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxY2tqSnhDWWpLMGZHQWNfamVscnMxS1p0ckpCb1hSeHVCVDlJeUFfejBpTEYyMThLWXJORnM2ZkdNSU1JaTYybmxiZWFnWmVkeTFUUElyUTZlRWRYXzhFcFZpamM?oc=5",
@@ -19,6 +73,11 @@
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "５月１８日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCR2ZsUHNEVThiNGdYRDBMMnRZTEg2cGJ1Smp5SENnTHJkQzhHZDJ3SXVpOGRSV0MtQXZCX2pqeE5pNXFKN1Fpd180SHFCc05CN21LMEtueWJNeUl6aFgtVXRxaFdILURQVl9NZjhWQ0pxZ9IBd0FVX3lxTE9RNUU5blpSOGs1NUlVeXhfZTFtUTUzX2tKakZrTUkyVEg0S01DdnQ3bDB1bW9mQkx2TUZ2bVl0bGEwbjB2NV9vRktjZ0dFdWRUM3lJZEhONEF5TEN6cDZnQi1CV3pHR3A0OVRoTE1mMDc4dHlGbEhj?oc=5",
+      "date": "Sun, 17 May 2026 20:00:00 GMT"
     },
     {
       "title": "麻薬取締法違反被疑者の逮捕",
