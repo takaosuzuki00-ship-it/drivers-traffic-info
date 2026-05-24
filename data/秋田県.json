@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-05-24T09:03:22.900385",
+  "generated_at": "2026-05-24T12:03:01.785924",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 14.6,
+    "temp_max": 16.2,
+    "temp_min": 11.5,
+    "precip_prob_max": 100,
+    "precip_sum": 5.6,
+    "wind_speed": 10.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.5,
+        "weather": "霧雨",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 13.3,
+        "weather": "霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "12:00",
+        "temp": 14.6,
+        "weather": "霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 15.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 15.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 15.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月23日（土）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sMmVMQVJ2cTNHbnBYakJUZzdHbGpwNHpxUDdzNTYxZkM1N0pvUllXOWU0eThKWkR4ZEJRdVRPejZ1Tm5faVUzR3YyamUxT3V1YklPYXFkTQ?oc=5",
       "date": "Fri, 22 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "5月24日（日）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSUsxbkZVYWZhWldnYWh6STdFd0VmUTRtN0w5dDBlNGxoeW5iQThhWGppdkxiVHB0Q3hfOVYtbnU2R2hCaUNjbE55N3Zab1ZrLTlybENyM2pUcFdzd0xtdjQyY3UxUVlycVAxSUFPNNIBdEFVX3lxTFB0bks4aW8xTFFtV3BJbzJ4LVVuT21yS05iZ3ZzQzJLVzY4aW9hYkVRaU92YUZTZ2RIYkhaTmVINjlWdnIwQW55SXpHaFc4YjJFSXVBVnAtRnVlMW5SQS1IRUMtQktXZ3Z2V0RiT1B4Zl9CQ0JB?oc=5",
+      "date": "Sat, 23 May 2026 20:00:00 GMT"
     },
     {
       "title": "5月23日（土）【岩手県】　日中・夜間の交通取締情報",
@@ -19,11 +83,6 @@
       "title": "【交通取締情報】福井県警 ４月１２日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
       "date": "Sat, 11 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
@@ -43,14 +102,14 @@
       "date": "Wed, 20 May 2026 05:57:01 GMT"
     },
     {
-      "title": "秋田自動車道で大型バイクがワイヤロープに衝突 群馬県の男性(59)死亡 仲間とツーリング中 秋田市",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Y4X01USUFlRWk5NFpfcXBUOXFLZmlOLTZvM2tYN2wwSGVXeW1RdlFTQ0RZb3lkRUYxTDlXVTBIVDJIaVdtME9BWHBPSUp0Y0tocHRQbkxtaFQ0c0NJM19HalI4by1CbmhGSktXMHg2YktfSVg3RDI5TVgzeGE2akJKNHIzZEE?oc=5",
-      "date": "Fri, 22 May 2026 08:56:00 GMT"
-    },
-    {
       "title": "秋田北—秋田中央ＩＣの上下線 事故捜査のため２８日に通行止め",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wUE5LS0JlaUdrT1RqSFVYa2FCWllUYmNvT0ZheGRqMGlIVmJEMGwteER4SzZJM1ZWR2g1c3UxN2dIUWpCTVNwcmNKTQ?oc=5",
       "date": "Wed, 20 May 2026 03:48:00 GMT"
+    },
+    {
+      "title": "秋田自動車道で大型バイクがワイヤロープに衝突 群馬県の男性(59)死亡 仲間とツーリング中 秋田市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDJoTEZWZnMxUGZSQXo5MmZQRmpDNUdNd2lKbDFKSmoyMW5VWnNZZHZTd19aNkhlVDIwQ0F2MjJ2T01TWlVRMlVVWHZ5ZTRBTnM4eUZJWTJYdjQyNVRfVUNQcHpCaHMtRlBqb1Z3bElvYk03RGpHWFFYUFlLU1VIM21Ka29na28?oc=5",
+      "date": "Fri, 22 May 2026 02:37:01 GMT"
     },
     {
       "title": "鹿角市でクマに襲われ4人が死亡した事故から10年 自治体のクマ対応最前線 緊急銃猟が可能でも現場対応の難しさ…壁1枚隔てた先でクマと日常生活が隣り合わせに 秋田",

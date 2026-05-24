@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-05-24T09:04:33.016318",
+  "generated_at": "2026-05-24T12:03:57.847645",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 16.7,
-    "temp_max": 22.6,
+    "temp_now": 21.0,
+    "temp_max": 23.1,
     "temp_min": 14.6,
-    "precip_prob_max": 14,
+    "precip_prob_max": 49,
     "precip_sum": 0,
-    "wind_speed": 2.2,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
         "temp": 15.1,
         "weather": "曇り",
-        "precip_prob": 14
+        "precip_prob": 49
       },
       {
         "time": "03:00",
         "temp": 14.9,
         "weather": "曇り",
-        "precip_prob": 8
+        "precip_prob": 29
       },
       {
         "time": "06:00",
-        "temp": 14.9,
+        "temp": 14.8,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 16.7,
+        "temp": 16.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 20.3,
+        "temp": 21.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 22.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 20.3,
+        "temp": 23.1,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "18:00",
+        "temp": 20.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
         "time": "21:00",
-        "temp": 18.4,
+        "temp": 18.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
@@ -66,8 +66,13 @@
   "enforcement_news": [
     {
       "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94am5WZm1mRjVLSGdVYmNZS2V5S1o0bXdlZ3VWVUh1R01ZaWtzTERTZU5XdTNQMEUySUF0VWlqYnZsNUlHam1jRkxQenNrWTlPOWhZLTZ2VDdjYmR0ZDJrTEZYdEEwSTVVWXVsWm1kWdIBdEFVX3lxTE1wdk9LZXV1ejcxWWFPeTRZXzZ3RkhhdVBNOVEzODZ2U0NOUDItcHY3dDluT0tyYVdjTTVmZ1c3TTNmNlUyZkxFVGRVUXdVbEVfQjV4MkNDLVAzSF9ZV3RRVTBIWTBURmRUMHBoMkg3Z3lPVUdl?oc=5",
-      "date": "Sat, 23 May 2026 20:18:22 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLS2pKRlN6bW5hYmxlQThoUkNRZ3dnOUNSMnk1YXRVUE9qVFZFdmkwSGZ4Y0xROEVoN2tuc1ZwYW1iUUZ5eC15dHdOeFBHSURQS3lTV0JrNA?oc=5",
+      "date": "Sat, 23 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月24日（日）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSUsxbkZVYWZhWldnYWh6STdFd0VmUTRtN0w5dDBlNGxoeW5iQThhWGppdkxiVHB0Q3hfOVYtbnU2R2hCaUNjbE55N3Zab1ZrLTlybENyM2pUcFdzd0xtdjQyY3UxUVlycVAxSUFPNNIBdEFVX3lxTFB0bks4aW8xTFFtV3BJbzJ4LVVuT21yS05iZ3ZzQzJLVzY4aW9hYkVRaU92YUZTZ2RIYkhaTmVINjlWdnIwQW55SXpHaFc4YjJFSXVBVnAtRnVlMW5SQS1IRUMtQktXZ3Z2V0RiT1B4Zl9CQ0JB?oc=5",
+      "date": "Sat, 23 May 2026 20:00:00 GMT"
     },
     {
       "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -77,17 +82,12 @@
     {
       "title": "５月２４日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01YmM2MmE2SlBSaVpvdFRuYTZKZGw5Y0JmXzdxSXBsRzZEZnpac29yRy01VENIbW9ESWMxRXltUE1EQUR2Z2U0QzFqQ3pTdUlqcHZZWlVmWVJ0ZExtb3NhenNud2htenY5aE5QWVgtdFlPZ9IBd0FVX3lxTE1Fa0hDelBjakdJLWpXNUhob2F4eG9wNERKVzBDN00zS3dKbFZzRlVxVEZRS3N0cTd3LU1CcmVCN192clVsbGhubUdIVWpua3VRaTJjeGlpaG9nMVpueWt5NWl5UDYySTdIYUVrN09JZmxoVDFNV29B?oc=5",
-      "date": "Sat, 23 May 2026 20:45:31 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
-      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+      "date": "Sat, 23 May 2026 20:00:00 GMT"
     },
     {
       "title": "小学校の男性教諭 自転車の酒気帯び疑いで摘発 交通安全期間中の検問で発覚 山梨",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWkyeW1CRmh5NXdwSG1iS25xdzV5ZUt6MmlnT256RWZCcGswbEtLbkNvX3hxVlFHaFlad0pacmVWWFpvX29ZOVVQYklaLWZ3X2JXTXpyWV9EcEQ2SGhqMFdZUy0tTnF6Um83SXU1Z3gwa3psa2xDTG8yVE1zSGlBdnBoc2w4Znc?oc=5",
-      "date": "Mon, 13 Apr 2026 09:35:45 GMT"
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Fri, 22 May 2026 06:57:00 GMT"
     },
     {
-      "title": "部活動の遠征や校外学習 県教委が安全確保を要請 高校生ら21人死傷のバス事故受け 山梨",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjJqdEFZNGU0UzNzS0ZsRmJ0OWs1ektsQnJDSHljQWdRVVN2MjZTQUM1YnN3RXFCMXdIWVhwVzlBdnk4anhuZjZMdkxxSmM1dTdUUEhmVThNQU5vVzdyUHNHN2MtdEMwYmpYeVFZcDZVUTZaOC1UY3pudFJVbDBKYW1vcV90T0E?oc=5",
-      "date": "Fri, 22 May 2026 10:05:00 GMT"
-    },
-    {
       "title": "春の交通安全運動 期間中の事故件数とけが人は去年と比べ増加 一方、青切符制度導入の自転車は事故件数は減少 山梨",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lMGcxOHJ5UENQUGVVVm03MXhkV2hkMkJEckFJaVdqay1KNnc4b1VTc3Q4R3ppQ0hweXZfZ0hKWHFnZlVMbjdhZ09wa0tXNjljMV8zb1FNVW9MQQ?oc=5",
       "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒気帯び運転で衝突事故 女性にけがさせた疑い 自称・会社員の男（36）逮捕 山梨（YBS山梨放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdG1uNGJkZXZ1MS0zemdYTHFLMklPdGFOSGswc284S05IYmI0RE9idUt2UkxQa2x0aV9wbmcxTm5NTzBxSE1BVmNlVWkyLTBDZGd3Zk94aVAyZFpBOEVmbVhRT1ZCYWdHOUMtZWdoa04tb2hrMm4wc1c5a3g0aWs?oc=5",
+      "date": "Sat, 23 May 2026 11:40:01 GMT"
     },
     {
       "title": "【デジタル版限定】傍聴席から・甲府の死亡事故 運転手に有罪判決 法廷でのやりとりは",
