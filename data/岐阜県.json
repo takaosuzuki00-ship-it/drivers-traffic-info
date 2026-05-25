@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-25T06:05:10.571749",
+  "generated_at": "2026-05-25T09:04:14.740914",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.0,
+    "temp_max": 27.9,
+    "temp_min": 16.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月21日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -38,8 +97,13 @@
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "交通事故防止高齢者が決意 養老地区大学校",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLTZMUjJuWTJhSGtQVjA0WHR0c1BtNzMwWkVhNEJGR2gtWHJZUlNxR1lwWFJBRXdYTFpqOFNjTUZxVWZ1UXo0SmhNS3lOUnhuT09mOVN3?oc=5",
+      "date": "Thu, 21 May 2026 20:00:00 GMT"
+    },
+    {
       "title": "ＶＲゴーグルで交通事故を疑似体験 岐阜県関市の外国人留学生 交通ルールの大切さを実感 (ぎふチャンDIGITAL)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWW8waU03ZnBPQzJGczdKRjVLTDdQd0lWLUxTdFdmVXlkOXNjVWdKV05KM1VUMXM1Zzl5M3Q0cXpTWkljRVJhZGUtV21UZE5OcS11VUtCa0NSUi1PT2hxMHk0algydng5VUlTYkVFZXlxa0hNQ1RVV0ZSNlEzSklWdEFPTDk4enV5dTkzdXhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDZRcFZLZVlfd0x2Y3J0b1VIM05rX3ZhZFlFR0xzVjR3ZlotZjRyZjNvQms5dm1tandZWFZOWGIzU1ZWaWVyMzlSenc3S3BuRzBERGdwSHZrU2tMX0JmeVlCU0hhbnNhTEV5a2VGZnlxUHlMUDYwRS1seC02aDFVZzRRRFllS1hadG1DSjV3?oc=5",
       "date": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
@@ -51,11 +115,6 @@
       "title": "横断歩道ない場所で軽トラにはねられ71歳死亡 岐阜県多治見市",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMX1FicnEzRlZUeVZQN3VvWmVvUGJ6WERHRnhjOVM3LWVVVjFaRmNBTzVQdUVzdzRTbGFKZFRxRFIzak5raW5tVVhudHRZZFp4WS04SQ?oc=5",
       "date": "Thu, 21 May 2026 11:52:55 GMT"
-    },
-    {
-      "title": "路上で仰向けに倒れている女性を発見 搬送先の病院で死亡を確認 20～40代か 警察が詳しい状況を調べる 岐阜･可児市",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JckFJUXhCTEpzeldhOHVqTDRPWXhSaW02WTVaM1ZoeVpiclcyZVQtNXg1REVoM2dCTFR3bUg1RGFhbVM3OTFXV2NITVdiNnNyUklzTUQxaVFTblVvZEVHVHdrS2E?oc=5",
-      "date": "Sat, 23 May 2026 09:06:00 GMT"
     }
   ],
   "official_links": [

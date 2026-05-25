@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-05-25T06:05:36.823501",
+  "generated_at": "2026-05-25T09:04:26.978831",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 21.4,
+    "temp_max": 24.4,
+    "temp_min": 16.6,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "５月２２日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DdF9wWnIzS1hxcU8zWEoxUnNyMklUaE5EUDlSX2tNMWFVb2RnbHg5Z2RHWU0xcEF5a3JsWW4zUndnU0hRbmpVN19XT2hvWHd4Z0RmYnFOZkFIQVV6X1ViSG1fRzhnYXY5SG05NmJEempWd9IBd0FVX3lxTFBPcGczT2owT2JjUkJjeWZnSUN2Y3dpOThEYU1jQ04xV1cxblAwME1sWEVZUVNocEFydGYyWWZvNERaZDJad19KY0dBbjhfSm1rbjJWN0g0QktYR0xsY3VLSjdhUFpBNGxaZm5NWHExSjFQX0xreEZz?oc=5",
-      "date": "Thu, 21 May 2026 20:00:00 GMT"
+      "title": "５月２３日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45dGdudGVKWWRxZElKck5PTjN6NXBwSWhMRGxMaVdFTVBmUWV1YV9vYzJpMnJBX2VOaEFSVThBTExRUFdDY2ZfbDRBZTh1c3NtM1lzbTl2NVdLTVlDbXFOU3c5TmZiQ0RYN3RweFRmNEx5UdIBd0FVX3lxTE8xbjJSdTFrS2hoS0tkZ1dhaW1SZ1kxMmJGd3hVWG8tbjZWNEVxR3JnQ1JOODBFUndTZXpvY3lPUElQTG9PdDlBcmlXZFgyLUdiTjJ4QWpZWjVYVEFRbG5CMUZ3ckZJMW50akNsQ0F0ZHl5UjE0ek9J?oc=5",
+      "date": "Fri, 22 May 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -21,17 +80,22 @@
       "date": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "５月２３日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45dGdudGVKWWRxZElKck5PTjN6NXBwSWhMRGxMaVdFTVBmUWV1YV9vYzJpMnJBX2VOaEFSVThBTExRUFdDY2ZfbDRBZTh1c3NtM1lzbTl2NVdLTVlDbXFOU3c5TmZiQ0RYN3RweFRmNEx5UdIBd0FVX3lxTE8xbjJSdTFrS2hoS0tkZ1dhaW1SZ1kxMmJGd3hVWG8tbjZWNEVxR3JnQ1JOODBFUndTZXpvY3lPUElQTG9PdDlBcmlXZFgyLUdiTjJ4QWpZWjVYVEFRbG5CMUZ3ckZJMW50akNsQ0F0ZHl5UjE0ek9J?oc=5",
-      "date": "Fri, 22 May 2026 20:00:00 GMT"
+      "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1hQ1l4UWUyZHBURk9vR0pJVmh6bmdBU1hBcDRiZGVpQjlOVFQ1NjY5bC0wSHVtVmQ3akYxOC0wYjRqQk9NRTZUQjJXNDU5ZnNERU9yLXVCTjVCTDA2U01NTk8yUURmVWFvZTlWY2JhZVFIY1h5Y085b2k5Ylp3dDRpWQ?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月１５日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JaUhLdE9LZGNjRTNwbnNLR2lTZ3Vid0JldG9WVFdCNmdWYmpyNW5kTk1IaXNFMmhfYUk5MzUxOEQtWERNOHYzMFcxdw?oc=5",
-      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94am5WZm1mRjVLSGdVYmNZS2V5S1o0bXdlZ3VWVUh1R01ZaWtzTERTZU5XdTNQMEUySUF0VWlqYnZsNUlHam1jRkxQenNrWTlPOWhZLTZ2VDdjYmR0ZDJrTEZYdEEwSTVVWXVsWm1kWdIBdEFVX3lxTE1wdk9LZXV1ejcxWWFPeTRZXzZ3RkhhdVBNOVEzODZ2U0NOUDItcHY3dDluT0tyYVdjTTVmZ1c3TTNmNlUyZkxFVGRVUXdVbEVfQjV4MkNDLVAzSF9ZV3RRVTBIWTBURmRUMHBoMkg3Z3lPVUdl?oc=5",
+      "date": "Sat, 23 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "死亡事故多発の三重県で一斉取り締まり 移動式オービスで“速度違反”に目を光らせる 名張市は5人死亡事故が起きたばかり",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tSzhoY3d5Sm00Q0F4OFVjU0hkWGdJY2c4NDd3R3BvTlMtWUlaVWpVeHpYRjlUcXMyUUNXZHBkLVBzNzRWVE5jdHJ0OHh2OXkyYXpaWGl4SWpKenh6cVA0?oc=5",
+      "date": "Fri, 22 May 2026 01:01:27 GMT"
+    },
     {
       "title": "「ルールを守らない大人を真似しないで」 交通事故遺族が中学生に「命の大切さ」伝える 三重・伊勢市（三重テレビ放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OQkFlSkhYRWxWTWRpTHh6ZTB5UEJ3YUh4cXdWZDlISDVYTEotcUk5UFl5X2E3cG54enNaSlUwemN5Z1lZQnpTblRZZ2h2Tmx4d1JKemlmaEgxdnRHV0d6WjdrdUNKQ2VmMmhIRFJ6a25nUDV5VFZWZWNLWWV6blU?oc=5",
@@ -51,11 +115,6 @@
       "title": "高校2年生の息子を事故で失った母の後悔…自転車のヘルメット着用を中学生に呼びかける　三重・伊勢市",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SZE1zWWdqdWhIcWo1NWY2V3VTWGxtcDNTenhTbmZkV2hpYTRNTXdZMTBvb0xHbGpwcE9jdjFYUHl1eFZySXpVUW1hV3c0cUVvOXfSAWRBVV95cUxOel9iUXVyMmZ3bnptRnNrQlB2QTZYTndZbXdrS0NCM1V3NjhLblJyVzNmb3N4amNsMk5kamRIYk5HYzEwOVlYOU9FOTJyUU9rcUlQRGpoYzM0RHlPeFpDRV8xVTEz?oc=5",
       "date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "新名神高速の6人死亡事故、5歳含む全員の身元判明 三重県警",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRVFQzVGhBb24wcW8tTzlEbVdQd0xtdnpESng3TFAtTlZ3QU1VUnhJRlVYb1V3WjkyUHlrWHRVUFAta2ZxTnd2OHpYMHpRZno0MHVBWHZaTVhlUnZ6M1BfMzVxN01KUW94?oc=5",
-      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
