@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-25T09:03:42.055760",
+  "generated_at": "2026-05-25T12:03:27.744396",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 18.6,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 19.8,
     "temp_max": 20.0,
     "temp_min": 16.5,
-    "precip_prob_max": 41,
+    "precip_prob_max": 43,
     "precip_sum": 0,
-    "wind_speed": 10.0,
+    "wind_speed": 11.9,
     "hourly": [
       {
         "time": "00:00",
@@ -33,7 +33,7 @@
       },
       {
         "time": "09:00",
-        "temp": 18.6,
+        "temp": 18.9,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -41,13 +41,13 @@
         "time": "12:00",
         "temp": 19.8,
         "weather": "晴れ",
-        "precip_prob": 41
+        "precip_prob": 43
       },
       {
         "time": "15:00",
         "temp": 19.9,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "18:00",
@@ -57,18 +57,13 @@
       },
       {
         "time": "21:00",
-        "temp": 16.9,
+        "temp": 17.0,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月25日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QNUJsZkwzUHg1NjdKME85am44bTRtV2gwdWNtRHRGNEhxanlhWi05NFNwUXF1UTJFQUpZbnd0UlZ5UkJTLTNaTGo1VDZSaEJaWGZjVi14SkhwSG5ZQzZjN3I4bkxZS0dKdGt1X2dWONIBdEFVX3lxTFA2UWlSbDkwY0VKMjhxdW1XVng2dHp0MWdGbDRtd0dTMFd1bGZCS1c4aFR0MGowcDBobWZ0N0poZDRwMU00UEhZQWxqeC03UkhtdmdVUWFwXzJ5SG1RT25vOTItQ0NIY1BtdG1GUXhPakd3Y21D?oc=5",
-      "date": "Sun, 24 May 2026 23:48:45 GMT"
-    },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
@@ -80,14 +75,19 @@
       "date": "Thu, 21 May 2026 20:00:00 GMT"
     },
     {
+      "title": "【交通取締情報】福井県警 ４月１２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
-      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94am5WZm1mRjVLSGdVYmNZS2V5S1o0bXdlZ3VWVUh1R01ZaWtzTERTZU5XdTNQMEUySUF0VWlqYnZsNUlHam1jRkxQenNrWTlPOWhZLTZ2VDdjYmR0ZDJrTEZYdEEwSTVVWXVsWm1kWdIBdEFVX3lxTE1wdk9LZXV1ejcxWWFPeTRZXzZ3RkhhdVBNOVEzODZ2U0NOUDItcHY3dDluT0tyYVdjTTVmZ1c3TTNmNlUyZkxFVGRVUXdVbEVfQjV4MkNDLVAzSF9ZV3RRVTBIWTBURmRUMHBoMkg3Z3lPVUdl?oc=5",
+      "date": "Sat, 23 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,9 +97,9 @@
       "date": "Wed, 06 May 2026 07:00:00 GMT"
     },
     {
-      "title": "新潟バイパスで自動車がガードレールに衝突、運転していた警察官の男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoSWRZeHpsSE5ldHpsTlZoNkJBa2NRZ2JBSGJQSHhTaTNMMG1CUkxEQ3JaYlBRcjZNdjNMYy04MkZWTlBI?oc=5",
-      "date": "Fri, 15 May 2026 07:00:00 GMT"
+      "title": "【交通事故】新潟交通の路線バスと自転車が追い越しざまに接触 10代女性が救急搬送",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE52c2s4NXRIbER6TmxRbWNua2N5dEFpRVZMVlNVbUhvdWJRUUhBM1U3T3h6TXZrc25JSkFtVXBfNk5fNTRu?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
     },
     {
       "title": "【磐越道バス事故】責任能力の有無は…運転手の男を“鑑定留置”に切り替え 新潟県は部活動遠征・修学旅行について実態調査へ",
@@ -107,9 +107,9 @@
       "date": "Fri, 22 May 2026 12:30:00 GMT"
     },
     {
-      "title": "新潟バイパス（新潟市中央区）で死亡した県警警察官、死因は病死",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGVjFyNXF0OUtRVEp1QzE0X0J3YkJnMXZlS3l6akZMNjl3QWRvclJCRFVBQXhXSElnSi01WEJqUkxvM2ZHQV9Ga0VzbjBEOExFNkhlMFAxSDFETkc3ZWc?oc=5",
-      "date": "Tue, 19 May 2026 06:50:00 GMT"
+      "title": "磐越道マイクロバス事故、新潟の容疑者宅を家宅捜索 福島県警:福島ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zTE82alVuZVdydTlIZ0RmM3Vna2JPU20xTkJnQWxjbG1Nd0tOTVI4OFlwWG5JNmVoVUlrS0VzNURRR054VDB0WnNmdVhZTUF4Z0QtQ29uR0hlV3JrenZVVTlrMEdGdEEw?oc=5",
+      "date": "Wed, 20 May 2026 23:20:00 GMT"
     },
     {
       "title": "新潟県長岡市で軽トラが店の支柱に衝突する事故、運転手の男性が死亡",
