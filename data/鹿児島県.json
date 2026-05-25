@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-26T00:07:59.095898",
+  "generated_at": "2026-05-26T03:06:13.019233",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 23.5,
-    "temp_max": 24.1,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.4,
+    "temp_max": 24.2,
     "temp_min": 23.4,
-    "precip_prob_max": 92,
-    "precip_sum": 1.2,
-    "wind_speed": 13.4,
+    "precip_prob_max": 57,
+    "precip_sum": 1.9,
+    "wind_speed": 13.2,
     "hourly": [
       {
         "time": "00:00",
@@ -21,49 +21,54 @@
       },
       {
         "time": "03:00",
-        "temp": 23.5,
+        "temp": 23.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "06:00",
         "temp": 23.6,
-        "weather": "曇り",
-        "precip_prob": 18
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 23.8,
+        "temp": 24.0,
         "weather": "曇り",
-        "precip_prob": 45
+        "precip_prob": 33
       },
       {
         "time": "12:00",
-        "temp": 23.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
+        "temp": 23.8,
+        "weather": "霧雨",
+        "precip_prob": 41
       },
       {
         "time": "15:00",
-        "temp": 23.9,
+        "temp": 24.0,
         "weather": "弱い霧雨",
-        "precip_prob": 92
+        "precip_prob": 49
       },
       {
         "time": "18:00",
-        "temp": 23.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 57
       },
       {
         "time": "21:00",
-        "temp": 23.5,
+        "temp": 23.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 73
+        "precip_prob": 53
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月23日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sMmVMQVJ2cTNHbnBYakJUZzdHbGpwNHpxUDdzNTYxZkM1N0pvUllXOWU0eThKWkR4ZEJRdVRPejZ1Tm5faVUzR3YyamUxT3V1YklPYXFkTQ?oc=5",
+      "date": "Fri, 22 May 2026 20:00:00 GMT"
+    },
     {
       "title": "納めた反則金、交通違反じゃなかった…鹿児島県警が“誤摘発”139件 規制と標識が不一致「警察官の認識や連携が不足」",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTGZPUmtWNi1zVXY5LWpmV2RueWVIQ1Z5M1JKcERQc1hrNlRMTjY1VFMyY0ljZmpCa0NMWE11ZWJiSi15S3pGS1FjMUQtYUVqZVlJSzlzYw?oc=5",
@@ -83,11 +88,6 @@
       "title": "【写真】友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWnJkWXdTdUM2Tjk2VkJPaHFkeWd0eEFkZzZkMXlrSkt4QzlGa2lJd2NxeHRfZUxpbEhoeTlZZlZwN0k1akFEbkFnQXdnOFVjNnJXdm9OU2dLQWltOUhVRnFUc054ekE?oc=5",
       "date": "Tue, 19 May 2026 08:29:10 GMT"
-    },
-    {
-      "title": "何度指導されても事故を繰り返す…ついに速度超過34キロで摘発――「指導を自分ごととしてとらえられていなかった」。小学校事務主査を減給1カ月 鹿児島県教委",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15STEtWEljTVQ5S3l6TEprVTAtRENLUTc4dlBfLTNiU2dxcHV6aUJ0WWgtR2hJbzI3czgwd1k2S09HdnB1V2kyYUlOanhaeEJNWU9Md2VqQQ?oc=5",
-      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
