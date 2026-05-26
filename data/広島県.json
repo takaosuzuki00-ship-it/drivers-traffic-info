@@ -1,34 +1,93 @@
 {
-  "generated_at": "2026-05-26T06:06:20.989231",
+  "generated_at": "2026-05-26T09:05:02.222538",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.7,
+    "temp_max": 26.5,
+    "temp_min": 19.0,
+    "precip_prob_max": 3,
+    "precip_sum": 0.2,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "5月26日（火）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSjVORGZaaEdOYXFEZkZLNkMtbFEzaGtaazlwLTdqTjlvaTN6TkR3YWhua09lbmtzWjZFckNsZHFaYng4ci1NOUgxdjYzYmxEUEFfYklLbW80SmdaNDcxM24tQzhrTnRtSy1rN21ENNIBdEFVX3lxTE0xTTF1bEg1d3ZNWmxNWTduQlNLV1dGZUxPMmVCWEpiY1BNTGRkSmQzYVQ1UU53WVNCczM2ZXRaQWw1Q2x6UnRDcTAxaGQ5d3ZqbTVMcVpVOUh2OU40Z2V4di1QN0M3QjYwQWZ5WXBuOGhLMVFU?oc=5",
-      "date": "Mon, 25 May 2026 20:07:58 GMT"
-    },
     {
       "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWd0cmFKZkVxdk9rVm00SmVoTDRGdDNhUVZRRVRmX0VWZzVmTm9ZVEw1VUF1QUdwdm9hbHlGdnJUV05DWmJiYTlqQjVIUWxQQk03b3l2UWJ2S2ZuUElzSFhDMGRnNzM0WldnRFJvUdIBdEFVX3lxTE53NlN0dHVGd2NsaTdTeUtaOExqOEFILVVPS0d4RUpvbWJLRVR1b1FpM3NYbjZtRGpHYlhEejBRWFFEVUdFbnMtSXRjWEJ3WHprbFZBLVZvUkQ3UEJ4X3ZpRmhCVW5QOUI3YjlYSU1nSUVDaGt1?oc=5",
       "date": "Mon, 25 May 2026 20:14:02 GMT"
     },
     {
-      "title": "広島県警、衆院選で11件の警告 取締本部を解散",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRkVmeDlxMVc0U095RThhd21hakZvdUxmUDFhR3lMVFBWVTV0YjZoV2l5ZGh5Y2RWNzZUd2VNbkRYOWdzUk9VMnlXbmJFRFZ2S2J3azhqVnhiZw?oc=5",
-      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+      "title": "5月19日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lWHNvNnk4cTY2Q0JBdDFORXQwUnpkQWRTdGFNMEVnZS1NSDJfZlRTeHE3Zm0zTmVGZFFPVEVOeFpUTlR0aXYxeTZiSm5vT1dkUXhqcENLTQ?oc=5",
+      "date": "Mon, 18 May 2026 20:00:00 GMT"
     },
     {
-      "title": "5月25日（月）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDNVVFQ0QwdkZENDlZeU93TDBuR21sQnR0TEtza0Z0Y3RqVnhXOU0wTUJDejAxd0dySGlOZFNSTmxTR1R6U2h3dm9DZUxDR0dzV3M3UWwxMWhXdlpzRjFaaVN6X3lILThzNkJVUXhuY9IBdEFVX3lxTFBUTTAzZ3p4bDlPTWoydDRBNkhaM3BVeHBhQklHNzVqZTU3Mm12bkVMekdSSmRlTE9VMVl1QzR1ekg0T0QyY0tJQUpJZkdlbEhPOGhGNEtDbm92alUtWEE1NzFTcWFKN2I1X1RJTkVtVEt6LVlT?oc=5",
-      "date": "Sun, 24 May 2026 20:00:00 GMT"
+      "title": "5月23日（土）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IU3ZKUTdxVTU4MW82MmJOT0g4NHRZWlotYTlZdFNWZUN1SUl4X19DWXlKdVludlhmaFFlb2NrVjJsekZxVm1VU2lDX2lDaGkybFdoUEJNUldFTXZzOGpvN2J2Tmo4alhtNHU5TFBmNNIBdEFVX3lxTFA1OUFPOTNHbC1YbFNfbnBSdDdDaDlFc3NTWUY3M3VJN0dvSmNDU2NCTXNwTTlPLWRVcTYtYVRZbHVOaUxhUW53NmowRE5nQ2hhOVdNZWptQXdCclVnN29RV2xjeXFtcEd0aS1FcXlEOGVEdEFE?oc=5",
+      "date": "Fri, 22 May 2026 20:00:00 GMT"
     },
     {
-      "title": "産廃不適切処理防止へ検問 北広島で石狩振興局など",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjlEUzMxWlVrbFlVc3NUN2VSZGtaU3Y3WUtOY3ZyWDNiVFpLRm5mUkRxeW4yWUdNTkJMZjliaGpSS3BBeFUyaTE5VnpTaTRUbkRLRG5LZ3ZEd0VVMTM5TGhZX2xIY1dOT2ZtWnFFRTVNdXZ1ckNEZmVDSTJveTBzUm1hRDYyTmFYTFpNSFd0TGNPRHBIQ2c?oc=5",
-      "date": "Sun, 17 May 2026 01:37:43 GMT"
+      "title": "広島県警が選挙違反取締本部を設置 3710人態勢",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMU5sb0xqcXMweUhUamwtTEJjbkdfSVlUSjFaWVVOdUZqTlRKeGRCMmpfRzZxVFFpWHJmbGgwS3k4cjlqMVY1NzB4aW1mTy00dThQSUhwVHJVZw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "5月22日（金）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IajJqNUxCRXp6Y2J1V0NsZ2g5ZkhIMWtEc3Z4NERiRmgtQjhOakNkaUxyb1ZKV1Z2T1N3R3ZWYWxpa3B2YTBXYVhkZmJlZl9XNHROZjlSZnpyMEhNSGlINEt1b3BtS0FicUl1TW41SdIBdEFVX3lxTE9lWUQ3TjR3TEZ5cXJmdW1acnZSV2UyLVlVR2p2eTU3eW1sUXR4TjFUZEVLQTV5T0Jid1cwNkZzQTNUYWFSNXc1ZVBvN0Z5OHNQSkRYa0EyYlRLSkRMRlN4RDFCd3hzN085eDRyWHJZQTVmV2RV?oc=5",
+      "date": "Thu, 21 May 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
