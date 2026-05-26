@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-26T12:03:15.860699",
+  "generated_at": "2026-05-26T15:03:50.676544",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 24.7,
-    "temp_max": 25.8,
+    "temp_now": 26.3,
+    "temp_max": 26.4,
     "temp_min": 16.4,
-    "precip_prob_max": 2,
+    "precip_prob_max": 4,
     "precip_sum": 0,
-    "wind_speed": 3.6,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
@@ -33,32 +33,32 @@
       },
       {
         "time": "09:00",
-        "temp": 19.8,
+        "temp": 21.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 24.7,
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 26.3,
         "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
-        "time": "15:00",
-        "temp": 25.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
         "time": "18:00",
-        "temp": 23.8,
-        "weather": "晴れ時々曇",
+        "temp": 24.3,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 20.7,
-        "weather": "快晴",
+        "temp": 20.8,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
