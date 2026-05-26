@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:07:34.536447",
+  "generated_at": "2026-05-27T00:07:55.315558",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 22.6,
+    "temp_max": 22.6,
+    "temp_min": 20.7,
+    "precip_prob_max": 100,
+    "precip_sum": 39.3,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 21.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 21.3,
+        "weather": "弱い雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "12:00",
+        "temp": 21.2,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 21.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 92
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "香川県警が県内一斉に街頭指導 4月1日から自転車の交通違反に対し青切符交付【香川】",
@@ -21,32 +80,17 @@
       "date": "Thu, 21 May 2026 11:00:00 GMT"
     },
     {
-      "title": "一斉取り締まり 自転車や車の酒気帯び運転で3人を摘発 その他の違反でも2人摘発 山梨",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNVNkRU03S1E5TzJVTDU0bV9hX2RrMDdEMTd6WENkMG1HQlI4SGNzc2ZrWF9OeklvT3A2a1c2ZU11bEZlZkQxaUNLRWpxOXZpR3BMLUdXdHFvdmdNTnpaa1haYTEzTVdZVGZPVTdoYkszTWhVV2RmWmZUZw?oc=5",
-      "date": "Mon, 25 May 2026 10:07:00 GMT"
-    },
-    {
       "title": "バイク暴走行為根絶へ　高松の国道で大型検問　県警と香川運輸支局｜四国新聞WEB朝刊",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fMDRDM0NKaktnSnBkQVlfR25Ua09hbnRsdXlhTUlTZ0VrY0lNR1FKb1R5d2s2QVlYZTE1WnhQYXhIZ3FvcE5EdG0xb2RhTkdKVHVQbHhDYmhxazRNMTdoQWxrRTYwSFRBZFE0U3RGWm5GbW50bWdZ0gF8QVVfeXFMTVROOWpnSVpLS0Fqc290RkpwUDVkdmRWb2I1V2ExYW10M09RdXh4TzhvcnVvOWlZbTVyeXlPWFZUWTdwUzBQUjdreEsteGc0Ry1vMUVHLWNEMGVVc2RJeVd2ekg1ZGFRbE1yc3N2MDB2TmVBcnhreDYxb3M3dQ?oc=5",
       "date": "Sat, 25 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "電動キックボードなどが分類される特定小型原動機付自転車で交通違反 香川県で初めて【香川】",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUTHcwNDZ3NnFnZW9kcjZSX21jcTJyOWNkazdPRUpwZmZmNFpzMGY5UWhoeFl1YTRsMW1Nc2l2UUNxY0VZSURBOUVmYVA5djREaWhqc2JrNGx3MjN3NF9oLUFPbzEtdw?oc=5",
+      "date": "Tue, 30 Jan 2024 08:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "25年の交通事故死、香川は20人 統計残る1948年以降で最少に [香川県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnblZyRzlHd0lFUHdCQVRxR0pHQzdVbzFqX2cyM2dXQVdGQXVXZ3BlYkkwV3NFSFlpVnBtY0lId2wxRlJvQlZEYXhtbHBtbWlWMkVkM1RzRGNlUUQyNGJ3aUhjNVRKY3M?oc=5",
-      "date": "Tue, 20 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "香川県のGW期間中の交通事故 47件60人けが 酒気帯び・一時不停止で1人逮捕 県警本部まとめ（KSB瀬戸内海放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vRlNscVVTY0hGcUh4Y0R0dF9EaUtDRFhwTWR2NS00cVFEOUVkMTdsUWlLTEhKUnE3ZU1TaGJNTzdGdUZ4dDNDdHRzQ0hMT25yYVNFTnhaUVVoTm5ZRDVEY29NSllfV1duSXdTM3hucU9kZVlpYkVBai16OTJuUEE?oc=5",
-      "date": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "春の交通安全運動期間中 交通事故死者は「ゼロ」香川県警（2026年4月29日掲載）｜RNC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG1PVjRXTllOVlFNVWQ0OWl5RmVDNElKLXZEd2ZFU3A3c1FkUmZtY0RlN2FQd2lnOTB5T0Y1UlowMFBqbnhOeE5hcEFjZmRyTlJoRDRDb0FrM1hQbkdvTnY4RHpwaGo0b3djOWVlcEpPS0xHbnlwZXBrUTVqSTFVMWdNZlFocm8?oc=5",
-      "date": "Wed, 29 Apr 2026 07:00:00 GMT"
-    },
     {
       "title": "香川）早まる日没、交通死亡事故多発を警戒 県警 [香川県]",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTW9kWk53NU5vaVpfTzN0enBBM1o3U3d5cXJ5VENybkNVdVBDbnFsaktfXzNXTThnVkVGUFQtTHN5R2xTNmJKbWZvaGVMdXcxcE41Slp3V1d3NVhjcVgxN1FhSVo4OHZIeVRCRnN3S25oQWJ4V0ZYMDFPWHF1UC13VE5tOW9GclpJMnpjazZR?oc=5",
@@ -56,6 +100,21 @@
       "title": "三豊市で軽トラックが壁に衝突 男性が死亡 香川",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWQmJDSm9qQVhiMk5LNFczLVQxeXVHUXpEem13MFNuTEthSDJZZ2NMSjFKdjQ2WGRBUnBQTXM3a2huNzZ2R1BTTDVmWWgwQjhV?oc=5",
       "date": "Sat, 16 May 2026 07:57:00 GMT"
+    },
+    {
+      "title": "【判決】事故で死亡した母親は第3子を妊娠中だった「5歳と2歳の子がいて人生の充実期を迎えていたにもかかわらず事故により突如死亡」裁判所が下した判決は…【後編】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JaGdnMUNtRFZ3bUpFNGV3X1NEejhNYVNKSzlWM0RUUi1EQUozOTdWdXNqVWVZLVpuVU5TbVZub1RyU1V4NUVPcE5FN3lXeVJjRHFIX1ZQV0hLQQ?oc=5",
+      "date": "Sat, 28 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "津山市で５４歳女性がトラックにはねられ死亡　事故の現場は見通しの良い直線道路【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92NGQyMlpJdXQ1UDE1dkpFR3ZZU1owbjdsRVVKUS1yYzd4WTVoczBicjFZLVRLRFM0NDNRSU5BbmNQNi1XN1BHY0NNYXBEcWZtSkZqOHRTRUZYWWhhczZHQWFsNFRSRkRQVWtyLdIBckFVX3lxTFBNUzhVUlJidGxUYjhRbFpneTdlVldxU3JYRjM0SlJoc2dDZmpYZHdyemFGT1UtRUFxV21oTGdKWGM2WkxNMmxRTFhNckNKYkhkTlFVOG5zTFpLby1VX2czTWpqX0lWU2NJSTNuaW1EZnFQZw?oc=5",
+      "date": "Tue, 26 May 2026 02:30:00 GMT"
+    },
+    {
+      "title": "【続報】自転車で転倒して死亡の男性 死因は病死と判明 香川・善通寺市（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tdlFhSHdhR0pzS0ZKU1hsVV95bFJrQmJoMkJ2bHI1eHNsRXFUb204Q3NHT3c0dk1FcEZCZF9FVnNJVTEzYlRmM0lRSXZ3Y1hUbXg0YkhrSXotYTZteVJDMk4wOS1jeHdUdlEzdjZjRmFsYTc3NFliX2hONTFwZkU?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

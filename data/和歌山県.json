@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:06:47.441144",
+  "generated_at": "2026-05-27T00:06:54.704336",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.1,
+    "temp_max": 21.4,
+    "temp_min": 18.1,
+    "precip_prob_max": 97,
+    "precip_sum": 20.9,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.2,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 18.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 19.6,
+        "weather": "霧雨",
+        "precip_prob": 49
+      },
+      {
+        "time": "12:00",
+        "temp": 21.0,
+        "weather": "強い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 20.8,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",

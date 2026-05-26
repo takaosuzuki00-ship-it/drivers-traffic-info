@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:05:54.125815",
+  "generated_at": "2026-05-27T00:05:46.293751",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 19.3,
+    "temp_max": 26.3,
+    "temp_min": 18.3,
+    "precip_prob_max": 79,
+    "precip_sum": 1.0,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.3,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 18.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 26.3,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 22.5,
+        "weather": "霧雨",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 73
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月26日（火）【岩手県】　日中・夜間の交通取締情報",

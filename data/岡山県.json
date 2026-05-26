@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:06:58.840634",
+  "generated_at": "2026-05-27T00:07:17.082859",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.3,
+    "temp_max": 22.3,
+    "temp_min": 19.3,
+    "precip_prob_max": 100,
+    "precip_sum": 22.6,
+    "wind_speed": 9.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 20.5,
+        "weather": "霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "06:00",
+        "temp": 20.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 19.4,
+        "weather": "強い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "12:00",
+        "temp": 19.8,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "歩行者の女性（54）がトラックにはねられ死亡 岡山・津山市",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBENFU5T3ViUll4YjluRWQ0MzZ2cmtuU015NGMzWWpaRi12bnhUMUFkUzRCaUNSNlgzeFV6djdwaVI4NDF4Y2ZiWGhEZHFPSUJ5?oc=5",
-      "date": "Tue, 26 May 2026 00:18:00 GMT"
-    },
-    {
       "title": "津山市で５４歳女性がトラックにはねられ死亡 事故の現場は見通しの良い直線道路【岡山】",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BRUZrN01RU19ELU5qdkE0a05WNzE0cnhVLXhBaGdCTE9waGRhZUpObVIxMHpnMkZsSnRiMXZyRFJ5cDRoWXNNTWZHREFXRHZB?oc=5",
       "date": "Tue, 26 May 2026 03:29:18 GMT"
+    },
+    {
+      "title": "歩行者の女性（54）がトラックにはねられ死亡 岡山・津山市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBENFU5T3ViUll4YjluRWQ0MzZ2cmtuU015NGMzWWpaRi12bnhUMUFkUzRCaUNSNlgzeFV6djdwaVI4NDF4Y2ZiWGhEZHFPSUJ5?oc=5",
+      "date": "Tue, 26 May 2026 00:18:00 GMT"
     },
     {
       "title": "事故防ぐ夜光反射材の着用を 相次ぐ事故受け岡山西署 スーパーで啓発",

@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-05-26T21:07:43.974398",
+  "generated_at": "2026-05-27T00:08:16.391098",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.9,
+    "temp_max": 21.7,
+    "temp_min": 20.6,
+    "precip_prob_max": 100,
+    "precip_sum": 34.7,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "03:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 20.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "09:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "5月26日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51c1lEWGotSlBpMHRKUjhjalFJZDZBWC0wYmNacU9JX3NzNjRmUW1ZaUk0S3Y1dVRoY3M1OUtiR1pGdzNGVXJQZi0xOVFuSkZpZ1RoRTM4cVkyYlNDdU1XcENvQVdETzRsYU9BYUNtNDJYRmlmNDlEYmJKOG9Rajg?oc=5",
+      "date": "Mon, 25 May 2026 20:00:33 GMT"
+    },
     {
       "title": "５月２６日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIenBzdE85NXZiMHBSMmhFRHlmcW1WYkVTeDZIMjYwb2lkSGx0b096Z3RKbTY2TkpRNHZwNG9HRF9rNkw0Q0ZxV1F2QnpHQk1hWEhGXzNkRTVTcHM?oc=5",
       "date": "Mon, 25 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "5月26日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51c1lEWGotSlBpMHRKUjhjalFJZDZBWC0wYmNacU9JX3NzNjRmUW1ZaUk0S3Y1dVRoY3M1OUtiR1pGdzNGVXJQZi0xOVFuSkZpZ1RoRTM4cVkyYlNDdU1XcENvQVdETzRsYU9BYUNtNDJYRmlmNDlEYmJKOG9Rajg?oc=5",
-      "date": "Mon, 25 May 2026 20:15:08 GMT"
     },
     {
       "title": "５月２５日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
@@ -26,9 +85,9 @@
       "date": "Sun, 24 May 2026 20:00:00 GMT"
     },
     {
-      "title": "5月25日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmExTTlmdHVRZF9ZWWx0eE0yM1M4aDB3TTVsUDBsbDFpVnFEOFpGY2FxLXpWMmZCTDJKM0doWUkwdVBxZUJBS3pMMC13eDBBSWdmcjdTU3FpT0Z1UWk0NVhPXzZwN3FieVFaeDJzMExjaHdUdjFHZk9ocnJxM0kwNDNFZlp3Ynhzbll0enB3?oc=5",
-      "date": "Mon, 25 May 2026 14:58:22 GMT"
+      "title": "５月２４日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HbVBPazgzbDU1b203YkNHOHQxcGtxeTJjRk9Va2ZYMDZhSGVHWWdaY0UwbDlZeVd6VFRjdkpVdDJtMnBjdHRYMlNzaDZlNU82ejJ2U2dJQnd5WHM?oc=5",
+      "date": "Sat, 23 May 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -36,6 +95,11 @@
       "title": "国道195号線で死亡事故 19歳が運転する車と軽トラックが正面衝突、77歳男性が死亡【高知】（高知さんさんテレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RGx5RWl1bE5TcllIZWxjTzE4S1RsQnJBb09uUTJ6M0dGTkZrLWwyY0FWSWtQSnlTRlhPZFlXckNrMFc0d0xhYmhhRTE3V182TnExdmdjWEVIckNtS05lM3d1R25xWUVBYWFqVFhtbl8tbnBpS01YTWw0SGpfeDQ?oc=5",
       "date": "Tue, 26 May 2026 10:12:01 GMT"
+    },
+    {
+      "title": "車同士が正面衝突、７７歳男性死亡 高知県香美市の国道",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yc2N2T1d3UFJkZElvUkxQYUd6a3AxV191YW13M19xVS1ESVhsYUw2WWZDTVpUcjFqTGh1VVpWaWd2dGh1TkRDekdkdUdULVNTLS1SdzRYR3QxbzRLV2Jr?oc=5",
+      "date": "Tue, 26 May 2026 08:08:00 GMT"
     },
     {
       "title": "高知が交通事故を報告「回避操作を行ったものの…」",
@@ -51,11 +115,6 @@
       "title": "ダンプカーと乗用車が正面衝突、女性(21)が死亡 ダンプカーは事故の衝撃で大破し道路外へ、運転手は足を挟まれ出られず⋯【高知・黒潮町 国道56号】",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMR1pnQXNUdjZZcTdBQVNEaDF4MGdaeVhCX0dlakZpa2QzODR5ZTNHNVEyUU9LMEZkUkx6ZmlaSHl2dGtwemNUTWhSOGZicUg4UmJYekdERQ?oc=5",
       "date": "Thu, 05 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "高知 香美 国道で車どうしが正面衝突 １人死亡１人重傷",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wd09XenZhQlpHeGlXdDZTX1pvQWpIaXM4dGJRRndPR29nTVJmZ1BUQjVlWTYxU1ZQeU0tcnpyOEVIeHlwUUpQdURUTVJudEZMcGdSaVYwZkk?oc=5",
-      "date": "Tue, 26 May 2026 07:04:00 GMT"
     }
   ],
   "official_links": [

@@ -1,41 +1,79 @@
 {
-  "generated_at": "2026-05-26T21:07:02.579645",
+  "generated_at": "2026-05-27T00:07:26.109530",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [
-    {
-      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWd0cmFKZkVxdk9rVm00SmVoTDRGdDNhUVZRRVRmX0VWZzVmTm9ZVEw1VUF1QUdwdm9hbHlGdnJUV05DWmJiYTlqQjVIUWxQQk03b3l2UWJ2S2ZuUElzSFhDMGRnNzM0WldnRFJvUdIBdEFVX3lxTE53NlN0dHVGd2NsaTdTeUtaOExqOEFILVVPS0d4RUpvbWJLRVR1b1FpM3NYbjZtRGpHYlhEejBRWFFEVUdFbnMtSXRjWEJ3WHprbFZBLVZvUkQ3UEJ4X3ZpRmhCVW5QOUI3YjlYSU1nSUVDaGt1?oc=5",
-      "date": "Mon, 25 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "５月２６日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1abTJHWjlReXdHekQ5aTJTblMtS3FIWXptMlhkdlR5b2tydF8tOXRJaGZsNXZtTll1MjBScU1LeEU3bFlTNUx3enVRSzdwRDZZTnl6N3R1dTFkbTcyR1BJUFc2NEY0eC1FRm1LRER6Qi1zZ9IBd0FVX3lxTFBxZGJRcXVWTVhjdzZaU1JtaGl4V0h4OVQ3ZGl1Y1JmeXZEcTF0TEh3YmZUamF0NGxwM1dQdTdtMDhJVGhmbF9iN2wtRWhQRy1JcHlpWHByT3REbHRLMWVubFZwUHcwdkxZMnVuajJnVWpuSmZNT0RR?oc=5",
-      "date": "Mon, 25 May 2026 23:15:00 GMT"
-    },
-    {
-      "title": "産廃不適切処理防止へ検問 北広島で石狩振興局など",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjlEUzMxWlVrbFlVc3NUN2VSZGtaU3Y3WUtOY3ZyWDNiVFpLRm5mUkRxeW4yWUdNTkJMZjliaGpSS3BBeFUyaTE5VnpTaTRUbkRLRG5LZ3ZEd0VVMTM5TGhZX2xIY1dOT2ZtWnFFRTVNdXZ1ckNEZmVDSTJveTBzUm1hRDYyTmFYTFpNSFd0TGNPRHBIQ2c?oc=5",
-      "date": "Sun, 17 May 2026 01:37:43 GMT"
-    },
-    {
-      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lYzNLUTJtczZmTXlDMk5ESkNtTWVsYW9DQ0R4b1JGVEg5b0UtaTBDMC0yNUxwa2hTNzVQRDdxUmhfVDhRbEMxbXhHQXJCUi1sTzNQdlJ2TVFaUQ?oc=5",
-      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hSHNBYTRZeXQtcW5neVlHdGRrX2R0Y0Z3TGwtbEw2UkNVZmRST29pSE1EY2ZCVXM5a2hwbmV5bE5uNWJEc3VEV05BMA?oc=5",
-      "date": "Tue, 23 Dec 2025 08:00:00 GMT"
-    }
-  ],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.5,
+    "temp_max": 22.0,
+    "temp_min": 19.9,
+    "precip_prob_max": 99,
+    "precip_sum": 33.4,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 35
+      },
+      {
+        "time": "06:00",
+        "temp": 20.5,
+        "weather": "強い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "09:00",
+        "temp": 20.9,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "12:00",
+        "temp": 21.0,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 21.5,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
+      }
+    ]
+  },
+  "enforcement_news": [],
   "accident_news": [
     {
       "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
       "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "広島県尾道市で車同士の衝突事故 男性一人が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNbnZwNzBfNFFVQ2FtQlRUZWhXaUtVWmN4bFVxZk5hYy1WcmItZjJHd1lyMnNpQ1FlRXdiQ0dWQnh0YWE3X0tpS184blFTMkQxY1FnWFZ2MA?oc=5",
+      "date": "Sat, 23 May 2026 05:12:00 GMT"
     },
     {
       "title": "車同士衝突、軽自動車が川に転落した死亡事故 信号無視か 52歳女を書類送検「漫然と運転していた」広島（テレビ新広島）",
@@ -51,11 +89,6 @@
       "title": "【事故】広島市中区の寺町電停交差点付近で車同士が衝突 広島電鉄が一時運転見合わせ",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYREtKNDJ2blBwV05pUGJGQ2llSHNBQWpjOXVJUVhWTzg2dGRzM0ctMDNMaXpvR2dlWUxsV2s3ck1aMnpkdEtiNkRSQUktSDBQZjVZSHZjM3FJdw?oc=5",
       "date": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「スリップしたと思いハンドルをきった」広島市南区の国道２号で4台が絡む事故 2人が軽傷で搬送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oS2diQ0NTT3NVSmhQazN6aEoyaHhLbU04emlNYUY3dVllSUZTOE9RLXBxSFozVTJFZzNLVkhHRWhnem80OEQ3YUJGNHlSdFp3akEwb05jMWdqN3MzRVJF?oc=5",
-      "date": "Fri, 22 May 2026 01:23:23 GMT"
     }
   ],
   "official_links": [

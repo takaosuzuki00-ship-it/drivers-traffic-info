@@ -1,24 +1,83 @@
 {
-  "generated_at": "2026-05-26T21:05:58.348437",
+  "generated_at": "2026-05-27T00:05:57.402333",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 19.2,
+    "temp_max": 26.2,
+    "temp_min": 17.5,
+    "precip_prob_max": 67,
+    "precip_sum": 0.7,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.0,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 23.9,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      },
+      {
+        "time": "21:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 67
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
     {
       "title": "5月26日（火）【岩手県】　日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSjVORGZaaEdOYXFEZkZLNkMtbFEzaGtaazlwLTdqTjlvaTN6TkR3YWhua09lbmtzWjZFckNsZHFaYng4ci1NOUgxdjYzYmxEUEFfYklLbW80SmdaNDcxM24tQzhrTnRtSy1rN21ENNIBdEFVX3lxTE0xTTF1bEg1d3ZNWmxNWTduQlNLV1dGZUxPMmVCWEpiY1BNTGRkSmQzYVQ1UU53WVNCczM2ZXRaQWw1Q2x6UnRDcTAxaGQ5d3ZqbTVMcVpVOUh2OU40Z2V4di1QN0M3QjYwQWZ5WXBuOGhLMVFU?oc=5",
       "date": "Mon, 25 May 2026 20:00:00 GMT"
     },
     {
-      "title": "交通取締り情報",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96WUxGaGY2Vi1KOG8wZHlZMnBHYzJoSWRGVGp4U3FQRDdBTURtQnc1cTZuMjl4Z2FOeU9OWUNBYXpsUU1HVGJOdEtEdTBfVHExd0QyTFZLdXlzdGdFNVNuR05nS284LTVtbG1DT2YyWWI?oc=5",
-      "date": "Wed, 11 Jan 2023 08:00:00 GMT"
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "「改造車は排除します！」 爆音＆シャコタンの「不正改造車」を\"一斉摘発\" 道の駅で集結した「国産スポーツカー」など11台をその場で検挙！ 「改善命令」も発出 静岡",
@@ -26,9 +85,9 @@
       "date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
-      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+      "title": "飲酒運転の増えるお盆に交通量の多い道路で検問 飲酒運転の取り締まり 静岡・沼津警察署",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYUprUGRXOWNGaFdQdC1hSGJMdWlRU2pkS0hoYV8zamhMeEdQVXVCUEg3Q3BLMENyZVlrTURId1Y3RzdyT0lDU2V3VVNsSmFsQXQ0SXVjVHBaYmUzTXN6eg?oc=5",
+      "date": "Sat, 16 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [

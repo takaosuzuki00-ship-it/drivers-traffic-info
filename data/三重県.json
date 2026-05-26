@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:06:04.074037",
+  "generated_at": "2026-05-27T00:06:07.519078",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 18.5,
+    "temp_max": 21.3,
+    "temp_min": 18.5,
+    "precip_prob_max": 98,
+    "precip_sum": 13.8,
+    "wind_speed": 6.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 19.0,
+        "weather": "霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "06:00",
+        "temp": 19.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "12:00",
+        "temp": 20.1,
+        "weather": "弱い雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "15:00",
+        "temp": 20.4,
+        "weather": "弱い雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
@@ -16,6 +75,11 @@
       "date": "Mon, 25 May 2026 23:15:00 GMT"
     },
     {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRnhzcU42NWxZUndCWjgySkY1T29RQlVPazl3b0dJY3BhVk9fOUl1ekZ5b1FLVEplT0pSVUdNWWJhYlFZYnlFQkdxNA?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
@@ -24,14 +88,14 @@
       "title": "【交通取締情報】福井県警 ４月１２日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
       "date": "Sat, 11 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１１日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
-      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "【交通死亡事故多発警報】三重県で8か月ぶりの発令［5/26-6/30］ 前年同期比＋10の31人 | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR0F3QUdQRjBpTjFPSG9FdG1Cc19sYnpCN2hxRWxST0hFY3Ywc3V5UlU4UnNhWUZYX2xtaVd3STgzb29ZSTFUb3FkYTF3RmJRNHdraDJkb2FFai1yeUVR0gFkQVVfeXFMTTRGMVlvM0djdGk4NV81QTM5WVl2YjV6OUJoOHJtVXlYbDJXUExYNmhmRjg2Vy1lR042aVhpaktBM1l6bmlQb2dMc0VuODk0OHFsTUZCY0FRX3R5Q3NZSFFwcldKZQ?oc=5",
+      "date": "Tue, 26 May 2026 12:00:00 GMT"
+    },
     {
       "title": "三重県内の死亡事故４件 春の交通安全運動期間中、人身事故40件増の95件",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BUW5CMGVheXpNMHBRWFMtcHBnTHp3bHRfdUQ4a1hzMzlCVVNIODlTTEp2c2NMNmVDdXJfRlo0Z3lZdjBGeFhsUmlWdw?oc=5",
@@ -46,11 +110,6 @@
       "title": "新名神高速の6人死亡事故、5歳含む全員の身元判明 三重県警",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRVFQzVGhBb24wcW8tTzlEbVdQd0xtdnpESng3TFAtTlZ3QU1VUnhJRlVYb1V3WjkyUHlrWHRVUFAta2ZxTnd2OHpYMHpRZno0MHVBWHZaTVhlUnZ6M1BfMzVxN01KUW94?oc=5",
       "date": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "スマホ見ながら８２キロでトラック運転、ブレーキは９ｍ手前…６人死亡事故の女を起訴",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oaUZvbHJrMXF0c0FNc19YWkNqWktkUlRYd0EyMFQ0SW9lMjl1bXcwQjVVMnZpd2RRQjNnUlpnYmtIQV8wNnRVY2dmREZwNzV5Mlh0NnJmUmgxNmNLbzBYWmVFTVByZw?oc=5",
-      "date": "Thu, 09 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "「ルールを守らない大人を真似しないで」 交通事故遺族が中学生に「命の大切さ」伝える 三重・伊勢市（三重テレビ放送）",

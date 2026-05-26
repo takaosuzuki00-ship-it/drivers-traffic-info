@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:07:19.570724",
+  "generated_at": "2026-05-27T00:07:46.189896",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.0,
+    "temp_max": 22.0,
+    "temp_min": 20.6,
+    "precip_prob_max": 100,
+    "precip_sum": 35.2,
+    "wind_speed": 11.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "03:00",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 20.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.4,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 21.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 21.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 20.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【徳島県】2月はスピードの取り締まりにも十分注意！「交通取締計画」をチェック＆把握して安全運転につなげてください。",

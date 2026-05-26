@@ -1,34 +1,93 @@
 {
-  "generated_at": "2026-05-26T21:08:12.540679",
+  "generated_at": "2026-05-27T00:08:50.511926",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 23.0,
+    "temp_max": 23.0,
+    "temp_min": 20.5,
+    "precip_prob_max": 100,
+    "precip_sum": 45.4,
+    "wind_speed": 12.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 21.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 22.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 22.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "曇り",
+        "precip_prob": 65
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcDR6V29hT2V5U1ZqbENmXzZqN1JkWVNYMkZyazhqcjVmSFBjT21aWFVITG45SVM5TjQ0eW5idjBCekYxVXdhUmNLcEdJdnNSdnAzQVFpcw?oc=5",
-      "date": "Mon, 25 May 2026 20:02:00 GMT"
+      "title": "友梨さん不明２３年、大阪で検問 - oita",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pdU9fZDJEVzZDMWczaUlpb2xVVFZLX3U3anZoTlhEaGhpSS1wMTVkUWpXMlkzd3F2VE1wVHoxa3VQZW1oR3YtSGFxMTZaZHdXSkY1OHo4TWpPTUM2YjE2TFQxdDhxM2xXRVpVdVM4S2lsWUdhU2U4MtIBhAFBVV95cUxPRTV5NzBEeE9pQWVtYkxjYU5Ma0NxZFo0OV81ejRyeXZxRlpwYlo5dk1oUklQZUt0REhEaUpiQnRtRVkyaGR0Tkl6NE4yeDBXZldmYXh6MUFBZVk3YzRvRjFfZHVGdVhkVWRUQUZacHVKcF94RlZjN2lvUDNINnlITkROWGc?oc=5",
+      "date": "Tue, 19 May 2026 08:34:00 GMT"
     },
     {
-      "title": "５月２６日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1abTJHWjlReXdHekQ5aTJTblMtS3FIWXptMlhkdlR5b2tydF8tOXRJaGZsNXZtTll1MjBScU1LeEU3bFlTNUx3enVRSzdwRDZZTnl6N3R1dTFkbTcyR1BJUFc2NEY0eC1FRm1LRER6Qi1zZ9IBd0FVX3lxTFBxZGJRcXVWTVhjdzZaU1JtaGl4V0h4OVQ3ZGl1Y1JmeXZEcTF0TEh3YmZUamF0NGxwM1dQdTdtMDhJVGhmbF9iN2wtRWhQRy1JcHlpWHByT3REbHRLMWVubFZwUHcwdkxZMnVuajJnVWpuSmZNT0RR?oc=5",
-      "date": "Mon, 25 May 2026 23:15:00 GMT"
+      "title": "大規模飲酒検問を実施 ドライバー200人超の呼気確認 5件摘発 大分県警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMi1aQTIzUDJGUXlrdUpud0l3T3F4VkhJTnJGUG9ZZHRzaHVITmFkMmVuZDhmdXFzcXg3SUdveFNzdEhPbjYwMDVVLVVGYUlRcG83TlZlQnRrQQ?oc=5",
+      "date": "Sat, 13 Sep 2025 07:00:00 GMT"
     },
     {
-      "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yajV0QVgtTi1Nd2Rpbm9SXy1MSTd1dksyZmpKVXFzUkJVVG1YVXhfbFhkYk5wSm02WTA5SWJGSXFnSENUT2FpVUg0c2JvOUpKMkVMWFNTUQ?oc=5",
-      "date": "Fri, 22 May 2026 20:02:00 GMT"
+      "title": "通勤中36キロ超過 スピード違反した県立学校事務長（52）懲戒処分 大分",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOTB6TlRyaG13NFd2b0J1SURfeHNVX2h0Z1dsanJiOUh4WkhYOTVjOXdLVXJhOU1zOWtaVGxIR1RnVzUySXZFOTVJWEYtUnNSYVpPQUt1RQ?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ３月２２日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zbW9hUnBEakxFOTk4UEZjczV2YnMtQzZTaXV6V2MzTlJOLUdPVVo3UFlSNm13ZEJhcEJrbFpkNXY1VlJaRTJRTENSUQ?oc=5",
-      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+      "title": "大分県内の薬物摘発、25年は95人で３年ぶり増　10～30代が半数超、全国初「ゾンビたばこ」立件も - oita",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56eUFkSzZORV8tUkxlZTlnaWo1Z3paVzFiX2hmbnZUenB5em9TS3o0UzRUSUFFeUs4R1k1RFZDNUFkQWd4V2hWaE5UcnNLSjhXb2NoSGNlTWhsLTMzT1U1RV9nUVhFYlpJeFJBTlFxOGtLWkVzNkHSAYIBQVVfeXFMT1R2bFJmdk9QRkZZR1hVQTlvOE5kdmlKOS1tYTNwdlNfMk9uVVB1LWQtR0hUcDVONUxIeXkxRFFyN1FCdXhnUUtfNTN5dGlDdHhkYmdOVmZMVDlTb1pGMndzaUZaMTJ3TlQ2RHkzTkZFek9vVEJaMHpsc0pMYTFGVVRQdw?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "速度違反摘発で虚偽書類か 神奈川県警、書類送検へ（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxaVFSOHdOMXhRRWtBTXZRRTdSRVJFT3FFSjBNZnRnM3VJVVpSZ1NuMWRkNW5KdUxHLTh3cjRNY2VSYjAyWmkwb2xpR1doOGY3V3ZLdVFSc3pEWXBkQ0VDa01NVEFNekd0dDc1V3RVd0R5bUpQN3c2NTkwY2VWTGs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -51,11 +110,6 @@
       "title": "大分県内25年の交通事故死者、前年上回る41人　増加は20年以来、65歳以上が６割 - oita",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XeDlaUUpNeWpwS09LMUI2RGExMjhMX2dLbTh6c05PVmJVWk1xOVVnNWQzX0J4bWFOSWlMVDczc0RKSmYyZWVmYUtWeTB1S3NSTlVwUm1OdWRhTjNXM3VaSllmUDdocXpQYVM5WVkyT2hfaWxvd2fSAYIBQVVfeXFMTlFCNVpKUV9xcnQtWHFSZXZwRkg4aVpVZk9lUlNSMTdHWWNpdUFTTlJjWVBtOUJPS21hY1dzYWFMcTRzQkJmaWp5MGluYkNDNDVLR25hZzVBYmJuZUtDd0NValFOcnYzQ3Q2bGVwLVZsc3lEX3pfYzBWMjlVZWNxMmhtUQ?oc=5",
       "date": "Wed, 31 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "トラクターの下敷きになり男性死亡 田んぼの脇の道から転落 竹田市・大分",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RlR6elFIWUxIM29vMzFScVBHMGFqMnlLakNaa0ZvUmsya3pVcUFBQ2FlSkw3ekZlcmVzQmVqRFp5MDduZmdOVFFoQXp3ZHd6N1ZKaHctaWVmMXg1?oc=5",
-      "date": "Sat, 23 May 2026 09:00:00 GMT"
     }
   ],
   "official_links": [

@@ -1,93 +1,88 @@
 {
-  "generated_at": "2026-05-26T21:04:06.296707",
+  "generated_at": "2026-05-27T00:03:38.689289",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.2,
-    "temp_max": 27.1,
-    "temp_min": 16.2,
-    "precip_prob_max": 2,
-    "precip_sum": 0,
-    "wind_speed": 5.3,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 19.0,
+    "temp_max": 28.6,
+    "temp_min": 17.1,
+    "precip_prob_max": 14,
+    "precip_sum": 0.6,
+    "wind_speed": 4.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.7,
-        "weather": "晴れ時々曇",
+        "temp": 19.0,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 16.5,
-        "weather": "晴れ時々曇",
+        "temp": 17.7,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.1,
-        "weather": "晴れ時々曇",
+        "temp": 18.0,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.6,
+        "temp": 22.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.5,
-        "weather": "快晴",
+        "temp": 27.3,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 27.1,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 28.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
       },
       {
         "time": "18:00",
-        "temp": 24.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 23.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 14
       },
       {
         "time": "21:00",
-        "temp": 21.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 20.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yajV0QVgtTi1Nd2Rpbm9SXy1MSTd1dksyZmpKVXFzUkJVVG1YVXhfbFhkYk5wSm02WTA5SWJGSXFnSENUT2FpVUg0c2JvOUpKMkVMWFNTUQ?oc=5",
-      "date": "Fri, 22 May 2026 20:02:00 GMT"
+      "title": "友梨さん不明２３年、大阪で検問",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMUR2WkhSODhCWmdJNVprdy1aYzFwS2NxdUZOUjV1ajlsdk1wS09ERDdhWEc4SXp3aHo2T3FEdEx2bnBjbVlxcWJoRmhRdEE?oc=5",
+      "date": "Tue, 19 May 2026 08:29:10 GMT"
     },
     {
-      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWd0cmFKZkVxdk9rVm00SmVoTDRGdDNhUVZRRVRmX0VWZzVmTm9ZVEw1VUF1QUdwdm9hbHlGdnJUV05DWmJiYTlqQjVIUWxQQk03b3l2UWJ2S2ZuUElzSFhDMGRnNzM0WldnRFJvUdIBdEFVX3lxTE53NlN0dHVGd2NsaTdTeUtaOExqOEFILVVPS0d4RUpvbWJLRVR1b1FpM3NYbjZtRGpHYlhEejBRWFFEVUdFbnMtSXRjWEJ3WHprbFZBLVZvUkQ3UEJ4X3ZpRmhCVW5QOUI3YjlYSU1nSUVDaGt1?oc=5",
-      "date": "Mon, 25 May 2026 20:02:00 GMT"
+      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oM3NTVy11cjdZdzNNRDJfWTdZVnVxRGZKX2hVbHJXb0dLUldPUFA4UG52NUxvOUlxM0Nrb1hwV0lIRElwWHZWOW5QVQ?oc=5",
+      "date": "Tue, 28 Apr 2026 02:08:34 GMT"
     },
     {
-      "title": "5月24日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLS2pKRlN6bW5hYmxlQThoUkNRZ3dnOUNSMnk1YXRVUE9qVFZFdmkwSGZ4Y0xROEVoN2tuc1ZwYW1iUUZ5eC15dHdOeFBHSURQS3lTV0JrNA?oc=5",
-      "date": "Sat, 23 May 2026 20:02:00 GMT"
+      "title": "郡山の受験生死亡事故から１年 いわき市では飲酒運転撲滅に向けて検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYllnNWFOVVB0NDhhdHZyTm1JMEkzb2ZQN2hvelE3Y0NxRjdpR1ZrSmJZbjM2a1JWY1l1eWZVd0xNckVnay1GZEFvLWJLNS10YnhlZGxoQ012QQ?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "5月23日（土）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IU3ZKUTdxVTU4MW82MmJOT0g4NHRZWlotYTlZdFNWZUN1SUl4X19DWXlKdVludlhmaFFlb2NrVjJsekZxVm1VU2lDX2lDaGkybFdoUEJNUldFTXZzOGpvN2J2Tmo4alhtNHU5TFBmNNIBdEFVX3lxTFA1OUFPOTNHbC1YbFNfbnBSdDdDaDlFc3NTWUY3M3VJN0dvSmNDU2NCTXNwTTlPLWRVcTYtYVRZbHVOaUxhUW53NmowRE5nQ2hhOVdNZWptQXdCclVnN29RV2xjeXFtcEd0aS1FcXlEOGVEdEFE?oc=5",
-      "date": "Fri, 22 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１８日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycEJmY2NYMHFCeVhVMUlJX3RnQl9KRUVMQ2xGT185RHBLZlROSkpCOHAxYkQ0V0d6QXNGWWplc3pkMDNOYU5YTTNybw?oc=5",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xMGtRVXVHTXhtUGNCczBNZ19LTS1oUk50MDVzeDNkZVNNLUxvcmRGLTV1aTdVM3JLTHpxWU5SQmpEeDhxOS0tS3FLcXl1QlU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

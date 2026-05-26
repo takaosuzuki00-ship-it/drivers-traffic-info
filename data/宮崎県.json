@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:08:16.052764",
+  "generated_at": "2026-05-27T00:08:58.053211",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.8,
+    "temp_max": 28.9,
+    "temp_min": 22.7,
+    "precip_prob_max": 100,
+    "precip_sum": 34.4,
+    "wind_speed": 15.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.8,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 22.7,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 23.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 24.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 25.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 28.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 65
+      },
+      {
+        "time": "21:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "５月２６日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -16,11 +75,6 @@
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "5月26日（火）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSjVORGZaaEdOYXFEZkZLNkMtbFEzaGtaazlwLTdqTjlvaTN6TkR3YWhua09lbmtzWjZFckNsZHFaYng4ci1NOUgxdjYzYmxEUEFfYklLbW80SmdaNDcxM24tQzhrTnRtSy1rN21ENNIBdEFVX3lxTE0xTTF1bEg1d3ZNWmxNWTduQlNLV1dGZUxPMmVCWEpiY1BNTGRkSmQzYVQ1UU53WVNCczM2ZXRaQWw1Q2x6UnRDcTAxaGQ5d3ZqbTVMcVpVOUh2OU40Z2V4di1QN0M3QjYwQWZ5WXBuOGhLMVFU?oc=5",
-      "date": "Mon, 25 May 2026 20:00:00 GMT"
-    },
-    {
       "title": "自転車「青切符」知って 宮崎県警取締隊が出発式（宮崎日日新聞）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UGdVLWNqeDNubE1oejh1cmNWTW1vY2xaUjRTcGhob3pLdjA4MmNZbnFOczFKcGtXOFlWNWdFU2tqWEdvRzRFbnotV05jYi04dWlOdEstZ29zemJBRkRzTExhQXlXUzVTc0tXNjRJSDd2Z3lJcHloM0hDQUxlUGs?oc=5",
       "date": "Wed, 11 Mar 2026 07:00:00 GMT"
@@ -29,6 +83,11 @@
       "title": "自転車「青切符」知って 宮崎県警取締隊が出発式",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hUXU3a29YNHhBV2tVVW5CU09hMmM5VmptTnJFR2hyOVpDdmJYam1sMHNrX0RKT00wSW5YQWFTbVBZdXlpM0dCeDFuUQ?oc=5",
       "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [

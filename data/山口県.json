@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:07:17.094670",
+  "generated_at": "2026-05-27T00:07:39.139875",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 21.0,
+    "temp_max": 22.5,
+    "temp_min": 19.4,
+    "precip_prob_max": 100,
+    "precip_sum": 47.3,
+    "wind_speed": 10.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 29
+      },
+      {
+        "time": "03:00",
+        "temp": 20.1,
+        "weather": "霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "06:00",
+        "temp": 19.5,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 20.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 20.1,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.8,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 75
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "霧雨",
+        "precip_prob": 59
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -14,24 +73,14 @@
       "title": "【交通取締情報】福井県警 ４月６日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZmFOamprWXRzTzYyX2p6UnVPX3RwUDdGRzNrSTNOUXBHbFJhaTREaEdrMjN0RlZSTUFVakUyQTBXRjNNaldjSkQ3NA?oc=5",
       "date": "Sun, 05 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "道路法第47条第2項違反者（重量超過車両）の告発について - c",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
-      "date": "Mon, 17 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "通行禁止違反、スピード違反…全国一斉取り締まり日に山口県内で８５件摘発",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTVZEcXR0SE1tQlB6UlBXVUlXTTA1d3AteENqZldyY2tXQ2NkaXhiY1Brd3JWdGlRay1UNlVPR3VKZ1EzSDJrdnJpYmpiMFdGSllJOUlnUk1GNlZZTEZnQXNNVG5lZw?oc=5",
-      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "山口県内の交通事故発生状況/2026年5月25日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ONjFKbU1CZ3dpQTJEUExxWnVvT0hRTXNHdmNwdW9adkJzUEVCUkFnaF9mOVdTazduWkNTYjlwSXRwQklXNi1Dald0R2g2ZTI0YWhnUEsyanZsWnAyTlZiLVRwMF9BU0p4bXc?oc=5",
+      "date": "Tue, 26 May 2026 01:10:00 GMT"
+    },
     {
       "title": "山口県内の交通事故発生状況2026年5月25日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZVkZFVUxrWURHWG13REZLenpsZ1plOGp0Z2wwMUtOcFA3ZUw0Vy1UbzB0WkhXR1ZRcmRJWlhPcFJSODd6T3RUQ2RRdw?oc=5",
@@ -46,11 +95,6 @@
       "title": "男性（44）が乗用車にはねられ死亡 山口・柳井（ｔｙｓテレビ山口）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbE81TGVCM3BiQV9hdE5uLUZySXVtSFgySHNXWEloRzBwVGxVTVJrMjdnYXJIUEtwNXE2TWQtcmhVbzcwd2REY3pvVWdfdWdGZ1JpREI0ZmVvNHVTVXhzVm9FN1ZoenFpSnpJQmFsbnI0b192YWtWMFN5OEg1RkE?oc=5",
       "date": "Sat, 23 May 2026 19:14:12 GMT"
-    },
-    {
-      "title": "【事故】車にはねられ４４歳男性死亡 柳井市の県道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05WHdRR3pDRHI1algxeXJrX0dqMUxqQ05ucmJlakpXLWlxcEtSZE5IcDV3UHBDM2VXVnRKTGc4a2xMTTg2LUZJM1piTVhUZlVZalpDRk9mcVBxSUNZNkNncGZ5S0I5aF9iWmc?oc=5",
-      "date": "Sun, 24 May 2026 21:00:00 GMT"
     },
     {
       "title": "男性（25）と男子児童（8）が死亡 国道490号で乗用車どうしが衝突 山口・美祢",

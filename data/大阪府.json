@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-26T21:06:25.516732",
+  "generated_at": "2026-05-27T00:06:31.705868",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.0,
+    "temp_max": 23.6,
+    "temp_min": 21.6,
+    "precip_prob_max": 96,
+    "precip_sum": 15.2,
+    "wind_speed": 8.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "霧雨",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 23.1,
+        "weather": "弱い雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "弱い雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 23.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 90
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "５月２５日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -16,14 +75,14 @@
       "date": "Fri, 05 Sep 2025 07:19:08 GMT"
     },
     {
+      "title": "ダブル選前に違反取締本部 府警が設置 ／大阪",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pT3Eyc2FOcWV4T0prQVVlSHdUeHE3WjVhcklCNGdSV1IyLWZ0VU1qY2VOWlBwRlI3ZnQxZmJTcl9CRm1tNUZmR2o5anljUXZtSnJNQmlIQU9aQ1ExZThpVEJlX1hZWV9I?oc=5",
+      "date": "Thu, 22 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
       "date": "Fri, 04 Jul 2025 07:00:00 GMT"
-    },
-    {
-      "title": "大阪府警察本部 竹内広行交通部長 危険運転への交通指導取締を強化 二輪車の交通事故防止に重点",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cTEwTXBWdmdSX29WWTZFRjQtUmlvb183TC16akdNRk5zYi1KRk5iQTlTcEowWEprdWZ2TUdmOGJUdTVEUWJXOWJoUG1PeDlvRkE?oc=5",
-      "date": "Fri, 14 Nov 2025 04:25:40 GMT"
     },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
@@ -53,9 +112,9 @@
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "駐車中の乗用車内で20歳の大学生が死亡 未明から朝まで飲酒 神戸（神戸新聞NEXT）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oNkFfTnYySUJDcW5KRWVHc1RWYXZXZ2NJd1hmT0liV2NaZnJueWxlWV9LS1hWVmtuWkZyWWVnaVhUVnlGTFhzSDdvMEVJQTBHRjNFZzJKSGQxYUpMdXg5ZXc2VFptb0dYMFlfN0s4WDhjeWU5dTlldEh4N2lHSVk?oc=5",
-      "date": "Tue, 26 May 2026 00:04:21 GMT"
+      "title": "駐車中の乗用車内で20歳の大学生が死亡 未明から朝まで飲酒 神戸|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DREN6ZEhIMHBZRzZHcDdpQkxldHZIZGtKOFA2YjA4ekpCTnFDaS1WLWhaLTVOaUJ4M0NyVERCc3VXQk5yTE1vNHltMEswZkdwOUJjTl9pU09yMjJWcmJVRnhFTXBPU0o0ZE5J?oc=5",
+      "date": "Mon, 25 May 2026 23:50:47 GMT"
     }
   ],
   "official_links": [

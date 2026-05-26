@@ -1,61 +1,120 @@
 {
-  "generated_at": "2026-05-26T21:06:29.872184",
+  "generated_at": "2026-05-27T00:06:40.053493",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.1,
+    "temp_max": 22.0,
+    "temp_min": 19.7,
+    "precip_prob_max": 98,
+    "precip_sum": 15.2,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "弱い雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 21.0,
+        "weather": "霧雨",
+        "precip_prob": 47
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "弱い雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 21.5,
+        "weather": "弱い雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 80
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "５月２０日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xQ3BhSnJlVDE3MXhCMEZsVjZWb1pZal9UR0I2djdVak5XaFlUaTktSnR2c1FHVHNvTkdQcGthQTJPd1l4VTQ5NjQ3ZXBsZUFQNVQ3ejBIQQ?oc=5",
-      "date": "Tue, 19 May 2026 20:00:00 GMT"
+      "title": "国交省怒りの命令「すぐにクルマを直しなさい！」 不正改造車「6台」をその場で\"摘発\"！ 走り屋の聖地「六甲山」集結の\"大迷惑\"「爆音・ハミタイ」のスポーツカー検挙を実施",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RWVRQNl9HU0d2a3lZMnBVdUk5SU5KOTBuYXpOVWc2YkhfOFFmcWZTb0VSSHROZmR1bGItS0Z5WDJzYzhjOGhVa09n?oc=5",
+      "date": "Thu, 06 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "兵庫県警、衆院選を前に「選挙違反取締本部」設置 本部と全46警察署に|社会",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVHhTNGZmVW5TbV9ETnNLWmtsNzBZdWdvSWFRb1F5YlBnWjV6anhlNWxLNEs5MnI4YjdFbnBqOGxudFdfOVdidHN2c0FTaTA3bWhMbVNsNHNaNFJ1V0QzZTVqUjAyN09qdjRGUVNB?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "兵庫県警が衆院選に向け取締本部を設置 選挙違反の取締りを強化",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BUFZRU0VEMm01Q2UydHFrLUFFQ0s4cHFBWm9QU21YWWxtZngxYU82WGZYTlJ0WXA5UzB1OTlwMUtjQ2t2U0QtR1JHQ1FNNENFZHJzUmUzRkN2dk1yeGZZMm9iT0hMRzVp?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+      "title": "解除の夜ですが…「飲んだら乗るな」 兵庫県警、飲酒運転警戒へ検問強化",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTVKcU1mNmttRjhNdkhINmZMR2NrdE9KODJDWlVEWnZvTmhfa3BXNVJPS1V4OWN3X3JmS1NCbnJzVmFqR1RFVjRiTU5NVjB3X28xTDNhbEsza2tLTGpSdE95QlZZWHpTSEJwajR3?oc=5",
+      "date": "Fri, 01 Oct 2021 07:00:00 GMT"
     },
     {
       "title": "不法残留疑いで男女14人摘発 旭市のアパートに滞在、最長6年11カ月 旭署など",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yelhXeHBISTN0S1RUT3REc2VyWHN2bFlFVlNzWDZleXRMS01sYTFsMGJ3aHVQQWJWS0JLWWNfbndqTmNtdFJjOERKMlZFUkpnQ2hrczNtQnJxVGxiS2ZGRmJjeFI2WlFJa1hkZHhlU3NyelJLX0N1bUdWRQ?oc=5",
       "date": "Tue, 19 May 2026 12:00:00 GMT"
+    },
+    {
+      "title": "市長が役所から帰宅途中に青切符…昨年は速度違反で摘発「前回の事もあり、大変申し訳ない」：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdHdCU2VRaWxrdERtQ2phbkVHNmVZQ2Iyb21PczVKaXhDUTZtZkwxejNxM3lWcUp2cnktYThYTUJ6V0g1elZaRUxjN2V6Ty1nSUE3OVJzQXczQVBlbWhSbWNXVUwxdkJudm9PT3gzQU5JZw?oc=5",
+      "date": "Sat, 26 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "美作市長が交通違反で青切符 帰宅中に一時不停止疑い",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jRV95YVVWazJXUnZ1RVJpU2NuY29BLTdvLWJKUUNhZ1NHc1BmTzNsN3VSbTJWZlV4V2M5bWtpT2Y1M29Vc2FyZEhXci1VaVlOVTZMZnNFaklHdEQtUW9hV19OMEhLSk5hQkQwT3hB?oc=5",
+      "date": "Fri, 25 Jul 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "交差点を横断していた小1男児、軽乗用車にはねられ重体 豊岡|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TlNHUXZiUG5xTXpubldKb3FLUkdrZUxFbmNaRldURkc3VHk1R0h1VUViam5uNTZlVml5R0Z3LW14cndUQjBzSE1mclJZLVFWWi1nWHZnYjB2anIwV0RuRmlzQ05pX0VaUENCQkFWWHFsX09BWFZpSGc4UQ?oc=5",
-      "date": "Fri, 22 May 2026 13:12:27 GMT"
+      "title": "酒を飲んで自転車を運転した疑い、男を現行犯逮捕 歩道で男児をはねる事故、容疑を否認 兵庫署",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdFEwNDdnaUMya19QOS1lXzREWkV2V21ETmZ2R2ZOTmhlR3RBU1pKMXRSRUV0d2swdk5zU3htemNTMVI1R1JDRnVnQmtXZ2o0Rl9XTUk4NkNnUURzZU4zWnhYQmNkbmhUVWUzZQ?oc=5",
+      "date": "Tue, 26 May 2026 14:01:08 GMT"
     },
     {
-      "title": "【兵庫県警・調書捏造疑惑】交通事故で息子亡くした父が、渾身の『検証動画』で提起したこれだけの事実",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXR2dTI5VkNBbEZaU2dBeDlqNTE3dXp6VWVpcHlvN2tROVVMS0JpNWR2S2F1NlFfSGhtZnBBeUZqSHpCdW91cTdlTnVhU0xoV3hsVXBlbmJRQ1B6LUJwUWVwRWVUNjF5YW56TTc2RFk1aFVxOUpaa2RKQU1qaG9DTFdyMHlSZGth?oc=5",
-      "date": "Sun, 24 May 2026 21:15:12 GMT"
+      "title": "中央線はみ出し反対車線のガードレール衝突 軽トラックの87歳男性が死亡 兵庫・相生（神戸新聞NEXT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84bDNGZnB1NnNfdzMycjI5TFRtckNJOTZLc0hyanhKVG03Z1NRcVlUMktlR1VXVGhGTjdFaXVjQ0VOZHpKTEJleTdJNFlSX1FBNUE5TENmaVRic3gwQ3E5ZlpBNmsxaXNSRkQwemU3SHFkY0dCeHdEMHc4OXlfV2M?oc=5",
+      "date": "Tue, 26 May 2026 05:58:13 GMT"
     },
     {
-      "title": "タクシーと2人乗りバイクが衝突 バイクの男子高校生が骨折の重傷 須磨の国道2号|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96blJWY1N3YUFucXVLbEtWSVUtZlV6V0dlY2RoSW9jUjZJZWxYc0xJVGNnOHVRM3VQVkJDMmNaTUtTcXZIRXptOFZEV1NFX2NEX2o3UUNnc1JxYW5HRHBlUEZIQ1dLMW5RS0NXQ1gtQ3QtRmR6MXZhTk85OA?oc=5",
-      "date": "Sun, 24 May 2026 00:44:00 GMT"
-    },
-    {
-      "title": "「お客さんのところから帰る途中に」6歳男児が交差点で軽乗用車にはねられ重体…82歳男を現行犯逮捕 兵庫・豊岡市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YU2Fza25heHRRMGhhRTRtTWF0N2NIdXRuWTZENlE2RWZLdnJqME5mbzE2MzloY0ZYckRqNFJqUW1wb3kzcS1OLURIQmdQVURGNk1OQ1BmTVVpR0RBSGlqX0hGcXBtNWpROW0xZzNOX0d5bG5EcDBuRVNsak4yaXM?oc=5",
-      "date": "Sat, 23 May 2026 01:38:13 GMT"
+      "title": "酒を飲んで自転車を運転した疑い、33歳の男逮捕 歩道で男児をはねる事故、容疑を否認 兵庫署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jaWsyNnNna1FETUxjdzJwTzJLYmkwVGpndDdKOGZ4S2FlWWV4ZDhOay1vOEpQODRibzR2RVNZRG9mT2tpMEoyZ25haw?oc=5",
+      "date": "Tue, 26 May 2026 14:01:00 GMT"
     },
     {
       "title": "神戸市道夢野白川線で3台絡む事故、単車の男性が重傷 車がカーブ曲がりきれず正面衝突|交通事故",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91WXVyZm1iakZtQ0RKUkNHRWxqR3FmUHJaTVo4WUdFVWhRb1lWWFBvMG9feGRncUVqd3B1ejRZbWtEajc5WWtYeC15bVpwRjFkc1BWTFpMUVRXdGZRbkZ3NWdseWJ3VTAtT3ZYZm9mZWREYkpIZmc?oc=5",
       "date": "Sat, 23 May 2026 14:39:27 GMT"
+    },
+    {
+      "title": "【兵庫県警・調書捏造疑惑】交通事故で息子亡くした父が、渾身の『検証動画』で提起したこれだけの事実",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXR2dTI5VkNBbEZaU2dBeDlqNTE3dXp6VWVpcHlvN2tROVVMS0JpNWR2S2F1NlFfSGhtZnBBeUZqSHpCdW91cTdlTnVhU0xoV3hsVXBlbmJRQ1B6LUJwUWVwRWVUNjF5YW56TTc2RFk1aFVxOUpaa2RKQU1qaG9DTFdyMHlSZGth?oc=5",
+      "date": "Sun, 24 May 2026 21:15:12 GMT"
     }
   ],
   "official_links": [
