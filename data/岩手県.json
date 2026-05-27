@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-05-27T00:03:02.570702",
+  "generated_at": "2026-05-27T14:09:28.769496",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 18.0,
-    "temp_max": 26.2,
-    "temp_min": 17.7,
-    "precip_prob_max": 14,
+    "temp_now": 26.8,
+    "temp_max": 26.9,
+    "temp_min": 16.7,
+    "precip_prob_max": 7,
     "precip_sum": 0,
-    "wind_speed": 4.4,
+    "wind_speed": 8.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.0,
+        "temp": 17.8,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.7,
+        "temp": 17.0,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 18.1,
-        "weather": "曇り",
+        "temp": 17.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.1,
-        "weather": "晴れ時々曇",
+        "temp": 22.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 24.7,
+        "temp": 26.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 26.2,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "18:00",
-        "temp": 23.8,
-        "weather": "曇り",
+        "temp": 26.9,
+        "weather": "快晴",
         "precip_prob": 4
       },
       {
+        "time": "18:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "21:00",
-        "temp": 21.0,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月27日（水）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XYXk5TnZ1cFBWQkVFYUJ2UTFWUl96LXNELURhOGQ5SWVhdW5SSGQwamxSbzBjVUdzanVWZ19SVHdZRlYyZG9FOU5lbktfZXI1LV9BNS1aRVJBVnhVWHVnS1NBa3JqTURkOUpMVXpIbkp2bm5hcHJ5YUNRX0xMWms?oc=5",
+      "date": "Tue, 26 May 2026 20:02:39 GMT"
+    },
     {
       "title": "5月26日（火）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5VE5pNFdmQVVWR1VUS2lZVktrZnFYUlNnYVhYRkhfUHVxdmlKcnJHSkF1S00xWEprVXZiVGJSaHdJcnhLRGJ4UFVDLXRYTmh1UTJPUzRFaw?oc=5",
       "date": "Mon, 25 May 2026 20:00:00 GMT"
     },
     {
-      "title": "5月26日（火）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZS1A1SXMzbnpva1VpZ01tczZZYmlMSDJKQU40clA5RmdVVWk3X2FzY3h1YWpXSk4xV3BwQjF4allQbFNyRW1UQjZWMkh4Tng3X3dqaGdiTzYwTUhiRTNfZGxvSVo0eWdGRVpNdVdCeGxtenVtUjBvRjNMYjZSUmM?oc=5",
-      "date": "Mon, 25 May 2026 20:00:33 GMT"
+      "title": "5月27日（水）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdZZFFycGFDZEdWOWx6RE9sT09BR01rNjhQTWlha2dPYXRTQnVHWVpwSjVJOFBIUE1QdkhvZHNUSFRCV3dIR3VmRU13bFU5Mkc1Z2xiT2RxRUJLQU1SaFlHdzE4NE1PMFZfbld0MWxQWWxMRmxNNTEtOC1CdklsQ0w4VE1oV2J5WXZKRktB?oc=5",
+      "date": "Tue, 26 May 2026 23:46:59 GMT"
     },
     {
       "title": "5月23日（土）【岩手県】　日中・夜間の交通取締情報",
@@ -83,14 +88,14 @@
       "title": "5月25日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wSzZPQmxPUmRiZ0FRQ1VBUWNZcThJMTRnTExzMExCeEdYeTE3RUJ5U2lsY1lnN0pIQkRFWFFYWl81WTAyV0tLTEU1RE5hTEU3RDZIeEg2NA?oc=5",
       "date": "Sun, 24 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "5月26日（火）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0lwWjFCUy1pUTFYMFZLSnZyeG9DczZrdXA5OExEQXdteDhyeGFBdlN4b3FBYkFCSlhvYkpOYTdHLUJBVGozUVNaVDRnMklMWlBjNnd1Q1lfWHNoZEtyUUduWFF4a0NlakxxSVhhX3lhaVJfTnlHc1dEMXhhNzR2aWl6a28td2F2SXltRVp3?oc=5",
-      "date": "Mon, 25 May 2026 23:51:50 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "交通事故により死亡した人の数は去年を大幅に上回る 増減率全国ワーストに【岩手】（IAT岩手朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbk56S2J0MnFsWkhJbGVod3NLQmhxbWZYSmxRYkQ4NFlGTjFEM3VNVE5jYzZHY1VJUWdvVERoblBVbURxMXpuMU4tdU5BTGl1dl9sS2YwaHJEb0NZT29JVllVcXltcWVYRjFyS0xRV3JWRmNYYTBMYmxfUEJRd0U?oc=5",
+      "date": "Wed, 27 May 2026 02:27:49 GMT"
+    },
     {
       "title": "岩手県内の交通事故の死者数、2025年の2.5倍に 県警「漫然運転に注意を」呼び掛け",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92NEhseFF1LVBRMUJzU2l4ZGQxOHItWVhOOU41WFhNckJvWHhudF9Rd2FDZlByQVJ0T2VpQlFqd3lSb2lUaDN2NHFUbzlodw?oc=5",
@@ -102,19 +107,14 @@
       "date": "Tue, 26 May 2026 08:49:01 GMT"
     },
     {
-      "title": "岩手県内で交通事故急増 件数、死者数、けが人の増加率全国ワースト1位 ドライバーが気をつけるべきことは？",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUXRheUhMN2hnWk1qZU5rVU12eU9nTUZtWkV4N3BzNGRadGt3bUQtTmdaZC1pM3oyeldmMzhaUFNaekdWSUs1c09zbTZGMmJNQk9GNzNBVUswN1o1OVlLLVBVeHlBWHM?oc=5",
-      "date": "Wed, 25 Feb 2026 08:00:00 GMT"
+      "title": "スタントマンが交通事故を再現 中学校で自転車交通安全教室 岩手・北上市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rM2dJTlUtOUFFbUVzUURUMHlsTFRXNFRBTFU3QUQ5alNiYmUteEJXWm5FNkVmcVRVek1VbVNtVmlRUWc4UmpHRkJvaw?oc=5",
+      "date": "Tue, 26 May 2026 21:15:12 GMT"
     },
     {
-      "title": "「交通死亡事故多発注意報」今年3回目の発令、岩手県警 夜間の歩行者事故相次ぐ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94VmJiNzJoVGdDZ2xLdnQtSnlESmtvLWd0NE04eE1IZVhWRWVmdU9lYm5nUERzeUpnVXB4Q1owZG5JS0p6YjVfSk8xZ1JDTnVreGd2Um84azd4WnlpVHc4Nk93?oc=5",
-      "date": "Fri, 19 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "人身事故の増加率が全国ワースト1位 死者は11人増、岩手県警 [岩手県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SR2puOUV0U1hXN1VCcWFRSXRXWFJvcGZSYUtNOWNlMm1STFZMMkFoS2JPM0hNYkxfU2JpcklBMzN4M2JoSG5SM0VHVXpfcnhfRkNEQWJCTE1HQ1I4OXp1QXdJcl90SWM?oc=5",
-      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+      "title": "交通事故により死亡した人の数は去年を大幅に上回る 増減率全国ワーストに【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrUWE1NzBoMnF1eHhqc1FSSTgxOElETnlacjFURld4SkZtWmEwWmVnRUdnY1FIeWNvaUlkLUdLMEJ6TzZRWVMzRU9ZMlkxb0x3WjJ6U19HSUwwc0RRRUhMeGVMdFdpcXV4VGQwSDNLbw?oc=5",
+      "date": "Wed, 27 May 2026 02:37:00 GMT"
     }
   ],
   "official_links": [

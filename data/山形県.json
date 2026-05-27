@@ -1,79 +1,69 @@
 {
-  "generated_at": "2026-05-27T00:03:30.506346",
+  "generated_at": "2026-05-27T14:09:48.671441",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 18.7,
-    "temp_max": 27.5,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.6,
+    "temp_max": 27.3,
     "temp_min": 17.4,
-    "precip_prob_max": 1,
+    "precip_prob_max": 4,
     "precip_sum": 0,
-    "wind_speed": 4.5,
+    "wind_speed": 9.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.7,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 17.6,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
         "temp": 18.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 18.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.2,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
         "time": "09:00",
-        "temp": 23.2,
-        "weather": "晴れ時々曇",
+        "temp": 22.7,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.5,
+        "temp": 27.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 26.5,
-        "weather": "晴れ",
+        "temp": 25.9,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 23.1,
-        "weather": "曇り",
+        "temp": 22.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
+        "temp": 21.1,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yajV0QVgtTi1Nd2Rpbm9SXy1MSTd1dksyZmpKVXFzUkJVVG1YVXhfbFhkYk5wSm02WTA5SWJGSXFnSENUT2FpVUg0c2JvOUpKMkVMWFNTUQ?oc=5",
-      "date": "Fri, 22 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUYwR0NuTXRudG1PU2ota0RzTEh5RjBYWWlBdmZnWm5ULXdpSlNqRHFJbkpIQ3VFVklhbzh3c1NUV1Z6NThJemNEMm9fMVJVbFlmTWEwbkhVSS10aWwtRGJYV2t5YnBhS0Fma2YtRU5ha3FrdjJ6Njl4VUFMb3FfWHFLOWdubk8zWVhF?oc=5",
@@ -88,6 +78,11 @@
       "title": "財布奪った男逃走中・警察が検問で行方追う…近くの小学校では保護者の付き添い登校 山形・上山市強盗(放送局のニュース )",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43UW5IenM0Y3J3UkVkVUdjYnlDcG9ka1pUdjBybVVBd3RJNFdVTEJZMUtndHdMMnNOanlrcFdiYlhEaERxTVpwWnpIajloT2VKSGs5UzA4OXlwVHdJVm1qRFJJckdPZmZaLW1ZaWljaXFCUmtzeHc?oc=5",
       "date": "Tue, 02 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "父への借金返済できず うその強盗被害 警察に検問させ業務妨害 女が起訴内容認める",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWZyZGpJUEhXbllxZVVBXzRDNHYzLXQ5Ui1GZXd1eUJCWERSQTRZZ2kyY3FGam4yUDBVbzZHNUlvZUFoQlp0MHhJXzV4ZVFRX29lY09SemNsdVRQaWxMV1JJYTU1VHdiNFZjbkdiT3dVaFh6WmxLWHRHUkNvR3ZYZU0wZk5mMjg?oc=5",
+      "date": "Fri, 15 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,9 +92,9 @@
       "date": "Tue, 26 May 2026 10:06:04 GMT"
     },
     {
-      "title": "小国町の国道113号トンネルで大型バイクと軽トラックが衝突 バイクの男性が大ケガ（山形・小国署）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqdTZfT2hsRkdoT1VPVlVDVUZBRlVmWllzeDBkajhETlY5VnhSU2Y0OU5UbTNOcTgzODlENU5TcDNRVzVUYVVvN0hQbUVka3hsUFpxNXY0bktNaDNKQVdwcHI2VDU5QWs?oc=5",
-      "date": "Sat, 23 May 2026 08:45:00 GMT"
+      "title": "電動ノコギリで指を…山形自動車道の工事現場で労災事故 男性作業員が大ケガ（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tanhodWxsWkFEMFRxWml5cnZ5Ums1ZmxpYy02TmV6Z3U2dTBzbDZPYWxyd25zNXRTdm9XOHdNSVpJTFllOGk5NGh6WVJGcGp5SmpKUXRBQkc0S0ZqRlgzNHRtemgwZlU?oc=5",
+      "date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
       "title": "国道トンネル内で車同士が正面衝突 双方の運転手がけが 現場の交通規制は片側交互通行に 山形・上山市",
@@ -107,14 +102,14 @@
       "date": "Tue, 26 May 2026 04:58:00 GMT"
     },
     {
-      "title": "国道トンネル内で車同士が正面衝突 1人が意識もうろうの状態で会話できず 山形・上山市（YBC山形放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SMGRGLS0tWXBQejB0c0NfZDQ5SFNBSm5RVkNxMUhGX05tMC1URmpSdVZmanIxcmxEbGtSQVYtZ0lmd2lxZ1hrVWxkRGNiOW5ZZ2FpVjUzXzZHNndhMXFoQS1lYVE2TFR3dkJ2T1JHTExBQzdTLWxBWFJxNmlUV2s?oc=5",
-      "date": "Tue, 26 May 2026 04:03:00 GMT"
+      "title": "県内で38年ぶりのクマ死亡事故 クマ被害はすべて”山菜採り中” 県が「クマ出没警報」で厳重警戒呼びかけ（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYa3BmYVBESWJoZTFCOHJsVy16Yld2N3lFV3liMENKUVJGLVQ1WFcyUG1OSUtuOFljcHBVb1JwaDgxRXZrRGhKMzFDVUVmLWtkZTgwZExDQ0FIU3ppTDh3LTdaSXIydk0?oc=5",
+      "date": "Tue, 26 May 2026 23:28:00 GMT"
     },
     {
-      "title": "山形 酒田 男性死亡はクマ被害と判明 県内では1988年以来",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2UWMzVXVlTkhtWndTM2xYSnp2N2tXUkt5MmZGdmdXdVZGSloyRkpvNFhrdWNCclFwSjhUM0RwMzg0eFFSdEdra0hoR0FleVBYZ3dxUnljeWN3ZTRsRlhZ?oc=5",
-      "date": "Mon, 25 May 2026 12:31:28 GMT"
+      "title": "クマ被害はすべて”山菜採り中” 県内で38年ぶりのクマ死亡事故…県が「クマ出没警報」で厳重警戒呼びかけ（山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJWk1RZFFManBLQ0VTckRuM2EtOXlIUlpqQk1sRTdaQ3JBQ1NzdGxqdTk2blEzZkNLV1NsTlJTdDVZeEJYMHRZQlFWcUF4bFd2Mm9nQ1IyOFQ5N2swb013QWJqVjZZcU55bkY4ckp1Q24wdVoweE05aVh4aktZbHM?oc=5",
+      "date": "Tue, 26 May 2026 23:32:12 GMT"
     }
   ],
   "official_links": [

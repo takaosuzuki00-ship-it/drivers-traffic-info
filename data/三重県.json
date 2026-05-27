@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-05-27T00:06:07.519078",
+  "generated_at": "2026-05-27T14:11:28.783926",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 18.5,
-    "temp_max": 21.3,
-    "temp_min": 18.5,
-    "precip_prob_max": 98,
-    "precip_sum": 13.8,
-    "wind_speed": 6.2,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 20.7,
+    "temp_max": 20.9,
+    "temp_min": 18.3,
+    "precip_prob_max": 100,
+    "precip_sum": 5.5,
+    "wind_speed": 10.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.5,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 18.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 19.0,
-        "weather": "霧雨",
-        "precip_prob": 88
-      },
-      {
-        "time": "06:00",
-        "temp": 19.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 63
-      },
-      {
-        "time": "09:00",
-        "temp": 21.1,
+        "temp": 18.7,
         "weather": "曇り",
-        "precip_prob": 20
-      },
-      {
-        "time": "12:00",
-        "temp": 20.1,
-        "weather": "弱い雨",
-        "precip_prob": 53
-      },
-      {
-        "time": "15:00",
-        "temp": 20.4,
-        "weather": "弱い雨",
         "precip_prob": 90
       },
       {
+        "time": "06:00",
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 73
+      },
+      {
+        "time": "09:00",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "12:00",
+        "temp": 20.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "15:00",
+        "temp": 20.6,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
         "time": "18:00",
-        "temp": 20.0,
-        "weather": "霧雨",
-        "precip_prob": 98
+        "temp": 20.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
         "temp": 20.1,
         "weather": "弱い霧雨",
-        "precip_prob": 96
+        "precip_prob": 80
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWd0cmFKZkVxdk9rVm00SmVoTDRGdDNhUVZRRVRmX0VWZzVmTm9ZVEw1VUF1QUdwdm9hbHlGdnJUV05DWmJiYTlqQjVIUWxQQk03b3l2UWJ2S2ZuUElzSFhDMGRnNzM0WldnRFJvUdIBdEFVX3lxTE53NlN0dHVGd2NsaTdTeUtaOExqOEFILVVPS0d4RUpvbWJLRVR1b1FpM3NYbjZtRGpHYlhEejBRWFFEVUdFbnMtSXRjWEJ3WHprbFZBLVZvUkQ3UEJ4X3ZpRmhCVW5QOUI3YjlYSU1nSUVDaGt1?oc=5",
-      "date": "Mon, 25 May 2026 20:02:00 GMT"
+      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdHp3RmJXcm83VWFIeEZoNGc1U3lKZ19PbU9tbTVJRU5RaWY3eTQ1WVdrY1NONFBxSkdHak1KQ0ZEOXJYZnczcmg4aWZBN20tdy1tWGpNbmhwM1UydVZCYzItLTZJZWZkcDlJaF9DUdIBdEFVX3lxTE02bVUyQm96SWEzUjNtYXF2V3ZKYW5yWjFsS1FRZzBOZDhJX1ZLYkpTb2I1ZGZKZ0dqN0FxSlpCWnVMbTVWZWkta2EyUUthN1lpZlZRZUJtMWNNblNBcWNIUVdHZllaV1ItSDBjRVRhLWY0X0VH?oc=5",
+      "date": "Tue, 26 May 2026 20:09:33 GMT"
     },
     {
-      "title": "５月２６日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1abTJHWjlReXdHekQ5aTJTblMtS3FIWXptMlhkdlR5b2tydF8tOXRJaGZsNXZtTll1MjBScU1LeEU3bFlTNUx3enVRSzdwRDZZTnl6N3R1dTFkbTcyR1BJUFc2NEY0eC1FRm1LRER6Qi1zZ9IBd0FVX3lxTFBxZGJRcXVWTVhjdzZaU1JtaGl4V0h4OVQ3ZGl1Y1JmeXZEcTF0TEh3YmZUamF0NGxwM1dQdTdtMDhJVGhmbF9iN2wtRWhQRy1JcHlpWHByT3REbHRLMWVubFZwUHcwdkxZMnVuajJnVWpuSmZNT0RR?oc=5",
-      "date": "Mon, 25 May 2026 23:15:00 GMT"
+      "title": "５月２０日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xQ3BhSnJlVDE3MXhCMEZsVjZWb1pZal9UR0I2djdVak5XaFlUaTktSnR2c1FHVHNvTkdQcGthQTJPd1l4VTQ5NjQ3ZXBsZUFQNVQ3ejBIQQ?oc=5",
+      "date": "Tue, 19 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "５月２７日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NOGNSejBaTDVyQ2dvTlNKMW1PYWFGYmlNV2wzNkg4ZUNXVVlRRHdvLXFZWTRHWjVWNS1Lb1c0RTVqUHdDLWpyQjFfeHM2X3lsVm54YUpMWEh4NWVsTWZkLU9hcElsX2t6UmEtV3hfNFhHZ9IBd0FVX3lxTFA0RGpfY3RhaWdGTUNodHJ6cC10RVg3WGkzaEY1RzhPZ1NkdDlXLU9NZXZpQW5WZE5IYTBRLWQ4T29nMzR1bzg0YVJXZTNVZVZnOUtxLTlJd3lQU3Y1TXdRUlpjSkF2SGZzMWhpVG9XOGFZOHA3cXZ3?oc=5",
+      "date": "Tue, 26 May 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月８日",
@@ -80,41 +85,36 @@
       "date": "Tue, 07 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１２日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
-      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+      "title": "死亡事故多発で一斉取り締まり 三重県警、速度超過など摘発",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xXzBnVFI0UlZYazBUTGd6VmNkd29Hd0w3S19KcmExQlpiUzZ6cUI2Q0RNRTNMaG9wWXg1QWFpNVoyUmxxM1hfUW1sVQ?oc=5",
+      "date": "Thu, 11 Sep 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "一斉に交通取り締まり 交通事故増加受け 三重県内（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81Nk1VaFRXcE1nX09wSGYxUTgxZkV5cXRMbjRJY0xPN05KUUxkamxPRzdYYTdQUktLY1QxcEx5Nlg0Y281MkszLVhRNTZEb0lNdGVfWVY1cnp5clc2ZF9Lc3I3LXNSYktUdTBTNXZ4M1BZbkVLNGhUQ3JlQXRNQjg?oc=5",
+      "date": "Wed, 27 May 2026 04:19:42 GMT"
+    },
+    {
+      "title": "三重県が交通死亡事故多発警報 死者31人、全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMDJDMThKZ2hJSUQwLUtGVGkzcWxyaWJmUHBza0xBNl84bkNNS1BodjNPWXc0MnRJanlOX2tWYjd5ZG9YMC03U3VqVmpvZHVLVVVXR0IwSGt4X2JBYlpFV3h3YzgwYnd0Y2piNkJpOVRGWmZYNC05ajRobw?oc=5",
+      "date": "Wed, 27 May 2026 00:22:00 GMT"
+    },
     {
       "title": "【交通死亡事故多発警報】三重県で8か月ぶりの発令［5/26-6/30］ 前年同期比＋10の31人 | チバテレ＋プラス",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR0F3QUdQRjBpTjFPSG9FdG1Cc19sYnpCN2hxRWxST0hFY3Ywc3V5UlU4UnNhWUZYX2xtaVd3STgzb29ZSTFUb3FkYTF3RmJRNHdraDJkb2FFai1yeUVR0gFkQVVfeXFMTTRGMVlvM0djdGk4NV81QTM5WVl2YjV6OUJoOHJtVXlYbDJXUExYNmhmRjg2Vy1lR042aVhpaktBM1l6bmlQb2dMc0VuODk0OHFsTUZCY0FRX3R5Q3NZSFFwcldKZQ?oc=5",
       "date": "Tue, 26 May 2026 12:00:00 GMT"
     },
     {
-      "title": "三重県内の死亡事故４件 春の交通安全運動期間中、人身事故40件増の95件",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BUW5CMGVheXpNMHBRWFMtcHBnTHp3bHRfdUQ4a1hzMzlCVVNIODlTTEp2c2NMNmVDdXJfRlo0Z3lZdjBGeFhsUmlWdw?oc=5",
-      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+      "title": "三重県が交通死亡事故多発警報 死者31人、全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVMnpzYVJHelBMT2FRS2lKcjF1dmIzLWJRUjQtZElnNGdHUUxacDE3M2dKU2dQU2VJX0xJVkFoLURHM3ZYZXpHZXB0V0d3MVRmSUQzWUhwd0F0RXVpWlNz?oc=5",
+      "date": "Wed, 27 May 2026 00:22:52 GMT"
     },
     {
-      "title": "新名神高速のトンネル、多重事故で計6人死亡 3人は子どもか 三重 [三重県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kX3Vlc01DYW9vbkhKaVlNckxPdmNFVUhVT0tnWUVMUVlXd1YwZExtekxuNlBxbnpzaFM2SmI2MnFwQTRLUDVCTk8yMWtUbG0wN1BtNFBIWldtZ2gyRW9FX3Fab1ZqZzA?oc=5",
-      "date": "Fri, 20 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "新名神高速の6人死亡事故、5歳含む全員の身元判明 三重県警",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRVFQzVGhBb24wcW8tTzlEbVdQd0xtdnpESng3TFAtTlZ3QU1VUnhJRlVYb1V3WjkyUHlrWHRVUFAta2ZxTnd2OHpYMHpRZno0MHVBWHZaTVhlUnZ6M1BfMzVxN01KUW94?oc=5",
-      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「ルールを守らない大人を真似しないで」 交通事故遺族が中学生に「命の大切さ」伝える 三重・伊勢市（三重テレビ放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OQkFlSkhYRWxWTWRpTHh6ZTB5UEJ3YUh4cXdWZDlISDVYTEotcUk5UFl5X2E3cG54enNaSlUwemN5Z1lZQnpTblRZZ2h2Tmx4d1JKemlmaEgxdnRHV0d6WjdrdUNKQ2VmMmhIRFJ6a25nUDV5VFZWZWNLWWV6blU?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT"
+      "title": "三重県が交通死亡事故多発警報 死者31人、全国ワースト（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WeTd4eUktdzJIczRYZjVuellTcTRXME9PV0c0bGw5MnBHQmQxandqUmp2VUlrZ0UxQ0sxbU1jbTVEMEZHSGNiT05ORlBfQXNQWENPSEs2bHZIT3pzLU5tM0R0TDg4azBqZ3pQMU5PSlRPQU54eWxPYnhuakhRVjQ?oc=5",
+      "date": "Wed, 27 May 2026 04:21:24 GMT"
     }
   ],
   "official_links": [

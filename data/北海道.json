@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-27T00:02:43.209977",
+  "generated_at": "2026-05-27T14:09:17.034683",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 14.8,
-    "temp_max": 21.4,
-    "temp_min": 13.1,
-    "precip_prob_max": 82,
-    "precip_sum": 0,
-    "wind_speed": 6.1,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 24.0,
+    "temp_max": 24.0,
+    "temp_min": 12.9,
+    "precip_prob_max": 94,
+    "precip_sum": 0.6,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.8,
+        "temp": 14.0,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.5,
+        "temp": 13.2,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 15.3,
+        "temp": 14.2,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.6,
+        "temp": 19.4,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 21.2,
+        "temp": 23.2,
         "weather": "曇り",
-        "precip_prob": 31
+        "precip_prob": 63
       },
       {
         "time": "15:00",
-        "temp": 20.9,
+        "temp": 21.9,
         "weather": "曇り",
-        "precip_prob": 82
+        "precip_prob": 94
       },
       {
         "time": "18:00",
-        "temp": 17.0,
+        "temp": 17.8,
         "weather": "曇り",
-        "precip_prob": 55
+        "precip_prob": 41
       },
       {
         "time": "21:00",
         "temp": 15.5,
         "weather": "曇り",
-        "precip_prob": 6
+        "precip_prob": 14
       }
     ]
   },
@@ -90,7 +90,33 @@
       "date": "Tue, 19 May 2026 08:40:26 GMT"
     }
   ],
-  "accident_news": [],
+  "accident_news": [
+    {
+      "title": "25年の北海道交通事故死、前年比25人増の129人 2年ぶり増 4番目の少なさ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SHR4c0JfZXZHQWx2dVZqTlc0M0hjSktSS1dDUmdpVDBOSUZaRm1IVWt1U0c5dE1FWGo0RC0zWHl5N3hYNVlqUGdscjEwMzY0VTJuY1VkeE92QQ?oc=5",
+      "date": "Fri, 02 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【日録交通死亡事故】4道県5人［5/23］北海島苫小牧市で1件2人 | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83bENpM2xEVmxJRUYzajRYU1lzdGxac3k1X01CSEJLM0lPenpkVmpyOHNjaXllVXZGZ3YwdEpiMEN2S1VtVEVmZXctSkw3ajBtZEtoUG5ZeFJMb0hxSXJv0gFkQVVfeXFMT3I5Qm0yNENZaG9CTmRzb2JhdmNsbzBob0Z3ZU44SG9mRjc0ZWs1Y1pSZGhvS1hYWEVTQkx4VUJra2hYZmUzS3BrNFFNUXVLeHpieFAtZTJmWE1HdUpRa21GUXlIbA?oc=5",
+      "date": "Mon, 25 May 2026 06:59:00 GMT"
+    },
+    {
+      "title": "杖を突きながら堂々と横断 危険な“乱横断”の実態「足が痛いから…」死亡事故も発生 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YcEo0UTQxbV9RM1dsR3dWd1RFQ0MzYVBuZlJVclBOVTd2SUJTQUJhUWtOTndEOHNOV3ptNEd4Slk3RFkyZFhmeE15UHhWeTU0cTZnZ2JINnhURXNDVWZKYTVTaXY1UVA4VGJqTXk1MkVfUlV3Rm41VzctczhNcDg?oc=5",
+      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "片側1車線のカーブで軽自動車とトラックが正面衝突_女性死亡_対向車線はみ出しの可能性＜北海道羅臼町＞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhNFdfRVBOSEFsdFF5NXl0NE1qZEtYcHRuWllVMTVuWTgtSE93MURNalF0dy1sbDlLQzVZb2E4ZVh0bUowVzhsbGdoUW1Ib2JPbF9MMWs2Yw?oc=5",
+      "date": "Thu, 30 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「ツール・ド・北海道」死亡事故、規制中に走行した車のカメラ映像入手…スルーの警備員、合図だけの先導バイクに憤る選手「運営側に大きな責任がある」 | 北海道のニュース｜HBC北海道放送 (2ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YZnBpUkFxNzZNelQ5VWJNNWRUeUJOWUxieDlaNk9fYjNKLVloN3pyUFJhNGt2RHhVYmRranNrQk51a1loek02aVE4ZmhXRE5vN001V0FiMEkwUDhwbnJFam9R?oc=5",
+      "date": "Mon, 18 May 2026 17:55:16 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",

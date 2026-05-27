@@ -1,95 +1,100 @@
 {
-  "generated_at": "2026-05-27T00:03:38.689289",
+  "generated_at": "2026-05-27T14:09:53.581123",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 19.0,
-    "temp_max": 28.6,
-    "temp_min": 17.1,
-    "precip_prob_max": 14,
-    "precip_sum": 0.6,
-    "wind_speed": 4.2,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.5,
+    "temp_max": 27.5,
+    "temp_min": 17.8,
+    "precip_prob_max": 29,
+    "precip_sum": 0,
+    "wind_speed": 10.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.0,
-        "weather": "曇り",
+        "temp": 19.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.7,
-        "weather": "曇り",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 18.0,
-        "weather": "曇り",
+        "temp": 18.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.5,
+        "temp": 23.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.3,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 28.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 20
       },
       {
         "time": "18:00",
-        "temp": 23.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 14
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 29
       },
       {
         "time": "21:00",
-        "temp": 20.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 12
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NVNZRGhaa3ZucjNQZE1IV0FmYXlnTWsxQlB5THhKdDA5TUZNaEljWFpBUXQ2Nmlnejh6Z0E1Sm16Qkxodmo4aWJSUmc4LWJwM1ZCazFGZw?oc=5",
+      "date": "Tue, 26 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdHp3RmJXcm83VWFIeEZoNGc1U3lKZ19PbU9tbTVJRU5RaWY3eTQ1WVdrY1NONFBxSkdHak1KQ0ZEOXJYZnczcmg4aWZBN20tdy1tWGpNbmhwM1UydVZCYzItLTZJZWZkcDlJaF9DUdIBdEFVX3lxTE02bVUyQm96SWEzUjNtYXF2V3ZKYW5yWjFsS1FRZzBOZDhJX1ZLYkpTb2I1ZGZKZ0dqN0FxSlpCWnVMbTVWZWkta2EyUUthN1lpZlZRZUJtMWNNblNBcWNIUVdHZllaV1ItSDBjRVRhLWY0X0VH?oc=5",
+      "date": "Tue, 26 May 2026 20:09:33 GMT"
+    },
+    {
+      "title": "5月23日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yajV0QVgtTi1Nd2Rpbm9SXy1MSTd1dksyZmpKVXFzUkJVVG1YVXhfbFhkYk5wSm02WTA5SWJGSXFnSENUT2FpVUg0c2JvOUpKMkVMWFNTUQ?oc=5",
+      "date": "Fri, 22 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "５月２７日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NOGNSejBaTDVyQ2dvTlNKMW1PYWFGYmlNV2wzNkg4ZUNXVVlRRHdvLXFZWTRHWjVWNS1Lb1c0RTVqUHdDLWpyQjFfeHM2X3lsVm54YUpMWEh4NWVsTWZkLU9hcElsX2t6UmEtV3hfNFhHZ9IBd0FVX3lxTFA0RGpfY3RhaWdGTUNodHJ6cC10RVg3WGkzaEY1RzhPZ1NkdDlXLU9NZXZpQW5WZE5IYTBRLWQ4T29nMzR1bzg0YVJXZTNVZVZnOUtxLTlJd3lQU3Y1TXdRUlpjSkF2SGZzMWhpVG9XOGFZOHA3cXZ3?oc=5",
+      "date": "Tue, 26 May 2026 20:00:00 GMT"
+    },
+    {
       "title": "友梨さん不明２３年、大阪で検問",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMUR2WkhSODhCWmdJNVprdy1aYzFwS2NxdUZOUjV1ajlsdk1wS09ERDdhWEc4SXp3aHo2T3FEdEx2bnBjbVlxcWJoRmhRdEE?oc=5",
       "date": "Tue, 19 May 2026 08:29:10 GMT"
-    },
-    {
-      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oM3NTVy11cjdZdzNNRDJfWTdZVnVxRGZKX2hVbHJXb0dLUldPUFA4UG52NUxvOUlxM0Nrb1hwV0lIRElwWHZWOW5QVQ?oc=5",
-      "date": "Tue, 28 Apr 2026 02:08:34 GMT"
-    },
-    {
-      "title": "郡山の受験生死亡事故から１年 いわき市では飲酒運転撲滅に向けて検問実施",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYllnNWFOVVB0NDhhdHZyTm1JMEkzb2ZQN2hvelE3Y0NxRjdpR1ZrSmJZbjM2a1JWY1l1eWZVd0xNckVnay1GZEFvLWJLNS10YnhlZGxoQ012QQ?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xMGtRVXVHTXhtUGNCczBNZ19LTS1oUk50MDVzeDNkZVNNLUxvcmRGLTV1aTdVM3JLTHpxWU5SQmpEeDhxOS0tS3FLcXl1QlU?oc=5",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【交通事故】南会津町",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZazBmQU9hRS04RFBaTXRxaXNtV2xmY0pzYVlJZUcyRzE4bXBwbVo1d0x5M3RaaElNNnVQU3ExNFdpQVo2QXdZd0JaWUF6aEk?oc=5",
-      "date": "Tue, 26 May 2026 00:10:00 GMT"
+      "title": "【交通事故】平田村",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9seGQxRXpLX1NDZEJVMkd0bTE1SW55X3RqcFJQX2ltbmthVFhTWC1ydHN4ZWx2MFFfeGZpZHN0SlY1cEZkdTZ1M3VXLWdkYTQ?oc=5",
+      "date": "Wed, 27 May 2026 00:41:00 GMT"
     },
     {
       "title": "福島・磐越道で高校生らが乗るバスが事故 17歳死亡、複数の重傷者 [福島県]",
@@ -102,14 +107,14 @@
       "date": "Mon, 25 May 2026 10:15:00 GMT"
     },
     {
+      "title": "白河市の市道で軽乗用車とトラックの衝突事故 １人死亡 １人意識不明の重体（福島中央テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wd0FiUjZTaXZjSm9LQWV6V25QZ3BHR0kwa3NoanBNaWVtcUthSUZ3aXJwTEx2ci0yNjJ2OEplMko5S0t2UHVtMzJUYTdmX1hmNTdDRHQ4NE5ZVkktZW11Mm51bVh5MlRCRlFUaVFwR3ZTWENxYW80MjhJUDE2T0E?oc=5",
+      "date": "Tue, 26 May 2026 05:50:00 GMT"
+    },
+    {
       "title": "セーフティチャレンジで交通事故防止！",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veTd3ckZvZGVzZi0td0N1YUN6U0xOVDFFd2ZmTzBaOVFfSTRDMllMV2RuYUlieFp1WTduaFlyMlBXcHZ5Nm1DamxOQnZ0RHk0OXUtY25mZVVOWV8yVFlqcFJ3VXF1ejQ0c05CRjU1SjEwakE?oc=5",
       "date": "Mon, 30 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通事故防止、ふくしまFMアナら音声で啓発 福島県警、パトロール中に:地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SUEJNZlRjbzdpdm4xUGpqVFFMMU5lb0tFY083cmZkV1haNDNITmp6ZXluWktqODFhNk5hVlVmN2xFMjZWVjkyOTlJZkZzcy0yMGZPaGp2MG45Z2ZzVlhRUGkzUGtWazNM?oc=5",
-      "date": "Sat, 02 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

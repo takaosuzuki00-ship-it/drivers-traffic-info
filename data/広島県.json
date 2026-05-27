@@ -1,79 +1,100 @@
 {
-  "generated_at": "2026-05-27T00:07:26.109530",
+  "generated_at": "2026-05-27T14:12:27.093240",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 21.5,
-    "temp_max": 22.0,
-    "temp_min": 19.9,
-    "precip_prob_max": 99,
-    "precip_sum": 33.4,
-    "wind_speed": 3.1,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 22.6,
+    "temp_max": 22.6,
+    "temp_min": 19.6,
+    "precip_prob_max": 100,
+    "precip_sum": 8.1,
+    "wind_speed": 4.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.5,
+        "temp": 21.4,
         "weather": "曇り",
-        "precip_prob": 18
+        "precip_prob": 12
       },
       {
         "time": "03:00",
-        "temp": 20.7,
+        "temp": 20.5,
         "weather": "弱い霧雨",
-        "precip_prob": 35
+        "precip_prob": 67
       },
       {
         "time": "06:00",
-        "temp": 20.5,
+        "temp": 19.6,
         "weather": "強い霧雨",
-        "precip_prob": 84
+        "precip_prob": 86
       },
       {
         "time": "09:00",
-        "temp": 20.9,
-        "weather": "弱い雨",
-        "precip_prob": 94
+        "temp": 20.3,
+        "weather": "霧雨",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 21.0,
-        "weather": "雨",
-        "precip_prob": 98
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 88
       },
       {
         "time": "15:00",
-        "temp": 21.5,
-        "weather": "雨",
-        "precip_prob": 98
+        "temp": 22.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
       },
       {
         "time": "18:00",
-        "temp": 21.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
       },
       {
         "time": "21:00",
-        "temp": 20.5,
+        "temp": 21.1,
         "weather": "弱い霧雨",
-        "precip_prob": 82
+        "precip_prob": 12
       }
     ]
   },
-  "enforcement_news": [],
-  "accident_news": [
+  "enforcement_news": [
     {
-      "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT"
+      "title": "５月２７日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NOGNSejBaTDVyQ2dvTlNKMW1PYWFGYmlNV2wzNkg4ZUNXVVlRRHdvLXFZWTRHWjVWNS1Lb1c0RTVqUHdDLWpyQjFfeHM2X3lsVm54YUpMWEh4NWVsTWZkLU9hcElsX2t6UmEtV3hfNFhHZ9IBd0FVX3lxTFA0RGpfY3RhaWdGTUNodHJ6cC10RVg3WGkzaEY1RzhPZ1NkdDlXLU9NZXZpQW5WZE5IYTBRLWQ4T29nMzR1bzg0YVJXZTNVZVZnOUtxLTlJd3lQU3Y1TXdRUlpjSkF2SGZzMWhpVG9XOGFZOHA3cXZ3?oc=5",
+      "date": "Tue, 26 May 2026 20:00:00 GMT"
     },
     {
-      "title": "広島県尾道市で車同士の衝突事故 男性一人が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNbnZwNzBfNFFVQ2FtQlRUZWhXaUtVWmN4bFVxZk5hYy1WcmItZjJHd1lyMnNpQ1FlRXdiQ0dWQnh0YWE3X0tpS184blFTMkQxY1FnWFZ2MA?oc=5",
-      "date": "Sat, 23 May 2026 05:12:00 GMT"
+      "title": "5月25日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDNVVFQ0QwdkZENDlZeU93TDBuR21sQnR0TEtza0Z0Y3RqVnhXOU0wTUJDejAxd0dySGlOZFNSTmxTR1R6U2h3dm9DZUxDR0dzV3M3UWwxMWhXdlpzRjFaaVN6X3lILThzNkJVUXhuY9IBdEFVX3lxTFBUTTAzZ3p4bDlPTWoydDRBNkhaM3BVeHBhQklHNzVqZTU3Mm12bkVMekdSSmRlTE9VMVl1QzR1ekg0T0QyY0tJQUpJZkdlbEhPOGhGNEtDbm92alUtWEE1NzFTcWFKN2I1X1RJTkVtVEt6LVlT?oc=5",
+      "date": "Sun, 24 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "広島県警、衆院選で11件の警告 取締本部を解散",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRkVmeDlxMVc0U095RThhd21hakZvdUxmUDFhR3lMVFBWVTV0YjZoV2l5ZGh5Y2RWNzZUd2VNbkRYOWdzUk9VMnlXbmJFRFZ2S2J3azhqVnhiZw?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWd0cmFKZkVxdk9rVm00SmVoTDRGdDNhUVZRRVRmX0VWZzVmTm9ZVEw1VUF1QUdwdm9hbHlGdnJUV05DWmJiYTlqQjVIUWxQQk03b3l2UWJ2S2ZuUElzSFhDMGRnNzM0WldnRFJvUdIBdEFVX3lxTE53NlN0dHVGd2NsaTdTeUtaOExqOEFILVVPS0d4RUpvbWJLRVR1b1FpM3NYbjZtRGpHYlhEejBRWFFEVUdFbnMtSXRjWEJ3WHprbFZBLVZvUkQ3UEJ4X3ZpRmhCVW5QOUI3YjlYSU1nSUVDaGt1?oc=5",
+      "date": "Mon, 25 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lYzNLUTJtczZmTXlDMk5ESkNtTWVsYW9DQ0R4b1JGVEg5b0UtaTBDMC0yNUxwa2hTNzVQRDdxUmhfVDhRbEMxbXhHQXJCUi1sTzNQdlJ2TVFaUQ?oc=5",
+      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
+      "date": "Mon, 18 May 2026 07:00:00 GMT"
     },
     {
       "title": "車同士衝突、軽自動車が川に転落した死亡事故 信号無視か 52歳女を書類送検「漫然と運転していた」広島（テレビ新広島）",
@@ -89,6 +110,11 @@
       "title": "【事故】広島市中区の寺町電停交差点付近で車同士が衝突 広島電鉄が一時運転見合わせ",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYREtKNDJ2blBwV05pUGJGQ2llSHNBQWpjOXVJUVhWTzg2dGRzM0ctMDNMaXpvR2dlWUxsV2s3ck1aMnpkdEtiNkRSQUktSDBQZjVZSHZjM3FJdw?oc=5",
       "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
