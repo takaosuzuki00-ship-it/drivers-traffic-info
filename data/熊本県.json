@@ -1,13 +1,82 @@
 {
-  "generated_at": "2026-05-28T03:16:27.275779",
+  "generated_at": "2026-05-28T06:09:37.782192",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.6,
+    "temp_max": 25.3,
+    "temp_min": 22.3,
+    "precip_prob_max": 88,
+    "precip_sum": 0.5,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "03:00",
+        "temp": 22.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "06:00",
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 76
+      },
+      {
+        "time": "09:00",
+        "temp": 23.1,
+        "weather": "曇り",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "曇り",
+        "precip_prob": 75
+      },
+      {
+        "time": "15:00",
+        "temp": 25.1,
+        "weather": "曇り",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "21:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 16
+      }
+    ]
+  },
   "enforcement_news": [
     {
+      "title": "5月28日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TeWpNOEtaMnBWak5tZnJjbGxNWkgxSmV1NHJPSzJjWkZ2MWhsbjBHRVNoM0VHUXMwYVdmTmZ1ZnBDWXNyeHUwdFNtcHpxVU5RVGFSMld0bDk5bERYMzVNSG1XVnVmZ1VLOGk4cnI5WmlOc01lT0xvbkNvQy0zLU0?oc=5",
+      "date": "Wed, 27 May 2026 20:08:11 GMT"
+    },
+    {
+      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KMWxZbkEtWm5laUpRclhoMzFkaFk0b01tMXp3Mm9MN3dZOV9MNklkS1RjNHVnNnJXVUwzUTROaERDLXZkdzdvYVlxX1I3cXB5b2Q2ZjluajdOZw?oc=5",
+      "date": "Mon, 25 May 2026 20:02:00 GMT"
+    },
+    {
       "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15NVNZRGhaa3ZucjNQZE1IV0FmYXlnTWsxQlB5THhKdDA5TUZNaEljWFpBUXQ2Nmlnejh6Z0E1Sm16Qkxodmo4aWJSUmc4LWJwM1ZCazFGZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02bVUyQm96SWEzUjNtYXF2V3ZKYW5yWjFsS1FRZzBOZDhJX1ZLYkpTb2I1ZGZKZ0dqN0FxSlpCWnVMbTVWZWkta2EyUUthN1lpZlZRZUJtMWNNblNBcWNIUVdHZllaV1ItSDBjRVRhLWY0X0VH0gF0QVVfeXFMTTZtVTJCb3pJYTNSM21hcXZXdkphbnJaMWxLUVFnME5kOElfVktiSlNvYjVkZkpnR2o3QXFKWkJadUxtNVZlaS1rYTJRS2E3WWlmVlFlQm0xY01uU0FxY0hRV0dmWVpXUi1IMGNFVGEtZjRfRUc?oc=5",
       "date": "Tue, 26 May 2026 20:02:00 GMT"
     },
     {
@@ -16,19 +85,9 @@
       "date": "Tue, 26 May 2026 20:02:14 GMT"
     },
     {
-      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02bVUyQm96SWEzUjNtYXF2V3ZKYW5yWjFsS1FRZzBOZDhJX1ZLYkpTb2I1ZGZKZ0dqN0FxSlpCWnVMbTVWZWkta2EyUUthN1lpZlZRZUJtMWNNblNBcWNIUVdHZllaV1ItSDBjRVRhLWY0X0VH0gF0QVVfeXFMTTZtVTJCb3pJYTNSM21hcXZXdkphbnJaMWxLUVFnME5kOElfVktiSlNvYjVkZkpnR2o3QXFKWkJadUxtNVZlaS1rYTJRS2E3WWlmVlFlQm0xY01uU0FxY0hRV0dmWVpXUi1IMGNFVGEtZjRfRUc?oc=5",
-      "date": "Tue, 26 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか (2026年5月27日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YYzFDdUE0MHJuZ1VKcGo1R2RwQkJ1OEZrclh2bmxHZDRrbThRUEYzc2xZSmZGSDhwa0lYa2QxeDMzYlJ3dmZUMEJ1V2F0WDd6LWw2VHF4ZXBTZnR4eUE?oc=5",
-      "date": "Tue, 26 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlcDR6V29hT2V5U1ZqbENmXzZqN1JkWVNYMkZyazhqcjVmSFBjT21aWFVITG45SVM5TjQ0eW5idjBCekYxVXdhUmNLcEdJdnNSdnAzQVFpcw?oc=5",
-      "date": "Mon, 25 May 2026 20:02:00 GMT"
+      "title": "5月25日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WcktCWGN4UXRYb21sYTBiUHBna1BCYTZHUVhaMXEwZEZFbTV1RmFpT21HSVN4TnFXLVlzSDhGTFAwUExVeTRzcGh0c3Z3MFd3aWp6emJ6Y1d4dw?oc=5",
+      "date": "Sun, 24 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
