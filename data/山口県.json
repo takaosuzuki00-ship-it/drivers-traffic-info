@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-27T21:06:39.188654",
+  "generated_at": "2026-05-28T00:09:51.221310",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.1,
+    "temp_max": 22.7,
+    "temp_min": 20.3,
+    "precip_prob_max": 92,
+    "precip_sum": 0.2,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 29
+      },
+      {
+        "time": "03:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 76
+      },
+      {
+        "time": "12:00",
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【交通取締情報】福井県警 ４月６日",
@@ -38,6 +97,11 @@
       "date": "Tue, 26 May 2026 01:10:00 GMT"
     },
     {
+      "title": "軽乗用車どうし衝突 ５歳女児が右足はさまれ負傷 山口",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HaWNGaDN2UEdUaVN3TzQtank0R3luVTl5QVBzdzZjUUswSkJPcXJNbzg0X3lkWUZzRG1WU2RzaHZFMmVtYUJTelU2bFNDNGkwc1dhTGpsVk9vb0FyMnM4VHJEbXFCUEk?oc=5",
+      "date": "Wed, 27 May 2026 01:38:00 GMT"
+    },
+    {
       "title": "山口県内の交通事故発生状況2026年5月25日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZVkZFVUxrWURHWG13REZLenpsZ1plOGp0Z2wwMUtOcFA3ZUw0Vy1UbzB0WkhXR1ZRcmRJWlhPcFJSODd6T3RUQ2RRdw?oc=5",
       "date": "Tue, 26 May 2026 01:10:00 GMT"
@@ -46,11 +110,6 @@
       "title": "男性（44）が乗用車にはねられ死亡 山口・柳井（ｔｙｓテレビ山口）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbE81TGVCM3BiQV9hdE5uLUZySXVtSFgySHNXWEloRzBwVGxVTVJrMjdnYXJIUEtwNXE2TWQtcmhVbzcwd2REY3pvVWdfdWdGZ1JpREI0ZmVvNHVTVXhzVm9FN1ZoenFpSnpJQmFsbnI0b192YWtWMFN5OEg1RkE?oc=5",
       "date": "Sat, 23 May 2026 19:14:12 GMT"
-    },
-    {
-      "title": "男性（25）と男子児童（8）が死亡 国道490号で乗用車どうしが衝突 山口・美祢",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05UWhURTVXUll3dDBuS3VJTGg5ZDlwWDVMNDY2TDFxUEpfdEIxenk4M3p5VEdVRDVWcjBIZEhKSDM0eURzTHVjUDRUY1YzbEs0d1BDdVFmZw?oc=5",
-      "date": "Tue, 05 May 2026 07:00:00 GMT"
     },
     {
       "title": "【山口】柳井市の県道で車が男性をはねる事故 防府市の公務員（４４）が死亡",
