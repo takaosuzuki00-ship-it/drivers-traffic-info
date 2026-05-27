@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-28T00:06:48.105819",
+  "generated_at": "2026-05-28T03:07:59.113077",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 20.8,
-    "temp_max": 22.2,
-    "temp_min": 20.6,
-    "precip_prob_max": 45,
-    "precip_sum": 1.0,
-    "wind_speed": 4.8,
+    "temp_now": 20.5,
+    "temp_max": 23.4,
+    "temp_min": 20.5,
+    "precip_prob_max": 27,
+    "precip_sum": 0.2,
+    "wind_speed": 7.8,
     "hourly": [
       {
         "time": "00:00",
@@ -21,43 +21,43 @@
       },
       {
         "time": "03:00",
-        "temp": 20.7,
+        "temp": 20.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.8,
-        "weather": "曇り",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.3,
-        "weather": "弱い霧雨",
+        "temp": 21.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 16
-      },
-      {
-        "time": "15:00",
-        "temp": 21.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 45
-      },
-      {
-        "time": "18:00",
-        "temp": 21.5,
-        "weather": "弱い霧雨",
+        "temp": 23.1,
+        "weather": "曇り",
         "precip_prob": 12
       },
       {
+        "time": "15:00",
+        "temp": 22.5,
+        "weather": "曇り",
+        "precip_prob": 27
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
         "time": "21:00",
-        "temp": 21.0,
+        "temp": 21.2,
         "weather": "曇り",
         "precip_prob": 0
       }
@@ -65,9 +65,19 @@
   },
   "enforcement_news": [
     {
-      "title": "友梨さん不明２３年、大阪で検問",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZ0trd09qTk1DdzJMMGRnUGY5a1FudkFpTHhVQXJ6Z1hYb2RQaFdSMWtCak0zNVYxOVp4QlNQSG1tOGtBSGVPU1hCT2J5LTk2MEhIV2ZwYmEtanM3U2Uyb2k2U0t5aXM?oc=5",
-      "date": "Tue, 19 May 2026 08:29:10 GMT"
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "神奈川県警が“不適切な”交通違反取り締まりか…2000件以上の違反を取り消しへ 担当の警察官ら複数人を書類送検へ",
@@ -75,19 +85,9 @@
       "date": "Sat, 21 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "神奈川県警、異例の日中飲酒検問 朝～夕に事故増加、夏の行楽シーズンへ警戒",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51eXJZR2ZCT045NU1zWlg5TkFmV09VY2FpTGNlZU41a3k3ZGdoZDVhVGk2NVZtYmViVTRsNWZJVXN4RWo5Y1lyZVdBcw?oc=5",
-      "date": "Fri, 18 Jul 2025 07:00:00 GMT"
-    },
-    {
-      "title": "神奈川県警、異例の日中飲酒検問 朝～夕に事故増加、行楽シーズンへ警戒",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfejJGQ3lPRHVEVi0yQTdPV1F5STA1UUpRNTFra3h6YzlLS3VMakRXbDRQZjZPUFZDQWs5VTFBV1lXWUp6Ry1sdzZXRTliQkpDcG1RbDFQUHhSOW9JWklnUldRaGY0SUE?oc=5",
-      "date": "Fri, 18 Jul 2025 07:00:00 GMT"
-    },
-    {
-      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+      "title": "約2700件の交通違反取り消し 3500万円の反則金返還 神奈川県警“不適切交通取り締まり”で40代男性巡査部長ら7人書類送検 部下は「意見が言いづらかった」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzSHFIQjRLMEZrSGJTUFhWcHJGUW16SjZ4NVItekVsaEVqbDNoek5XWkF4LVZ6MHBEQnlqdi1ldFhhcmJKRzEtUXNGd3NHdHdtdG16b1pGMA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Thu, 21 May 2026 08:40:17 GMT"
     },
     {
-      "title": "高津警察署長・寺内秀幸さん５７歳 地域の協力得て交通事故減少へ 神奈川の新署長２０２６",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oZ2dQLVZ3SlRRMHVwSjlBZ2luX1g3OVk0NkFmRDJzdUtLaDVkRTdfQV9JUDJhVjBqX0N5RzNYeTc4RGhyUFVRYWhISFlhUmdxLVVscE8yMTZ3MkpiNG5LMFlNRXNsVU0?oc=5",
-      "date": "Wed, 27 May 2026 02:50:00 GMT"
-    },
-    {
       "title": "神奈川県、交通死亡事故多発警報を7件相次ぎ発令 自転車絡みが3件",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SnFITnNfZ1ZSSl9DTDFkZ0FEaW9UakhkQkdKbHV6Yk4zdmdMSk9zYTZLbTRwQjBOanhuM0k2SVRkcGtaMTB5dzFsdzAxOWpTQnZZ?oc=5",
       "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高津警察署長・寺内秀幸さん５７歳 地域の協力得て交通事故減少へ 神奈川の新署長２０２６",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oZ2dQLVZ3SlRRMHVwSjlBZ2luX1g3OVk0NkFmRDJzdUtLaDVkRTdfQV9JUDJhVjBqX0N5RzNYeTc4RGhyUFVRYWhISFlhUmdxLVVscE8yMTZ3MkpiNG5LMFlNRXNsVU0?oc=5",
+      "date": "Wed, 27 May 2026 02:50:00 GMT"
     },
     {
       "title": "自転車の安全利用・事故防止",
