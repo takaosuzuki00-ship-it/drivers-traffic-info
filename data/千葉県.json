@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-28T12:04:40.108290",
+  "generated_at": "2026-05-28T15:05:35.411901",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 23.7,
-    "temp_max": 24.7,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.4,
+    "temp_max": 24.5,
     "temp_min": 20.2,
-    "precip_prob_max": 81,
-    "precip_sum": 0.3,
-    "wind_speed": 2.6,
+    "precip_prob_max": 77,
+    "precip_sum": 1.0,
+    "wind_speed": 4.5,
     "hourly": [
       {
         "time": "00:00",
@@ -33,42 +33,37 @@
       },
       {
         "time": "09:00",
-        "temp": 23.6,
+        "temp": 23.4,
         "weather": "晴れ",
-        "precip_prob": 43
+        "precip_prob": 8
       },
       {
         "time": "12:00",
-        "temp": 23.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 78
+        "temp": 24.0,
+        "weather": "曇り",
+        "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 23.9,
-        "weather": "曇り",
-        "precip_prob": 73
+        "temp": 23.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 22.4,
+        "temp": 22.5,
         "weather": "曇り",
-        "precip_prob": 35
+        "precip_prob": 37
       },
       {
         "time": "21:00",
-        "temp": 22.0,
+        "temp": 22.1,
         "weather": "曇り",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdHp3RmJXcm83VWFIeEZoNGc1U3lKZ19PbU9tbTVJRU5RaWY3eTQ1WVdrY1NONFBxSkdHak1KQ0ZEOXJYZnczcmg4aWZBN20tdy1tWGpNbmhwM1UydVZCYzItLTZJZWZkcDlJaF9DUdIBdEFVX3lxTE02bVUyQm96SWEzUjNtYXF2V3ZKYW5yWjFsS1FRZzBOZDhJX1ZLYkpTb2I1ZGZKZ0dqN0FxSlpCWnVMbTVWZWkta2EyUUthN1lpZlZRZUJtMWNNblNBcWNIUVdHZllaV1ItSDBjRVRhLWY0X0VH?oc=5",
-      "date": "Tue, 26 May 2026 20:09:33 GMT"
-    },
     {
       "title": "公開交通指導取締（２０２３年１２月１９日）",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CYnhuT3ZXamFEY2pkMk1pVW9hWTBFNWFjWVZUNnpSZ0htOUtxWG9xakJTdFJWU0J0UnVUempiQ3FQcnY0MUI5LVpLcUNMS0NVQ3UzaXliQQ?oc=5",
@@ -85,9 +80,14 @@
       "date": "Tue, 19 May 2026 10:14:19 GMT"
     },
     {
-      "title": "ガザ検問所、往来わずか",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02TTlTTXlsdERiWHR0aEhaYVVWR3NORkdqT296Njd3RnRWb3laamt1ODh5UUcxQUltNDhCTWJQUUlFV3lSVkxTZl9jVVd3ekU5WHphc2RRRVU3ZjZrd0UteQ?oc=5",
-      "date": "Thu, 21 May 2026 07:29:10 GMT"
+      "title": "公開交通指導取締（２０２３年１２月５日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VZEhPa1h2bDBPN2hRSmxqTjZWbUJHUzh1Q1NLX244ZGlOelVvOEtlZldBeF9GWUFxUVhXTkFvS2luTFVIZVVlVW9iVmk2S3liRC1hd0xfTQ?oc=5",
+      "date": "Fri, 08 May 2026 01:51:24 GMT"
+    },
+    {
+      "title": "過積載は危険 3署一斉検問 茂原・いすみ・勝浦 ／千葉",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtWG9NZU5LZVRaWEktdDUzSG5GV2ZYYUlRWFFnaTUwcHAtWHJQcU1yNlA2anQ1ZVhJQmRDVXAtRTFMTV9WOVd4aFdiTWZCdEhZdTRMUnU4STF2Ym03YkVuZjZ5UFAxMV9P?oc=5",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Fri, 27 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "迅速な連係プレーで交通事故防ぐ 会社員の男性2人に感謝状 千葉県警（チバテレ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92YUlCaWhZYXBLWGlJSFlyX19YNTZHQXBtQkg3R0x0cEh1eWlTbWNCM000NlRTWHFUSkZQbVpmT1dLSkwwRHRCUGxBU0JoNC1VcEhESkhjZlkxU2FPRWxvQmJHR0NhQ3R6a3l6SFRBcG9JZVh1Zk5lWExTMG12Mzg?oc=5",
-      "date": "Mon, 11 May 2026 07:00:00 GMT"
+      "title": "警察官２人はねられ重傷、交通事故の処理中に 千葉・市原",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HVHNpdDF0alV5NXQzRkNjNUZEYW9vUGxmUW8tYzFTdWMzMUczQUp6V0hvaWVJaTlWQ2R5NV9Jckl5b2lXRU1NYnBmUQ?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "千葉県警の警察官２人はねられ１人重体・１人重傷…軽貨物車運転の男を過失運転致傷容疑で現行犯逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hSURScEpTLThGUkYtMi1BTmVCYmVpRkM4R3k2bGNjZjc0TnpQTlZtbDFtR1JPWXUtZFNGWnowVW5XVUhycGhLaFJBbW1wWVpUN19mTnY5dnF1ZXhCUlhQeWxWU1Y2QQ?oc=5",
-      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+      "title": "交通事故撲滅の願いをこめて、新中学生にサイクルリフレクターを贈呈",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZHdEZlF3d1loYlpiTlVDYVotaTVjY0tBUjl4dXRaSzlSOXVJOE1WVlNhNmR4Z1ZNaFdzZk5mMmNQNWlsV3JaNTcxdVcwZ1JyeVdfNF9TMExIaGEwUWo1VHZXSmt0Ql9PWmc?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "軽トラックに男性(50)はねられ死亡 運転手(26)を現行犯逮捕 現場は見通しの良い直線道路 千葉･茂原市",
