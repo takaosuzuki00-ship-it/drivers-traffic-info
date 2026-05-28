@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-28T21:03:46.093013",
+  "generated_at": "2026-05-29T00:03:47.952536",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 17.7,
-    "temp_max": 25.3,
-    "temp_min": 17.4,
+    "temp_now": 17.4,
+    "temp_max": 17.4,
+    "temp_min": 14.5,
     "precip_prob_max": 100,
-    "precip_sum": 19.2,
-    "wind_speed": 4.0,
+    "precip_sum": 12.0,
+    "wind_speed": 12.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 18
+        "temp": 17.4,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 20.0,
+        "temp": 15.5,
         "weather": "曇り",
-        "precip_prob": 8
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 20.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 14.7,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 23.0,
-        "weather": "曇り",
-        "precip_prob": 41
+        "temp": 15.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 24.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 88
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 20.7,
-        "weather": "弱い雨",
-        "precip_prob": 96
+        "temp": 16.9,
+        "weather": "快晴",
+        "precip_prob": 43
       },
       {
         "time": "18:00",
-        "temp": 18.4,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 17.7,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月23日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhTFB1NXVRbURRdGJjbTQyQlFUQktGclBWU0Z6c3VobnltYnlKeGIzQkNBeEVvQ2dmWEkteXRPdjBEZzl3c2R3SWtLZ1hQSFVyY05OTUpnbGtLcTktRms5Zm5tWUd2NEU?oc=5",
+      "date": "Fri, 22 May 2026 20:00:00 GMT"
+    },
     {
       "title": "【交通取締情報】福井県警 ３月２４日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83VndZdkcwcndPU2xtZEphRUtnTDNpVThlYm9MZHVaTGhNX1FsNWtsRnlrMTI0TVhKT2VJSkdpQVpmQUJSQUVJSm5Ccw?oc=5",
@@ -87,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "死亡交通事故相次ぐ三種町の国道７号、防止へあの手この手 看板設置、動画制作も",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QRmNFVS13OTR3RjdINS1jUXN5dEZMZ2VWMHROU2dUcUZKeGp6VUdrNjdqQmZnS2hSc2U5ak9WMmZpa2dZVVpfRmJBbw?oc=5",
-      "date": "Thu, 28 May 2026 02:45:00 GMT"
-    },
-    {
       "title": "北秋田市栄のスーパー、入り口の柱に車衝突 運転・同乗の２人軽傷",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQ2NTTXNXck16cVpPbllPUFdaRmlVMWVYc3JJQkVxRmltS1h3cnNYTnJtYXdWQkJSNjBUdXRQemlZUjB6aHFXNVE4XzZuT3piTzczRG9IZDdEdWNtYVc2TzJR?oc=5",
       "date": "Wed, 27 May 2026 09:25:00 GMT"
+    },
+    {
+      "title": "死亡交通事故相次ぐ三種町の国道７号、防止へあの手この手 看板設置、動画制作も",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QRmNFVS13OTR3RjdINS1jUXN5dEZMZ2VWMHROU2dUcUZKeGp6VUdrNjdqQmZnS2hSc2U5ak9WMmZpa2dZVVpfRmJBbw?oc=5",
+      "date": "Thu, 28 May 2026 02:45:00 GMT"
     },
     {
       "title": "秋田自動車道で大型バイクがワイヤロープに衝突 群馬県の男性(59)死亡 仲間とツーリング中 秋田市（ABS秋田放送）",

@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-05-28T21:04:57.678776",
+  "generated_at": "2026-05-29T00:05:12.157880",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
+    "code": 3,
+    "weather": "曇り",
     "temp_now": 21.6,
-    "temp_max": 23.9,
-    "temp_min": 19.6,
-    "precip_prob_max": 47,
-    "precip_sum": 3.5,
-    "wind_speed": 1.8,
+    "temp_max": 29.0,
+    "temp_min": 20.3,
+    "precip_prob_max": 22,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 27
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 19.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 24
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 19.9,
-        "weather": "曇り",
-        "precip_prob": 12
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 16
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.9,
-        "weather": "強い霧雨",
-        "precip_prob": 47
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 37
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 20
       },
       {
         "time": "18:00",
-        "temp": 23.1,
-        "weather": "曇り",
-        "precip_prob": 8
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 22
       },
       {
         "time": "21:00",
-        "temp": 21.6,
+        "temp": 23.6,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 18
       }
     ]
   },
