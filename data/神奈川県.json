@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-28T09:04:36.286345",
+  "generated_at": "2026-05-28T12:04:47.820276",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
+    "code": 3,
+    "weather": "曇り",
     "temp_now": 23.2,
-    "temp_max": 23.6,
+    "temp_max": 23.2,
     "temp_min": 20.4,
-    "precip_prob_max": 27,
-    "precip_sum": 0.1,
-    "wind_speed": 2.9,
+    "precip_prob_max": 39,
+    "precip_sum": 0,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
         "temp": 20.8,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
@@ -27,37 +27,37 @@
       },
       {
         "time": "06:00",
-        "temp": 20.9,
+        "temp": 21.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.2,
-        "weather": "晴れ時々曇",
+        "temp": 22.8,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.6,
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 22.7,
+        "weather": "曇り",
+        "precip_prob": 39
+      },
+      {
+        "time": "18:00",
+        "temp": 21.8,
         "weather": "曇り",
         "precip_prob": 12
       },
       {
-        "time": "15:00",
-        "temp": 23.1,
-        "weather": "曇り",
-        "precip_prob": 27
-      },
-      {
-        "time": "18:00",
-        "temp": 22.2,
-        "weather": "曇り",
-        "precip_prob": 10
-      },
-      {
         "time": "21:00",
-        "temp": 21.5,
+        "temp": 21.4,
         "weather": "曇り",
         "precip_prob": 0
       }
@@ -92,9 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "車8台絡む玉突き事故5人けが 横浜で渋滞最後尾追突、運転手は逃走 [神奈川県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ieFM4MFpZLUluVHhnVXdJNDlfTlEwMDJWY0Y5RHBGOHp4d0R1T0tUWUlPWFFUZHpjRi04NzRESTM4TG9LUG1wS0VMWkpJcHBwazktWkFzUjJnV215MEZiamVpNkZ3NDA?oc=5",
-      "date": "Thu, 21 May 2026 08:40:17 GMT"
+      "title": "川崎・宮前区の市道 対向車に衝突、のり面から落下 乗用車運転の女性死亡",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUmNOZTUzR3hSd2pqWkphMXpGSFpVdlVmblR1czhDbWRBc0p1dlZsU2xGYlh4VHFFUEVnV3lDMGxTZVNtZUFVcnlrSUtmUUxVaF9OU3FFTXZmSXZJUHpveWFMdVpkTngwTGN1THZn?oc=5",
+      "date": "Mon, 25 May 2026 14:50:00 GMT"
+    },
+    {
+      "title": "小3女児の死亡事故で神奈川県警が現場を速度規制 異例のスピードで [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xUUh2WHVuMFRqQS02N254WUw2V1piSXV6b0syQlZhMXp4WllhU1BfSFU5NFV1WmRxbjhodE0xQVFnbGR1QTJJQVpPenc0ZUNmYmFwb1cxZ2Nkd3dxS0x5SFBPcEZ0MFU?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "神奈川県逗子市 ひき逃げ死亡事件 乗用車運転の女（78）を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzN1VpMlVIbDh4NUdJN1RuS2lEbno2QVUxaWlMUWs1RzNoVDNEcGRZdHhXV0x1RTlKc0Nzc3F0U1BlS0p5SXowdWY2Y19rREU3d2lkZFgwQQ?oc=5",
+      "date": "Wed, 20 May 2026 02:33:00 GMT"
     },
     {
       "title": "神奈川県、交通死亡事故多発警報を7件相次ぎ発令 自転車絡みが3件",
@@ -102,19 +112,9 @@
       "date": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "高津警察署長・寺内秀幸さん５７歳 地域の協力得て交通事故減少へ 神奈川の新署長２０２６",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oZ2dQLVZ3SlRRMHVwSjlBZ2luX1g3OVk0NkFmRDJzdUtLaDVkRTdfQV9JUDJhVjBqX0N5RzNYeTc4RGhyUFVRYWhISFlhUmdxLVVscE8yMTZ3MkpiNG5LMFlNRXNsVU0?oc=5",
-      "date": "Wed, 27 May 2026 02:50:00 GMT"
-    },
-    {
-      "title": "自転車の安全利用・事故防止",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZEs4X0FCQnM3TmgtYXVVSExxcmpoUkJGOWs0UEMzU0xfTGxOUFk0bUlMTDFCbUgzSDNDQi1ldlA2RVRJczBXWlIzbVlqZnY2UWNsWU9KTTRBVkNJVUNIWVlKdVFrMGQ3ZHFrQw?oc=5",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【続報】能越自動車道で大型バイクがガードケーブルに衝突 神奈川県の女性死亡 上り線の通行止めも解除",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUVXNmt2SlZoSGZFNGNRXzlEaGg3a1hRMXgyTDNMeW9QMDdPTHlBUjRRejR6ck82d2hTaDNGdTgzS3p4MWVJYnZEeUgtTElCWTZuOFdJanhDUWtqTmlNNjZRM0otcWo4Nmo3ZGgtaG0zVUllcjFKdHp0WHFRNHZNUkdXU3o3bmc?oc=5",
-      "date": "Sat, 23 May 2026 13:31:00 GMT"
+      "title": "神奈川県が「交通死亡事故多発警報」発表 27日まで、令和7年2月以来",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRm11cWdJRk5WTmctVnVZTXgwRjVrVnJwcEdzSVBrNHlyUkUtSGJYV3VzVUdJQUdkdDF3WWtvVV9LR3lCLS1MUmIyUnNCWFUxUTRHUjJzdTdFSy1mUVotSmw5OXVCZk9qNk85NVRQM2JXV3FHRmc?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
