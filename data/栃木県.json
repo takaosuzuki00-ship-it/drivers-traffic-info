@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-29T21:03:45.221934",
+  "generated_at": "2026-05-30T00:03:50.705073",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 18.4,
-    "temp_max": 29.5,
-    "temp_min": 16.0,
-    "precip_prob_max": 41,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 15.0,
+    "temp_max": 28.5,
+    "temp_min": 12.4,
+    "precip_prob_max": 4,
     "precip_sum": 0,
-    "wind_speed": 4.0,
+    "wind_speed": 4.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.1,
-        "weather": "晴れ時々曇",
+        "temp": 15.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.0,
-        "weather": "曇り",
+        "temp": 13.1,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 21.8,
-        "weather": "晴れ",
-        "precip_prob": 41
+        "temp": 13.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.2,
+        "temp": 21.4,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.5,
+        "temp": 26.8,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 26.6,
+        "temp": 28.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 22.6,
+        "temp": 25.3,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 18.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月27日（水）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWTXlxUjc3Zk9icDlCbENkR1cydTU3b0FfUXFNcUg5ZG84dkNaS1M1RHlJTGNpZVR5R0lfY0FTVmhsVDQ5Y3pJQXNqaWpkdjJmN3FKbm9KenhPZXdZMU50cG5wZUR6NkhoRWhKYzgtUdIBdEFVX3lxTE10TmgyZkxDcDhPX05tSjNFVDlqTjBCYjZaWnNuUGNsTjNGYmRHdUtsMHRWd1BQY3hxRFd5UXNzcU9saVJQdklSeUpYZHdNQVlacTBrRERGV1AzM2VvSWZRbXlHTjRDbDY3bEJlSGpRZXFvU3Vh?oc=5",
+      "date": "Tue, 26 May 2026 20:00:00 GMT"
+    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -75,19 +80,14 @@
       "date": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "５月２５日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpb0RKakRvR1c5dWI3d2MzOW4xUWdfcldRQ0wtSXg0RlpDWG5MQXJ6OURfb0RfRHJHSC1BNjdpZ2ZxdGtHUDRqZHk5SjlpUmI4eUh6VzJsblUyRmUyTThGQ1ZBWDJ5YWlqZG5oTUZBd1FPd9IBd0FVX3lxTE03UFZjcktlSXZUYmZOQ0ZrNW4xN3g0UDkyVmpza09lMHNtQlNSVXpxQ3hURVZMZUdJcXY0ZEUtVDhXd0NXX21uUnF4SkxqM2JJdVVtM0l0WUZkTlpENWJ3WS1OU2x0YVNERnRxRHZmX0wyUndqaDNV?oc=5",
-      "date": "Fri, 01 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "参院選２０２５：取締本部を県警が設置 ／栃木",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxaU9rVlVfVUwwbHFoZXU1M3VUcVlkbDBWYVYtSjFCckxCbFdCa0F3RU1MZGhWQlhHWVZ4c0pfQXVwVDZHcUl1WWw2d1VtalY0RzRWYVpxNndhZk9TWTFXbWdjUXRSczJ3?oc=5",
       "date": "Tue, 24 Jun 2025 07:00:00 GMT"
     },
     {
-      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fd3ZvOHM4VGdYTFNOaGhsY1NlQ0p5YTBQcW9Ccy1LT1FHSnlSTGR6LWhHUlpJRjJveXJSa3NIcXlKZWkxTUdoWDNVY3QxbF9NdWVVVU5PVDdONGM?oc=5",
-      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
+      "title": "５月２５日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpb0RKakRvR1c5dWI3d2MzOW4xUWdfcldRQ0wtSXg0RlpDWG5MQXJ6OURfb0RfRHJHSC1BNjdpZ2ZxdGtHUDRqZHk5SjlpUmI4eUh6VzJsblUyRmUyTThGQ1ZBWDJ5YWlqZG5oTUZBd1FPd9IBd0FVX3lxTE03UFZjcktlSXZUYmZOQ0ZrNW4xN3g0UDkyVmpza09lMHNtQlNSVXpxQ3hURVZMZUdJcXY0ZEUtVDhXd0NXX21uUnF4SkxqM2JJdVVtM0l0WUZkTlpENWJ3WS1OU2x0YVNERnRxRHZmX0wyUndqaDNV?oc=5",
+      "date": "Fri, 01 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
