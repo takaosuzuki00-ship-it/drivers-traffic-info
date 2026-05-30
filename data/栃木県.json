@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-05-31T00:04:29.504027",
+  "generated_at": "2026-05-31T03:06:15.353300",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.6,
+    "temp_max": 29.3,
+    "temp_min": 14.2,
+    "precip_prob_max": 26,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月27日（水）【岩手県】　日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWTXlxUjc3Zk9icDlCbENkR1cydTU3b0FfUXFNcUg5ZG84dkNaS1M1RHlJTGNpZVR5R0lfY0FTVmhsVDQ5Y3pJQXNqaWpkdjJmN3FKbm9KenhPZXdZMU50cG5wZUR6NkhoRWhKYzgtUdIBdEFVX3lxTE10TmgyZkxDcDhPX05tSjNFVDlqTjBCYjZaWnNuUGNsTjNGYmRHdUtsMHRWd1BQY3hxRFd5UXNzcU9saVJQdklSeUpYZHdNQVlacTBrRERGV1AzM2VvSWZRbXlHTjRDbDY3bEJlSGpRZXFvU3Vh?oc=5",
       "date": "Tue, 26 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "5月26日（火）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSjVORGZaaEdOYXFEZkZLNkMtbFEzaGtaazlwLTdqTjlvaTN6TkR3YWhua09lbmtzWjZFckNsZHFaYng4ci1NOUgxdjYzYmxEUEFfYklLbW80SmdaNDcxM24tQzhrTnRtSy1rN21ENNIBdEFVX3lxTE0xTTF1bEg1d3ZNWmxNWTduQlNLV1dGZUxPMmVCWEpiY1BNTGRkSmQzYVQ1UU53WVNCczM2ZXRaQWw1Q2x6UnRDcTAxaGQ5d3ZqbTVMcVpVOUh2OU40Z2V4di1QN0M3QjYwQWZ5WXBuOGhLMVFU?oc=5",
-      "date": "Mon, 25 May 2026 20:00:00 GMT"
     },
     {
       "title": "衆院選栃木 県警取締本部、文書掲示違反３件に警告",
@@ -29,6 +83,11 @@
       "title": "参院選２０２５：取締本部を県警が設置 ／栃木",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxaU9rVlVfVUwwbHFoZXU1M3VUcVlkbDBWYVYtSjFCckxCbFdCa0F3RU1MZGhWQlhHWVZ4c0pfQXVwVDZHcUl1WWw2d1VtalY0RzRWYVpxNndhZk9TWTFXbWdjUXRSczJ3?oc=5",
       "date": "Tue, 24 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fd3ZvOHM4VGdYTFNOaGhsY1NlQ0p5YTBQcW9Ccy1LT1FHSnlSTGR6LWhHUlpJRjJveXJSa3NIcXlKZWkxTUdoWDNVY3QxbF9NdWVVVU5PVDdONGM?oc=5",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
