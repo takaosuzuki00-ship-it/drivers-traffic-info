@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-30T10:10:55.980972",
+  "generated_at": "2026-05-30T12:04:35.699312",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.5,
+    "temp_max": 28.7,
+    "temp_min": 15.6,
+    "precip_prob_max": 13,
+    "precip_sum": 0,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.5,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "5月30日（土）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話”",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WV0JZWk8takFWSlc3RzdsLUMyQkdfNlVDS1BFY2RqazVnSHlHWUJ5aGU2RDc4bjI1V0NlT2gzWnBiVVpWQmlMazZKRGFIaHRlcGNCY3RGSQ?oc=5",
+      "date": "Fri, 29 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月30日（土）【熊本県 交通取締情報 午前・午後・夜間】“携帯電話”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBia2tfU0pudkpYa0ktTXd3UlZzRjdjYXdDLUpsOWRxZTdrYlJscUFjRTNCSVRWYUMwWEFHTDQ2YVpxUjJEZUd5bFZJZTZVcnBGU1VvTWp3ODFWeFBkLS1Ic2FjYS1OcFRvSEtyRnEzNNIBdEFVX3lxTE51WlJ6QkM5R1NpeFRxVU9ianJuUnhMb0lUNDJvRHdLNHVBV2VXV0Z6UUdLTW5hN1RFZkN4elNTQUZTWTRBVTBCY2RPdWNpWDdSc213bF82SGpvdFFWTmtpdVhmbUJJZkNrZUl1Mnk1dXduaWpI?oc=5",
+      "date": "Fri, 29 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月25日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YRXNuZkFDSlJmX1lFd3dGOHM5NS03OG1SVXJCcmhQTlduYTF5cUxwOG9FT2tHcllTLXNOSm5Oc013RVFCMjQxN0Y1WWF6SkJzMnZUMzNaUQ?oc=5",
+      "date": "Sun, 24 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "5月29日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zRlVFNXVub296cC0telc2S1VnSHJVM0VsenZraElIM3FaVENLWWhZOTI5SWZDVjlKc0N5RGRDeFAwR1FJWGFkUHZWWlJvUW5FR3QyenJOS0ZKb01SU2NmS2xhN052QVdFY0hHN0ItSdIBdEFVX3lxTE9oX290cmpuX2xhX01sdm5lX2RXNEdhck5VdU9tbjVFUHBmOEFXTzVWUjVjM3BNUkprekNacWloTWtUMnhYalpnV013TXZIUUVLQnFYcVNUSEp3U0N4TUQzdFlKMWtYUWQ4bGN0QmxsQUE4dGpZ?oc=5",
+      "date": "Thu, 28 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRnhzcU42NWxZUndCWjgySkY1T29RQlVPazl3b0dJY3BhVk9fOUl1ekZ5b1FLVEplT0pSVUdNWWJhYlFZYnlFQkdxNA?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "20代男性2人が乗った乗用車、道路脇の看板支柱に衝突 1人死亡、1人重傷 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZV3ZXZkFicGgwQmlENU0wYTEwcXY5SHcwOEk4cUQxQXdQT19kNHFrZlM2LWRuMEhIbHVmcVRFVWVlT0hYQVk1dVdKdUY1aXhpR1ZJUVNNaw?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "はねられ女性が死亡 運転の男に実刑判決 「許す気はありません」 遺族は信号機求め署名活動 山梨",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmhPbXpTVmpjWEN5akxjcldKTElaVmxJYWZuak1zYWZEV3ZEeXRxZFQybEdkeUVsSnlTRE0yMUoxMFhOcVcwRzZqUm9vMzVMRHFrQ1k2MjVwZUVJdGw4UWxPblAteFhZZEozam1BRUFtVDluNTBUR3NFa182QU8xWWMyWTFBemM?oc=5",
+      "date": "Thu, 26 Mar 2026 10:08:15 GMT"
+    },
+    {
+      "title": "酒気帯び運転などの疑いで男を逮捕 塀に衝突、同乗していた東京都の25歳の女性が死亡の事故 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVW1VM1NTOU1wcDZtLUI0aGJJenJ2czgzcWJ2RFJXb0VOaExCaWhKV3lCd0JJSl9xUml2a2xBbkxjQ1NPMGU3aHhIQ1ZHUGgxZjkySTFkc3ExUQ?oc=5",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "一家5人が重軽傷 男子高校生（16）が首を骨折 車同士が正面衝突 道志村の国道 山梨",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEEtRzFzSS1PcWt0ZXEwUEtMYnU5RXFZblU4QkhzMkpxZGtZUjIxS1RlLXJHSlVmanFnd25QSXBPaUNyeW5INHBvSjFSalJidWU3aWtwbEMyYlhNMGJXZEVOaTNWWmpBLU9XcEVWQUlhOVpCZ3JiLUVOUms0NDV1SE1LWHJ6T2M?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "女性死亡事故 拘禁２年６カ月求刑",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UNEFlX29QWGZTclFQQUhTRDNWSWd3dXFHOUhlSnhWd0xlSWFVYktpTVAtSkMwbXc2OEEzRjlKbnhMMGlRMFAxclp1djhVVE5RMjl1RFJZcW5kWTlIeU5TWWF2Qk1OeWdxLWtqWW1mU0VxY2pM?oc=5",
+      "date": "Thu, 28 May 2026 08:51:52 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山梨県警察 公式サイトを検索",

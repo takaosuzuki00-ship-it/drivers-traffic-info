@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-30T10:19:56.118106",
+  "generated_at": "2026-05-30T12:04:48.420759",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.6,
+    "temp_max": 26.6,
+    "temp_min": 17.5,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "５月３０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qT3MtZXVmdk4tbkpIV1BseVl3RE5hdG4tWnZjOUxrRkR3NVIxTHREWTNOQ0RZbVBSa1JTU2hUblpOd1lwMXlMTjNNdXBiSjFNUHRZUGs0MzdvWTBSal9uTmFndURJcDhsd0k4Q1pNLUV0Z9IBd0FVX3lxTE5MZ3dta1l1ZXEtNGxNRDFrZGNubFZFaXNhX2trMGlvV3IzVzZDVWU4clNoZ3BGQUhpZlRMQ2V3Rmotd3VyNFJwd0Y3UHVLRS1zSmxEYWwtZU5wcm8zVGpBcWg5NnppbVZxeUtfaklLOEM4NDgxa3FN?oc=5",
+      "date": "Fri, 29 May 2026 20:05:59 GMT"
+    },
+    {
+      "title": "「不偏不党の立場で厳正な取り締まりを推進」衆院選前に選挙違反取締本部設置＝静岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wX0p6QmZzRkZuZk9Ga05RRTZ4c0VFVG9vX2YxMURXa0JheFcxSnR2ZVRMRUZ1RVdDVDlKc3VCdGhfN2d0U25VdVg1aTgybDA2a2ZNRUtvRQ?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mdHp3RmJXcm83VWFIeEZoNGc1U3lKZ19PbU9tbTVJRU5RaWY3eTQ1WVdrY1NONFBxSkdHak1KQ0ZEOXJYZnczcmg4aWZBN20tdy1tWGpNbmhwM1UydVZCYzItLTZJZWZkcDlJaF9DUdIBdEFVX3lxTE02bVUyQm96SWEzUjNtYXF2V3ZKYW5yWjFsS1FRZzBOZDhJX1ZLYkpTb2I1ZGZKZ0dqN0FxSlpCWnVMbTVWZWkta2EyUUthN1lpZlZRZUJtMWNNblNBcWNIUVdHZllaV1ItSDBjRVRhLWY0X0VH?oc=5",
+      "date": "Tue, 26 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "交通取締り情報",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96WUxGaGY2Vi1KOG8wZHlZMnBHYzJoSWRGVGp4U3FQRDdBTURtQnc1cTZuMjl4Z2FOeU9OWUNBYXpsUU1HVGJOdEtEdTBfVHExd0QyTFZLdXlzdGdFNVNuR05nS284LTVtbG1DT2YyWWI?oc=5",
+      "date": "Wed, 11 Jan 2023 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故で1人死亡 1人重体 軽トラックが車線をはみ出し対向車と衝突か 片側一車線の道路",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14bkN0cTgxU3NzZGZTdzVwY1NsZ2NoLXBsaXlIQklXN3NWYmpjRWI4Y1F4Ym9tZWo4V1QxMEdacWpDemdOS09ISEpLbUdkNXY3WjhKeDlsOXVKRm9yNzFOMjA4SQ?oc=5",
+      "date": "Thu, 21 May 2026 10:03:00 GMT"
+    },
+    {
+      "title": "後部座席に乗っていた5歳男児が意識不明 チャイルドシートを使っていなかった可能性 法律で使用義務付けも 祖母が運転する軽自動車が壁に衝突（テレビ静岡NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRT2d2TEEyVkxyZlNUTW9icHBfQzRXOGVqaHM4Y1BNR3lDYjdUdzR1OUJmYUJLbzZVS2xqTzBaNlFpYkQxUnJKd2VUdGxGNUlHVVFHYklJTVdJUlFOWEpEWEoydWhybF9hWV9tSVM3TWU2SERqN3dPeGhiMGVuS0k?oc=5",
+      "date": "Wed, 27 May 2026 08:54:01 GMT"
+    },
+    {
+      "title": "祖母の車に乗った5歳孫が意識不明の重体 チャイルドシート不使用か 立体駐車場で壁に衝突する単独事故",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSUtTeFZuSnZGS2RzQmk4VDN0VXFXTnVrTWJFWXRmT0J1X1kxLWEtdVduVjhITmNrQTZQVGszcEduc0Z5Zl9PVWlCQlc4QQ?oc=5",
+      "date": "Wed, 27 May 2026 03:11:00 GMT"
+    },
+    {
+      "title": "静岡県内の中高生自転車事故 ６、１１月のピークに向け増加傾向 県警、過去１０年の死傷者数を分析",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByeWE5T2Flb3k1UWxTd2Q0TEliTlV2cWgwUXZLV2w3Z3gwZjBNN2tRRThqUl93WENHMnp3TGptcXNhZkJTNTlvdTN6SHFVUQ?oc=5",
+      "date": "Mon, 25 May 2026 22:26:00 GMT"
+    },
+    {
+      "title": "死亡事故再発防止策を検討 静岡中央署が現場診断",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3Z2RmOExMYzB1b0c4R3pycDdmQng3Y2JCLWJLS21vRFlLVXNYSFRiLVgtM3A2SUNuQTFNNXJ2MVpIRjBDV0V1YkNIMm9hZw?oc=5",
+      "date": "Thu, 28 May 2026 21:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

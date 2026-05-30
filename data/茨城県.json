@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-30T09:37:55.170367",
+  "generated_at": "2026-05-30T12:03:51.003511",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.8,
+    "temp_max": 28.9,
+    "temp_min": 13.7,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 12.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CcktscGlQZTFjZVZvWTZGLTB0ZnBjaEFxQ2JNbnMtM0JZbk9HTWN3azJkS0xWN29nN3FVellMSzFvQlhVS3pKaU41SzhvaG5UcnFBUmpsdHVFbW1HdzdaOXRxZFJpY21sVnRUTFZ2NWpnbXc?oc=5",
+      "date": "Thu, 28 May 2026 00:24:08 GMT"
+    },
+    {
+      "title": "5月26日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWd0cmFKZkVxdk9rVm00SmVoTDRGdDNhUVZRRVRmX0VWZzVmTm9ZVEw1VUF1QUdwdm9hbHlGdnJUV05DWmJiYTlqQjVIUWxQQk03b3l2UWJ2S2ZuUElzSFhDMGRnNzM0WldnRFJvUdIBdEFVX3lxTE53NlN0dHVGd2NsaTdTeUtaOExqOEFILVVPS0d4RUpvbWJLRVR1b1FpM3NYbjZtRGpHYlhEejBRWFFEVUdFbnMtSXRjWEJ3WHprbFZBLVZvUkQ3UEJ4X3ZpRmhCVW5QOUI3YjlYSU1nSUVDaGt1?oc=5",
+      "date": "Mon, 25 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wVmNiZVNFVDQtckducnVtcE03WV9uZTJ4RTU5dG9JSlZ5T0RQWTIxbHpPR1pTOUVVbU95ekhlZWstZDJPd3hqYS1Ebw?oc=5",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "小学校に交通事故防止を呼びかける玄関マット寄贈 茨城 土浦",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZnJ0azM2V05MLTFJb045YWNxaUcxclRSSXA0dWFPOUNmNms5UGZnWlp1TVFpZFVpXzZTclI5OUdjRnZTWTVqRDFfWFAyRU9DMHpOaHNscnk?oc=5",
+      "date": "Tue, 26 May 2026 06:51:00 GMT"
+    },
+    {
+      "title": "【続報】守谷の交通事故 死亡は79歳女性と判明 茨城県警取手署（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQ2llcm12S21XaWZKcWpnOTRfUVZvTVJoUzZWdEtKMmJnRm1FV0R0RGY3M2dDWTNSbUtJVmRGeUdOUjlvaFBYRmNUSE5TWXRkSzc2bk1iUGNja2p1N291T2NMZWRSc09uaU5SRGk0QnJCeFg2aUNSSzctUWVJRlk?oc=5",
+      "date": "Wed, 06 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "茨城の圏央道で事故、1人死亡 車4台絡み8人搬送",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rVFE2dlNGX2dnZGFGN01FQndFQWg2MERYamVLandRbm5TaF9LaUJ6VGpsODJ5Q0t4ZU9JcmxQUU1zMXc1bjdoMlpWVQ?oc=5",
+      "date": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】歩道に倒れていた男性 搬送先で死亡 茨城・つくば",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lZTJvN29JQkZMOVVTdi1iXy1IRGZaUEJlcklTSVd6c2VtajdXTC1IOUZWckt1U2x1cEltSWJTU1RQZnV6cTAzdU9weWRsYnNfUlBVWkhTLXlNVjUtYTZnN0xhY0VOMnJ4WUhaZ2ViSVV1MVU?oc=5",
+      "date": "Thu, 28 May 2026 02:00:59 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",

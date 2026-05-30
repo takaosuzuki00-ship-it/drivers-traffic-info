@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-05-30T09:43:55.370059",
+  "generated_at": "2026-05-30T12:03:57.960286",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 28.1,
+    "temp_max": 29.6,
+    "temp_min": 15.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 8.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察官引きずり“殺人未遂”で男送検 出頭の際「交通違反をしたので来た」 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzWllVaTBRYUVwcm02dHRhZTB1eWNfUG9yeXQtdG5nTkZNS1o3VENXVHhJd2tYZnphU0ZEZzJOR2c4YUN5ekJZejNoSQ?oc=5",
+      "date": "Wed, 13 May 2026 06:27:15 GMT"
+    },
+    {
+      "title": "【続報】交通取り締まり中、違反車両に引きずられ転倒 男性警察官が重傷 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hQWxJc1lSN1N4WUJfWG5FNDFtWWJrMGdpY2JycUZMY0tKYm5WVGdULXMwRm5UWlNWY1dUNF9heUZKQmJZWVl1YXVOQWlZRzR2VW5iN2k1NWk?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "公務執行妨害の罪で64歳男を起訴 前橋地検 群馬・渋川市で交通違反の取り締まり妨害",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzZG96Rl9aRVJlandnVkRVX2tlM0owLUNrcVBxdXBNMnJNNGlId0wtOXlIdWFtdzNubnZ1a2dzQzF6Zm52clc3V0duZXE1bDc2ckNMLU5zdG8?oc=5",
+      "date": "Tue, 26 May 2026 08:00:00 GMT"
+    },
+    {
+      "title": "イスラエル政府“ラファ検問所を限定的に再開する方向で合意”（2026年1月25日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlRQMTdzR3lUbVhqX2dPWVdKaTJVSDRkMEhFcVdqWDhWR0VBbGdOdEZvWEs1Q20xRmpxS1Z0dDIyY2ptNW1yaURXRURGYW5fN2ZaeW02X0RZU2xaYTBxVFQ1QXlfUTI0UE94TFY5THFQVmVBMndSVF9ldTJBRzRPUTVnaHY?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "標識見えないのに…誤って32人摘発 反則金返還へ 7市13カ所の横断歩道で不備 群馬県警",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rWGIyQXNEWWZ3SDR5V3ZDemZYdFRJZ01ibUU5VGFNZm5jazB1VURHajd1ZW1kbHAxbWJ0M21pdHV4alhXRlBDY1dzZkx3dGpWdFhzNGdqN0U?oc=5",
+      "date": "Tue, 20 Dec 2022 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止に関する取組みについて",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "助けようと運転手代わるもさらに事故 倒れた女性さらにひかれて重体 ほか2人重傷 群馬・渋川市のスーパー駐車場",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13YjVYRTl6LS12c1UydXhtbU5RZHB2OGhJcUdxbjhRWl9zZDBPZWF2VHBaczdZWkR1eVdhUXVsUG1wbW5nZ29IV0c2RHRidlhGWkZhc3M0bw?oc=5",
+      "date": "Tue, 26 May 2026 15:04:00 GMT"
+    },
+    {
+      "title": "【詳報】6台が絡む交通事故で6人負傷 群馬・館林市 信号待ちの車、次々と追突される",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpYWpZUXNGNVhiZjZlMHc5UHhxazdOWTFNenQ2UHk0WllnZVI3ZXc5OU14bzE3aFBsNENWamd5cVZPeHg0ZEJhMlhGYzRoNVAtTnpROVBSZ00?oc=5",
+      "date": "Sun, 24 May 2026 08:00:00 GMT"
+    },
+    {
+      "title": "運転交代するも駐車場で同じ女性を2度はねる…女性は重体 救助の2人も巻き込む事故 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VcUU5a194a2FzWVNGcmwyVEpZUUJyd3FZaHNPTE1mUTVLTlBSZXRjUXhZdi00N3IwUWJoMmRiaFRpcVFSazhGU1BVVGpGSF9XVDFMYW9pTTlfOXBubkJod1hfVTB5M0VjZmt5NDNyYlVoZDdiS2FNa1daZWs?oc=5",
+      "date": "Wed, 27 May 2026 06:38:01 GMT"
+    },
+    {
+      "title": "複数の車が絡む事故で6人けが 群馬・館林市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Pcmk3Sk04TXVGSlBac29nY3ozNkVoV21iN2ZJYXFuQXpuN0pEMnVkSkkwUmJKc2lMVWdVZVJYME55dENSdGp3blhFWGF5QQ?oc=5",
+      "date": "Sat, 23 May 2026 16:09:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",
