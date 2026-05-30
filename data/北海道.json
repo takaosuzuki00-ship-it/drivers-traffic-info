@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-05-30T21:03:31.196675",
+  "generated_at": "2026-05-31T00:03:42.029903",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 12.1,
-    "temp_max": 17.9,
-    "temp_min": 11.0,
-    "precip_prob_max": 100,
-    "precip_sum": 8.8,
-    "wind_speed": 5.9,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 10.2,
+    "temp_max": 22.7,
+    "temp_min": 7.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.5,
+        "temp": 10.2,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 12.1,
+        "temp": 7.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 11.7,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 14.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 17.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 17.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
+        "temp": 22.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 13.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 29
+        "temp": 19.8,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 12.1,
-        "weather": "晴れ",
-        "precip_prob": 20
+        "temp": 14.8,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "衆院選に向け違反取締本部設置 北海道警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56M21SZGpIa1R4dHU4cFNpRnBzSVNxaThmZnpwLU52V0NKejBxN0Eyc1k4b3ZtNWFlamZTZ0xvdEZpUzJlRXpvRW9sbWxmZUw0ZE1heS04eldJdw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
     {
       "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
@@ -73,11 +78,6 @@
       "title": "でっち上げははなぜ繰り返される？ スピード違反捏造の道警・警部補逮捕に「本当に遺憾」、小此木国家公安委員長",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12dmdkNlE2SGozNUVlXzdLLUFZb2wwTnZDbzZXUmo3WnljWWFuY0JYeE5RTUMtUmYzRkZnUTZmb1FkakZaZ21XSEVua1YyT21BQ3c?oc=5",
       "date": "Tue, 20 Oct 2020 07:00:00 GMT"
-    },
-    {
-      "title": "ロシア旅客船、稚内に入港 日本の元漁業取締船で試験運航 「需要あれば今後も運航」",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QeDk5bFZfaFctUngzWTJ5X3lEN2c1YzlRdFpTMDRqd2tjOGJSRlR2QkptbjJZdVZmUi1ENGQ3UVdhY1EtSm9kSHN1UGNFUTR3Slh3NHczdmxOdw?oc=5",
-      "date": "Mon, 28 Apr 2025 07:00:00 GMT"
     },
     {
       "title": "速度違反を捏造、有罪判決 元道警警部補に札幌地裁",
