@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-31T06:06:04.958256",
+  "generated_at": "2026-05-31T09:05:43.829934",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 16.7,
-    "temp_max": 30.5,
-    "temp_min": 16.7,
+    "temp_now": 22.6,
+    "temp_max": 30.6,
+    "temp_min": 16.9,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 1.1,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
@@ -21,32 +21,32 @@
       },
       {
         "time": "03:00",
+        "temp": 17.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
         "temp": 17.3,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
-        "temp": 16.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
         "time": "09:00",
-        "temp": 22.0,
+        "temp": 22.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 28.5,
-        "weather": "曇り",
+        "temp": 28.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 30.5,
-        "weather": "晴れ時々曇",
+        "temp": 30.6,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
@@ -57,7 +57,7 @@
       },
       {
         "time": "21:00",
-        "temp": 22.4,
+        "temp": 22.6,
         "weather": "快晴",
         "precip_prob": 0
       }
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "助手席の女性が窓から顔を出し 高架の壁にぶつかり死亡 運転手は酒気帯び運転で現行犯逮捕 笠松町（ぎふチャンDIGITAL）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wYmJZR2lqY0JycDdxVFdzT29VSU1xNDJhUk95bXc1SU5TVHJsUUt1TXhvVnFORzhGanowb1Fjbk1CdERkcjZnLTFFc2QyQ3BsSXZ1eFgtMWtzYTQzME9ld2pGTHIyMWRHb2g3N3lqNk1DMlhVODFSSG80SVh1eHM?oc=5",
-      "date": "Thu, 28 May 2026 12:12:22 GMT"
-    },
-    {
       "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
@@ -107,14 +102,19 @@
       "date": "Fri, 29 May 2026 02:27:00 GMT"
     },
     {
+      "title": "岐阜県内の交通事故の犠牲者、昨年は55人 過去3番目の少なさ [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9obzk0MTIwTm5vQzNibDlhT04xNm1uUHFrcXBjR0UzalBXNUc3N3lZTnBTbV9POHhQZ3A4cEk2bS1iXzdaYnViTlpVTlJzOVR4R1JlUkszeUVuWDBBRlh6SlR1NWpUZFE?oc=5",
+      "date": "Tue, 20 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "助手席から顔出し女性死亡 高架の壁に衝突 酒気帯び運転の疑い、運転の女逮捕",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtajNxN2kxeHJFR0dzcEZ4a1JCeGZ6U1g4bjlmRDd2QTBSdU1oaGhaWk8xak9tRThrYmR0TWFDZDNCRk9RS25ienZvYTctQk0?oc=5",
       "date": "Sat, 30 May 2026 01:43:32 GMT"
     },
     {
-      "title": "走行中の軽乗用車の助手席から顔を出し高架に衝突…21歳女性が死亡 後部席の息子にケガなし 運転していた21歳女「酒気帯び運転」の疑いで現行犯逮捕 岐阜・笠松町 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRjVmdEprdVF6MzF3OHd3ZVJoQTVPbTBqWVRoQTQ5Tk8wV0lyVmxMcjdtQ0JyTlh0T2pLck1IMXBSVEhCV1ItZmVzeEtpVVJaREd3YkE2S1Rzdw?oc=5",
-      "date": "Fri, 29 May 2026 10:01:00 GMT"
+      "title": "走行中の軽乗用車の助手席から顔を出し高架に衝突…21歳女性が死亡 後部席の息子にケガなし 運転していた21歳女「酒気帯び運転」の疑いで現行犯逮捕 岐阜・笠松町（CBCテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DcDAxSERmclhvQXlZVlIwV3U0S3hmYVB6bWllSEd4el91c25PNnc5NmJuSWw5WHZxQnJNWDBKNjFQdWU2R1R1Y2pxLWUza2R1Z3cwTjVialBDbGUwcTg5YjZBY0hHeFhNYlpKVmZNTEZjTHdnNHJPVk1jUFBTelk?oc=5",
+      "date": "Fri, 29 May 2026 10:02:13 GMT"
     }
   ],
   "official_links": [

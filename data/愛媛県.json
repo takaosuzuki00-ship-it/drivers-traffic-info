@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-31T06:07:51.343101",
+  "generated_at": "2026-05-31T09:07:00.321885",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 23.2,
+    "temp_max": 28.2,
+    "temp_min": 20.0,
+    "precip_prob_max": 8,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 20.7,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
@@ -16,6 +75,11 @@
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "5月28日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HeVhaMC1wLWJBTVJ0bEpyMVpOMHNwZmh6WUcwY3N0S081ejZGakU1aGhlWmJIaF9kTkliaGtPWkdmd0luekZmdDhUS19kSk9mMm0zNkJWc0Y0eTRERUM5UGV4VDRYN1ljOS1NMW5YY9IBdEFVX3lxTFBNbTByNUpkWHBIQVdzc2piYWdfZGh3NHZLcnZndHVPVmlQNElCU3V0endibXl3WWJZSU1Ld0QzUUViZGVIQjNXSTJsOFYxQkVWUXI0b2o4a2NYTEZkLTluNEp3WFFYVGUwd0FSWEVhTHlTVnI3?oc=5",
+      "date": "Wed, 27 May 2026 20:02:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
@@ -24,11 +88,6 @@
       "title": "県が漁業違反取締対策本部を設置 海保と連携、無許可操業を集中監視",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04M2FDdUZwc1h3d2RlcUZjaUFOVjdVaWRaaTRvT203TEVnbmpDRGY0aEMzSC1SbkRfemh2cXhqVXhIYVgyMUotdTBxcjZGYzBpU1pJb1NwcGZLY2d1QUZHeg?oc=5",
       "date": "Thu, 30 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "友梨さん不明２３年、大阪で検問",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sdGMxeE9TV21DM1BDSzFpYXJXc2R2U3hxeXZUNDhhM1hQdU1HODlhQUdDXzdUNGdkZFg0YUFnaEtOTGpiaEJhZlBjZ0NKTGpfbEt0Y3J1SVB5S002RGw1WjVYZ0Q4Zw?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,24 +97,24 @@
       "date": "Sat, 09 May 2026 07:00:00 GMT"
     },
     {
-      "title": "交通事故件数の推移",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16QzBoVVVtZXdFanBhMnlKWWhJQW1OcHlZTEZWRnB1MlZMbWlycDR4VXdMeUhac1RmMTVKUHRvS3hEbmRaWWdFWG5kLTg1eG01X2w5T1RTd21PYl9lbThuOTlTeGE2U3RvZVE?oc=5",
-      "date": "Wed, 01 Apr 2026 05:14:48 GMT"
-    },
-    {
       "title": "西条市の「桜三里」で交通重体事故【愛媛】（eat愛媛朝日テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XY19GWGJRaHJiNk5WWkpZY2FiSERWTEtlbUZLUnA0ZTNLSUdBdG9JUmU3dmtSX0owNUNsbGFaSkJKV3BXOThycVhoSHlwdTB6dS1NRFpEbzN0NjNoRjMtZUx4T3pjZHc2X3NodWFiVlNieVZNVTZzVWZWQ3ppQmM?oc=5",
       "date": "Sun, 24 May 2026 09:26:07 GMT"
     },
     {
-      "title": "来日客の交通事故を減らそう 愛媛県警、空港で多言語チラシ配り啓発 [愛媛県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3WkZ0YTZOMEZ5Tm9GUDNnazRLeGhuZjV1OS11Q1gwMHZ6Vk5pdUJweHJWcFh4bHpNaXV1UWNLbGNyTHRhRFNDYVFIcnVFQllfNHJ2SndQNHBMWXdLZGFjNFBqVXoxUXM?oc=5",
-      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+      "title": "交通事故件数の推移",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16QzBoVVVtZXdFanBhMnlKWWhJQW1OcHlZTEZWRnB1MlZMbWlycDR4VXdMeUhac1RmMTVKUHRvS3hEbmRaWWdFWG5kLTg1eG01X2w5T1RTd21PYl9lbThuOTlTeGE2U3RvZVE?oc=5",
+      "date": "Wed, 01 Apr 2026 05:14:48 GMT"
     },
     {
       "title": "松山市で2件の死亡事故、愛媛県内で今月に入り6件の死亡事故相次ぎ 県警が特別対策を開始",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEVIbFczVUI3TElDdzFKalZYRXcxOGpIZ2pkQVUyeXRQbDRuWENrclNpY1VtUVFTVmJMaUU1YVN4WTJZcHg5a2FlVm8xeDVwNDRSODdzVG1PVlRFM1FTQWViLWFyQmF6cWJWalo0cmp5MzNQS2tjZDcwT3hyMFFlcnRfd29Ic00?oc=5",
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "しまなみ海道で事故、１人死亡 ６時間半通行止め、愛媛",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aVmhEZHVWZENxQ0tIVXRJUlgzZjgteUVTWm9HOFQ3MmZueDA4MmZiVzlZajB3ZTQ2YlRmekQ4MXphbE51TnlSdXBZdVVyNUFjaWQzWjhaZkw1eGM?oc=5",
+      "date": "Fri, 29 May 2026 18:59:14 GMT"
     }
   ],
   "official_links": [
