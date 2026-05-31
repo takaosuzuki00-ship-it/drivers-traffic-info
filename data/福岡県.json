@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-05-31T12:08:00.984916",
+  "generated_at": "2026-05-31T15:06:43.657593",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.0,
+    "temp_max": 27.1,
+    "temp_min": 18.7,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 7.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 24.8,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
@@ -21,21 +80,21 @@
       "date": "Sat, 15 Jul 2023 07:00:00 GMT"
     },
     {
-      "title": "交通違反1600件取り消し 虚偽の図作成など元警官8件分で起訴 [福岡県]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OV1psN2RydTk0XzJINENzS2RsYWhka2Y4Q3VsZUNLSFE0clpiNXZycG84b2VGODVkN0UzTmJqb0JPWXduVF9CZUFXN0pTWkZjRUNlTFRfdTZnSDd5dGRnYWwycWhkUQ?oc=5",
-      "date": "Tue, 03 Oct 2023 07:00:00 GMT"
-    },
-    {
       "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "国道で車３台絡む事故 男性(27)が死亡 別の男性(53)も重傷 福岡・みやこ町",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DbnJRUnlCSTMxR2trWFdzak1zbWxKcHFGQk1KeWg1cW5udHlwTU1aVmZJOVF4X0J0QVNPcnFSelowNzVKalpneng0SEJCajI2UGlxc1hBLW9uU05ja0tsRC1KOA?oc=5",
-      "date": "Sat, 30 May 2026 11:40:05 GMT"
+      "date": "Sat, 30 May 2026 11:39:49 GMT"
     },
     {
       "title": "福岡・嘉麻市で交通事故による集団救助が発生 馬見付近 約40分後に完了（5月30日午前11時49分ごろ発生）",
@@ -43,14 +102,14 @@
       "date": "Sat, 30 May 2026 03:41:00 GMT"
     },
     {
-      "title": "福岡で車両7台事故、1人死亡 古賀市の九州道",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SR2NnLUFaY1YySmptZnVRVXg2NEgwalIyaVJNR1NVOVp0aUVBQ2pmbU81VVcxQnFobzR3T3RfQlhTLWMwWEdUUzNzTQ?oc=5",
-      "date": "Fri, 29 May 2026 16:34:00 GMT"
-    },
-    {
       "title": "九州道下りで車7台の事故 3人が重軽傷 八幡～古賀で通行止め 福岡（FBS福岡放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CZ3p6Q3ZaQlZUX1FyRTdqREQxSDJMYndVTGVON1NjYXg0aU9PckNCcWZBV2JxUWJPQ2lzT05vNlYwU1ByUHE4em9ZZWluN3BWTmZaUmJvR2pDV3c2MVVYSnNSNzNIcXlac1cyQW5BVnk3MjNuTUpaNm5xM1hVb2s?oc=5",
       "date": "Fri, 29 May 2026 05:50:01 GMT"
+    },
+    {
+      "title": "福岡で車両7台事故、1人死亡 古賀市の九州道",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SR2NnLUFaY1YySmptZnVRVXg2NEgwalIyaVJNR1NVOVp0aUVBQ2pmbU81VVcxQnFobzR3T3RfQlhTLWMwWEdUUzNzTQ?oc=5",
+      "date": "Fri, 29 May 2026 16:34:00 GMT"
     },
     {
       "title": "九州道で車7台の事故 3人搬送 うち1人が心肺停止 福岡（2026年5月29日掲載）｜FBS NEWS NNN",
