@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-01T03:05:32.084215",
+  "generated_at": "2026-06-01T06:05:19.854615",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.6,
+    "temp_max": 31.0,
+    "temp_min": 18.3,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "5月27日（水）【熊本県 交通取締情報 午前・午後・夜間】“シートベルト・携帯電話” ほか",
@@ -11,9 +70,9 @@
       "date": "Tue, 26 May 2026 20:02:00 GMT"
     },
     {
-      "title": "5月31日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xWFBXZ2ZlWG1rZFhDUG1faG9YNkJZTzlzbFRzV25qMjFzT3k2ZUp3VDZyTnk5NFp4cHlGZGpuVV9DXzlCMkhfeGZCVGxpS01qOGlRMktZbjk3dWM5YlI0QWpQY1dTdkY0UUlyUThvONIBdEFVX3lxTE8zVHFxcnRVU1pzZzhOc0wzdHotazVoYnNlcXM5OUpLOXBST2s5NWppdFhlYVN4b1M4VEQ4NEtSSUx6UmJCbG1NeHl2QTh0eDR2dWZqMWdMaUlTcEFOMlJkdWU0QWF2am9JVkI4VlhaQy0wZWlM?oc=5",
-      "date": "Sat, 30 May 2026 20:02:00 GMT"
+      "title": "５月２７日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NOGNSejBaTDVyQ2dvTlNKMW1PYWFGYmlNV2wzNkg4ZUNXVVlRRHdvLXFZWTRHWjVWNS1Lb1c0RTVqUHdDLWpyQjFfeHM2X3lsVm54YUpMWEh4NWVsTWZkLU9hcElsX2t6UmEtV3hfNFhHZ9IBd0FVX3lxTFA0RGpfY3RhaWdGTUNodHJ6cC10RVg3WGkzaEY1RzhPZ1NkdDlXLU9NZXZpQW5WZE5IYTBRLWQ4T29nMzR1bzg0YVJXZTNVZVZnOUtxLTlJd3lQU3Y1TXdRUlpjSkF2SGZzMWhpVG9XOGFZOHA3cXZ3?oc=5",
+      "date": "Tue, 26 May 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１６日",
@@ -21,14 +80,14 @@
       "date": "Thu, 16 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "5月28日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HeVhaMC1wLWJBTVJ0bEpyMVpOMHNwZmh6WUcwY3N0S081ejZGakU1aGhlWmJIaF9kTkliaGtPWkdmd0luekZmdDhUS19kSk9mMm0zNkJWc0Y0eTRERUM5UGV4VDRYN1ljOS1NMW5YY9IBdEFVX3lxTFBNbTByNUpkWHBIQVdzc2piYWdfZGh3NHZLcnZndHVPVmlQNElCU3V0endibXl3WWJZSU1Ld0QzUUViZGVIQjNXSTJsOFYxQkVWUXI0b2o4a2NYTEZkLTluNEp3WFFYVGUwd0FSWEVhTHlTVnI3?oc=5",
+      "date": "Wed, 27 May 2026 20:02:00 GMT"
+    },
+    {
       "title": "イスラエル・パレスチナ：ラファ検問所、再開へ ガザ南端 きょうから、人のみ可",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83RjlTaEpZU3dGTmRvUVBXMjFTbTRIVFhjeE5kd2NfaWFuSHVyZVdObFAtVXFiMUNEaERYWnRZazdLWGhTNk9OT1NUOUQyaTYxMndXOW94Y19sb1lpT2oxcElUU0FkLTh6?oc=5",
       "date": "Sun, 01 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "ラファ検問所、きょう開通見込み 支援物資トラックが待機",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5N0g0dzd2TWFFZkpud25wM1FpcWh5QWxBdWVqY3dMaXNUeDF6dU5od0VGWnp4cW55YUdWcndCRTFiUnRQNHhPRGtUUVZ0bG5ZcWZV?oc=5",
-      "date": "Fri, 20 Oct 2023 07:00:00 GMT"
     }
   ],
   "accident_news": [
