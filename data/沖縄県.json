@@ -1,61 +1,110 @@
 {
-  "generated_at": "2026-05-31T21:08:17.614760",
+  "generated_at": "2026-06-01T00:07:39.501063",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 80,
+    "weather": "にわか雨",
+    "temp_now": 25.4,
+    "temp_max": 25.5,
+    "temp_min": 24.8,
+    "precip_prob_max": 100,
+    "precip_sum": 80.4,
+    "wind_speed": 38.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.4,
+        "weather": "強い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "にわか雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 24.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 25.0,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 24.8,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 25.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 25.2,
+        "weather": "霧雨",
+        "precip_prob": 92
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "5月31日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xWFBXZ2ZlWG1rZFhDUG1faG9YNkJZTzlzbFRzV25qMjFzT3k2ZUp3VDZyTnk5NFp4cHlGZGpuVV9DXzlCMkhfeGZCVGxpS01qOGlRMktZbjk3dWM5YlI0QWpQY1dTdkY0UUlyUThvONIBdEFVX3lxTE8zVHFxcnRVU1pzZzhOc0wzdHotazVoYnNlcXM5OUpLOXBST2s5NWppdFhlYVN4b1M4VEQ4NEtSSUx6UmJCbG1NeHl2QTh0eDR2dWZqMWdMaUlTcEFOMlJkdWU0QWF2am9JVkI4VlhaQy0wZWlM?oc=5",
-      "date": "Sat, 30 May 2026 20:02:00 GMT"
+      "title": "通学路の側でスピード違反１時間に３件 沖縄・宜野湾署が摘発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfU3dtUkFDVlRtZ3BzMlNJa3Rla3NVNzdDcmJTT2JOempzbWhXNjhMRTZCQ3ExNVZGeXdGdE5reFQxMnRtTFFXYkZidlo0TW1RUnl1Q0xDbFlFX3M?oc=5",
+      "date": "Thu, 14 Apr 2022 07:00:00 GMT"
     },
     {
-      "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
-      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+      "title": "自転車「青切符」始まる 対象になる違反行為と反則金額は 自動車に距離確保の目安も",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zdk00dER5cWh4R1RlSEw1cnMwMFNJbHBhRGN0MGdna0cxWURVUjZGTTJIRktIU3E1RUY4RlRpTFkxSHBUdllUVkFTSXZxV0YyNWdqdFktVzVlektMRXc?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "密輸取締強化月間スタート 税関長が那覇空港視察",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TZlg4bE1fM29SVHRWTkREV05Dc25yV29JY0Y2UElJQ2swVHo3RmRIREtyRm9oeVR2RmNYOTEwRlIxel9scDhfRVE0cXlRSDhaNi1wRUJRYkp1dw?oc=5",
-      "date": "Wed, 13 May 2026 20:00:39 GMT"
-    },
-    {
-      "title": "5月29日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zRlVFNXVub296cC0telc2S1VnSHJVM0VsenZraElIM3FaVENLWWhZOTI5SWZDVjlKc0N5RGRDeFAwR1FJWGFkUHZWWlJvUW5FR3QyenJOS0ZKb01SU2NmS2xhN052QVdFY0hHN0ItSdIBdEFVX3lxTE9oX290cmpuX2xhX01sdm5lX2RXNEdhck5VdU9tbjVFUHBmOEFXTzVWUjVjM3BNUkprekNacWloTWtUMnhYalpnV013TXZIUUVLQnFYcVNUSEp3U0N4TUQzdFlKMWtYUWQ4bGN0QmxsQUE4dGpZ?oc=5",
-      "date": "Thu, 28 May 2026 20:10:45 GMT"
-    },
-    {
-      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
-      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+      "title": "宜野湾市の通学路で朝の取り締まり スピード違反で3人摘発",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbUoyYVdEXzAtRzNjNG9lam1wMHJwdDR4STZrN2JrN1dpN3ZjeEJDVGRJek51Zk01alR6ZFVMX2pTdFR4MjFuT1o4ZkVpSV9rdlI5aXJyUmJsQQ?oc=5",
+      "date": "Tue, 12 Apr 2022 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "17歳と76歳の2人死亡 宜野湾市と沖縄市で事故相次ぐ",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56MkZkQWJKYWxCQVUtNEI5V3Jqalc4OUh1Ry01UGowLVhvb1RfYUZTbmMzb0UzLXU4TDhEUlk4bGJrNi1Ob2hLaUNmc0xhbl95RFk5MVlaamY1WmRhOVE?oc=5",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "警察官が歩行者はねる、男性が死亡 沖縄・那覇市宇栄原の県道",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01RDl1dUp0RTZmbmplNEY0SGE3SllwdEhfZm5vMzhkNHlZRDNGMUVRdnpvRld6eWFmV0NyUW1DLW9odWpCTXd1SllnTllYZkd4anItNFVMRS1raTNlOU5wag?oc=5",
-      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "沖縄タイムスがおわび、辺野古事故めぐる読者投稿で「不適切な表現」",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11bE1TR2NrY0ZvZjRHeDFWQ2F6SHBkT29kaFpsSi1aZUZQWnRLMUFoMGFJdWxnS3lEbVhZNDJxUXhTLUlTdTgtcTBfZG5OY3ExWEp4SmNETFNJcWhHOEpLeFo4RWlfN1U?oc=5",
-      "date": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通事故でオートバイの男性死亡 交差点でタクシーと衝突（沖縄テレビOTV）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EQnVQYk8zUngyQm5YZEJrN1NvQnVQTjc5TEZBSTN0WVh1OEswZmpfQW9LbEJVdzRwZ05QQ0pQZGRyZVRDcG4wNEcwSEV2aVROTllWbW0xYkxBdE9IQUQzekRKM3BlU2UtLXFxX2JqbHRfYXlhUGJWai10RURsLVU?oc=5",
-      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "辺野古沖転覆死亡事故で玉城知事「事故と平和教育は区別を」",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEemdCLWFHMFVETWFRLXNqay0yaDVaR0lQTE13X1BXYjZSZGUwMzNjZm5VT3pQSUsxQUphMWlZNFRFOEs2blVOOFZfM2FVeE5vc2czdWVudE9INVBsWUZacTB4eGRaUkE?oc=5",
       "date": "Fri, 29 May 2026 09:46:00 GMT"
+    },
+    {
+      "title": "辺野古沖転覆死亡事故で玉城知事「事故と平和教育は区別を」（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05aWtfNzJpVmVfd3JmSDNNOVRibklSU294M2FFcUJkbEhpdGpMV2d3RFVtOVdobjJxRHpaMnNjSUxTOUFiYTVrLWNqaEZNWF9aTFJzR25rbEVPNzhVMUd3c0dIMS1CZ3dpRk9sZ3d6N0dPMEJmUmtGc2FCV0tvbDg?oc=5",
+      "date": "Fri, 29 May 2026 10:06:18 GMT"
+    },
+    {
+      "title": "辺野古転覆事故、死亡した船長を国が刑事告発へ 事業登録せず運航か",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByWFVxOVd3RDlvQkxxLXRHY1JDS2E0QzlOaTdGV2ZSb3RQNVpEOWJzZmh6dTBid282WHk0cGtMRkVCb1R1WDRQSHF3OWw3WXFCMW5BUGwxYnVDX1lDN25pZVdvZ3NxOGs?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "沖縄・豊見城市の死亡事故 中国籍の大学生を過失致死疑いで逮捕 観光で来県",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xWXB0WUFIMGFYMHhDbi1xbzNKQnN2SnFrWDZ1Q0dnMnlnTzBsVWNVWWpoOTJPS1ltLWl6N1VqaTJqWHJOV0VxODJsaEpIdS12OXVzQjdSNERYQlQzdVE?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】沖縄・石垣市 住宅で胸から血を流した男性を発見し死亡確認 殺人事件で捜査",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHejVPU0FqWHVGN1I4aXFXcm9GcmRpVFhNQXVZeTJMdG1KZWlrRFdfc254RWtpUi13bURRSkJfYjBUUktOcFVKcnZneUp2ZFk?oc=5",
+      "date": "Mon, 25 May 2026 06:52:13 GMT"
     }
   ],
   "official_links": [

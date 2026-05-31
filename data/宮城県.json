@@ -1,100 +1,79 @@
 {
-  "generated_at": "2026-05-31T21:03:44.321495",
+  "generated_at": "2026-06-01T00:04:07.850949",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 18.3,
-    "temp_max": 23.0,
-    "temp_min": 14.7,
-    "precip_prob_max": 25,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 16.0,
+    "temp_max": 26.9,
+    "temp_min": 14.4,
+    "precip_prob_max": 0,
     "precip_sum": 0,
     "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.6,
-        "weather": "晴れ",
+        "temp": 16.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 16.5,
-        "weather": "曇り",
+        "temp": 15.2,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
         "temp": 15.7,
-        "weather": "晴れ時々曇",
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.7,
-        "weather": "晴れ",
+        "temp": 23.5,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.7,
-        "weather": "晴れ",
-        "precip_prob": 10
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 22.3,
+        "temp": 24.4,
         "weather": "晴れ",
-        "precip_prob": 25
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 20.5,
-        "weather": "快晴",
-        "precip_prob": 6
+        "temp": 20.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.3,
-        "weather": "快晴",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
-  "enforcement_news": [
-    {
-      "title": "5月29日（金）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOdW56aktYNFRiTGRXOWtXWXh2THd4eXJaLVBhM2RRWDA4NWtJMXBIazBMa2IwMEhhVnVMNi10TG84enhuWU41Y0M5Tm1QemFoOGR5UExVMkFuWTgzQ3UxdnVWSGs1bGVvcXFIQ1BEONIBdEFVX3lxTE9rUUFxT3JhTGdJc3NhS3pWUE1pZ19nTHNnLUYtTnlKQ2hHODI2SERlM1IwbmZNYnVmZzUxRlNfRFV0VVpRT1QzYUVUS2xOYmtVcGF0R1RtenQ0VjU3UFVRaEgtYmtkZDhUdnVTQmFWLW1JOVhS?oc=5",
-      "date": "Thu, 28 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
-      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "市長選挙を前に岩沼警察署に取締本部を設置 公職選挙法に基づき厳正に対処する方針 宮城",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZbUI0Z3VLOU9RZ3pBUTBlN2tVRVBsUDlkM18waThYbHZmbDdFNHFRTHRGVlNRa2gzd3hpN2Y5NGpzOS15XzU5TkJqeVUzYVRHTXVGT1RnOA?oc=5",
-      "date": "Thu, 30 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
-      "date": "Fri, 22 May 2026 07:14:39 GMT"
-    },
-    {
-      "title": "高校生３人の命を奪った多賀城市の飲酒運転事故から２１年　現場付近で検問実施〈宮城〉",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OUxwemstdmwyVV95TWNYZzdkWTRwZkhkam5yR0VhckRPQzdrRFJ3U1owX2tvY0JMamo2OG1SdnF5UklnLUp2SVR4MkxsdW1HTW1zclFrOGkxd3d6bGtDeFRjVWRSOWFYT0Qxdlpid9IBdEFVX3lxTFBvdTl2SVlIWVk0NmZTR2lJVmwybHZTaUtudkp5cUNfUUtYZTZsc3REOWNNaHVXVXRtdEZHWE5KTi1sQTAxTXJvVV9TRkhOd2p2ejFuWUVGbmNlOFE5RHFkc2RKTmhaUzFzalRweHVDbjhVeHFH?oc=5",
-      "date": "Fri, 22 May 2026 02:35:00 GMT"
-    }
-  ],
+  "enforcement_news": [],
   "accident_news": [
     {
-      "title": "乗用車とワンボックスカーが衝突 乗用車の女性が死亡 仙台・宮城野区",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LdWtzUWVSb1hYeFFmYi1KOEtKTk9ZZ1YtRlMxbDNTcXQzcVpUbWJmZ2lGamp5aWM2QUJDeFVLOHA2TEV1YlFKZDlQQ0FMM2s?oc=5",
-      "date": "Fri, 29 May 2026 02:45:00 GMT"
+      "title": "【続報】仙台市の国道死亡事故で３１歳の男を逮捕 信号無視か",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbGFaeGhvUkk4M183YU5RUlc5a3N5d3I4XzZkY1VCay1ZMkVUR2ZJaXFJc3IwdkdDSG8tdHJCOUpUWGRDMWU0WUFFSzNyMG8?oc=5",
+      "date": "Sat, 30 May 2026 02:00:00 GMT"
+    },
+    {
+      "title": "一方通行の市道で乗用車が電柱に衝突 助手席の女性死亡 仙台",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13b0ZNVmJ0dExqZWJ2bDNFUk0xd0NzNmJ0UzdKenNsYU5VamxqblYzY3BwNVZqRU1TNjk0ektGdk1PRGo2cFNicmFnOVFEeFhZWW0yckRsRXdLeUJTUllKNHVyaFQwVzA?oc=5",
+      "date": "Fri, 29 May 2026 14:27:00 GMT"
     },
     {
       "title": "「ワンボックスカーが信号無視か」23歳女性死亡の交通事故 ワンボックスカーの31歳男逮捕 仙台（tbc東北放送）",
@@ -102,19 +81,14 @@
       "date": "Fri, 29 May 2026 17:02:14 GMT"
     },
     {
-      "title": "犯罪被害者や遺族の支援をスムーズに 関係機関の連携を強化 池袋暴走事故の遺族・松永さんが講演〈宮城〉",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGS3luWTc2NE9ablROUTRZdWtzelVjVTJ0blZnempsRWt6dnVZVXRYeGZKeW9MX2hyeHQ0S2tfRGZCOHpfbkVsYUZEY01mdw?oc=5",
-      "date": "Fri, 29 May 2026 10:20:00 GMT"
+      "title": "乗用車とワンボックスカーが衝突 乗用車の女性が死亡 仙台・宮城野区",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LdWtzUWVSb1hYeFFmYi1KOEtKTk9ZZ1YtRlMxbDNTcXQzcVpUbWJmZ2lGamp5aWM2QUJDeFVLOHA2TEV1YlFKZDlQQ0FMM2s?oc=5",
+      "date": "Fri, 29 May 2026 02:45:00 GMT"
     },
     {
-      "title": "交通量増加のゴールデンウィーク 白バイで交通事故防止の呼びかけ [宮城県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tRnZCdjVjeFFxVEJJTERfRXpIamdIR1lEMHQ3OGFWeTE4OXFiTE1zYmNLejJYS1dIblFqdk0zX3VRSFNoZlBaU1F5NHFKNEx6VWIzR0JSRVo3d1kyelg0YmdQMlUySW8?oc=5",
-      "date": "Sun, 03 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【続報】仙台市の国道死亡事故で３１歳の男を逮捕 信号無視か",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbGFaeGhvUkk4M183YU5RUlc5a3N5d3I4XzZkY1VCay1ZMkVUR2ZJaXFJc3IwdkdDSG8tdHJCOUpUWGRDMWU0WUFFSzNyMG8?oc=5",
-      "date": "Sat, 30 May 2026 02:00:00 GMT"
+      "title": "仙台・中野の衝突事故 意識不明の女性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vMVpZRnp1ZlZGNXJ1VjVoaUlqWGQ5d2l1RUF4M0dPZVFldzZUMzZaSVg0TGtQbDdMaHRYUWJVTl9iTFpsUW1rMVY5WEtGelN3ek5hWW1jaWhCLWVzb3ZNVw?oc=5",
+      "date": "Fri, 29 May 2026 03:15:29 GMT"
     }
   ],
   "official_links": [

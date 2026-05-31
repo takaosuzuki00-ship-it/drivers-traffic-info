@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-05-31T21:07:39.167962",
+  "generated_at": "2026-06-01T00:07:07.016839",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 22.2,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.8,
     "temp_max": 28.3,
-    "temp_min": 19.9,
-    "precip_prob_max": 2,
-    "precip_sum": 0,
-    "wind_speed": 2.6,
+    "temp_min": 20.5,
+    "precip_prob_max": 84,
+    "precip_sum": 2.2,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.4,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.9,
-        "weather": "晴れ時々曇",
+        "temp": 20.8,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.4,
+        "temp": 20.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 25.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 24.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 28.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 26.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 35
       },
       {
         "time": "15:00",
-        "temp": 28.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 63
       },
       {
         "time": "18:00",
-        "temp": 25.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 23.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
       },
       {
         "time": "21:00",
-        "temp": 22.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 75
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月30日（土）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tUmwxbUpPblRhY0NlQzZKQ3lMSURTOG1PMkdBU201b2NiRTRXSnZOQTB6WTlPVms4Q0pVOVNQaWt1R3h0b1VmaWVyeEtjOEZ6dHV5VmRCTTJ4MEVNazZtblF4Zy1WTm5acXNxWXExY9IBdEFVX3lxTFBaQ2JfUkxycmNoSUdKbHpYamIzWjBXcFEybE0tRV9vRmdtdXg5cDA2aW95YkhXZTdoUEttRElBZ2c4bVB6dHRVWjljTU0yajBJZm9kQklJWnJQYkRNTWltUE1uVURKVzJEQmVFYkVwbzMtN1cz?oc=5",
+      "date": "Fri, 29 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "県知事選挙を前に「選挙違反の取締本部」を県警本部に設置 22日に告示 2月8日に投開票《長崎》",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMHVEX1lFR25maE80SGpELVJjN0xiUW9CN195TTRnVTc3eTJjTzFCNE5iQzd6WUZkYkFVdXROZDRUNzFXQXVwZ3hUcWJ3a0J2VmFDZFgxRGVFeHlNYi1jSkNlMksxNXVKalNkOHE5bUNiZFlOQ0dKSmR3VGNGQTg?oc=5",
+      "date": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
     {
       "title": "長崎県警、通学路一斉取り締まり 速度違反など64件摘発",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2VGdMN2wybWdOYjc2YjZ5eDZ5VnRyNXhKSjJha1U5VUNReHlPdW1SUF83U2tUWHZvdlZZZGkwZm9OQ1ZUaHlIRFQzNmJoUUQwRXpOag?oc=5",
@@ -97,9 +112,9 @@
       "date": "Sat, 30 May 2026 13:52:00 GMT"
     },
     {
-      "title": "車が横転する事故 女性１人救助 長崎市小ヶ倉2丁目 | 長崎のニュース | 天気 | NBC長崎放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Uc1JESG9BTDlfLWJRRk1QNnB4Vm5hYnlwSEtpcldteFRNS0s2NXNVdjc4RnBTX0FSak15WmJpazJFLW9rc3QtY1lxaGpuc3hCTUpTRHlRTFFWUQ?oc=5",
-      "date": "Wed, 27 May 2026 03:21:00 GMT"
+      "title": "15歳少年 死亡 バイク無免許運転で軽トラックと衝突【長崎市】（NBC長崎放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NG1hcHNLSVpMb2locVZHWGVJNVZoNTRuZnNpTHZTX244bHpJM1BUZmJod3llRldYYUVkRzJpYWxqSlNKUThVNVNWWHk2UDlwdHY5MTR6Ym5OcjlDcmJURzhGMHZjYVJhVmNTS1MwTVAzRDZlcFN5cDkxYk1RN0k?oc=5",
+      "date": "Sun, 31 May 2026 01:20:26 GMT"
     }
   ],
   "official_links": [
