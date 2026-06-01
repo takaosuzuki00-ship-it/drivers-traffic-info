@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-06-02T03:07:04.530013",
+  "generated_at": "2026-06-02T06:06:58.989942",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 25.5,
-    "temp_max": 27.2,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.7,
+    "temp_max": 27.4,
     "temp_min": 25.0,
     "precip_prob_max": 100,
-    "precip_sum": 6.7,
-    "wind_speed": 53.7,
+    "precip_sum": 3.7,
+    "wind_speed": 48.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.4,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "03:00",
-        "temp": 25.5,
+        "temp": 25.6,
         "weather": "霧雨",
         "precip_prob": 98
       },
       {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
         "time": "06:00",
-        "temp": 25.5,
+        "temp": 25.7,
         "weather": "弱い霧雨",
         "precip_prob": 80
       },
       {
         "time": "09:00",
-        "temp": 26.6,
-        "weather": "快晴",
+        "temp": 26.5,
+        "weather": "弱い霧雨",
         "precip_prob": 24
       },
       {
         "time": "12:00",
-        "temp": 27.1,
+        "temp": 27.4,
         "weather": "弱い霧雨",
         "precip_prob": 35
       },
       {
         "time": "15:00",
-        "temp": 27.1,
-        "weather": "弱い霧雨",
+        "temp": 27.4,
+        "weather": "快晴",
         "precip_prob": 39
       },
       {
         "time": "18:00",
-        "temp": 25.9,
-        "weather": "弱い霧雨",
+        "temp": 26.2,
+        "weather": "快晴",
         "precip_prob": 29
       },
       {
         "time": "21:00",
-        "temp": 25.1,
-        "weather": "快晴",
+        "temp": 25.2,
+        "weather": "晴れ",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMTNxQ3FCbVZWal8zbXNNVGU4dFdGMzdmaEhJbW1RcFc0X0JnYS0xZkFLbTdqclJDNE0yeGFxT0drYkI3c1JRVWdqejkzc09TZjBxUWdnM2xqcklDQ0tMbndieThlNTJEem9WVlNvMNIBdEFVX3lxTFBHV1dNX2dSZFJaTnZiLURRdDJWZGJtUXV4SGpfT3J5WXZFTG51ZExKXzB5bTRXc3NkSFV1cWJjenZTaVoxcmpqU2JRTjBfcHduTVczZHlIbTVWbzJ1cjNRcGwyVkc5LUlxSnRYNENIQU9IRXhM?oc=5",
-      "date": "Sun, 31 May 2026 20:02:00 GMT"
+      "title": "6月2日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMkc1SGpkSENxVHNsd1NkbkMwVUwxdXBHcVZuNFBEaTJiV0lOLUNsb2hsSzh5ZU1wYkdDWmdwOUtKc3ZKRktIYXN0QXBZeTFLUW9wVUhhXzRManZ6WUQtUEF0ZUNwLV9VSE52Wm04ONIBdEFVX3lxTE1yckQ1eHN4ZDZTc0RUTm04TkR3d05vSGdTcDNmM0pxc2lWb1hRenktOHlzZ1BmNTFnd3B1VnozTVNKNk9BSTY5M0Q0ZjZVdW14QnFra0JyWVpWVVlXVVJ0YWhDTXJOZjN2X2JVRUZBSzJVd3pl?oc=5",
+      "date": "Mon, 01 Jun 2026 20:09:21 GMT"
     },
     {
       "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
       "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMTNxQ3FCbVZWal8zbXNNVGU4dFdGMzdmaEhJbW1RcFc0X0JnYS0xZkFLbTdqclJDNE0yeGFxT0drYkI3c1JRVWdqejkzc09TZjBxUWdnM2xqcklDQ0tMbndieThlNTJEem9WVlNvMNIBdEFVX3lxTFBHV1dNX2dSZFJaTnZiLURRdDJWZGJtUXV4SGpfT3J5WXZFTG51ZExKXzB5bTRXc3NkSFV1cWJjenZTaVoxcmpqU2JRTjBfcHduTVczZHlIbTVWbzJ1cjNRcGwyVkc5LUlxSnRYNENIQU9IRXhM?oc=5",
+      "date": "Sun, 31 May 2026 20:02:00 GMT"
     },
     {
       "title": "すでに選挙違反の情報、誹謗中傷も散見 南城市議選の取締本部設置 沖縄県警",
@@ -82,11 +87,6 @@
     {
       "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
-      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転防止へ一斉検問 沖縄県警、未明から",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSnFBYm5TQlJVdFp1ekhCcmF5bm94Z0pOQjZ6T3Z0Z05IbUNQNFlNQXJqcnc0M1pWc2M1bXktN3lmN29FbXhIVW5KMXNJZXVMRnhxVUNOWFdpWVU?oc=5",
       "date": "Mon, 22 Dec 2025 08:00:00 GMT"
     }
   ],
@@ -102,19 +102,19 @@
       "date": "Sat, 21 Feb 2026 08:00:00 GMT"
     },
     {
+      "title": "沖縄タイムスがおわび、辺野古事故めぐる読者投稿で「不適切な表現」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11bE1TR2NrY0ZvZjRHeDFWQ2F6SHBkT29kaFpsSi1aZUZQWnRLMUFoMGFJdWxnS3lEbVhZNDJxUXhTLUlTdTgtcTBfZG5OY3ExWEp4SmNETFNJcWhHOEpLeFo4RWlfN1U?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "沖縄 米兵の交通事故で焼き打ち騒動",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WMGtQVlEzcjh5VkpkN0ExWEJuNWgyQ1Y5VFpWc0l1V2VhYmZ4aUVKZGFzbXpDdWpTODZvcHVyZEV6bXdRaHZTSUhaX29IZzJ4WmdMejgzR1lxS2d1SzFNdVZiUzhPZ1dIQ01hQQ?oc=5",
       "date": "Sat, 20 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "沖縄自動車道で事故 南向け喜舎場付近で3キロ渋滞（午前10時半現在）",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41LUdJODUzYjhIdmEwNU9EdXZYYjJYSGZudXhMclJqNDMxT29pWktWNU84ZG5IZ0xMb1kxeUV2Z1hQQlJmOUM1Y1hVRjFYdVY1RmlHMi1sUzRURlVpd2c?oc=5",
-      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "辺野古沖転覆死亡事故で玉城知事「事故と平和教育は区別を」",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UN3dVcF9VMW4xTU5oNnBXallEZXc4VmFxOHFhSVMxcGZqUFJUUWh0cW10eU81MmVYTWF6cUFTZjItal9HcTVfc1pabVVnUVdjVmlLZUtHeUd6UQ?oc=5",
-      "date": "Fri, 29 May 2026 09:46:00 GMT"
+      "title": "衝突後100メートル引きずりか 名古屋バス事故 死亡男性",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BOG11VWtTMmJRNklES3EyVlV4YnphSE0tMmdLbnRQU3Y4MGpoYnZINEhZbHdjTDRES3BfU20tQkZ4cVZtNlQ5SF9Ba0UtS01fNndEdmdVSXZMVjl3NVE?oc=5",
+      "date": "Mon, 01 Jun 2026 18:57:00 GMT"
     }
   ],
   "official_links": [
