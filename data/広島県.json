@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-01T09:05:35.562828",
+  "generated_at": "2026-06-01T12:06:08.931701",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 23.9,
-    "temp_max": 27.8,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 26.9,
+    "temp_max": 27.5,
     "temp_min": 19.4,
-    "precip_prob_max": 65,
-    "precip_sum": 0.8,
-    "wind_speed": 3.6,
+    "precip_prob_max": 74,
+    "precip_sum": 11.5,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.2,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
@@ -27,19 +27,19 @@
       },
       {
         "time": "06:00",
-        "temp": 19.7,
+        "temp": 19.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.9,
+        "temp": 23.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.0,
+        "temp": 26.9,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -52,27 +52,22 @@
       {
         "time": "18:00",
         "temp": 23.9,
-        "weather": "曇り",
-        "precip_prob": 22
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
       },
       {
         "time": "21:00",
-        "temp": 21.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 49
+        "temp": 21.7,
+        "weather": "強い霧雨",
+        "precip_prob": 69
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "５月２９日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tZDBDSXBZUHZ4UVBCRE93QThuQWFpdE1JM1VrVlZaSXdiemVjeGFmU2ZQeDF6aGR5M0xKeHYyZDZub19RWWF5NGlQamI2ZkViOUw1d1ZVcw?oc=5",
-      "date": "Thu, 28 May 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMTNxQ3FCbVZWal8zbXNNVGU4dFdGMzdmaEhJbW1RcFc0X0JnYS0xZkFLbTdqclJDNE0yeGFxT0drYkI3c1JRVWdqejkzc09TZjBxUWdnM2xqcklDQ0tMbndieThlNTJEem9WVlNvMNIBdEFVX3lxTFBHV1dNX2dSZFJaTnZiLURRdDJWZGJtUXV4SGpfT3J5WXZFTG51ZExKXzB5bTRXc3NkSFV1cWJjenZTaVoxcmpqU2JRTjBfcHduTVczZHlIbTVWbzJ1cjNRcGwyVkc5LUlxSnRYNENIQU9IRXhM?oc=5",
-      "date": "Sun, 31 May 2026 20:02:00 GMT"
+      "title": "6月1日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdjJLUF9RUUJ4U2dlbHpjUlZVbEN1bXFFNkYtQ0NYSXQ4WWV4aWxhOGVzaGdYV3UyZHZ0a052dWh1SW80Rkt0WERIX1BlVFd0cTdKVmtJbw?oc=5",
+      "date": "Sun, 31 May 2026 20:00:00 GMT"
     },
     {
       "title": "令和８年６月中の速度違反取締計画について - 府中警察署",
@@ -80,8 +75,13 @@
       "date": "Thu, 09 Apr 2026 01:57:05 GMT"
     },
     {
-      "title": "5月29日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BZE50Q3lSUE1tT0J0RXNXc1c0R014b01wYy1fVVFIM1A3dkFMSXZ3YXhEREJQY1JVN1pRa0l2ZU5YZURjTDBMdV81bFZKcldYMHRKaEZ0TQ?oc=5",
+      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMTNxQ3FCbVZWal8zbXNNVGU4dFdGMzdmaEhJbW1RcFc0X0JnYS0xZkFLbTdqclJDNE0yeGFxT0drYkI3c1JRVWdqejkzc09TZjBxUWdnM2xqcklDQ0tMbndieThlNTJEem9WVlNvMNIBdEFVX3lxTFBHV1dNX2dSZFJaTnZiLURRdDJWZGJtUXV4SGpfT3J5WXZFTG51ZExKXzB5bTRXc3NkSFV1cWJjenZTaVoxcmpqU2JRTjBfcHduTVczZHlIbTVWbzJ1cjNRcGwyVkc5LUlxSnRYNENIQU9IRXhM?oc=5",
+      "date": "Sun, 31 May 2026 20:02:00 GMT"
+    },
+    {
+      "title": "５月２９日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tZDBDSXBZUHZ4UVBCRE93QThuQWFpdE1JM1VrVlZaSXdiemVjeGFmU2ZQeDF6aGR5M0xKeHYyZDZub19RWWF5NGlQamI2ZkViOUw1d1ZVcw?oc=5",
       "date": "Thu, 28 May 2026 20:00:00 GMT"
     },
     {
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "国道2号東広島バイパスで事故、海田西ＩＣ―中野東IC間の上下線が一時通行止め",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZENDU1hjRWZROGZsM3gwNmdzMzF4ZVV4YS1WYTMtcElXTW5yUVZMZlZZVGxPbHJtV250SEROb0JUQkVsS1R4VmF0cUV0QWVqNUlEcHhXaDJTdw?oc=5",
-      "date": "Sun, 31 May 2026 09:26:27 GMT"
-    },
-    {
       "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
       "date": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国道2号東広島バイパスで事故、海田西ＩＣ―中野東IC間の上下線が一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZENDU1hjRWZROGZsM3gwNmdzMzF4ZVV4YS1WYTMtcElXTW5yUVZMZlZZVGxPbHJtV250SEROb0JUQkVsS1R4VmF0cUV0QWVqNUlEcHhXaDJTdw?oc=5",
+      "date": "Sun, 31 May 2026 09:26:27 GMT"
     },
     {
       "title": "信号機ない横断歩道で女性が普通車にはねられ死亡 2026年の広島県内交通事故死亡者は21人に",
@@ -107,9 +107,9 @@
       "date": "Sun, 31 May 2026 07:23:00 GMT"
     },
     {
-      "title": "バイク運転の男子高校生が死亡 縁石に衝突 広島・三次市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVG5YZmVlbU5hV1Z1RUpUOGthTmVKNXZLQnNyZ3V4bk5BNmxHRmNVc0w0ajJHaHZLY0R3N0E5UHJVbzlDdTgzaGc0M0VkWkpYZjlySk9pOEp3WGI1eEdHRTNlNldDVzJ4dm1BTndvOWRlcDM5aXUzVm9RS3Y2Q2M?oc=5",
-      "date": "Sun, 31 May 2026 00:05:00 GMT"
+      "title": "高齢女性が普通乗用車にはねられ死亡 広島・尾道市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVVBzcVdma1k5eERpYk1kWXA1aFhHT3o4azE4UzBGa3dDSEwzdExmQ1FDTWRlUzR4WjBvYXB5T09EaFUwS2NwV2ZOMGp2X2NmcE91LVQ1N1FiLVZWQ25mWktmb1pPNHhWZzgySHJOZlZFcDBDY0xPLWR4SE1jdDQ?oc=5",
+      "date": "Sun, 31 May 2026 11:18:01 GMT"
     },
     {
       "title": "【JAF広島】交通事故防止と安全な交通社会の実現を目指して 小中高生向け交通安全教室を開催",
