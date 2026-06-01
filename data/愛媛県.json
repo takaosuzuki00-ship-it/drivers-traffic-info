@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-01T06:06:03.458890",
+  "generated_at": "2026-06-01T09:05:51.296985",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 18.8,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 24.5,
     "temp_max": 27.7,
-    "temp_min": 18.2,
+    "temp_min": 18.3,
     "precip_prob_max": 53,
-    "precip_sum": 1.9,
-    "wind_speed": 4.8,
+    "precip_sum": 4.6,
+    "wind_speed": 4.5,
     "hourly": [
       {
         "time": "00:00",
@@ -21,20 +21,20 @@
       },
       {
         "time": "03:00",
-        "temp": 19.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
         "temp": 18.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "09:00",
-        "temp": 24.2,
-        "weather": "晴れ時々曇",
+        "temp": 24.5,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "time": "15:00",
-        "temp": 24.0,
+        "temp": 23.7,
         "weather": "曇り",
         "precip_prob": 20
       },
@@ -57,13 +57,18 @@
       },
       {
         "time": "21:00",
-        "temp": 22.4,
-        "weather": "弱い霧雨",
+        "temp": 22.5,
+        "weather": "霧雨",
         "precip_prob": 47
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月1日（月）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XWGNMTVZQZEdPN1ViN0g1ZjlUclRWbDAwLW9LUkdVM3hBLWNGc1B0NUI5Y0hOLWNLTF9hdHBUc0p0M3ZfYTZmRzRMVkZSV1J3aFNZV3FCWUFOUXIxSDVmc3JJQnJGRDcyNWcxeGxiRdIBdEFVX3lxTE9LX1kwLU9JMHN4TFM5ekZpOVJ5NDA2eEwxWlc0WTlEcjYyR2t4MGw4ZUUzLTNxczgzYmtOOWttVENObjgtZVVoUmlLOTNMR0V3SXZEZHlyOUJqSTZSRmxhVDNYczRPWHktaHBtYk5DSVNsV0pw?oc=5",
+      "date": "Sun, 31 May 2026 20:08:08 GMT"
+    },
     {
       "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QM3dBQ2pBYkh1VTFwQTlWVmZwVzR2QXo3MWlCOEt1V3RKcHhoa1dPZHRpZGx0elcxTVpKQ0tPRzFlclN5aE1ibXpHdw?oc=5",
@@ -80,11 +85,6 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "5月28日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HeVhaMC1wLWJBTVJ0bEpyMVpOMHNwZmh6WUcwY3N0S081ejZGakU1aGhlWmJIaF9kTkliaGtPWkdmd0luekZmdDhUS19kSk9mMm0zNkJWc0Y0eTRERUM5UGV4VDRYN1ljOS1NMW5YY9IBdEFVX3lxTFBNbTByNUpkWHBIQVdzc2piYWdfZGh3NHZLcnZndHVPVmlQNElCU3V0endibXl3WWJZSU1Ld0QzUUViZGVIQjNXSTJsOFYxQkVWUXI0b2o4a2NYTEZkLTluNEp3WFFYVGUwd0FSWEVhTHlTVnI3?oc=5",
-      "date": "Wed, 27 May 2026 20:02:00 GMT"
-    },
-    {
       "title": "友梨さん不明２３年、大阪で検問",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sdGMxeE9TV21DM1BDSzFpYXJXc2R2U3hxeXZUNDhhM1hQdU1HODlhQUdDXzdUNGdkZFg0YUFnaEtOTGpiaEJhZlBjZ0NKTGpfbEt0Y3J1SVB5S002RGw1WjVYZ0Q4Zw?oc=5",
       "date": "Tue, 19 May 2026 07:00:00 GMT"
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "【画像追加】停車中の軽乗用車に自転車が追突 19歳男子大学生が死亡 愛媛",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oZGlQc2RBOXJLNzlUU2ZyakVBSGM5TkZvRDlCSE14dTFGRnlpWmh3THdLWDVsd1FBMWhiSDVNSnlQQ2xXZVdhbHpEYnBtVzFvbFNvR1g1WQ?oc=5",
-      "date": "Sat, 09 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "交通事故件数の推移",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16QzBoVVVtZXdFanBhMnlKWWhJQW1OcHlZTEZWRnB1MlZMbWlycDR4VXdMeUhac1RmMTVKUHRvS3hEbmRaWWdFWG5kLTg1eG01X2w5T1RTd21PYl9lbThuOTlTeGE2U3RvZVE?oc=5",
       "date": "Wed, 01 Apr 2026 05:14:48 GMT"
+    },
+    {
+      "title": "【画像追加】停車中の軽乗用車に自転車が追突 19歳男子大学生が死亡 愛媛",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tM2gyOUd0aE1oSVNxUWx5X3pNLWQyT1VWNXhJaVZnMnV5QU8xM1JsYk93dmI4ZEFiX1h5OG5uSk9VR3Q3aVRmLVNqRXA2Skg0V0t6SHZwYzJybXZjVDVoS0Q0cV9HdUU?oc=5",
+      "date": "Sat, 09 May 2026 07:00:00 GMT"
     },
     {
       "title": "来日客の交通事故を減らそう 愛媛県警、空港で多言語チラシ配り啓発 [愛媛県]",
