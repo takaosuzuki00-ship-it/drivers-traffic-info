@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-02T21:04:46.523487",
+  "generated_at": "2026-06-03T00:04:40.044057",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 19.2,
-    "temp_max": 22.4,
-    "temp_min": 18.0,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 18.1,
+    "temp_max": 23.0,
+    "temp_min": 18.1,
     "precip_prob_max": 100,
-    "precip_sum": 3.3,
-    "wind_speed": 11.2,
+    "precip_sum": 11.1,
+    "wind_speed": 15.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.5,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 18.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 18.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 18.0,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 18.8,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 21.0,
+        "temp": 20.9,
         "weather": "曇り",
-        "precip_prob": 4
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 20.8,
+        "temp": 23.0,
         "weather": "曇り",
-        "precip_prob": 53
+        "precip_prob": 80
       },
       {
         "time": "15:00",
-        "temp": 21.0,
-        "weather": "曇り",
-        "precip_prob": 92
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 20.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 94
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "21:00",
-        "temp": 19.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 20.0,
+        "weather": "曇り",
+        "precip_prob": 2
       }
     ]
   },

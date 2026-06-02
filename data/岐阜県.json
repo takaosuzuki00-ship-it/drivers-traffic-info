@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-02T21:05:01.368108",
+  "generated_at": "2026-06-03T00:04:55.463509",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 18.5,
-    "temp_max": 20.1,
-    "temp_min": 18.2,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 18.0,
+    "temp_max": 27.5,
+    "temp_min": 18.0,
     "precip_prob_max": 100,
-    "precip_sum": 28.6,
-    "wind_speed": 3.4,
+    "precip_sum": 75.6,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.0,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 18.0,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 18.6,
+        "temp": 19.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 20.1,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 24.4,
+        "weather": "曇り",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 27.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 24.3,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
-        "temp": 18.7,
-        "weather": "曇り",
-        "precip_prob": 45
-      },
-      {
-        "time": "09:00",
-        "temp": 18.9,
-        "weather": "雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "12:00",
-        "temp": 20.1,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 19.7,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "18:00",
-        "temp": 19.1,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
         "time": "21:00",
-        "temp": 18.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "「総会屋」ら警戒 岐阜県警、株主総会特別警戒取締本部を設置：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55RWZMVGhOVUVGNHloLVZJZ212MHotNERwWXZrZ0ZuYWFvU2ZCRjVONEhwNVZMUThmUEtCcDRCNlZHU0xsMnViRXl2czJJbVNWSHJuekszblVGZGhvbmxEZnJESDdPbHZBWDJvVzl2ajc?oc=5",
+      "date": "Tue, 02 Jun 2026 00:30:00 GMT"
+    },
     {
       "title": "【垂井警察署】交通検問の実施",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxY2tqSnhDWWpLMGZHQWNfamVscnMxS1p0ckpCb1hSeHVCVDlJeUFfejBpTEYyMThLWXJORnM2ZkdNSU1JaTYybmxiZWFnWmVkeTFUUElyUTZlRWRYXzhFcFZpamM?oc=5",
@@ -83,23 +88,18 @@
       "title": "【交通取締情報】福井県警 ４月９日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lSkpoR2toRldvOW1DUExveHpLRG1OZVVXZ3NOaE8tUWktRXNhN3VhNHNOUEptb2hNRTN1WlBBUEFoNE5IbEZxX3N6dw?oc=5",
       "date": "Wed, 08 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "麻薬取締法違反被疑者の逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
-      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "シニア世代の交通事故や特殊詐欺被害を防ごう 岐阜・各務原市で講話：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNk9vOVlmMy1vLUFsdl9mbk1XLWgtQmtjTW92VjhOVnpmY3lHNjJObDVZUkZaM3MwdnFmNzdGZy1mb2VCbGkyTE9wcDBQQlk2NzBtd1RVQnQ2ZUJEeGtFYVhqRnlNOHZlbGlBSVdnLU8?oc=5",
-      "date": "Sun, 31 May 2026 02:20:00 GMT"
-    },
-    {
       "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "シニア世代の交通事故や特殊詐欺被害を防ごう 岐阜・各務原市で講話：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNk9vOVlmMy1vLUFsdl9mbk1XLWgtQmtjTW92VjhOVnpmY3lHNjJObDVZUkZaM3MwdnFmNzdGZy1mb2VCbGkyTE9wcDBQQlk2NzBtd1RVQnQ2ZUJEeGtFYVhqRnlNOHZlbGlBSVdnLU8?oc=5",
+      "date": "Sun, 31 May 2026 02:20:00 GMT"
     },
     {
       "title": "高校生が自転車事故の恐ろしさ学ぶ スタントマンが再現 岐阜市で交通安全教室（ぎふチャンDIGITAL）",
@@ -107,9 +107,9 @@
       "date": "Tue, 26 May 2026 10:42:21 GMT"
     },
     {
-      "title": "路上で倒れていた男性死亡 ひき逃げ事件とみて捜査 岐阜・岐南町",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51Uk1LSlN0YUJaQkd3UXBJN1NDWFFnaTd5UW1Dd1l4VVFWRDFsRDF3cm02eUJaaXdwZEkzLXdqVDdqZUlNWWdmZzJxYw?oc=5",
-      "date": "Fri, 15 May 2026 03:34:04 GMT"
+      "title": "岐阜県中津川市でマイクロバスにはねられ男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGejNjTFVhcGRRaktmWElfV2VYUGJRZW5JS2dSeTM3VW5yNVFvWmNMWGs4aU4yZ01hc05KQVFvN2VULVBBaTZYdXZDT0xFREdRNzFIRg?oc=5",
+      "date": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
       "title": "助手席から顔出し女性死亡 高架の壁に衝突 酒気帯び運転の疑い、運転の女逮捕（テレビ朝日系（ANN））",
