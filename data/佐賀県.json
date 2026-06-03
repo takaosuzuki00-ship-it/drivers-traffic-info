@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-06-03T21:06:30.850953",
+  "generated_at": "2026-06-04T00:08:30.245963",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 22.5,
-    "temp_max": 26.6,
-    "temp_min": 21.3,
-    "precip_prob_max": 22,
-    "precip_sum": 0,
-    "wind_speed": 1.3,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.9,
+    "temp_max": 21.7,
+    "temp_min": 19.9,
+    "precip_prob_max": 100,
+    "precip_sum": 29.0,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.5,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 22.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 21.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 23.1,
-        "weather": "晴れ時々曇",
+        "temp": 20.3,
+        "weather": "曇り",
         "precip_prob": 2
       },
       {
+        "time": "06:00",
+        "temp": 20.0,
+        "weather": "曇り",
+        "precip_prob": 55
+      },
+      {
+        "time": "09:00",
+        "temp": 20.5,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
         "time": "12:00",
-        "temp": 24.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 18
+        "temp": 21.7,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 26.3,
-        "weather": "晴れ",
-        "precip_prob": 22
+        "temp": 21.6,
+        "weather": "雨",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 25.9,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 21.2,
+        "weather": "弱い雨",
+        "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 22.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 75
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "麻薬取締法違反容疑の自衛官、不起訴 男は邸宅侵入と窃盗の罪で起訴 佐賀地検 | 事件・事故 | 佐賀県のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01LThZVEJ3LU4zQ05pQ3BORG1rb2lzcWRqY2lhcWVpQTh1bHRMUnRYRzZTcEhXQUpSSlYzN0d5dXh5ejFaTlgtTUxGQXRnc0hjUEt5eXpB?oc=5",
-      "date": "Tue, 02 Jun 2026 11:13:00 GMT"
-    },
-    {
-      "title": "5月31日（日）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11OU5qSEVycmZMNWhyYkFYUF95Nk9nUWt6M3dSb2F0MHM0UlQyOGE2OERJdDVvYVpTT01RdXhUaWpPY2puUV91b2VaWnp2dXVlN3JORlJkWWR0Vm9reC0yZmktSUItQnFydHdxSXhVSdIBdEFVX3lxTE92RURmX1ZFTzVuNUd3M3AyR2hJZ1ZleVVwR1BVb1dKZmtMVWFYYmNMc3I0Z2tsY2ZNUGJidmNNQUUxOURYTHB4X0oweGFNS1dUczE2OENZRnZBSUttSGRXUEwyWDVNU0pIazhSMUpuT3o1YTgx?oc=5",
-      "date": "Sat, 30 May 2026 20:00:00 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "５月３０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qT3MtZXVmdk4tbkpIV1BseVl3RE5hdG4tWnZjOUxrRkR3NVIxTHREWTNOQ0RZbVBSa1JTU2hUblpOd1lwMXlMTjNNdXBiSjFNUHRZUGs0MzdvWTBSal9uTmFndURJcDhsd0k4Q1pNLUV0Z9IBd0FVX3lxTE5MZ3dta1l1ZXEtNGxNRDFrZGNubFZFaXNhX2trMGlvV3IzVzZDVWU4clNoZ3BGQUhpZlRMQ2V3Rmotd3VyNFJwd0Y3UHVLRS1zSmxEYWwtZU5wcm8zVGpBcWg5NnppbVZxeUtfaklLOEM4NDgxa3FN?oc=5",
+      "date": "Fri, 29 May 2026 20:00:00 GMT"
     },
     {
       "title": "ビールに焼酎…検問で飲酒発覚 唐津市消防団員が酒気帯び運転で停職1カ月【佐賀県】｜佐賀のニュース",
@@ -85,9 +80,14 @@
       "date": "Thu, 25 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
-      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+      "title": "北九州市で飲酒検問 自転車も対象 飲酒機会が増える年末を前に（2025年11月18日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0dqbjlMWGU3ZlpxOUV4V0x1c1Q3Z291N3RQZGgteG9mX1J4Rjl4NVBTVVprTms0X1VKSHFBM055VXdmYXlobHNfSVJhRWZPLTVsT2NtRUF5Z3BJXzRQcGg4QlRjMWlWSktwRlhaOWYtSUFWMVFaLWZncW45UWNST2ZVZzF5MVE?oc=5",
+      "date": "Tue, 18 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "速度違反摘発で虚偽書類か 神奈川県警、書類送検へ | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ja3g4VUhtUXVMS0Y2eGZ4TF9td3lhbDZqN3Nybjg4Y1UzVkV3MXBJU1lYN2pqTkpWczQyVkI2RXE2RGxzRHJHUmNBOGxycE1tX3ktbUd3?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [

@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-03T21:04:21.561712",
+  "generated_at": "2026-06-04T00:04:34.600250",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 19.5,
-    "temp_max": 20.1,
-    "temp_min": 17.4,
-    "precip_prob_max": 100,
-    "precip_sum": 126.5,
-    "wind_speed": 8.8,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.9,
+    "temp_max": 21.6,
+    "temp_min": 17.2,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.1,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.9,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.8,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 17.8,
-        "weather": "強い雨",
-        "precip_prob": 100
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 18.3,
-        "weather": "強い雨",
-        "precip_prob": 100
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 18.1,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 20.1,
-        "weather": "快晴",
-        "precip_prob": 84
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 19.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 18.4,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMTNxQ3FCbVZWal8zbXNNVGU4dFdGMzdmaEhJbW1RcFc0X0JnYS0xZkFLbTdqclJDNE0yeGFxT0drYkI3c1JRVWdqejkzc09TZjBxUWdnM2xqcklDQ0tMbndieThlNTJEem9WVlNvMNIBdEFVX3lxTFBHV1dNX2dSZFJaTnZiLURRdDJWZGJtUXV4SGpfT3J5WXZFTG51ZExKXzB5bTRXc3NkSFV1cWJjenZTaVoxcmpqU2JRTjBfcHduTVczZHlIbTVWbzJ1cjNRcGwyVkc5LUlxSnRYNENIQU9IRXhM?oc=5",
+      "date": "Sun, 31 May 2026 20:02:00 GMT"
+    },
     {
       "title": "埼玉県警、スピード違反の取り締まりを実施 約5時間で160件確認（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFVGx4SmlQc3R0WFNwMEtPazJqdVJaZXQ5UHpIcFlCWUx2cVc0cTJ4d1ZxZGdLSFdmc2tiZWZwNEZUTGFLQVVKc3ZRbi1zTmtJOW1mNXBLV29qbWpfdElSQWItN0lfYVJPOU1MNWQwdlh1OTRMQlpaUkxHNzYwNm8?oc=5",
@@ -75,19 +80,14 @@
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
+      "title": "【交通取締情報】福井県警 ４月１５日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JaUhLdE9LZGNjRTNwbnNLR2lTZ3Vid0JldG9WVFdCNmdWYmpyNW5kTk1IaXNFMmhfYUk5MzUxOEQtWERNOHYzMFcxdw?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "友梨さん不明２３年、大阪で検問",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iSkRtSG14SjlxVG1hNVREVGtLWEVpNXZ1QmM2YkFZU2RwaG45WGFuNVY2ZHRnQTh4V3ZxODBDQl9aSGRMSm11ZkdrdmpSUmpiYmpvREp6OElEQ2ttYUlBMy1hQl9iQQ?oc=5",
       "date": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "運輸局「ブチギレ命令」に反響殺到！ 「自業自得」「即刻廃車で！」 不正改造車「24台」に「すぐにクルマを直して見せに来い！」 東京・埼玉で集結した\"大迷惑車\"を一斉検挙！ 2都県で取締り",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lRlhrWEd4SWYzbk5GUVJNOFZ6UUpGMi04UVBhTF96cVNjLWFqM3hKUFdfdkx0YnFZR0JSUkFWbFhydy1EbVZybEFn?oc=5",
-      "date": "Sat, 03 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "30キロ超過でバイク運転…警察に摘発された所長補佐を懲戒処分 地方公務員法に基づき戒告",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RaHdwWDVaWEtEaGxISmdKTGpsTm4zRmRGT1Ryb25LckZNZ3BFVzRId2NUZktldXlTbFdEOGdzWThhN0ZjNm1JYUlIZVVyenV6dkdQbG5KR1pmdkhqeGF1cU92S2FGQTctQzYzOXpaVExhT2dQRHRpN29oWQ?oc=5",
-      "date": "Tue, 26 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,9 +97,9 @@
       "date": "Wed, 03 Jun 2026 00:22:00 GMT"
     },
     {
-      "title": "令和7年冬の交通事故防止運動を実施します",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84aUtiS0h2dnVSelktZ3VWVld6eTdjWk94MlYwZVotUXJLUWEtWnRhZGJVQlV1N3p6am1DTTc4UGNnazNGZUxHeWpZcHBIdU82TTByTjdKTTB5UFA4YnZ1NEJxdnltcnN6UzNMNg?oc=5",
-      "date": "Tue, 04 Nov 2025 20:15:28 GMT"
+      "title": "バスと乗用車が交差点で衝突 バスの同乗者1人けが 埼玉・入間市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Dd0NhcEZIdXR4ZTVJaTd1azRHejZISVhlN2JYdXZqUllubkwwd0dLc1I4eUlLVk04Y2FZMVAtMl92R2NzcTNiSURDRnR6Zw?oc=5",
+      "date": "Fri, 29 May 2026 10:12:00 GMT"
     },
     {
       "title": "10代少年2人を逮捕…無免許でバイクを運転した疑い　ひき逃げ事故の容疑者と一緒に4〜5台のバイクで走行か　同じ不良グループに属している16歳と17最の2人",
@@ -112,9 +112,9 @@
       "date": "Sun, 24 May 2026 07:00:00 GMT"
     },
     {
-      "title": "男性死亡…車にはねられる 夜の町道 信号機ない横断歩道 歩いて横断中に衝突 搬送先で亡くなる（埼玉新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03dVlxWjFaUWNNb0FISVVfYy01eTE3TmpjaEQ5TkNCY19mUldybGJXam5YVlhOSzVvOFBHbTFvZlFtcUx1TDhzT0tHQnZpeEUwTndaZ0xqcDdGdUNxUXdYX0ZqcWdmODI2cldxcGtGM004RVVnOHlaVGpycG1lNjA?oc=5",
-      "date": "Sun, 17 May 2026 07:00:00 GMT"
+      "title": "ケアマネジャーが刺され死亡か 男が「切った」と通報 埼玉・川口 [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PNnVVV0htcE5CNXlLMnNpNDhnaXF4OTdFRGdrd0F6eHhHQUk1OVB5ZVJtN1o3ZmVaZUFrOU14YU9qX3VhMmE4anphbzF2TlE0cV81Vk13Snd4dFFmNlV4UVpmV05fNWs?oc=5",
+      "date": "Mon, 01 Jun 2026 08:44:00 GMT"
     }
   ],
   "official_links": [

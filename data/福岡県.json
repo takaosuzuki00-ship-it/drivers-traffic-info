@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-06-03T21:06:27.390598",
+  "generated_at": "2026-06-04T00:08:18.942007",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 21.5,
-    "temp_max": 23.1,
-    "temp_min": 21.1,
-    "precip_prob_max": 66,
-    "precip_sum": 0.7,
-    "wind_speed": 2.5,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.3,
+    "temp_max": 21.7,
+    "temp_min": 19.8,
+    "precip_prob_max": 100,
+    "precip_sum": 14.7,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.0,
-        "weather": "晴れ",
-        "precip_prob": 18
-      },
-      {
-        "time": "03:00",
-        "temp": 22.0,
-        "weather": "曇り",
-        "precip_prob": 2
-      },
-      {
-        "time": "06:00",
-        "temp": 21.2,
+        "temp": 20.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 63
-      },
-      {
-        "time": "09:00",
-        "temp": 21.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 57
-      },
-      {
-        "time": "12:00",
-        "temp": 22.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 41
-      },
-      {
-        "time": "15:00",
-        "temp": 23.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
-      },
-      {
-        "time": "18:00",
-        "temp": 22.4,
-        "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 21.5,
+        "time": "03:00",
+        "temp": 19.8,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 19.9,
+        "weather": "霧雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 65
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "６月３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1lMdWdxZmVSRXlvRlRYR0hDa0N5ZjlQay1MdC1KRXhQRG1kV0g5ekw0M2tySDZlb2dIZE84VGtNYkRubzBYNlV4Wjg2Y043STRSZ2JYNlM2YnpmMll2YkZoWldjUzQtVF9sTWh1TjZHNVdyLW5JSUVQVVVFSmVrajgwazNKcUF5aXl6LTRyNlZXcXdvLWtjWWNrOW5LbDUxdklGd2tqcG0zQU5TcGxJNnRFalBMdGV2NGRpbVVlWHZ1eXExQk5V0gF3QVVfeXFMT05mSWpDeHQ4ZTEwa0FYZVVFUmRSNUtjeTZ6ZDYwQUR0SHJJQ0FwRkVzV1hUVFExck1XeTBUbmtGaUc1MjR4S2ZkVkRLUFYyU2NUbmpITE5VR2QtNXpjTGhiVlRSNGxLOFFnTUU2YW02bmo3MWg1SkU?oc=5",
+      "date": "Tue, 02 Jun 2026 20:11:55 GMT"
+    },
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "5月28日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUXMyaW5IcVktandtRWNiYWprdURCUUYycmtTSGwwNXBrWTIxZThxZlpjTWZqeHlNdGNGUDlmcmZVcU5jZ1F5Q2RNMngxeUMyM0w0RTZxUkppZw?oc=5",
-      "date": "Wed, 27 May 2026 20:02:00 GMT"
+      "title": "6月2日（火）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tZWViWFZIZ01JMzFMY2NEckVtbjBuY1AtbHhOeDVKR2M2ZGpmSTBRQU9lZXdfYzFYZW5vcGw0NmRuZ0RsbGhfWl9IaXpuNjl4em1RWTMtM0xQS1ZKNlN4b0xXYl9SbGpuRnBNUnZVa9IBdEFVX3lxTE54amw0emxJcWpFMklON2FlZVljWHFRSWg3RFoxR2ZMVGxmeGtSUGduY2JyaldiX2xxYzAzcDNYeVZfbS1NZkhIZ19iUkFEN1haSHBKTklUQ0MwTG1kT3ZZSzVnMGk0TTRhbDR4X19kSDlzOFFj?oc=5",
+      "date": "Mon, 01 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -83,11 +88,6 @@
       "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
-      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
