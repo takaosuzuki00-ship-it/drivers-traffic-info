@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-03T12:03:51.982675",
+  "generated_at": "2026-06-03T15:03:46.220209",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 17.6,
+    "temp_now": 16.4,
     "temp_max": 20.2,
-    "temp_min": 14.8,
+    "temp_min": 15.0,
     "precip_prob_max": 100,
-    "precip_sum": 26.7,
-    "wind_speed": 3.5,
+    "precip_sum": 16.3,
+    "wind_speed": 7.7,
     "hourly": [
       {
         "time": "00:00",
@@ -33,42 +33,37 @@
       },
       {
         "time": "09:00",
-        "temp": 17.4,
+        "temp": 17.5,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 17.6,
+        "temp": 17.8,
         "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 16.3,
-        "weather": "雨",
+        "temp": 16.4,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
         "temp": 15.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "weather": "曇り",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 15.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 53
+        "temp": 15.4,
+        "weather": "曇り",
+        "precip_prob": 69
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "6月3日（水）【岩手県】　日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5paUJYRzZzcVgwYU5IeFpRUzI4REJhWXNVUFhDMlF2ZjdtX1pDSUZPNzRhd0prSTBrYk1pR1ItTUNubjJKZU9qYVNsa21rVVZyOWoxZUFSSERqT25JMzBfVEJhdDlmVWZ2WUVUaHAwUdIBdEFVX3lxTE5mU0h6Qk1OaHl2QXl1ZnBZT2ZKRHplOGFWeDA3X1ZQd3hYZTBSOU9OMVhvUjBxa1Vhb3ViTTdKdTk1TUpFRUJpOW1hcWZ4dmtjbFptdkhKd3JQWjJDSldwUnVkVFJDSVlXV1BaSl9zS2Nkd2Vo?oc=5",
-      "date": "Tue, 02 Jun 2026 20:16:27 GMT"
-    },
     {
       "title": "5月28日（木）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HRVNBWmJSTDhTMkJCOURKZXBhZEgzdkhCUUVldGFlaG4xZ0NNd21mRWJoOGhMcEZMTU5pVGpGU3NhTlVsRlFQUURFTmRwQlhXVTE3YjJxSQ?oc=5",
@@ -78,6 +73,11 @@
       "title": "５月３１日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UlFCQ1pfX3l5WnhrdWRQV0VPTkM2RHhtR0kzenRIaDlVRm0zQ1BKczdWUlRrZUV6cHptSmg4ZlppekNBNEVEMVAtVGc1UXVmaUstaV9DOXk4dmFQYVQxNmM1NXM2UUkzYVZwbW5fR3ZUUdIBd0FVX3lxTE0xOHlETGZjTVQwSFh6cVoyaVFuYm14RFd2NnptcmpacU51SkJldTg1UU1YRzZNVGxTRWxfbUJoeFVkZmg2Z055akJwX0xxc1RqS1FvVzlWZHp0NWVmSTl0S0JybmlEc0p1TGdkeEVUSHlLcFdINEJn?oc=5",
       "date": "Sat, 30 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "５月３０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qT3MtZXVmdk4tbkpIV1BseVl3RE5hdG4tWnZjOUxrRkR3NVIxTHREWTNOQ0RZbVBSa1JTU2hUblpOd1lwMXlMTjNNdXBiSjFNUHRZUGs0MzdvWTBSal9uTmFndURJcDhsd0k4Q1pNLUV0Z9IBd0FVX3lxTE5MZ3dta1l1ZXEtNGxNRDFrZGNubFZFaXNhX2trMGlvV3IzVzZDVWU4clNoZ3BGQUhpZlRMQ2V3Rmotd3VyNFJwd0Y3UHVLRS1zSmxEYWwtZU5wcm8zVGpBcWg5NnppbVZxeUtfaklLOEM4NDgxa3FN?oc=5",
+      "date": "Fri, 29 May 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１６日",
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "長井市の交差点で出合い頭の事故 女性（75）が重傷 （山形・長井署）（テレビユー山形）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raW51eHZnRHREODRwa3VoS0l2Q2ZfR1pVMmhfNGlhejFQQk1mcjgwZHdLcEdSWEw2aURKWmtYNmpIZ0RrU1JlU1BVU2FKSDJlVEN0cVBIV3o0Sk9WeDE5U0VYNXp2WThXTnRPWUptWDlKY0JNTVFiNnVfRGEyUXM?oc=5",
-      "date": "Sat, 30 May 2026 00:04:15 GMT"
-    },
-    {
       "title": "タクシーと乗用車が衝突 タクシーの乗客2人がケガ（山形市） | 山形のニュース│TUYテレビユー山形 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DWDVndzViSVN1ck9STk1oMnNNaWNkRks5ZFMxcllPYThrY2EzWFlaTW9qaExJYjVkM3RrZG8zakJGcXEtQVNrNXJ6MGxiajJPR0lOYVdUdFBGM01lQWtzV2MwMU1SamM?oc=5",
       "date": "Wed, 13 May 2026 07:00:00 GMT"
@@ -107,14 +102,19 @@
       "date": "Tue, 26 May 2026 10:06:04 GMT"
     },
     {
+      "title": "鶴岡市で車同士の事故 運転手の20代男性が意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTTBUTWdVaW40YnZKdzhuWmlENmp5Sk5HbXhFSjItUmVucWI1QkpHQTZMV0R5WFRmckszbWxYSWxpZE9ESnpfclNOaXdic1YtWTk1SGd4VEl3Zw?oc=5",
+      "date": "Sun, 17 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "大江町の山林で労災死亡事故 伐採中の木が頭にぶつかり65歳の男性死亡 山形｜ニュース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iaFRfNjZ1Zk1JdW51dFVfeElsU2ZTYmNDTnhJR2pvaXZqUG5aMDlBbHpIcm41amhHNVZ5Uk43UjRFWlNEUjJ2S0d0QWlGX3IwNVNYOWw0S2tadDhVcmE5NllVdXoySDV6bGpzQUV6a0loc00?oc=5",
       "date": "Wed, 27 May 2026 09:15:00 GMT"
     },
     {
-      "title": "死亡したのは河北町の男性（６６） 伐採していた木が跳ね返り顔面に衝突する死亡労災事故 山形県（YBC山形放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbzFRcUljR21GQ3RSRE1rNnlkMnlCR091M0hRTklaNU1BOWd4TG12alU4U0ZwWmRuMUNKWDFaUGdicVBfZWhFYWZ3WVc1XzcySHdwYVU1LVljUzgwQ3E3ejh3bDJnMGFOVXBlWVJVREVSSnoyVnNsd0hmZFBjNVk?oc=5",
-      "date": "Wed, 27 May 2026 11:20:01 GMT"
+      "title": "山形・酒田の男性遺体、クマ被害と断定 38年ぶりの県内死亡事故に",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KNDVpVGIyVmFrRmZ3M0FDZjJLNVBWZmdfRVl6X1E1cHFfUE1pT1k2OUtiLXQ1XzVCNVRMT3AzNTFvcVE4UE1xY0VWVzlnLVFCTmY3T3dZZ1J3LXFKTE9jQ3pIUWNhem8?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
