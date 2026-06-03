@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-06-04T03:10:15.550853",
+  "generated_at": "2026-06-04T06:09:08.110015",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.8,
+    "temp_max": 22.9,
+    "temp_min": 20.8,
+    "precip_prob_max": 100,
+    "precip_sum": 51.2,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 20.8,
+        "weather": "強い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "09:00",
+        "temp": 21.2,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 21.1,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 21.8,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 21.7,
+        "weather": "霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "6月2日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり（RKK熊本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSSVpqUW5aRENjVFpveC1wRm8tX1djYTRjelpZdU9WNmQ5OE5UMURmM2JKWjNzQjZ5RW9rbFVNbmRSeFM4OFhqTnVKQXRjVmw4bGV2M3dnN3ZvWDdaMnV1MzQ2NExPY1BGMDVsYlkyeGhqUHd0NVJ0cE1oNUtlRlE?oc=5",
-      "date": "Mon, 01 Jun 2026 20:02:14 GMT"
+      "title": "6月4日（木）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wT1YxRzZqRnU1WVdyUnBiRWFoYnVUeUNVbmxNbFpVbGd4VGVwOWtNUVU4dk1fVzRZcmhhNkxfZ1lXcDZKRGkxYk9yV2UyZXV6cnVqcVFXVFlockpqVEoxajE4T01BaEluTWJ2bkRleTRBRVJuUUNDaXhqM1BfbUE?oc=5",
+      "date": "Wed, 03 Jun 2026 20:06:43 GMT"
     },
     {
       "title": "6月2日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -16,19 +75,19 @@
       "date": "Mon, 01 Jun 2026 20:02:00 GMT"
     },
     {
+      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWX0Zxd29CZFNzd0lWUjZhRTBqNU9wLTdHei1WZFNzODBrVzJNWlI5YkJrM3I5ZnloVmFZR0dkY3gwdzBpaERWbS1EM1RvMDNwS1hnU282blE0QQ?oc=5",
+      "date": "Sun, 31 May 2026 20:02:00 GMT"
+    },
+    {
       "title": "6月3日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり (2026年6月3日掲載)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ci11S0RxYWlrY1FUWV9tSW5rcnNoTW1nZDF3UThYSUpXaDREOTJSc0pDMWwtOGlrQkhHN2Jrb1lBZVRvZkpWVl9UQWx5UXNfMTZMYzdGbWgwUWhKeWc?oc=5",
       "date": "Tue, 02 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "6月3日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり（RKK熊本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50b0d6OHJnUVB3T3FBVVBWQlAweVV5SHQ0VmhFNzhjZHNxS3BTYi1IemZTdjkyOHZJZmt3emNGcmZ0azY2Q1pCMmgxdVFtNFp4bVlWSjJsN1VFUWJrUlZxNWRqckVtTVJyd1EwS09McjB5dzJ0RmVHaE9jc3l2Vkk?oc=5",
-      "date": "Tue, 02 Jun 2026 20:02:13 GMT"
-    },
-    {
-      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWX0Zxd29CZFNzd0lWUjZhRTBqNU9wLTdHei1WZFNzODBrVzJNWlI5YkJrM3I5ZnloVmFZR0dkY3gwdzBpaERWbS1EM1RvMDNwS1hnU282blE0QQ?oc=5",
-      "date": "Sun, 31 May 2026 20:02:00 GMT"
+      "title": "5月31日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FaUZreFFPbHVHdnE4c2Z3bVp1RW40ckQyZDFzd1JQRl9NckM5OTZ2aklNY1FpNnBnWnhGVlFQV1FtMHcyQUJ2cWlncHpPdnJLanFLQVFYZHJ3Zw?oc=5",
+      "date": "Sat, 30 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -44,7 +103,7 @@
     },
     {
       "title": "亡くなったのは87歳男性 熊本県玉名市の交通事故 軽乗用車の下敷きに",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Zm1pdF8tZHJOZFZZX2s5eExxTDBzVU5jT01iaEItenBpcklXYWROeGlPcHFvVXZZWGRDRnJmTWJ3c0NkVUx4QWxfQW9pb1dRbG5JS1B3RDlpaUd4T200?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qRHF2a0FOS2xsRGhQTFpnbkJrODlxanRTa3lvSmlTQkowVTExaS1KNXAybDd0SHEtS1JELW1GOWxGRWF3cUVxNElQWjB6M1Vod2VVNGhQQl9NRlNIN2NDMW9oSQ?oc=5",
       "date": "Mon, 01 Jun 2026 10:09:00 GMT"
     },
     {
@@ -53,8 +112,8 @@
       "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「ガードレール引き抜いた反動で」作業中のバックホー転落 32歳男性死亡（ＫＫＴ熊本県民テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eEowUms5UHNCbjZJdWR0eG1iOUtBLURuLTJaZE9sZlFueExFZmFwTlJVMVhuUWYxZm1oaE1WUlVSVTBTOUprUDNubFBxcF9tdURnV1U3RkZOR0d2al9RX2JzVkJFdHVJSGd3OFRYM21XTV9zLXNPdElubEtYVGc?oc=5",
+      "title": "「ガードレール引き抜いた反動で」作業中のバックホー転落 32歳男性死亡（2026年6月3日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85R0x3REJXX19XXzJOYTVlY3JCS0VsX2FDeF90YzA3VGF1a1NRbkN5aV9yQndSa3c2UEhPZEpXSFoxNWUzanU2bHFPUjNXYWFJdjlfdlJhWTNDakMwaEx4TDRJbHQxYmc1ZzJ1Y2hYTjBHaUQtNl9KUHBsQklSRU0?oc=5",
       "date": "Wed, 03 Jun 2026 07:00:02 GMT"
     }
   ],
