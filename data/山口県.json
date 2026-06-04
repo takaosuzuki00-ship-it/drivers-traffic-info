@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-04T09:05:34.872427",
+  "generated_at": "2026-06-04T12:06:14.922062",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 19.8,
-    "temp_max": 20.4,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.4,
+    "temp_max": 21.0,
     "temp_min": 18.9,
-    "precip_prob_max": 80,
-    "precip_sum": 4.8,
-    "wind_speed": 1.6,
+    "precip_prob_max": 100,
+    "precip_sum": 12.0,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
@@ -27,52 +27,52 @@
       },
       {
         "time": "06:00",
-        "temp": 19.2,
-        "weather": "曇り",
-        "precip_prob": 12
+        "temp": 19.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 41
+        "temp": 20.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 18
       },
       {
         "time": "12:00",
         "temp": 20.4,
         "weather": "弱い霧雨",
-        "precip_prob": 75
+        "precip_prob": 84
       },
       {
         "time": "15:00",
-        "temp": 19.6,
+        "temp": 20.3,
         "weather": "霧雨",
-        "precip_prob": 78
+        "precip_prob": 92
       },
       {
         "time": "18:00",
-        "temp": 19.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "temp": 20.0,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
         "temp": 19.6,
-        "weather": "霧雨",
-        "precip_prob": 53
+        "weather": "弱い雨",
+        "precip_prob": 92
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月1日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdjJLUF9RUUJ4U2dlbHpjUlZVbEN1bXFFNkYtQ0NYSXQ4WWV4aWxhOGVzaGdYV3UyZHZ0a052dWh1SW80Rkt0WERIX1BlVFd0cTdKVmtJbw?oc=5",
-      "date": "Sun, 31 May 2026 20:00:00 GMT"
-    },
-    {
       "title": "5月31日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04MlF1Q1RsdU43MFhMOVlVME1xRWIxSUJvOXVrUW9jWWxoajdBNVhBQkxWYjdJalNFdTZndlV1Y0x2bUhuSDc0Wm4wV1RMbGFkbFd4cEhBZw?oc=5",
       "date": "Sat, 30 May 2026 20:00:00 GMT"
+    },
+    {
+      "title": "５月３０日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14OF9YMkJYWmowSDUtSnY0enN0U3hGdC10a3BheVdSaU9tbXJNcGt3X1BtREZob1llU2Jvb1NSTGlqTWVvYjhvdTFUWmptbmNJV1FPOG9ubw?oc=5",
+      "date": "Fri, 29 May 2026 20:00:00 GMT"
     },
     {
       "title": "5月29日（金）【岩手県】　日中・夜間の交通取締情報",
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "山口県内の交通事故発生状況2026年6月3日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBibFE1aEt5cGJvYmYzclFldzBrWVBmeG5BU21CTEs5UzdzNDhOT19ILU1nVmhWYy1UZ0dLTFJ6LWZFcGZtd0RIZzFVcw?oc=5",
+      "date": "Thu, 04 Jun 2026 01:00:00 GMT"
+    },
+    {
       "title": "山口県内の交通事故発生状況/2026年6月2日",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWVDNjNFd6VnE2RmNpS21iSUo4NmJkRkJTOFNSQXdWakxYbHVHNEF0Qmx5LTlOaGhwazhMV0xYckh3UVRma0NNZTVEZjgxeUNpNTRPUzlQb3Q0eTJ4ak0tZEdLeUFGaVR4UUE?oc=5",
       "date": "Wed, 03 Jun 2026 01:00:00 GMT"
@@ -102,14 +107,9 @@
       "date": "Tue, 02 Jun 2026 08:41:00 GMT"
     },
     {
-      "title": "山口県内の交通事故発生状況2026年6月2日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GWmtoeDBFdm9aam9saDQ1ZmlaTjh4MHhBdjAza3NHcDdBSHlTZHZHQ245U0p6RzAtUUhrc2tMTTQ5WEhfRy1nTFF6VQ?oc=5",
-      "date": "Wed, 03 Jun 2026 01:00:00 GMT"
-    },
-    {
       "title": "中国道で車がガードレールに衝突 家族3人死傷 妻は路上で血を流して倒れる 台風の雨でスリップか 山口・美祢市",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IaHRScjhoN2pPaUNTd3ZNSUpyd3pBd0dZUFdlbW4yMjBsSXFhcG94OGUxODViR004WlpnbWhHbk5yQ0N3TWcxUlJicnJ2aWZkcS1oVDJ2LTdrVDlfTEdDVXVmOA?oc=5",
-      "date": "Wed, 03 Jun 2026 01:08:05 GMT"
+      "date": "Wed, 03 Jun 2026 00:40:00 GMT"
     },
     {
       "title": "軽乗用車と正面衝突 バイク運転の男性が重傷 山口・萩（ｔｙｓテレビ山口）",
