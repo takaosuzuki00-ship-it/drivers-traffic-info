@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:10:27.014761",
+  "generated_at": "2026-06-05T00:13:19.683682",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.3,
+    "temp_max": 25.8,
+    "temp_min": 20.9,
+    "precip_prob_max": 88,
+    "precip_sum": 0.1,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.3,
+        "weather": "曇り",
+        "precip_prob": 88
+      },
+      {
+        "time": "03:00",
+        "temp": 21.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "06:00",
+        "temp": 21.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
+      },
+      {
+        "time": "09:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "12:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 29
+      },
+      {
+        "time": "15:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      },
+      {
+        "time": "18:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "21:00",
+        "temp": 22.7,
+        "weather": "曇り",
+        "precip_prob": 51
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "６月４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -26,9 +85,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "5月29日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WQ2ZZbUFVNzFjSFhvdG1TZVkwSnNGcWZLeWZiWFFUN0RGNmZDN29fNWpZTUV6RUZhd1VOZDd4Mlp4UFRHZmNXa0Z1b0NKcm1tOUx0eENmakkydw?oc=5",
-      "date": "Thu, 28 May 2026 20:02:00 GMT"
+      "title": "5月28日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUXMyaW5IcVktandtRWNiYWprdURCUUYycmtTSGwwNXBrWTIxZThxZlpjTWZqeHlNdGNGUDlmcmZVcU5jZ1F5Q2RNMngxeUMyM0w0RTZxUkppZw?oc=5",
+      "date": "Wed, 27 May 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Mon, 01 Jun 2026 20:56:30 GMT"
     },
     {
-      "title": "自転車の男子高校生ひき逃げ　事故不申告などの罪で会社員の男（60）起訴　大分",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Zms2cmM1M0hNckNSYUJ0OUpHVUNPVDZ3TzhsdXJBNHd2OXVZWEdacTF3VnltSUQyRV9qSlV4b3JxQTUtQk5xWDRjUENtel80X2V6Mkg0dDBTQTl3ZUtYM0JxelBGbVp6S0ZpWGp2X1hlcmow0gF0QVVfeXFMT3ZmazZyYzUzSE1yQ1JhQnQ5SkdVQ09UNndPOGx1ckE0d3Y5dVlYR1pxMXdWeW1JRDJFX2pKVXhvcnFBNS1CTnFYNGNQQ216XzRfZXoySDR0MFNBOXdlS1gzQnF6UEZtWnpLRmlYanZfWGVyajA?oc=5",
-      "date": "Thu, 04 Jun 2026 07:28:00 GMT"
-    },
-    {
       "title": "令和８年度 大分県交通事故遺児等援護基金等への寄付金贈呈式について",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0RxM0VnLUdmQ0pIWkhoRmtDRzJYc2IwLVd0WGpkUjVEMjM2TFdGZjlHTmEycVd3REJVOUZacllYaVVoM1djYVEwUm01RU5IaGRBckhLdU11MWhDT1A3eHluQ0FSZ3JFZTRjaDdtR0lYOXhabVJ5V1cwM3F3N0xEYg?oc=5",
       "date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の男子高校生ひき逃げ　事故不申告などの罪で会社員の男（60）起訴　大分",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Zms2cmM1M0hNckNSYUJ0OUpHVUNPVDZ3TzhsdXJBNHd2OXVZWEdacTF3VnltSUQyRV9qSlV4b3JxQTUtQk5xWDRjUENtel80X2V6Mkg0dDBTQTl3ZUtYM0JxelBGbVp6S0ZpWGp2X1hlcmow0gF0QVVfeXFMT3ZmazZyYzUzSE1yQ1JhQnQ5SkdVQ09UNndPOGx1ckE0d3Y5dVlYR1pxMXdWeW1JRDJFX2pKVXhvcnFBNS1CTnFYNGNQQ216XzRfZXoySDR0MFNBOXdlS1gzQnF6UEZtWnpLRmlYanZfWGVyajA?oc=5",
+      "date": "Thu, 04 Jun 2026 07:28:00 GMT"
     }
   ],
   "official_links": [

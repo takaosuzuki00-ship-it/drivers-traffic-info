@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:03:50.391669",
+  "generated_at": "2026-06-05T00:05:48.283838",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 12.9,
+    "temp_max": 16.0,
+    "temp_min": 12.1,
+    "precip_prob_max": 41,
+    "precip_sum": 0,
+    "wind_speed": 10.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.9,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 12.4,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "06:00",
+        "temp": 12.4,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 13.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "12:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 15.0,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 12.1,
+        "weather": "晴れ",
+        "precip_prob": 6
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月4日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -33,6 +92,16 @@
   ],
   "accident_news": [
     {
+      "title": "「車同士の交通事故があった」国道4号と市道が交わる交差点の周辺で事故 衝突した乗用車はいずれも前方が壊れ… いずれかの車に乗っていた1人が病院搬送も命に別状なし 青森市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvTVlmU2VKaGJKT0s5WWZZenRUeTdvd2luN0VHMllfSGpka0xic3BEU0hhbjh2cy1LSk54ZU1PcllBdWFMY2pOczV4R1IwUEpmZ3FoeXkxOA?oc=5",
+      "date": "Tue, 02 Jun 2026 06:40:00 GMT"
+    },
+    {
+      "title": "（追記あり）前方が大破…大型トラックと軽乗用車が交差点で衝突 75歳の男性が搬送先の病院で死亡（青森放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDYjhvLUF5ellRYktNQXgyLW5qclYzenNZSjRUOUpGZ2R2aU94ZG4yS0tMdUkyd0lNX2pjMnpfX2M5aTBiTk1FSzM3bFdEWk9MMDMyRW5FNG9BLVdMOUExaTBXQnc5bTFpV2c2dEp0M3pwSF94QnpIbERTQzFuYVU?oc=5",
+      "date": "Wed, 03 Jun 2026 10:36:01 GMT"
+    },
+    {
       "title": "青森市の国道で軽乗用車とダンプカー衝突 75歳男性死亡",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WNWZsVFViRjB4dHJOS1lZLXFGVHI3ZW1jbjViVHdXeTdXQ0tVMlQtcEUxOXhIX1llZW9DZVdac0JBeXhYcU91cVdZZTNWelR2RnJ4Y29VQm4?oc=5",
       "date": "Thu, 04 Jun 2026 02:45:00 GMT"
@@ -43,19 +112,9 @@
       "date": "Wed, 03 Jun 2026 11:34:00 GMT"
     },
     {
-      "title": "国道7号交差点でダンプカーと軽乗用車が衝突 高齢男性が意識不明",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMjcyOVlIY3A1aXVxMTZqRDg3aDhrU0lLVmdKbnpRVzRkUlZyRmpCem9DY29aLTRoTXlqTzNYN3JZd1VLV2drTHNUV1VJMEhuMzh4RlM0NEY?oc=5",
-      "date": "Wed, 03 Jun 2026 09:45:00 GMT"
-    },
-    {
       "title": "「車同士の交通事故があった」国道4号と市道が交わる交差点の周辺で事故 衝突した乗用車はいずれも前方が壊れ… いずれかの車に乗っていた1人が病院搬送も命に別状なし 青森市 (ＡＴＶ青森テレビ)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3I2OEhtdkttdURsWm4wUnlHTEdUWFVYZW45T1NVdlJhQV9qb0JWNkROYVBNV1lpb0RpSThlOFBURE9uUUcwQXRBSEZadEFkTG9nWnhUZ0hjSGszd2dqZzh5RWlNYnk4aWYzSGktS1VVQTZuNnFrcmJOVGJuUUp6bl9wMUJoRXlucUxGOW1B?oc=5",
       "date": "Tue, 02 Jun 2026 06:40:26 GMT"
-    },
-    {
-      "title": "「車同士の交通事故があった」国道4号と市道が交わる交差点の周辺で事故 衝突した乗用車はいずれも前方が壊れ… いずれかの車に乗っていた1人が病院搬送も命に別状なし 青森市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvTVlmU2VKaGJKT0s5WWZZenRUeTdvd2luN0VHMllfSGpka0xic3BEU0hhbjh2cy1LSk54ZU1PcllBdWFMY2pOczV4R1IwUEpmZ3FoeXkxOA?oc=5",
-      "date": "Tue, 02 Jun 2026 06:40:00 GMT"
     }
   ],
   "official_links": [

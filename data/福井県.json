@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:06:19.513792",
+  "generated_at": "2026-06-05T00:08:59.665804",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.3,
+    "temp_max": 26.2,
+    "temp_min": 20.1,
+    "precip_prob_max": 16,
+    "precip_sum": 0.1,
+    "wind_speed": 7.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 12
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【交通取締情報】福井県警 ４月１９日",
@@ -21,14 +80,14 @@
       "date": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月９日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnamY3cnZ0dDE0MHdFUmRiUjE2YWFmMTBLVmVxWUwzUFR1UkdQdWtOZC1oNHR3QnB5aFJicExHOGlEbHFFVEN1ME9GTm51S0NwdExBRFlNYkZzX294bnc?oc=5",
-      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "【交通取締情報】福井県警 ４月８日",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tTGFhSWp0cVdOLWFhODRTbHgxVUt2eGlyUmxzUXNDRTIzbGUtOUphX01Jdy1DdTVGNF9fSHczR1dWRkJkSF8tMllrUmVmbFpRNUtlcWViV1ZiVW5aamc?oc=5",
       "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucnhNbTN6V0xtLWFsZXcyOUlPWVB1NHY5bjVBSDN0czE0V3BnTWhHYzQ4dHl2Si1mRUZvZzNfZERrVDExdTMyOVpBamotcUQ2amtNYVJDMlFKQkFaR3c?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -36,6 +95,11 @@
       "title": "福井市で道路を横断中の78歳女性が意識不明の重体 82歳女性運転の普通乗用車にはねられる （福井テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5adlpIOEhIQnl2SWJ3REQtNXRCQ284b1RkejUxZWdvTkJudXdLZ0MtMkpqQ1k0bW9vLVRCdUExUnpHOWRwdXdsU3lOSzlFaHpDZFdiQk85VVVwRVhXSkxGc3owSnY1TkdjcFBBVVlrR1FwNlBTbVJkX1ZCQzJVVVk?oc=5",
       "date": "Thu, 04 Jun 2026 06:47:01 GMT"
+    },
+    {
+      "title": "福井市の通称・芦原街道で事故　78歳の女性が乗用車にはねられ重体　片側2車線で横断歩道なく…警察が事故の原因を調べ",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjQ0WTdNM2VuT2NNQ2JjS1VtWU9hNW1PMFhRTG1OeWRyalk4WkZ0T19QRUpoT05HUnJ3WHgxNU9JdDFFMUs2YndlOGVtbEliNVZ5RmJOTW52SVVwZ0xMZnFkcGkyWVM0NWtxcG9YNkVuOHhNZUtra0p5cUQxZFc5aVRTaVc1UnBweU0zTWpJeG9VTG14cTZJSzc1WVl5TmFEY2xzeC1IUE8tWXVRdGxhTllaczEtcW02d2hGM0dJcmxXWVZjSTNlNTN1bFh5SmNj0gGAAUFVX3lxTE5oSUlZdHhwQnBnaTd0NkhCRE03ckd3dXdpMDRjX1lHdTQwNTlJM3Uzbm5WYmtoaDEzOXd4c1hKeXRzTEsycmlHa1M2aUpjR0l5eXB6anQyemRKbTd6c01icmljVmJNMFVUSURwN3dSNG93SEpmSjM5ek9KQ2pvdnNV?oc=5",
+      "date": "Thu, 04 Jun 2026 10:50:00 GMT"
     },
     {
       "title": "深夜に県道を歩いて横断…乗用車にはねられ53歳男性が死亡 越前市国高の武生・美山線 福井",
@@ -48,14 +112,9 @@
       "date": "Sat, 16 May 2026 07:00:00 GMT"
     },
     {
-      "title": "道路を横断中の男性が乗用車にはねられ死亡 福井県越前市",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odlBobEhkU0oxMDVFUjI5cG8xN1pUTEgwVUpESGtQcjR6ZTJvRzhTaE9ncER2Q0ZQbEY3YlZVLWZCcnB1V3BxU2JoMURwY3U1YXlGSw?oc=5",
-      "date": "Sat, 16 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "釣り客が波にさらわれる死亡事故受け…三国防波堤で侵入防止へ対策本格化 福井県坂井市、8カ国語看板など",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3k1cWczb0NjeEVBMHZrbFhJZW9WdHR5MFNZRUhHREVBYjN0VC1iQnUxbU9waVBLREtMeTdyM3djM0RoaDdJTVhOeWVzb1Bxc3VGYk9idy1CRGY0OEVyc1JTTlJneV9IMFlLWHUteFBOcjhOYXIzM3BmR1NjX0tHemlmV3F6UUJRdi1yeWl3?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
+      "title": "福井市の通称・芦原街道で事故 78歳の女性が乗用車にはねられ重体 片側2車線で横断歩道なく…警察が事故の原因を調べ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXZDZWFBT3BSakJfcjRtQXNwTzZVcFo3NkRrNDhJSi15LVB5Mk9UV0xQdjRaSGc1azJkV2hobUJ6WHVuVkJmZ1h1N0dsTHRORUtPNkczanUwQUFCd2ViejQ4WVplQWk5NnhzWTJrWVBDT2FNbzFsUHZ1ZllBeUZleE9YQ192b0U?oc=5",
+      "date": "Thu, 04 Jun 2026 10:50:00 GMT"
     }
   ],
   "official_links": [

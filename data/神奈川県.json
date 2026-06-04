@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:05:39.347707",
+  "generated_at": "2026-06-05T00:08:20.702029",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.9,
+    "temp_max": 22.0,
+    "temp_min": 16.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",

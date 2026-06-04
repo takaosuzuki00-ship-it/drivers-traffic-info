@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:09:34.036764",
+  "generated_at": "2026-06-05T00:12:46.819230",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.5,
+    "temp_max": 23.3,
+    "temp_min": 20.4,
+    "precip_prob_max": 100,
+    "precip_sum": 5.0,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "09:00",
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 22.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 27
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月4日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
@@ -11,14 +70,14 @@
       "date": "Thu, 04 Jun 2026 01:36:32 GMT"
     },
     {
+      "title": "６月４日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43azR5ZzlhdkF2N0pKNzJpNGFEek95UmtkU3JUY3N2VnhZYTVUaDRnTUwzZlFHQUVPTVlLN2pYMWJibU9tSGM1N2ZSenZHLXVtVnVLWVN1ZEtYQlE?oc=5",
+      "date": "Wed, 03 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "６月４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXhveS10bzZVOWRuWEhKb0dzSVZRTS1sRjBsYUxsZTA3ZG5XX0NSUklsYlhjWUdxbXZzUmViYXZPWWJtaWp0WnFUU19NSlltcll0LV9JdDV4UFJtS09TVXRLY0ZiRUN1Z2FpX1ZDV00xekZGbGdXRTJjTDFDbG1FM0FEeE1xR3NnX3dCcHFsZUhYYVo0VWQwT2czM0UwZTRxRzdqdlh6b3k0Z3VpeXZiVjZsa0VrRG5fcVhYQUJGRDU0bVNUald30gF3QVVfeXFMTi1QbFBEMWdXLVNYc1dDeldXV1lXN1Q5a1RMZEtfd3JOWG4xSWZZZkNDdzhHY3RmdVI5LXRXNmFhYkNTSWowZ2NGQWlLa3BVMGlXUkhtT2F3dmNIVDkweFhKcDlQeElXSk5nR3hJZkN6Ykh5bDRmb1k?oc=5",
       "date": "Wed, 03 Jun 2026 20:10:40 GMT"
-    },
-    {
-      "title": "６月３日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0NjM0NE1xZUlnR0VNNWFSZ0hScF93cDRTcmpROWVlMVlUMEpqOWZfeGlQalVfalpSeC0yVkpVMDV2Q052N29xeUxuYzNKclhPYkNYaGc3SnNxc28?oc=5",
-      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "6月3日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
@@ -26,9 +85,9 @@
       "date": "Tue, 02 Jun 2026 20:00:33 GMT"
     },
     {
-      "title": "６月２日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXdng2cDNWRlNfemV2Q3Z0b29YT1hKUVZURU9KanhnQ0hyWHdYblVod1FxZTliMm8wbVVTU082R0hzeDRYYjYyNzluYmc4TE1RQnhITnc5VmhMTU0?oc=5",
-      "date": "Mon, 01 Jun 2026 20:00:00 GMT"
+      "title": "６月３日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0NjM0NE1xZUlnR0VNNWFSZ0hScF93cDRTcmpROWVlMVlUMEpqOWZfeGlQalVfalpSeC0yVkpVMDV2Q052N29xeUxuYzNKclhPYkNYaGc3SnNxc28?oc=5",
+      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [

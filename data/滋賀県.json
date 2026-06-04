@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-06-04T21:07:15.166170",
+  "generated_at": "2026-06-05T00:09:53.938475",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 19.9,
+    "temp_max": 23.9,
+    "temp_min": 19.5,
+    "precip_prob_max": 39,
+    "precip_sum": 0.1,
+    "wind_speed": 9.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "03:00",
+        "temp": 19.9,
+        "weather": "曇り",
+        "precip_prob": 27
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "曇り",
+        "precip_prob": 39
+      },
+      {
+        "time": "09:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 22.3,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 12
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "６月２日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tRy02YkNHSTVBR1pLcVpsOHpSQVNVWENBMFJxR29NSjRWVFR2Q2tzUEdkSzdoREVXeWFzXzBVcm44a05JWTRkSjdETXNaUE42c0syMndOelhTMF8ydVE0ZzI3YUlESlE2RjlBaG9XSVRVUdIBd0FVX3lxTE4zeE90aEp1VENQWk1mMU1nRTc3UDluN2FsOGtDcTNpVVNLZGVleUJ2dW5wSHR4blZZUHNkcWNfeVNneXg3THlDYUNSTWFGZm1Vb3NDeWlCbzNKdkNkVnhuNHNOd19IMk1jaFRzdzJvRl9rMHNMN29N?oc=5",
+      "date": "Mon, 01 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "【交通取締情報】福井県警 ３月２４日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83VndZdkcwcndPU2xtZEphRUtnTDNpVThlYm9MZHVaTGhNX1FsNWtsRnlrMTI0TVhKT2VJSkdpQVpmQUJSQUVJSm5Ccw?oc=5",
       "date": "Mon, 23 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "５月３０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qT3MtZXVmdk4tbkpIV1BseVl3RE5hdG4tWnZjOUxrRkR3NVIxTHREWTNOQ0RZbVBSa1JTU2hUblpOd1lwMXlMTjNNdXBiSjFNUHRZUGs0MzdvWTBSal9uTmFndURJcDhsd0k4Q1pNLUV0Z9IBd0FVX3lxTE5MZ3dta1l1ZXEtNGxNRDFrZGNubFZFaXNhX2trMGlvV3IzVzZDVWU4clNoZ3BGQUhpZlRMQ2V3Rmotd3VyNFJwd0Y3UHVLRS1zSmxEYWwtZU5wcm8zVGpBcWg5NnppbVZxeUtfaklLOEM4NDgxa3FN?oc=5",
-      "date": "Fri, 29 May 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -26,9 +85,9 @@
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "検問や警戒活動など「一掃大作戦」奏功か 滋賀・大津署管内 昨年の飲酒人身事故が大幅減",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rd2JUSUtEZWNlMGgzdGdfYzN6aHpTbnhyejU3SW9hZUFlQXJaZXZhTk1Rb0cyWENnaE95bmNuTEUtQ1BXMmIwcEdPOWFTT2Z5TlU5bUNTOW1TT1ZZczNhS0ZILVlyVWN3VmVaNnZCemZ3Z3Z6VXc?oc=5",
-      "date": "Thu, 05 Mar 2026 08:00:00 GMT"
+      "title": "５月３１日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UlFCQ1pfX3l5WnhrdWRQV0VPTkM2RHhtR0kzenRIaDlVRm0zQ1BKczdWUlRrZUV6cHptSmg4ZlppekNBNEVEMVAtVGc1UXVmaUstaV9DOXk4dmFQYVQxNmM1NXM2UUkzYVZwbW5fR3ZUUdIBd0FVX3lxTE0xOHlETGZjTVQwSFh6cVoyaVFuYm14RFd2NnptcmpacU51SkJldTg1UU1YRzZNVGxTRWxfbUJoeFVkZmg2Z055akJwX0xxc1RqS1FvVzlWZHp0NWVmSTl0S0JybmlEc0p1TGdkeEVUSHlLcFdINEJn?oc=5",
+      "date": "Sat, 30 May 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,19 +97,19 @@
       "date": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「死者数ワースト1位」の滋賀県の「危険な交差点」 事故の理由は?対策どうする?【一覧表付き】",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82SmN2SkhhVEQ5UEpIWnpRZy0tSDdwSzFqeEVJR3V6MkpPX1RXdkhyVmE0TGFtYncyNmJuWFJrd2tvU0FjeVJOOEVIMGgtb2lJLWN6VXJXSlc?oc=5",
-      "date": "Fri, 29 May 2026 20:36:00 GMT"
-    },
-    {
       "title": "中学生が自転車の交通事故の恐ろしさ学ぶ 滋賀 草津",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NLXpIT3RJMmNNaExaZ0JYdGlxaFBXSmJwVmhmQXRmQ1RYMnRZekJzdV9ucGpvbEFnRWVPa01GazE2RXkxbjFvUDJnMktSUC0tMUJvd2c1Z28?oc=5",
       "date": "Fri, 29 May 2026 08:34:00 GMT"
     },
     {
-      "title": "道路横断中の死亡事故、歩行者はどちらからが多い？ 思い込み影響か [滋賀県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SRHdTUGlUTEpxSm1CLXZWZElhSzFfYzFhanUzRHItRjZ6cHNqUHR0bTE2dWNpczRCSmxpN1VjM1IwbDRCZExZbzdHaW9vVG1ma3hoZ1JFV2hlWEpEdGtNMlcxVTloSEU?oc=5",
-      "date": "Tue, 05 May 2026 07:00:00 GMT"
+      "title": "滋賀のトンネルでワゴン車が自転車に衝突、84歳男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KaXNFUGN5blBEZXJzaTNJZWxHYUlDOU1nSkFQSHY4dTU1V2ZmQjlSZWZLdDBSdll2YUJyRnNIVmFuaVJZeS1EYmQxSURpQXctd1E5QWtpTHc?oc=5",
+      "date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中学生ら13人重軽傷 ハンドボールの試合帰りに車衝突 滋賀・彦根 [滋賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWmpSbUxDd2liS0wzWnIxQ0EwVzhDR1VtMG5STlE5Z2JkekJQY3N3YjhON1FwTUw2Z0ZzUHNOaW1UQVJtRGJZbGJOVWNGMDFCc09YdWxQOFpaY0laV19velFaTEtEUG8?oc=5",
+      "date": "Sun, 03 May 2026 07:00:00 GMT"
     },
     {
       "title": "交通事故の死者数の増加率で全国ワーストになった滋賀県、高齢者の道路横断や後部座席のシートベルトに課題…県警「非常に深刻な事態」",

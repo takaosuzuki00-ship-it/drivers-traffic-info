@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:04:20.337658",
+  "generated_at": "2026-06-05T00:07:03.093852",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.9,
+    "temp_max": 20.5,
+    "temp_min": 13.8,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 1.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月4日（木）【岩手県】　日中・夜間の交通取締情報",
@@ -33,29 +92,29 @@
   ],
   "accident_news": [
     {
-      "title": "米沢市で車3台が絡む衝突事故 1人が搬送 国道13号が通行止めに（山形）（テレビユー山形）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Q01JaUQ5YzMxaUNnZ0ZEckFoeTFIZ1NJUGxfSGIxNEFmMTdFM2RsTHlXeWR4ZDJMdzVSLU1lckZLTWprMUZIeUZVUWlJV19JNE1NdElvVEdseDVZaUZoMWFJN2NDdjc5ZnAxTm5IdjdoVHRpczhEUFVnQjlOWHc?oc=5",
-      "date": "Thu, 28 May 2026 04:15:30 GMT"
-    },
-    {
-      "title": "タクシーと乗用車が衝突 タクシーの乗客2人がケガ（山形市） | 山形のニュース│TUYテレビユー山形 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DWDVndzViSVN1ck9STk1oMnNNaWNkRks5ZFMxcllPYThrY2EzWFlaTW9qaExJYjVkM3RrZG8zakJGcXEtQVNrNXJ6MGxiajJPR0lOYVdUdFBGM01lQWtzV2MwMU1SamM?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "自転車事故の恐怖を体験 スタントマンによる高校生向け自転車交通安全教室 山形・新庄市｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qeWZlWUVua3hVa1FsTnBHMF9NTnRHLTZnNFpOZFdCSFYtZTFqNEhxOUJ6NnB5YjgwMGctZlhBb0U5YjhtUWREcnFoTFR5Um1Oa2lmdnZRVGxQWkNXdHBTTHA2cWZMVG9Sbng3ZWRTbFQ5X1k?oc=5",
-      "date": "Thu, 28 May 2026 09:00:00 GMT"
-    },
-    {
-      "title": "鶴岡市で車同士の事故 運転手の20代男性が意識不明の重体",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZTTBUTWdVaW40YnZKdzhuWmlENmp5Sk5HbXhFSjItUmVucWI1QkpHQTZMV0R5WFRmckszbWxYSWxpZE9ESnpfclNOaXdic1YtWTk1SGd4VEl3Zw?oc=5",
-      "date": "Sun, 17 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "死亡労災 男性（52）がトラック荷台とコンテナに挟まれる事故 山形・東根市（2026年6月3日掲載）｜YBC NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmswVW9wdUdiV3BVNUVic2dMdVF0UEJnNTBiSkx0WFVTYnozOXJFMUtBT3hPZ1drclJMY3Z6aTdiQ3JDUnRWZWhWN1phS2pxTENMT2xmQU1FYWpPUkh1czBmc1JmUTJNNXp5b0FMdjhFd3RWWVNQdk1FY0FQcXViTGotVWQxWlE?oc=5",
       "date": "Wed, 03 Jun 2026 23:03:01 GMT"
+    },
+    {
+      "title": "つり上げていたフックがはずれコンテナの下敷き 52歳の男性死亡（山形・東根市）（YBC山形放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iWnl3WXkzWDZkUEJNaWZ5YWJfd3pGS3NCQUxqUW0td2x2eVQzX052LU1vUkhFM1BRd0ZQb1FOallRbldfeUd2QWF5MVlBVS1lZ0RqelpxeVlFVndOSmpKTElzeG9XOXN4SEJWSmRRWUNiek5XWnJuWEliZ3VFNUk?oc=5",
+      "date": "Thu, 04 Jun 2026 03:20:01 GMT"
+    },
+    {
+      "title": "1人でコンテナのつり上げ作業中に男性死亡…フック外れ荷台とコンテナの間に挟まれ心肺停止 山形・東根市｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nblg2bENQVUZtSmhlVGpRbUlyMFdFTHRUMFRTdFFIekFQb2d1SWFuZXBMS1hVYmRqWG5qNk1aSV9BX21sOTJHV1RDZ2Rad1Q3N1NRMWp6bzlnN0R6TUFiYmU5TkR2SmNUbnRIQWZscFBrUVE?oc=5",
+      "date": "Thu, 04 Jun 2026 02:53:00 GMT"
+    },
+    {
+      "title": "山形・酒田の男性遺体、クマ被害と断定 38年ぶりの県内死亡事故に",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KNDVpVGIyVmFrRmZ3M0FDZjJLNVBWZmdfRVl6X1E1cHFfUE1pT1k2OUtiLXQ1XzVCNVRMT3AzNTFvcVE4UE1xY0VWVzlnLVFCTmY3T3dZZ1J3LXFKTE9jQ3pIUWNhem8?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "エレベーター死亡事故２０年 母「安全考えるきっかけに」",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV3Z1SWV3VVZ1QW1wR29Zd0NBY0hheXk0UjdRTzU3N1FxWUItVEdTanpyMTNQalh1ZVVQTFZEUlBNanhxd3ByNmJ3bnoxc2tHbGVMQXRxQUpBX2x3ejlhRkxnd0YtY2JIa1ZlcmhjLXFZTWdEUVRSdWRjZnl2Y3ppVDJYMGhTRGQwcTlR?oc=5",
+      "date": "Wed, 03 Jun 2026 07:01:00 GMT"
     }
   ],
   "official_links": [

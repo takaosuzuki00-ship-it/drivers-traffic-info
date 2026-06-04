@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:07:00.014633",
+  "generated_at": "2026-06-05T00:09:43.485881",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.0,
+    "temp_max": 22.2,
+    "temp_min": 19.8,
+    "precip_prob_max": 46,
+    "precip_sum": 0.6,
+    "wind_speed": 11.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "03:00",
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 35
+      },
+      {
+        "time": "06:00",
+        "temp": 20.2,
+        "weather": "曇り",
+        "precip_prob": 43
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "12:00",
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "６月４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -26,9 +85,9 @@
       "date": "Sun, 05 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "６月２日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tRy02YkNHSTVBR1pLcVpsOHpSQVNVWENBMFJxR29NSjRWVFR2Q2tzUEdkSzdoREVXeWFzXzBVcm44a05JWTRkSjdETXNaUE42c0syMndOelhTMF8ydVE0ZzI3YUlESlE2RjlBaG9XSVRVUdIBd0FVX3lxTE4zeE90aEp1VENQWk1mMU1nRTc3UDluN2FsOGtDcTNpVVNLZGVleUJ2dW5wSHR4blZZUHNkcWNfeVNneXg3THlDYUNSTWFGZm1Vb3NDeWlCbzNKdkNkVnhuNHNOd19IMk1jaFRzdzJvRl9rMHNMN29N?oc=5",
-      "date": "Mon, 01 Jun 2026 20:00:00 GMT"
+      "title": "6月3日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50blRIZDNvZUNiR2NDQ1h6RS1MdkxNY3NIRjNLS1hXYjRSZEdxMng5dC0yN1JkbmR0enZ4UFRIamlPbWVHaWRYMnpUU2dnbmNJdXhxdDVBTmMxZGNDZllwWG41VTZpUXEyRy0yWnFxNNIBdEFVX3lxTFB2c1dNa0dDYlZjX0tHS0hpMExkUTFrcS0zOVRRZmFoMkVwRXRVNHJ2NE9RRW9kMUlmbmJqaWlWUldBTDJjMUVadUxLX0pSVjktRkt1ZXJ6eE5oRXVjR1FZellqeE5IR2QyeTRqMnBsUUhOUkpy?oc=5",
+      "date": "Tue, 02 Jun 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [

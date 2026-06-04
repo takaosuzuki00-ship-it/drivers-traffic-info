@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:08:41.050430",
+  "generated_at": "2026-06-05T00:11:43.894371",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 20.1,
+    "temp_max": 22.5,
+    "temp_min": 19.2,
+    "precip_prob_max": 86,
+    "precip_sum": 1.4,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "03:00",
+        "temp": 19.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "06:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 57
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "12:00",
+        "temp": 22.5,
+        "weather": "曇り",
+        "precip_prob": 55
+      },
+      {
+        "time": "15:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 35
+      },
+      {
+        "time": "21:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月4日（木）【岩手県】　日中・夜間の交通取締情報",
@@ -48,14 +107,14 @@
       "date": "Thu, 04 Jun 2026 11:22:19 GMT"
     },
     {
+      "title": "３台絡む事故 男性１人死亡 岡山 国道２号",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jcTgzY0JTSkNRTXNVVUx2VGxQaEwyVVNyTmlQbi1LelpSUi10Y0l4Z3VlYTZvaHB4bmVfQ00yRTdfdGdOSTJORkJrVE1UZUZDMEE?oc=5",
+      "date": "Tue, 02 Jun 2026 11:14:23 GMT"
+    },
+    {
       "title": "追突事故を“自作自演” 交通事故を偽装し保険金123万円詐取か、男5人を逮捕",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oamp2Vkc2RU90RG52aUJQaVdxaUUxMTZkS1VQVFNFNWtkZXZVTjVfTEZOVXo5by02cVBIcDh1OWJUa1dBbThUcHpaUHN0RWhteU5kRGt5dUd0SVFqc0w3RHk0dWxUQ2s?oc=5",
       "date": "Thu, 04 Jun 2026 03:20:00 GMT"
-    },
-    {
-      "title": "車4台が絡む事故 1人死亡 岡山市（2026年6月2日掲載）｜日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mQmFhM01SeWx3RFF4dktmYmFOY3FZZ1dhQTBsSVhWSWYwNDk5OFpIRHN3RFhZUkZkNS1lMjhBdmZONVZhamFYN1FYRS01a1hSWFo4VmNkVWZGbEszTW5ELV95OUFtOXZEWkRLdWFPZDJRcldwb1NLVmZwYTVweVk?oc=5",
-      "date": "Tue, 02 Jun 2026 07:24:01 GMT"
     }
   ],
   "official_links": [

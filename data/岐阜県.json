@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:06:39.342036",
+  "generated_at": "2026-06-05T00:09:20.566779",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.2,
+    "temp_max": 23.3,
+    "temp_min": 18.1,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
+    "wind_speed": 3.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "12:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "５月３０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",

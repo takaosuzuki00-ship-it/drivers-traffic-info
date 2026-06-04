@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-04T21:09:42.658212",
+  "generated_at": "2026-06-05T00:12:56.722980",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.2,
+    "temp_max": 25.2,
+    "temp_min": 19.8,
+    "precip_prob_max": 71,
+    "precip_sum": 0,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      },
+      {
+        "time": "03:00",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 23.9,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 21.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
@@ -48,14 +107,14 @@
       "date": "Wed, 03 Jun 2026 05:26:00 GMT"
     },
     {
-      "title": "「よそ見をしていたら歩行者が急に現れた」自転車と歩行者が衝突する事故 50代男性が意識不明の重体 福岡市博多区",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMFVHTUJSNTlOZGFubjgyT1FKZjAxRUFGcWRFcTZPcVplc2xGbzdzZGUzQmhyY0hucXI2Tk9TdW5uMl8yUzBzVklrWTRLU0h1T2NZdEtMUQ?oc=5",
-      "date": "Mon, 01 Jun 2026 18:13:00 GMT"
-    },
-    {
       "title": "福岡・嘉麻市で交通事故による集団救助が発生 馬見付近 約40分後に完了（5月30日午前11時49分ごろ発生）",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBONzY4NzA4RTFtMS11NzZhU1dTNjZjQ1pmbXVvdDg1YUdxYXNqdXhaVHFSNThuaE44eThvQWdISmVZNTFuVl92VGlDWlFSSnlDOHJxa3B3?oc=5",
       "date": "Sat, 30 May 2026 03:41:00 GMT"
+    },
+    {
+      "title": "九州自動車道の多重事故、意識不明だった軽ワゴン車運転の成人男性が死亡…準中型トラックに追突される",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55djY3N2dxZW45VllPVmlxWUNHckRrTDhEZVNTWkNIQTVKRDRRTDBoRE84RjZnZzZzUWo3cnlocFoxMG4yNlZLdkVRNzFSZS1BTW55TXBja3RxaTVPcnV0TmJHcjN3VW5UQjM3SjlxXzl3QQ?oc=5",
+      "date": "Sun, 31 May 2026 02:27:00 GMT"
     }
   ],
   "official_links": [
