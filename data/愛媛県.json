@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-05T21:12:59.416442",
+  "generated_at": "2026-06-06T00:04:00.800609",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 21.4,
-    "temp_max": 23.7,
-    "temp_min": 20.1,
-    "precip_prob_max": 100,
-    "precip_sum": 4.2,
-    "wind_speed": 2.6,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.4,
+    "temp_max": 27.1,
+    "temp_min": 19.8,
+    "precip_prob_max": 91,
+    "precip_sum": 0.3,
+    "wind_speed": 3.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.1,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 20.5,
-        "weather": "霧雨",
-        "precip_prob": 57
+        "temp": 19.8,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 20.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 53
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 20.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
+        "temp": 24.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 21.1,
-        "weather": "曇り",
-        "precip_prob": 88
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 67
       },
       {
         "time": "15:00",
-        "temp": 21.9,
+        "temp": 25.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 63
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 23.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 78
       },
       {
         "time": "21:00",
-        "temp": 21.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 4
       }
     ]
   },

@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-06-05T21:07:10.532980",
+  "generated_at": "2026-06-06T00:02:04.598254",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 21.5,
-    "temp_max": 26.6,
-    "temp_min": 20.7,
-    "precip_prob_max": 37,
-    "precip_sum": 0,
-    "wind_speed": 2.6,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 19.9,
+    "temp_max": 26.3,
+    "temp_min": 18.7,
+    "precip_prob_max": 85,
+    "precip_sum": 3.0,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 19.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
       },
       {
         "time": "03:00",
-        "temp": 21.4,
+        "temp": 20.7,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 49
       },
       {
         "time": "06:00",
-        "temp": 21.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.8,
+        "weather": "霧雨",
+        "precip_prob": 80
       },
       {
         "time": "09:00",
-        "temp": 26.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.5,
+        "weather": "霧雨",
+        "precip_prob": 80
       },
       {
         "time": "12:00",
-        "temp": 25.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 22
       },
       {
         "time": "15:00",
-        "temp": 25.2,
+        "temp": 26.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 35
       },
       {
         "time": "18:00",
-        "temp": 23.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 18
       },
       {
         "time": "21:00",
-        "temp": 21.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 19.5,
+        "weather": "快晴",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月4日（木）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0RncFIxUEF4TmNXUkcxZjEydW51dF8yVTktemJsLUotRmpDRFNmYTVUUGNqMWJIWW9fc3pyY1BLVXE4VGVGYnE1ZjVMY1JlVy12UTdISXQ4Q1VjZ1RueXNhcllKQjZjd3p4eUtPT19WQ2liUm8xMVc4am0zT2owdXNJa2tCVDNmdUJKZ1dEWEZlb0szWVJtMUNnUnhEV2NjVzVNRnhkbThoVWNxY1NKRDhEU1BVZHBEWEhrU0hjckFQQW100gF0QVVfeXFMT1Bxei1qeENla3dwdll5NVAxd0oxaFVPanUzRWUtUEVTay1WazRuQWtzZ3ptRWcyQlRJd3lFZ1BTbTFFa3ZFajlVaDAybkdraFNfal84M0E2Y1pfNEFXLWpHTXpjeDRTWWdIZmNWYi1lTFl5Qzg?oc=5",
+      "date": "Wed, 03 Jun 2026 20:10:40 GMT"
+    },
+    {
+      "title": "車内からナイフとコカインを発見、職務質問で19歳大工の男を逮捕…銃刀法違反と麻薬取締法違反の疑い 富山県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Nb29LV3pWZC1BaDFYVTZIYWFSbG5TZmFwTlJTcTRLUm9ndm9nQUxjazlSaVJhTm14akxfamt4ME5FYmdwaG5iMDduTGxNZ3N5T1BQTVVPdw?oc=5",
+      "date": "Thu, 21 May 2026 08:30:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
     {
       "title": "立ち去った男性は…発生時間に合わせ検問 未明の交差点で33歳女性死亡の事故 ひき逃げ事件の可能性も含め捜査 富山・高岡市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tX0x4dGhPNm0xMkZZRmV1dTJSVDVmVm8yTmVIdlpjcl8zVE5wR3RTTUVKUXpJeVpCYzY5dGRyam1wVFpUOXZrckhrZ1JVeVhtY0hBVG9sUHFLMlVNX1M0dUU5Q1k1Snc?oc=5",
@@ -73,48 +88,33 @@
       "title": "自転車酒気帯び 石川３５８人摘発、富山１６人なぜ？ 罰則化１年（北國新聞社）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eHNCVV9hOFJra0xocjUySGJKeU8ySERlanlySF8zemQtYUQzT0FoQkI3N3gyeUd1RU9NTUwyczY4Y3hBY3F6OUpZRDdhLUIzVmlmcWZSNkVjUVRKQXBITEtSalhkNXBXUWRMYmxzNnF5NVpQd0lQWldBVjBuZTg?oc=5",
       "date": "Sat, 06 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "悪質運転５件摘発 県警、国道８号で特別取り締まり 富山の親子死亡事故受け",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SlhkNWhzLWdNdTJCRGhWNmtYOHFUVGNBNnNnQ0h3OEt4Szh4N2J4S2hCVnhhaEp5NnFyUnR4OHdRc1F1QU1rVjlWY05qMnVVMVZvcUVZY2VGQQ?oc=5",
-      "date": "Fri, 22 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "停止中の車に追突 26歳の女 安全運転義務違反の疑いで現行犯逮捕 危険な速度と進路の安全確認しなかったか 富山",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZm9mSlBaQl9ueTA1dm5NNHNwUXg4ejl5RDJIS2xjbWRmVDRROGttcGVXU0tfWTJ2bnNpRmgtWmJKM2sxOFItTmluOHlTVVB6aFhsQkhYYjJ4Zw?oc=5",
-      "date": "Tue, 16 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "赤信号無視の暴走で30人検挙 石川・富山の10代男女がバイクなどに分乗 2025年9月に道路交通法違反の疑いで高校生など6人逮捕・送検",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iMTl0QmhVbzVDc0RjR0JPdzItQjg2Mk9iWnhsdzRjMG9BR0k1YXlTY2xEYlZpRG9vZ2U5TlRRME5wakk5ekpPYTI2S2VwTUhqNnFlcWt1b2hzT25DaS1FS1plUnBKdmM?oc=5",
-      "date": "Thu, 26 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "【北陸道事故】大型トラック 工事車両と作業員に衝突、57歳男性死亡、36歳男性が意識不明の重体 富山・魚津市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubk00aU9ETzhxQWU2aEJpTTFCdDUtNzhUQmxuWE9XcW4xSVI3NHlhMnQyMUgtQTBYaVNmYndwSllDdmRNRXA1d3R2R1M0dlhFN0xNMVRyc3M4Zw?oc=5",
+      "date": "Fri, 05 Jun 2026 11:43:00 GMT"
+    },
     {
       "title": "工事車両とトラック絡む多重事故、作業員が1人死亡 もう1人も重体 [富山県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5WmwxdnRBTFJoWWNEZGNBNUw0a3lOaHhWYW5YNng5eE9tWXJ0UVEtVzJac0h0c2pwSzFUZXVXTlZzcXZwTUhSQW05VlFhSmYtemFvTXJtSUpkNFAwbjBTRjJlbVFmajA?oc=5",
       "date": "Fri, 05 Jun 2026 08:02:24 GMT"
     },
     {
-      "title": "【速報】「工事車両に車が追突した」北陸自動車道で事故、男性2人を救急搬送 工事車両に大型トラックが衝突したとみられる 北陸道（滑川IC-魚津IC）上下線で通行止め 富山",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EU3Q3NzhOVmJMWjBnTm1qOHRISmFZZ29kTkVid21RclhzQmp0UEU1dDU4TWJncC1ZaFdvd1BDWktROGc3OTZ6VUVSR21aN1l2S0RDU1hWdnEtQQ?oc=5",
+      "title": "北陸自動車道で工事車両にトラック衝突 30代男性が死亡、1人意識不明の重体 魚津・滑川IC間で通行止め続く",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FQVJCbFZRLW93RU1SU2Z4YXV6Q2R1Y3FvVk1IMl9UWjlCR3dZREJuUDE0cnJxMVQ1QTNSb2dqalNEYURHbnBORmFmakR4UQ?oc=5",
       "date": "Fri, 05 Jun 2026 06:12:00 GMT"
     },
     {
-      "title": "北陸自動車道の魚津～滑川IC間の上下線が通行止め 3台が絡む事故で3人が負傷",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FQVJCbFZRLW93RU1SU2Z4YXV6Q2R1Y3FvVk1IMl9UWjlCR3dZREJuUDE0cnJxMVQ1QTNSb2dqalNEYURHbnBORmFmakR4UQ?oc=5",
-      "date": "Fri, 05 Jun 2026 06:12:00 GMT"
+      "title": "富山県の北陸道で工事用車両に大型トラックが追突 男性2人が意識不明",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJLTItVmZwb21vNmZTY2tCOVZScEF6djdxNTNweEZvTnh6MjR6VTg4NmZFZF9pWm02UDRVYU9CMUVPcG5XWlFYQUpGSWtRT3VnVFhJVHN2bXY2RVhuck9JTW1uNU5sTGhMWHZ2MjlxLW14dw?oc=5",
+      "date": "Fri, 05 Jun 2026 06:50:29 GMT"
     },
     {
       "title": "【速報】「工事車両に車が追突した」北陸自動車道で事故、男性2人を救急搬送　工事車両に大型トラックが衝突したとみられる　　北陸道（滑川IC-魚津IC）上下線で通行止め　富山",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIbHZVOW5YOU1NMWNZZERudDc3MFRIUnh1YzJTQlZWTWZDNENLS3NZVzlWSUc4OWV0NDdPUm1QZWhSQUtDaEFLSUpJZVZCc3Y2SWlHVWJDWUxtZGw0cHozMnFCUkNQZXNaQ0kzczFjWUtGbVBmV3MzWGNn0gF_QVVfeXFMT001NkhSdXVfUFF6dnZibDNlMTQ2bjVJUkpnYXdXXzJSUi1oTUtYdGt2a3Vua1hVcGVTVzBKTDA4OU5JT3FvNDFGR0Z3TGt4Ym1PeUhYYnF5NW5sZ19lNUVXVHI1VDAtMHVObk5vVU9BdU1IZWF3bjFBZGcxdnN3WQ?oc=5",
       "date": "Fri, 05 Jun 2026 06:12:00 GMT"
-    },
-    {
-      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
-      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
