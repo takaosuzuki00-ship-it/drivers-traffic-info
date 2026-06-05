@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-05T12:04:52.674163",
+  "generated_at": "2026-06-05T15:03:36.864928",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 16.1,
-    "temp_max": 16.3,
-    "temp_min": 12.0,
-    "precip_prob_max": 96,
+    "temp_now": 14.0,
+    "temp_max": 15.0,
+    "temp_min": 11.9,
+    "precip_prob_max": 100,
     "precip_sum": 0,
-    "wind_speed": 13.7,
+    "wind_speed": 14.0,
     "hourly": [
       {
         "time": "00:00",
@@ -29,55 +29,65 @@
         "time": "06:00",
         "temp": 12.2,
         "weather": "曇り",
-        "precip_prob": 55
+        "precip_prob": 88
       },
       {
         "time": "09:00",
-        "temp": 14.1,
+        "temp": 12.7,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 15.0,
         "weather": "晴れ時々曇",
         "precip_prob": 92
       },
       {
-        "time": "12:00",
-        "temp": 16.1,
-        "weather": "晴れ",
-        "precip_prob": 73
+        "time": "15:00",
+        "temp": 14.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
-        "time": "15:00",
-        "temp": 15.0,
+        "time": "18:00",
+        "temp": 12.7,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
-        "time": "18:00",
-        "temp": 13.0,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
         "time": "21:00",
-        "temp": 12.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "6月4日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LU0duS19SUFRtc2tCR1lEM1YwSlI2U1BVTmlOYVZ3cDZYVFdZeHB1d1RVNnJpa1JUd2RfOTd1ZkVYaFN0U3VCZFhlT0FEQXNTMmV2RGVxbTV6UQ?oc=5",
+      "date": "Wed, 03 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月4日（木）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0RncFIxUEF4TmNXUkcxZjEydW51dF8yVTktemJsLUotRmpDRFNmYTVUUGNqMWJIWW9fc3pyY1BLVXE4VGVGYnE1ZjVMY1JlVy12UTdISXQ4Q1VjZ1RueXNhcllKQjZjd3p4eUtPT19WQ2liUm8xMVc4am0zT2owdXNJa2tCVDNmdUJKZ1dEWEZlb0szWVJtMUNnUnhEV2NjVzVNRnhkbThoVWNxY1NKRDhEU1BVZHBEWEhrU0hjckFQQW100gF0QVVfeXFMT1Bxei1qeENla3dwdll5NVAxd0oxaFVPanUzRWUtUEVTay1WazRuQWtzZ3ptRWcyQlRJd3lFZ1BTbTFFa3ZFajlVaDAybkdraFNfal84M0E2Y1pfNEFXLWpHTXpjeDRTWWdIZmNWYi1lTFl5Qzg?oc=5",
+      "date": "Wed, 03 Jun 2026 20:10:40 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「並進」違反1時間5件 青森県警が指導",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JYm5wbzlGWWQ3dDJ6bnJRbmFKM0JnUmxVcU9STUdvRzlQTDl4ZTJDN1dKS19jZkNZR1NJbVRSVDVRRVpMWkwzaUp2OA?oc=5",
+      "date": "Fri, 10 Apr 2026 00:02:29 GMT"
+    },
+    {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」｜全国のニュース｜Web東奥",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vTHhsNlkzLUdHOVIxQzk3Qk9VUk5rZkxkVmw5WVZoUDVuYzFiT0NzT053eTZaTFlXd3N1RzBXVngzdnV0MEdleHBoZWZXWENnSEhIY1lLZkk?oc=5",
       "date": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "禁止地域で性風俗営業 風営法違反の疑いで男女3人を逮捕／青森市",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40NHUtTXdVa1NHX1ZKNWY0eDI2emZCUnpJcWNRcVJoM2VDNXlDTThkYkFWeklVS3laNnNlS3JuOXp0Yy13MDRfWFFMOUJiMFBBVmY0ODhFQ2c?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
