@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-06T00:03:19.822157",
+  "generated_at": "2026-06-06T03:02:45.287592",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.7,
+    "temp_max": 25.5,
+    "temp_min": 18.3,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.4,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "03:00",
+        "temp": 18.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 24.6,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月4日（木）【岩手県】　日中・夜間の交通取締情報",
@@ -26,9 +85,9 @@
       "date": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "２人逮捕、35件検挙 和歌山県内で一斉検問",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VRGJ2S0c2bHY1M1hpQVJ0SXpocGVNVWltSTRQcjQwQ0pnQUwySWxTZzlzVU0zVndDa2Q0MUIteDhmanBXYWprdV9OTkF3U09LOXVVelMzUXN5MlV6d1I5WXZ4SXRTTW8?oc=5",
-      "date": "Sat, 26 May 2012 07:00:00 GMT"
+      "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FDM3A4NXpBa2REdlFER3l3Z19uRUNTN1otY2l5WEpqVzVYMlFiaWE4bXJIQ1RBbFpMMGpUNVdJMzR6TzdJZ1JFM1c0bHJxOXZPQkRlWFhPWVBYcml1V18xckwxbkxSaVVlR0tKM010cVJ3b0diVUhRSDdyaDMwT2NLZWxtb2s?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
