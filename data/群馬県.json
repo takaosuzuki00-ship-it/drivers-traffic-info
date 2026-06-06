@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-06-07T00:01:12.862896",
+  "generated_at": "2026-06-07T03:01:10.284389",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 17.6,
-    "temp_max": 21.7,
-    "temp_min": 16.4,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 16.5,
+    "temp_max": 21.4,
+    "temp_min": 16.2,
     "precip_prob_max": 100,
     "precip_sum": 2.8,
-    "wind_speed": 3.4,
+    "wind_speed": 0.4,
     "hourly": [
       {
         "time": "00:00",
         "temp": 17.6,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 16.7,
-        "weather": "晴れ時々曇",
+        "temp": 16.5,
+        "weather": "曇り",
         "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 16.5,
-        "weather": "曇り",
+        "temp": 16.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
@@ -45,20 +45,20 @@
       },
       {
         "time": "15:00",
-        "temp": 21.4,
+        "temp": 20.9,
         "weather": "曇り",
         "precip_prob": 41
       },
       {
         "time": "18:00",
-        "temp": 20.1,
+        "temp": 19.5,
         "weather": "弱い霧雨",
         "precip_prob": 88
       },
       {
         "time": "21:00",
-        "temp": 18.6,
-        "weather": "弱い雨",
+        "temp": 18.4,
+        "weather": "強い霧雨",
         "precip_prob": 100
       }
     ]

@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-06-07T00:01:52.472610",
+  "generated_at": "2026-06-07T03:01:43.746747",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
+    "code": 53,
+    "weather": "霧雨",
     "temp_now": 17.7,
-    "temp_max": 24.7,
-    "temp_min": 16.9,
+    "temp_max": 23.3,
+    "temp_min": 17.4,
     "precip_prob_max": 25,
-    "precip_sum": 0.3,
-    "wind_speed": 4.5,
+    "precip_sum": 1.4,
+    "wind_speed": 6.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.7,
-        "weather": "曇り",
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 16
       },
       {
         "time": "03:00",
-        "temp": 17.2,
+        "temp": 17.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.6,
+        "temp": 17.8,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.7,
-        "weather": "曇り",
+        "temp": 20.8,
+        "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 23.5,
+        "temp": 23.0,
         "weather": "曇り",
         "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 23.6,
+        "temp": 21.9,
         "weather": "曇り",
         "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 19.1,
-        "weather": "曇り",
+        "temp": 18.1,
+        "weather": "弱い霧雨",
         "precip_prob": 24
       },
       {
         "time": "21:00",
-        "temp": 18.4,
-        "weather": "晴れ",
+        "temp": 17.4,
+        "weather": "弱い霧雨",
         "precip_prob": 22
       }
     ]
