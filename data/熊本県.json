@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-06T15:06:58.712406",
+  "generated_at": "2026-06-06T18:07:39.279844",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 29.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.0,
     "temp_max": 30.0,
     "temp_min": 19.4,
     "precip_prob_max": 41,
-    "precip_sum": 0.5,
-    "wind_speed": 4.0,
+    "precip_sum": 0,
+    "wind_speed": 9.3,
     "hourly": [
       {
         "time": "00:00",
@@ -39,40 +39,40 @@
       },
       {
         "time": "12:00",
-        "temp": 29.6,
-        "weather": "晴れ",
+        "temp": 29.4,
+        "weather": "快晴",
         "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 29.0,
+        "temp": 28.7,
         "weather": "曇り",
         "precip_prob": 31
       },
       {
         "time": "18:00",
-        "temp": 26.6,
+        "temp": 26.0,
         "weather": "曇り",
         "precip_prob": 41
       },
       {
         "time": "21:00",
-        "temp": 25.6,
-        "weather": "曇り",
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 31
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MzBfY2FCVTVwQV94SjdZT3RmMGVpWEtlVTVHeFctZnRnVE9wYlp3bUp0a2hkS0tJZExkNzJXNUozY1pYbi0yeVRiaVY0eUpNOXdLTVVSSGhMYzNmNzVEWmhQTnc?oc=5",
+      "date": "Fri, 05 Jun 2026 20:02:00 GMT"
+    },
+    {
       "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】（RKK熊本放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uZVZmdnZIaXNlVFNGMTNQSldMdUViV1NnZ0hkY3lMR0RjX2pnUVBnZ3d4RFl4WXB1WXR0d0VEdFZnaFdsUmNXc2tybjlOZXpKalI2ZEJfN0ZETDRNTmdhT3NtcVVxYWJjaUpDUVM5NjJWeGJrbTVUdl8zNXVjVXc?oc=5",
       "date": "Fri, 05 Jun 2026 20:02:13 GMT"
-    },
-    {
-      "title": "6月3日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rUzVBbGVwbHNGY3dNQzJiMkVwNVY4d2JUcG42U09jN0J2V0FLNzQzVDg0RXdTcVJZTENOZkFtajZyRU1iamtMcnQ1Q0FaaGJrdTM3ZjFHaw?oc=5",
-      "date": "Tue, 02 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -86,7 +86,7 @@
     },
     {
       "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eEN0N2ZxNml0TUZBekdFS0pVM1pqYWs5UjI1Rm0wNC1oSkpZbXhjMzdBNGhVclBsSGhqb19jQlZPZjZvVGlqbWVvMldSR1dRRnJYcFBSODc2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12a0l2cEtha2NyaXlQaEFNYzFhdzVKMVd1eGRnOEdQbnRjOHNkYzlEQXVzQ3hwbmw5OWZzZ0hBdS1UQjlXa0I2ZXRIYWRVUWJRMmRfelhIeDhoNnE1RHZaZlZobTdHaENSZGRXcmFEZmNsTF9D0gF0QVVfeXFMTXZrSXZwS2FrY3JpeVBoQU1jMWF3NUoxV3V4ZGc4R1BudGM4c2RjOURBdXNDeHBubDk5ZnNnSEF1LVRCOVdrQjZldEhhZFVRYlEyZF96WEh4OGg2cTVEdlpmVmhtN0doQ1JkZFdyYURmY2xMX0M?oc=5",
       "date": "Thu, 04 Jun 2026 20:02:00 GMT"
     }
   ],
@@ -107,14 +107,14 @@
       "date": "Wed, 03 Jun 2026 10:49:28 GMT"
     },
     {
-      "title": "熊本・玉名市で軽乗用車と衝突、死亡",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZndtT0h2VkZ2LWpBbUtFMFRCREtUNWVOM0drRl9Bb2ZWN0FaTVotTkh0a3BuVFRWZ2VKaWVEY0ZwaVBTMThmOG1tRzU4TktkQ01pSHZn?oc=5",
-      "date": "Mon, 01 Jun 2026 21:00:00 GMT"
-    },
-    {
       "title": "【速報】バイクと車が衝突しバイクを運転していた男性が意識不明の重体（2026年5月20日掲載）｜KKT NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTy0zb0pZVG9pNVFSOXdscEJSYW9STXJDZEZDWVNWYU9Oc3JyS1pBamFubnVOV1JleFVlNmQ3N3JpUlJBZ3lUc2hURWozZGJzU05lQkNEMURxNzBUdTdGZzdzMWNsTFotTW44UTFlSU5NODN2cTVjNktBRVNHZVQ3dm1sQkJqWTg?oc=5",
       "date": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "熊本・玉名市で軽乗用車と衝突、死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZndtT0h2VkZ2LWpBbUtFMFRCREtUNWVOM0drRl9Bb2ZWN0FaTVotTkh0a3BuVFRWZ2VKaWVEY0ZwaVBTMThmOG1tRzU4TktkQ01pSHZn?oc=5",
+      "date": "Mon, 01 Jun 2026 21:00:00 GMT"
     }
   ],
   "official_links": [
