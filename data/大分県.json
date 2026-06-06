@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-06T06:03:09.533809",
+  "generated_at": "2026-06-06T09:03:50.632751",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 21.5,
+    "temp_now": 21.8,
     "temp_max": 26.8,
-    "temp_min": 21.5,
+    "temp_min": 21.2,
     "precip_prob_max": 100,
-    "precip_sum": 0.3,
-    "wind_speed": 5.5,
+    "precip_sum": 0.9,
+    "wind_speed": 5.2,
     "hourly": [
       {
         "time": "00:00",
@@ -21,49 +21,59 @@
       },
       {
         "time": "03:00",
-        "temp": 21.6,
+        "temp": 21.5,
         "weather": "晴れ時々曇",
         "precip_prob": 37
       },
       {
         "time": "06:00",
-        "temp": 21.5,
-        "weather": "晴れ時々曇",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
         "precip_prob": 51
       },
       {
         "time": "09:00",
-        "temp": 22.4,
-        "weather": "晴れ時々曇",
+        "temp": 21.8,
+        "weather": "弱い霧雨",
         "precip_prob": 90
       },
       {
         "time": "12:00",
-        "temp": 26.0,
+        "temp": 25.2,
         "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 26.8,
-        "weather": "晴れ",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 24.6,
-        "weather": "晴れ時々曇",
+        "temp": 24.7,
+        "weather": "晴れ",
         "precip_prob": 61
       },
       {
         "time": "21:00",
-        "temp": 23.2,
-        "weather": "曇り",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 61
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MzBfY2FCVTVwQV94SjdZT3RmMGVpWEtlVTVHeFctZnRnVE9wYlp3bUp0a2hkS0tJZExkNzJXNUozY1pYbi0yeVRiaVY0eUpNOXdLTVVSSGhMYzNmNzVEWmhQTnc?oc=5",
+      "date": "Fri, 05 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月6日（土）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NVXVQTUh1YTZ3RGFKaktpSmxET3BzZ2FsNjBGZWl1RGE4RThjRm1fTGxIMWVYdWdoNDNxbEJCMFVnVmtoVlNkQS1SUFpDdFhNRkpveUlSd0J5SDVmTVVLOGg2ODJOWkhtWHI0OVpkMNIBdEFVX3lxTFAtTkpaTEF3TkFiMjk2eDFjMG1MQm5aRDdIMmZkUjJwbEhHYnNNcUJfSGV1QUpKR3RveHBMT2FmV0dGaGt3LWdSejg0NktpbHNLWlBpaElnMXJ1Mko1VEtycFdITW5aVEZyN3d4ek9MazRMZ1d6?oc=5",
+      "date": "Fri, 05 Jun 2026 20:11:49 GMT"
+    },
     {
       "title": "６月４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXhveS10bzZVOWRuWEhKb0dzSVZRTS1sRjBsYUxsZTA3ZG5XX0NSUklsYlhjWUdxbXZzUmViYXZPWWJtaWp0WnFUU19NSlltcll0LV9JdDV4UFJtS09TVXRLY0ZiRUN1Z2FpX1ZDV00xekZGbGdXRTJjTDFDbG1FM0FEeE1xR3NnX3dCcHFsZUhYYVo0VWQwT2czM0UwZTRxRzdqdlh6b3k0Z3VpeXZiVjZsa0VrRG5fcVhYQUJGRDU0bVNUald30gF3QVVfeXFMTi1QbFBEMWdXLVNYc1dDeldXV1lXN1Q5a1RMZEtfd3JOWG4xSWZZZkNDdzhHY3RmdVI5LXRXNmFhYkNTSWowZ2NGQWlLa3BVMGlXUkhtT2F3dmNIVDkweFhKcDlQeElXSk5nR3hJZkN6Ykh5bDRmb1k?oc=5",
@@ -73,16 +83,6 @@
       "title": "5月31日（日）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RV0JKc05PSVNlU3kzc2hVNHFqMFVCelgxVlNMeDVoX1gwX3VLdE5ON1ExTHZ1NWRZQlZHWUVteTc4bUJDTzlCcVlFYUJ0amV0eFhieGpEOA?oc=5",
       "date": "Sat, 30 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "６月３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50VDRnUUFfajBSeVhobE1JbjN1WVBzcHNBenNKa29iRmQyNnpLZVVDTEZXU0RkVUtPdkVCeDQ3b25QVjF1Q2hEaWdrU1FlbUc1RlZ6Q2dpMUhGVW5NYUpCTmlaaG9NT2JUQXhEdWlUMlp4d9IBd0FVX3lxTE9OZklqQ3h0OGUxMGtBWGVVRVJkUjVLY3k2emQ2MEFEdEhySUNBcEZFc1dYVFRRMXJNV3kwVG5rRmlHNTI0eEtmZFZES1BWMlNjVG5qSExOVUdkLTV6Y0xoYlZUUjRsSzhRZ01FNmFtNm5qNzFoNUpF?oc=5",
-      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "5月26日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5VE5pNFdmQVVWR1VUS2lZVktrZnFYUlNnYVhYRkhfUHVxdmlKcnJHSkF1S00xWEprVXZiVGJSaHdJcnhLRGJ4UFVDLXRYTmh1UTJPUzRFaw?oc=5",
-      "date": "Mon, 25 May 2026 20:00:00 GMT"
     },
     {
       "title": "6月4日（木）【岩手県】　日中・夜間の交通取締情報",
@@ -97,9 +97,9 @@
       "date": "Fri, 05 Jun 2026 02:53:01 GMT"
     },
     {
-      "title": "「スピードはかなり出ていた」「原付の人は3回転半…」82歳と76歳運転の衝突端に5台絡む事故　バイクの80歳男性が死亡　大分",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05aXpEckFMVkIxVERVTTlyc1gwSV9JXzM1bngtV3hIUEhDcUNrZVI5bHhkRWlZM2dfNTAxZ2FfSUhEZ2U1QjBGQlRhMnVfWEJGNlJRMzFEVzhWZFRIS2FPODhyM1pCckZaNjFRQk52Y9IBdEFVX3lxTE5NWlhCUVEwTjA2dFE1YVNxV3lvMU5EODllWDNfSm05S3hPaHZUbWROeGVJZERzZlJGSklJekkzVEh5WEY2TXNUUmxFVkJvVkFSMlp4Zjg3eTlZZ25RX0xWZ0hiYlZWT2R4aW52dkdHX0NfVHZ0?oc=5",
-      "date": "Fri, 05 Jun 2026 09:41:00 GMT"
+      "title": "自転車の交通事故、大分県内は去年290件 過去10年で最少 最多は「出合い頭」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkXzZSLXNFNHM5OHVuYWRKd3pYd296UVhOM25URDdXOWNKRlJwOFFQcjRJRkVCS2NXS1REQVdMT1ZmV09fWmRYMmkyZTEtQVdpbV90VmVRODBfS3g5NFRpYUZIQmc1aTg?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
     },
     {
       "title": "国道で大型バイクと軽トラックが衝突 バイクの運転手の男性が死亡 大分",
@@ -107,14 +107,14 @@
       "date": "Sun, 31 May 2026 09:40:00 GMT"
     },
     {
-      "title": "自転車の交通事故、大分県内は去年290件 過去10年で最少 最多は「出合い頭」",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkXzZSLXNFNHM5OHVuYWRKd3pYd296UVhOM25URDdXOWNKRlJwOFFQcjRJRkVCS2NXS1REQVdMT1ZmV09fWmRYMmkyZTEtQVdpbV90VmVRODBfS3g5NFRpYUZIQmc1aTg?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "令和８年度 大分県交通事故遺児等援護基金等への寄付金贈呈式について",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0RxM0VnLUdmQ0pIWkhoRmtDRzJYc2IwLVd0WGpkUjVEMjM2TFdGZjlHTmEycVd3REJVOUZacllYaVVoM1djYVEwUm01RU5IaGRBckhLdU11MWhDT1A3eHluQ0FSZ3JFZTRjaDdtR0lYOXhabVJ5V1cwM3F3N0xEYg?oc=5",
       "date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大分県内25年の交通事故死者、前年上回る41人　増加は20年以来、65歳以上が６割 - oita",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XeDlaUUpNeWpwS09LMUI2RGExMjhMX2dLbTh6c05PVmJVWk1xOVVnNWQzX0J4bWFOSWlMVDczc0RKSmYyZWVmYUtWeTB1S3NSTlVwUm1OdWRhTjNXM3VaSllmUDdocXpQYVM5WVkyT2hfaWxvd2fSAYIBQVVfeXFMTlFCNVpKUV9xcnQtWHFSZXZwRkg4aVpVZk9lUlNSMTdHWWNpdUFTTlJjWVBtOUJPS21hY1dzYWFMcTRzQkJmaWp5MGluYkNDNDVLR25hZzVBYmJuZUtDd0NValFOcnYzQ3Q2bGVwLVZsc3lEX3pfYzBWMjlVZWNxMmhtUQ?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     }
   ],
   "official_links": [
