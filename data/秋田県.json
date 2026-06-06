@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-06T21:01:03.250533",
+  "generated_at": "2026-06-07T00:00:51.084783",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 16.8,
-    "temp_max": 21.2,
-    "temp_min": 13.4,
-    "precip_prob_max": 82,
-    "precip_sum": 1.5,
-    "wind_speed": 4.4,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.1,
+    "temp_max": 25.0,
+    "temp_min": 14.1,
+    "precip_prob_max": 11,
+    "precip_sum": 0,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.0,
+        "temp": 15.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 14.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 13.7,
-        "weather": "晴れ",
-        "precip_prob": 4
-      },
-      {
-        "time": "06:00",
-        "temp": 13.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 63
-      },
-      {
         "time": "09:00",
-        "temp": 13.4,
-        "weather": "霧雨",
-        "precip_prob": 82
+        "temp": 21.0,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 17.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 75
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 21.2,
+        "temp": 24.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 71
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 19.5,
-        "weather": "快晴",
-        "precip_prob": 33
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 16.8,
+        "temp": 19.4,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月6日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zS1J6WHhwQkVNMkFZV3dmcEZOd010elRDUVJmU01nTDQ1amlZWTRFTVU1NkJkYldYak9QZjdZQVBFOGl2ZHBlOVhhdkVlcnpZaW02Q1dPVDZpeXJJVUlhTUlKSFdlb0k?oc=5",
+      "date": "Fri, 05 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "6月5日（金）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZEN4ZFJUS3lVdlBoZjhmeEVMUzh6Y0hjMUZtTzJoaS1fZHdRVkl4NW0yRzJrZkxCMWxaSlhXbGRYOGNXMHVGZkpTUlJVbkpPWmdsRTF5VlpWSk1YZVd6ZUFvM1g1b28?oc=5",
@@ -75,14 +80,9 @@
       "date": "Wed, 03 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "参議院選挙の選挙違反取締本部が解散 特定の候補者や政党への投票を親族に強要したとして1人を書類送検 秋田県",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDY3dFh1cWxMdmpVS3hOTDQxS2J3VzFsWHpTWjhmSHhNNU5HRkpoYlpFS1NaZEUwVlJHSEFnVDFzM1VJQ0Rseko4eW11ZGRzektqUlF5dy1VM1RpRTZVT3JRRXhmZVBUYWlPUHB6N1h5bkJqVVAydUQxdk1LWEZwbHpPVWgwb0E?oc=5",
-      "date": "Fri, 29 Aug 2025 07:00:00 GMT"
+      "title": "衆院選に向け県警察本部が選挙違反取締本部を設置（2026年1月24日掲載）｜ABS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVVCTzFCS3BtWUs1RFJfY3BSWldndE14dm52WjRIMDYwUFh5YzQ2SmxWMktEd3VLNVRfdUQ3YTB1RENDYzI4UDYxUmRWa0Y5MVY3cV9ESWdHMlM4Um1CRUFIQzIwcGxsZnpXUkFQclhoRlRxN05XWjBKX0xBaWZ5Nk9GbU5zVWM?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
@@ -102,14 +102,19 @@
       "date": "Fri, 05 Jun 2026 08:35:00 GMT"
     },
     {
-      "title": "「酒蔵の再生人」が酒蔵で酸欠か 日本酒ブームの陰で相次ぐ死亡事故 [秋田県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EX2J1YXlVTXg3SmJYZm1xWTN5RDVSa1hodWU2NDhDMGNOdk81Vkh5aXJOZm0zeThUb1I3aDUxZEpwX0xJM1pfalNMdjJUbWpFSTVBc21MeE55bDNWQ1pTVEhVN0pFSjQ?oc=5",
-      "date": "Thu, 28 May 2026 07:00:00 GMT"
+      "title": "【交通事故のない秋田県へ！】協定締結のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucWVHaGFDeENub1JtUTl1VjNDUU9WWnpvNkdHSlI0RDBQVnJJZVl5bjRFM08ycy1aaGpsTDAzeE9mcHdqOUdmSHR4VW5YYllwNUloVEkzeVFJTEw4U2k5Ng?oc=5",
+      "date": "Mon, 25 Aug 2025 07:00:00 GMT"
     },
     {
-      "title": "知事「痛恨の極み」 クマ襲ったとみられる死亡事故受け 被害防止対策中の発生",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HYXB6Z0xsM3VIakc4cVo5RWJLd3hIVkdtblVEd0RjNk4yU0JKNU1ISm5QMnROMTh0aWsxWGFrSWVKOTBLX2M1OFdtZw?oc=5",
-      "date": "Tue, 02 Jun 2026 09:16:00 GMT"
+      "title": "乗用車とトラックが正面衝突 秋田の会社員男性(34)が死亡 国道46号が一時全面通行止め 岩手・雫石町",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HdVVNNVMzSXBxeXd4Mk5nZy1xVVZmLTFqN3ZnQlVzSG9ZZkJrVkdpdjlvV0ZiVW5sT3RvY3dRUnU1RFRHbE54TVdXdUs0RW5Xd2ZWMzBiMA?oc=5",
+      "date": "Sat, 30 May 2026 01:55:00 GMT"
+    },
+    {
+      "title": "秋田市浜田の国道7号でトラックと普通乗用車の事故（秋田朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZlNtUGJhWjR3M080eXd0MmFRbnVndGlGRzFhdFRyNVJDMWUxNGIzeWNOQm1uYUdVRElESjM1bG9ZWmN4ZV9zM2tBaGZEUEdGN1p0WUNldXJpc0FqMVRVNG9XcFg3UHJ1NjhGNGVkN1BIM2JYYkd4ai1hdXNiZ1k?oc=5",
+      "date": "Wed, 03 Jun 2026 08:07:01 GMT"
     }
   ],
   "official_links": [
