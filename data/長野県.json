@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-06-07T18:02:28.863122",
+  "generated_at": "2026-06-07T21:02:34.553744",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 17.2,
+    "temp_max": 24.2,
+    "temp_min": 17.2,
+    "precip_prob_max": 90,
+    "precip_sum": 1.3,
+    "wind_speed": 9.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 18.3,
+        "weather": "霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 17.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "６月３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50VDRnUUFfajBSeVhobE1JbjN1WVBzcHNBenNKa29iRmQyNnpLZVVDTEZXU0RkVUtPdkVCeDQ3b25QVjF1Q2hEaWdrU1FlbUc1RlZ6Q2dpMUhGVW5NYUpCTmlaaG9NT2JUQXhEdWlUMlp4d9IBd0FVX3lxTE9OZklqQ3h0OGUxMGtBWGVVRVJkUjVLY3k2emQ2MEFEdEhySUNBcEZFc1dYVFRRMXJNV3kwVG5rRmlHNTI0eEtmZFZES1BWMlNjVG5qSExOVUdkLTV6Y0xoYlZUUjRsSzhRZ01FNmFtNm5qNzFoNUpF?oc=5",
+      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置 | SBC NEWS | 長野のニュース | SBC信越放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eVQxNmFRRlpobDk1THpjeFU2Nm9GNFdTNFN4cFI1V2xZWW1ndFpfRGtDWVdjU3JXd0p2SzVtYVVDQVBjWnlKdzBwRUtack1FdHNZZjdnM2g1Zw?oc=5",
@@ -14,11 +78,6 @@
       "title": "長野県警が衆院選違反取締本部を解散",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xM3RZOU55VTdqS0RjbjRPVnF5Y0toLW5YYzgxU2NjZERfZXk5MVJNdnR6RGZUOC1aWDFCNjM3NXpkaFMzQmRGaUpQeVhJcVBKSEtLdVdpa2ZkM0I5TE1pZjdoMnFBNXNIQm1acEdDS3E?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "６月３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50VDRnUUFfajBSeVhobE1JbjN1WVBzcHNBenNKa29iRmQyNnpLZVVDTEZXU0RkVUtPdkVCeDQ3b25QVjF1Q2hEaWdrU1FlbUc1RlZ6Q2dpMUhGVW5NYUpCTmlaaG9NT2JUQXhEdWlUMlp4d9IBd0FVX3lxTE9OZklqQ3h0OGUxMGtBWGVVRVJkUjVLY3k2emQ2MEFEdEhySUNBcEZFc1dYVFRRMXJNV3kwVG5rRmlHNTI0eEtmZFZES1BWMlNjVG5qSExOVUdkLTV6Y0xoYlZUUjRsSzhRZ01FNmFtNm5qNzFoNUpF?oc=5",
-      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "「悪質な違反行為は事前検挙も辞さない」 27日公示の衆院選へ 県警が選挙違反の取締本部を設置【長野】（テレビ信州）",
@@ -33,29 +92,29 @@
   ],
   "accident_news": [
     {
-      "title": "信号機の柱に軽乗用車が衝突 途中で折れて信号機や標識が落下 車が押しつぶされる 70代の男女2人が乗車 男性が意識不明の重体 長野・須坂市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bG9DVlY4Uy1Ydnh1TDUydXNqREdybTdKNjZJX25HV2pVM3A1TmlYanJtdXRqYkI2UG1WdnN6OWRDUUVrMHFNVlkzdDFuVG5XanRJUUVWaHdKTzhKbER4U3R0N29NWkk?oc=5",
-      "date": "Fri, 05 Jun 2026 06:59:00 GMT"
-    },
-    {
-      "title": "犠牲者の願い、咲かせたい 交通事故などで亡くなった子供に由来、長野市でヒマワリ種まき",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEY2VNZ1E5LWxaLTR2b09zUVRXd0ZxZFpQVVdlazBWNWphMnBQWmhTaEpLSExUZjRQR2toclNHNzJWZ3hJcmJtY3pEQV9JZ3FwNHNNRENEalE3b19IV1hxTTRnaFZMZmhaUlZJRzZZU0s?oc=5",
-      "date": "Mon, 01 Jun 2026 00:40:00 GMT"
-    },
-    {
-      "title": "長野自動車道上りトンネル内で9台絡む複数の事故…けが人なし【長野】（2026年5月4日掲載）｜テレビ信州NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldROHM3WGkyek90NGk0blY0R2tCVXpPemtnc0t5ZU9ETGVSbEp6SVBPdVJNQkVWbDdtdTVEckNxQmsxWmJFdHVQQ2cyZS02NGppMFR3RzlqWURlcnBnY1NnUXNvSERJTHFlSzdiR0prMDVIUTd0N3g1LUd0M29fM3EzT0xES1E?oc=5",
-      "date": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "犯罪や交通事故かっ飛ばせ 横浜ベイ・牧選手が広報大使に 長野県警 [長野県] [DeNA（横浜DeNAベイスターズ）]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmV3M4VUpmcFQzS08zNTZvRFhJZWhQUDA1bUNTZElaNkVid2V2WlAzZ0pyVkYtNlg5ejBGOGRZX2x3NkF4S0xVZXpncTc0b1VTcTNYdjN6SE8tVkMyYm14UVNfa1RUTE0?oc=5",
-      "date": "Wed, 03 Dec 2025 08:00:00 GMT"
-    },
-    {
       "title": "信号機の柱に軽乗用車が衝突 意識不明だった78歳の男性が死亡 柱は途中で折れて信号機や標識が落下 車が押しつぶされる 長野・須坂市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZlAtaXF6R2FYTHBlVUJXR3huZ2FrTHVQVGJzME9DX1R6SzlsNkxWYkdUbmR4MW16X1M2cWs5V3VEQ0ktNndjVVVBMG5kdGxCU2VNZXRmWDI2NkRfcmdJQzJ6alk0NE0?oc=5",
       "date": "Fri, 05 Jun 2026 11:00:00 GMT"
+    },
+    {
+      "title": "工事中にガス吸引か 作業員の50代男性が死亡 死因は酸素欠乏による窒息と判明 集合住宅の新築工事の現場でガス管工事作業中 長野市（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ES2hQQUpqLWRBcGRablgzTENfYl9Bd1VDWnFwdF82XzRwMEtIeXUxSGlVTC1PbHU1OGZUUXRSWHVhUHNnMkJMTF9OYTZyUHpzMF9lTW9qbVJlSFNoQlR6U19FRG1vcHlUcE1fdHVpUGFJUkd3OXdCQ1Vkd1c1bjg?oc=5",
+      "date": "Mon, 01 Jun 2026 08:32:01 GMT"
+    },
+    {
+      "title": "須坂市の国道 夫婦が乗る軽乗用車が信号機の柱にぶつかる事故 助手席に乗っていた夫(78)が死亡",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMDZfV1hrTXdBck5NS1d6SmVoOVl3ekVBWkJiU05vSnFTRDdGOFJTMk1vMjRKSndBTUtQa1o3b2JHN2x4Y0xsbWlmaDNESW1FTGhXYUdSY1JTSUhOWHpUNHN0YzRFNXg2cmhCUlJzSXdPeFFGOFBia3U0c0llcXc?oc=5",
+      "date": "Fri, 05 Jun 2026 07:52:01 GMT"
+    },
+    {
+      "title": "八海山（南魚沼市）で長野県の女性が死亡、登山中に滑落か",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QMHp2d0RLVkFHOFlsVWpZY1VZUHVLTEh1eXlHM3pTenU5VkN1V3UzSEFOSllKZWhaOWlwaTM5Zi1UUVJFSGhwc3dtcTZYYU52UnJtOEE1N3ljSmRRSUE?oc=5",
+      "date": "Thu, 04 Jun 2026 11:10:00 GMT"
+    },
+    {
+      "title": "長野市の善光寺付近でガス漏れ、50歳作業員が死亡 「窓を閉めていたのにガス臭いと…」周辺騒然",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XcmZPa3BvdjRHaDZHdFNtNElzdnlHTTNjWFNWRDVNeEJiYU1wR0xHTDQ1eXVpMkt3RXFuQ0NoUlpVRkxZYWY4SW56OFJjakFtVG5kMQ?oc=5",
+      "date": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
