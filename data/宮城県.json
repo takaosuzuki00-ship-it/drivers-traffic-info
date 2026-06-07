@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-07T21:00:51.128647",
+  "generated_at": "2026-06-08T00:00:59.210459",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 15.5,
-    "temp_max": 17.5,
-    "temp_min": 14.1,
-    "precip_prob_max": 66,
-    "precip_sum": 0,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 15.6,
+    "temp_max": 17.9,
+    "temp_min": 15.6,
+    "precip_prob_max": 97,
+    "precip_sum": 5.8,
     "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 15.6,
+        "weather": "曇り",
+        "precip_prob": 31
       },
       {
         "time": "03:00",
-        "temp": 14.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 15.8,
+        "weather": "霧雨",
+        "precip_prob": 57
       },
       {
         "time": "06:00",
-        "temp": 14.8,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 16.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
       },
       {
         "time": "09:00",
-        "temp": 17.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 24
+        "temp": 16.8,
+        "weather": "霧雨",
+        "precip_prob": 86
       },
       {
         "time": "12:00",
         "temp": 17.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 59
+        "weather": "霧雨",
+        "precip_prob": 96
       },
       {
         "time": "15:00",
-        "temp": 16.6,
+        "temp": 17.8,
         "weather": "曇り",
-        "precip_prob": 43
+        "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 15.5,
-        "weather": "曇り",
-        "precip_prob": 45
+        "temp": 17.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
       },
       {
         "time": "21:00",
-        "temp": 15.5,
-        "weather": "曇り",
-        "precip_prob": 61
+        "temp": 17.1,
+        "weather": "霧雨",
+        "precip_prob": 86
       }
     ]
   },

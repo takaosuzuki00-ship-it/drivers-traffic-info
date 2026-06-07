@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-07T21:03:26.861193",
+  "generated_at": "2026-06-08T00:02:56.697506",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 20.5,
-    "temp_max": 21.1,
-    "temp_min": 19.0,
-    "precip_prob_max": 100,
-    "precip_sum": 24.7,
-    "wind_speed": 20.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 20.6,
+    "temp_max": 24.2,
+    "temp_min": 20.2,
+    "precip_prob_max": 96,
+    "precip_sum": 4.5,
+    "wind_speed": 17.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.1,
+        "temp": 20.6,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 25
       },
       {
         "time": "03:00",
-        "temp": 20.7,
-        "weather": "曇り",
+        "temp": 20.5,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 19.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 39
+        "temp": 20.6,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.0,
-        "weather": "霧雨",
-        "precip_prob": 92
+        "temp": 22.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 19.2,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 24.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.3,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 23.6,
+        "weather": "曇り",
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 19.6,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 59
       },
       {
         "time": "21:00",
-        "temp": 20.5,
-        "weather": "晴れ",
+        "temp": 20.8,
+        "weather": "弱い雨",
         "precip_prob": 92
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "5月29日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrck9hUlA2VEt6THMtbWpTVzdZb19MTGkyUEZPNXowMG1yclJmWXA0MFJnLTRJYlZ5aWRScTVCdjhDN0VTdVpBY201S0Y3RmxYeHpkWk9iTQ?oc=5",
+      "date": "Thu, 28 May 2026 20:02:00 GMT"
+    },
     {
       "title": "兵庫県内の高校生2人を大麻取締法違反容疑で逮捕 宝塚市の路上で大麻を所持、使用",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWW5oMGhxVHFJRDBwSHdCcldXX3N1UjRyZC1paUJuc19jXzRrUUF4TGwtZVdqdWkwWDNLLVdLUUlNQVFoQTF1TE1fd3N5ZTdZY1QySEVobjlyVW9iaXV1c25Dd3hFZnBw?oc=5",
@@ -80,11 +85,6 @@
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "激戦の兵庫選挙区、公選法に基づく警告が前回選より５件増の１８件…参院選の取締本部解散：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TWNHSmttbzVqVVR4S3lJVXRkMWEyV3RsaDczdFlCSTVvQXRtNnFNbmpfUGQxcUwxWDRIeVJtbjRDcjBFZlhIQm5udmNXaGV4QmxEYzVPYXlQemRVcWdic1FrdnlBT042Q0FGMy0yY051QQ?oc=5",
-      "date": "Wed, 20 Aug 2025 07:00:00 GMT"
-    },
-    {
       "title": "解除の夜ですが…「飲んだら乗るな」 兵庫県警、飲酒運転警戒へ検問強化",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTVKcU1mNmttRjhNdkhINmZMR2NrdE9KODJDWlVEWnZvTmhfa3BXNVJPS1V4OWN3X3JmS1NCbnJzVmFqR1RFVjRiTU5NVjB3X28xTDNhbEsza2tLTGpSdE95QlZZWHpTSEJwajR3?oc=5",
       "date": "Fri, 01 Oct 2021 07:00:00 GMT"
@@ -92,24 +92,24 @@
   ],
   "accident_news": [
     {
+      "title": "第二神明道路で乗用車がガードレール衝突 運転の男子大学生が意識不明の重体 神戸|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nM1Y3dHRDeThaRkQ2Yl9RelZlaTB5azZUU1NjaDhDdE1fZFh6UnhWS0tDTGhXaV92X3NNcnZUdDg5b3BPcUpQd0RYM3VJeERSMEFBMGZUVmR5ZkxfekJSaUd5Ym9vUkFvU0x5QmZGMXYxV2lYOExfSnR1anc?oc=5",
+      "date": "Sun, 07 Jun 2026 08:44:39 GMT"
+    },
+    {
       "title": "車が電柱に衝突、63歳の男性死亡 単独事故か 兵庫・姫路の市道（神戸新聞NEXT）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVEVGcWZlekZ1Z1hZem1NYlZqakhjT1k2eHVRWktVbUwtcktHVVA5Nl8yejlzeDBMc3Q1Mlk4cjh2UXBERVYzdWxIQzlYbWtfRXJoWlI1QUtPUUFGb2cxZHZzOGdXdUo5akZwOWNUZldVdGU3YTlSa1BqTF9scVE?oc=5",
       "date": "Tue, 02 Jun 2026 09:35:09 GMT"
     },
     {
-      "title": "タクシーにはねられ男性死亡 神戸・灘区の山手幹線、横断歩道のない場所を渡っていたか|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2ZF9vTWV6U0tHTUUxTFctajRfYjUyTjVUZGdpZWN4RXRtY1kxWUlLNUljX21PMVJLOW1hQ0hLTjBnSWdiZTVSbHBJTnI5QmgtMDNNcjM4M3FlckQ5UC1iTWl5WHlLc1lMX1BxOUF4S3B3bllrZjUyMmdISQ?oc=5",
-      "date": "Wed, 20 May 2026 07:00:00 GMT"
+      "title": "第二神明玉津IC付近でトラック同士の追突事故 男性1人死亡|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UjROcHY3WlhfR2ttaVZLQ1VOSXJ0QU1NWVAyekZCUzdHLVNUNWtFN3ZWMDdYTjBtUXYxMlFxT3BoSS1ITEpSU2xMVEFGVWJLZ3oybS1odHhOX05aY1hLM0RhVjMxYlA2VFUxbWJrcWgtQ2FBMmZZakhGWQ?oc=5",
+      "date": "Sat, 06 Jun 2026 08:36:22 GMT"
     },
     {
       "title": "年末の交通事故防止運動始まる 神戸・兵庫で警察・消防の合同巡視 [兵庫県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tWXAybmRCUklqR1hrQ0F5TGQxNXJqNjVEbVViNzktQUx2ajVVZnVGMEgwNGZHdklvZTVEZF8tODBhUjFYLUU5ZDE4cDY2UXN2Njh6dGlLQWtxN3hqb1NzQlF0dW9POUU?oc=5",
       "date": "Mon, 01 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "神戸市兵庫区の交通事故 軽自動車には19歳の男女5人が乗車 1人死亡2人意識不明",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iNFJRZU1vZ25QdHd3OUtTRm9YTXlkWms0dEd2QXNwS3BTbDVJNWNtSXBSdVpKS3BpV2oxa0ZscmJteVAya0o0M1A0a18wa2dHV2RsbHZoa05HUEV2NTA0cVoyYnlzb0M5?oc=5",
-      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "神戸の小3死亡事件から25年 兵庫県警が情報提供を求めビラ配り [兵庫県]",

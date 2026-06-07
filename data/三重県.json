@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-07T21:03:01.613008",
+  "generated_at": "2026-06-08T00:02:39.018833",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 19.7,
-    "temp_max": 20.2,
-    "temp_min": 19.2,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 20.1,
+    "temp_max": 26.1,
+    "temp_min": 19.8,
     "precip_prob_max": 100,
-    "precip_sum": 32.0,
-    "wind_speed": 25.3,
+    "precip_sum": 1.9,
+    "wind_speed": 19.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.6,
+        "temp": 20.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "06:00",
+        "temp": 19.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 23.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 19.8,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 20.0,
-        "weather": "曇り",
-        "precip_prob": 25
-      },
-      {
-        "time": "09:00",
-        "temp": 19.5,
-        "weather": "霧雨",
-        "precip_prob": 94
-      },
-      {
         "time": "12:00",
-        "temp": 19.4,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 19.4,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 24.7,
+        "weather": "曇り",
+        "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 19.4,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 24.7,
+        "weather": "曇り",
+        "precip_prob": 49
       },
       {
         "time": "21:00",
-        "temp": 19.7,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 21.3,
+        "weather": "霧雨",
+        "precip_prob": 61
       }
     ]
   },
@@ -97,14 +97,14 @@
       "date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
-      "title": "酒酔い運転で事故、助手席の女性重体　津南署、容疑の夫を逮捕　三重",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OdXhtdUtWYnphVnQ1aDhtQTd1emEwUHozTkFDX0xlLTVvejlwbFVvQU1SaWI0cnVsTGRmYk85d200cmNMNFZXaXgzMnNfbDdZUDFqdjVSWGVrMXR3OUNRUlZKTEQzRGk1R29ic2xMNEcxbGV4b1pJX9IBfkFVX3lxTE04c0pDMHdwR19NS3JVZWU3WnNObUhra1F6M2FrSGpoY3IxWWw3WkZMblJvMVFjNnBFSGVZb1E0UUtYNXE0YVg4WGJyb2UwVW1nUEdHaWNEdktwcFk5SzNnT1dRb3cxejh6MXJFdHdJdVlhWGdZaXZPbko0SXdrQQ?oc=5",
-      "date": "Sun, 07 Jun 2026 02:00:00 GMT"
-    },
-    {
       "title": "三重県で「交通死亡事故多発警報」発令中、近鉄四日市駅で注意呼びかけ、広報犬豆助もお手伝い",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kM0FzbG5mR2dLVndybWpqTWIxWnExLTR3bmx3cUhvYmxFczZuMHI3THdmdkZiR0JpNU5RQ0R4VUp4TktRVjBPbEhjdWZISWIyYzg5X2ZqdUlsWmc?oc=5",
       "date": "Mon, 01 Jun 2026 13:39:10 GMT"
+    },
+    {
+      "title": "酒酔い運転で事故、助手席の女性重体　津南署、容疑の夫を逮捕　三重",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OdXhtdUtWYnphVnQ1aDhtQTd1emEwUHozTkFDX0xlLTVvejlwbFVvQU1SaWI0cnVsTGRmYk85d200cmNMNFZXaXgzMnNfbDdZUDFqdjVSWGVrMXR3OUNRUlZKTEQzRGk1R29ic2xMNEcxbGV4b1pJX9IBfkFVX3lxTE04c0pDMHdwR19NS3JVZWU3WnNObUhra1F6M2FrSGpoY3IxWWw3WkZMblJvMVFjNnBFSGVZb1E0UUtYNXE0YVg4WGJyb2UwVW1nUEdHaWNEdktwcFk5SzNnT1dRb3cxejh6MXJFdHdJdVlhWGdZaXZPbko0SXdrQQ?oc=5",
+      "date": "Sun, 07 Jun 2026 02:00:00 GMT"
     },
     {
       "title": "飲酒運転で信号待ちの車に追突しトラックなど4台絡む“玉突き事故” 1人がケガ 61歳会社役員の男逮捕 「事故のことは覚えていない」と容疑を否認 三重･津市の国道23号交差点 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
