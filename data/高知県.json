@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-06-07T09:03:16.036375",
+  "generated_at": "2026-06-07T12:03:48.414337",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 22.0,
-    "temp_max": 22.7,
-    "temp_min": 20.5,
+    "temp_now": 21.4,
+    "temp_max": 21.7,
+    "temp_min": 20.4,
     "precip_prob_max": 100,
-    "precip_sum": 83.5,
-    "wind_speed": 11.4,
+    "precip_sum": 101.1,
+    "wind_speed": 11.6,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 88
+        "precip_prob": 61
       },
       {
         "time": "03:00",
         "temp": 20.9,
         "weather": "弱い霧雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 20.9,
+        "temp": 20.7,
         "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 22.0,
+        "temp": 21.4,
         "weather": "雨",
-        "precip_prob": 96
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 21.3,
+        "temp": 21.4,
         "weather": "強い雨",
-        "precip_prob": 96
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 21.4,
-        "weather": "雨",
-        "precip_prob": 88
+        "temp": 21.3,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 22.7,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 21.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 21.1,
+        "temp": 21.0,
         "weather": "晴れ",
-        "precip_prob": 18
+        "precip_prob": 22
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "6月7日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTUt4QkRZcDZ0elpEaXAyS3VfcHpMbjMxeU9jU291YmpqR3l3Yk5fRTJqYmh2WmlqV1NBS2FBTU94QUZxOGFNT3hsR0VFLWlNb1QtWDBhMTgzTlpUMl9ia1Z2VmJTUnRVZENuOVgtWjdJdEkxSS1OMk94c1hSbWs?oc=5",
+      "date": "Sat, 06 Jun 2026 20:00:34 GMT"
+    },
+    {
+      "title": "６月７日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZMzhrWFJacW5UeThfMXdaRGJNTnJ2VENXMnlvcjJ2VENZa2FJam9VMDhWdTFELXZCLTNzOFFZUTYyS3FlOTZzWkFSUXRsTGl6OFpEbWN3QQ?oc=5",
+      "date": "Sat, 06 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "６月５日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ra0xNSTktYTFmTHpqX09ERkRrc3VXUU9uRUVMcjNScTZqOU8zamlIaVVtZWNfM2tvSFRCQm1XN0NIWXFYc1JSY04yNTd1Y2NRVjA3Vkdldl9WUDdHRDU3bGdpMFhadHIy?oc=5",
       "date": "Thu, 04 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月3日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNEsxbUVleGJKOHc0VS1mbUtIenFIaTFJS29wQnNBS1BmM1lkVXEyUHBKYWZrQTBWc3NkMXE4eTNYS2ZsdndUdkVaaGZ4TVI5QmUxeXo1aW1MbktPdk5BV0o4TDZkcXN4U1pvNVpSWmV1UjRhYXBRREQ4d0c2b28?oc=5",
-      "date": "Tue, 02 Jun 2026 20:00:33 GMT"
     },
     {
       "title": "６月４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -80,14 +85,9 @@
       "date": "Wed, 03 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "６月６日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yVE5CZWpSdmpFUzhBRWNQUDk4R1lXR0FjSHdqV0trc241Tms2SC0yZFE4bl9adFZIN2hyckVZX2ZsektoelQ0NEt1N3E1cHl0Z2NuQzRqREJKYUYzSndhelJsY1d4bUdj?oc=5",
-      "date": "Fri, 05 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月6日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43bEYzck5hWl9scndHR21iTFpfS09Belh0VDllOGZHZDFfdi0wdWVTVzFMWnV3VVQySmxncHBnNDNwVXBXM3I4VHE1SW01TDFJcmswWDMwcjBGeXh1Vmw3TFc2UXIyeGdFSGo2cmhidkRKcjM2bzZKd21PY1FlYXc?oc=5",
-      "date": "Fri, 05 Jun 2026 20:00:33 GMT"
+      "title": "6月3日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNEsxbUVleGJKOHc0VS1mbUtIenFIaTFJS29wQnNBS1BmM1lkVXEyUHBKYWZrQTBWc3NkMXE4eTNYS2ZsdndUdkVaaGZ4TVI5QmUxeXo1aW1MbktPdk5BV0o4TDZkcXN4U1pvNVpSWmV1UjRhYXBRREQ4d0c2b28?oc=5",
+      "date": "Tue, 02 Jun 2026 20:00:33 GMT"
     }
   ],
   "accident_news": [

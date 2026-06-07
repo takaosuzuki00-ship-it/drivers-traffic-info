@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-07T09:02:12.475259",
+  "generated_at": "2026-06-07T12:02:39.037519",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 20.3,
-    "temp_max": 20.4,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 19.7,
+    "temp_max": 20.6,
     "temp_min": 18.1,
-    "precip_prob_max": 89,
-    "precip_sum": 8.8,
-    "wind_speed": 4.3,
+    "precip_prob_max": 100,
+    "precip_sum": 13.7,
+    "wind_speed": 4.7,
     "hourly": [
       {
         "time": "00:00",
@@ -23,51 +23,51 @@
         "time": "03:00",
         "temp": 18.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 18.4,
+        "temp": 18.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "precip_prob": 18
       },
       {
         "time": "09:00",
         "temp": 20.3,
         "weather": "曇り",
-        "precip_prob": 25
+        "precip_prob": 16
       },
       {
         "time": "12:00",
-        "temp": 20.0,
+        "temp": 19.7,
         "weather": "弱い霧雨",
-        "precip_prob": 43
+        "precip_prob": 84
       },
       {
         "time": "15:00",
-        "temp": 19.8,
-        "weather": "強い霧雨",
-        "precip_prob": 78
+        "temp": 19.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 19.6,
-        "weather": "霧雨",
-        "precip_prob": 88
+        "temp": 19.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 18.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 57
+        "temp": 18.6,
+        "weather": "霧雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月1日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdjJLUF9RUUJ4U2dlbHpjUlZVbEN1bXFFNkYtQ0NYSXQ4WWV4aWxhOGVzaGdYV3UyZHZ0a052dWh1SW80Rkt0WERIX1BlVFd0cTdKVmtJbw?oc=5",
-      "date": "Sun, 31 May 2026 20:00:00 GMT"
+      "title": "６月７日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZMzhrWFJacW5UeThfMXdaRGJNTnJ2VENXMnlvcjJ2VENZa2FJam9VMDhWdTFELXZCLTNzOFFZUTYyS3FlOTZzWkFSUXRsTGl6OFpEbWN3QQ?oc=5",
+      "date": "Sat, 06 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -80,17 +80,22 @@
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "6月1日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdjJLUF9RUUJ4U2dlbHpjUlZVbEN1bXFFNkYtQ0NYSXQ4WWV4aWxhOGVzaGdYV3UyZHZ0a052dWh1SW80Rkt0WERIX1BlVFd0cTdKVmtJbw?oc=5",
+      "date": "Sun, 31 May 2026 20:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "６月３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50VDRnUUFfajBSeVhobE1JbjN1WVBzcHNBenNKa29iRmQyNnpLZVVDTEZXU0RkVUtPdkVCeDQ3b25QVjF1Q2hEaWdrU1FlbUc1RlZ6Q2dpMUhGVW5NYUpCTmlaaG9NT2JUQXhEdWlUMlp4d9IBd0FVX3lxTE9OZklqQ3h0OGUxMGtBWGVVRVJkUjVLY3k2emQ2MEFEdEhySUNBcEZFc1dYVFRRMXJNV3kwVG5rRmlHNTI0eEtmZFZES1BWMlNjVG5qSExOVUdkLTV6Y0xoYlZUUjRsSzhRZ01FNmFtNm5qNzFoNUpF?oc=5",
-      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "交差点で女性ひき逃げ死亡 現場に戻ってきた運転手から事情聞く 愛知・名古屋市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PbWRrN2JJQmxBaHY0Q2VLcmpqc1pTUVY4czNKTWQ2am5vdzFEbklTcHRhd0pWWjdVMHo0RXZscFV6YmFGWC0zbTIxTDFsbHlWUE45STRzOC1HTV9sYmo0aUkzWW9xQzlzMVNpQVNWRUNDYTJ3cUpKMkNPdGFDeUk?oc=5",
+      "date": "Sun, 07 Jun 2026 02:49:01 GMT"
+    },
     {
       "title": "低速で衝突、男性120メートル引きずられたか 85歳運転の事故 [愛知県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oYldVemx4Z1U1ZGpJMFdtSVQwSU9EYkRhOTdyTDcyUTJQWUNFWGc2YUdSbzdLaDNqYWtpTjFxdXM2UnpacWhCcFZXdHI3RUVOaEI5djNWTkZYUWd6Nm91QnJxeElQTU0?oc=5",
@@ -102,19 +107,14 @@
       "date": "Fri, 05 Jun 2026 01:20:00 GMT"
     },
     {
-      "title": "愛知県の交通事故死者数 去年“過去最少”に 前年より29人減り112人 2018年まで16年連続で全国ワーストも去年は全国7番目に",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00ZndvYWl2eEcyMTkwcGZOTlZtSjByX3lxdnVsZzNpNFRRRVllRUZkTkJ6cjFndWN0Y21UZ25yYXBsU29nOG9UTVRZUEFYSHNrQXVhTTExRQ?oc=5",
+      "title": "交差点で女性ひき逃げ死亡 現場に戻ってきた運転手から事情聞く 愛知・名古屋市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1INUo2ZHdTZ1ZzcmtHaTNtcTRxNExmZTRCMEtFZUZCSl9BLWRMZHZtaGROaldIeXFlUlBfUTR3WmVvMS11OXpwcm5IUEw0aDJxR3F4WVB1UnB4OGQzb0loa3pwNTRoUFBvRFIzS1N3bjgwMl9idThEMXVuRQ?oc=5",
+      "date": "Sun, 07 Jun 2026 02:50:00 GMT"
+    },
+    {
+      "title": "愛知県の交通事故死者数 去年“過去最少”に 前年より29人減り112人 2018年まで16年連続で全国ワーストも去年は全国7番目に | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJZ2IwbGlrbWhYdGNFZHBiZ2ZMakhzUmd6akVYR2JjZjJvQ0JtTEVNZWhOWWRmaTZEZHJSTXluUDcwMm14MzBHbU5vQWZLdnMxOFotdEpMQ3A0UQ?oc=5",
       "date": "Tue, 06 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "逮捕の会社員「怖くなった」 ひき逃げで高校生死亡 愛知・知立（毎日新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRGFwbzBlZ3lOT04teTB4b2EzZzB4VWxwY2NQUzRxc2F1RTcyMTdzRHdIekNERXhFOUdTRTBPT1pJOVZSeUdHTTZsUGZlV3VPcW1fWUFqZkVlc2VpSWtnYkVuTFEtUkQzWjQ0RU1feGhhOGl2R0hCVU5keE5rOHc?oc=5",
-      "date": "Fri, 29 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "全国「ワースト」記録し続ける“不名誉”な愛知県　今年は事故による死亡者が減少傾向、そのカギは",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xT3BhTV8xR01XTzJWSGk1LXpQMnJBZzdWeWJoalVKMGxQRUdPeEpmTDhvcmxDdXhNVG5YazRHcEVneURDdXlmTjBGdHpnRVM4SWfSAWRBVV95cUxPQ3ZTUjZKclp6YW9oeDF2Slk1WVdNSmZ4ZU5vZ0llOVE5Wl90UGRvMmo4amhad1BlaFVQZGc5NDdoX192RzFIeFVxQ1c0Tm1KNTVISzNtLVpIOHpkR1J1WWF1ZldY?oc=5",
-      "date": "Mon, 01 Dec 2025 08:00:00 GMT"
     }
   ],
   "official_links": [

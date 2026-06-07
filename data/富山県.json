@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-07T09:01:46.561918",
+  "generated_at": "2026-06-07T12:02:09.288915",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 22.2,
-    "temp_max": 23.1,
+    "temp_now": 22.9,
+    "temp_max": 23.5,
     "temp_min": 18.0,
-    "precip_prob_max": 14,
-    "precip_sum": 0.2,
-    "wind_speed": 5.7,
+    "precip_prob_max": 85,
+    "precip_sum": 0.1,
+    "wind_speed": 10.2,
     "hourly": [
       {
         "time": "00:00",
@@ -33,33 +33,33 @@
       },
       {
         "time": "09:00",
-        "temp": 22.2,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.6,
+        "temp": 22.9,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 20.9,
-        "weather": "曇り",
-        "precip_prob": 4
-      },
-      {
-        "time": "18:00",
-        "temp": 20.0,
+        "temp": 21.2,
         "weather": "曇り",
         "precip_prob": 14
       },
       {
+        "time": "18:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
         "time": "21:00",
-        "temp": 19.1,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 75
       }
     ]
   },
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "スピード違反を捕捉、富山県警が可搬式オービス2台追加へ 危険運転の死亡事故増加受け",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zak9hNFdqWGpPSHhGeG5WZWRrVkVOZ0pINWxRb0gtS0dKTkUtbEdva0cydC1HR2ItZjFfM0NRdnV4QzB0ZDNwY1VNQ2k1UXhuSGhYU1Z6SEstLW5iSHJJZ0tyUElpb1U?oc=5",
+      "date": "Fri, 05 Jun 2026 10:40:00 GMT"
+    },
+    {
       "title": "工事車両とトラック絡む多重事故、作業員が1人死亡 もう1人も重体 [富山県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5WmwxdnRBTFJoWWNEZGNBNUw0a3lOaHhWYW5YNng5eE9tWXJ0UVEtVzJac0h0c2pwSzFUZXVXTlZzcXZwTUhSQW05VlFhSmYtemFvTXJtSUpkNFAwbjBTRjJlbVFmajA?oc=5",
       "date": "Fri, 05 Jun 2026 08:02:24 GMT"
-    },
-    {
-      "title": "事故で市電に一時遅れ 富山地鉄",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZX3dSREh1Y2dKTVZjLXdGVW8yM2hRVzM0RjlyWUYxRzRVQjlsLWJGVHFjbFVjLWFDaVdQNGJCOFBfR1FiYzgtbW0yOA?oc=5",
-      "date": "Sat, 06 Jun 2026 00:43:00 GMT"
     },
     {
       "title": "北陸道 工事車両に大型トラック追突 死亡は富山市の男性作業員 立山町の男性作業員も重体",
@@ -107,9 +107,9 @@
       "date": "Fri, 05 Jun 2026 12:10:01 GMT"
     },
     {
-      "title": "【北陸道事故】大型トラック 工事車両と作業員に衝突、57歳男性死亡、36歳男性が意識不明の重体 富山・魚津市",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubk00aU9ETzhxQWU2aEJpTTFCdDUtNzhUQmxuWE9XcW4xSVI3NHlhMnQyMUgtQTBYaVNmYndwSllDdmRNRXA1d3R2R1M0dlhFN0xNMVRyc3M4Zw?oc=5",
-      "date": "Fri, 05 Jun 2026 11:43:00 GMT"
+      "title": "事故で市電に一時遅れ 富山地鉄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZX3dSREh1Y2dKTVZjLXdGVW8yM2hRVzM0RjlyWUYxRzRVQjlsLWJGVHFjbFVjLWFDaVdQNGJCOFBfR1FiYzgtbW0yOA?oc=5",
+      "date": "Sat, 06 Jun 2026 00:43:00 GMT"
     },
     {
       "title": "【続報】北陸道事故 意識不明の男性（36）の死亡確認 事故の死者は2人に 大型トラックが工事車両と作業員に衝突 富山・魚津市",

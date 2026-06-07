@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-06-07T09:02:49.699589",
+  "generated_at": "2026-06-07T12:03:23.197145",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 20.3,
+    "temp_now": 19.8,
     "temp_max": 21.4,
-    "temp_min": 18.9,
-    "precip_prob_max": 73,
-    "precip_sum": 10.0,
-    "wind_speed": 12.4,
+    "temp_min": 18.8,
+    "precip_prob_max": 100,
+    "precip_sum": 19.2,
+    "wind_speed": 12.6,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.4,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
         "temp": 21.3,
         "weather": "曇り",
-        "precip_prob": 14
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 20.5,
+        "temp": 20.6,
         "weather": "弱い霧雨",
-        "precip_prob": 37
+        "precip_prob": 45
       },
       {
         "time": "09:00",
-        "temp": 20.3,
-        "weather": "霧雨",
-        "precip_prob": 53
+        "temp": 20.0,
+        "weather": "弱い雨",
+        "precip_prob": 94
       },
       {
         "time": "12:00",
-        "temp": 20.0,
-        "weather": "霧雨",
-        "precip_prob": 73
+        "temp": 19.8,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 20.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "temp": 19.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 39
+        "temp": 19.7,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 19.6,
+        "temp": 19.4,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 51
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "6月7日（日）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qUnJwcjlhTjdOT3o1TEZEUWJfX05OeVRSVWNLcGV6a3JfeDhBN3ZUb1B6R1N4WnZVNUtfcFNiWUtLNlh0UVhTR3JESzl6X08ycGJaSTNheXBwa1MtZ0lveFdYLXIwMVA4OHFrQS1MZ9IBdEFVX3lxTE9vbUNVc3l5SmQ4VzZjaWt6R2RpT214WDRaZ3g2QXdHb2ZLd2tEWHdqZjBqbGxKcEstb2pJWTZKNWxMR2t3ejVwVXFBajE5N293d3gyMzlyQVB5Ty1JTXh6VmhzTzVxWHpsTUlGN0o3SnVSRUVT?oc=5",
+      "date": "Sat, 06 Jun 2026 20:08:34 GMT"
+    },
+    {
       "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VdVJxUDhsMEdDSHlkTVhEWndRZWhuSWJlaDRsWGxzT0dJa1NCRXliT2FEZW91QXZnT01OekhVbk8zLWR4V3NnRTh5TlV3NWxUNWNJcElWbEdseVNsdHF6ZGpDOVpDU0JiVk9VaUZ0Z9IBdEFVX3lxTFBkZ1dxZGhMOFdBWFZCSnM3Q2FqOWZaTk1aUlgwSzZNN0Y5QjZ1SWF5UjdHMXpSckJsQzNBVXlfeG1TUzNDR2gwNGlFRmM4V1lRbFlFMXYxazJBTDV6OEN6V0J3a3dnaGhNQkZ2bndBWU1pLWRX?oc=5",
-      "date": "Sat, 06 Jun 2026 20:08:31 GMT"
+      "date": "Sat, 06 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -75,19 +80,14 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SOERneGR1SnNsSFVlX1d3N2xsTlhYelZreVVfRTNxOU1FSlVmUmw0dkJZZlhDZXJ1Nnl2Zk5PcHFOTFFVbERodjZ1VjJVeWRUN1k0WElGcjhGdWlNT3V5VU1uZE9zN25oQlpfUmZMb9IBdEFVX3lxTE12a0l2cEtha2NyaXlQaEFNYzFhdzVKMVd1eGRnOEdQbnRjOHNkYzlEQXVzQ3hwbmw5OWZzZ0hBdS1UQjlXa0I2ZXRIYWRVUWJRMmRfelhIeDhoNnE1RHZaZlZobTdHaENSZGRXcmFEZmNsTF9D?oc=5",
-      "date": "Thu, 04 Jun 2026 20:08:30 GMT"
-    },
-    {
       "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN2pNVURNU05OeTZjQnVpR1kwX3BmbklGTk9aa2FodG1Mcmt2ZkZSWF9GWWFSQmhZLUNJQlFfSFloODkzX0FPZFlQUVR5YnNU?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "６月３日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50VDRnUUFfajBSeVhobE1JbjN1WVBzcHNBenNKa29iRmQyNnpLZVVDTEZXU0RkVUtPdkVCeDQ3b25QVjF1Q2hEaWdrU1FlbUc1RlZ6Q2dpMUhGVW5NYUpCTmlaaG9NT2JUQXhEdWlUMlp4d9IBd0FVX3lxTE9OZklqQ3h0OGUxMGtBWGVVRVJkUjVLY3k2emQ2MEFEdEhySUNBcEZFc1dYVFRRMXJNV3kwVG5rRmlHNTI0eEtmZFZES1BWMlNjVG5qSExOVUdkLTV6Y0xoYlZUUjRsSzhRZ01FNmFtNm5qNzFoNUpF?oc=5",
-      "date": "Tue, 02 Jun 2026 20:00:00 GMT"
+      "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SOERneGR1SnNsSFVlX1d3N2xsTlhYelZreVVfRTNxOU1FSlVmUmw0dkJZZlhDZXJ1Nnl2Zk5PcHFOTFFVbERodjZ1VjJVeWRUN1k0WElGcjhGdWlNT3V5VU1uZE9zN25oQlpfUmZMb9IBdEFVX3lxTE12a0l2cEtha2NyaXlQaEFNYzFhdzVKMVd1eGRnOEdQbnRjOHNkYzlEQXVzQ3hwbmw5OWZzZ0hBdS1UQjlXa0I2ZXRIYWRVUWJRMmRfelhIeDhoNnE1RHZaZlZobTdHaENSZGRXcmFEZmNsTF9D?oc=5",
+      "date": "Thu, 04 Jun 2026 20:08:30 GMT"
     }
   ],
   "accident_news": [

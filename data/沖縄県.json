@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-07T09:03:47.685686",
+  "generated_at": "2026-06-07T12:04:37.936559",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
     "code": 81,
     "weather": "強いにわか雨",
-    "temp_now": 27.1,
-    "temp_max": 27.5,
-    "temp_min": 25.3,
-    "precip_prob_max": 94,
-    "precip_sum": 15.9,
-    "wind_speed": 25.1,
+    "temp_now": 26.8,
+    "temp_max": 26.9,
+    "temp_min": 24.3,
+    "precip_prob_max": 100,
+    "precip_sum": 26.8,
+    "wind_speed": 20.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.4,
         "weather": "雨",
-        "precip_prob": 57
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 26.1,
+        "temp": 26.3,
         "weather": "曇り",
-        "precip_prob": 39
+        "precip_prob": 55
       },
       {
         "time": "06:00",
-        "temp": 25.6,
-        "weather": "曇り",
-        "precip_prob": 67
+        "temp": 25.2,
+        "weather": "霧雨",
+        "precip_prob": 33
       },
       {
         "time": "09:00",
-        "temp": 27.1,
-        "weather": "曇り",
-        "precip_prob": 88
-      },
-      {
-        "time": "12:00",
-        "temp": 26.2,
-        "weather": "雨",
-        "precip_prob": 94
-      },
-      {
-        "time": "15:00",
-        "temp": 27.5,
-        "weather": "曇り",
-        "precip_prob": 88
-      },
-      {
-        "time": "18:00",
-        "temp": 26.5,
-        "weather": "曇り",
+        "temp": 26.0,
+        "weather": "弱い霧雨",
         "precip_prob": 71
       },
       {
+        "time": "12:00",
+        "temp": 26.8,
+        "weather": "にわか雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "15:00",
+        "temp": 26.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "18:00",
+        "temp": 26.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
         "time": "21:00",
-        "temp": 25.4,
-        "weather": "雨",
-        "precip_prob": 31
+        "temp": 25.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VdVJxUDhsMEdDSHlkTVhEWndRZWhuSWJlaDRsWGxzT0dJa1NCRXliT2FEZW91QXZnT01OekhVbk8zLWR4V3NnRTh5TlV3NWxUNWNJcElWbEdseVNsdHF6ZGpDOVpDU0JiVk9VaUZ0Z9IBdEFVX3lxTFBkZ1dxZGhMOFdBWFZCSnM3Q2FqOWZaTk1aUlgwSzZNN0Y5QjZ1SWF5UjdHMXpSckJsQzNBVXlfeG1TUzNDR2gwNGlFRmM4V1lRbFlFMXYxazJBTDV6OEN6V0J3a3dnaGhNQkZ2bndBWU1pLWRX?oc=5",
+      "date": "Sat, 06 Jun 2026 20:02:00 GMT"
+    },
     {
       "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SOERneGR1SnNsSFVlX1d3N2xsTlhYelZreVVfRTNxOU1FSlVmUmw0dkJZZlhDZXJ1Nnl2Zk5PcHFOTFFVbERodjZ1VjJVeWRUN1k0WElGcjhGdWlNT3V5VU1uZE9zN25oQlpfUmZMb9IBdEFVX3lxTE12a0l2cEtha2NyaXlQaEFNYzFhdzVKMVd1eGRnOEdQbnRjOHNkYzlEQXVzQ3hwbmw5OWZzZ0hBdS1UQjlXa0I2ZXRIYWRVUWJRMmRfelhIeDhoNnE1RHZaZlZobTdHaENSZGRXcmFEZmNsTF9D?oc=5",
@@ -80,14 +85,9 @@
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "6月1日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMTNxQ3FCbVZWal8zbXNNVGU4dFdGMzdmaEhJbW1RcFc0X0JnYS0xZkFLbTdqclJDNE0yeGFxT0drYkI3c1JRVWdqejkzc09TZjBxUWdnM2xqcklDQ0tMbndieThlNTJEem9WVlNvMNIBdEFVX3lxTFBHV1dNX2dSZFJaTnZiLURRdDJWZGJtUXV4SGpfT3J5WXZFTG51ZExKXzB5bTRXc3NkSFV1cWJjenZTaVoxcmpqU2JRTjBfcHduTVczZHlIbTVWbzJ1cjNRcGwyVkc5LUlxSnRYNENIQU9IRXhM?oc=5",
-      "date": "Sun, 31 May 2026 20:02:00 GMT"
-    },
-    {
-      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
-      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+      "title": "朝の検問で発覚、出勤中に酒気帯び運転疑い 34歳容疑者「酒は抜けたと思った」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00Mi1GX0c4NWZraDc1RHJ3U0owaTMwMmdpZ3F4RzlNRjU1N0Rma0VqdXFFdWVVbVZ0Z3NmY0p1RU9wMmlqTEFqZmQ3VlV1X1FrZzlGSGhqT2pZeHVybHc?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
