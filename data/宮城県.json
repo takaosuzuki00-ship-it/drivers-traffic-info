@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-06-09T00:01:54.397468",
+  "generated_at": "2026-06-09T03:01:47.390178",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 16.3,
-    "temp_max": 23.4,
-    "temp_min": 15.6,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.5,
+    "temp_max": 23.9,
+    "temp_min": 15.8,
     "precip_prob_max": 100,
-    "precip_sum": 2.8,
-    "wind_speed": 1.0,
+    "precip_sum": 2.1,
+    "wind_speed": 3.2,
     "hourly": [
       {
         "time": "00:00",
         "temp": 16.3,
         "weather": "弱い霧雨",
-        "precip_prob": 88
+        "precip_prob": 100
       },
       {
         "time": "03:00",
         "temp": 16.5,
-        "weather": "霧雨",
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 16.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 96
+        "temp": 16.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "09:00",
-        "temp": 20.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 14
-      },
-      {
-        "time": "12:00",
-        "temp": 22.8,
-        "weather": "快晴",
-        "precip_prob": 8
-      },
-      {
-        "time": "15:00",
-        "temp": 23.2,
+        "temp": 21.0,
         "weather": "晴れ時々曇",
         "precip_prob": 4
       },
       {
-        "time": "18:00",
-        "temp": 20.1,
+        "time": "12:00",
+        "temp": 23.3,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 20.6,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 16.5,
+        "temp": 16.6,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SOERneGR1SnNsSFVlX1d3N2xsTlhYelZreVVfRTNxOU1FSlVmUmw0dkJZZlhDZXJ1Nnl2Zk5PcHFOTFFVbERodjZ1VjJVeWRUN1k0WElGcjhGdWlNT3V5VU1uZE9zN25oQlpfUmZMb9IBdEFVX3lxTE12a0l2cEtha2NyaXlQaEFNYzFhdzVKMVd1eGRnOEdQbnRjOHNkYzlEQXVzQ3hwbmw5OWZzZ0hBdS1UQjlXa0I2ZXRIYWRVUWJRMmRfelhIeDhoNnE1RHZaZlZobTdHaENSZGRXcmFEZmNsTF9D?oc=5",
-      "date": "Thu, 04 Jun 2026 20:08:30 GMT"
-    },
     {
       "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
@@ -88,6 +83,11 @@
       "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
       "date": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高校生３人の命を奪った多賀城市の飲酒運転事故から２１年 現場付近で検問実施〈宮城〉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWFRyeGR1Qk9XMEhTYnp1WXF2ZGpJQUNMeFN1d25CeFJfVTdjbFFHNDJVZDdXb0RZWTF2UlM0N0JqWlNRemxZVVlMU2ZRZw?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Thu, 14 May 2026 07:00:00 GMT"
     },
     {
-      "title": "磐越道の部活遠征バス事故受け 宮城県と仙台市が実態調査を開始 移動手段や契約の適切性を確認へ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mVmtpUFZXRFRpTV9tRWJLel9TclBVUGlPTEgwaWRVdU8xRk9waW15MWxsRVd2NnRSUC1FZHZPRmFSR1Z4bmhQRzhkZ0JyY3p1T3p2ZzF4Yzhfc1NtenczY044SmFkTHFKS0tNMVVGSdIBdEFVX3lxTE1yWmdfSUxYZGJmbXgwWlVMb3RpM1p0S1pOZWNFWEc4SUoxZU9HSlowUDM4aTBpVjZFVjNnekxJVVJIR0lNb19BTHBOb1owQ1pNZFE0NjBlVk9MZVlFNWU2RVlXZXNlZDZMNXE0ZEI4bFJUNVhX?oc=5",
-      "date": "Fri, 05 Jun 2026 09:43:00 GMT"
-    },
-    {
       "title": "「気付くのが遅れた…」道路工事のため交通誘導中、トラックにはねられた男性が重体（宮城・石巻市の国道45号）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRU5idWV4YlN3SzMxM0d3ZW5oNVI3U1dlWXZYeXJKcGVMVUpIZ25vampoSVdHYWVxZWxCSTBHN0dRbHR1MEZLMGtmWGpLaTBaRy15ckgxSFlfWkRtb1UzRzhGLUJRWXdIaWdwZjI0ZDVnbEl4X1NtOFBQbkllRTg?oc=5",
       "date": "Fri, 15 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "磐越道の部活遠征バス事故受け 宮城県と仙台市が実態調査を開始 移動手段や契約の適切性を確認へ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mVmtpUFZXRFRpTV9tRWJLel9TclBVUGlPTEgwaWRVdU8xRk9waW15MWxsRVd2NnRSUC1FZHZPRmFSR1Z4bmhQRzhkZ0JyY3p1T3p2ZzF4Yzhfc1NtenczY044SmFkTHFKS0tNMVVGSdIBdEFVX3lxTE1yWmdfSUxYZGJmbXgwWlVMb3RpM1p0S1pOZWNFWEc4SUoxZU9HSlowUDM4aTBpVjZFVjNnekxJVVJIR0lNb19BTHBOb1owQ1pNZFE0NjBlVk9MZVlFNWU2RVlXZXNlZDZMNXE0ZEI4bFJUNVhX?oc=5",
+      "date": "Fri, 05 Jun 2026 09:43:00 GMT"
     },
     {
       "title": "東北6県の交通事故死者は昨年213人 「交通安全のための行動を」",
