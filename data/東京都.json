@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-09T03:02:36.704886",
+  "generated_at": "2026-06-09T06:02:17.577533",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 19.2,
-    "temp_max": 24.4,
+    "temp_now": 19.0,
+    "temp_max": 24.8,
     "temp_min": 19.0,
     "precip_prob_max": 98,
-    "precip_sum": 3.9,
-    "wind_speed": 3.1,
+    "precip_sum": 7.1,
+    "wind_speed": 3.4,
     "hourly": [
       {
         "time": "00:00",
@@ -21,8 +21,8 @@
       },
       {
         "time": "03:00",
-        "temp": 19.2,
-        "weather": "弱い霧雨",
+        "temp": 19.1,
+        "weather": "弱い雨",
         "precip_prob": 78
       },
       {
@@ -33,42 +33,37 @@
       },
       {
         "time": "09:00",
-        "temp": 20.8,
+        "temp": 20.5,
         "weather": "晴れ",
         "precip_prob": 49
       },
       {
         "time": "12:00",
-        "temp": 24.0,
+        "temp": 24.1,
         "weather": "晴れ",
         "precip_prob": 31
       },
       {
         "time": "15:00",
-        "temp": 23.5,
-        "weather": "晴れ時々曇",
+        "temp": 24.1,
+        "weather": "晴れ",
         "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 21.9,
+        "temp": 22.8,
         "weather": "晴れ時々曇",
         "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 20.5,
-        "weather": "晴れ",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "6月8日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12MXhJQ3BzZk4ycm9wdXFwdl94cnB6cnd4ZzhWSzJPaGNxNnA3MU01bTlGMG51Y2Q0YnBxY3JKYWxCQUVjV0ZNc2dhYmUxUEVXYjlzTzlCX0xFY1RWVURpeDFmOFg?oc=5",
-      "date": "Sun, 07 Jun 2026 20:00:00 GMT"
-    },
     {
       "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdTZwTzdiV2JRSVN3ZGZwQXlnS2owc1JYempRMTNVd2JZdXlYY1NBd3pMY3Y3aGNnM3RIWW1NTTRjcm5uR3dOUlJsMlNfLUc1ZEhtV1pCeHhYQQ?oc=5",
@@ -80,9 +75,14 @@
       "date": "Sat, 06 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "６月７日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjWEJyNkh3TWhLcGFJUVU3a002czc4c0JLeEtrcGNVVml5UVVqbGJwUHkxS3JNZkRWS2gydTQ2enFxMlhnb1JfSDROQ1FJWllrMmZQQzg0dWpXR3JrTEpUeEZwdkw?oc=5",
-      "date": "Sat, 06 Jun 2026 20:00:00 GMT"
+      "title": "6月8日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qUHNRcUhTaTZTUjBIbml3V25RQ1JFM1JDUHN0dXAybExLRnN6NGlhZXVXTUs1YjJDcHNGUjVZSjF3WnZ0NzFETVc3RDg3Q2JtUkJON0NxZVdtdw?oc=5",
+      "date": "Sun, 07 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月5日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqMGR3aHRkRFBCX3hFUnR0elk3WVl3OWdkcUI4d0Vwcjk4OTRPMHZ0ZkNJdHFpLV82YkNfNWZyVGh4a1F5MmkySVYzdmdEYzR3ajUtbDdpLUtsbG14a3IxZVZYUjlJTTg?oc=5",
+      "date": "Thu, 04 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "「息ハァ～ってして……酒気帯びだね」 東京全域“大規模検問”で全乗りもの一網打尽！ でも「クルマは3人だけ」いかにも令和な結果に!?（1/2 ページ）",
@@ -92,29 +92,29 @@
   ],
   "accident_news": [
     {
+      "title": "「二輪車安全運転東京大会」交通事故の抑止が狙い",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xd2lEMU9JbUhwcEs3RkFtMXV0QVdVWkdGdndOY0Z0dWVSNWQ3TFJtTTRpR2tyMXQtWmpDN0xXb21VbzRHTEs2clBldzFlWW9wOVh1U1FYdHFTQjdOSDlXNFhNQQ?oc=5",
+      "date": "Sun, 24 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "横田基地関係者による飲酒を伴う交通事故について（要請）|1月",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVDU5QnlnSUV6VXNVbEgyakNvbmhZYjZkUHhSUjZNZ3hwQUZhdVlYTmxhQlZGTGpNX1I0OWhQQnZPeTBmN2wydUZPMllQdVhINFVPZm5rNmhZVXVvcjk3OEllanJXcW54ZTV1NHh6LTJHNTB4ejhHRV9ReFhuUQ?oc=5",
+      "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "「事故の記憶ない」 内閣府公用車事故の運転手が説明 勤務先を捜索 [東京都]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcnkyQTQ0bk1CR2lpaVJUb1lYaXpWc2VDdDVldlRfRmhUNGYwNUZ3Ri1KZVI1WE5fZi0tcmpsSVRRMXRkLXN3QWJ1ZHZob09vYjNVczdlSGw2bzBhLUxSRExJUXVtRms?oc=5",
       "date": "Fri, 20 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "車両4台絡む事故 1人死亡、2人ケガ 東京・大田区（2026年3月7日掲載）｜日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nR0xod1VQR2NudlRvTVVaWkViU21NQ1dBZjNNaWF1VmpoSXlzaGgtbGxPc1M0ZHRURmRYR0NoN25Cc1g0Q1FBdFp5TldDQ1NlUk4ya0lNbWM5OVYxQ2JyTm0ybmNncmQtQ1FvZVJlV2s4dmF5eTVPelMtZC0?oc=5",
-      "date": "Sat, 07 Mar 2026 08:00:00 GMT"
+      "title": "池袋乗用車暴走事故から7年 「人ごとだと思わないで」遺族の松永拓也さんが交通安全意識の向上を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rN3phQ1hWbTY4ZHlBUTNlODdIemRYY21OenRtT3dLQXBNS2ZqZE5IMDhDWFJoYnZJMWFMVC01QlFweExYUmNSY2tmVm5nZzRaNVhn?oc=5",
+      "date": "Sun, 19 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "2025年中の交通事故死者数は過去最少の2547人、前年比116人減―警察庁",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNWlSeGxPbkJaSmQ5cHhCU1F3eTJOQkZSRUx6Z1JpaEdFa0tfOGdaUzNta3hKWkdibU51c1BETml3c25IMWd6YkhMSEpiNkRFQXdRSEFvdw?oc=5",
-      "date": "Wed, 14 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "交通事故が多発する「危ない交差点」東京・神奈川・千葉・埼玉・茨城・栃木・群馬のワースト1は?",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UMUYzeHJDczNYMFM0eTNEbTg4T21GczdJd19iZW9KSnRCdWU1TnFqOERoNnFvN0lGN1ZLcDBDcE9FbWhMck1zcE9vQ1BCczh2U3Y3SEdxcVlFazdvY0lveWlhWjB5cno4dU0w?oc=5",
-      "date": "Tue, 16 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "東京・足立区の80代女性死亡事故 ひき逃げなどの疑いで逮捕されたトラック運転手の男性（56）を不起訴「過失を立証するだけの証拠収集できず」 東京地検",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11Smx1VDVaRHhoSC1rU2xRbl9DTWxleUN4NHI4bnZNOEU0OVhBVzlna3RlYk9vZ2VMc29oVmhVT0ZmS0w2S1hjZjAyNm1mTk1DdjR3dEhSYw?oc=5",
-      "date": "Thu, 04 Jun 2026 10:25:32 GMT"
+      "title": "東京VがMF川村楽人の交通事故を報告「今一度安全運転の徹底を指導いたします」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZMHE5dHpMV3pDV2VsVE9WRDltUi04c0k3bUlOSndGNS1GaU5STTBKTjlGWjhEaWM0VmNMOWQ3djYxblpJX2hHR1FMQWo5OHNzZnBqb2hxdllTb2FfN0w2ZC1hdUdkVF92S2VQeW1R?oc=5",
+      "date": "Wed, 27 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

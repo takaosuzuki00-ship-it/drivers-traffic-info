@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T03:04:39.421174",
+  "generated_at": "2026-06-09T06:04:23.855777",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
@@ -7,63 +7,68 @@
     "code": 51,
     "weather": "弱い霧雨",
     "temp_now": 18.5,
-    "temp_max": 22.9,
-    "temp_min": 18.2,
+    "temp_max": 24.2,
+    "temp_min": 18.5,
     "precip_prob_max": 88,
-    "precip_sum": 1.0,
+    "precip_sum": 0.5,
     "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.9,
+        "temp": 19.1,
         "weather": "弱い霧雨",
         "precip_prob": 88
       },
       {
         "time": "03:00",
-        "temp": 18.5,
+        "temp": 18.8,
         "weather": "晴れ時々曇",
         "precip_prob": 12
       },
       {
         "time": "06:00",
-        "temp": 18.3,
-        "weather": "弱い霧雨",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 20.0,
-        "weather": "曇り",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 12
       },
       {
         "time": "12:00",
-        "temp": 20.9,
-        "weather": "曇り",
+        "temp": 23.9,
+        "weather": "晴れ",
         "precip_prob": 37
       },
       {
         "time": "15:00",
-        "temp": 22.2,
-        "weather": "晴れ時々曇",
+        "temp": 23.5,
+        "weather": "曇り",
         "precip_prob": 31
       },
       {
         "time": "18:00",
-        "temp": 22.3,
+        "temp": 22.2,
         "weather": "曇り",
         "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 20.0,
-        "weather": "曇り",
+        "temp": 20.2,
+        "weather": "晴れ",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月9日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUGVSZHptbi1UYmZuTjlXSGtIMzJ4YzFjTkVOWWxkWEJyTWJvVW8zTE5MaTZteVBmNHZ3MWtxQWN2NFRjU2pZakRTemVkUGl5dEw5ZUFYNUdwOGRtdVRIb3R4eDF4WUt1dWNNU3A4Tjh1LXpQVmFpXzZvR0poeFk?oc=5",
+      "date": "Mon, 08 Jun 2026 20:05:56 GMT"
+    },
     {
       "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Y0xoRUZ1ZG9jMnVDMURnZ0hIQU0wTG15MkRvcUtfdmpWamxFYmZ0V2NZWHhUT3BPUllPamwwVGh5bUNIRlB2LVFrOHpGY1gxbldmeDh5SQ?oc=5",
@@ -73,11 +78,6 @@
       "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反（RKK熊本放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wRHJVT3QwSmN6QzhBanlIdExBR1R4aWxLdF9DSXI1dmlzbGR4My1zbTJXcDM1azFDZ21oQVNQeVVydUtiYTlPT0tTNmJ2NHRWa1h0VWk3LUxUSXJXbGtvTEFXOU03S3JjcEd5d19aNHd4cXRlWXRva2NMaWgzT28?oc=5",
       "date": "Sat, 06 Jun 2026 20:02:13 GMT"
-    },
-    {
-      "title": "6月8日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり (RKK熊本放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlZ1bk4wODc5WlNlUHBhZHZLNE5tdU1DSWxkWGtfYlZObzMwNjAwaFBTbmFmVHNZV18tY05VSVZIR2t4LTdKS0UwQ0V3WlJvWUhHQnhMalprc3V0aldaSlQwM0c0aW5tS2hvZkl0Sk5md3BYTXZSTURrNHpNMTk5TnFFU2dXMmxSRW5vX2JB?oc=5",
-      "date": "Sun, 07 Jun 2026 23:51:41 GMT"
     },
     {
       "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "熊本県内『死亡事故』相次ぐ 高森・熊本市北区で死亡事故",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBd1VSRWx2MXdNc0J3RzdWTnUzOGw3ZjNVZ3ZJVGtMSWFNdE1PN1Fycm5BM21RbERNTmpZOHdPOFlWdEVwbVctREgtajVaNWp0ZzRKMzQ4dmZxTk1uV0E?oc=5",
-      "date": "Thu, 04 Jun 2026 03:58:00 GMT"
+      "title": "【通行止め】熊本県菊陽町 国道443号の上下線が全面通行止め 大型トラックからむ交通事故の影響 ※10時45分に解除",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzcHBDbkMxX1VWUjBVc2pLellNNGZnRE9ENGdRYlpoUVRhQ19LaWw4UFEwRENuTGs0OTJCV19tQWZNSkF6WWV3RWdxR1J0cHNBSk1aaVQ3MHlFR243eEdN?oc=5",
+      "date": "Mon, 08 Jun 2026 10:11:00 GMT"
     },
     {
       "title": "[TKUニュース 26.06.03 12:00 ] 男子高校生（１７）運転の自転車が衝突 女性（６２）重体【熊本】",
@@ -112,9 +112,9 @@
       "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "熊本・嘉島町で交通違反の緊急取り締まり 相次ぐ事故受け 御船署と熊本県警交通機動隊",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CeDJwQWhnb3AwaWFobkNucmZYNEZ0RXl5QlB3dnE5OUp0RFVDR1pZc1FSamhrdzlqUzAzWS1NaW9acGJhdEhEVU5jZ2tjY2M?oc=5",
-      "date": "Fri, 22 May 2026 07:00:00 GMT"
+      "title": "熊本県内『死亡事故』相次ぐ 高森・熊本市北区で死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBd1VSRWx2MXdNc0J3RzdWTnUzOGw3ZjNVZ3ZJVGtMSWFNdE1PN1Fycm5BM21RbERNTmpZOHdPOFlWdEVwbVctREgtajVaNWp0ZzRKMzQ4dmZxTk1uV0E?oc=5",
+      "date": "Thu, 04 Jun 2026 03:58:00 GMT"
     }
   ],
   "official_links": [
