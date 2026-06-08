@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-08T12:02:01.234790",
+  "generated_at": "2026-06-08T15:02:34.798822",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 21.5,
-    "temp_max": 21.6,
+    "temp_now": 20.2,
+    "temp_max": 21.3,
     "temp_min": 19.0,
     "precip_prob_max": 100,
-    "precip_sum": 7.8,
-    "wind_speed": 7.6,
+    "precip_sum": 6.6,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
@@ -29,36 +29,36 @@
         "time": "06:00",
         "temp": 19.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 21.1,
+        "temp": 20.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 21.5,
+        "temp": 21.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 29
+        "precip_prob": 33
       },
       {
         "time": "15:00",
-        "temp": 20.8,
-        "weather": "曇り",
+        "temp": 20.2,
+        "weather": "弱い霧雨",
         "precip_prob": 84
       },
       {
         "time": "18:00",
-        "temp": 20.1,
+        "temp": 19.8,
         "weather": "強い霧雨",
-        "precip_prob": 84
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 19.5,
-        "weather": "霧雨",
+        "temp": 19.8,
+        "weather": "強い霧雨",
         "precip_prob": 100
       }
     ]
