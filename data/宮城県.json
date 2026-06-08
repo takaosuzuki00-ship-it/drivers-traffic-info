@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-08T21:00:56.585657",
+  "generated_at": "2026-06-09T00:01:54.397468",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
+    "code": 53,
+    "weather": "霧雨",
     "temp_now": 16.3,
-    "temp_max": 19.2,
-    "temp_min": 15.5,
+    "temp_max": 23.4,
+    "temp_min": 15.6,
     "precip_prob_max": 100,
-    "precip_sum": 7.6,
-    "wind_speed": 1.3,
+    "precip_sum": 2.8,
+    "wind_speed": 1.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.5,
-        "weather": "曇り",
-        "precip_prob": 67
+        "temp": 16.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
       },
       {
         "time": "03:00",
-        "temp": 15.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 57
-      },
-      {
-        "time": "06:00",
-        "temp": 15.6,
-        "weather": "曇り",
+        "temp": 16.5,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
+        "time": "06:00",
+        "temp": 16.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
+      },
+      {
         "time": "09:00",
-        "temp": 17.6,
-        "weather": "曇り",
-        "precip_prob": 80
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
       },
       {
         "time": "12:00",
-        "temp": 19.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 88
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 16.7,
-        "weather": "弱い雨",
-        "precip_prob": 88
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 16.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 16.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 94
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },

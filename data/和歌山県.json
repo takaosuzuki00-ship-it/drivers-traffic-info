@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-08T21:03:16.431882",
+  "generated_at": "2026-06-09T00:04:20.185707",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 20.0,
-    "temp_max": 23.3,
-    "temp_min": 18.7,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 19.1,
+    "temp_max": 22.6,
+    "temp_min": 17.9,
     "precip_prob_max": 100,
-    "precip_sum": 12.2,
-    "wind_speed": 5.1,
+    "precip_sum": 2.5,
+    "wind_speed": 4.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.5,
-        "weather": "晴れ",
-        "precip_prob": 47
+        "temp": 19.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 18.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.1,
+        "weather": "強い霧雨",
+        "precip_prob": 98
       },
       {
         "time": "06:00",
-        "temp": 19.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 37
       },
       {
         "time": "09:00",
-        "temp": 22.3,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 19.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "12:00",
-        "temp": 23.3,
-        "weather": "曇り",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 21.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 20
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 20.3,
-        "weather": "弱い雨",
-        "precip_prob": 94
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 20.0,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       }
     ]
   },
