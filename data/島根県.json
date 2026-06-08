@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-08T09:05:57.106562",
+  "generated_at": "2026-06-08T12:03:41.060396",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 22.8,
-    "temp_max": 23.0,
-    "temp_min": 19.6,
-    "precip_prob_max": 88,
-    "precip_sum": 0.6,
-    "wind_speed": 4.7,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.2,
+    "temp_max": 21.3,
+    "temp_min": 19.3,
+    "precip_prob_max": 86,
+    "precip_sum": 3.8,
+    "wind_speed": 6.8,
     "hourly": [
       {
         "time": "00:00",
@@ -21,45 +21,45 @@
       },
       {
         "time": "03:00",
-        "temp": 19.9,
-        "weather": "晴れ時々曇",
+        "temp": 19.8,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.1,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "09:00",
-        "temp": 22.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
       },
       {
         "time": "12:00",
-        "temp": 22.2,
-        "weather": "曇り",
-        "precip_prob": 45
+        "temp": 21.2,
+        "weather": "弱い雨",
+        "precip_prob": 73
       },
       {
         "time": "15:00",
-        "temp": 21.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
+        "temp": 21.2,
+        "weather": "曇り",
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 20.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 88
+        "temp": 20.4,
+        "weather": "曇り",
+        "precip_prob": 86
       },
       {
         "time": "21:00",
-        "temp": 20.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 69
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 73
       }
     ]
   },
