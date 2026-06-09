@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-06-10T03:04:19.789155",
+  "generated_at": "2026-06-10T06:04:39.255101",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 18.2,
-    "temp_max": 25.3,
-    "temp_min": 18.2,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 19.1,
+    "temp_max": 25.0,
+    "temp_min": 18.0,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 1.8,
+    "wind_speed": 11.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.5,
+        "temp": 18.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
         "temp": 18.2,
-        "weather": "快晴",
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
         "temp": 19.1,
-        "weather": "晴れ",
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.8,
-        "weather": "晴れ時々曇",
+        "temp": 21.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
@@ -45,13 +45,13 @@
       },
       {
         "time": "15:00",
-        "temp": 24.5,
-        "weather": "曇り",
+        "temp": 24.8,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 24.2,
+        "temp": 24.3,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -64,6 +64,11 @@
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月10日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeldJMzZiVXBHajhtSk5BSG1ISmVfMHdCQ2ljMzVmWnBSUVpHOVdLLTkxNEJ1bXVTdHJYMXpQNUxNckRnQ29obllfTmF4WlVJME5xQy1pU2RXeGtNQTdpcXNDYkU1VUdDaHcxaVpDV0N4cXBta0Z1NU0wdUsyTWcteGF30gF0QVVfeXFMUG1NUUZBT2g4cXBVdWdoOW9wblZ3RG90bC1FNXc2NXhMaG82Y2NBeWt4S2lJUTZmSFQ3REFIQkx3Zmg2RllybjFTaDNHSnlmNVNoa3NPSVR3MzFQek5EMnNCdDFrOVhQNGVVMWtPcXFVYVhWelc?oc=5",
+      "date": "Tue, 09 Jun 2026 20:05:48 GMT"
+    },
     {
       "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Y0xoRUZ1ZG9jMnVDMURnZ0hIQU0wTG15MkRvcUtfdmpWamxFYmZ0V2NZWHhUT3BPUllPamwwVGh5bUNIRlB2LVFrOHpGY1gxbldmeDh5SQ?oc=5",
@@ -80,11 +85,6 @@
       "date": "Fri, 03 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "6月9日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52Q2hadUhnUnhBeTREZU5GcVdsNWt2YlF4b2JURWItbDJJU3UyemUweERMOGxkdGFILUpMRVdxa1RQdmYwZW1sN3ctMG00c0piNlNpWU1RdjAwalRkSTU4Uno2ZE5BZnBWa0M0WjAwONIBdEFVX3lxTE5fYzJDNjBROXFiRnhxRTNVbDRhcTVkWTBjd2FobFZjbkw4MkFKZ3M5MEFQYkV3OXdNZkZrWHFqcGRDTEItVjlETFBOdEU5SkNyNUNwdEw0LTFWVXFERUE4cGZ5M2ljbmZYanJId2ZWOFZYVmdh?oc=5",
-      "date": "Mon, 08 Jun 2026 20:02:00 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "5台が絡む交通事故で4人が病院に搬送 中九州横断道路 犬飼IC～千歳ICが全面通行止めに 大分（TOSテレビ大分）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSW1kYUtXUEpBTnlicHp2WTRxZzAxaTBqZU9WcDVZcEVjaWlMZUlVMzJPWklGTGNYZG1IemJvck00d05BeUc4Qk1NWTA0RVNkWHVWZ3ZEQlVaRFdzWFJBLWtEOEkyU21QWU5aMmdGeHBFWW16bzV5RVRNV1RjWUE?oc=5",
-      "date": "Tue, 09 Jun 2026 05:03:02 GMT"
-    },
-    {
       "title": "【交通情報】中九州横断道路でトラックなど5台絡む事故 積み荷が路上に散乱 犬飼IC～千歳IC間で通行止め 大分",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xYWxySUkyNHQ4ZmlmMk9kQUtSU29zYVUtZWZrNzYzVTg4anNTYkVrVXdRbWZaUmxneF8tNUtUVW5NLXJZTWVLdmlsTl9xeVdmaGRqa0c3eXFSUQ?oc=5",
       "date": "Tue, 09 Jun 2026 05:36:00 GMT"
+    },
+    {
+      "title": "5台が絡む交通事故で4人が病院に搬送 中九州横断道路 犬飼IC～千歳ICが全面通行止めに 大分（TOSテレビ大分）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSW1kYUtXUEpBTnlicHp2WTRxZzAxaTBqZU9WcDVZcEVjaWlMZUlVMzJPWklGTGNYZG1IemJvck00d05BeUc4Qk1NWTA0RVNkWHVWZ3ZEQlVaRFdzWFJBLWtEOEkyU21QWU5aMmdGeHBFWW16bzV5RVRNV1RjWUE?oc=5",
+      "date": "Tue, 09 Jun 2026 05:03:02 GMT"
     },
     {
       "title": "5台が絡む交通事故で4人が病院に搬送 中九州横断道路 犬飼IC～千歳ICが全面通行止めに 大分",
@@ -113,7 +113,7 @@
     },
     {
       "title": "【交通死亡事故】大分県大分市で連続発生［6/5現在］ | チバテレ＋プラス",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxTTE4a1R3VUh3MEFSNXhiRHNXRFJBRWJCRlBhT1c5dEVsVk5WcDBTbFFOUlRKcC1EUWxaRmlSNXhzUXFOZWN4bkhTdVlZb2VmYUVZX1kwc0FYZEx5MFhn0gFkQVVfeXFMTWx0MW4zVEtHVXVIamctRjl4OHdBQTBrUV9lVHdkODV3ZUEzTlNWZFJCaDlOUldyUFgxVGtJcDQ1TUU4a3dPemhiZ1o3YWdCOGFmT01DUWZ2X0pjbGVvdWpBMzlScg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdDFuM1RLR1V1SGpnLUY5eDh3QUEwa1FfZVR3ZDg1d2VBM05TVmRSQmg5TlJXclBYMVRrSXA0NU1FOGt3T3poYmdaN2FnQjhhZk9NQ1Fmdl9KY2xlb3VqQTM5UnLSAWRBVV95cUxNbHQxbjNUS0dVdUhqZy1GOXg4d0FBMGtRX2VUd2Q4NXdlQTNOU1ZkUkJoOU5SV3JQWDFUa0lwNDVNRThrd096aGJnWjdhZ0I4YWZPTUNRZnZfSmNsZW91akEzOVJy?oc=5",
       "date": "Mon, 08 Jun 2026 06:00:00 GMT"
     }
   ],
