@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-09T18:02:08.778517",
+  "generated_at": "2026-06-09T21:01:56.798588",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 14.9,
+    "temp_max": 17.8,
+    "temp_min": 14.5,
+    "precip_prob_max": 100,
+    "precip_sum": 4.3,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 16.1,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 16.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 17.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "12:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "18:00",
+        "temp": 16.0,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "21:00",
+        "temp": 14.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月7日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -43,14 +102,14 @@
       "date": "Tue, 09 Jun 2026 06:30:00 GMT"
     },
     {
-      "title": "秋田 死亡事故の被害者遺族が小学校で講演 命の大切さ伝える",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rbzRjR1dTMzZXeDZNbkYwaTZKamFoY3Z2QlBSVXE0MkRMMU9vckIxT292WDlhSGVodWQxQWp0clA0Uy1zbWUwaEhsMWx0akdXbjlhWnNwRUw?oc=5",
-      "date": "Fri, 05 Jun 2026 08:35:00 GMT"
-    },
-    {
       "title": "【交通事故のない秋田県へ！】協定締結のお知らせ",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucWVHaGFDeENub1JtUTl1VjNDUU9WWnpvNkdHSlI0RDBQVnJJZVl5bjRFM08ycy1aaGpsTDAzeE9mcHdqOUdmSHR4VW5YYllwNUloVEkzeVFJTEw4U2k5Ng?oc=5",
       "date": "Mon, 25 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "秋田 死亡事故の被害者遺族が小学校で講演 命の大切さ伝える",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rbzRjR1dTMzZXeDZNbkYwaTZKamFoY3Z2QlBSVXE0MkRMMU9vckIxT292WDlhSGVodWQxQWp0clA0Uy1zbWUwaEhsMWx0akdXbjlhWnNwRUw?oc=5",
+      "date": "Fri, 05 Jun 2026 08:35:00 GMT"
     },
     {
       "title": "秋田市下浜の国道7号で車4台が絡む事故 1人が大けが 20日 秋田（2026年5月20日掲載）｜ABS NEWS NNN",
