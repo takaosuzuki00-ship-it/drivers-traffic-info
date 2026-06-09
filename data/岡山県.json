@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-06-09T21:05:04.808983",
+  "generated_at": "2026-06-10T00:04:55.674198",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 20.4,
-    "temp_max": 23.1,
-    "temp_min": 17.7,
-    "precip_prob_max": 100,
-    "precip_sum": 1.0,
-    "wind_speed": 4.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.2,
+    "temp_max": 27.4,
+    "temp_min": 15.3,
+    "precip_prob_max": 16,
+    "precip_sum": 0,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 18.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 18.0,
-        "weather": "曇り",
-        "precip_prob": 59
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 18.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "temp": 15.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.3,
+        "temp": 26.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.7,
         "weather": "曇り",
         "precip_prob": 8
       },
       {
-        "time": "15:00",
-        "temp": 23.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 14
-      },
-      {
         "time": "18:00",
-        "temp": 22.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 24.9,
+        "weather": "晴れ",
+        "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 20.4,
+        "temp": 21.6,
         "weather": "晴れ",
         "precip_prob": 0
       }
