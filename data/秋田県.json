@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T03:03:08.148663",
+  "generated_at": "2026-06-11T06:02:11.553210",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 13.4,
+    "temp_max": 20.4,
+    "temp_min": 12.3,
+    "precip_prob_max": 41,
+    "precip_sum": 0,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 41
+      },
+      {
+        "time": "15:00",
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月7日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -33,14 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "北秋田市栄のスーパー、入り口の柱に車衝突 運転・同乗の２人軽傷",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQ2NTTXNXck16cVpPbllPUFdaRmlVMWVYc3JJQkVxRmltS1h3cnNYTnJtYXdWQkJSNjBUdXRQemlZUjB6aHFXNVE4XzZuT3piTzczRG9IZDdEdWNtYVc2TzJR?oc=5",
-      "date": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "藤里町、交通死亡事故ゼロ２５００日達成 県と県警が表彰",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PdklyTk9DRTRmZDZpSXZzREd1QS16QXo3U0Q4d1dvOWlCS0diUzJpODBKamxWSnVZeWNtMnVKMHN4QU93VDRJMzhadw?oc=5",
-      "date": "Tue, 09 Jun 2026 06:30:00 GMT"
+      "title": "秋田北―秋田中央ＩＣの上下線 事故捜査のため２８日に通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFMXA2RXU3TTlhSEJ5ZGpoUXdIYWVyazlOcTUxOHNwVzJBbkJhWTFqS1YyZ0JfWkdFeEU3YWhBaEo0UmtZMTBYbFN0UE8zbnkzc1ZnbU9IZjdvTjdCaVhjSGFn?oc=5",
+      "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
       "title": "【交通事故のない秋田県へ！】協定締結のお知らせ",
@@ -53,9 +107,14 @@
       "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "藤里町、交通死亡事故ゼロ２５００日達成 県と県警が表彰",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53TTBBVzhVWXJvczFsZ25QQ1VFcHhqTkNOWF9hclkxWERVUTBGX2lPLURpOV82dkg2TDdkc25nVHF3N05Rd0w0T20ycm45VkpybTRJMzY5dHR4UXNzMEF5SkZR?oc=5",
-      "date": "Tue, 09 Jun 2026 06:30:00 GMT"
+      "title": "秋田北—秋田中央ＩＣの上下線 事故捜査のため２８日に通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wUE5LS0JlaUdrT1RqSFVYa2FCWllUYmNvT0ZheGRqMGlIVmJEMGwteER4SzZJM1ZWR2g1c3UxN2dIUWpCTVNwcmNKTQ?oc=5",
+      "date": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋田道きみまち阪IC〜北秋田今泉ICが3月20日開通、事故多発区間にバイパス誕生｜自動車交通トピックス",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uNUpteldSc1RrQkhjU01UWTlyWU1pQmpnSUF6M0xQYmRiSERLSUpfTDl1Qi10amdRQUtOQkViaWdXV2RuSnJ4dVEwN3JLVXNVUzg1ODFKMHU1Snp4eVNfZ3JJdXhZRm43SEow?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
