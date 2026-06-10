@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T00:08:26.098300",
+  "generated_at": "2026-06-11T03:05:30.379948",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 17.1,
+    "temp_max": 26.8,
+    "temp_min": 16.2,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 7.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 24.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月8日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -16,9 +75,9 @@
       "date": "Tue, 09 Jun 2026 20:13:45 GMT"
     },
     {
-      "title": "6月6日（土）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1MHNKWVdZWVpHT3E5VWJtclY2WnBQYXlYWWRreVM5aEJSb0owODUyYUlXUm91LWx3TnlPSVh2V3dpeWR1b3l6WnZZcHotbHpIckRmVjhoNA?oc=5",
-      "date": "Fri, 05 Jun 2026 20:00:00 GMT"
+      "title": "6月8日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12MXhJQ3BzZk4ycm9wdXFwdl94cnB6cnd4ZzhWSzJPaGNxNnA3MU01bTlGMG51Y2Q0YnBxY3JKYWxCQUVjV0ZNc2dhYmUxUEVXYjlzTzlCX0xFY1RWVURpeDFmOFg?oc=5",
+      "date": "Sun, 07 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -43,11 +102,6 @@
       "date": "Mon, 08 Jun 2026 01:00:00 GMT"
     },
     {
-      "title": "交通死亡事故が多発 半数以上が高齢者 シートベルト未着用も多く 三重県（三重テレビ放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZbm9WR2RtM3dzVmRFZjBab3FUd3lTaTVaeFh4bUlWT1R1MGRqamRwazN3MU9YckRrLUNZR2lLTDUxUDhBNnlWRDI0ZmY5bkxmYVlFRi1heG9XTTFWU3RXQ3ltSThqcHNkX3phREU3am5Yd3E1alZxZ09SNGZHc0U?oc=5",
-      "date": "Wed, 10 Jun 2026 01:31:02 GMT"
-    },
-    {
       "title": "新名神高速のトンネル、多重事故で計6人死亡 3人は子どもか 三重 [三重県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kX3Vlc01DYW9vbkhKaVlNckxPdmNFVUhVT0tnWUVMUVlXd1YwZExtekxuNlBxbnpzaFM2SmI2MnFwQTRLUDVCTk8yMWtUbG0wN1BtNFBIWldtZ2gyRW9FX3Fab1ZqZzA?oc=5",
       "date": "Fri, 20 Mar 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "三重県で「交通死亡事故多発警報」発令中、近鉄四日市駅で注意呼びかけ、広報犬豆助もお手伝い",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kM0FzbG5mR2dLVndybWpqTWIxWnExLTR3bmx3cUhvYmxFczZuMHI3THdmdkZiR0JpNU5RQ0R4VUp4TktRVjBPbEhjdWZISWIyYzg5X2ZqdUlsWmc?oc=5",
       "date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故が多発 半数以上が高齢者 シートベルト未着用も多く 三重県（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZbm9WR2RtM3dzVmRFZjBab3FUd3lTaTVaeFh4bUlWT1R1MGRqamRwazN3MU9YckRrLUNZR2lLTDUxUDhBNnlWRDI0ZmY5bkxmYVlFRi1heG9XTTFWU3RXQ3ltSThqcHNkX3phREU3am5Yd3E1alZxZ09SNGZHc0U?oc=5",
+      "date": "Wed, 10 Jun 2026 01:31:02 GMT"
     }
   ],
   "official_links": [

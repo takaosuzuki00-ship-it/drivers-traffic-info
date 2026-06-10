@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T00:10:47.799237",
+  "generated_at": "2026-06-11T03:07:38.139541",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 18.2,
+    "temp_max": 26.4,
+    "temp_min": 17.4,
+    "precip_prob_max": 82,
+    "precip_sum": 0,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "18:00",
+        "temp": 24.0,
+        "weather": "快晴",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "６月９日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -26,9 +85,9 @@
       "date": "Sun, 07 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月10日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41N0J4czNKZ3JtTkF2WTRKeXZicU1nSzdKQngtVDRscFppalVYVndMVllldnpRaGR3UzhWLVZPZDJDUTROWnlLcUhMQUROaUlNT19HalNxNEc4RUpMSUlhVWJhWERlOEthQm1IaE9XZEkyd2ZTVHVhUnBLRHhGeHM?oc=5",
-      "date": "Tue, 09 Jun 2026 20:00:34 GMT"
+      "title": "6月7日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTUt4QkRZcDZ0elpEaXAyS3VfcHpMbjMxeU9jU291YmpqR3l3Yk5fRTJqYmh2WmlqV1NBS2FBTU94QUZxOGFNT3hsR0VFLWlNb1QtWDBhMTgzTlpUMl9ia1Z2VmJTUnRVZENuOVgtWjdJdEkxSS1OMk94c1hSbWs?oc=5",
+      "date": "Sat, 06 Jun 2026 20:00:34 GMT"
     }
   ],
   "accident_news": [
