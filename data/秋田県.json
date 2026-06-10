@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-06-10T21:01:38.623690",
+  "generated_at": "2026-06-11T00:03:43.800994",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 15.7,
-    "temp_max": 17.8,
-    "temp_min": 13.9,
-    "precip_prob_max": 69,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 13.5,
+    "temp_max": 20.4,
+    "temp_min": 12.4,
+    "precip_prob_max": 41,
     "precip_sum": 0,
-    "wind_speed": 3.5,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 13.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.8,
-        "weather": "曇り",
-        "precip_prob": 25
+        "temp": 12.6,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 15.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 13.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 16.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 27
+        "temp": 18.4,
+        "weather": "晴れ",
+        "precip_prob": 10
       },
       {
         "time": "12:00",
-        "temp": 16.0,
-        "weather": "曇り",
-        "precip_prob": 69
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 41
       },
       {
         "time": "15:00",
-        "temp": 17.2,
-        "weather": "晴れ",
-        "precip_prob": 35
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 16.6,
-        "weather": "晴れ",
-        "precip_prob": 16
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 15.7,
-        "weather": "晴れ",
+        "temp": 16.8,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]

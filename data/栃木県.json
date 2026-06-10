@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-10T21:01:58.557521",
+  "generated_at": "2026-06-11T00:04:57.814031",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 16.9,
-    "temp_max": 21.0,
-    "temp_min": 15.9,
-    "precip_prob_max": 98,
-    "precip_sum": 1.1,
-    "wind_speed": 1.1,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 15.8,
+    "temp_max": 23.4,
+    "temp_min": 13.3,
+    "precip_prob_max": 94,
+    "precip_sum": 3.6,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.2,
-        "weather": "曇り",
-        "precip_prob": 41
+        "temp": 14.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.3,
+        "temp": 14.3,
         "weather": "晴れ",
-        "precip_prob": 49
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 29
+        "temp": 19.4,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 20.6,
+        "temp": 23.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 24
       },
       {
         "time": "18:00",
-        "temp": 19.5,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
       },
       {
         "time": "21:00",
-        "temp": 16.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.2,
+        "weather": "強い霧雨",
+        "precip_prob": 82
       }
     ]
   },
