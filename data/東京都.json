@@ -1,69 +1,79 @@
 {
-  "generated_at": "2026-06-10T06:02:33.329974",
+  "generated_at": "2026-06-10T09:02:26.444924",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 18.1,
-    "temp_max": 21.9,
+    "temp_now": 19.7,
+    "temp_max": 22.2,
     "temp_min": 17.7,
-    "precip_prob_max": 82,
-    "precip_sum": 0.1,
-    "wind_speed": 3.6,
+    "precip_prob_max": 86,
+    "precip_sum": 0.2,
+    "wind_speed": 7.7,
     "hourly": [
       {
         "time": "00:00",
         "temp": 19.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 20
+        "precip_prob": 35
       },
       {
         "time": "03:00",
         "temp": 18.5,
         "weather": "晴れ",
-        "precip_prob": 37
+        "precip_prob": 24
       },
       {
         "time": "06:00",
-        "temp": 18.1,
+        "temp": 18.3,
         "weather": "曇り",
-        "precip_prob": 37
+        "precip_prob": 55
       },
       {
         "time": "09:00",
-        "temp": 19.9,
+        "temp": 19.7,
         "weather": "弱い霧雨",
-        "precip_prob": 82
+        "precip_prob": 86
       },
       {
         "time": "12:00",
-        "temp": 21.3,
+        "temp": 21.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 39
+        "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 21.7,
+        "temp": 22.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "precip_prob": 16
       },
       {
         "time": "18:00",
-        "temp": 20.7,
+        "temp": 20.9,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.6,
-        "weather": "晴れ時々曇",
+        "temp": 18.7,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月10日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2REZGV3N6elFHYjRmX1lLbFpjVTVkanp0WjdNcGFoOW5paWhienBlZkNac0p3TWpmVEhfeTNaZWVaTWRMdjd1S2QxLU80OHg1Vy1abHlkaw?oc=5",
+      "date": "Tue, 09 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月10日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhaDJSanBjaHdGbEY1VkMwRWQwbjZZeTVZN3ZETS1PUGR1aTlYaElPZW1TWmdXS3h2cEx5VXo1OTZ4RWxoTUNiR0F3RlpjZjVydDV5ZkphOA?oc=5",
+      "date": "Tue, 09 Jun 2026 20:02:00 GMT"
+    },
     {
       "title": "6月9日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMWEVLWUlQenJoQmVFY2FpeWlzZkhhb2VJb1lIUDBoMV9hU09nRWpVZjF3Y2lBQldBZFptTHR3YW9FUExKOUlhVnFRX2dqSWd2Y21hVDVrdzUzZw?oc=5",
@@ -78,23 +88,13 @@
       "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTzNDbnhsT1FWTjNVdklnMC1Dd3R4dmhKQXlGRE9tU2gyR21LWFdCSWxTN3ZGeFVrY2c5SnJpcHRwUkxEV195YkdJRVNzaGExY3pheVRRZDJBUQ?oc=5",
       "date": "Sat, 06 Jun 2026 20:02:00 GMT"
-    },
-    {
-      "title": "6月8日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BNGRJbWhfV1BxTGllTFZmaWYweWJNRHNRMnZMQVRtN05KTjcxMlU0NXBDYUV0UHY0TFNoZjNwYTZhblpnVkRpVk80OVU2eGVtNnRyNUo0bw?oc=5",
-      "date": "Sun, 07 Jun 2026 20:02:00 GMT"
-    },
-    {
-      "title": "６月７日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZMzhrWFJacW5UeThfMXdaRGJNTnJ2VENXMnlvcjJ2VENZa2FJam9VMDhWdTFELXZCLTNzOFFZUTYyS3FlOTZzWkFSUXRsTGl6OFpEbWN3QQ?oc=5",
-      "date": "Sat, 06 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "東京・文京区で3台が絡む事故 中央分離帯を乗り越えて衝突 小学生の女児ら3人搬送",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KcjhveTg4dGNiUnlpZHhQNVhVeXlaQzFJTDRhS1RlbEJUWjE4RGFwUG01eXRwRDJGbWhfcDhQLTlvUU01RmdJVnMtbUpMUnRPVFRINGEwY3RCN09tMTJaUzhjclpjVGhnRGh2dkVLbk1mUQ?oc=5",
-      "date": "Tue, 09 Jun 2026 13:04:10 GMT"
+      "title": "東京・文京区で3台が絡む事故 中央分離帯を乗り越えて衝突 小学生の女児ら3人搬送（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xaC1OM2VISkk5UlJTRWk0Nzh6ODN2THhvRUk3YUFMdXRpWkJVcHNJVzMwTkNzVkRXUjVCRjdLN0Z2c1ZHR3pFdUpVUDZpMXBDTko0VmFQU0JGMm9tai1wd25qcFpscFVIanloSUd6VUdPMUwwY2dpWU0tSzUyTTg?oc=5",
+      "date": "Tue, 09 Jun 2026 15:29:57 GMT"
     },
     {
       "title": "「二輪車安全運転東京大会」交通事故の抑止が狙い",
@@ -112,9 +112,9 @@
       "date": "Wed, 27 May 2026 14:11:10 GMT"
     },
     {
-      "title": "横田基地関係者による飲酒を伴う交通事故について（要請）|1月",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVDU5QnlnSUV6VXNVbEgyakNvbmhZYjZkUHhSUjZNZ3hwQUZhdVlYTmxhQlZGTGpNX1I0OWhQQnZPeTBmN2wydUZPMllQdVhINFVPZm5rNmhZVXVvcjk3OEllanJXcW54ZTV1NHh6LTJHNTB4ejhHRV9ReFhuUQ?oc=5",
-      "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+      "title": "東京女子医大病院の2歳児死亡事故、一審有罪判決の元准教授が控訴",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWQ0RlWGxIQjNGblU1X3p3NVVaRVJQN21lTnpsQnZfeWIydGpvSGVoSUpWajFhT2F3S3FCdWRDRS0xRW1EaGhTa1JEbmxicmRIWVlUWExFU3oyTzlhWC1ZWng4TGl2OW1uN1ZkOA?oc=5",
+      "date": "Tue, 09 Jun 2026 11:00:53 GMT"
     }
   ],
   "official_links": [
