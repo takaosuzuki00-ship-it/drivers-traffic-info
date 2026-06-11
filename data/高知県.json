@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T18:06:01.117939",
+  "generated_at": "2026-06-11T21:03:58.158818",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 21.6,
+    "temp_max": 27.3,
+    "temp_min": 17.5,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 23.8,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "快晴",
+        "precip_prob": 18
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月11日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
@@ -11,9 +70,9 @@
       "date": "Wed, 10 Jun 2026 20:00:34 GMT"
     },
     {
-      "title": "６月８日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ed0k3QXF2QmpNM3lzUGQtZEZ0MmtmVXo0S3I4TGFyVXowSjNoUllZcDA3N3ZLRnZVUlA5OTV3R0ZqYmJSb21yajhodUxHU0tlelZIUlZ1VFZOY2VpR0hZbXY0ZTJHZzQz?oc=5",
-      "date": "Sun, 07 Jun 2026 20:00:00 GMT"
+      "title": "６月１１日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N2N1VV9JdnpBRGE4cjEtOWI3N0R1eFktYzRXa2MtZHNDb0dpZi0xejE1Q3MwLU9qU3dzS2V4emF5Vm9YOHQ0b2R6ZTM4UUZndUVEQ183LWE4T1k?oc=5",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "６月１１日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -21,14 +80,14 @@
       "date": "Wed, 10 Jun 2026 20:00:00 GMT"
     },
     {
+      "title": "６月８日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ed0k3QXF2QmpNM3lzUGQtZEZ0MmtmVXo0S3I4TGFyVXowSjNoUllZcDA3N3ZLRnZVUlA5OTV3R0ZqYmJSb21yajhodUxHU0tlelZIUlZ1VFZOY2VpR0hZbXY0ZTJHZzQz?oc=5",
+      "date": "Sun, 07 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "6月11日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXluckRSMmx5SEJkSUtoS0R4NnAwQmtHdThGN29YSFBUMHhZOFVRUVNfSDhCcmZNT3JIaV8xcThHMmlzMDM4S0tLYThrcHRVcXFEQWlIckhvZnVEeGJ1eWpzenNwbFduZldmbHpXMXdicUh4YVdrbWY1cnBGdXF6ekhHY3lRSTliOVgtenB3?oc=5",
       "date": "Wed, 10 Jun 2026 20:11:49 GMT"
-    },
-    {
-      "title": "６月９日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cmlaUFVaYURXTERvT1VMLU5oTnlUT1hvLWhfUFR2Sm1LWmxQamlQZ25ycmtKUTEteWg2LWlIZi1vZUtuVHJNMV9WZ1hVelVFaWJmRkhqTkUwM1FOTEVtcXZjazBBTmtR?oc=5",
-      "date": "Mon, 08 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Wed, 10 Jun 2026 08:29:00 GMT"
     },
     {
-      "title": "国道195号線で死亡事故 19歳が運転する車と軽トラックが正面衝突、77歳男性が死亡【高知】（高知さんさんテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RGx5RWl1bE5TcllIZWxjTzE4S1RsQnJBb09uUTJ6M0dGTkZrLWwyY0FWSWtQSnlTRlhPZFlXckNrMFc0d0xhYmhhRTE3V182TnExdmdjWEVIckNtS05lM3d1R25xWUVBYWFqVFhtbl8tbnBpS01YTWw0SGpfeDQ?oc=5",
-      "date": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "ダンプカーと乗用車が正面衝突、女性(21)が死亡 ダンプカーは事故の衝撃で大破し道路外へ、運転手は足を挟まれ出られず⋯【高知・黒潮町 国道56号】",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMR1pnQXNUdjZZcTdBQVNEaDF4MGdaeVhCX0dlakZpa2QzODR5ZTNHNVEyUU9LMEZkUkx6ZmlaSHl2dGtwemNUTWhSOGZicUg4UmJYekdERQ?oc=5",
       "date": "Thu, 05 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "80代運転の車に横断歩道ではねられ⋯死亡事故の現場で“診断” 「歩行者信号を数秒早く青に」など再発防止策を検討【高知・南国】 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5acjl5UGZrX0NHN21uTDUwZFctQVlLTmdHbkJSRHdrVzg5TUk5MUFPdEw0MEFzLXpOaEZEVXI4NC02RWVmRmZyakZRWG5HUmhubnl0a0NHUnJXdWd0bl9mMm9nTzRRVlha?oc=5",
+      "date": "Wed, 10 Jun 2026 08:29:00 GMT"
     }
   ],
   "official_links": [

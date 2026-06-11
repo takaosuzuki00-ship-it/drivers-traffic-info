@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T18:06:18.777546",
+  "generated_at": "2026-06-11T21:04:20.390551",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 21.7,
+    "temp_max": 26.5,
+    "temp_min": 18.1,
+    "precip_prob_max": 73,
+    "precip_sum": 0,
+    "wind_speed": 5.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "21:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月11日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -11,9 +70,9 @@
       "date": "Wed, 10 Jun 2026 20:04:17 GMT"
     },
     {
-      "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Y0xoRUZ1ZG9jMnVDMURnZ0hIQU0wTG15MkRvcUtfdmpWamxFYmZ0V2NZWHhUT3BPUllPamwwVGh5bUNIRlB2LVFrOHpGY1gxbldmeDh5SQ?oc=5",
-      "date": "Sat, 06 Jun 2026 20:02:00 GMT"
+      "title": "6月10日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZalIyZXhJc3pJVUpZUFJiclgtODc0Q3hxQi1iclJ5c0ptQ0JCQmFnaV9RS1NGclZtX3VMaVVGWVpZNjZJUmlLdDBsM0lLODE5OExrd1ZuYVJrMUlIMmdOTHZ4ZFo?oc=5",
+      "date": "Tue, 09 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -21,14 +80,14 @@
       "date": "Wed, 10 Jun 2026 20:02:00 GMT"
     },
     {
+      "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Y0xoRUZ1ZG9jMnVDMURnZ0hIQU0wTG15MkRvcUtfdmpWamxFYmZ0V2NZWHhUT3BPUllPamwwVGh5bUNIRlB2LVFrOHpGY1gxbldmeDh5SQ?oc=5",
+      "date": "Sat, 06 Jun 2026 20:02:00 GMT"
+    },
+    {
       "title": "【交通取締情報】福井県警 ４月４日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92SnJMcGJqcFlId2ktMXFJTmZ2VW11TzhhU01DZjlBNnNWQ1BKQ0FaTmE2Wko4REZQOWRUNElGd29qdW5GcjBxWnY3aw?oc=5",
       "date": "Fri, 03 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "イスラエルがガザ検問所を封鎖 - oita",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vb3A0NTM4V3JzT29yZEZiOHNJVFZ5S0xyWkJqMGUya1B3SmJKa2RDT01mRWJNMEVRMkVubFMwbHVhVzhXemRzMVBvdXZQVTRaSXJCLXNRdnZqUUp4MC12R3RUN3o3M2RBakZVVEM1T3hWZTBMbkR4T9IBhAFBVV95cUxPR3RKcHF5TkQ1d2IwRjZPS3VsSVFaOHV6bUI0Z2x5ZENZMm53SzJqY0QxcnFsOTg2dU9tUzhmeHVXNWJhNnkwekVoNzBRZmpXOE90Q2pfRTNnTjZiU0w0UTQ0dWF6MjJlbnJKZG81ZGRVTjhJVmNPVC1qVXcwaDhIMzRad20?oc=5",
-      "date": "Sun, 07 Jun 2026 22:21:00 GMT"
     }
   ],
   "accident_news": [

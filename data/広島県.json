@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T18:05:33.916839",
+  "generated_at": "2026-06-11T21:03:33.600746",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.6,
+    "temp_max": 28.1,
+    "temp_min": 17.0,
+    "precip_prob_max": 35,
+    "precip_sum": 0,
+    "wind_speed": 2.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 35
+      },
+      {
+        "time": "18:00",
+        "temp": 26.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "令和８年６月中の速度違反取締計画について - 府中警察署",
@@ -21,14 +80,14 @@
       "date": "Sun, 07 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "６月１１日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUjFXN2JHSHVjV0xFM2pUQl9FQjhkUEVmeVBjMUVJWkFBYnFJbmoydXMtaUpOWnJkTC1rcG9KeHE2REtRdjZJUGlRbXk5SDMwX3BiSnZ4MzA3M05Hdk05bVF6XzZJWC1YSDFNczlITQ?oc=5",
-      "date": "Wed, 10 Jun 2026 20:12:00 GMT"
-    },
-    {
       "title": "6月10日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybVB1UWIyaWg4NUktY0FqSXB6dDFYVUhvYmdlbC1xVU91cGNKa2g0OUtfYWNzVG5pTnY2X3dpLWM3bVUydi1QbURCaFlKaGQ3bUtQT0FvMFM4dw?oc=5",
       "date": "Tue, 09 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "６月１１日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUjFXN2JHSHVjV0xFM2pUQl9FQjhkUEVmeVBjMUVJWkFBYnFJbmoydXMtaUpOWnJkTC1rcG9KeHE2REtRdjZJUGlRbXk5SDMwX3BiSnZ4MzA3M05Hdk05bVF6XzZJWC1YSDFNczlITQ?oc=5",
+      "date": "Wed, 10 Jun 2026 20:12:00 GMT"
     }
   ],
   "accident_news": [

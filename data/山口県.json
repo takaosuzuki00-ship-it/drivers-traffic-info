@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T18:05:43.985168",
+  "generated_at": "2026-06-11T21:03:37.444934",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 19.8,
+    "temp_max": 28.2,
+    "temp_min": 16.8,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月6日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -16,6 +75,11 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
+      "title": "山口：飲酒運転６５５件大幅増 自転車４割、摘発相次ぐ １１月末時点 年末年始注意呼びかけ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXhHU09KSVBzNmNlbGxzZWtkVDZ0TGxnMnhYWnk0RTlBZjgtX0laUFBPc3Y2NUl5d0JDSlg4UUdyQVhKWm5VQnNaejg1eFZFQWd0SGlGdXRFQXJGTlFjSDVtMWhCWTBoQmVjNHA0alRGNUJiamc?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "道路法第47条第2項違反者（重量超過車両）の告発について - c",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
       "date": "Mon, 17 Nov 2025 08:00:00 GMT"
@@ -24,11 +88,6 @@
       "title": "自転車の交通違反に「青切符」導入 警察が街頭で指導 山口",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BX29qdWt3aUpoalRWYV96bU9FS1A3LTlxWXJBOERTcVJQbF9rTjFkVWlkYnpnRXJvc1BNeldMVFNPcWFiOFpOWE5GQjQzYW4zcTVxTlgxTQ?oc=5",
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
