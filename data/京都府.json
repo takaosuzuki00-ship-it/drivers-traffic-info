@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-11T09:03:31.449021",
+  "generated_at": "2026-06-11T12:04:39.792972",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 21.8,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.0,
     "temp_max": 28.6,
     "temp_min": 16.0,
-    "precip_prob_max": 14,
+    "precip_prob_max": 24,
     "precip_sum": 0,
-    "wind_speed": 2.2,
+    "wind_speed": 4.2,
     "hourly": [
       {
         "time": "00:00",
@@ -39,27 +39,27 @@
       },
       {
         "time": "12:00",
-        "temp": 26.8,
+        "temp": 27.0,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "15:00",
         "temp": 28.6,
-        "weather": "快晴",
-        "precip_prob": 4
+        "weather": "晴れ",
+        "precip_prob": 10
       },
       {
         "time": "18:00",
-        "temp": 26.7,
+        "temp": 26.8,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 24
       },
       {
         "time": "21:00",
-        "temp": 22.2,
+        "temp": 22.4,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 10
       }
     ]
   },
