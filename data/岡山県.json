@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-06-11T06:05:23.910152",
+  "generated_at": "2026-06-11T09:04:02.957358",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 22.0,
+    "temp_max": 27.8,
+    "temp_min": 16.2,
+    "precip_prob_max": 35,
+    "precip_sum": 0,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 35
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "6月11日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PTzBJVklJdUJ0RWJrU0FHVWVzeTZNZUI2QmtIdFRxclJSNGd1V2xhSmtlLVZzb2IyVkU3OWtQVWYwSWY4MXdtY3E1am8tMmRmZGJ5NmNfSQ?oc=5",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14MTZremdsWXRXSGpYczNVb01OSGNSelpsUlE1TEZLRjdsZHdKWHNPcmFjSWR4WnV0TlNnUVNtc1dhYTRETEpfdU1mdlFHTHhYUmZnay14bVJmSS0tQVppbU81ai0?oc=5",
@@ -14,11 +78,6 @@
       "title": "6月10日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbmpZQVZpVG9sNVZRcWI0Ml9FazNyb0w4ODBLb0tGODZQcXotZ3FGSXlaaWctY2toaDZNT0NKYnI4UU1ieUFDYXF1a0lKMHRwVjlTa3JvdlpaYVJ4S21TSGZTVkREb21Vdl96a2J6MNIBdEFVX3lxTE9mN09oSWdEOERQQzFnRUFYOVQwdjJoNHBUT2dLUG42cEY2NmRjUTFSdVMzOFBWOHVmQkNBTHdOMnc3ajFVWV9YVDh5Ujh6cTVGZ1I5WFpZbENtb2dWVWh1WHVXaGJ6SDdQOFBNalVoMkdCTTda?oc=5",
       "date": "Tue, 09 Jun 2026 20:13:45 GMT"
-    },
-    {
-      "title": "6月10日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybVB1UWIyaWg4NUktY0FqSXB6dDFYVUhvYmdlbC1xVU91cGNKa2g0OUtfYWNzVG5pTnY2X3dpLWM3bVUydi1QbURCaFlKaGQ3bUtQT0FvMFM4dw?oc=5",
-      "date": "Tue, 09 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "３台絡む事故 男性１人死亡 岡山 国道２号",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jcTgzY0JTSkNRTXNVVUx2VGxQaEwyVVNyTmlQbi1LelpSUi10Y0l4Z3VlYTZvaHB4bmVfQ00yRTdfdGdOSTJORkJrVE1UZUZDMEE?oc=5",
-      "date": "Tue, 02 Jun 2026 03:02:00 GMT"
-    },
-    {
       "title": "【続報】大型トラックに挟まれた軽自動車の男性(63)が死亡 岡山市の国道2号で車4台が絡む事故",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MaTJraDFheXdaX2NEczNEOFpxWlZLcjNQVktCWkVsOEhreFBReDdud0xINWZ6OFZ1TkFjbl9JSmJ5Z1oxc1FmTTdQN3RPN3RJ?oc=5",
       "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "３台絡む事故 男性１人死亡 岡山 国道２号",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jcTgzY0JTSkNRTXNVVUx2VGxQaEwyVVNyTmlQbi1LelpSUi10Y0l4Z3VlYTZvaHB4bmVfQ00yRTdfdGdOSTJORkJrVE1UZUZDMEE?oc=5",
+      "date": "Tue, 02 Jun 2026 03:02:00 GMT"
     },
     {
       "title": "無免許酒気帯び運転で追突事故を起こした疑い 配管工の男(50)を逮捕 岡山・南区（KSB瀬戸内海放送）",

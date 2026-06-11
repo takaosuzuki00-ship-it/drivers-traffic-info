@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-11T06:03:43.827296",
+  "generated_at": "2026-06-11T09:02:50.525937",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 15.0,
-    "temp_max": 27.9,
-    "temp_min": 14.0,
-    "precip_prob_max": 30,
-    "precip_sum": 1.9,
-    "wind_speed": 3.1,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.1,
+    "temp_max": 27.3,
+    "temp_min": 14.5,
+    "precip_prob_max": 12,
+    "precip_sum": 0.4,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
@@ -21,20 +21,20 @@
       },
       {
         "time": "03:00",
-        "temp": 14.5,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
         "temp": 15.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "09:00",
-        "temp": 21.9,
+        "time": "06:00",
+        "temp": 15.3,
         "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
@@ -45,21 +45,21 @@
       },
       {
         "time": "15:00",
-        "temp": 27.9,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 26.0,
+        "temp": 25.6,
         "weather": "晴れ",
-        "precip_prob": 10
+        "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 21.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 20
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 6
       }
     ]
   },
@@ -80,14 +80,14 @@
       "date": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月９日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnamY3cnZ0dDE0MHdFUmRiUjE2YWFmMTBLVmVxWUwzUFR1UkdQdWtOZC1oNHR3QnB5aFJicExHOGlEbHFFVEN1ME9GTm51S0NwdExBRFlNYkZzX294bnc?oc=5",
-      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "【交通取締情報】福井県警 ４月１６日",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxRGJlT2pfZGFBc0xlMVVLYmpsV1hJRnFKa2wtbUUzRjJfYXU5RDhsb0tzLWMwOFliemRKNjNPV2E3RVNxRFRqUFZ6VHFacDFOM3JRWUMwZ0RaalZwU3c?oc=5",
       "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnamY3cnZ0dDE0MHdFUmRiUjE2YWFmMTBLVmVxWUwzUFR1UkdQdWtOZC1oNHR3QnB5aFJicExHOGlEbHFFVEN1ME9GTm51S0NwdExBRFlNYkZzX294bnc?oc=5",
+      "date": "Wed, 08 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
