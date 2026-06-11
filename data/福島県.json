@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:02:19.855353",
+  "generated_at": "2026-06-12T00:01:59.565915",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.7,
+    "temp_max": 24.4,
+    "temp_min": 15.2,
+    "precip_prob_max": 100,
+    "precip_sum": 1.0,
+    "wind_speed": 1.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 19.2,
+        "weather": "晴れ",
+        "precip_prob": 24
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "６月１１日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -43,14 +102,14 @@
       "date": "Mon, 08 Jun 2026 04:09:24 GMT"
     },
     {
-      "title": "事故起こし発覚…酒気帯び運転疑い、福島の53歳逮捕:福島ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbTdmV3ZhdWE2VFAyNmZiSDBYMG1RcGFGWU45WlJxNU1PTEl1Y2YyU2Y2T0ZZRmlSVG5zM1RTMnpVaVRIVXpUeXBuN3A4VUcwaVJLdGdYekN5Y0VSVzNqRmFsMVlLTFFn?oc=5",
-      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "軽自動車とトラックが出会い頭に衝突 男性1人死亡、男性1人意識不明 福島・白河市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ncU5YR1RGS1hVck8xX3VhZnJITU94OThMS2pRMDVCOWNYUnY4NGgzOWJiTXVXb0pldkFqdVNTSWJERTlFdGgwa29ILVRJOE1ZUWVuZzJENE5TRWo4R2pESkxPeUtEekk?oc=5",
       "date": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "事故起こし発覚…酒気帯び運転疑い、福島の53歳逮捕:福島ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TbTdmV3ZhdWE2VFAyNmZiSDBYMG1RcGFGWU45WlJxNU1PTEl1Y2YyU2Y2T0ZZRmlSVG5zM1RTMnpVaVRIVXpUeXBuN3A4VUcwaVJLdGdYekN5Y0VSVzNqRmFsMVlLTFFn?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "【交通事故】田村市",

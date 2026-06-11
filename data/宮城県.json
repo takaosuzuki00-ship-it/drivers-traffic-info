@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-06-11T21:02:12.151859",
+  "generated_at": "2026-06-12T00:01:43.040393",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 15.0,
+    "temp_max": 21.4,
+    "temp_min": 14.3,
+    "precip_prob_max": 100,
+    "precip_sum": 1.8,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.4,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "15:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 10
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "６月１０日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1bWhFdHdVMmxIQ2pXOVUyZVFacUNVTzRval9Wb0NXaHdnT1FxQzVvQ3EwZzhjWWVmUUtiMDVDM19fLXVKYml6YnFsVHZNUWdJb1ZoT1Z5cw?oc=5",
+      "date": "Tue, 09 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
       "date": "Mon, 13 Apr 2026 02:50:58 GMT"
-    },
-    {
-      "title": "６月４日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HOXZqMm50WFBxOC02WnE0TldWbk9HU3FxR3A2WkdSS1l6MW5XUkF3R3o2eS1HVVpqSDdBYTRtQjY4UWxMVTFBRVZvUWRnVGF0ZGJLZHBjTQ?oc=5",
-      "date": "Wed, 03 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -21,13 +80,13 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
-      "date": "Fri, 22 May 2026 07:00:00 GMT"
+      "title": "【デマや誹謗中傷の取締強化】宮城県警が衆議院選挙違反取締本部を設置（2026年1月24日掲載）｜ミヤテレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDkwZ1JjZzFCaHo4TDZzc1lrZko1VFNFQk8tbjRKbmlIamVVU2lHRlN4dWVJUlFEWngta1VtTlRkWk1KaGhVMV9pU2I5VjFmMDZXT2R2OGVhSlUteEhjazlnUkFtbExJTjhjeTlERlROZ3oxZUN3WlhmLVZEenR0NnNjeXRfNmM?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "高校生３人の命を奪った多賀城市の飲酒運転事故から２１年 現場付近で検問実施〈宮城〉",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aWFRyeGR1Qk9XMEhTYnp1WXF2ZGpJQUNMeFN1d25CeFJfVTdjbFFHNDJVZDdXb0RZWTF2UlM0N0JqWlNRemxZVVlMU2ZRZw?oc=5",
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
       "date": "Fri, 22 May 2026 07:00:00 GMT"
     }
   ],

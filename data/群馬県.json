@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:02:29.869383",
+  "generated_at": "2026-06-12T00:02:23.618468",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 18.4,
+    "temp_max": 26.6,
+    "temp_min": 16.8,
+    "precip_prob_max": 100,
+    "precip_sum": 37.0,
+    "wind_speed": 2.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.4,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.7,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 22.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 18.4,
+        "weather": "雨",
+        "precip_prob": 75
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察官引きずり“殺人未遂”で男送検 出頭の際「交通違反をしたので来た」 群馬・渋川市",
@@ -54,7 +113,7 @@
     },
     {
       "title": "大型トレーラー運転の群馬県の会社員の男を逮捕 容疑を否認 岡谷市死亡ひき逃げ事件 山梨県で身柄を確保【長野】",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZThhbnk1eUJXemhDYlNOc29EOXhrdTNTdU5LRkFRN3ptMmJiU1FCMWJUa3puZGpsczBjVHY5RnpKODVWVkN2eUg4S0gxb2ExMnpjcG9vRHNId1hDNFE1MU5GV2hZZmtWRklkUElSTTdSSnNfWEE4MkM4aHZBWk9sbllJdDd6cWM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weEw2cTJvSlJIeFphamdlWDN0cldKLUlHaVpFNEJCVTMxWHZUUWkyODZydDcxS3k5NmZja3paQ1BlN0ZwSWNVNVZQRTdHSkhOLVNFaEdRMkpSZU9Jd1ZIVGRpWkl4cDFFODlIM2NfeUxNcUdGOWdNSWVXR25ReWs?oc=5",
       "date": "Tue, 09 Jun 2026 04:02:00 GMT"
     }
   ],

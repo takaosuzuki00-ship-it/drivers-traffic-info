@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-06-11T21:02:49.280499",
+  "generated_at": "2026-06-12T00:03:00.240086",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 19.1,
+    "temp_max": 23.2,
+    "temp_min": 17.6,
+    "precip_prob_max": 83,
+    "precip_sum": 0.7,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.1,
+        "weather": "霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "06:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 75
+      },
+      {
+        "time": "09:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 43
+      },
+      {
+        "time": "12:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 21.3,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 19.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "6月7日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kd19VcjBneEFIak9XUW9YVUVCdDJnXzd5RzRuTF94am1lRjZINzFfd0xqN2EtYWEtN1VHclhTc294WHJnSVpvc01OaUtkOGtPTHVGVE9UMER3Q2Z2ZXEtbnFpV0ViZW8?oc=5",
-      "date": "Sat, 06 Jun 2026 20:00:00 GMT"
+      "title": "６月８日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hVmNYX2FheTVtelpCNHpSS09vNmpJak9nV3FGMDBkbUhtOG5KSDVLWHVhclhVWnQ2dklBNWFidlVFNVVZTFByeXFzdk5RNkNYX0JEeHZMVQ?oc=5",
+      "date": "Sun, 07 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１日",
@@ -21,9 +80,9 @@
       "date": "Tue, 02 Jun 2026 20:00:33 GMT"
     },
     {
-      "title": "6月5日（金）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZEN4ZFJUS3lVdlBoZjhmeEVMUzh6Y0hjMUZtTzJoaS1fZHdRVkl4NW0yRzJrZkxCMWxaSlhXbGRYOGNXMHVGZkpTUlJVbkpPWmdsRTF5VlpWSk1YZVd6ZUFvM1g1b28?oc=5",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
+      "title": "6月7日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kd19VcjBneEFIak9XUW9YVUVCdDJnXzd5RzRuTF94am1lRjZINzFfd0xqN2EtYWEtN1VHclhTc294WHJnSVpvc01OaUtkOGtPTHVGVE9UMER3Q2Z2ZXEtbnFpV0ViZW8?oc=5",
+      "date": "Sat, 06 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",

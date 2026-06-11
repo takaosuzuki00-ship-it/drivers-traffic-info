@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-06-11T21:03:12.318018",
+  "generated_at": "2026-06-12T00:03:45.978146",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.5,
+    "temp_max": 26.4,
+    "temp_min": 18.7,
+    "precip_prob_max": 43,
+    "precip_sum": 0,
+    "wind_speed": 2.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 22
+      },
+      {
+        "time": "18:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "21:00",
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncDNGQ05IMk5rczBYSTVOeThSX1BVbEhnM3d1Zkw1MFdEeXZHSzJZQ1ozdS0wZFRzTU51bkF3dDVOaG9PZEtwa2JibjNGNnRTZmpqR2JPaXZOZw?oc=5",
-      "date": "Wed, 10 Jun 2026 20:02:00 GMT"
+      "title": "6月11日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UUpBYUJVcmloRER3TWVrQmk4R3NFanV1cjF4S1htdmRmWjNGN0YzSzFJUjFXQ1BGQ2FkYnNJandKRkI1cTR1RHNnemE3dy1PVDV5eWZwOGVpbnlSNDVKUkg1X21WQ0k?oc=5",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "府警フォトニュース（速度違反特別取締隊出発式）",
@@ -26,9 +85,9 @@
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "6月5日（金）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZEN4ZFJUS3lVdlBoZjhmeEVMUzh6Y0hjMUZtTzJoaS1fZHdRVkl4NW0yRzJrZkxCMWxaSlhXbGRYOGNXMHVGZkpTUlJVbkpPWmdsRTF5VlpWSk1YZVd6ZUFvM1g1b28?oc=5",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
+      "title": "大阪府警察本部 竹内広行交通部長 危険運転への交通指導取締を強化 二輪車の交通事故防止に重点",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cTEwTXBWdmdSX29WWTZFRjQtUmlvb183TC16akdNRk5zYi1KRk5iQTlTcEowWEprdWZ2TUdmOGJUdTVEUWJXOWJoUG1PeDlvRkE?oc=5",
+      "date": "Fri, 14 Nov 2025 04:25:40 GMT"
     }
   ],
   "accident_news": [

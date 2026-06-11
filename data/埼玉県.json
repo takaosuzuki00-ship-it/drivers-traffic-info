@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:02:33.660780",
+  "generated_at": "2026-06-12T00:02:30.141972",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 19.8,
+    "temp_max": 26.4,
+    "temp_min": 18.3,
+    "precip_prob_max": 100,
+    "precip_sum": 23.9,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.8,
+        "weather": "霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "03:00",
+        "temp": 18.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "06:00",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "15:00",
+        "temp": 26.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 21.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 19.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -43,9 +102,9 @@
       "date": "Sun, 24 May 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車の女性死亡…車にはねられる 正午の直線道路で 19歳の専門学校生を逮捕、違反の疑い「前をよく見ていなくて」 女性の身元判明（埼玉新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95dGdwSmh4clA5b2M4bFFldWxEUmU5VVItWnFCczhERXF6V0p4MUlmRDBMampKQ0RvUm5VdHJuTGtvWU80LUNKTll2OWZlVW5CQnE4MEVqZFlSQ1lra0Nyb0JiX1VtSWNmZmhnSGoyZjE2V0ZOMC11LUhCVm5TNTQ?oc=5",
-      "date": "Wed, 20 May 2026 07:00:00 GMT"
+      "title": "男性死亡…大型トレーラーと軽が交差点で衝突 午後6時前の国道122号、右折車と直進車がぶつかる 搬送先で死亡確認 双方青信号の可能性 警察が事故原因を捜査（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLVNwckYtR1FLRWN5NmNfM2Z2RVdNYzRFN2JkYTdoeFRic0FzMmN4R1hPWFZIUGpOX1FyOVFFX25rQWl2enp2cUVaLUdEV1kzdU81TjZzVm5wMEUzWGlCaHpvLWQzUTRUOEt6V242dHZuMWRLM2xZRnJmS0NZQzA?oc=5",
+      "date": "Sun, 24 May 2026 07:00:00 GMT"
     },
     {
       "title": "国道17号で歩行者死亡…大型トラックにはねられ、男性は頭部強打 午前4時すぎ、片側2車線の直線道路で発生 搬送先で死亡確認 警察が身元確認を進める",

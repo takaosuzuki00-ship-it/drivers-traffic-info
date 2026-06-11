@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:02:43.718586",
+  "generated_at": "2026-06-12T00:02:51.374997",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 18.2,
+    "temp_max": 22.7,
+    "temp_min": 16.9,
+    "precip_prob_max": 88,
+    "precip_sum": 7.2,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "06:00",
+        "temp": 17.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "09:00",
+        "temp": 17.3,
+        "weather": "弱い雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "12:00",
+        "temp": 21.0,
+        "weather": "快晴",
+        "precip_prob": 51
+      },
+      {
+        "time": "15:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 29
+      },
+      {
+        "time": "18:00",
+        "temp": 20.3,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "21:00",
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
@@ -43,14 +102,14 @@
       "date": "Wed, 10 Jun 2026 23:50:00 GMT"
     },
     {
+      "title": "これまで1度も免許取得せず…男女2人を乗せ無免許の状態で車を運転して追突事故 自称・メンズエステ店経営の男(20)を現行犯逮捕 新潟市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5aDE5MTNKN0dXV0dENmJPd252TjZ4OTR4Vmk3blZTWUpBdXBrMTFFQTRSVVJtR0ZFSjRUbDBsdmRvdk1hLUdBU3J5a1BMUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 13:00:00 GMT"
+    },
+    {
       "title": "信号のある交差点で出合い頭の衝突事故、25歳男性が死亡・新潟市北区",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GQWc2dXF5amoyaGZIUU5uVnYtUzhFbnI4d1IyU29zVWU2UUMwSlB0NWNuNlQyQnFiX1ZpMUNyNmJmVzFqUmpIX3p3NA?oc=5",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT"
-    },
-    {
-      "title": "［道路情報］新潟市の亀田バイパスが事故で一時通行規制（6月10日）",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9taHBRUk1MVVZjaDVHbm44VFJWY2pJeThaYktvUGtuQ01haXcxLTk3TVpjcXdQQmE3SE9iNkk5YUlmbHp2NXZtRExnbTBBSjVoc3kwMmMzODJ4NUF4ZUE?oc=5",
-      "date": "Wed, 10 Jun 2026 09:55:00 GMT"
     },
     {
       "title": "男性1人死亡 車2台が出会い頭に衝突 どちらかが信号無視か？事故現場から15m先の畑には車のランプ片 新潟市北区の県道交差点",

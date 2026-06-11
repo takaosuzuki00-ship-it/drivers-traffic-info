@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:02:18.015539",
+  "generated_at": "2026-06-12T00:01:54.652388",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.4,
+    "temp_max": 22.3,
+    "temp_min": 15.5,
+    "precip_prob_max": 91,
+    "precip_sum": 0.7,
+    "wind_speed": 4.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
+        "weather": "晴れ",
+        "precip_prob": 35
+      },
+      {
+        "time": "12:00",
+        "temp": 18.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -21,14 +80,14 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "６月１１日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QOWxKd0txbEowYy1fbTFqNlI1dkk2UUdzVFRlVnBBYXVMNEJIaExBNmVmR2Q3anllT1ZBWUdOelVsaFFKd2hwSDVXY1pIWThHNHZOeFpjZC01SC1SZEVGeWp0WlEzTnNacWFrQVlmb0lEd9IBd0FVX3lxTFBJRFZPa244SEYzUmFCRjR6cFpfU25tT3Nyck5yYUhWdUxiWnM0NXNVRXhSMzNxc1dobUlhTV9sbXdLX3c3cDRlZ3NoZFJWSEk2RmhQR0JESXktTkVnM3JtX1RVVDFXMlZ3OExuSGdBbURmRW9NYWtv?oc=5",
-      "date": "Wed, 10 Jun 2026 20:16:20 GMT"
+      "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53R2dfZEVaYno3NE8xWjRycUdzOHZqam5HTFN2Wk92SzU3U01DbHduZmlNSV9jVnE1dk9IYV9GeVlJMXhIWEZJYlRuQmplUldHemF6MU9EVk11UQ?oc=5",
+      "date": "Thu, 04 Sep 2025 07:00:00 GMT"
     },
     {
-      "title": "【続報】上山市住宅強盗事件 男が逃走中…男は女性に暴行し財布を盗んでいたことが判明 警察は検問を行うなど行方を追う（山形） | 山形のニュース│TUYテレビユー山形 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96VHBMSVRfWVNtSTI5NVNoZWFYS2ppcEJuR1pzUE5QYkRDdU5lN21xMkZqZFNTTjRVT1Z4WDQzM1gtOFF0VEpBb1NsTHVJaUpROWlwZDgteDZsdFpNRlpFWGtpSkQ0TEE?oc=5",
-      "date": "Tue, 02 Dec 2025 08:00:00 GMT"
+      "title": "【速報】長井市の強盗事件で同時間帯検問",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMVVpOFZxV0xtdHpNMmRDcUs3b0RDbFVMS3NNZWJxVkR5ak9kc0lWenBPZU5lV0lmelVsN3Yta0VmamJpV1JXVDhpVVE1OXg3NFVTWmJvdFpUUGNuVUNkdFo2cThRWFk3aTRGeVJxbw?oc=5",
+      "date": "Fri, 26 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,24 +97,24 @@
       "date": "Wed, 10 Jun 2026 10:55:00 GMT"
     },
     {
-      "title": "退勤時のアルコール検査直後に飲酒か「真面目」な公務員が起こした酒気帯び追突事故で4人がケガ　勤務先が緊急会見（山形）",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXR5RkJTakFlSTc4MDdpZ3hqdmZPNU9SNld0b280SGl3ak1lN0pKeHlHSFdmMW9mUk9NT1djRkNUeUlNTjR5VGlGQm1rLTBSZUdDVVhfLVlvUXlJOVZxS1hldWdyT3hXOHlVbWxYbXN0S3hZMjNOd2tCR0VFTk9KNG5B0gF0QVVfeXFMTW53MmtaOTdMVnJjeXR1Vkw4UFRHaGZsN3pIUTIzMWJSeUxLQWZhaFVvMDJNM2ZwaVpLYjJ2MVcyMHFPa3lNY0VTbEk1bHFFZ1JXMF9xYUNmOUxZdVd5UUpNUE1PM1lhUXJSYU5icVBDbkFaeS0?oc=5",
-      "date": "Thu, 11 Jun 2026 08:36:00 GMT"
-    },
-    {
       "title": "寒河江市で車4台絡む玉突き事故 7歳の男の子、5歳の女の子など4人搬送 橋の中央付近で事故（山形）（テレビユー山形）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoSFRRU2RWSTJfbTNESFA4ZEx5azFUYTk3TmxUaXRFYmtqWWxxaDVheVQzZkdDV1djNnlzODRUMXRWTnBFRHpkaGUySzFHNjA1UTRrM0FRU243by01T0EyQ21tQmZVMmFSdURnSmVQT2h4ZlNwZC1WcUcyTHhBUjA?oc=5",
       "date": "Wed, 10 Jun 2026 10:22:14 GMT"
     },
     {
-      "title": "伐採した木が顔面に当たる 66歳男性が死亡（山形・大江町） | 山形のニュース│TUYテレビユー山形",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vUlFnTkIzaGkxWHVxcXlfMGxrUW9SNzhDYkFpVzJZN0VBVkNGQkNCSlBoeU5YQWJGbWZYdEJocXJ3WjN2UWVDOWpEeklZQnNLVWtXMWhySUNvZw?oc=5",
-      "date": "Wed, 27 May 2026 07:00:00 GMT"
+      "title": "退勤時のアルコール検査直後に飲酒か「真面目」な公務員が起こした酒気帯び追突事故で4人がケガ　勤務先が緊急会見（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXR5RkJTakFlSTc4MDdpZ3hqdmZPNU9SNld0b280SGl3ak1lN0pKeHlHSFdmMW9mUk9NT1djRkNUeUlNTjR5VGlGQm1rLTBSZUdDVVhfLVlvUXlJOVZxS1hldWdyT3hXOHlVbWxYbXN0S3hZMjNOd2tCR0VFTk9KNG5B0gF0QVVfeXFMTW53MmtaOTdMVnJjeXR1Vkw4UFRHaGZsN3pIUTIzMWJSeUxLQWZhaFVvMDJNM2ZwaVpLYjJ2MVcyMHFPa3lNY0VTbEk1bHFFZ1JXMF9xYUNmOUxZdVd5UUpNUE1PM1lhUXJSYU5icVBDbkFaeS0?oc=5",
+      "date": "Thu, 11 Jun 2026 08:36:00 GMT"
     },
     {
       "title": "山形・酒田の男性遺体、クマ被害と断定 38年ぶりの県内死亡事故に",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KNDVpVGIyVmFrRmZ3M0FDZjJLNVBWZmdfRVl6X1E1cHFfUE1pT1k2OUtiLXQ1XzVCNVRMT3AzNTFvcVE4UE1xY0VWVzlnLVFCTmY3T3dZZ1J3LXFKTE9jQ3pIUWNhem8?oc=5",
       "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "伐採した木が顔面に当たる 66歳男性が死亡（山形・大江町） | 山形のニュース│TUYテレビユー山形",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vUlFnTkIzaGkxWHVxcXlfMGxrUW9SNzhDYkFpVzJZN0VBVkNGQkNCSlBoeU5YQWJGbWZYdEJocXJ3WjN2UWVDOWpEeklZQnNLVWtXMWhySUNvZw?oc=5",
+      "date": "Wed, 27 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

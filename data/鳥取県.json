@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:03:22.658113",
+  "generated_at": "2026-06-12T00:04:04.293937",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 17.6,
+    "temp_max": 24.2,
+    "temp_min": 16.6,
+    "precip_prob_max": 61,
+    "precip_sum": 0,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 41
+      },
+      {
+        "time": "03:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "06:00",
+        "temp": 17.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.7,
+        "weather": "快晴",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 33
+      },
+      {
+        "time": "21:00",
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "県警が選挙違反取締本部を設置",
@@ -33,29 +92,29 @@
   ],
   "accident_news": [
     {
+      "title": "パトカー追跡中に自転車事故 逃走の少年を逮捕 鳥取",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JQ0pEZGw4WjdfczJHWDhZNzhRczZvMno3MjVOZ3BrQVNieVE1enpBN0VqcjRvaHd1QmJHNEh3QS1PZGNKZUJEVTVreDJkYmNueW1LejdIRlE?oc=5",
+      "date": "Thu, 11 Jun 2026 02:37:00 GMT"
+    },
+    {
+      "title": "JA共済連鳥取が鳥取県警へ交通安全グッズを寄贈 こどもの交通事故を対策 鳥取県鳥取市（2026年6月10日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWhFOEZfLVM2RzV2dk9kV2ZhUk85bFc1VXQtaUJxYU13QTJoSGxPbnZlcjRIcFdjOTAyLWs4aVVUdTBMbm1BcWRiTnhiYU5tOHkxVDRNcXlnN3FmYXEtRlpmZ2JnNWVhVkpPZGNMQnB5R01Td0E3ZEFVZHdEb3ltRXdVZlljRVU?oc=5",
+      "date": "Wed, 10 Jun 2026 10:06:00 GMT"
+    },
+    {
+      "title": "鳥取：消火器噴射ＳＮＳで予告 逃走中事故１人重体 交差点に見物１００人超 「暴走族来る」便乗か ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lSXlTOVlSTWc1YTVyeFFERE9XWkkyS3BmbHZrRzRYenl5cF84eTg1QnRQME1VZXY0Z1B4QVJFajhORTFaUDNTSFEtY0k0TVBraVNaTFJ3emxRTURfTHN5UVUzWUQwS2pMejhvWEduLWRzSWM?oc=5",
+      "date": "Sun, 07 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "【続報】消火器噴射し自転車2人乗りで事故 逮捕された運転手の10代少年は容疑を認める 乗っていた2人は友人関係 鳥取県鳥取市（日本海テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RdnRlM2ZLU3hJaWdTa0FOUUJwaUhQT2FmalU1RjlrLXlYcVlRejVIaTBtbkxYaXRoNkdpRVdJU2pTbHN0a05wS0ZxSTRjS1J4RkdWNWlqZ1FOUlFFM0RpUjd2V1llcUdpOHNmQkF6dTkxLUpVc3p4eEdfcDVxM0k?oc=5",
       "date": "Wed, 10 Jun 2026 13:04:00 GMT"
     },
     {
-      "title": "逃走の１０代少年逮捕 鳥取市安長の自転車事故 重過失傷害など疑い",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNdkEyVnk2RG5FQXZRNHdnMk11M1ZoSTE5b0tIZUYwdi1EdGNsel92UndnTzY4Rm5pblYxbWp5bmhoSldQQUQ0dGZBWmlEZUxM?oc=5",
-      "date": "Wed, 10 Jun 2026 12:02:00 GMT"
-    },
-    {
-      "title": "【続報】2人乗り自転車と車が衝突した事故　自転車を運転していた10代少年を逮捕　少年は事故翌日に家族に付き添われて警察署に出頭　調べを受ける　鳥取県鳥取市",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXlqd096VTdNaWdVcWx1ZUpadms4VlJQZXhqMXN2emdnbi1QNUhxUkxEeExVcFdJYVpmdkVwYV9WRlpwQl9aZ3pFeUZQN2tmdmJMMlN5bmk5Vkw4ek1UdlNaYnJHUWY1eFRSa04ybDZVTFdibEFHSDhRMlN4VUFybTM1YWpjSWlGR2hQVjNXa0xFN21FTmfSAYgBQVVfeXFMTTBibDZKSWVydVBWNnNsWktlZk9oczNhVTAwX2E3UWw0cGpZck1reGo2SFBWcHVIRnNQQ3JTc3lKaUxEbVVMV2JZT2wzWjdLdkFVMFlINnB5SVRIMzh0OGVzeDdGVHRPNEc3SHhwSmVzenNIUzR4amgweERRM042eFFCUTQ1N0EtSg?oc=5",
-      "date": "Thu, 11 Jun 2026 09:37:00 GMT"
-    },
-    {
-      "title": "【続報】消火器噴射し2人乗り自転車で事故 自転車の運転手の少年を逮捕 自転車や消火器の所有者は捜査中 鳥取県鳥取市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90d2VUd3RTdjRmdzVMY0wzeTV3OTZ0LU9aUDN5bERUczVaWnJBb0pZNHhqdmdhNXN0dlIyWmVueENEbHhhelFHVHNjcHY1N2FVLUVCZXFwcHRfdXExTE41RmdaaVNKX2xwLTQwVFpGdi1Ta25PSnhPUU4tSklJbHM?oc=5",
-      "date": "Thu, 11 Jun 2026 03:15:01 GMT"
-    },
-    {
-      "title": "「鉄板が落ちてきて腕が切れた」と通報 屋根の修繕工事現場の70代アルバイト作業員が死亡（鳥取市）（TSKさんいん中央テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5URURldUpZV3JjNzEweDRobGlyV3lDX1RXVGNCRUJUUmtrLVlZc0tuaDh3S2kxTVhhWDhRVDZ4OTV2QUJVN01heEFVXzFZZGJjU25OYTlPeDNDZGlhaFp6UGdWWEpOdkNuQ1NJWHZpdktlUnlMaGhhdjhJMVY0aE0?oc=5",
-      "date": "Sat, 23 May 2026 07:00:00 GMT"
+      "title": "JA共済連鳥取が鳥取県警へ交通安全グッズを寄贈 こどもの交通事故を対策 鳥取県鳥取市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMNkd5RXB4QUZLTHVIRDRGVW9xM09TRTFxQ0ZzdnFWMG5nc0R1UXNkTmFSMGRHenhkeTM1YVE0SFpnM2lNQU1lSGR5dw?oc=5",
+      "date": "Wed, 10 Jun 2026 10:34:23 GMT"
     }
   ],
   "official_links": [

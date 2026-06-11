@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-11T21:03:16.623370",
+  "generated_at": "2026-06-12T00:03:54.675658",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 19.6,
+    "temp_max": 28.3,
+    "temp_min": 17.3,
+    "precip_prob_max": 25,
+    "precip_sum": 0.5,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "霧雨",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
