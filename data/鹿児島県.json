@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-12T21:07:29.689509",
+  "generated_at": "2026-06-13T00:15:58.798187",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.5,
+    "temp_max": 24.8,
+    "temp_min": 19.8,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "納めた反則金、交通違反じゃなかった…鹿児島県警が“誤摘発”139件 規制と標識が不一致「警察官の認識や連携が不足」",
@@ -11,9 +70,9 @@
       "date": "Wed, 24 Dec 2025 09:08:53 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "違法漁業は許しません！ 指導取締兼調査船の4代目「おおすみ」お披露目 歴代最大の船体に機能強化…鹿児島県が新造",
@@ -21,14 +80,14 @@
       "date": "Wed, 25 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "【写真】友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWnJkWXdTdUM2Tjk2VkJPaHFkeWd0eEFkZzZkMXlrSkt4QzlGa2lJd2NxeHRfZUxpbEhoeTlZZlZwN0k1akFEbkFnQXdnOFVjNnJXdm9OU2dLQWltOUhVRnFUc054ekE?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "〈詳報〉食品表示法違反容疑で水迫畜産を家宅捜索 鹿児島県警",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kRWlFcnoybmQxMmxIMkdZTEpvUzdrM2FCNmxWZDRhcGEyeXFUMGZ4Mi1Gc2t3LUJzLTY3NmZqSG84U2paRGQyRlhrVQ?oc=5",
       "date": "Sun, 26 Apr 2026 20:31:48 GMT"
-    },
-    {
-      "title": "鹿児島県で不適正な交通規制2973カ所 県警が誤摘発139件取り消し",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZjNfT3pTQXhBMmdDamNrRXJGdEEyXzh3NXJGaDcxRC0wSmg0dXZnUnROLU1nb0xKdlVZeVA0NDVjT0FlRWVUS1FvR0xoWWtTbUdaeWln?oc=5",
-      "date": "Thu, 14 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Fri, 12 Jun 2026 09:39:11 GMT"
     },
     {
-      "title": "つえを持って横断していた90歳男性、トレーラーにはねられ死亡…信号も横断歩道もない国道の直線 姶良市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tZlJPbVJRUmY4bmVqLWprbkhOcDVqZ2c5NFh0cEhhOUhYelprU05RcUZWOTRSNjVad2hSX1lfc085c21QTVBna1VCVHB1VFdCSUQtQUtacw?oc=5",
-      "date": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "鹿児島市・城南通り沿いの歩道で倒れ死亡の男性 県内の４０歳代と判明 鹿児島",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CWm5ZaWprVW1OWnNZLThrMkcxNXdwZEo5QXhHa0VhLXh1MlI5c1dqS25LWmt3ejl6Z2Y5bHdBLXJRS2pVUjZubi13TjNDeFIyUVVfbHVXYlBPaWU2X1VyTVNUMzB2aVk?oc=5",
       "date": "Sun, 31 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "つえを持って横断していた90歳男性、トレーラーにはねられ死亡…信号も横断歩道もない国道の直線 姶良市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tZlJPbVJRUmY4bmVqLWprbkhOcDVqZ2c5NFh0cEhhOUhYelprU05RcUZWOTRSNjVad2hSX1lfc085c21QTVBna1VCVHB1VFdCSUQtQUtacw?oc=5",
+      "date": "Tue, 26 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
