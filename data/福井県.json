@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-06-13T00:07:59.775759",
+  "generated_at": "2026-06-13T03:07:59.672186",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 17.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.5,
     "temp_max": 28.6,
-    "temp_min": 15.9,
+    "temp_min": 16.1,
     "precip_prob_max": 10,
     "precip_sum": 0,
-    "wind_speed": 4.8,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.9,
-        "weather": "晴れ",
+        "temp": 17.5,
+        "weather": "曇り",
         "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 16.6,
+        "temp": 16.5,
         "weather": "晴れ",
         "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 16.7,
+        "temp": 17.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.5,
+        "temp": 23.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 28.2,
+        "temp": 28.3,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 27.7,
+        "temp": 27.5,
         "weather": "快晴",
         "precip_prob": 10
       },
       {
         "time": "18:00",
-        "temp": 25.2,
+        "temp": 25.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 20.9,
-        "weather": "晴れ",
+        "temp": 20.8,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "酒気帯び運転で現行犯逮捕の19歳男をひき逃げ容疑で再逮捕 福井市の国道8号で信号待ちの車に追突し逃走…現場にナンバープレート落下 容疑認める",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNR0hvUGZqTHBNcFV3N2ptWmw5Y0F6MVJRM19jMU1JaFRjQXlwMDEtM3VRdURrWFpXRVhGXzRBNVpTSDVMM1p0azdHVU43enFKYXo1Q2NGRmtSRDZvNXN3ZFNhZlBZY1JubWFsd0JpbU1uLXI4bU5WVTJIZ3V4d1gtd1daNXFKeTJNX09MaUNqaW5KY1lDR3kyLTRxalZ0NWpOVkJzZGVuN0h5Y25JS2tLSVFlUkZBR3FXV0tNZWV4Qy14X0k4X1BrSWZiUU5tQy1vZHQtaE5RbHBoU2o4Si13QkU2TnIyT3lsb2lKUHk0MGNmOTVSVlB3a25tT0VVcjdZV05CZlJIeEJCRU1HQjZ6blhKVFVkVGFHTjV5Q0djQi1tMTY0elQ3eENVQnNQUFpMeWllQUlOVGF6Q2taYmsxUk55NjE3UUtpSEpNWU5ERDQtd2VPYlAtelE4Yw?oc=5",
+      "date": "Sat, 06 Jun 2026 14:10:00 GMT"
+    },
+    {
       "title": "車にはねられ男性死亡 5月15日夜 福井県越前市の県道",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TMzNCbEJKOElyanJTQ2ppd296ZFRwVm5QMU5DSFZmVUh0eE5Cd2g1RDFHX3ZoQVVZVWVGdkJFbE1ub3ZBQS1MNm1OX3MyQVVIREFrY18yY0hJU1BmbUE?oc=5",
       "date": "Sat, 16 May 2026 07:00:00 GMT"
@@ -110,11 +115,6 @@
       "title": "ベトナム人技能実習生2人死亡、2人行方不明の海中転落事故 現場の三国防波堤で対策工事進む 福井県が立ち入り禁ずるも…釣り人の侵入が後を絶たず",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQaGtWYjFhZnRZQ2huejV6bXFjeDZ4NldiS1d4cmVpajNfSHR6MTRMTXhxSDlvbjFUTDNpSTNLamhlTmd4MnZ6SC1qdVhmc2lSMjFXU3pLS3c2TmdtemVGRmtwbE9RQU5RZ1doM1E3cXdWVUpjeU5jY1BTYmt2Q21oMW5LNjdQb0VCU3RKcHhhTTRSczZLYTRqQ0hUWTlTR2llM3A1ZkxsaTVITkxxTkdSN2ExbFQzenJkRFlwNm5vZGo5S1hMTEI1MVZjQjZWcFVIMDU0QUlMeFNaZkhVSzhnaHZyQ0l2YXZFWnB2YmdMUWRMcGttbFFaM0JRTzhfZnBGYkZxNnplX3QtQy1NLXRoS2ltS2EtbXNUSXBDNG1NUlJ5aW5JcURuZnpreV9CcG11M0lBSUlHbndXUHU2R3hfRUJkQmV2cDNCejA2bGdBMmRtcnpIdzI3NFlUMA?oc=5",
       "date": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "道路を横断中の男性が乗用車にはねられ死亡 福井県越前市",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odlBobEhkU0oxMDVFUjI5cG8xN1pUTEgwVUpESGtQcjR6ZTJvRzhTaE9ncER2Q0ZQbEY3YlZVLWZCcnB1V3BxU2JoMURwY3U1YXlGSw?oc=5",
-      "date": "Sat, 16 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-13T00:08:31.960970",
+  "generated_at": "2026-06-13T03:08:38.383675",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 16.7,
-    "temp_max": 27.0,
-    "temp_min": 15.5,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 15.2,
+    "temp_max": 27.2,
+    "temp_min": 14.6,
     "precip_prob_max": 75,
-    "precip_sum": 0,
-    "wind_speed": 2.9,
+    "precip_sum": 0.2,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.7,
+        "temp": 16.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 15.7,
+        "temp": 15.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.2,
+        "temp": 15.7,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -39,31 +39,36 @@
       },
       {
         "time": "12:00",
-        "temp": 26.7,
+        "temp": 26.8,
         "weather": "快晴",
         "precip_prob": 51
       },
       {
         "time": "15:00",
-        "temp": 26.0,
+        "temp": 25.7,
         "weather": "快晴",
         "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 22.3,
+        "temp": 22.1,
         "weather": "晴れ",
         "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 19.6,
-        "weather": "晴れ",
+        "temp": 18.7,
+        "weather": "弱い霧雨",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ZzVCUjlWRUhOcDNoNDJOOWk2azZvRm5Wbm5NTVlSYkF3a002QVVVdGpfZFJHdmJHanN3aXQ2eEQzMjFfZ0tqNDUxdHJtMG5SY2VUcWh4MHVZYmU0MXQtbE5YbFZXc0J4ajJ0U095ZDk?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
     {
       "title": "6月10日（水）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1feU1uTHc0Q29nd3ZMYTlBUjdLLXNvX0EyUEJieFl0X05qeFhPUW1QUXRjWnRfR3d5MVBtek5acXpVMWgxSDFOZ0xzZDE2aU42REpRQWZZelZoSHBtSTBqY1BkaGdFdjNNNzdXNllfc9IBdEFVX3lxTFBtTVFGQU9oOHFwVXVnaDlvcG5Wd0RvdGwtRTV3NjV4TGhvNmNjQXlreEtpSVE2ZkhUN0RBSEJMd2ZoNkZZcm4xU2gzR0p5ZjVTaGtzT0lUdzMxUHpORDJzQnQxazlYUDRlVTFrT3FxVWFYVnpX?oc=5",
@@ -83,11 +88,6 @@
       "title": "検問振り切って乗用車で逃走 71歳の土木作業員の男を無免許運転の疑いで逮捕 違反点数オーバーで免許取り消し中 長野・小諸市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vd3NCZ1M5YlM2UERyYWRVMjQtSktBVUFPdnBnZkJKUHFpM3hraUNib0JlN1AtaTlFWnF3UVM2aGlvZ1V4M3NwYVl1a2hFRXZvX1lLcHg3Z3BIMV96a3cyc1k1OXZ5OU0?oc=5",
       "date": "Thu, 27 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "長野・茅野署と合同飲酒検問 北杜署、国道２０号で",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCbFZPUzV2ajczTkNYM0V6NS1aQWpfZDdhNG55VFNDaWhubVFhT0U5RjFWZDlRR2tXTWtyYVU5YURWOW4yYm4tREl6RzZiX0pfWlRlTXBDQnk2TnR4bXZtTG5yUDc?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -108,13 +108,13 @@
     },
     {
       "title": "長野県警の男性機動隊員が死亡 後退していたトラックを誘導中 トラックと車庫内のタイヤラックの間にはさまれる 長野",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xaFdMdjcyOHp4R0VjZFNVcFBJZmR1MWI1dDhIZHF2Q3hsWHI1cDRnelI5dVdDcjJoZUYyVnlQN1NRbnVDT0tpZU5kUGIyeml6MjJxUTNkUzVQcDdMNDRLQVMzeWJqZHRldG5EQldKZGxmTExJSVBKWXdSaFJDN1k?oc=5",
-      "date": "Thu, 11 Jun 2026 07:42:19 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3Z0dxR3JRekNObGZCUFFpYUNWVXdHUkpmZEh3X0l0TDhKQ2JEWWE5alBpcTVFZ1lNMFJNYk9EMkFjWHM2eUE2MWQ3REotWDJSX2VSNjFRUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 07:41:00 GMT"
     },
     {
       "title": "長野県警の男性機動隊員が死亡 後退していたトラックを誘導中 トラックと車庫内のタイヤラックの間にはさまれる 長野",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3Z0dxR3JRekNObGZCUFFpYUNWVXdHUkpmZEh3X0l0TDhKQ2JEWWE5alBpcTVFZ1lNMFJNYk9EMkFjWHM2eUE2MWQ3REotWDJSX2VSNjFRUQ?oc=5",
-      "date": "Thu, 11 Jun 2026 07:41:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xaFdMdjcyOHp4R0VjZFNVcFBJZmR1MWI1dDhIZHF2Q3hsWHI1cDRnelI5dVdDcjJoZUYyVnlQN1NRbnVDT0tpZU5kUGIyeml6MjJxUTNkUzVQcDdMNDRLQVMzeWJqZHRldG5EQldKZGxmTExJSVBKWXdSaFJDN1k?oc=5",
+      "date": "Thu, 11 Jun 2026 07:42:19 GMT"
     }
   ],
   "official_links": [
