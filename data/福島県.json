@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-06-13T03:04:45.721502",
+  "generated_at": "2026-06-13T06:04:24.670179",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 15.9,
-    "temp_max": 28.1,
-    "temp_min": 14.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.0,
+    "temp_max": 27.9,
+    "temp_min": 14.8,
     "precip_prob_max": 100,
-    "precip_sum": 0,
-    "wind_speed": 1.5,
+    "precip_sum": 0.1,
+    "wind_speed": 0.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.3,
+        "temp": 16.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 15.9,
+        "temp": 15.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.4,
+        "temp": 16.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.9,
+        "temp": 22.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.5,
+        "temp": 27.3,
         "weather": "快晴",
         "precip_prob": 86
       },
       {
         "time": "15:00",
-        "temp": 28.1,
+        "temp": 27.0,
         "weather": "晴れ",
         "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 26.1,
+        "temp": 25.3,
         "weather": "晴れ",
         "precip_prob": 98
       },
       {
         "time": "21:00",
         "temp": 21.5,
-        "weather": "快晴",
+        "weather": "晴れ",
         "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月12日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12THp1WnRwWjdsdWRhQmQ1MzRjT2VFNGVBZjVHck1FVVFFX1BHUzMyVkVqMkFLNldkaEE5WmFlWWs0ZlBzYlVZdzN5QTdMZUlidFhsN3lyNA?oc=5",
-      "date": "Thu, 11 Jun 2026 20:02:00 GMT"
-    },
-    {
-      "title": "6月12日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEdVdHTkFwaXhWWm5hdGRGeDg0NGVmeUV1NS0yLXdJOG04S2NTSjQ3MG4wMjJoVXVZNjF5TTlfUVR4Ykd1RTBDM2tuYkZiSnl0YnlBSUFSQVZfTnFqS29hOEx4RG55QlZETWl4cDJzWdIBdEFVX3lxTE10WFQtZDIzN3pPQkZ0ajM5cndUVzhJQWdvRzlnN1BLaEh4blM3ckFJZjNzWGZCODVrdnBicko0QU5pdWZVMnNUWUg3YVo0cE1XVXIwbHllUzdPMWlYekhueGhmTS1tdlRmLVUzVzlBMzFEZ0hf?oc=5",
-      "date": "Thu, 11 Jun 2026 20:05:11 GMT"
+      "title": "6月13日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xbEZHa3IzaUJubUNQZmIxUVlBZkxsdk1wNTVnQ2tZamg3OVN4bVBWbFBNRUJvSENRNnJ4TXh1Unc2bGF0dnhWNFg1d01pTGYxM2tiSVVyLWFLWGdtZnRqdlJ0QldaNGp1MXpobWVEQdIBdEFVX3lxTE1HSnZxOGs2a29jRUR6eFptVFRuQzdFdHpBLVhQQXR4VmU3V254SWxia3ZmWEJvLUw2R284TzBGVVlzMUtvS0dIM3dScWp4dlVLQkozU2Q4SVVsRVNOdkh3am84bks4bGlsU1haVmVYSXVXY01E?oc=5",
+      "date": "Fri, 12 Jun 2026 20:09:19 GMT"
     },
     {
       "title": "６月１１日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -80,9 +75,14 @@
       "date": "Wed, 10 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月10日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbmpZQVZpVG9sNVZRcWI0Ml9FazNyb0w4ODBLb0tGODZQcXotZ3FGSXlaaWctY2toaDZNT0NKYnI4UU1ieUFDYXF1a0lKMHRwVjlTa3JvdlpaYVJ4S21TSGZTVkREb21Vdl96a2J6MNIBdEFVX3lxTE9mN09oSWdEOERQQzFnRUFYOVQwdjJoNHBUT2dLUG42cEY2NmRjUTFSdVMzOFBWOHVmQkNBTHdOMnc3ajFVWV9YVDh5Ujh6cTVGZ1I5WFpZbENtb2dWVWh1WHVXaGJ6SDdQOFBNalVoMkdCTTda?oc=5",
-      "date": "Tue, 09 Jun 2026 20:13:45 GMT"
+      "title": "６月１３日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lYkFUNFAxak5ERVcxZkxKMzR3RjQ5MDRhbmtxcERaVHFKeGxYanRBbGFpUnZiaFl6a2FtVU9QVjJ0cFFkeExyZWs3T21LbG15V0czNGVBTG5odzRkTFJKZWNZM2hjLUpaM3c2Q2pfeXFuZ9IBd0FVX3lxTE8xUW82UWFVR0FWTEcxZ3Foa1lvYmx3Z29wNnRNRVZpb1V6OGJTeHpyLWw2NFRYV1FnOWdtVjhVLUo3TXRVZWJRYU9CYk85VHdFOU9PZUNXeGFCSWV4MmxwRjE5WGFpS0U2dWo1ZlJzQ194ZDUtNXBJ?oc=5",
+      "date": "Fri, 12 Jun 2026 20:07:18 GMT"
+    },
+    {
+      "title": "6月7日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Y0xoRUZ1ZG9jMnVDMURnZ0hIQU0wTG15MkRvcUtfdmpWamxFYmZ0V2NZWHhUT3BPUllPamwwVGh5bUNIRlB2LVFrOHpGY1gxbldmeDh5SQ?oc=5",
+      "date": "Sat, 06 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "飲酒運転根絶へ大規模夜間検問 白河署",
@@ -97,14 +97,14 @@
       "date": "Fri, 12 Jun 2026 02:00:00 GMT"
     },
     {
-      "title": "福島県で交通事故相次ぐ 田村市都路町・国道288号で車が正面衝突 軽自動車の運転手が死亡（福島テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UDdaWUNvNVBJbTJHQ0JmSFJ0NC1VeExDYjg3ZE5xUExBX1ZodmZjWC1qc0thYm9OdG45MnBJbUlZbG0zWndjZHJoZ1ZVRVpVdm5zS21NZl9WdHRSVnJVOWxkSFU0N2FHOWpVSGNDay1BYXhvUzNuaC1vNkQ3N1U?oc=5",
-      "date": "Fri, 12 Jun 2026 02:59:01 GMT"
-    },
-    {
       "title": "介護施設の送迎車と軽自動車が交差点で出合い頭に衝突 86歳の女性が死亡 4人が重軽傷 福島・国見町：ニュース",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZmIxYm9NdWFkTUZsYnNNM1gtTWxjUDVvcWFGXzcxa0pfZGJEaFlhcUhDY2p0OEFNdGZ5QVctOERIUnRoSUdxQm5rZUlTUzdoWllaMUROa0UyLWNDOU1zZ2tpamh5SUJaTGthNHF2eUFZd0psWVhkVFl3?oc=5",
       "date": "Wed, 10 Jun 2026 10:16:00 GMT"
+    },
+    {
+      "title": "福島県で交通事故相次ぐ 田村市都路町・国道288号で車が正面衝突 軽自動車の運転手が死亡（福島テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UDdaWUNvNVBJbTJHQ0JmSFJ0NC1VeExDYjg3ZE5xUExBX1ZodmZjWC1qc0thYm9OdG45MnBJbUlZbG0zWndjZHJoZ1ZVRVpVdm5zS21NZl9WdHRSVnJVOWxkSFU0N2FHOWpVSGNDay1BYXhvUzNuaC1vNkQ3N1U?oc=5",
+      "date": "Fri, 12 Jun 2026 02:59:01 GMT"
     },
     {
       "title": "軽自動車と普通乗用車が衝突し60代男性が死亡 福島（2026年6月11日掲載）",
