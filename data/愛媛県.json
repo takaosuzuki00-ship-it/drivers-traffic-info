@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-12T15:04:13.668167",
+  "generated_at": "2026-06-12T18:03:54.053671",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 25.1,
-    "temp_max": 25.1,
+    "temp_now": 25.0,
+    "temp_max": 25.2,
     "temp_min": 17.7,
     "precip_prob_max": 8,
     "precip_sum": 0,
-    "wind_speed": 5.8,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
@@ -45,20 +45,20 @@
       },
       {
         "time": "15:00",
-        "temp": 25.1,
+        "temp": 25.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 24.8,
-        "weather": "晴れ",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
         "temp": 22.1,
-        "weather": "曇り",
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
