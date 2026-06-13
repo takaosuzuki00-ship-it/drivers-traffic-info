@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-13T10:17:09.483694",
+  "generated_at": "2026-06-13T12:03:32.482888",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.3,
+    "temp_max": 25.4,
+    "temp_min": 18.2,
+    "precip_prob_max": 96,
+    "precip_sum": 0.3,
+    "wind_speed": 10.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "18:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 65
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【公選法違反】衆院選｢期日前投票｣で二重投票しようとした疑い浜松市の会社員男性を書類送検…ほか計26件違反警告し選挙違反取締本部を解散(静岡県警)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUh1bDZuY2dIVVhrYlBMREpaTHQyZ3VkQmZYNENZYlJ4ZGdIdHVOVkhDbU16eDZjUExRNThoQ3NkRWFJa1hMZ3pFd1RVbThTWVZ4NTNNeUZxV2h6dlZaMWZLN1V1Tm01WGxWVVE0RktuWlZfcVM3UHRodzFISk5kUEZKVzdyRU0?oc=5",
+      "date": "Mon, 09 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転の増えるお盆に交通量の多い道路で検問 飲酒運転の取り締まり 静岡・沼津警察署",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYUprUGRXOWNGaFdQdC1hSGJMdWlRU2pkS0hoYV8zamhMeEdQVXVCUEg3Q3BLMENyZVlrTURId1Y3RzdyT0lDU2V3VVNsSmFsQXQ0SXVjVHBaYmUzTXN6eg?oc=5",
+      "date": "Sat, 16 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転は大変危険な犯罪」警察が抜き打ちの飲酒検問＝静岡市 | 静岡のニュース | SBSNEWS | 静岡放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBycENIdF9FS3E3anZocGUxZlJpN0lOS0ZFOGJGTXdaU2ZibGFIM28yWlljVmwybktOR1VhOHhrc3pyRUZPajBvZUNLSHRybkRXZEk5Z25UZTRBZw?oc=5",
+      "date": "Sun, 14 Jul 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "人身交通事故件数：16年連続ワースト1位の浜松市 脱却へ向けて抑止活動 （静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Y09MQmlWOTVPNkI3NVl0eXViSVRBMGFod0o4WURBSl9JclFaU3hpQWN6c1VOLTRWbFppNmkwRzVBWHA2S2hMdWdhRFJTSTU1aFE3RGdfQkZzUWEtclAwRXZhUlJjWmN3dTZDTzQxazh2OGZ1RnJzclFQSHktTGc?oc=5",
+      "date": "Fri, 12 Jun 2026 10:02:34 GMT"
+    },
+    {
+      "title": "交通事故で1人死亡 1人重体 軽トラックが車線をはみ出し対向車と衝突か 片側一車線の道路",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14bkN0cTgxU3NzZGZTdzVwY1NsZ2NoLXBsaXlIQklXN3NWYmpjRWI4Y1F4Ym9tZWo4V1QxMEdacWpDemdOS09ISEpLbUdkNXY3WjhKeDlsOXVKRm9yNzFOMjA4SQ?oc=5",
+      "date": "Thu, 21 May 2026 10:03:00 GMT"
+    },
+    {
+      "title": "下田市の国道135号で軽自動車がガードレールに衝突 運転手の女性(65)が死亡 警察で事故の原因を調べる（静岡）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uUHhFOWFUYTRzbUxMYWx0VDNMR1h5SkJZYW1wNlhrOEJ2UnVWcFAtN0RLRi0zaktlekI0OHVDX2s2c1BOdXhMQ1dVbE9iRHJSZlE5eHFPVWxKTWwyemFzWmIzVU82bnlGc1RnLVpJV1U3S2Zzc3czYTYwVUsyVE0?oc=5",
+      "date": "Wed, 10 Jun 2026 03:36:00 GMT"
+    },
+    {
+      "title": "「ながら運転」事故発生件数、静岡県内で横ばい 厳罰化された２０２０年以降",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZTW9WTlJtUVE3RWlLb0Q1S01QaFFYb3hBWkN6dDdIM2RkSmJVT3E2Wi1fbG44UnhucllCa2FqTUxxUkdDcEU4ZEJwZUxHZw?oc=5",
+      "date": "Wed, 10 Jun 2026 03:27:00 GMT"
+    },
+    {
+      "title": "人身交通事故件数：16年連続ワースト1位の浜松市 脱却へ向けて抑止活動 （LOOK）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdk42UUd5S1lMYTI4NXFIQ2UzREw1RHhUNmZaNUotenV1QzNtUXVkV3Brb1l2Y0x1VGJrQnlLa0VNMW9qZzBia3Z6TE9wLU9MbktSU092Sjd3ajhsOERmMlRZUEdyRVNYNVo2NnBfMU5vREQ0?oc=5",
+      "date": "Fri, 12 Jun 2026 10:02:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

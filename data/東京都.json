@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-13T09:50:08.378422",
+  "generated_at": "2026-06-13T12:02:58.927516",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.4,
+    "temp_max": 27.4,
+    "temp_min": 17.1,
+    "precip_prob_max": 73,
+    "precip_sum": 0,
+    "wind_speed": 6.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 69
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月11日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PTzBJVklJdUJ0RWJrU0FHVWVzeTZNZUI2QmtIdFRxclJSNGd1V2xhSmtlLVZzb2IyVkU3OWtQVWYwSWY4MXdtY3E1am8tMmRmZGJ5NmNfSQ?oc=5",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:25:00 GMT"
+    },
+    {
+      "title": "６月１１日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qTG9IRkJ5b3hWSkVMUGNtWFJfdk5DamhqelhBekVvYmpJMmptdE5BQjY1V2Q4YzVQRVJadkFkeXJLQVRYM2hsTzFUc0U1em9QeDNyek5iMA?oc=5",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "６月１２日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FZGpFQmJOVG1VRjZNbkh4QVBSd3ZISkNOdE4zWjA2ODVZOGtWR0Y0VE1OWHR1U09SUW9BQUF5ZHhadEFNY1NhRFdhc3JqUVRHaFlyNlpJZw?oc=5",
+      "date": "Thu, 11 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UYkJSWnNVbzBDb3dYci1Dejd3OUJkNFBMLVBXbE9IZ3ktLWtWMTFYeHFMOFdwVHZZOWZxWXlvNTZKbERRa3RFTTJ5dUZoUlNTZGk0UEJwRQ?oc=5",
+      "date": "Wed, 10 Jun 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「もう廃止にしろ」都内LUUP初の死亡事故発生で“不要論”が再燃、警視庁が明かす“東京が7割”の現実（週刊女性PRIME）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWEZBeFdWTFlzZVNPS0tqUVdXSXppajB2REpteXR5V3hkclROSWtVUzhrdW9rRnZQOWJwcmp5TGFQakpuZVZid1N2blFZWGdqSU0ybjFDTGkxdFJtMXlnSEl5czZUMzg0ZmwtQldndUFtalRXV2ZZWld2MmMzVm8?oc=5",
+      "date": "Wed, 10 Jun 2026 08:30:35 GMT"
+    },
+    {
+      "title": "２５年の死者数、最少２５４７人 外国人運転事故増加、交通白書",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FbS1XM2hER195U01HTjRBOU9laHU1Q2lmc0xpcWMwZWpIUlhjcWJXYXA1VjN5QnFhNUdjWXZQcXoyYmVqMFVyTjdMMThkcWZyZ0VN?oc=5",
+      "date": "Thu, 11 Jun 2026 23:41:21 GMT"
+    },
+    {
+      "title": "東京･北区でLUUP利用者が車との事故で死亡 運営会社が哀悼の意",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jX211WGVVN090V25xOHZ0M2lWTlhfWjBzUUFzT194VkZTS1Q0ZlB2c0VYV0NZZ2VoWXFmZFZQVV9wYjZFNVRaaEFVZGNZd3FlaVlab2NEMnRBdw?oc=5",
+      "date": "Wed, 10 Jun 2026 04:50:59 GMT"
+    },
+    {
+      "title": "東京・文京区で3台が絡む事故 中央分離帯を乗り越えて衝突 小学生の女児ら3人搬送",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KcjhveTg4dGNiUnlpZHhQNVhVeXlaQzFJTDRhS1RlbEJUWjE4RGFwUG01eXRwRDJGbWhfcDhQLTlvUU01RmdJVnMtbUpMUnRPVFRINGEwY3RCN09tMTJaUzhjclpjVGhnRGh2dkVLbk1mUQ?oc=5",
+      "date": "Tue, 09 Jun 2026 13:04:10 GMT"
+    },
+    {
+      "title": "東京・日本橋で3台絡む玉突き事故 4人けがして搬送 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOC1DQmZEQzNQd1hyRUZ1RWVwbkJ6SkVCMHk4REFqYW1OamlsaG04RG9NMXlHVHRWdFFSLWV2T2dhdDdfUWVHY25XYkNVcXM?oc=5",
+      "date": "Wed, 27 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

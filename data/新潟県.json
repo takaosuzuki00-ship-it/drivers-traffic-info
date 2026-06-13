@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-13T09:56:08.668998",
+  "generated_at": "2026-06-13T12:03:06.256007",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 23.8,
+    "temp_max": 24.4,
+    "temp_min": 16.6,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 12.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 24.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月13日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xbEZHa3IzaUJubUNQZmIxUVlBZkxsdk1wNTVnQ2tZamg3OVN4bVBWbFBNRUJvSENRNnJ4TXh1Unc2bGF0dnhWNFg1d01pTGYxM2tiSVVyLWFLWGdtZnRqdlJ0QldaNGp1MXpobWVEQdIBdEFVX3lxTE1HSnZxOGs2a29jRUR6eFptVFRuQzdFdHpBLVhQQXR4VmU3V254SWxia3ZmWEJvLUw2R284TzBGVVlzMUtvS0dIM3dScWp4dlVLQkozU2Q4SVVsRVNOdkh3am84bks4bGlsU1haVmVYSXVXY01E?oc=5",
+      "date": "Fri, 12 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "6月12日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEdVdHTkFwaXhWWm5hdGRGeDg0NGVmeUV1NS0yLXdJOG04S2NTSjQ3MG4wMjJoVXVZNjF5TTlfUVR4Ykd1RTBDM2tuYkZiSnl0YnlBSUFSQVZfTnFqS29hOEx4RG55QlZETWl4cDJzWdIBdEFVX3lxTE10WFQtZDIzN3pPQkZ0ajM5cndUVzhJQWdvRzlnN1BLaEh4blM3ckFJZjNzWGZCODVrdnBicko0QU5pdWZVMnNUWUg3YVo0cE1XVXIwbHllUzdPMWlYekhueGhmTS1tdlRmLVUzVzlBMzFEZ0hf?oc=5",
+      "date": "Thu, 11 Jun 2026 20:05:11 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【新潟市北区で交通死亡事故】交差点で普通乗用車同士が衝突 25歳男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tT21yNjZLcjBJckV5NWM2TkMxMk9RZGRGUEhEb2NQejRMV2pJYlg1dllHaDNXR2QtdE5SclJtZXFWRXJl?oc=5",
+      "date": "Thu, 11 Jun 2026 01:43:41 GMT"
+    },
+    {
+      "title": "［道路情報］新潟市の亀田バイパスが事故で一時通行規制（6月10日）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9taHBRUk1MVVZjaDVHbm44VFJWY2pJeThaYktvUGtuQ01haXcxLTk3TVpjcXdQQmE3SE9iNkk5YUlmbHp2NXZtRExnbTBBSjVoc3kwMmMzODJ4NUF4ZUE?oc=5",
+      "date": "Wed, 10 Jun 2026 09:55:00 GMT"
+    },
+    {
+      "title": "交差点で車2台が出合い頭に衝突し歩道に乗り上げ大破 25歳の男性が死亡《新潟》",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlEaHI3NV92RHZJSVlJdTdzOHA0TTBuN1NadF9kTHI4WnM4Zmx3bjBENEFSYVlnNGpaR3dtMDY4N3ZobEt4OTREd1NEM0diSjBlTWs1aC14aU1hYjRuX045UjNoVDBDZ1JZZXR1UUxGWlVSQ3IzeDd4bHQwUldmVGI3MVBQNEVZ?oc=5",
+      "date": "Thu, 11 Jun 2026 02:58:00 GMT"
+    },
+    {
+      "title": "信号機のある県道交差点で乗用車同士が出会い頭に衝突 運転手1人死亡【新潟市北区】",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BQ3dNZGN6a3ZOV0dkcVRyeEphemUtZWc4dGtKMGd4OTBBYUYzeVZ6S3ZwelNEMkt4RE9wQ1FFZzFiaTJVT3FlcVFsMFl1ZWFITlZTbm44T1NUY195Y213?oc=5",
+      "date": "Thu, 11 Jun 2026 00:04:38 GMT"
+    },
+    {
+      "title": "信号のある交差点で出合い頭の衝突事故、25歳男性が死亡・新潟市北区",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKeVlROC1NaWRnbm1GVVJWYzFwMkVUU3R4dU4tbUN0Mk9JYlVmN1VRZnNvRnd3Z0k4MERIREpVcm9YUFVCRGxyNi1haU5GWmJQbWpmdHNqZmtaaVlfZEE?oc=5",
+      "date": "Wed, 10 Jun 2026 23:50:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-13T10:14:09.373496",
+  "generated_at": "2026-06-13T12:03:28.894756",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.6,
+    "temp_max": 28.8,
+    "temp_min": 18.0,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月13日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81YTFFUkE1TVFfektyZm9tdlpJQUE4UW9IbkpKZHdndVVwRkxMc1BYZi1QdXhjbDkwd3ZzMGVVbEdGZk93RXV1V3VvN0lLZHpoUEhydnhKVVhhS0V3YWZzSzdvUl8?oc=5",
+      "date": "Fri, 12 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月12日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83b3o2SmFmb0pCUHRiNFhqR1hTa0F5V1I5cFQ4bWpQN2UxczRpMTdBWm9xdWROdTJ3N296Nlk4czh1Y3ZlUDF0Z0w0NExkWWZTMEZ6ZUlaOA?oc=5",
+      "date": "Thu, 11 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92SnJMcGJqcFlId2ktMXFJTmZ2VW11TzhhU01DZjlBNnNWQ1BKQ0FaTmE2Wko4REZQOWRUNElGd29qdW5GcjBxWnY3aw?oc=5",
+      "date": "Fri, 03 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "6月12日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12THp1WnRwWjdsdWRhQmQ1MzRjT2VFNGVBZjVHck1FVVFFX1BHUzMyVkVqMkFLNldkaEE5WmFlWWs0ZlBzYlVZdzN5QTdMZUlidFhsN3lyNA?oc=5",
+      "date": "Thu, 11 Jun 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "助手席の女性が窓から顔を出し 高架の壁にぶつかり死亡 運転手は酒気帯び運転で現行犯逮捕 笠松町（ぎふチャンDIGITAL）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wYmJZR2lqY0JycDdxVFdzT29VSU1xNDJhUk95bXc1SU5TVHJsUUt1TXhvVnFORzhGanowb1Fjbk1CdERkcjZnLTFFc2QyQ3BsSXZ1eFgtMWtzYTQzME9ld2pGTHIyMWRHb2g3N3lqNk1DMlhVODFSSG80SVh1eHM?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高齢者の方の交通事故抑止",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZNkl4cU4yc09Nbm5Dd1lnOFdRQnk1SG9NV0pCa0dfMDEzWThOdzg5RDd6VGs4UENaRWt1T1I2WWtiN0xFY3N6dkVkOW1FY3IzZEtRVUJFUDh1SXUzX2t5ZlBCNHU?oc=5",
+      "date": "Mon, 30 Mar 2026 09:32:36 GMT"
+    },
+    {
+      "title": "車同士による衝突事故…東京と岐阜の男女4人が重軽傷 長野・茅野市の国道",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVlA0bTdrV0VaMzhqMVYySW0teE9YaFBlZmdsQ1ZpQXEtRlZhWTRZR25LeVFOTFYxWFk3QnhRbUdKalU1QnFiZnZkX0R6M3R2RXExaDk3RQ?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大型部品の下敷きに 機械製造会社、経営者男性が死亡 岐阜県大垣市（ぎふチャンDIGITAL）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eS1NaWVCQU42Z3VpNktTMmkzTFY3VlZqa185bkVBYkRXRmZ5eGVsYWhwRWtCZzBtV0VDWjRweC1vTklSeFNQWHpaanFTOVJ5SGFIdFgxSFd3cWxLczk4bXRqMzVLdUNDbldqY0lnTnRIbE03Ui1qS19HSG5hQms?oc=5",
+      "date": "Fri, 12 Jun 2026 10:02:22 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

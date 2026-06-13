@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-13T09:14:07.700967",
+  "generated_at": "2026-06-13T12:01:29.656238",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 81,
+    "weather": "強いにわか雨",
+    "temp_now": 20.0,
+    "temp_max": 21.7,
+    "temp_min": 12.8,
+    "precip_prob_max": 100,
+    "precip_sum": 10.4,
+    "wind_speed": 16.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.0,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 13.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "強いにわか雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 19.9,
+        "weather": "にわか雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 17.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 14.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月11日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zZ2FOTTBGdWQ0eTZQQWhZWGs1RHBpRER6RHZENEY5OEpMSG0xUUhqMWlIMkZfY004aWxYOGFCdmNKczZ1TmlHdFdZa1ZPNUZISUJhb1daR21ESEZsTE93amp4VncxVzBqWkFhQW5Rd9IBdEFVX3lxTE1OOVFfaDYybWdmT09PU1hzX1daeVJfZ2Zvck9hQnJleFBQRGU3NUx1RG9HYjJCd0hjUDJqZDJYd3J2Q0lHOGJ1VVRUcGlIaEE2bzFjeGJGQkV6UURvczVBWjZDZGtycTktSE14Y1ZVVnB5bDk0?oc=5",
+      "date": "Wed, 10 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "6月12日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pUFFUMmdkUVIzWkhham9Bb0xCb1dpazJxN0VFUW81bHdPWFN5akp3eEhhTDJnZnlXRkt2dlYwcHNLVllCMzFqWjRYM3FhZmlOVy1FQ0Z1WjkwS1k2azcyanFOQUNKUmhqMnlLVk1B?oc=5",
+      "date": "Thu, 11 Jun 2026 20:06:00 GMT"
+    },
+    {
+      "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
+      "date": "Tue, 23 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "６月４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IdFMzTTdFZnNnTWI5QkM5a3dDVWJHLURfVWJoSFFuQVQ1eE9lSy1kLVZOS1VRT2lDM3JzLXkyLUlvdWlUU3c1V3NGOGhjR0x4V1RxNTNkY0VFT0VzMjZsWnZ1bF9xYUc3OHFQR3p4RU0zUdIBd0FVX3lxTE4tUGxQRDFnVy1TWHNXQ3pXV1dZVzdUOWtUTGRLX3dyTlhuMUlmWWZDQ3c4R2N0ZnVSOS10VzZhYWJDU0lqMGdjRkFpS2twVTBpV1JIbU9hd3ZjSFQ5MHhYSnA5UHhJV0pOZ0d4SWZDemJIeWw0Zm9Z?oc=5",
+      "date": "Wed, 03 Jun 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "スタントマンが実演！ 自転車事故の危険性伝える 交通ルール順守呼びかけ 北海道置戸町 ｜ ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1RDZmctTXJLb0hsLVR6eV9VUzNKRjVsZHJCMnNHQ1BQSWNNQlNUbmwwcEFQbGo1dXhXMUt4aC1lWURldXZoVzJjRkZpY0VKUmlCM1duVEZLZXVONkp0MTRmWFp5STVWRFZSd1M3Ym9meEVIbV9IenFrTlJHQUQxcm9R?oc=5",
+      "date": "Thu, 11 Jun 2026 08:22:52 GMT"
+    },
+    {
+      "title": "20代女性が乗用車にはねられ死亡～40歳運転手を過失運転致傷の疑いで現行犯逮捕「固いものに乗り上げ、確認したら人だった」女性が国道に倒れていたか〈北海道函館市〉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1laFR5SjhTMV80ZS1yVmJkYnpBRFVDZTVnSFE4RGh4ZS1wdDMta0lIRElJYlFiOG5KR3U1bXlKVkZRWFh1TmN2Wm9GOW5jQQ?oc=5",
+      "date": "Wed, 10 Jun 2026 02:55:00 GMT"
+    },
+    {
+      "title": "25年の北海道交通事故死、前年比25人増の129人 2年ぶり増 4番目の少なさ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SHR4c0JfZXZHQWx2dVZqTlc0M0hjSktSS1dDUmdpVDBOSUZaRm1IVWt1U0c5dE1FWGo0RC0zWHl5N3hYNVlqUGdscjEwMzY0VTJuY1VkeE92QQ?oc=5",
+      "date": "Fri, 02 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "北海道の事故多発交差点、3年連続上位の現場は 運転手を迷わす構造 [北海道]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mdUJfWFNUVjV3S0JieE1uQk11MnM5MzhqaTYxWTB3TmlteUl0NldkLVY5U1d5eWxhaTZFQzBhZzB3YUZvRTQxdnBwYm8wMlRyaVNhNW5IVlZrdEpsRUlIeW9xYmxFY2c?oc=5",
+      "date": "Wed, 05 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "北海道小樽市のスキー場死亡事故 安全装置“無効化” 第三者委員会が報告書（2026年5月1日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aNkY1bno3WkNHdXVxVnJJWjFQM0Z6TjlWUnNoazI4Q013T3NCV1RFeEIycTJRRDN6X1dHUWNDTnE2dHFDRmJBNjlwWDhmLTZKelRyR1pLLTJxck4zZVI3VU9rV3NfVVNaR0NEcUVSWFVyQWV1LTNTRUtuRWQ?oc=5",
+      "date": "Fri, 01 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",
