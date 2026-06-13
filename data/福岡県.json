@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-13T22:25:49.857648",
+  "generated_at": "2026-06-14T00:46:48.642257",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 20.8,
-    "temp_max": 26.1,
-    "temp_min": 17.7,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 2.3,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 20.2,
+    "temp_max": 26.9,
+    "temp_min": 19.2,
+    "precip_prob_max": 21,
+    "precip_sum": 5.0,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.3,
-        "weather": "晴れ",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 18.0,
+        "temp": 19.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.7,
-        "weather": "晴れ",
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
         "temp": 22.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 25.8,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 25.2,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 23.4,
+        "temp": 26.5,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
+        "time": "15:00",
+        "temp": 25.8,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "18:00",
+        "temp": 20.6,
+        "weather": "強い霧雨",
+        "precip_prob": 20
+      },
+      {
         "time": "21:00",
-        "temp": 21.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
       }
     ]
   },
@@ -75,6 +75,11 @@
       "date": "Thu, 04 Jun 2026 10:10:00 GMT"
     },
     {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
       "title": "衆院選、福岡県警が取締本部 7600人態勢、「公正確保へ厳正に対処」",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VempHdXNkdWRnSDJyVkZiTkUtOHpxOEZRNzgzaVV1ZHFEZlFaS1lreld1aERWQkVWWFFXUl9IS2pMX1luSEpOOGE2V3lodC10d2QxVDFB?oc=5",
       "date": "Sun, 25 Jan 2026 08:00:00 GMT"
@@ -83,11 +88,6 @@
       "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
-      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,9 +107,9 @@
       "date": "Fri, 29 May 2026 07:00:00 GMT"
     },
     {
-      "title": "九州自動車道の多重事故、意識不明だった軽ワゴン車運転の成人男性が死亡…準中型トラックに追突される",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55djY3N2dxZW45VllPVmlxWUNHckRrTDhEZVNTWkNIQTVKRDRRTDBoRE84RjZnZzZzUWo3cnlocFoxMG4yNlZLdkVRNzFSZS1BTW55TXBja3RxaTVPcnV0TmJHcjN3VW5UQjM3SjlxXzl3QQ?oc=5",
-      "date": "Sun, 31 May 2026 07:00:00 GMT"
+      "title": "九州自動車道の7台多重事故、トラック運転手の男を逮捕 福岡県警高速隊",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HS0FFYk9UMENSbExuQVR2Sy1ucjY0NmlEc1hzNk12QXJ0Q3BSLVBkVUIyLWVaOC1zdFBJbDFvN3RWVUpjSGxiRmxNS3RnUWFoMjRCWVJR?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "自転車が歩行者はね、4日後に死亡 運転の高校生「考え事していた」 [福岡県]",

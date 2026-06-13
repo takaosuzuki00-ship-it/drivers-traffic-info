@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-13T22:16:54.024485",
+  "generated_at": "2026-06-14T00:46:21.386248",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 22.1,
-    "temp_max": 26.0,
-    "temp_min": 19.1,
-    "precip_prob_max": 86,
-    "precip_sum": 0,
-    "wind_speed": 10.1,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.1,
+    "temp_max": 24.0,
+    "temp_min": 20.0,
+    "precip_prob_max": 55,
+    "precip_sum": 0.9,
+    "wind_speed": 7.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.4,
-        "weather": "快晴",
+        "temp": 21.5,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 19.7,
-        "weather": "晴れ時々曇",
+        "temp": 20.4,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 19.5,
+        "temp": 20.3,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 25.8,
-        "weather": "晴れ",
-        "precip_prob": 39
+        "temp": 23.9,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 25.9,
-        "weather": "晴れ",
-        "precip_prob": 86
+        "temp": 20.9,
+        "weather": "霧雨",
+        "precip_prob": 55
       },
       {
         "time": "18:00",
-        "temp": 25.0,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 35
       },
       {
         "time": "21:00",
-        "temp": 22.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 20.6,
+        "weather": "晴れ",
+        "precip_prob": 6
       }
     ]
   },
