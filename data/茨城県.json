@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-15T00:03:11.672599",
+  "generated_at": "2026-06-15T03:02:25.403204",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 18.4,
+    "temp_max": 20.1,
+    "temp_min": 17.3,
+    "precip_prob_max": 100,
+    "precip_sum": 8.4,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.6,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "06:00",
+        "temp": 18.0,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 17.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 19.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "18:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 18.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "きょうの交通取締",
