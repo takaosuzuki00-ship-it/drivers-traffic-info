@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-14T21:02:57.603431",
+  "generated_at": "2026-06-15T00:03:38.701565",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.7,
-    "temp_max": 27.3,
-    "temp_min": 18.8,
-    "precip_prob_max": 42,
-    "precip_sum": 0,
-    "wind_speed": 6.6,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.4,
+    "temp_max": 20.4,
+    "temp_min": 17.4,
+    "precip_prob_max": 100,
+    "precip_sum": 14.3,
+    "wind_speed": 4.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.6,
-        "weather": "晴れ",
-        "precip_prob": 39
+        "temp": 20.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
       },
       {
         "time": "03:00",
-        "temp": 19.3,
-        "weather": "快晴",
-        "precip_prob": 6
+        "temp": 19.1,
+        "weather": "霧雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 19.1,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 18.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 21.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 18.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
       },
       {
         "time": "12:00",
-        "temp": 26.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 18.1,
+        "weather": "曇り",
+        "precip_prob": 63
       },
       {
         "time": "15:00",
-        "temp": 26.5,
+        "temp": 19.3,
         "weather": "曇り",
-        "precip_prob": 8
+        "precip_prob": 76
       },
       {
         "time": "18:00",
-        "temp": 23.7,
+        "temp": 19.1,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 10
       },
       {
         "time": "21:00",
-        "temp": 21.7,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "4トントラックとトレーラーが衝突事故 埼玉・北本市 横転したトラックが道を塞ぎ一時通行止めに",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOcDhuaGEtWTJVeHNSbmNiTkRBRW1UN1lfSUptS2FvRWJCSWJ5dGtmTnVDcF9OOUloZlBqSnl0bFk0aVlnUEhUeGNLdlhQLTQyRWw2UWduMA?oc=5",
-      "date": "Fri, 05 Jun 2026 23:58:00 GMT"
-    },
-    {
       "title": "男性死亡…大型トレーラーと軽が交差点で衝突 午後6時前の国道122号、右折車と直進車がぶつかる 搬送先で死亡確認 双方青信号の可能性 警察が事故原因を捜査",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zcjBmOXNVU3VhaWs2Q2I4SUEwU2prNVhrWVlxWWtOWkxGejlzV2N4dkxTaGdINXF0M2JyaTRyOFpDNUJfbnFDYmlOaw?oc=5",
       "date": "Sun, 24 May 2026 07:00:00 GMT"
@@ -105,6 +100,11 @@
       "title": "男性死亡…大型トレーラーと軽が交差点で衝突 午後6時前の国道122号、右折車と直進車がぶつかる 搬送先で死亡確認 双方青信号の可能性 警察が事故原因を捜査（埼玉新聞）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLVNwckYtR1FLRWN5NmNfM2Z2RVdNYzRFN2JkYTdoeFRic0FzMmN4R1hPWFZIUGpOX1FyOVFFX25rQWl2enp2cUVaLUdEV1kzdU81TjZzVm5wMEUzWGlCaHpvLWQzUTRUOEt6V242dHZuMWRLM2xZRnJmS0NZQzA?oc=5",
       "date": "Sun, 24 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "小学生の死傷者、昨年は488人…埼玉で発生した交通事故で 半数以上は下校や放課後の時間帯 抜け道や通勤で通学路に…通行規制の時間帯でスクールゾーンに侵入など、県警が違反者ら取り締まり｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLbktzQ2JsWko4WnV0VVJpcnlIT3FHOEhzNGdOSlZDWDR5M2diYnFHRWo3TVNnQ0JRVS1ub0FhbkQyNEVTY1J5RHdKU0UzUFhwa1phV2x1NXF1em9ZV2p5blBRSE9Xdw?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "埼玉の病院の医療死亡事故、調査報告「調剤時の混入否定できず」",

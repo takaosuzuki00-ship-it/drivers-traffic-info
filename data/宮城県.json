@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-14T21:02:08.991206",
+  "generated_at": "2026-06-15T00:02:26.116564",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 17.6,
+    "temp_max": 21.4,
+    "temp_min": 16.9,
+    "precip_prob_max": 44,
+    "precip_sum": 0.7,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "09:00",
+        "temp": 19.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 20.2,
+        "weather": "曇り",
+        "precip_prob": 43
+      },
+      {
+        "time": "18:00",
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      },
+      {
+        "time": "21:00",
+        "temp": 17.7,
+        "weather": "晴れ",
+        "precip_prob": 16
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "６月１０日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -43,14 +102,14 @@
       "date": "Fri, 12 Jun 2026 09:48:36 GMT"
     },
     {
-      "title": "16歳男子高校生が横断歩道上で乗用車にはねられ死亡　運転手の19歳男を現行犯逮捕　宮城・塩釜市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlc3ZiN3ZIcDZNUHpHYUJsYTltcXc2bzVsUnNIdGtfTU45Y2pqOTVQYWtYblQ4NzJ2elBTZnJNQU1VWEg1dkJPanFCYkt5ZEswb3NrN0NmWEZONGMzb0JRUHJVakJIdk51Uk9lRG1XYURJMGZEQ3J6amRuYjE1emvSAYQBQVVfeXFMTzdKNUNDenoyODBvN2FVVVlyUTQyOUJDUW1xOVJyMkpqTUdLeFBUYWV3QktWcGh3YVd2OFdCazB6THdmbDVYeWxlU0FqTm1iekhnaC1TbnZoLWRKTDFkSFpkZWNoOTJCREtENzZKcnYxY0hUNU5vQTR5TU54WVN2WnFnVW9F?oc=5",
+      "title": "16歳男子高校生が横断歩道上で乗用車にはねられ死亡 運転手の19歳男を現行犯逮捕 宮城・塩釜市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YWXJSMHFKTTFibGx5ZTcwNTVCU01rVWF3d0N2QVVYalFyQXYxTnBXOW5FdmJONTJyZGJxYzdDTW5GTTRtSXNTbS1XczBDT1dJcXNCR3hNTmxMUXlzWmZUTERBVEl6dlU?oc=5",
       "date": "Fri, 12 Jun 2026 22:23:00 GMT"
     },
     {
-      "title": "東北6県の交通事故死者は昨年213人 「交通安全のための行動を」",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCd3lWODh3NloxS2NSRnJESHRCMktsNGpxQjVUQUg4NUV3TThHeHlkQ2dhQXdPWGtSM0dlU0stM29sQ1owS080M0MxNktRbDFZOUctb3dYYjRzQkVjTm9GbFVGVHpxYVk?oc=5",
-      "date": "Sat, 17 Jan 2026 08:00:00 GMT"
+      "title": "16歳男子高校生が横断歩道上で乗用車にはねられ死亡　運転手の19歳男を現行犯逮捕　宮城・塩釜市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlc3ZiN3ZIcDZNUHpHYUJsYTltcXc2bzVsUnNIdGtfTU45Y2pqOTVQYWtYblQ4NzJ2elBTZnJNQU1VWEg1dkJPanFCYkt5ZEswb3NrN0NmWEZONGMzb0JRUHJVakJIdk51Uk9lRG1XYURJMGZEQ3J6amRuYjE1emvSAYQBQVVfeXFMTzdKNUNDenoyODBvN2FVVVlyUTQyOUJDUW1xOVJyMkpqTUdLeFBUYWV3QktWcGh3YVd2OFdCazB6THdmbDVYeWxlU0FqTm1iekhnaC1TbnZoLWRKTDFkSFpkZWNoOTJCREtENzZKcnYxY0hUNU5vQTR5TU54WVN2WnFnVW9F?oc=5",
+      "date": "Fri, 12 Jun 2026 22:23:00 GMT"
     },
     {
       "title": "横断歩道渡っていた男子高校生 乗用車にはねられ死亡 運転の19歳会社員の男を逮捕 宮城・塩釜市（ミヤギテレビ）",
