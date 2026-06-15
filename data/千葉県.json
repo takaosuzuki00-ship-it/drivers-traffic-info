@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-06-15T21:03:06.560560",
+  "generated_at": "2026-06-16T00:02:30.605784",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 17.8,
-    "temp_max": 20.9,
-    "temp_min": 17.4,
-    "precip_prob_max": 100,
-    "precip_sum": 11.9,
-    "wind_speed": 10.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.5,
+    "temp_max": 26.1,
+    "temp_min": 16.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 59
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 18.5,
-        "weather": "弱い雨",
-        "precip_prob": 98
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.6,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 17.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 18.9,
-        "weather": "曇り",
-        "precip_prob": 100
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 96
+        "temp": 26.0,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.6,
-        "weather": "晴れ",
-        "precip_prob": 31
+        "temp": 22.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 17.8,
-        "weather": "晴れ時々曇",
+        "temp": 20.4,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月15日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTX3ZMX2Z6ZVoyWGVIOTFYNk16a281N3JHMnFKOXZxbnhxdTRiamlNWG5YSUJHWUZHakFmc1BfWTlCTFNFb0pHcHFPaE5ta1NqeDB3MzkwRQ?oc=5",
-      "date": "Sun, 14 Jun 2026 20:00:00 GMT"
+      "title": "公開交通指導取締（２０２３年９月１４日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVWm9Lckp6Y2pfeUpHbDY3X2NCZXBOeUg1LWdQNjdJdndEMDZoRXAxcFpNNmtfTlQ1dHprd0UwU0J4bHdaek13RUxZdW9vb0trNUVtVGlhWQ?oc=5",
+      "date": "Sun, 14 Jun 2026 22:50:07 GMT"
+    },
+    {
+      "title": "6月10日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2REZGV3N6elFHYjRmX1lLbFpjVTVkanp0WjdNcGFoOW5paWhienBlZkNac0p3TWpmVEhfeTNaZWVaTWRMdjd1S2QxLU80OHg1Vy1abHlkaw?oc=5",
+      "date": "Tue, 09 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月6日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxclRyRVZ6eWVSNTRVUzhhV0tON1lIV1ZDbFoxR2VUQ0laZDBGbjY2Z1FsS1RwMXVPRFZpWW5oU24xYW5ZSkhFQzlWRkxNR3lHNFhLUWJDWGdFQQ?oc=5",
+      "date": "Fri, 05 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -75,19 +85,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "公開交通指導取締（２０２６年２月１８日）",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XcWV4YlRCVTJndVZQakRrdzJ0eHc0MU50bWtYSG10VDlsZW5pSmFmSmh6WkJLQks5T24tUGpfYTRBNnVqNVcwTEE5TjRKd3RycVdFRlJ5ajY?oc=5",
-      "date": "Tue, 17 Feb 2026 20:18:33 GMT"
-    },
-    {
       "title": "6月7日（日）【岩手県】　日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qUnJwcjlhTjdOT3o1TEZEUWJfX05OeVRSVWNLcGV6a3JfeDhBN3ZUb1B6R1N4WnZVNUtfcFNiWUtLNlh0UVhTR3JESzl6X08ycGJaSTNheXBwa1MtZ0lveFdYLXIwMVA4OHFrQS1MZ9IBdEFVX3lxTE9vbUNVc3l5SmQ4VzZjaWt6R2RpT214WDRaZ3g2QXdHb2ZLd2tEWHdqZjBqbGxKcEstb2pJWTZKNWxMR2t3ejVwVXFBajE5N293d3gyMzlyQVB5Ty1JTXh6VmhzTzVxWHpsTUlGN0o3SnVSRUVT?oc=5",
       "date": "Sat, 06 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月6日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxclRyRVZ6eWVSNTRVUzhhV0tON1lIV1ZDbFoxR2VUQ0laZDBGbjY2Z1FsS1RwMXVPRFZpWW5oU24xYW5ZSkhFQzlWRkxNR3lHNFhLUWJDWGdFQQ?oc=5",
-      "date": "Fri, 05 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [

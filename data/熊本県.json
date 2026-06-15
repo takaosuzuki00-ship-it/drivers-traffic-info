@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-15T21:06:27.370256",
+  "generated_at": "2026-06-16T00:04:41.041398",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 23.7,
-    "temp_max": 26.6,
-    "temp_min": 20.0,
-    "precip_prob_max": 98,
-    "precip_sum": 2.0,
-    "wind_speed": 4.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 22.7,
+    "temp_max": 27.6,
+    "temp_min": 22.6,
+    "precip_prob_max": 67,
+    "precip_sum": 0,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.5,
+        "temp": 22.7,
         "weather": "曇り",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 21.0,
+        "temp": 22.7,
         "weather": "曇り",
-        "precip_prob": 12
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 20.1,
-        "weather": "弱い雨",
-        "precip_prob": 61
+        "temp": 23.4,
+        "weather": "曇り",
+        "precip_prob": 33
       },
       {
         "time": "09:00",
-        "temp": 22.3,
-        "weather": "晴れ",
-        "precip_prob": 88
+        "temp": 24.7,
+        "weather": "曇り",
+        "precip_prob": 67
       },
       {
         "time": "12:00",
-        "temp": 26.0,
+        "temp": 26.6,
         "weather": "晴れ",
-        "precip_prob": 63
+        "precip_prob": 31
       },
       {
         "time": "15:00",
-        "temp": 25.6,
-        "weather": "曇り",
-        "precip_prob": 98
+        "temp": 27.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 25.0,
-        "weather": "曇り",
-        "precip_prob": 65
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 23.7,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 24.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
