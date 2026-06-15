@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-16T03:01:57.614783",
+  "generated_at": "2026-06-16T06:01:46.542588",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 16.1,
+    "temp_max": 23.1,
+    "temp_min": 14.9,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.9,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月7日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -26,16 +85,16 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "6月9日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DMndlUjkyaGc0elpzSnRXWkxsWUJpdUFjWHhuOXZIRDJjX21LMXBEanNhd0F5OGlvU1pNOXNFTHFEdWV3dzJBSzBZU091TDFlR3ZqLWdvQ0VRQQ?oc=5",
-      "date": "Mon, 08 Jun 2026 20:00:00 GMT"
+      "title": "6月6日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zS1J6WHhwQkVNMkFZV3dmcEZOd010elRDUVJmU01nTDQ1amlZWTRFTVU1NkJkYldYak9QZjdZQVBFOGl2ZHBlOVhhdkVlcnpZaW02Q1dPVDZpeXJJVUlhTUlKSFdlb0k?oc=5",
+      "date": "Fri, 05 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "秋田北―秋田中央ＩＣの上下線 事故捜査のため２８日に通行止め",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFMXA2RXU3TTlhSEJ5ZGpoUXdIYWVyazlOcTUxOHNwVzJBbkJhWTFqS1YyZ0JfWkdFeEU3YWhBaEo0UmtZMTBYbFN0UE8zbnkzc1ZnbU9IZjdvTjdCaVhjSGFn?oc=5",
-      "date": "Wed, 20 May 2026 07:00:00 GMT"
+      "title": "北秋田市栄のスーパー、入り口の柱に車衝突 運転・同乗の２人軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQ2NTTXNXck16cVpPbllPUFdaRmlVMWVYc3JJQkVxRmltS1h3cnNYTnJtYXdWQkJSNjBUdXRQemlZUjB6aHFXNVE4XzZuT3piTzczRG9IZDdEdWNtYVc2TzJR?oc=5",
+      "date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
       "title": "【交通事故のない秋田県へ！】協定締結のお知らせ",
@@ -43,14 +102,14 @@
       "date": "Mon, 25 Aug 2025 07:00:00 GMT"
     },
     {
-      "title": "秋田市泉南3丁目の交差点で車同士が衝突　84歳の女性が大けが　12日　秋田",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0NqUWNvQWtlUGxuNXZRUFUtS0g2Mzc1eDdVeGFPQldodFhDS0dNM1ladFVmSjNhYzFvS0t3MF90R19aallWTERfUTRadk56emk5aTdHT2Y5OUJ3ZHIzQnpPSTN1Tk8tcW5iRXdtRUFPYVNldzdaaXdXTU9qdG9yVFNRcGgxaUtzSldwT1VB0gGAAUFVX3lxTE1YMUREZ1NoNGFRNUctdUlraHZqcVk0SjVBbEp2djk4SDM0SE1sU1BHWXJoYkFDay14VUQzZ3M1MEZwbmN6LXVrMG1lb0w4dzVyaTUwUHh3ZlZld3VPUFR3ZzF6N3ZjTHNJcUJnVGVTbWpiU2NUaG1jY1UwQS1kcWg5?oc=5",
-      "date": "Mon, 15 Jun 2026 00:33:00 GMT"
-    },
-    {
       "title": "秋田市下浜の国道7号で車4台が絡む事故 1人が大けが 20日 秋田（2026年5月20日掲載）｜ABS NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1Z2bGxOdmF6V2I3NHhoQ0ZiMnRTTGJiOUpfck1qbUU5OUg1V1VnRXJSV2lrcXl3MXR0UmlrTFNtalRkNkdMVGpMMy1JV2xaSjR2TllwTzliSm1zQm01Z0I1djhEcXIyS3h3MTRXQ0hHQU5YUVZIVFJya3VCWnVidU9saWtieU0?oc=5",
       "date": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋田市泉南3丁目の交差点で車同士が衝突　84歳の女性が大けが　12日　秋田",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0NqUWNvQWtlUGxuNXZRUFUtS0g2Mzc1eDdVeGFPQldodFhDS0dNM1ladFVmSjNhYzFvS0t3MF90R19aallWTERfUTRadk56emk5aTdHT2Y5OUJ3ZHIzQnpPSTN1Tk8tcW5iRXdtRUFPYVNldzdaaXdXTU9qdG9yVFNRcGgxaUtzSldwT1VB0gGAAUFVX3lxTE1YMUREZ1NoNGFRNUctdUlraHZqcVk0SjVBbEp2djk4SDM0SE1sU1BHWXJoYkFDay14VUQzZ3M1MEZwbmN6LXVrMG1lb0w4dzVyaTUwUHh3ZlZld3VPUFR3ZzF6N3ZjTHNJcUJnVGVTbWpiU2NUaG1jY1UwQS1kcWg5?oc=5",
+      "date": "Mon, 15 Jun 2026 00:33:00 GMT"
     },
     {
       "title": "「酒蔵の再生人」が酒蔵で酸欠か 日本酒ブームの陰で相次ぐ死亡事故 [秋田県]",
