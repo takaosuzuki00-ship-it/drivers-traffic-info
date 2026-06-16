@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-16T21:01:57.110880",
+  "generated_at": "2026-06-17T00:01:39.336145",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.9,
+    "temp_max": 30.3,
+    "temp_min": 15.5,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月15日（月）【岩手県】 日中・夜間の交通取締情報 （IBC岩手放送）",
@@ -16,19 +75,19 @@
       "date": "Sun, 14 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月16日（火）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHVOZFhRZ1hsVUU5M0Q3S0M1Y2RzSEpBYkVtaHozZDJpOVpxa2pqRzBoVEVudlQzcHRzTEFXTURmV0pUdWJEbk03dUR2cFEweXBLaUFiNHVOb0F4QmZvUGZ2QkRYUkJ2SzVXcXVOckhEZFBudjVlenk2S3dzaTVrWThSMTBNY0ZxUnF2UTF3?oc=5",
-      "date": "Mon, 15 Jun 2026 20:43:23 GMT"
-    },
-    {
       "title": "6月12日（金）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83b3o2SmFmb0pCUHRiNFhqR1hTa0F5V1I5cFQ4bWpQN2UxczRpMTdBWm9xdWROdTJ3N296Nlk4czh1Y3ZlUDF0Z0w0NExkWWZTMEZ6ZUlaOA?oc=5",
       "date": "Thu, 11 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月14日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5idHlRaEJWN2hDYnFZbFJqNnlMbUFZc2VnZEI4emxraGk3TTk5NU0yWmhpSk9LTmoxR3d4elBXNjlGQS15cUw5bTFOR0FGZi1oYnBMOEpTaUdnUQ?oc=5",
-      "date": "Sat, 13 Jun 2026 20:00:00 GMT"
+      "title": "6月16日（火）【岩手県】 日中・夜間の交通取締情報 （IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KclFOb2tUS2pNMkVfWTVVOEY2bk9fYzBYS2xrWi1KOVl5cDNSS1FLOXE4aFZZSkQ1aFBPOUp5cmZxMHBTOXo0c1o3emExTUY1YXlDVlV0OElBOWdveHlNZnI4LW1yQlBPZXVyQzg3QmVWLXZSWXNzRXVWN09SRG8?oc=5",
+      "date": "Mon, 15 Jun 2026 20:00:34 GMT"
+    },
+    {
+      "title": "6月16日（火）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHVOZFhRZ1hsVUU5M0Q3S0M1Y2RzSEpBYkVtaHozZDJpOVpxa2pqRzBoVEVudlQzcHRzTEFXTURmV0pUdWJEbk03dUR2cFEweXBLaUFiNHVOb0F4QmZvUGZ2QkRYUkJ2SzVXcXVOckhEZFBudjVlenk2S3dzaTVrWThSMTBNY0ZxUnF2UTF3?oc=5",
+      "date": "Mon, 15 Jun 2026 20:43:23 GMT"
     }
   ],
   "accident_news": [
@@ -43,14 +102,14 @@
       "date": "Wed, 25 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "大型トラックと衝突 乗用車運転手が重傷 運転席と助手席の部分 大破 岩手県八幡平市（岩手めんこいテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05LXVpRko0bEUzRS1KUEgyWE96ekU2dVBlMm5xMmxfbTBaYXRab2xBWXVzNWMzcnV4MXpfZ3VwTjVGMEkxcnB5NnJES2xOblpMYkR2VGxoUlUzdXI0S1pkQ01SMjNkdnZFWmFlNkJGNkpwSXlqTzF2WlVrVmlmU3M?oc=5",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "【速報】トラックと乗用車が正面衝突 乗用車の運転手が死亡 この事故により国道46号線通行止め 岩手県雫石町",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CQ1lFSnhKWGxzd3lUMy1lN2Q4RC1HT0hTZ0JORDMyTy1pZVFYNk1UNGVMWFhibWhOdEJvWnhZelJqeF8xZk1teWJkMUwyZw?oc=5",
       "date": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大型トラックと衝突 乗用車運転手が重傷 運転席と助手席の部分 大破 岩手県八幡平市（岩手めんこいテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05LXVpRko0bEUzRS1KUEgyWE96ekU2dVBlMm5xMmxfbTBaYXRab2xBWXVzNWMzcnV4MXpfZ3VwTjVGMEkxcnB5NnJES2xOblpMYkR2VGxoUlUzdXI0S1pkQ01SMjNkdnZFWmFlNkJGNkpwSXlqTzF2WlVrVmlmU3M?oc=5",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "スキー場の駐車場にパラグライダーの男性（71）落下 病院に運ばれるも死亡 上空20〜30mでバランス崩す 岩手・八幡平市",

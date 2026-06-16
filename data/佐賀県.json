@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-16T21:05:59.218383",
+  "generated_at": "2026-06-17T00:04:25.538256",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 24.4,
-    "temp_max": 29.2,
-    "temp_min": 21.0,
-    "precip_prob_max": 33,
-    "precip_sum": 0.4,
-    "wind_speed": 4.3,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.3,
+    "temp_max": 28.0,
+    "temp_min": 21.1,
+    "precip_prob_max": 19,
+    "precip_sum": 8.2,
+    "wind_speed": 2.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.2,
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 21.2,
         "weather": "曇り",
         "precip_prob": 2
       },
       {
-        "time": "03:00",
-        "temp": 21.3,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 21.3,
-        "weather": "曇り",
-        "precip_prob": 4
-      },
-      {
         "time": "09:00",
-        "temp": 22.9,
-        "weather": "曇り",
-        "precip_prob": 27
+        "temp": 22.2,
+        "weather": "霧雨",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 25.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 33
+        "temp": 22.5,
+        "weather": "弱い雨",
+        "precip_prob": 18
       },
       {
         "time": "15:00",
-        "temp": 28.9,
+        "temp": 26.8,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 16
       },
       {
         "time": "18:00",
-        "temp": 27.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 24.4,
+        "temp": 24.5,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 4
       }
     ]
   },

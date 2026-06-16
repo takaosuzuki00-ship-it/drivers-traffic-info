@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-16T21:03:39.630230",
+  "generated_at": "2026-06-17T00:02:58.758039",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 22.2,
-    "temp_max": 26.9,
-    "temp_min": 17.9,
-    "precip_prob_max": 90,
+    "temp_now": 21.5,
+    "temp_max": 26.1,
+    "temp_min": 19.9,
+    "precip_prob_max": 22,
     "precip_sum": 0,
-    "wind_speed": 4.7,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.4,
-        "weather": "晴れ",
-        "precip_prob": 14
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
       },
       {
         "time": "03:00",
-        "temp": 18.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
       },
       {
         "time": "06:00",
-        "temp": 18.4,
+        "temp": 20.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 22.1,
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 26.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 22.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "12:00",
-        "temp": 25.7,
-        "weather": "曇り",
-        "precip_prob": 8
-      },
-      {
-        "time": "15:00",
-        "temp": 26.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
-      },
-      {
-        "time": "18:00",
-        "temp": 23.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 39
-      },
-      {
         "time": "21:00",
-        "temp": 22.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 10
       }
     ]
   },

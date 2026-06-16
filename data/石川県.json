@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-16T21:03:20.970603",
+  "generated_at": "2026-06-17T00:02:40.174795",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.2,
+    "temp_max": 25.0,
+    "temp_min": 18.6,
+    "precip_prob_max": 75,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 23.8,
+        "weather": "晴れ",
+        "precip_prob": 75
+      },
+      {
+        "time": "18:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月15日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -26,21 +85,21 @@
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "６月１５日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VaWtXbEZGckFqY0dfeTFJbnZuNUEyMUY5TXpjdWxCTHNkb0Z0eVI2SmtaUDR3LUJnN0ZFTkprWHItQUU2SjN3RGdlYUtiUm5QZElnUTVhYw?oc=5",
-      "date": "Sun, 14 Jun 2026 20:00:00 GMT"
+      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "石川県能美市寺井町で自転車の高齢女性がトラックにはねられ死亡、45歳男性運転手から事情聴く",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83d1FSYkM4dEl3YV9XTTVYMm4yNFFiQnJXeUZCWS1zQUZCTU1fbm5WbEFVU3IwYnhsUmVTQVVkY0NYSzZNZkRVa1dvZTFrQQ?oc=5",
-      "date": "Thu, 11 Jun 2026 08:30:00 GMT"
-    },
-    {
       "title": "作業中に車両の間に挟まれる 金沢市湊の工場で６９歳男性死亡",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ieHY5OFdzQ0NRV0NjblNKVkhZSzVzdVpHWVRUdFZkbHdSOWFuSGl3Si11ajNCQlZIM215Rm12X1pHR2UtU3pSY19JQWZLMTNKTTVQWVQzRTFramZ0NTNJUnZhSm5zbE0?oc=5",
       "date": "Sun, 14 Jun 2026 02:45:00 GMT"
+    },
+    {
+      "title": "石川県能美市寺井町で自転車の高齢女性がトラックにはねられ死亡、45歳男性運転手から事情聴く",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83d1FSYkM4dEl3YV9XTTVYMm4yNFFiQnJXeUZCWS1zQUZCTU1fbm5WbEFVU3IwYnhsUmVTQVVkY0NYSzZNZkRVa1dvZTFrQQ?oc=5",
+      "date": "Thu, 11 Jun 2026 08:30:00 GMT"
     },
     {
       "title": "石川県金沢市の国道8号、交通事故で車線規制 4月25日朝、金沢河川国道事務所発表",
