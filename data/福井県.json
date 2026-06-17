@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-17T15:03:39.289961",
+  "generated_at": "2026-06-17T18:02:30.606236",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.0,
+    "temp_max": 30.7,
+    "temp_min": 20.7,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 8.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【交通取締情報】福井県警 ４月８日",
@@ -33,19 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "電動車いすの88歳男性、車にはねられ死亡 福井県小浜市の県道トンネル内",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ETS1GT0s1aU1UbnFKbjZxSHN2YVZoYzI1ZEJacTJpOV9HR2ZyMVpPYlNBWHAzSEtETXVpMm9rQkVwUUhzbC0ybEtleng1Vnl5Wnc3LURTR0tlYlBLcVE?oc=5",
+      "date": "Tue, 16 Jun 2026 21:10:00 GMT"
+    },
+    {
       "title": "電動カートの88歳男性がトンネル内で軽自動車にはねられ死亡 福井県小浜市の堅海坂トンネル（福井テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjbXdjeGtrUnRUT295RW1tajh2cXlVUG5NNk5SV2Q3cHB3VTVlV3l6ZEZLUnNqM0NRWVZrb3d1VGRSWXN6aVd3M0lndUhlMC0xT3FjX2UwYzZJRHlRQWRZS0czLWdsNXBZRG5TWVc1M1RTSGJ3bzJsaERvV21RaDA?oc=5",
       "date": "Tue, 16 Jun 2026 12:42:01 GMT"
     },
     {
-      "title": "福井市の通称・芦原街道で事故 78歳の女性が乗用車にはねられ重体 片側2車線で横断歩道なく…警察が事故の原因を調べ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXZDZWFBT3BSakJfcjRtQXNwTzZVcFo3NkRrNDhJSi15LVB5Mk9UV0xQdjRaSGc1azJkV2hobUJ6WHVuVkJmZ1h1N0dsTHRORUtPNkczanUwQUFCd2ViejQ4WVplQWk5NnhzWTJrWVBDT2FNbzFsUHZ1ZllBeUZleE9YQ192b0U?oc=5",
-      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "電動車いすの88歳男性、車にはねられ死亡 福井県小浜市の県道トンネル内",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ETS1GT0s1aU1UbnFKbjZxSHN2YVZoYzI1ZEJacTJpOV9HR2ZyMVpPYlNBWHAzSEtETXVpMm9rQkVwUUhzbC0ybEtleng1Vnl5Wnc3LURTR0tlYlBLcVE?oc=5",
-      "date": "Tue, 16 Jun 2026 21:10:00 GMT"
+      "title": "深夜に県道を歩いて横断…乗用車にはねられ53歳男性が死亡 越前市国高の武生・美山線 福井｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOGlaZnJfQWoxWnBGZk9FSDE0dUk5WHZ2dWRVZ3hzdDNRelk2dXRxSlhmaWJua0cweHhkVWNvdDZuVExIbTVGbXQ4alpzWk1vUmZOTWdHcm80UVptNUxRaTFmbzZWU3FNMmMtZm9oemNSV3k3SE9ncnF6SHpWRGduUkJxemZqZVRBVldDVUtXRlBidVIwNF90bm05anp2M1d4bmtJeThGRzc0eXVpa2VNNGM4TWxCVEw1Mkx4UEZwZTVKVXlzNzdqOWgwX3Jvb3U1X2RkWmh0VGVJM1hnTjJ6angwVUZlNWxfSlVWTVpMN29Gbk5jZzJOV0hDN3hTdlBiQWU0cXVGbWxzMU9BQTltZktjdEJlOWRNVktKY25oUF9NNzN2OWR6UXVlLVJnTUlLemlidHZORzJnT1Y2RmNERGRzMUwxaHJtYkwxaVl5QQ?oc=5",
+      "date": "Sat, 16 May 2026 07:00:00 GMT"
     },
     {
       "title": "ベトナム人技能実習生2人死亡、2人行方不明の海中転落事故 現場の三国防波堤で対策工事進む 福井県が立ち入り禁ずるも…釣り人の侵入が後を絶たず",
@@ -53,9 +112,9 @@
       "date": "Wed, 27 May 2026 10:37:20 GMT"
     },
     {
-      "title": "雄島近くの沖合に「救命胴衣を着た人」、通報受け救助も死亡確認 福井県坂井市",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FMExqZFZodW5CVDNxMzJmTHI0UzNuRWx2aThadUNpUGhfOWJMcXNnUG5qbFFsa28wblZYRUlsR3dvdlVNX0luYkJJdUdBaXQyVnF5T1otMGkyZGllbkE?oc=5",
-      "date": "Wed, 10 Jun 2026 12:56:00 GMT"
+      "title": "電動車いすに乗っていた88歳の男性が軽自動車にはねられ死亡 小浜市の堅海坂トンネル 車道を走行していたか",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUc1bmY2aHV4UG9ucjkxYWpJN1Rqb3d3OEZkcXMtVXJyeXdKUGtITHRMT1NhZVplX2xLa1FtNmpiSVY5VEZHMng5OHJCSTA2amNEY0xCTExrak5KYlM1aTRJZUJLZW96X0FOLXpZcEpHOE9NZFRNTF96OFM3Wm94WU1nRk9TbFU?oc=5",
+      "date": "Tue, 16 Jun 2026 10:16:00 GMT"
     }
   ],
   "official_links": [

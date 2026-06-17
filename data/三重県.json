@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-17T15:04:26.699902",
+  "generated_at": "2026-06-17T18:02:59.956435",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 21.5,
+    "temp_max": 22.5,
+    "temp_min": 20.1,
+    "precip_prob_max": 88,
+    "precip_sum": 3.0,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 27
+      },
+      {
+        "time": "06:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 57
+      },
+      {
+        "time": "09:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "12:00",
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 39
+      },
+      {
+        "time": "15:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 35
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 20.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月14日（日）【岩手県】 日中・夜間の交通取締情報",
@@ -16,9 +75,9 @@
       "date": "Wed, 17 Jun 2026 00:06:01 GMT"
     },
     {
-      "title": "6月12日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83b3o2SmFmb0pCUHRiNFhqR1hTa0F5V1I5cFQ4bWpQN2UxczRpMTdBWm9xdWROdTJ3N296Nlk4czh1Y3ZlUDF0Z0w0NExkWWZTMEZ6ZUlaOA?oc=5",
-      "date": "Thu, 11 Jun 2026 20:00:00 GMT"
+      "title": "6月13日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TWUzdWxwdlZNX2ZwYTQycGItcnFwQmJpdGxDWmJKUVdTWGJPOFZqWUR5ZV9NcFMtWlQxbkd6TGQ1Sk52NEV1cE5KTERWVi0yY3czc0I4SQ?oc=5",
+      "date": "Fri, 12 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "6月17日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "三重県が交通死亡事故多発警報 死者31人、全国ワースト（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WeTd4eUktdzJIczRYZjVuellTcTRXME9PV0c0bGw5MnBHQmQxandqUmp2VUlrZ0UxQ0sxbU1jbTVEMEZHSGNiT05ORlBfQXNQWENPSEs2bHZIT3pzLU5tM0R0TDg4azBqZ3pQMU5PSlRPQU54eWxPYnhuakhRVjQ?oc=5",
+      "date": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "無免許運転で追突事故、女性にけがをさせて逃げた疑いで18歳男を逮捕　酒気帯びの疑いも　三重・津市",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pWnhqMFRlbzR5TEJVUGF3OUQ3Q1B2Q2dVVEd4ajNMQU1ZUHBlOWN4ektDNklGdUw4WkNXc0J4VkRHTjY3TGRoNkRpVU5iTnRrWlHSAWRBVV95cUxNNGNMbjNRNlZOUFJob0p4N1hPR0lXajctUmpYNXV1VzdFaVlCdUZubzI0aUl3d1MyX1hFX0dZNHBfSXB6TWJHY3BaYkR5WEVrelQzWDNvNXMtRkotNTJqbi1IUWVZ?oc=5",
       "date": "Tue, 16 Jun 2026 14:17:00 GMT"
-    },
-    {
-      "title": "「13秒ほど動画で脇見」 新名神6人死亡事故で初公判 三重・津地裁（三重テレビ放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ka2JSNHgxd2tnb2NzdnN4RjM1dVJFR1VCX0stNDVMbldCM3FtWksya0JWQmYzcWY0M2RrTjloTUxOdnJSR1ZJS2ViUjVfTEVUVWxHck01eGNEWTNkSUk0ekpGM1VadzRlZHhHc2JXRHpPbkwzTXpXZXd0ZGp6dkE?oc=5",
-      "date": "Thu, 11 Jun 2026 01:01:57 GMT"
     },
     {
       "title": "三重県で交通死亡事故が相次ぎ 県が市町と臨時の対策会議開催",
@@ -54,7 +113,7 @@
     },
     {
       "title": "三重県内の死亡事故４件 春の交通安全運動期間中、人身事故40件増の95件",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BUW5CMGVheXpNMHBRWFMtcHBnTHp3bHRfdUQ4a1hzMzlCVVNIODlTTEp2c2NMNmVDdXJfRlo0Z3lZdjBGeFhsUmlWdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNUNyVE95bmdGNG56RXRsaDZNeFF6dmp5NjZrUHk5Qk1hUWhlbTgzdDBDTWRjaFZrSU9oN2J4dVFtM0JleXkyNmVJVXVkNDh2azMzOEY5NkhvMF9Ga3haUDRGTlBOUXVBUDhMYURQNm5tc2F5bUFOLXh4N0t6MFk2TjA4WGJuZU1FTVFYbjFnNG1IcFhOX2NEUnF0TEdTQnl0bFpCYWlXc2xOUERzU2dQZFJxTnBpSHR6QTFES2JJTWdOX3F1cGZOTDZxRUw0VU5RQjBOZ0MzN1gzcDdJYVZFLXBrZlpZWG1LRDN0Z192ZnRadmRWRGNuLTFrZk50eXEzdF9hM0hFSVVUeWljcVZSakVOYy0tb1cwaS1TNHB3THlrc1Z2SHlDOGtUQUVpZXdZLXl0NUJ4LXMtaTVtSzFTUUxEVUlFSmUxN1YtQUdWMTZSRU1HMzJSSU9zRnFVQQ?oc=5",
       "date": "Sat, 18 Apr 2026 07:00:00 GMT"
     }
   ],
