@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-17T06:04:41.438085",
+  "generated_at": "2026-06-17T09:03:59.002557",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.4,
+    "temp_max": 26.9,
+    "temp_min": 21.2,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.7,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 26.8,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 25.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "秋の交通安全運動 期間中の交通事故や取り締まり状況を県警が発表 交通指導取締状況は前年度より265件増加 鳥取県",
@@ -38,14 +97,14 @@
       "date": "Sun, 14 Jun 2026 10:42:00 GMT"
     },
     {
-      "title": "JA共済連鳥取が鳥取県警へ交通安全グッズを寄贈 こどもの交通事故を対策 鳥取県鳥取市（2026年6月10日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWhFOEZfLVM2RzV2dk9kV2ZhUk85bFc1VXQtaUJxYU13QTJoSGxPbnZlcjRIcFdjOTAyLWs4aVVUdTBMbm1BcWRiTnhiYU5tOHkxVDRNcXlnN3FmYXEtRlpmZ2JnNWVhVkpPZGNMQnB5R01Td0E3ZEFVZHdEb3ltRXdVZlljRVU?oc=5",
-      "date": "Wed, 10 Jun 2026 10:06:00 GMT"
-    },
-    {
       "title": "パトカー追跡中に自転車事故 逃走の少年を逮捕 鳥取",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JQ0pEZGw4WjdfczJHWDhZNzhRczZvMno3MjVOZ3BrQVNieVE1enpBN0VqcjRvaHd1QmJHNEh3QS1PZGNKZUJEVTVreDJkYmNueW1LejdIRlE?oc=5",
       "date": "Thu, 11 Jun 2026 02:37:00 GMT"
+    },
+    {
+      "title": "JA共済連鳥取が鳥取県警へ交通安全グッズを寄贈 こどもの交通事故を対策 鳥取県鳥取市（2026年6月10日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWhFOEZfLVM2RzV2dk9kV2ZhUk85bFc1VXQtaUJxYU13QTJoSGxPbnZlcjRIcFdjOTAyLWs4aVVUdTBMbm1BcWRiTnhiYU5tOHkxVDRNcXlnN3FmYXEtRlpmZ2JnNWVhVkpPZGNMQnB5R01Td0E3ZEFVZHdEb3ltRXdVZlljRVU?oc=5",
+      "date": "Wed, 10 Jun 2026 10:06:00 GMT"
     },
     {
       "title": "鳥取：消火器噴射ＳＮＳで予告 逃走中事故１人重体 交差点に見物１００人超 「暴走族来る」便乗か ：地域ニュース",
