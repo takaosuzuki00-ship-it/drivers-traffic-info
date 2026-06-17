@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-17T21:02:31.361456",
+  "generated_at": "2026-06-18T00:02:21.916446",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.2,
-    "temp_max": 26.9,
-    "temp_min": 17.6,
-    "precip_prob_max": 21,
-    "precip_sum": 0,
-    "wind_speed": 2.9,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.7,
+    "temp_max": 25.0,
+    "temp_min": 19.3,
+    "precip_prob_max": 100,
+    "precip_sum": 29.3,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 55
       },
       {
         "time": "03:00",
-        "temp": 17.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 19.5,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 18.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 24.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 26.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 55
       },
       {
         "time": "15:00",
-        "temp": 25.8,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
+        "temp": 22.6,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "21:00",
         "temp": 21.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "weather": "晴れ",
+        "precip_prob": 4
       }
     ]
   },
@@ -75,6 +75,11 @@
       "date": "Thu, 11 Jun 2026 09:25:00 GMT"
     },
     {
+      "title": "6月13日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TWUzdWxwdlZNX2ZwYTQycGItcnFwQmJpdGxDWmJKUVdTWGJPOFZqWUR5ZV9NcFMtWlQxbkd6TGQ1Sk52NEV1cE5KTERWVi0yY3czc0I4SQ?oc=5",
+      "date": "Fri, 12 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "6月14日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91UkVOdjd2QzMyWTlRaU1BX3hMb1BRcUNWdXdldGNkb2JzdjA4d0dSMVZvNWNjMFB0Rm9kem5vLVFWdXI2ay1BSW9QdExmT25BVURCMFRYM2Q0UQ?oc=5",
       "date": "Sat, 13 Jun 2026 20:02:00 GMT"
@@ -83,11 +88,6 @@
       "title": "6月12日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12THp1WnRwWjdsdWRhQmQ1MzRjT2VFNGVBZjVHck1FVVFFX1BHUzMyVkVqMkFLNldkaEE5WmFlWWs0ZlBzYlVZdzN5QTdMZUlidFhsN3lyNA?oc=5",
       "date": "Thu, 11 Jun 2026 20:02:00 GMT"
-    },
-    {
-      "title": "6月11日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PTzBJVklJdUJ0RWJrU0FHVWVzeTZNZUI2QmtIdFRxclJSNGd1V2xhSmtlLVZzb2IyVkU3OWtQVWYwSWY4MXdtY3E1am8tMmRmZGJ5NmNfSQ?oc=5",
-      "date": "Wed, 10 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,24 +97,24 @@
       "date": "Wed, 17 Jun 2026 03:44:00 GMT"
     },
     {
-      "title": "東京・文京区で3台が絡む事故 中央分離帯を乗り越えて衝突 小学生の女児ら3人搬送",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92enlqVUotMFlnRW1GTjlzaTdnN0trb3ViUU51bEs3Q2JTb2xfdElGZ2ZacUNSQVdPODZ5NHpXVU9RUFQwSVVZUDV2ejc2N2s?oc=5",
-      "date": "Tue, 09 Jun 2026 13:15:58 GMT"
-    },
-    {
       "title": "「もう廃止にしろ」都内LUUP初の死亡事故発生で“不要論”が再燃、警視庁が明かす“東京が7割”の現実（週刊女性PRIME）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWEZBeFdWTFlzZVNPS0tqUVdXSXppajB2REpteXR5V3hkclROSWtVUzhrdW9rRnZQOWJwcmp5TGFQakpuZVZid1N2blFZWGdqSU0ybjFDTGkxdFJtMXlnSEl5czZUMzg0ZmwtQldndUFtalRXV2ZZWld2MmMzVm8?oc=5",
       "date": "Wed, 10 Jun 2026 08:30:35 GMT"
     },
     {
-      "title": "「二輪車安全運転東京大会」交通事故の抑止が狙い",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xd2lEMU9JbUhwcEs3RkFtMXV0QVdVWkdGdndOY0Z0dWVSNWQ3TFJtTTRpR2tyMXQtWmpDN0xXb21VbzRHTEs2clBldzFlWW9wOVh1U1FYdHFTQjdOSDlXNFhNQQ?oc=5",
-      "date": "Sun, 24 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "横田基地関係者による飲酒を伴う交通事故について（要請）|1月",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVDU5QnlnSUV6VXNVbEgyakNvbmhZYjZkUHhSUjZNZ3hwQUZhdVlYTmxhQlZGTGpNX1I0OWhQQnZPeTBmN2wydUZPMllQdVhINFVPZm5rNmhZVXVvcjk3OEllanJXcW54ZTV1NHh6LTJHNTB4ejhHRV9ReFhuUQ?oc=5",
       "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "路線バスと乗用車が衝突 乗客5人けが 東京・八王子市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6WkJNYUVmWjJXdG5tM1gyLVVVWVVQQzVEUHlDRzkyeU90eHB0bmYtb0JON25LbnhpU053RDl0VjNKanBBS2dYcDlMZGxxc1E?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「特定原付」都内で初の“死亡事故”発生 電動キックボード？ 警視庁は「捜査中」と車種を伏せる",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4eEJDNVpIR1BWWGt5dm5kV1ZrcU9OWEFPUUI0VF8wRnczYTh6aHFjTkhtYjNQaUJvdmZYMnljajc4RzB6VFRYdkdR?oc=5",
+      "date": "Tue, 09 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

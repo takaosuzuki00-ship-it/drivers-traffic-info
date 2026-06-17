@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-06-17T21:03:37.929024",
+  "generated_at": "2026-06-18T00:03:23.293124",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 22.0,
-    "temp_max": 25.5,
-    "temp_min": 20.7,
-    "precip_prob_max": 42,
-    "precip_sum": 0.2,
-    "wind_speed": 6.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.9,
+    "temp_max": 27.8,
+    "temp_min": 20.9,
+    "precip_prob_max": 82,
+    "precip_sum": 0,
+    "wind_speed": 7.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.6,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 21.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 82
       },
       {
         "time": "03:00",
-        "temp": 20.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 6
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
       },
       {
         "time": "06:00",
-        "temp": 21.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 24.1,
+        "temp": 24.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 25.2,
-        "weather": "曇り",
+        "temp": 27.1,
+        "weather": "快晴",
         "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 25.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 23.8,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 22.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 14
+        "temp": 23.7,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "６月１５日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Od1NvbU4zd20tTXd3bTBaSVhNSGVJVnZvdzlYdHQ3SE1lTVVXV0V3d0M1U2puSEFxVEhaNml0cDhpeTZyOFNfNW9YLUlBdUEtZTF6a0xnT1FURVBZeGxCTVcxYzdUai1O?oc=5",
+      "date": "Sun, 14 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "府警フォトニュース（速度違反特別取締隊出発式）",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
       "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "６月１３日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aT1JJNDBaUUdZNEhhejhSQl90bWxram8wY0dnbm1YYWpDaVdkejQwVG9GTEpXV1NsTVZaZDY2RkhUU25ydF8zaTRXaWd1LTE4Qjg4bWlRLXdpWVBUVUloQmlVMXUyVzFk?oc=5",
+      "date": "Fri, 12 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "交通違反取締強化！（茨木）",
@@ -75,19 +85,9 @@
       "date": "Fri, 05 Sep 2025 07:19:08 GMT"
     },
     {
-      "title": "ダブル選前に違反取締本部 府警が設置 ／大阪",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pT3Eyc2FOcWV4T0prQVVlSHdUeHE3WjVhcklCNGdSV1IyLWZ0VU1qY2VOWlBwRlI3ZnQxZmJTcl9CRm1tNUZmR2o5anljUXZtSnJNQmlIQU9aQ1ExZThpVEJlX1hZWV9I?oc=5",
-      "date": "Thu, 22 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "大阪府警察本部 竹内広行交通部長 危険運転への交通指導取締を強化 二輪車の交通事故防止に重点",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cTEwTXBWdmdSX29WWTZFRjQtUmlvb183TC16akdNRk5zYi1KRk5iQTlTcEowWEprdWZ2TUdmOGJUdTVEUWJXOWJoUG1PeDlvRkE?oc=5",
-      "date": "Fri, 14 Nov 2025 04:25:40 GMT"
-    },
-    {
-      "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
-      "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+      "title": "6月17日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xSzJfcWd0cnZXMXJfRlVISmVWQzhyR3haRWw2YjJtN1A0V3h1WnhOUnlTMGVoNDFzZDFCbTFORjZKb1hxb2tMQk96a1lqcHF3a0pJTjNLVkc2LVRnRkExMEdnY05xcUdZNnYxTHBR?oc=5",
+      "date": "Tue, 16 Jun 2026 20:12:59 GMT"
     }
   ],
   "accident_news": [
