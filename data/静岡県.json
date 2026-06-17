@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-17T09:03:23.680470",
+  "generated_at": "2026-06-17T12:03:22.786421",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 22.4,
-    "temp_max": 24.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.0,
+    "temp_max": 25.0,
     "temp_min": 19.2,
-    "precip_prob_max": 62,
-    "precip_sum": 2.3,
-    "wind_speed": 5.8,
+    "precip_prob_max": 73,
+    "precip_sum": 0.5,
+    "wind_speed": 8.5,
     "hourly": [
       {
         "time": "00:00",
@@ -27,26 +27,26 @@
       },
       {
         "time": "06:00",
-        "temp": 19.5,
+        "temp": 19.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.4,
-        "weather": "晴れ時々曇",
+        "temp": 22.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 24.7,
+        "temp": 25.0,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
+        "temp": 22.7,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
@@ -57,8 +57,8 @@
       },
       {
         "time": "21:00",
-        "temp": 20.4,
-        "weather": "弱い霧雨",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 31
       }
     ]
