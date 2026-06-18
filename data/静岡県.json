@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-18T21:02:57.717982",
+  "generated_at": "2026-06-19T00:03:06.165552",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 23.5,
-    "temp_max": 27.1,
-    "temp_min": 20.0,
-    "precip_prob_max": 100,
-    "precip_sum": 32.0,
-    "wind_speed": 4.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.9,
+    "temp_max": 27.3,
+    "temp_min": 20.7,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.1,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 20.5,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.4,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.4,
-        "weather": "弱い雨",
-        "precip_prob": 76
+        "temp": 25.2,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.9,
+        "temp": 26.7,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 27.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 31
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 26.3,
-        "weather": "曇り",
-        "precip_prob": 35
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.5,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 22.5,
+        "weather": "曇り",
+        "precip_prob": 0
       }
     ]
   },
