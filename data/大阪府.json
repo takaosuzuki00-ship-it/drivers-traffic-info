@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-18T09:03:15.053836",
+  "generated_at": "2026-06-18T12:05:23.971720",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 23.4,
-    "temp_max": 27.0,
+    "temp_now": 25.3,
+    "temp_max": 26.6,
     "temp_min": 20.0,
     "precip_prob_max": 86,
     "precip_sum": 0.9,
-    "wind_speed": 2.9,
+    "wind_speed": 7.7,
     "hourly": [
       {
         "time": "00:00",
@@ -29,29 +29,29 @@
         "time": "06:00",
         "temp": 20.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 43
       },
       {
         "time": "09:00",
-        "temp": 23.4,
+        "temp": 23.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.3,
+        "temp": 25.3,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 26.7,
-        "weather": "晴れ",
-        "precip_prob": 10
+        "temp": 26.3,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 25.3,
+        "temp": 25.0,
         "weather": "快晴",
         "precip_prob": 8
       },
@@ -59,7 +59,7 @@
         "time": "21:00",
         "temp": 23.4,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       }
     ]
   },
@@ -92,19 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "「大きく育ってね！」交通事故で亡くなった4歳男児の思いを受け継ぐ『ひまわりの絆プロジェクト』 大阪",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EYS1hWTVmc1VXejdydk42Y0VDdjVHZWpBTEZVS3hpVF94T3NabzdOQ1hrQ0ZmTHdKVWJzckkwSkRwc1V0SUNGQURLU0JkR2VXVUNIVG5kTGwzMTU3d21zdkUyanBBX2VhWk0wRDRwVGo2bkc2WjROenR1WDJmYXM?oc=5",
-      "date": "Fri, 12 Jun 2026 05:17:41 GMT"
-    },
-    {
       "title": "交通死亡事故が発生",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
       "date": "Mon, 23 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "「大きく育ってね！」交通事故で亡くなった4歳男児の思いを受け継ぐ『ひまわりの絆プロジェクト』 大阪",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMNzFiMWoyc3ZjWWxMQTUwR193RWNKakpIVWk3SWhGQXhkV0JuQXhleS1SZk94VVlkZU4yRmlwSk9scGF3Y3Z1d19JQl9SLU0yaGdSUDlCa3hzQQ?oc=5",
-      "date": "Fri, 12 Jun 2026 05:18:38 GMT"
     },
     {
       "title": "交通事故発生状況",
@@ -112,9 +102,19 @@
       "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "「大きく育ってね！」交通事故で亡くなった4歳男児の思いを受け継ぐ『ひまわりの絆プロジェクト』 大阪",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EYS1hWTVmc1VXejdydk42Y0VDdjVHZWpBTEZVS3hpVF94T3NabzdOQ1hrQ0ZmTHdKVWJzckkwSkRwc1V0SUNGQURLU0JkR2VXVUNIVG5kTGwzMTU3d21zdkUyanBBX2VhWk0wRDRwVGo2bkc2WjROenR1WDJmYXM?oc=5",
+      "date": "Fri, 12 Jun 2026 05:17:41 GMT"
+    },
+    {
       "title": "交通事故状況 - city.osaka",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVdwVjktWDhEZndZNjZWOU92OEtydVFKUmE4emthWkVycEZXbXM1RjVHcmJvYnJUaXc1YWI5N3RaSzZNaXZXYWlYOGIzdjZQMDRMQkRBMEEycHVMdk1XUEwtMHlnQkt2SVVFRld4N1c1bWtnUnY2aTdPUmRvU2hoR2JmWlgzaHVNS2xEdzc5U3BxdmNhTWhQLXRZbVVHVUFPOERDWnlqOEEzR1Rp?oc=5",
       "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「大きく育ってね！」交通事故で亡くなった4歳男児の思いを受け継ぐ『ひまわりの絆プロジェクト』 大阪",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMNzFiMWoyc3ZjWWxMQTUwR193RWNKakpIVWk3SWhGQXhkV0JuQXhleS1SZk94VVlkZU4yRmlwSk9scGF3Y3Z1d19JQl9SLU0yaGdSUDlCa3hzQQ?oc=5",
+      "date": "Fri, 12 Jun 2026 05:18:38 GMT"
     }
   ],
   "official_links": [
