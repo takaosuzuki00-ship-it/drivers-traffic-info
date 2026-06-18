@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-18T18:03:59.536315",
+  "generated_at": "2026-06-18T21:01:55.522372",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 21.7,
-    "temp_max": 22.2,
+    "temp_now": 20.9,
+    "temp_max": 22.9,
     "temp_min": 20.0,
     "precip_prob_max": 100,
     "precip_sum": 21.3,
-    "wind_speed": 9.1,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
@@ -41,29 +41,34 @@
         "time": "12:00",
         "temp": 21.7,
         "weather": "曇り",
-        "precip_prob": 96
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 21.8,
+        "temp": 22.1,
         "weather": "曇り",
-        "precip_prob": 80
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 21.7,
+        "temp": 21.9,
         "weather": "曇り",
-        "precip_prob": 22
+        "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 20.7,
-        "weather": "晴れ時々曇",
+        "temp": 20.9,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "公開交通指導取締（２０２６年６月１８日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MTTZSM1pJcGcxUzJXMGRUOFBQMXBPbFlsX2hRNXhvOGpXY2YxZUViMWdsdTlHQ01Gb0FtaHVaMkNlNTJjXzRfb2l3RzZ6THBob2JaMmNBRXY?oc=5",
+      "date": "Wed, 17 Jun 2026 20:06:23 GMT"
+    },
     {
       "title": "6月16日（火）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5naUVpTlpvTzNQbmtpNFM2SVVvRFlpOFZvOVgwSFN3VlpNTmdhSlV1bnpjNHVzZVdoc0JNZVBpb25CRUNHNF8tVHVjUjdPXzczcTlkX1FVdw?oc=5",
@@ -75,19 +80,14 @@
       "date": "Sat, 13 Jun 2026 20:02:00 GMT"
     },
     {
+      "title": "公開交通指導取締（２０２３年９月１４日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVWm9Lckp6Y2pfeUpHbDY3X2NCZXBOeUg1LWdQNjdJdndEMDZoRXAxcFpNNmtfTlQ1dHprd0UwU0J4bHdaek13RUxZdW9vb0trNUVtVGlhWQ?oc=5",
+      "date": "Sun, 14 Jun 2026 22:50:07 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "公開交通指導取締（２０２６年４月１３日）",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95RHVGZUhFck5pV3U2azUtWmtaeTdfR1VBc3lTRFdBcmNDcG9Cd1lteXliODBCMW1RUEt6VHByZWpfN2p3ODd6eGh2YURfNGZZcHl6U2FjbjM?oc=5",
-      "date": "Sat, 11 Apr 2026 20:08:37 GMT"
-    },
-    {
-      "title": "6月15日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yVDRtcGtFdThQX3luZUZRWlZyUi0xNEF5ZmpSNHhDUm9yXzRNZ0h0MmJ3MjREeHA3SUp3azRQYm1remQyS3BjNXhkam9vUVlFMU5Tbm1mWQ?oc=5",
-      "date": "Sun, 14 Jun 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,9 +107,9 @@
       "date": "Fri, 24 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "白井市交通人身事故発生状況",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSENOSzlRT052UVg0Vk81OGJid2wxbUxsTTBnM0xILVM1cWxRMkRDcGtVT3d5cEZVaTRzelhNRFoybGdwdk5aYk04cG0ydVZCUGpJbndKQWpaanZnQm80RFhXam5Lc1Y1emxkTlZndWI3eV9LcU9fVG9vbUNkN2Z5Y0ZzMGxpc1V3aHphaVQ5eUFBbGNvQ3c?oc=5",
-      "date": "Tue, 17 Mar 2026 07:00:00 GMT"
+      "title": "横断歩道の男児、車2台に続けてはねられて死亡 千葉市の国道 [千葉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRmQtc3lkN0RnSHlrS2hVWml6Ti1ncnJTYko5c2VWbmp5eEhzM2FIblZDYTQzZ3ZwNElqb1lmcmxGY3p0d2VvQkFwOTU2OUJpZGpHdG5mQ3BRQ3gtMFk5emZhaUNIMDA?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "交通死亡事故ゼロ１２年の南三陸町に県知事から褒状",
