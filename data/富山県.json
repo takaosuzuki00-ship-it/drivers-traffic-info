@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-19T18:02:55.930221",
+  "generated_at": "2026-06-19T21:01:53.048929",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 24.5,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 22.4,
     "temp_max": 27.2,
     "temp_min": 19.4,
     "precip_prob_max": 59,
     "precip_sum": 0,
-    "wind_speed": 4.7,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
@@ -41,12 +41,12 @@
         "time": "12:00",
         "temp": 27.2,
         "weather": "快晴",
-        "precip_prob": 12
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 26.6,
-        "weather": "晴れ",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
@@ -57,8 +57,8 @@
       },
       {
         "time": "21:00",
-        "temp": 22.3,
-        "weather": "晴れ",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
