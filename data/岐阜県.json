@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-19T06:03:44.089076",
+  "generated_at": "2026-06-19T09:03:56.540250",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.5,
+    "temp_max": 32.0,
+    "temp_min": 20.4,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 25.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月17日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
@@ -33,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "交差点で路線バスと乗用車が衝突する事故 乗客の女性が軽傷 岐阜・北方町（2026年6月18日掲載）｜中京テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVRHWks2eTB0Tm1mcnhweDBiaElMLS0yTlJ2YkQ1RC02Zl9rM0l6aW9xQTlYSUY0dGlDR0VxMmVHZkk4NW9qdmdPblNXUS1LZzJVV2ZyVHhabkY2MWlEUjYwbWFxWW5mdE9LZEtRVFFJR3FqeVNXM0dDenhHRDk4Q0RGNF9TdWc?oc=5",
+      "date": "Thu, 18 Jun 2026 10:29:00 GMT"
+    },
+    {
       "title": "助手席の女性が窓から顔を出し 高架の壁にぶつかり死亡 運転手は酒気帯び運転で現行犯逮捕 笠松町（ぎふチャンDIGITAL）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wYmJZR2lqY0JycDdxVFdzT29VSU1xNDJhUk95bXc1SU5TVHJsUUt1TXhvVnFORzhGanowb1Fjbk1CdERkcjZnLTFFc2QyQ3BsSXZ1eFgtMWtzYTQzME9ld2pGTHIyMWRHb2g3N3lqNk1DMlhVODFSSG80SVh1eHM?oc=5",
       "date": "Thu, 28 May 2026 07:00:00 GMT"
@@ -51,11 +115,6 @@
       "title": "車同士による衝突事故…東京と岐阜の男女4人が重軽傷 長野・茅野市の国道",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVlA0bTdrV0VaMzhqMVYySW0teE9YaFBlZmdsQ1ZpQXEtRlZhWTRZR25LeVFOTFYxWFk3QnhRbUdKalU1QnFiZnZkX0R6M3R2RXExaDk3RQ?oc=5",
       "date": "Tue, 05 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "友人6人と川遊びに来ていた23歳男性 ゴムボートが転覆し溺れて死亡 岐阜県関市の板取川（メ〜テレ（名古屋テレビ））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZERJZkMwY0dXY04xRHozNzg2UEdoem1XX0MzSHJWdWQxazdrRTlFS0czcEJqaFVIWGRVR2I2d3dfRFRjcUZ1b3dkX2JkbkplbnYyNENlNmhxOGpsREJrMEFEMXBBMG1ad3pFeFdQYURtU1cwTDJMT25jbmlBb2M?oc=5",
-      "date": "Tue, 16 Jun 2026 00:44:00 GMT"
     }
   ],
   "official_links": [
