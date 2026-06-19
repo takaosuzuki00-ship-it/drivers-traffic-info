@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-19T09:02:32.709800",
+  "generated_at": "2026-06-19T12:02:57.197780",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 27.5,
+    "temp_max": 28.1,
+    "temp_min": 19.3,
+    "precip_prob_max": 96,
+    "precip_sum": 2.2,
+    "wind_speed": 7.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.8,
+        "weather": "曇り",
+        "precip_prob": 71
+      },
+      {
+        "time": "03:00",
+        "temp": 19.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 19.8,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 26.5,
+        "weather": "曇り",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 22.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 20.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -16,9 +75,9 @@
       "date": "Tue, 10 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "参院選２０２５：取締本部を県警が設置 ／栃木",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxaU9rVlVfVUwwbHFoZXU1M3VUcVlkbDBWYVYtSjFCckxCbFdCa0F3RU1MZGhWQlhHWVZ4c0pfQXVwVDZHcUl1WWw2d1VtalY0RzRWYVpxNndhZk9TWTFXbWdjUXRSczJ3?oc=5",
-      "date": "Tue, 24 Jun 2025 07:00:00 GMT"
+      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fd3ZvOHM4VGdYTFNOaGhsY1NlQ0p5YTBQcW9Ccy1LT1FHSnlSTGR6LWhHUlpJRjJveXJSa3NIcXlKZWkxTUdoWDNVY3QxbF9NdWVVVU5PVDdONGM?oc=5",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "不法投棄を防ぐ！江別市東野幌の道道で廃棄物運搬車両の路上検問 積載物などを調査",
@@ -26,9 +85,9 @@
       "date": "Wed, 17 Jun 2026 08:51:00 GMT"
     },
     {
-      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fd3ZvOHM4VGdYTFNOaGhsY1NlQ0p5YTBQcW9Ccy1LT1FHSnlSTGR6LWhHUlpJRjJveXJSa3NIcXlKZWkxTUdoWDNVY3QxbF9NdWVVVU5PVDdONGM?oc=5",
-      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
+      "title": "北九州市で飲酒検問 自転車も対象 飲酒機会が増える年末を前に（2025年11月18日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0dqbjlMWGU3ZlpxOUV4V0x1c1Q3Z291N3RQZGgteG9mX1J4Rjl4NVBTVVprTms0X1VKSHFBM055VXdmYXlobHNfSVJhRWZPLTVsT2NtRUF5Z3BJXzRQcGg4QlRjMWlWSktwRlhaOWYtSUFWMVFaLWZncW45UWNST2ZVZzF5MVE?oc=5",
+      "date": "Tue, 18 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,14 +97,14 @@
       "date": "Thu, 18 Jun 2026 14:45:35 GMT"
     },
     {
-      "title": "栃木・下野市で死亡ひき逃げ事件 51歳男を逮捕 「事故起こしてない」と容疑否認",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QZk1HSDRTV2w3Ym9MRnpNQkxGM2phd1FfdWlwNkVldHFpQWtLTGY4ek13S05SWWczUVJoa2VmUmdHNHlhVDFuU0w1eHFtZw?oc=5",
-      "date": "Thu, 18 Jun 2026 14:44:00 GMT"
-    },
-    {
       "title": "乗用車同士が衝突 運転の女性が死亡 栃木市－NEWS - tochigi",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWN0d3UkpsVUZtVlVkcXZDdzJ5OFcxazJvTk5mYVBoN0lRcWJwcFdBN2Q3Q0VnRFdpZl82c1g4WkgwWmhHaWpQTXRMWVltNnZQT251ZjRYWlQ0SDAtUER3?oc=5",
       "date": "Wed, 15 Apr 2026 00:54:42 GMT"
+    },
+    {
+      "title": "栃木・下野市で死亡ひき逃げ事件 51歳男を逮捕 「事故起こしてない」と容疑否認",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QZk1HSDRTV2w3Ym9MRnpNQkxGM2phd1FfdWlwNkVldHFpQWtLTGY4ek13S05SWWczUVJoa2VmUmdHNHlhVDFuU0w1eHFtZw?oc=5",
+      "date": "Thu, 18 Jun 2026 14:44:00 GMT"
     },
     {
       "title": "栃木県に「死亡事故多発警報」 発令は今年５度目、現行基準で最多 ７日間で４件４人死亡",

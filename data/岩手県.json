@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-19T09:01:47.286837",
+  "generated_at": "2026-06-19T12:02:11.019853",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.1,
+    "temp_max": 27.3,
+    "temp_min": 17.8,
+    "precip_prob_max": 98,
+    "precip_sum": 0,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "03:00",
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "06:00",
+        "temp": 18.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 69
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月17日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -11,9 +70,9 @@
       "date": "Tue, 16 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月17日（水）【岩手県】 日中・夜間の交通取締情報 （IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zckhrTnplN1JwaEZWMXhxNzdubmZGWXREVm5naXlEX3BZbzZLRWlrQmpZampPSjhsdXk2bGFVZTdha1lONmpxZ01Bb3FmNXFGZm8zTjlmYmE4Qlk5YXpXbTc2REx2ajdPZ1Q0U29HalBaR3dUS2hLWk9KcFFkR2c?oc=5",
-      "date": "Tue, 16 Jun 2026 20:00:33 GMT"
+      "title": "6月19日（金）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ093T0ZneWhoX3B2eXNZV2RVaTRlNVJjNF9mR2dsQjdhRlNETmlTdE9kNlFZdldYaFJZUDlvaVBsSUc0V0szYjRBUEFUaHJOZmdrbW9uUnpMU0tqMEhwdjFud2s2LTBZT1NFZTlkWmNHT1ZBYXd4Q09DODZQYTVDMzFMLWVCd2FzbUF0cWd3?oc=5",
+      "date": "Thu, 18 Jun 2026 20:24:29 GMT"
     },
     {
       "title": "6月18日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -21,9 +80,9 @@
       "date": "Wed, 17 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月15日（月）【岩手県】 日中・夜間の交通取締情報 （IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QT0p5Tm5FSEowLVVKS1hGYXpNSVFPT3ZaaFFwQzNUOE0wTEdieDFTbHFFSDJTaERyUlMwUkFqeEZrZkFVWVg4VHJiRHJnajByTVlIY2Uyc3pxb0JzOGdoSmxYZHZZRHF1UUFlSG5wRmd3NUxZMWZYekdIVnN0MFU?oc=5",
-      "date": "Tue, 16 Jun 2026 04:33:16 GMT"
+      "title": "6月17日（水）【岩手県】 日中・夜間の交通取締情報 （IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zckhrTnplN1JwaEZWMXhxNzdubmZGWXREVm5naXlEX3BZbzZLRWlrQmpZampPSjhsdXk2bGFVZTdha1lONmpxZ01Bb3FmNXFGZm8zTjlmYmE4Qlk5YXpXbTc2REx2ajdPZ1Q0U29HalBaR3dUS2hLWk9KcFFkR2c?oc=5",
+      "date": "Tue, 16 Jun 2026 20:00:33 GMT"
     },
     {
       "title": "6月18日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "暑さが厳しくなる夏、怖い漫然運転 相次ぐ死亡事故、岩手県警が注意喚起",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41T0F1US0taHUwTGZnZ3lkU1NYTlQwS1JQX1hvUWc4dmFiOWVMRnlwYWVKRGFsTlh6VHJ6b1VLaG8zN1hvU0pfdVVVWlJucENZdVh4N0lrYzlxQ09pU3FVeg?oc=5",
-      "date": "Sat, 13 Jun 2026 02:00:00 GMT"
-    },
-    {
       "title": "交通安全の標語 路線バスに掲示 交通事故の死者 2025年の同じ時期の2.75倍に 岩手県",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00RVBWemRNMEJ0T0FYbzd3ZWJJT0hxTWZIcFJwRVlEMHJhMVdhbkhnX0hZM0lJcng4LWU4bnFneWNtcXc0eUZPY3o0Y1J0UQ?oc=5",
       "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "暑さが厳しくなる夏、怖い漫然運転 相次ぐ死亡事故、岩手県警が注意喚起",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41T0F1US0taHUwTGZnZ3lkU1NYTlQwS1JQX1hvUWc4dmFiOWVMRnlwYWVKRGFsTlh6VHJ6b1VLaG8zN1hvU0pfdVVVWlJucENZdVh4N0lrYzlxQ09pU3FVeg?oc=5",
+      "date": "Sat, 13 Jun 2026 02:00:00 GMT"
     },
     {
       "title": "磐越道事故受け 一関学院で教職員向け 交通安全研修 岩手",
@@ -53,9 +112,9 @@
       "date": "Wed, 17 Jun 2026 09:02:00 GMT"
     },
     {
-      "title": "愛知・一宮の妊婦死亡事故で実刑 過失致死罪、運転の５０歳女",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQmN5SnJVdC1SbTIydU1ua2RaX29hdmpCS0FGS3VvZHFNdmdjQTZKSktGbi1OWkZqNEw2dV9KU3YwV0VqQ2VTaS1xQ1BiV2dFRUVfU3Z5UjhLU3NlVU50dnp4cUVLS1RteDVVcF9xQThDSHBJ?oc=5",
-      "date": "Thu, 18 Jun 2026 06:20:36 GMT"
+      "title": "バランス崩しパラグライダー落下 71歳男性死亡 岩手・八幡平市の安比高原",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03TWtVZDF1MldOcjVOMkJ5M2lzRFNOYVhfZ2FuOXM5UFl1OUZmYTFsM01Zd3NqRFdxdHVLLV9qRzc2OFprZzRDNGhLN3lyRm8?oc=5",
+      "date": "Tue, 16 Jun 2026 20:58:26 GMT"
     }
   ],
   "official_links": [

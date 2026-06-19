@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-19T09:05:14.601379",
+  "generated_at": "2026-06-19T12:05:19.725165",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.9,
+    "temp_max": 24.6,
+    "temp_min": 22.0,
+    "precip_prob_max": 100,
+    "precip_sum": 1.3,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 24.0,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 90
+      },
+      {
+        "time": "21:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -21,30 +80,30 @@
       "date": "Sat, 10 Jan 2026 08:00:00 GMT"
     },
     {
+      "title": "山口：飲酒運転６５５件大幅増 自転車４割、摘発相次ぐ １１月末時点 年末年始注意呼びかけ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXhHU09KSVBzNmNlbGxzZWtkVDZ0TGxnMnhYWnk0RTlBZjgtX0laUFBPc3Y2NUl5d0JDSlg4UUdyQVhKWm5VQnNaejg1eFZFQWd0SGlGdXRFQXJGTlFjSDVtMWhCWTBoQmVjNHA0alRGNUJiamc?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
       "title": "道路法第47条第2項違反者（重量超過車両）の告発について - c",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
       "date": "Mon, 17 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "山口県内の交通事故発生状況2026年6月18日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaTdYRHhlbzlVT2wwTjFSSF9YN1JSMXRSMDg2Mk8tR29zYzNpY1RfMHZsLWFXNjdGdnBPZXlnVG9ja3ZRWmwtazZLaw?oc=5",
+      "date": "Fri, 19 Jun 2026 01:10:00 GMT"
+    },
     {
       "title": "【事故】岩国で信号待ちの軽自動車に大型トラックが追突 1人死亡",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PaDZDMmREaFZtVFRKR2NoYXVONzJaNGhoekptc1JjWXdnbzBtb3VMWjNVbFpaMW5KQVdjMjZOcTROSFlkazIxdENVb1NiRGdIWjVFcTNqS1REUQ?oc=5",
       "date": "Thu, 18 Jun 2026 11:03:00 GMT"
     },
     {
-      "title": "【山口】バイクと車が衝突 ２０歳大学生が意識不明",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5RlZ6MHlDMlFpbWJNSGk5MFAtUWZZQlJadFQwNVE2dG95X0pFcEZJT2lVY2ZsMTJaRWpLbHlwV0RBLVZ3Ti1qTG1JUm43VDF6enRybDNHRQ?oc=5",
-      "date": "Mon, 15 Jun 2026 03:03:24 GMT"
-    },
-    {
-      "title": "山口県内の交通事故発生状況2026年6月16日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yZ1ZVRkVyTHhQXzFTOGtLZVBTNHFTVElYVFJqcjFJMUxFU2dCOVRtb0pzZ19QU3hzS3JtLWMwZ01MS2ZxTDYyVm5NZw?oc=5",
+      "title": "山口県内の交通事故発生状況/2026年6月16日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90cU01RlhkQUNPRTBFYWl3dFFlYWVWZV9sXzRlNWpVUl83UGJCNnN2bFdadUQ4NnNyR0xlM0wwaTBFWHJ1LUo5Uk45dWxCN1ByVjZUazltcmF5MHRHOHRfMTBiaE1CVFZ6a1E?oc=5",
       "date": "Wed, 17 Jun 2026 01:10:00 GMT"
     },
     {
@@ -53,9 +112,9 @@
       "date": "Tue, 16 Jun 2026 15:19:00 GMT"
     },
     {
-      "title": "山口県内の交通事故発生状況/2026年6月8日",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03X3ROYjM2QTVkczBvb3BxQV95MVgxb0Z5c2ptN0ZqVXhDNkNCR1hHanFNMEJPNUFJMHh3ZlRGTlVSVC1iOG9XTk5PQ2pIaEppWTdyOGlmNFFHWTh0S3g4RFZYUC0teU9BN0E?oc=5",
-      "date": "Tue, 09 Jun 2026 01:00:00 GMT"
+      "title": "【山口】中国道で単独事故 ３人死傷",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZSDZhRTFoeU5RSWxHV1c0b3ZkMzdEaHNWSW1iZ3FjSHd6MEl3ZDQ4TWdPSU5PZGs1cE8zTGVDSDV4UHo5TFdUVDRDc0ZicE9sbFQxUlhFbw?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
