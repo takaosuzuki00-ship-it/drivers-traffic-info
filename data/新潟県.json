@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-20T09:02:28.686174",
+  "generated_at": "2026-06-20T12:02:32.914394",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 24.5,
-    "temp_max": 26.8,
+    "temp_now": 27.8,
+    "temp_max": 27.8,
     "temp_min": 20.6,
     "precip_prob_max": 100,
-    "precip_sum": 5.0,
-    "wind_speed": 8.2,
+    "precip_sum": 2.6,
+    "wind_speed": 7.1,
     "hourly": [
       {
         "time": "00:00",
@@ -27,48 +27,43 @@
       },
       {
         "time": "06:00",
-        "temp": 21.9,
-        "weather": "曇り",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 24.5,
-        "weather": "晴れ時々曇",
+        "temp": 25.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.7,
+        "temp": 27.8,
         "weather": "曇り",
-        "precip_prob": 6
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 26.3,
+        "temp": 26.4,
         "weather": "曇り",
-        "precip_prob": 63
+        "precip_prob": 49
       },
       {
         "time": "18:00",
-        "temp": 24.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "temp": 24.4,
+        "weather": "曇り",
+        "precip_prob": 35
       },
       {
         "time": "21:00",
-        "temp": 21.6,
+        "temp": 21.9,
         "weather": "霧雨",
-        "precip_prob": 96
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "6月20（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WklXZXdxN1phNjNYVVVDVnVqaWJBaURJYm5DMkpGak1kMklwSzBCblIxWDhUeENZM3k3U2ZDWVBqNlhaR2t3a3pmOG5vU1pIdktHdE1qbHpfN2Y3eFRsNU1ITDFOTXdlYjZqYndyb9IBdEFVX3lxTFA5ekluckJZS2tBM0QwSnk2SWc5b3FlLW8zcmpnaEdKM0FjUmdSQzZXMVlFYUVGbWJ5b2tZZFBieUhfVGVfLVpUN0x2czQ3TkdkVnFFWHR1eXB0SFh0Qk9VcGFtLVBOLUpQdkZMdHJaS3c2VW93?oc=5",
-      "date": "Fri, 19 Jun 2026 20:16:42 GMT"
-    },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
@@ -78,6 +73,11 @@
       "title": "6月18日（木）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqdnp4YVFkRFRYMWxZMnE3Z0IzOXo3eHJxeDEyeVZYdWw3dVhZWVd1QklLcDNTMjZ0aEUxS2tZNjQ1VUJFZWE1S3FHcER6eGlPWXB4QmlMNnNVZEZQZXlPemdKal9kRmROeUxRYkNjSdIBdEFVX3lxTE8zMmt0cE1OSjdkWUs5WFVycUQzRy1WNjZ3cTl1SGI1V0tuSjFidFpEcjBwN0paN0UycUN0Mi1iNXhPYllfdFA1ZHF4eTBOSnlEWHJkY05QaVJyM051d0pZRGNnWW4wcC00bU05SktfS0NOSThq?oc=5",
       "date": "Wed, 17 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月19（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DV0M0SFRGb00tanZwbW9RcVFpMGZ6MU5BTXZnTjhqM2lad1pveHNyRnpRSWttZ3RlT05RM0I3d2o4eDZZVXduMWR1WkZxNkFZM2VqanZCbG5lTkE3VmFvZGFTVnFHbHV6ZWctZ0Npa9IBdEFVX3lxTE5uMDkzb0ZVX0tVYTRSVXRlX3BURlhxcWkycmtnUFRVMHp3RnppNVJnZDdod2x1a1JHemp6VE5WVWtnQndmTmxZV19IajV6V1BqaDlMOXdJVVdPSHFORGxEWFhsYnpvNmNiOGNscHFhVVd3emdq?oc=5",
+      "date": "Thu, 18 Jun 2026 20:12:54 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
