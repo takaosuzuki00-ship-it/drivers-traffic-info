@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-20T21:01:35.695103",
+  "generated_at": "2026-06-21T00:01:04.544625",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 16.4,
-    "temp_max": 25.7,
-    "temp_min": 15.4,
-    "precip_prob_max": 98,
-    "precip_sum": 2.1,
-    "wind_speed": 14.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.4,
+    "temp_max": 22.8,
+    "temp_min": 15.2,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 12.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.4,
-        "weather": "霧雨",
-        "precip_prob": 98
+        "temp": 15.4,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 16.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 18
+        "temp": 15.5,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 17.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 86
+        "temp": 16.2,
+        "weather": "曇り",
+        "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 22.6,
-        "weather": "快晴",
-        "precip_prob": 18
+        "temp": 19.9,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "12:00",
-        "temp": 25.5,
-        "weather": "快晴",
-        "precip_prob": 12
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 24.4,
-        "weather": "快晴",
+        "temp": 22.6,
+        "weather": "曇り",
         "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 20.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 20.0,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 16.4,
+        "temp": 18.3,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 4
       }
     ]
   },

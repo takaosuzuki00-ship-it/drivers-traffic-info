@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-20T21:03:23.156559",
+  "generated_at": "2026-06-21T00:03:02.852286",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 21.8,
-    "temp_max": 23.7,
-    "temp_min": 21.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.9,
+    "temp_max": 30.8,
+    "temp_min": 21.9,
     "precip_prob_max": 100,
-    "precip_sum": 25.9,
-    "wind_speed": 10.7,
+    "precip_sum": 0,
+    "wind_speed": 9.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 22.4,
+        "temp": 22.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 98
       },
       {
         "time": "06:00",
-        "temp": 22.3,
-        "weather": "霧雨",
-        "precip_prob": 78
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
       },
       {
         "time": "09:00",
-        "temp": 23.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 71
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 69
       },
       {
         "time": "12:00",
-        "temp": 23.7,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 35
       },
       {
         "time": "15:00",
-        "temp": 22.6,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 28.7,
+        "weather": "晴れ",
+        "precip_prob": 18
       },
       {
         "time": "18:00",
-        "temp": 21.9,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 25.8,
+        "weather": "曇り",
+        "precip_prob": 27
       },
       {
         "time": "21:00",
-        "temp": 21.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
