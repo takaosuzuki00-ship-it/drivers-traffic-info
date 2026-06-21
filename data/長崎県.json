@@ -1,83 +1,93 @@
 {
-  "generated_at": "2026-06-21T21:04:05.446914",
+  "generated_at": "2026-06-22T00:04:15.447687",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 23.3,
-    "temp_max": 26.8,
-    "temp_min": 22.9,
-    "precip_prob_max": 76,
-    "precip_sum": 0.9,
-    "wind_speed": 6.2,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.4,
+    "temp_max": 23.1,
+    "temp_min": 20.5,
+    "precip_prob_max": 91,
+    "precip_sum": 15.5,
+    "wind_speed": 2.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.8,
-        "weather": "曇り",
-        "precip_prob": 76
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 22
       },
       {
         "time": "03:00",
-        "temp": 23.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 12
       },
       {
         "time": "06:00",
-        "temp": 23.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
       },
       {
         "time": "09:00",
-        "temp": 24.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
       },
       {
         "time": "12:00",
-        "temp": 26.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 22.5,
+        "weather": "霧雨",
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 26.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 21.8,
+        "weather": "霧雨",
+        "precip_prob": 47
       },
       {
         "time": "18:00",
-        "temp": 23.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 21.1,
+        "weather": "霧雨",
+        "precip_prob": 71
       },
       {
         "time": "21:00",
-        "temp": 23.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 20.8,
+        "weather": "弱い雨",
+        "precip_prob": 84
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "すでに「警告」２件 【長崎県知事選挙】選挙違反取締本部設置 | 長崎のニュース | 天気 | NBC長崎放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlVGprMElZWFpGOVpOZ0p4WjJWSFIxOGtWR2czclEzNkRhZGxpQ09lQWlwY2szN2ZnWjFRdlhZRUxTM202T0h4ZUlRSXE2bzJJaXZoSmVXYnEydw?oc=5",
+      "date": "Tue, 13 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆議院議員選挙違反取締本部を設置 | 長崎のニュース | 天気 | NBC長崎放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkU2hvbWhXempGU0NaS2xnNlVDNEtRVGd3czlGZWo5TlFSOUh5cG5uZ0o0N0xjY1Yyd3N6QVFmY1FwWDVNUDJPOG4yS1hzWDlDa0V2Y3M1VHQwdw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "最新機器装備で「逃げ得を許さない」高速航行の漁業取締船が完成 密漁など漁業違反は減少傾向に《長崎》",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fSndDblVvOFQtQmdSOGVHQTNhUnk0VDVlTVNhUDI2OXVTd0tDRkVYeHlPeGl2c3NDRXFsaGFwWlAwN0lLREJERVdRSGdjVWY4eHVTWno4WElJZzVoZ0tiWjdMTmtUM09tLV9WUXl2anFXYWEtYmxqaUdqZGFZSTg?oc=5",
+      "date": "Fri, 12 Jul 2024 07:00:00 GMT"
+    },
+    {
       "title": "6月21日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuRWNSZGhvM3dZY01kZTJjbF9DaDJwbk9Sd0xuSFM2ZXFpZXp4OWxRUnVjRGJCT2NXV1NMOExYQ1RZRW1FMkxyVEdiUnJmeTJtOGlEZ1hSMUNiTzE0WUJiRGZLQ2ZETWRJVmxlN3hkQdIBdEFVX3lxTE92d293SmVkSHVGV3hRM2tLV2NBUXhCbi16djBsYS1KajBSUVN4MUkwSDN6c09kMmJ3MDd6V2JlYjBVNzFuRGxxaHE5U0FpcU9uXzVTcmg2ZUlVTWFFd2VYLVdqeGhCU19fTFhNMWh1MEs5VFF1?oc=5",
       "date": "Sat, 20 Jun 2026 20:07:08 GMT"
-    },
-    {
-      "title": "身分証不携帯の信号無視の無職の男(55) 逃走の恐れがあり道路交通法違反の疑いで逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUG5idzlrbkRLRFd4VzVhNjl3Mk5WNnpPczlNZ2tGNjBQYnRiOTFPdkhVRXk2QXRGd2Y5RDVJQWVaZ2lMX3FlbTYtV1BKVWswS0NranktZ21wcFBwOHIxd2tJT0lzWXc?oc=5",
-      "date": "Tue, 16 Jun 2026 10:21:00 GMT"
-    },
-    {
-      "title": "6月19日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lQVRnNjF0R2Fya2x6UW9OZjVPUUg0S0dWMUJTNkU0VVR2cUZfSnhxZlVBYkJjWlVuQ3BsNGJOVW5BeVROUlhOaTZUSmZnTmdHZWhaazJFSTc1UjRhWVpVNnRrNmVsRHJUZldoNnBrWdIBdEFVX3lxTFBwSzVOYjFtRHh6T2s3Q1FLRTBmT3BlZUJwX1BVMURxa3BvcEJ4SDRiOW85RnlUclhVZVcyNng4NlI0NEN4ZE9WM3BfYi1OempEVjVWbkpnQlBTaVpnQWlOSU1VaGpxWU9KbDhBM2hxQUFKWUky?oc=5",
-      "date": "Thu, 18 Jun 2026 20:08:52 GMT"
     }
   ],
   "accident_news": [
@@ -92,14 +102,14 @@
       "date": "Fri, 19 Jun 2026 10:05:21 GMT"
     },
     {
-      "title": "国道34号でトラック横転事故 通行規制解除（20日午後2時現在） | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xWlBrNld0X2wzNmpFRFVsN2lyQWFKRXV2SFZzMnkxZkI3WWVFZ0N0Z3o3TjU5b0NrZ0N5VU50MGhQSHdjeWFSZnlPaGp3dGVrQ0ItZXgwOHF4ZmpldDRQTEZzOGFJNUE?oc=5",
-      "date": "Fri, 19 Jun 2026 23:18:00 GMT"
+      "title": "無免許でオートバイ運転の15歳の少年が死亡 長崎市の国道交差点 右折中の軽トラックと衝突｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96dWFaNUxOZk1EVnYyckY2REN3ak9YZ1RwWGRTcGpkb1ppellraWdVdzJEdEtGT0IzWWZBRVFTUm9BeTJfQTdvTy1BQnR1a1pJcFhBNEJzYjIwTXUyalA3aEdB?oc=5",
+      "date": "Sun, 31 May 2026 07:00:00 GMT"
     },
     {
-      "title": "大型ダンプカーが道路脇の倉庫に衝突 佐賀・伊万里市の交通事故で長崎・川棚町の男性が死亡｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMRUJ4Q01LcDZEN1M1M1FXWUxNUVFCNzJ5QlBRdnNnRlRIWGszQ204eWFPeWhRekRqRzhTTjlBcWVTdndjOHVMQkRZc0ViVTdrcFdlVmRDcHdzbzFIb0R6N3pR?oc=5",
-      "date": "Sun, 07 Jun 2026 07:00:00 GMT"
+      "title": "【速報】トンネル内で車同士の事故 長崎県時津町の鳴鼓トンネル一時全面通行止め（19日午後7時規制解除）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMTGF5Uk5vbmE3VTRFOW9CTnl0dTJqWFdhU3pQUldvUEhRUzhxY3dTWFZoRk9WOHJrVGJhRXdYMS0zSUwwdWp0NVpsSGdBS1Faa2dVblNjVnlfQQ?oc=5",
+      "date": "Fri, 19 Jun 2026 06:36:00 GMT"
     },
     {
       "title": "ツシマヤマネコの子猫2匹保護 交通事故死？雌の近くで 長崎",

@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-21T21:04:21.311234",
+  "generated_at": "2026-06-22T00:04:31.921758",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 23.9,
-    "temp_max": 26.5,
-    "temp_min": 23.3,
-    "precip_prob_max": 100,
-    "precip_sum": 7.5,
-    "wind_speed": 10.5,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.8,
+    "temp_max": 25.3,
+    "temp_min": 22.4,
+    "precip_prob_max": 88,
+    "precip_sum": 1.4,
+    "wind_speed": 7.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.3,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 24
       },
       {
         "time": "03:00",
-        "temp": 25.2,
-        "weather": "霧雨",
-        "precip_prob": 98
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
       },
       {
         "time": "06:00",
-        "temp": 25.1,
-        "weather": "強い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 24.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 96
-      },
-      {
-        "time": "12:00",
-        "temp": 26.0,
+        "temp": 22.5,
         "weather": "晴れ",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 26.2,
-        "weather": "曇り",
         "precip_prob": 16
       },
       {
-        "time": "18:00",
-        "temp": 25.0,
+        "time": "09:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 24.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 22
+        "precip_prob": 33
+      },
+      {
+        "time": "15:00",
+        "temp": 25.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "18:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
       },
       {
         "time": "21:00",
-        "temp": 23.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 23.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
       }
     ]
   },
