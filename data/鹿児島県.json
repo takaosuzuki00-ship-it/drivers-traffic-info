@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:05:32.569953",
+  "generated_at": "2026-06-21T09:01:00.601321",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
@@ -7,11 +7,11 @@
     "code": 53,
     "weather": "霧雨",
     "temp_now": 25.0,
-    "temp_max": 27.5,
-    "temp_min": 23.0,
+    "temp_max": 27.7,
+    "temp_min": 22.9,
     "precip_prob_max": 100,
-    "precip_sum": 4.1,
-    "wind_speed": 9.1,
+    "precip_sum": 4.0,
+    "wind_speed": 5.5,
     "hourly": [
       {
         "time": "00:00",
@@ -23,56 +23,61 @@
         "time": "03:00",
         "temp": 25.0,
         "weather": "霧雨",
-        "precip_prob": 94
-      },
-      {
-        "time": "06:00",
-        "temp": 24.6,
-        "weather": "霧雨",
         "precip_prob": 98
       },
       {
-        "time": "09:00",
-        "temp": 24.9,
-        "weather": "晴れ",
+        "time": "06:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
-        "time": "12:00",
-        "temp": 26.1,
+        "time": "09:00",
+        "temp": 25.0,
         "weather": "晴れ",
-        "precip_prob": 65
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 47
       },
       {
         "time": "15:00",
         "temp": 27.3,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 22
       },
       {
         "time": "18:00",
-        "temp": 25.9,
+        "temp": 25.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 16
       },
       {
         "time": "21:00",
         "temp": 23.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月14日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UWElXM3NKQnVkX3JreC1mVTJWRUw1dlBaenRnZTh4bXFmeTZ6N1dFbkxnbDViQkg1cG15dThEYWNwU2JyTUpVNWM5T3JIZS1GMjM4NHpjdXdkcU54TGFXekxXUEY4LUU?oc=5",
-      "date": "Sat, 13 Jun 2026 20:02:00 GMT"
+      "title": "6月15日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hWWpCM000TkZMd2I0aTZnTzNlbmpiZjFWTXhkdVR3c2RCZnBneW9RN0t4RnBVNU9XdFdUUGlLNmJjWnUzdkFEamFvTXNyWWQ0UUhPbzQwb1dKVFh6TnNydXYtUDVCUVk?oc=5",
+      "date": "Sun, 14 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "納めた反則金、交通違反じゃなかった…鹿児島県警が“誤摘発”139件 規制と標識が不一致「警察官の認識や連携が不足」",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTGZPUmtWNi1zVXY5LWpmV2RueWVIQ1Z5M1JKcERQc1hrNlRMTjY1VFMyY0ljZmpCa0NMWE11ZWJiSi15S3pGS1FjMUQtYUVqZVlJSzlzYw?oc=5",
       "date": "Wed, 24 Dec 2025 09:08:53 GMT"
+    },
+    {
+      "title": "6月14日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UWElXM3NKQnVkX3JreC1mVTJWRUw1dlBaenRnZTh4bXFmeTZ6N1dFbkxnbDViQkg1cG15dThEYWNwU2JyTUpVNWM5T3JIZS1GMjM4NHpjdXdkcU54TGFXekxXUEY4LUU?oc=5",
+      "date": "Sat, 13 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
@@ -83,11 +88,6 @@
       "title": "霧島市の路上で譲り渡したか　覚せい剤取締法違反　男女３人逮捕　鹿児島",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TTS11dmhxQVJ1SDJoVkIxMW1rV3h6ajdTVU9BbWhuV0xTa25Qd2lhVUQ1ZS0tOVozYU1HX05IdUNoRDNBclk5THVidS1ncHdkQVJWV1RfZFNieGlaTDVWZmxTa1c0NE1GNzZSX3BmN3ZZV1hfakVNR0F1QnjSAYIBQVVfeXFMTURvU0k5TmVsRi1HRTMxZU1CLWNKX1ZRdjdKR1RxQ2dYSnhpNjlyR0ZzQW0xa0FpRjh0c25qdk9yU1BEMVgtOVpzRVlHNEVYRVB4RDZ4TXJvb2RuU2QyRW16VjVvVGhsMWd2eWVtZVBzMVN5WkZtWEpxME1KZjdUWE1CQQ?oc=5",
       "date": "Fri, 19 Jun 2026 03:13:00 GMT"
-    },
-    {
-      "title": "国内最大スカウトトップを逮捕 鹿児島・奄美で確保、暴排条例違反容疑―グループ全容解明へ・警視庁",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKYU82WUs0aEw2cGJYX0R0eEpVdC1RaHJsZkQxeEQyVXgzX1oyUDBkSEhKeVhEUDJGUEFsaWFJaFdiOVhRT0l1UW5JTkktTWlkRGFodXlWRTE5Rjh5UURXOF9Hdw?oc=5",
-      "date": "Tue, 27 Jan 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
