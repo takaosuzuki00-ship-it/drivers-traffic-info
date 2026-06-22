@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-22T21:04:19.099108",
+  "generated_at": "2026-06-23T00:08:39.084894",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 20.1,
-    "temp_max": 22.5,
-    "temp_min": 19.9,
-    "precip_prob_max": 96,
-    "precip_sum": 16.2,
-    "wind_speed": 4.4,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 19.9,
+    "temp_max": 21.5,
+    "temp_min": 19.0,
+    "precip_prob_max": 100,
+    "precip_sum": 71.8,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 22
+        "temp": 19.9,
+        "weather": "霧雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 21.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "temp": 19.2,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 21.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 35
+        "temp": 19.0,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 22.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 19.5,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 22.2,
-        "weather": "強い霧雨",
-        "precip_prob": 61
+        "temp": 20.2,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 21.6,
-        "weather": "霧雨",
-        "precip_prob": 75
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 21.0,
+        "temp": 21.3,
         "weather": "霧雨",
-        "precip_prob": 92
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 20.1,
+        "temp": 20.9,
         "weather": "弱い雨",
-        "precip_prob": 88
+        "precip_prob": 92
       }
     ]
   },

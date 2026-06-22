@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-22T21:02:31.530962",
+  "generated_at": "2026-06-23T00:04:26.020701",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 19.6,
-    "temp_max": 27.3,
-    "temp_min": 19.3,
-    "precip_prob_max": 29,
-    "precip_sum": 0.5,
-    "wind_speed": 7.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.3,
+    "temp_max": 24.7,
+    "temp_min": 18.3,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 19.3,
+        "weather": "曇り",
+        "precip_prob": 4
       },
       {
         "time": "03:00",
-        "temp": 21.2,
-        "weather": "曇り",
+        "temp": 18.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 21.1,
-        "weather": "快晴",
+        "temp": 18.8,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 24.7,
+        "temp": 21.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.2,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 23.3,
-        "weather": "曇り",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 4
       },
       {
-        "time": "18:00",
-        "temp": 22.0,
+        "time": "15:00",
+        "temp": 24.7,
         "weather": "晴れ",
-        "precip_prob": 29
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 19.6,
-        "weather": "曇り",
-        "precip_prob": 14
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },

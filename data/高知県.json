@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-06-22T21:04:11.346805",
+  "generated_at": "2026-06-23T00:08:31.100522",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 20.4,
-    "temp_max": 26.9,
-    "temp_min": 19.9,
-    "precip_prob_max": 68,
-    "precip_sum": 2.3,
-    "wind_speed": 3.1,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.1,
+    "temp_max": 21.0,
+    "temp_min": 19.4,
+    "precip_prob_max": 92,
+    "precip_sum": 13.8,
+    "wind_speed": 5.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.6,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 78
       },
       {
         "time": "03:00",
-        "temp": 21.8,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
       },
       {
         "time": "06:00",
-        "temp": 22.2,
-        "weather": "快晴",
-        "precip_prob": 29
+        "temp": 19.8,
+        "weather": "強い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "09:00",
-        "temp": 26.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 20.2,
+        "weather": "弱い雨",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 26.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 20.5,
+        "weather": "雨",
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 24.6,
-        "weather": "曇り",
-        "precip_prob": 8
+        "temp": 20.9,
+        "weather": "霧雨",
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 22.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 47
+        "temp": 20.6,
+        "weather": "曇り",
+        "precip_prob": 55
       },
       {
         "time": "21:00",
-        "temp": 20.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 47
+        "temp": 19.7,
+        "weather": "曇り",
+        "precip_prob": 41
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月22日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNC1CYlJDOVhFM2RHSnVJQzVwWUYtM2JrVDNndTNKWFJmeFFGcVVYZ3pvU1F4MFhKQlFYSUdpejV4TkpOMEI2NTktMUJEYkRJT1JtVzg3c0lIZHcxcnFpY05lUXltV05pakJGYVpwOWgtd1NLMVdhQVhtZzg5NGs?oc=5",
+      "date": "Sun, 21 Jun 2026 20:00:33 GMT"
+    },
+    {
+      "title": "６月２２日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ua0VseXNBbEp2SGVqU0dHQ3hnRXlVbEpzc2p5RHQwWVoyWUs2cDAxYmN6X1otYS05WWhVNzNHUlB1MFRramhGa0I1OEVEb3ptMENQMFVOTEFMV1U?oc=5",
+      "date": "Sun, 21 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "６月２１日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45YjBTNzZiOVJTR1FQb2RTYXdtRzY1VWxiX1Y5WlF4TzVNTzFjeldMbVlSVGYyZHFfTmwwbnQ2N2htV25NMzAzTXhVS1diem5QQXJPdmRPa0kwNDJaNzZFNHJuNnNKdzVvSFlCZk90OWlEalFoRFNV0gF3QVVfeXFMTjliMFM3NmI5UlNHUVBvZFNhd21HNjVVbGJfVjlaUXhPNU1PMWN6V0xtWVJUZjJkcV9ObDBudDY3aG1Xbk0zMDNNeFVLV2J6blBBck92ZE9rSTA0Mlo3NkU0cm42c0p3NW9IWUJmT3Q5aURqUWhEU1U?oc=5",
+      "date": "Sat, 20 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "6月20日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZWZXOVZabERORnlrTVlfZGV5RnFhS1ZVZ01QUFB2UDlES2dWT0o5MG9MUzdFVmdYNzlEVy1qNW51MEMwZFJ3ZHowODV1OTk1NS1fdnJJN1NTVURRb2M1dGN0RGF2UW9wTHU2M3lHS1h2Y0NYR1JxRzRfUmgyNXc?oc=5",
@@ -73,48 +88,33 @@
       "title": "６月２０日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jMnNTcW53UE81WkVueWdtSUw1NEIzUTZzYVI1Qm1QME55ZV95Ulk2X0M0UHVrZzlTQ2szcjVDcUU4OE0xUEJoTFVVOEg0VF8tRzd4TkR5djFLQmM?oc=5",
       "date": "Fri, 19 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "６月２１日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45YjBTNzZiOVJTR1FQb2RTYXdtRzY1VWxiX1Y5WlF4TzVNTzFjeldMbVlSVGYyZHFfTmwwbnQ2N2htV25NMzAzTXhVS1diem5QQXJPdmRPa0kwNDJaNzZFNHJuNnNKdzVvSFlCZk90OWlEalFoRFNV0gF3QVVfeXFMTjliMFM3NmI5UlNHUVBvZFNhd21HNjVVbGJfVjlaUXhPNU1PMWN6V0xtWVJUZjJkcV9ObDBudDY3aG1Xbk0zMDNNeFVLV2J6blBBck92ZE9rSTA0Mlo3NkU0cm42c0p3NW9IWUJmT3Q5aURqUWhEU1U?oc=5",
-      "date": "Sat, 20 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月19日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XUEZZZk9kdXRJak44eGRyMWZNd1lCUnNzc0xpTlFkMGdlTkVLcmZRNVA1MXgxRTZBYmViVzhvNHEzVTQ4NVdWS2JsWEpxZW1EZXV6aFdkYmh5THBMSEk0a0kxc2g1OXEzNlNBeml3VEEyR1BERTRCNTRUaFlXeWs?oc=5",
-      "date": "Thu, 18 Jun 2026 20:00:33 GMT"
-    },
-    {
-      "title": "６月１８日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56UDZNbUtidW5UX0ctUzVOOVRXQ2tJNkQwSlBFbkhKanItMlJSYnZwdmJDT3QxX3NjSG9lZmxLS3R2cWF3dDJrVDVxREhxV3E0aXF0NnpPUFpvZEE?oc=5",
-      "date": "Wed, 17 Jun 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "高知市の国道で車とオートバイが衝突 オートバイの21歳男性が意識不明の重体【高知】",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2oxUzBJNWYzbDMwcndSRy01UUE2YlZJM0RFZFZiQkNjeDdjaHRRV0xPa2NGejhWV0FJODg5cDBQQ1E4NjZ6SlR2VnJwNmlRREQyZDZLYWNsbllCSkZEbjR3MGlFZm9ZVlduMzNSSVVvY3BJZTdHdDBaY1Z5Q2tHek5JMGl3cmc?oc=5",
-      "date": "Sun, 21 Jun 2026 10:04:00 GMT"
-    },
-    {
-      "title": "高知市で死亡事故2件相次ぐ【高知】（2026年6月21日掲載）｜RKC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnEyOVhCMkRWVzZPTTd1THc2OGZKWVVNOEZTLXRzMmVpUEZURURFWWRWQWxvWlFFZWRfSDJRT3hqbUJudzlwOUQ4OXc5UHZ1UUY4Ykktd1RwVUNiMmozblVMMmFRdWhkbzBva1RyUlhRcTlJN3piM3A2bkVFeGJiZUVjS3BDLTg?oc=5",
-      "date": "Mon, 22 Jun 2026 02:52:00 GMT"
-    },
-    {
-      "title": "交差点で“転回中”の車とオートバイが衝突、バイクの専門学校生（21）が死亡…車運転の77歳男性から事情を聞き捜査【高知】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaE9QWmRpMXpXSnl5LTJmRXBVVVNtT2wxbU1KWmU5VUZIcUJfdzNrQXkwTFBhNVBsVUxFWmQtWWtMczFiUWFJWkhEck1HRElaRm9aa09ZR3J4Z1ZtcERLRWNrTzZUV2pKbVZrRFEyRlVFd3FiVkV5N2pVSXNJOEk?oc=5",
-      "date": "Sun, 21 Jun 2026 06:50:25 GMT"
-    },
     {
       "title": "交差点で“転回中”の車とオートバイが衝突、バイクの専門学校生(21)が死亡…車運転の77歳男性から事情を聞き捜査【高知】",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZDFrZkszczY0TFV1MmVqV3UzSHQzUWVBMzNMODk4czhzZ29IaGVQQ1RPYXQ2WlQ5ODRzZHlHSW5fRC0xblZjYW9aY0x3aVNjTnRmbVVJV2h5RjBhWkV4a1NXdm5JV2NM?oc=5",
       "date": "Sun, 21 Jun 2026 06:40:00 GMT"
     },
     {
-      "title": "土佐道路でUターンした普通乗用車とバイクが衝突 意識不明の21歳専門学生が死亡【高知】（高知さんさんテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80WHZGeHFQM1dnS2tsNGloS1o3OXJqczl2RW55MFJ4Tk5Sd1hudjB6SHU3RC1qVENfcVBIc3lIMXB3TnNvdlV1YnFQMkI3OWJGcnhLWE1pUDhoU3psUUFRcGdrZjZlZnZQaUtFSHJENl9SZklkNmY5Q0k0SlA?oc=5",
-      "date": "Mon, 22 Jun 2026 10:22:00 GMT"
+      "title": "【日録交通死亡事故】2県3人［6/21］高知県高知市で1日2件 | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ycFMwVEZxTEFtWnJicVZDaEtKUGdwM1FYeFM3eXprNVR0NWRuQS15aThad2pBZ0g3N0xfS3FjUmEzRERVX2twLXBZY3hFeDhIbTkzNEJWM3lJNXcxTnJR0gFkQVVfeXFMUHE2Nk1WbmYzTDNFdW5lWWt1ak9nVkVldFBveDFEY3Q2Nm9FRTFWdnJvQUVMRmN2V3MyQXAyTGJqX0hfYzZIM2lQck1SR1RKcDI1NTFXTVFsQlNuakdXSVpVeENMbQ?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "道東自動車道バイク事故 死亡男性は高知市の67歳",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPdTZjRzVSaW5vNDNPVTlYeGszU2J1TXItV1NJYWRzLVgzTXFrQXBOT3ZsYko1NU82N2FPNlJhY0pOSnVxU25BcXNJZFpCNzRKeV9xR1dfX3dhZw?oc=5",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "右折車と横断歩道を走行していた自転車が衝突 69歳男性死亡【高知市】 « 高知のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWnJiUXkwODZ3amlJYUxoLVZVZDEyRXN3bFhENnZtcWhEU05tS0JCdDZEOHpCREdyS250bEtTRXczUFVBNWlEcm0tdmJkZDFwbmlEYTVPQ2Z4N1U?oc=5",
+      "date": "Fri, 12 Jun 2026 09:57:00 GMT"
+    },
+    {
+      "title": "道東道バイク事故 死亡男性は高知市の67歳",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkRS1sVllHX09rTmNKTWw4XzFwR0dic0J2dkFibGx0c0t4U2N2MUZPaEVvLWF0amJXTEVMS1dUS3BkbnZBX18zOVZkcw?oc=5",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
