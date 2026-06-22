@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-22T12:03:15.096552",
+  "generated_at": "2026-06-22T15:03:19.153332",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 26.2,
-    "temp_max": 26.3,
-    "temp_min": 22.5,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 24.8,
+    "temp_max": 27.4,
+    "temp_min": 22.0,
     "precip_prob_max": 77,
-    "precip_sum": 0,
-    "wind_speed": 6.9,
+    "precip_sum": 2.0,
+    "wind_speed": 5.2,
     "hourly": [
       {
         "time": "00:00",
@@ -33,51 +33,46 @@
       },
       {
         "time": "09:00",
-        "temp": 25.6,
-        "weather": "晴れ",
+        "temp": 26.4,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.2,
-        "weather": "晴れ時々曇",
+        "temp": 27.0,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 24.4,
+        "temp": 24.8,
         "weather": "曇り",
         "precip_prob": 18
       },
       {
         "time": "18:00",
-        "temp": 23.5,
+        "temp": 23.7,
         "weather": "曇り",
         "precip_prob": 45
       },
       {
         "time": "21:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
+        "temp": 22.3,
+        "weather": "弱い霧雨",
         "precip_prob": 69
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "6月22日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wbkozTENGdmFSM3RZQWNXT2NnSGJJNlFheHBYNjBoakxJdm1nenp2cnIzSU0wN25GWk8zRHpCM0VQaFlKbmxST0dIekFSZ2drYlRGSTlENDJxazBKaC1LSDh5TXVTVUt2QzIwTnNjd9IBdEFVX3lxTE8tMDJTSkpjcEpoZWkyYkpyZDNVNW9XcDk4V2pBRldGaVllSmVHMkVFeUNaUVB4dGRtQ29oY3hqR0VSWnZTZndDWlp6Q3BsWmhJay1tYXFrdFQxSlI2cWhoa2NaNnhPcW92X0luNjNVS3FVeEdC?oc=5",
-      "date": "Sun, 21 Jun 2026 20:07:23 GMT"
-    },
-    {
       "title": "6月20（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WklXZXdxN1phNjNYVVVDVnVqaWJBaURJYm5DMkpGak1kMklwSzBCblIxWDhUeENZM3k3U2ZDWVBqNlhaR2t3a3pmOG5vU1pIdktHdE1qbHpfN2Y3eFRsNU1ITDFOTXdlYjZqYndyb9IBdEFVX3lxTFA5ekluckJZS2tBM0QwSnk2SWc5b3FlLW8zcmpnaEdKM0FjUmdSQzZXMVlFYUVGbWJ5b2tZZFBieUhfVGVfLVpUN0x2czQ3TkdkVnFFWHR1eXB0SFh0Qk9VcGFtLVBOLUpQdkZMdHJaS3c2VW93?oc=5",
       "date": "Fri, 19 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
@@ -88,18 +83,28 @@
       "title": "飲酒運転の増えるお盆に交通量の多い道路で検問 飲酒運転の取り締まり 静岡・沼津警察署",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYUprUGRXOWNGaFdQdC1hSGJMdWlRU2pkS0hoYV8zamhMeEdQVXVCUEg3Q3BLMENyZVlrTURId1Y3RzdyT0lDU2V3VVNsSmFsQXQ0SXVjVHBaYmUzTXN6eg?oc=5",
       "date": "Sat, 16 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転は大変危険な犯罪」警察が抜き打ちの飲酒検問＝静岡市 | 静岡のニュース | SBSNEWS | 静岡放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBycENIdF9FS3E3anZocGUxZlJpN0lOS0ZFOGJGTXdaU2ZibGFIM28yWlljVmwybktOR1VhOHhrc3pyRUZPajBvZUNLSHRybkRXZEk5Z25UZTRBZw?oc=5",
+      "date": "Sun, 14 Jul 2024 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "「交通死亡事故ゼロ連続２００日」表彰の日に死亡事故…軽乗用車にはねられ歩いていた８３歳女性が死亡 静岡・富士市",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JX0FxLTF2ZUdra09GYTZRU3F5ZTZxSkdrRVhYcXkzVFJRcGZuc21wZG5wbmRXRnhzdm9KdWdlTDlYOHVDcDdOc2I1QUFXSHdD?oc=5",
-      "date": "Wed, 17 Jun 2026 06:27:47 GMT"
+      "title": "清水町で原付バイクと軽自動車が出合い頭に衝突し78歳女性が意識不明の重体 警察が事故の詳しい原因調べる（静岡）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk5fRnBtcHNXOWNPcEJiZUpJT3hXUmtsOEt6eW1VMTg4b0tqX3pEWjdBd1Axc21mNDktbktyYzZwMkdNUDRQWEVjVzAxUEt5MjBqNE9OUzY1QnNtSUpMai04cWJBcGU0NUxvSy13aG9HM1FwOGZrX091VHV6OXIyd0ZzRklmR1E?oc=5",
+      "date": "Mon, 22 Jun 2026 03:04:00 GMT"
     },
     {
       "title": "三島市、交通死亡事故ゼロ３００日達成 静岡県対策協が表彰",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JTGNkZ2VnVWF2N28zVWMtRGF3cmdyTF9NUkJXSE8waXdTbEh0UVgzY0FFSHJqWnpab193d2M0Wm5KZWpOWXFsaGJjUkdLQQ?oc=5",
       "date": "Thu, 18 Jun 2026 21:00:00 GMT"
+    },
+    {
+      "title": "【静岡市清水区】19歳の女を酒気帯び運転の疑いで逮捕 交通事故起こし発覚（静岡県警清水警察署）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkdwTU5TOUZTNHZLTXpETjZLdjNkdjRNNlRsV1FXSkt1R29TT1g5UjNfcHpPNTVXRTRBUm1hUWQ2ZGRzbDRsQ0N4MTNJX2JiZXYwRlNWSUxtLVpMZTNxSnlHbGtWcDVDYWlNNnZSQTg0ZXZQU1VZWWRiT2RQdS1XNUotTlRjMXoza2ZGSnJ3?oc=5",
+      "date": "Sun, 21 Jun 2026 09:48:00 GMT"
     },
     {
       "title": "【静岡市清水区】19歳の女を酒気帯び運転の疑いで逮捕　交通事故起こし発覚（静岡県警清水警察署）",
@@ -110,11 +115,6 @@
       "title": "交通事故の発生件数が全国20の政令指定都市の中で最多 16年連続 脱「ワーストワン」へ啓発活動＝浜松市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oXzc3ZlRKclByWU9STVZadFlGY2o4bVF4WUY5NXlQNklFZ0NWVWl4YWd1SlJKYUZxdjl3Um83WXZvTy01SFFNYWJnNDh5dV9MY1RURnNueTlFVmNFX3JYOFpvTnlJWGs?oc=5",
       "date": "Sat, 13 Jun 2026 08:54:00 GMT"
-    },
-    {
-      "title": "【磐田警察署】しずおか・自転車事故防止3つの柱+1",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0Z5QVVKTnIyenRVeEZQMWdBbzBRTlk2dmpNX1RYMU9WZ1M0dlFpeXR3TVZTMEhyazMzSXRJMDhPbGQ5aWdDM0s1Vk1uUGhSU0JTd0NHQWY1VzJEVlVVdjZaYkczNDVhUnJpM1FWVnhyUzNwQ2t0d2JCOFk0a3diRW5udzNIcjg2amtZ?oc=5",
-      "date": "Tue, 02 Jun 2026 14:28:57 GMT"
     }
   ],
   "official_links": [
