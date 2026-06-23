@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-06-24T03:05:47.145739",
+  "generated_at": "2026-06-24T06:03:46.599028",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 19.0,
+    "temp_max": 22.0,
+    "temp_min": 19.0,
+    "precip_prob_max": 100,
+    "precip_sum": 163.6,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 19.2,
+        "weather": "霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "06:00",
+        "temp": 19.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "09:00",
+        "temp": 19.8,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "12:00",
+        "temp": 20.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.2,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 21.8,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "６月２４日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZGhTLXJaV0NBWUZvMEdDS0Jpanc3Nk9HcTd0X3VXMFZRVTAwdE5DeUk1VXRiYUxtOHdHbW5jZDlac0lELTdxTnlQMTJlLU1kcGxFQmdCMzNLUEdxM0F3bHZ5V0xSLXZ2NDgzYmw2WWY1OXdNUnp30gF3QVVfeXFMTUlkaFMtclpXQ0FZRm8wR0NLQmlqdzc2T0dxN3RfdVcwVlFVMDB0TkN5STVVdGJhTG04d0dtbmNkOVpzSUQtN3FOeVAxMmUtTWRwbEVCZ0IzM0tQR3EzQXdsdnlXTFItdnY0ODNibDZZZjU5d01Senc?oc=5",
+      "date": "Tue, 23 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "6月21日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnRDS0p0b1UwaTNaa2tIdG9xUnpURG9aSFVKRXBqZnpZTG84NnJMS1ZGVF95Y01KcXBKdUFJc2J3MXVkc0VhN1hocFpOMVF1amthU2tDVlkxVHM5NHA4aUhQM2NKZXh0c1otVDBYWWxYbzRwbVFjdW1OWDUtOVk?oc=5",
@@ -16,14 +80,9 @@
       "date": "Sun, 14 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "６月２１日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45YjBTNzZiOVJTR1FQb2RTYXdtRzY1VWxiX1Y5WlF4TzVNTzFjeldMbVlSVGYyZHFfTmwwbnQ2N2htV25NMzAzTXhVS1diem5QQXJPdmRPa0kwNDJaNzZFNHJuNnNKdzVvSFlCZk90OWlEalFoRFNV0gF3QVVfeXFMTjliMFM3NmI5UlNHUVBvZFNhd21HNjVVbGJfVjlaUXhPNU1PMWN6V0xtWVJUZjJkcV9ObDBudDY3aG1Xbk0zMDNNeFVLV2J6blBBck92ZE9rSTA0Mlo3NkU0cm42c0p3NW9IWUJmT3Q5aURqUWhEU1U?oc=5",
-      "date": "Sat, 20 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月23日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOURJNWJ1VmEyRWlhM0IxQk9VQ0F4MjB4bkVnV2tmMjQ0OE81ZEdfelB2cjd4aFFOWFBBLVNSdDQ4V3hKbm15NUxVLUpiYXVEWnJoY2dZbFVGQ0M4U3BwQ3N6Nl9GUm14Z3ZWQTRlOTFMeUE3T0ZOMzllWVVObEdENS1fY2I2UzczdE9kWnhR?oc=5",
-      "date": "Mon, 22 Jun 2026 20:36:35 GMT"
+      "title": "6月19日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XUEZZZk9kdXRJak44eGRyMWZNd1lCUnNzc0xpTlFkMGdlTkVLcmZRNVA1MXgxRTZBYmViVzhvNHEzVTQ4NVdWS2JsWEpxZW1EZXV6aFdkYmh5THBMSEk0a0kxc2g1OXEzNlNBeml3VEEyR1BERTRCNTRUaFlXeWs?oc=5",
+      "date": "Thu, 18 Jun 2026 20:00:33 GMT"
     },
     {
       "title": "６月１４日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
