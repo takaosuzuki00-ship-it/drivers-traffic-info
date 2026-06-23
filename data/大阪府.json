@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-23T21:03:26.507513",
+  "generated_at": "2026-06-24T00:03:53.554670",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.9,
-    "temp_max": 25.0,
-    "temp_min": 19.4,
-    "precip_prob_max": 4,
-    "precip_sum": 0,
-    "wind_speed": 4.7,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.3,
+    "temp_max": 21.3,
+    "temp_min": 18.7,
+    "precip_prob_max": 100,
+    "precip_sum": 68.5,
+    "wind_speed": 3.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.4,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 19.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 19.6,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 21.7,
+        "temp": 20.3,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 19.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
         "time": "12:00",
-        "temp": 25.0,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 20.8,
+        "weather": "強い霧雨",
+        "precip_prob": 22
       },
       {
         "time": "15:00",
-        "temp": 24.1,
-        "weather": "曇り",
-        "precip_prob": 4
+        "temp": 21.1,
+        "weather": "弱い雨",
+        "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 23.5,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.8,
+        "weather": "弱い雨",
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 21.9,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.9,
+        "weather": "強い雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "6月22日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paW4xX3dPWlctS1pvMVN3MVQ0Y1lJY3F3SU5qbnQxN1F3MHUxT1JacnlsT3JLMmJ6Qy1qeXVUQnhwcnFCOGZuenE1Y2t4MnhJRmQ0eFlDZE9OZjZlTFdFaXRSLVZBUVk?oc=5",
+      "date": "Sun, 21 Jun 2026 20:00:00 GMT"
+    },
     {
       "title": "府警フォトニュース（速度違反特別取締隊出発式）",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
@@ -75,19 +80,14 @@
       "date": "Sat, 20 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月20（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MOFhmNl9lSkZLOHhaQmUybmJFc0l6eXctRnBZYTgtMGdya1hrRFRkbTFGSGk0RTNoRU03LWg0akFGbWJ5cW9RczdGWmM1N3JSUm9HOEF2anRkc1E2QnRWMkw5X1BVbms?oc=5",
-      "date": "Fri, 19 Jun 2026 20:02:00 GMT"
-    },
-    {
-      "title": "交通違反取締強化！（茨木）",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWpTZzRPdmQwbFJfYkNYWGRwOFRHTFVBblJ3RURWT21VQlBXRnVGczVBaVpxbm5rbHJHRlVOQlo1YUQ0a2hBYy1hd1dTbGw1VWFiTjhJUXpKM3I4R0JNS0NxQkZSOU1TNjl1dXJYc1o5bXFSVkJGYzBHUTJVUHJVRkctcUpkRkE1aFd2Z0QwQTJDZXFFWFM2ajdvVkNTTkhrcWxHWENZUGgtSE0?oc=5",
-      "date": "Fri, 05 Sep 2025 07:19:08 GMT"
-    },
-    {
       "title": "6月22日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RVU5tLUtqdW82SEZsaTYxdzdFd0tYbjcxVTM2TFdEdGo3TjZEdFFjWmVWNnFNTzA3RmNEYXBUcml6WTVDc2ljQUJGcS1VWVZVOVZEdF9aVEh6dm42U1dIVWllYWlnRGFiOGVRLWtn?oc=5",
       "date": "Sun, 21 Jun 2026 20:12:00 GMT"
+    },
+    {
+      "title": "6月20（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MOFhmNl9lSkZLOHhaQmUybmJFc0l6eXctRnBZYTgtMGdya1hrRFRkbTFGSGk0RTNoRU03LWg0akFGbWJ5cW9RczdGWmM1N3JSUm9HOEF2anRkc1E2QnRWMkw5X1BVbms?oc=5",
+      "date": "Fri, 19 Jun 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [

@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-06-23T21:03:59.009327",
+  "generated_at": "2026-06-24T00:04:24.561731",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.2,
-    "temp_max": 23.7,
-    "temp_min": 19.5,
-    "precip_prob_max": 29,
-    "precip_sum": 0,
-    "wind_speed": 1.4,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.4,
+    "temp_max": 20.4,
+    "temp_min": 18.7,
+    "precip_prob_max": 98,
+    "precip_sum": 76.5,
+    "wind_speed": 3.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
+        "temp": 20.4,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
+        "temp": 20.1,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
         "temp": 19.6,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 21.2,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 18.8,
+        "weather": "霧雨",
+        "precip_prob": 41
       },
       {
         "time": "12:00",
-        "temp": 22.7,
-        "weather": "曇り",
-        "precip_prob": 29
+        "temp": 19.3,
+        "weather": "雨",
+        "precip_prob": 92
       },
       {
         "time": "15:00",
-        "temp": 23.6,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 19.9,
+        "weather": "雨",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 23.4,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.0,
+        "weather": "強い雨",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 21.2,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.2,
+        "weather": "強い雨",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "６月２３日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzBvNmMtWURzcG1GTFNyUlRTWTV4LWd6cjNQMU5EbV9UaEdiVkFqdjN2TFBTUENsNndfSS0xZFRIY2NSdjM4QWlzWlhiYzBFeWFNQVJIVWJtN3otcmhlSUlSbms1bG5WcFg3aXdoQnBHSnRvbTRvVUtqNmlkOWZXbkxISkvSAXdBVV95cUxQVG1wZFFQTExYZjZ6UmZQUzVENGYzRlNjbTVncTlJTWkyNS1JNnh5RjFMblJaaGRGVHp2N3JoZjhQREFWaWNuQ2dqMFFkdzRyaUdqSDhXWlMyc2U1WktWakxBWV8ycFFheXFiSHJMNUxVMlRwN3Jubw?oc=5",
-      "date": "Mon, 22 Jun 2026 20:15:34 GMT"
+      "title": "6月23日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRDU0Z1pOZzk4NjI5a3VMUTdlWTk3dm9rYzV4SWRnX2VyWDUteXpEUDJReUN1aTVQWklWWjJoNEY2Zy1OQTJ2MjlYMHJnYmdVVUQ0MTZjZ1owWWc2UHpLWVhVaTVVZld0Y1hXOHVMONIBdEFVX3lxTE5BcFctMExscWhOUnE1cVE1RW9sRjM1b045TU14VGNFWldTQlRpdTNjczhnMENDLURfX2tNanp6TDBwdUtqa3FSZmVFOVdPeGR4T1dHMXVMMS01T2NvWkpheUdBaXozTUY0RTc4bkF0TWJ4bTl5?oc=5",
+      "date": "Mon, 22 Jun 2026 20:05:01 GMT"
     },
     {
       "title": "6月18日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
@@ -80,9 +80,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "6月21日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yS3dTbWZvVWxNQ3ZWdFdNZUFnX0pNaHl0SHBfcGVyZVdsSGZpWERzVmFsY2NuOU9rYXFBTVhuZ3dUS1Z5QzNwQVpqY0x4NGhtaUJ2cDNNMXhIVERYSWozVlBfY2RDOW9LcU5yaVZfQdIBdEFVX3lxTFBkNHZGSHl5aXgwNHZpdDVqbXliczN3dzBoTkdaenBtYmZZeHl2NGZTb0dBUk11RG5ZRWx1UVp0MmhxZkZGazNRaE1Hc0dncm13eDNNWmdnc09IQ1BNei0zV01adnV5YUVBQVc0dGpFZHA4aV8z?oc=5",
-      "date": "Sat, 20 Jun 2026 20:02:00 GMT"
+      "title": "6月23日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHN0NpTlJKOVpCOURoWGU2YXRGZ1drbW9DU2hDYVNqUFl3V2RaRXktTlZuckx5Q1B6M2RwWlhyNVdUejd4ajNKcUVwc1R1aEc4eWhEaHV2Qk5sYXFUYUdJVUFiWGlhNWxnY0l6YVNCNNIBdEFVX3lxTE8tTnA3Z0JVXzJyLTlPcjhxbHlFb0xLang1SGx2TjlDdUR5ZzROcVVjYjVTcVJYNFpyUUJsa2w1WW5vY0M5UThxdXdwc2hha3hoa0tTZmFCaWNhdTRnRFNxTlpnUC1ySC10YUp6Y3NlY3lyMFFs?oc=5",
+      "date": "Mon, 22 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "国交省が「すぐに車を直せ」\"命令\"！ 「爆音」「シャコタン」「ハミタイ」の\"大迷惑車両13台\"を一斉摘発！ 「旧車イベント」参加の\"不正改造車\"を一網打尽 岡山",
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "事故防ぐ夜光反射材の着用を 相次ぐ事故受け岡山西署 スーパーで啓発",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERlVDQ3lwSkZYTWQzUmFfOXVLMVNhR1p5OVVoS2JZVTVZMXZJbUhKMklxYVhXY1c1R3ZtOE1Tdm1tZ29OX2RRZVQ4WE1pMlppV1E?oc=5",
+      "date": "Mon, 22 Jun 2026 23:42:17 GMT"
+    },
+    {
       "title": "【続報】大型トラックに挟まれた軽自動車の男性(63)が死亡 岡山市の国道2号で車4台が絡む事故",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MaTJraDFheXdaX2NEczNEOFpxWlZLcjNQVktCWkVsOEhreFBReDdud0xINWZ6OFZ1TkFjbl9JSmJ5Z1oxc1FmTTdQN3RPN3RJ?oc=5",
       "date": "Tue, 02 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通事故遺児の就学に役立てて 岡山トヨタ自動車が１００万円寄付",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUnM5NDhBWjR1ZjUydG0yMnFfUHFwZ1Zna2tPNnJfN3lPOWxsQlZFUmtkbWw2Z0FRVlRrV0ZlZVhIdWdpMXFENmRUSFFIY0g4X0E?oc=5",
-      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "トラックにはねられ女性死亡 岡山県美作市の国道179号交差点（山陽新聞デジタル）",
@@ -112,9 +112,9 @@
       "date": "Thu, 18 Jun 2026 11:00:00 GMT"
     },
     {
-      "title": "西部技術コンらが安全衛生大会実施 休業災害・交通事故ゼロ目標",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1BrZWtCLTdEZmE0aVgxOE9haUV1b2lLbWZISkV0emRWRW83b19HY2RIZHUwdEl4aG5PNS1hOG5aRjlCcTJDcG1mUFRCczRFSEh0RzhTNTIwZE5IYU11Rm4zb2JBb0FtLUlVZG1ORVFXcG83Y3psNERfdzlNTmVjYg?oc=5",
-      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
+      "title": "交通事故遺児の就学に役立てて 岡山トヨタ自動車が１００万円寄付",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUnM5NDhBWjR1ZjUydG0yMnFfUHFwZ1Zna2tPNnJfN3lPOWxsQlZFUmtkbWw2Z0FRVlRrV0ZlZVhIdWdpMXFENmRUSFFIY0g4X0E?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
