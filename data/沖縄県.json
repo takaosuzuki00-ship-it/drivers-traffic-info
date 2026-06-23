@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-23T09:06:05.660772",
+  "generated_at": "2026-06-23T12:06:56.120054",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 96,
+    "weather": "雷雨と雹",
+    "temp_now": 30.1,
+    "temp_max": 30.3,
+    "temp_min": 27.1,
+    "precip_prob_max": 66,
+    "precip_sum": 3.7,
+    "wind_speed": 20.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.3,
+        "weather": "雷雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.2,
+        "weather": "雷雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.3,
+        "weather": "雷雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 30.1,
+        "weather": "雷雨と雹",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 30.1,
+        "weather": "雷雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "雷雨と雹",
+        "precip_prob": 57
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月23日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHN0NpTlJKOVpCOURoWGU2YXRGZ1drbW9DU2hDYVNqUFl3V2RaRXktTlZuckx5Q1B6M2RwWlhyNVdUejd4ajNKcUVwc1R1aEc4eWhEaHV2Qk5sYXFUYUdJVUFiWGlhNWxnY0l6YVNCNNIBdEFVX3lxTE8tTnA3Z0JVXzJyLTlPcjhxbHlFb0xLang1SGx2TjlDdUR5ZzROcVVjYjVTcVJYNFpyUUJsa2w1WW5vY0M5UThxdXdwc2hha3hoa0tTZmFCaWNhdTRnRFNxTlpnUC1ySC10YUp6Y3NlY3lyMFFs?oc=5",
+      "date": "Mon, 22 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "6月14日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KMWp2aW0ydHFUWHd1TlE3ZG4xVzh4UURpcDJmanFwUFRhZml3ZHMxTmZZdm1yZkp1aTRpUzJCcG5hS2RneTY2UXFCZ2pCYkJtUVFma1UxZWRUeG1ZdUg0aXZ6eEFuSDluTllQb3VyZ9IBdEFVX3lxTE9TOGRWdXBOT3Z1cTc3dmZrZHJpYVU1SmFmeDlySjZTenJlS3hwcE84cjd6cmJvVXk5bWRnWUNUU1FKSV9aeGZfOFhSUzYyWXJwQUo1ck9Jc185ejhZc0FWdVNaYjFiTFRrSzlYUWJXSTdIQzBp?oc=5",
+      "date": "Sat, 13 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "飲酒運転防止へ一斉検問 沖縄県警、未明から",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSnFBYm5TQlJVdFp1ekhCcmF5bm94Z0pOQjZ6T3Z0Z05IbUNQNFlNQXJqcnc0M1pWc2M1bXktN3lmN29FbXhIVW5KMXNJZXVMRnhxVUNOWFdpWVU?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "男性はねバイク乗り捨て ひき逃げ容疑で日本語学校生を逮捕 沖縄・浦添署",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNNk9EVHY1Y2pOcExxdzhFWkxLUVBaWXJwX1l1Rm5VTFVPV3d5M21nM2E4Qmk2akZsRlc0SWV2d0xRam9xcEFudTZ4dFotMHc0RGxtcXBhbTZLOGxUNFE?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒の交通事故率 25年沖縄は全国最悪2・95％ 5年連続 死亡率は2倍",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mV0pGbHh5SzNMVlpzZzZCWHhQNVd0M1ZxcDRDbFNsOVhDZFZFZk9ZQ0xQeEtWblhmV0dySHZLQkp2OVFnSG9wMW9fTGNqUVl5TjY3NTlkcXFFMU5SWHFocA?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "糸満の死亡事故 危険運転致死容疑で男逮捕 赤信号を無視し直進、衝突か 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NGszaktXMXRlRkVVQnBDYUdTS29kempRUnZXZ0dQYlg1cnBGUnVFaEtha0RCTnYzdWcxR2d5YUlmcmxkdENfc1lqNG5ndENwSzNuUTlsMkY1M2NvaTdNTmZlcm53MTJwNVBXWU1fdXEwb3hnVUZ0XzJod1VBNm8?oc=5",
+      "date": "Sat, 13 Jun 2026 03:21:25 GMT"
+    },
+    {
+      "title": "那覇市の中心街でオートバイとタクシーが衝突 オートバイの運転手が骨盤骨折の重傷 タクシーの客は軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54MU1oYVZJUGZYZkJBTUotZ014ckhmcVV1dVJORHJsVUxyMEJhMVVFY0w3VXB0aG11LVRjZEhMNW9PRGNlYUx5dDFUWHNFWnNsOXRodTlDNUZSdw?oc=5",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒の交通事故率 25年沖縄は全国最悪2・95％ 5年連続 死亡率は2倍",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NcHVJenRBVXlCMFJYcHNjRDAyTHg4dW11R0FfTTdLalJrWXFlelNrNURWVDFHaDJPb1FLQXg5QW1xeG1BdlQzbU5ONA?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "沖縄県警察 公式サイトを検索",

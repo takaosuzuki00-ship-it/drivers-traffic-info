@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-23T09:05:40.591234",
+  "generated_at": "2026-06-23T12:06:52.765706",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 23.6,
+    "temp_max": 24.4,
+    "temp_min": 22.1,
+    "precip_prob_max": 98,
+    "precip_sum": 41.6,
+    "wind_speed": 10.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.4,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 22.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "06:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 57
+      },
+      {
+        "time": "09:00",
+        "temp": 23.4,
+        "weather": "曇り",
+        "precip_prob": 59
+      },
+      {
+        "time": "12:00",
+        "temp": 23.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 23.1,
+        "weather": "霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "18:00",
+        "temp": 23.4,
+        "weather": "雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 23.8,
+        "weather": "雨",
+        "precip_prob": 86
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月22日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQkJMWm5NLWFjNmd0ODZlcDZpRUZTdS1ReXh4NVVVMnpFYklNZng3d2VMMXptNmpPVnZRM2VlZkNzelNwS3hZbC1xUUdvXzRuaU5BOW1XUQ?oc=5",
+      "date": "Sun, 21 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "納めた反則金、交通違反じゃなかった…鹿児島県警が“誤摘発”139件 規制と標識が不一致「警察官の認識や連携が不足」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTGZPUmtWNi1zVXY5LWpmV2RueWVIQ1Z5M1JKcERQc1hrNlRMTjY1VFMyY0ljZmpCa0NMWE11ZWJiSi15S3pGS1FjMUQtYUVqZVlJSzlzYw?oc=5",
+      "date": "Thu, 14 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "6月16日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtQzNkcGVSMTZFSkx2clBOYzFiLWljaHAtQWpIeFctQlFQa2ZQS2V5cHFNWTRJUDEzRnJDSmlneEhJSEMyd0NLX3Ayc1FiazRuMmRRcUEydw?oc=5",
+      "date": "Mon, 15 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "今月始まった自転車「青切符」制度、鹿児島県内で初摘発――ながら運転と一時不停止 指導・警告は400件以上",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Zb212Y2EzTGR2dHBDaEp2RkxKN3lDM192NnN2bE01OU84bklaRmk2UlJvaExIa0MybWhzOE01SWRJQlRnN2tjaElPNVRQcXJ6SENpRS05dw?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国内最大スカウトトップを逮捕 鹿児島・奄美で確保、暴排条例違反容疑―グループ全容解明へ・警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKYU82WUs0aEw2cGJYX0R0eEpVdC1RaHJsZkQxeEQyVXgzX1oyUDBkSEhKeVhEUDJGUEFsaWFJaFdiOVhRT0l1UW5JTkktTWlkRGFodXlWRTE5Rjh5UURXOF9Hdw?oc=5",
+      "date": "Tue, 27 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「車が歩道に乗り上げ自転車とバイクに衝突」鹿児島市紫原6丁目で事故 3人が救急搬送",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nblc2UmptQUVmYVV0ckRsMEF3aTY0bTBtUk5kcXZKZi1PV0ItczFid3hEUUNaQ3ZzVFFxelZ6UmdWS0J0WFRjMzZrSFV5TzlUUWR2d2Z2RnNIdzFuQlIyUm9KNXJ0ajQ?oc=5",
+      "date": "Mon, 22 Jun 2026 02:56:00 GMT"
+    },
+    {
+      "title": "「車が歩道に乗り上げ自転車とバイクに衝突」鹿児島市紫原6丁目で事故 3人が救急搬送（MBC南日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGa05OdlNOVkE4UmNKdDJqTlUyOVNBNXlOR2lvWDFuSHVTZFdrNENOZVA2by1nY3lCcS1MampuMTh5TVFzeTgzaC0zT2JoVDVJdjVUMGtfTzVQQ3BWRGJyZjVQU3NsZTlFVnlqNXFuZnpSalFtR3l4Y0dCMHhWaVk?oc=5",
+      "date": "Mon, 22 Jun 2026 02:59:14 GMT"
+    },
+    {
+      "title": "令和7年度「年末年始の交通事故防止運動」の実施について",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uaEMzZXlFd0FCTlQwbU41YmNiT2k4MlpWTDU4RE1wRjVKUEJBMHVJZm5YY240UmphYXhvZzdCcHg3WWo3TGR5NnFUV2drd2Q5MHc2cmxZc1lTTktNU19ZT1F3aG1RRXBfSE1wNERoSTFfMUZSSHlZ?oc=5",
+      "date": "Tue, 25 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "車3台が絡む事故、1人が病院に搬送――右折車に対向車が衝突 鹿児島市の産業道路",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWTWJ1NVBIWHlsS0FfTHlkUE8zQ19uZmNXVmdCOTNTSnhkcGJsY2NJQ1BjNTVISmh0ZVFNTWc4Zl9fanI4NmtJdGRRbS1LRERjZ2FFbEdCdw?oc=5",
+      "date": "Sat, 23 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラック同士が正面衝突 大型トラック運転の男性が出血性ショックで死亡 鹿屋市の県道（ＫＹＴ鹿児島読売テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90aXBFRUQ0cGZfY1NIOHMtbUJ0UU9VVlhlekZmQnVPQ05FUENiS21Bem1hTFpJYkNRSkMxaXl4dWg2SlUwYWNDazc4ZmtQenlqRHg3T19rQ3IwNjdUbFhCd29YVUd5bGNiNkNaWmhnaE4zbUF2ZWE3YkNnRm9fN2M?oc=5",
+      "date": "Fri, 19 Jun 2026 02:53:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",
