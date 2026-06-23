@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-23T15:04:21.012052",
+  "generated_at": "2026-06-23T18:04:37.921205",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 19.9,
-    "temp_max": 21.1,
-    "temp_min": 19.3,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.7,
+    "temp_max": 21.0,
+    "temp_min": 19.0,
     "precip_prob_max": 100,
-    "precip_sum": 46.9,
-    "wind_speed": 7.2,
+    "precip_sum": 37.5,
+    "wind_speed": 9.1,
     "hourly": [
       {
         "time": "00:00",
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 19.3,
+        "temp": 19.0,
         "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 19.9,
-        "weather": "雨",
+        "temp": 20.0,
+        "weather": "強い霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 20.8,
+        "temp": 20.7,
         "weather": "曇り",
         "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 20.9,
-        "weather": "曇り",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 82
       }
     ]
