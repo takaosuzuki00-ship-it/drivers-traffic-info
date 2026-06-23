@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-06-23T18:02:11.539454",
+  "generated_at": "2026-06-23T21:01:23.614607",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 17.9,
+    "temp_max": 21.0,
+    "temp_min": 15.2,
+    "precip_prob_max": 100,
+    "precip_sum": 4.6,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "03:00",
+        "temp": 15.4,
+        "weather": "霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "06:00",
+        "temp": 15.4,
+        "weather": "霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "09:00",
+        "temp": 16.8,
+        "weather": "曇り",
+        "precip_prob": 27
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "15:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月18日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -16,9 +75,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "衆院選 県警察本部が選挙違反取締本部を解散 事前の選挙運動に関する違反で警告2件 秋田",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblhIUWphZ3hrUERUcUlQdE8tekJBbTczNEd5N1V6d2RkbTVNZVoxS2htQk5USGZ0M3BmbXJqbUxNTnJZN21QTGxtYXRJMjNxb1hTTncweDkxTGZwdzVHelh5QXI5c3NGeHNzMTFlcTc5OW1QTDlMLUVCWkpwNnRCV2c1eGVLYUU?oc=5",
-      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+      "title": "6月14日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5idHlRaEJWN2hDYnFZbFJqNnlMbUFZc2VnZEI4emxraGk3TTk5NU0yWmhpSk9LTmoxR3d4elBXNjlGQS15cUw5bTFOR0FGZi1oYnBMOEpTaUdnUQ?oc=5",
+      "date": "Sat, 13 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",

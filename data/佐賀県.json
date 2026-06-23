@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-23T18:04:42.307594",
+  "generated_at": "2026-06-23T21:04:38.037456",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 20.8,
-    "temp_max": 20.9,
+    "temp_now": 20.4,
+    "temp_max": 20.8,
     "temp_min": 19.1,
     "precip_prob_max": 100,
-    "precip_sum": 50.1,
-    "wind_speed": 5.8,
+    "precip_sum": 62.7,
+    "wind_speed": 8.4,
     "hourly": [
       {
         "time": "00:00",
@@ -45,21 +45,21 @@
       },
       {
         "time": "15:00",
-        "temp": 19.9,
+        "temp": 20.0,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
         "temp": 20.8,
-        "weather": "曇り",
-        "precip_prob": 98
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 20.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 94
+        "temp": 20.4,
+        "weather": "弱い雨",
+        "precip_prob": 92
       }
     ]
   },
