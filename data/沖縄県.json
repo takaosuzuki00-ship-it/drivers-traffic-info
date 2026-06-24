@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-06-25T03:35:30.249805",
+  "generated_at": "2026-06-25T06:04:04.841773",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 95,
-    "weather": "雷雨",
+    "code": 96,
+    "weather": "雷雨と雹",
     "temp_now": 27.4,
-    "temp_max": 29.6,
-    "temp_min": 26.4,
+    "temp_max": 30.0,
+    "temp_min": 26.9,
     "precip_prob_max": 81,
-    "precip_sum": 6.7,
-    "wind_speed": 29.4,
+    "precip_sum": 2.4,
+    "wind_speed": 27.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.6,
+        "temp": 27.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 27.4,
-        "weather": "晴れ",
+        "temp": 27.6,
+        "weather": "快晴",
         "precip_prob": 8
       },
       {
         "time": "06:00",
-        "temp": 27.5,
-        "weather": "雷雨",
+        "temp": 27.4,
+        "weather": "快晴",
         "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 28.6,
-        "weather": "雷雨",
+        "temp": 29.0,
+        "weather": "弱い霧雨",
         "precip_prob": 39
       },
       {
         "time": "12:00",
-        "temp": 29.6,
-        "weather": "弱い霧雨",
+        "temp": 30.0,
+        "weather": "雷雨",
         "precip_prob": 69
       },
       {
         "time": "15:00",
-        "temp": 29.4,
+        "temp": 29.3,
         "weather": "弱い霧雨",
         "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 27.5,
-        "weather": "雷雨",
+        "temp": 28.3,
+        "weather": "弱い霧雨",
         "precip_prob": 80
       },
       {
         "time": "21:00",
-        "temp": 26.9,
-        "weather": "霧雨",
+        "temp": 27.2,
+        "weather": "晴れ",
         "precip_prob": 75
       }
     ]

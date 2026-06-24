@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T03:17:07.277715",
+  "generated_at": "2026-06-25T06:01:18.659507",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 15.5,
+    "temp_max": 26.5,
+    "temp_min": 13.9,
+    "precip_prob_max": 96,
+    "precip_sum": 0,
+    "wind_speed": 0.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.4,
+        "weather": "快晴",
+        "precip_prob": 57
+      },
+      {
+        "time": "15:00",
+        "temp": 26.2,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "21:00",
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "4月26日（日）【岩手県】　日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2hKOUJwTG13YnQzWHFISzlET1JVc0RaZ1NiMGZuYzh1aWFvQlpQSmdXZS1Rd1htZ0dNdnYtUllZX1VSYV8tbDZiRHZ3MWo1d24yLVhoYVBlMkFvNFZfclVfY3p2OXJKUk5uZGEwanpGSW9hWmhKdlFsTG9hYWliWTkzTkcwbUt3Zi0tbjFmMXVlTThBWFFpMGtwTGdNT1Bpd0lQQzZIN1RrM2ItdFdENmJrVmdJZGhqN1kyT2NIM3o3dlhT0gF0QVVfeXFMTm44MFByV0RpLXNIVmR5WjhQOGJXRjZpczFxWTFlSW9NbDdBZEJabjJ3Ym0tZnB6UzRhTmNVbUpPYkl6VXJlRGxRZWNsRGJmN2RGSmVrYWJtZkZkTW5CSU4wQ2k4Y2NMV1NtdTBIaDNabHBpVms?oc=5",
+      "date": "Sat, 25 Apr 2026 20:00:00 GMT"
+    },
+    {
+      "title": "“偽ポケカ”を販売 商標法違反の疑いで大阪の男逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pT2N0MnFnM3htV0dTZEtTZ0pCY3RKVmhIbjBPQWpFZ2pyWmZlVTFwUzFnZjlZWm5DU3FlR1Myb1QySzg4VnU2VUFpN1pMRlBKbFJBOFZ1c2o?oc=5",
+      "date": "Fri, 19 Jun 2026 09:45:00 GMT"
+    },
+    {
+      "title": "青森県八戸市のガールズバーで県公安委の許可得ず従業員を客席に座らせ利用客に酒などを提供か 風営法違反容疑で経営者２人逮捕 | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naVlqZ3FaX3ZhZTI1eVVqRGNmalFBY3BtcnBvak5TcWtIRDNwY3h3M0lCQ1o1eklHSUVTdFFxbXFTb2dkQkZQWk95NC1BMldLYzBlbkRETW9XUTlNZDBJN0doRVlNNDQ?oc=5",
+      "date": "Sat, 30 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "偽ポケカ販売、大阪市の男逮捕　商標法違反疑い／十和田署と青森県警生活保安課",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbU1Cel9Xa1d3RFptLXRVQjRSYk5MTFpRejJYbFNIWG1YNXpYWVJ1Skp3ZUpYSGhFUTUtVXVYZDczZUZEVGgtaG1OelREdGdkTU1BY1JTNFpzemJRb2NNUi1ZWFVRV3pIX0ZaVVBaclFYdkFzcW5MY2Nrc9IBgAFBVV95cUxOOEhLR0J4cU1zbFJvZVprcW9NMTAtWVpCTTVXTWYtaU1zenU4dDZJRlYwQnNnVzgyNmZRc1hfNWhYZFUxSHh0YkFleExNUTVRaUNUZWVITmdOczFVaGFSdmxrTWt3WFh4ZU52SXU1a1VIOHJvekQzQzNEYjRQMFVsTA?oc=5",
+      "date": "Thu, 18 Jun 2026 13:07:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "大型トレーラーにはねられ 自転車の65歳の男性死亡（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWXE1c2xLVDNkenBYQ2dmVTFXTUp3aDhieFIwaE91MksyTUtmaG9fMTFkX3JsbGpxQ2Nwc0JUa25NcklvaVlmZDdvcU4wLTdySWdROVpqejUtT04yenR1cWJ6WlpSM2sxUkhzRVVHM1FXN2xjRm1hR2hPSXRIUjg?oc=5",
+      "date": "Fri, 19 Jun 2026 03:10:15 GMT"
+    },
+    {
+      "title": "青森県内事故多発交差点ワースト現場を視察／十和田市と十和田署｜行政・政治｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4MGpLUllJNzVDODFzZlJBZERLdGcyc1ItTUdnYzBKY01RTzNKWXJlcUJwMkJweWVFbFQwTmlYR25ZTnZzUWRvN2Vjc3BVb0ZSYnN2UFUzR2g?oc=5",
+      "date": "Tue, 23 Jun 2026 04:20:00 GMT"
+    },
+    {
+      "title": "県道交差点付近で一方の車は横転 弘前市で事故「軽乗用車同士の交通事故があった」 青森県",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WOER3eHZBR2wxZTQwRTdva3lqTUwtRXItT21ZNzZUYmxvN0lDdWo0dERnTXdPSkxGUEdFSHN0UEV5N1hEb3dlVy1WODVnaUdoN09xUkFhcHRKay1Ndm5V?oc=5",
+      "date": "Sat, 20 Jun 2026 09:09:00 GMT"
+    },
+    {
+      "title": "大型ダンプと衝突 意識不明の重体だった軽乗用車の男性死亡 青森警察署発表（2026年6月4日掲載）｜青森放送NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHZLUklUZlpfM1B5SE9FcUJZOFhqRnlJSlR0S2RzczdoSDh6M2d0Yjlrcjk5UmJUVlhwWjh0eWhDVDlWQWdyazlQRzVVcFdNaEhkbThmM1hwQm5ObkFUeDVabWl4X1dUZmYteTJ3T2ItTTJUM3JUTnRSQzJTbDBpSmhPMDZUX28?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国道7号交差点でダンプカーと軽乗用車が衝突 高齢男性が意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMjcyOVlIY3A1aXVxMTZqRDg3aDhrU0lLVmdKbnpRVzRkUlZyRmpCem9DY29aLTRoTXlqTzNYN3JZd1VLV2drTHNUV1VJMEhuMzh4RlM0NEY?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

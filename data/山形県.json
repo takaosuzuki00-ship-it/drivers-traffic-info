@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T03:29:07.700339",
+  "generated_at": "2026-06-25T06:01:33.991802",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.2,
+    "temp_max": 24.8,
+    "temp_min": 18.1,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 0.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 24.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 22.5,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 20.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月21日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hM0FhTG5RQkU0c3FJdVZnVDZWek9qOUxzVW1vNzJnci1fUTF0NXJUOHVQd1dvcDUxUkEtNEh6eG9VczBoVjY4cEQ5VDQ5bXQ3RzNkNTlKZw?oc=5",
+      "date": "Sat, 20 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月20日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnd1k2OEFvNVVvLVNSZHBCU1BRNnEwN252Z1I2Z3FVUkJqbUxwRmpoUTZFYTEyTHl1Ykd3WTVIUzd0XzBsa1hoY2ltREpSVnB5MFRnWDBpVUl5ek8wWGVRWGFheDFZOW9nN0Z6SW8tTdIBdEFVX3lxTE91X25xOHJhSFphbFFpQmpjeEp2MGlWa1hDRmZoWGV3QkpiZ2lkYV9CZWJCV201NTQ4WlZOZWp6MFRRUldtcmVHMzEtRURLdlRia2pTd3Z0bmlYZFVjcmtmN0ozSUJ1OTh0cUJpcnVYLU1HZGls?oc=5",
+      "date": "Fri, 19 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月19（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16d0JQNC1WTDNpTTZXMGdZeUh4VUp1bHJ3bHhuUVplM1pUY3V5VFdjZEEwNUxFM1FnWXdoWnl5OTg3aGRnU2Z2bFhORE1QZWFhWkZMY3FjSQ?oc=5",
+      "date": "Thu, 18 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月22日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nb3BoUm1sQUNMVjVFYzFqV2VydWdIMEZrcWluVnMtenJKR3ZzTW9xUm9Ba01UOXJsQjFkNmc0Y3FOczdVMlA3ZjVkeTl3VHF4Rk9td05aYVlUZ0U3b25OYXRGOWVaalZwZmljaFdlONIBdEFVX3lxTE5HSDJBQkxfVzhlTjNBWXkwNU1IWWVFT1BDNWgyeVFGSGxNamp5UTlQYzZIbnZlMHo5MURrQ0lwRTFXSk9XWkJZZ1UtcEpvVkluZ1NrWXFRZE8tWTY5YWdYY1JxN2dESGl4TXVRTXF6blAxLW5a?oc=5",
+      "date": "Sun, 21 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "\"逆走\"9件・対向車と絡む事故も発生 NEXCO東日本が高速道路交通警察隊と連携訓練 山形｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96QVhXRmV0WUd0Q1hHdS1waDNoTmNSRU9TXzZzaDZqZ2ZMZmxkal9obFlTMjNsc2VDSjRmX1dwUkh2UjdNMk1NRWZoVnJBRk1NcmlmUXpvZkJOTUdZQllEOWZPY1d0bTZDSURCS1JoenVscHc?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国道13号で乗用車と軽乗用車が正面衝突 55歳男性が死亡 乗用車が対向車線にはみ出したか（山形・上山市）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVWxQeVhPVHNlaG9zRUdEb0pVV3NxTENPVDhpck5nS1lQS2RoV0hFRmI1cE9MTUJyUEd5X3JWZEFSMjdVVlo1Y0ktYWRrcDVJU2JhMkFIMDZuRmVCSjdHU0V5UnNZN1U5eGxNbW1YbDRFc3pZRXZfRGhhajFZWWc?oc=5",
+      "date": "Mon, 15 Jun 2026 08:07:13 GMT"
+    },
+    {
+      "title": "交通事故がきっかけで...無免許で軽乗用車を運転した住居不定・無職の男(28)を逮捕（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVVdxRWNlX05qd0YwNG5kcS1JV3hZSzZXYmFVN184V2NnVTk5RHFvbTRSVTJGbjFRQWUtNldOblJDbzNhbldMZ09kM3JRUDRaQjJjQzUzMUloUQ?oc=5",
+      "date": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車同士の正面衝突事故で新潟県の男性死亡 山形県上山市の国道１３号（2026年6月15日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnd4cG4xajlCUlROTzV5U0NWdnM5UENsY3JaQWp0ZHJrZWpOSmxBMmg4N1JRcHEtelJJelZMUndVSUloNENfWEF0OV85YUkyc0NTbWp2dFNpWkRwMDd3NFNiT3Y3MXFvNjJpOUhtSjRnTnRiYnJPM3JwU1liNThaYnJETEE3ajQ?oc=5",
+      "date": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山形県内でクマの可能性による被害相次ぐ 死亡事故なら38年ぶり",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMmx4d1hoR1BVODZrbmFTazlqTnhRRUNBR1JCX3Y1blJ0cHRNNDk5VlI5RW9CckI2WVhHUUJtRzZwYjhZdWRkQTlDSHlBdE5acXZudVcyWm9YOE5ZZF95NVk4YXExaDQ?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

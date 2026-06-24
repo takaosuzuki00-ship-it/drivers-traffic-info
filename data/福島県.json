@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T03:32:07.747455",
+  "generated_at": "2026-06-25T06:01:37.007532",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 18.1,
+    "temp_max": 25.1,
+    "temp_min": 18.0,
+    "precip_prob_max": 35,
+    "precip_sum": 0.2,
+    "wind_speed": 2.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 24.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "15:00",
+        "temp": 24.2,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 19.9,
+        "weather": "曇り",
+        "precip_prob": 14
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月23日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1weEFpUDdxdE5ORUZKQ1ZJX1RKX0pCQmNCMDVXVlU0V0xabGljdGlxWmd3MUpMU09VNzFFdVRWdnZOZFJacHdoNnRtdW9jQ09RU04wcGNTdw?oc=5",
+      "date": "Mon, 22 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月24日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yNmRqM2JsZHc2NXNiMF9VUGJ1UmNmNUlNc3d2R1cxbXBaNVNyWmJ5SHl2ZXJ3ZTdYZTNDcm1uaUd5QUFGZGRGb1FYQW51TF9ZWXRTa2dHaUhVdXVlYndkbC14enBqaHgwell0akR5NNIBdEFVX3lxTFBKNkRfa2I1YVZjTjRoY3hNRnE1OTJ1U3QtRDVTbjREYUtaZEtCYWYwRF9sR2h2OGxmdThNRVZ4dFJxcndULXFycm5HekJKWlFxd2FjOTRVV1VYcVNCdEZXek9jUl9UVGRzTGVuXzNvZUw4eGh6?oc=5",
+      "date": "Tue, 23 Jun 2026 20:09:55 GMT"
+    },
+    {
+      "title": "6月21日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hM0FhTG5RQkU0c3FJdVZnVDZWek9qOUxzVW1vNzJnci1fUTF0NXJUOHVQd1dvcDUxUkEtNEh6eG9VczBoVjY4cEQ5VDQ5bXQ3RzNkNTlKZw?oc=5",
+      "date": "Sat, 20 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月21日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuRWNSZGhvM3dZY01kZTJjbF9DaDJwbk9Sd0xuSFM2ZXFpZXp4OWxRUnVjRGJCT2NXV1NMOExYQ1RZRW1FMkxyVEdiUnJmeTJtOGlEZ1hSMUNiTzE0WUJiRGZLQ2ZETWRJVmxlN3hkQdIBdEFVX3lxTE92d293SmVkSHVGV3hRM2tLV2NBUXhCbi16djBsYS1KajBSUVN4MUkwSDN6c09kMmJ3MDd6V2JlYjBVNzFuRGxxaHE5U0FpcU9uXzVTcmg2ZUlVTWFFd2VYLVdqeGhCU19fTFhNMWh1MEs5VFF1?oc=5",
+      "date": "Sat, 20 Jun 2026 20:07:08 GMT"
+    },
+    {
+      "title": "6月20（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHcm1JSDJ1a0had1puT0pjM2dMVFRoUEpaSlowTkNmaEJVaEZWbWdLVUpNcnlIazRaTkZSMmxGeTh0dVEtZXlVamZIbEM4NFBubDY1TEJTMA?oc=5",
+      "date": "Fri, 19 Jun 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "自転車を押して歩いていた89歳男性が死亡 レッカー車と衝突＜福島県南相馬市＞：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02RWU1VHVLeHZ1WGMwdUFkODlsbE9Bam1JcktjSEY4ZDRyNm9wb19XNUp5bkZ5VDFwWF9JdUxhUWhsMDVvR2hudENyNEY5MlptOXR5QmJhYmFHMlNsUDVDclNJc2c5QW9MQmp5M1RSbzlDSDNaTmRSTkR3?oc=5",
+      "date": "Sun, 21 Jun 2026 09:05:00 GMT"
+    },
+    {
+      "title": "乗用車と軽が衝突、4人搬送 郡山:福島ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIaDFncjZWUG9tU1ZyN1Vha3lQUFU5SkxHZmhOMXFlNF83VUFnVmwyOUVuTnpsOWs5WDhXLVpxYkktc1U0emNEOXFvMWNOOVlab1pGZUtLZHB4U0tCaEtHTDFBQnFkYnc4?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "４人が病院に搬送される重傷交通事故 福島・郡山市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzQ0dsbGtySU0zWmJXOEtVcHF5WEt5bzgxMUktd2F4OVdzUnNQcTZRMmw3VDFwUlhVZlNpRUdGZFhOaDlUMWVGSDBRdVJxQQ?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】郡山市で車同士の事故 車両は横転 ４人が救急搬送 福島（2026年6月12日掲載）｜中テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlNvaTZtbUZNSmQyZVBwNHdZNEt4anhjTzBGaUJEZ2tmTW91X2h5cGtJTzZhd0pnQjZnQWM4dHRvUWZrNzZfQnUzYnAzZ1Z3YVRCTjFnOWFCLTE2Ym1jT2JLQlR0VTBGTlN1bmY2bDVWTzlsQVdULUUzeHFNb1N4Y1ZCNVhZSGs?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福島・磐越道で高校生らが乗るバスが事故 17歳死亡、複数の重傷者 [福島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HMlRYTHdPRTBaMU1OV09MVGY4ZEx6blBaRGVjRXE2MEdNUloyR3dBaXNHMWdjMTlkVGJyaHMzaUxTWU5jQ01aSVZ6ZXFBVFN4ZVZoRERZUkNteFVWWWo4RW1tS2l4bUU?oc=5",
+      "date": "Wed, 06 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",
