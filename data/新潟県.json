@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T00:56:09.887233",
+  "generated_at": "2026-06-25T03:33:34.544396",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.0,
+    "temp_max": 28.7,
+    "temp_min": 20.8,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 13.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 27.8,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 24.2,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月24日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yNmRqM2JsZHc2NXNiMF9VUGJ1UmNmNUlNc3d2R1cxbXBaNVNyWmJ5SHl2ZXJ3ZTdYZTNDcm1uaUd5QUFGZGRGb1FYQW51TF9ZWXRTa2dHaUhVdXVlYndkbC14enBqaHgwell0akR5NNIBdEFVX3lxTFBKNkRfa2I1YVZjTjRoY3hNRnE1OTJ1U3QtRDVTbjREYUtaZEtCYWYwRF9sR2h2OGxmdThNRVZ4dFJxcndULXFycm5HekJKWlFxd2FjOTRVV1VYcVNCdEZXek9jUl9UVGRzTGVuXzNvZUw4eGh6?oc=5",
+      "date": "Tue, 23 Jun 2026 20:09:55 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】9月20日 新潟市秋葉区や見附市で取り締まり強化",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1nbkY3TmYwM1JwMGdDVlVrNEdWbGRuNGtMcUdSV3hISE1NelpISVRJQlJaN001RDQ1Um11ZTJZcXdfZUVY?oc=5",
+      "date": "Sat, 20 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "6月22日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wbkozTENGdmFSM3RZQWNXT2NnSGJJNlFheHBYNjBoakxJdm1nenp2cnIzSU0wN25GWk8zRHpCM0VQaFlKbmxST0dIekFSZ2drYlRGSTlENDJxazBKaC1LSDh5TXVTVUt2QzIwTnNjd9IBdEFVX3lxTE8tMDJTSkpjcEpoZWkyYkpyZDNVNW9XcDk4V2pBRldGaVllSmVHMkVFeUNaUVB4dGRtQ29oY3hqR0VSWnZTZndDWlp6Q3BsWmhJay1tYXFrdFQxSlI2cWhoa2NaNnhPcW92X0luNjNVS3FVeEdC?oc=5",
+      "date": "Sun, 21 Jun 2026 20:07:23 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "運転中に病死か【続報】運転代行中の車が店舗の壁などに衝突 57歳の運転手が死亡 新潟・南区",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtLVZYN0kzWEV4ODlxUndWUlRFVmFFSERSY1l3dVdfX2dOaGkxNjdoeG0xSHJTQ3dULVJDRE5CSGZFTzRCdjB3VGppMjV4QW1sUTVMUWtxX0hOR1p3OXVPNEhlYXVLOUk?oc=5",
+      "date": "Wed, 24 Jun 2026 03:07:00 GMT"
+    },
+    {
+      "title": "新潟市南区の国道外れ店舗の塀などに衝突…代行業務で顧客の車運転中の男性死亡、死因は病死",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44N0UzYkoxNmppdUprWFRxcTFlaGItNWdEaG9pNHhUVFlZZnBLa2hJZnRfdUZJNkNuWDNRQWVPUkgxLUo4cU5SMzd2S0pCcjBmUEowZ01fZ0lXb0lmTlE?oc=5",
+      "date": "Tue, 23 Jun 2026 15:05:00 GMT"
+    },
+    {
+      "title": "事故不申告と酒気帯び運転の疑いで、福井県敦賀市在住の男（50歳）を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zdHRvZmpDRXp0U3dCX25zVXhYWEZJRG83S05FeWtZcGs5Z09ZMmNPYnBPTkxIYW1zTmlOcDlnWUVDc0lX?oc=5",
+      "date": "Wed, 24 Jun 2026 02:35:33 GMT"
+    },
+    {
+      "title": "代行運転中に道路逸脱 反対車線に乗り出し店舗の塀などに衝突する事故 運転していた57歳男性が死亡 死因は病死と判明《新潟》",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazBVdFJaZEpkc3lheXhvazVEVnNfM2k0OVRCbmpoNTN4cEIyckJaRWpQa3h6R0FGckx2MjBNREMyTUJJRk96Sldvd01ncExqcFN0cWxqS2VyNG5Ca0ZZODdnN29EQ1EzdnJqMDNGLWxQcEpWV2xmVWtTYThXNnloekNFVm5xX2FM?oc=5",
+      "date": "Wed, 24 Jun 2026 03:42:00 GMT"
+    },
+    {
+      "title": "【アイシテル事故のないニイガタ。】ホームゲームで交通安全を呼びかけよう！アルビレックス新潟にちなんだ「交通情報板」の標語募集のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SNXE3ZjFFLWxwUldDQ24tMnRGcHhydkM5OUJNTy1aN2t5X0FpNm8xTTFsVVpLREphNjRuYjdlTzVGMzJvWmRqcnU3SUtKUQ?oc=5",
+      "date": "Mon, 19 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

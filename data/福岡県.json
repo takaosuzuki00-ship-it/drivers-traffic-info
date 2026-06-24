@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T02:11:12.891799",
+  "generated_at": "2026-06-25T03:35:05.485040",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 24.8,
+    "temp_max": 24.9,
+    "temp_min": 22.9,
+    "precip_prob_max": 100,
+    "precip_sum": 89.8,
+    "wind_speed": 12.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 24.4,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 23.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 24.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 24.5,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 23.8,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 23.0,
+        "weather": "曇り",
+        "precip_prob": 98
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "6月23日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lLVhXSGI2VE4zaVY1Z3ZqRkhqQWZMejNQUjd4UVlkV3Y5NDBpLXJlMDZRNlNqRS1Lc090Z2RIcktkamxPZzBubDBXQUd2UDB6ejZ5NVVieFNIVENtNmN0OVBMMjJSNnM?oc=5",
+      "date": "Mon, 22 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「男性が車外に放り出されている」と通報 九州道で軽自動車がガードレールに衝突 古賀IC～鞍手ICの上り線が通行止め 福岡",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqTVF2MFJXN01ZTGdsdGFWbno4aUgySkpzTTdXeGpXRGxCSWJYd3pId2JFaG14aXp0dmIzRGFobnpBR0xYZTVRdVZla1Z1VHVVd3VGX19ySXlBTVh0SG5zM0pmNA?oc=5",
+      "date": "Wed, 24 Jun 2026 09:47:24 GMT"
+    },
+    {
+      "title": "【交通情報】九州自動車道 古賀IC～鞍手IC間の上り線が通行止め 事故のため 高速バスがう回運行 福岡【24日午後5時半時点】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83N05WSHExOEZhMTQxc0JKUVZnNnRUWTZxazAtWUp5MUNyRVNad0Q0LUtkcW5iR0JUNWVTMkN6VVR0VU51aFpSWjJ3ME4zUUJNd3ZiVlhaeGZHSkNCaXZHZ2xKTjAzc0NvMDVfQjBVNUxqbVdGWnBscENHdmtjaGc?oc=5",
+      "date": "Wed, 24 Jun 2026 08:35:02 GMT"
+    },
+    {
+      "title": "高齢者ドライバーの交通事故防止目指し交通安全講習 福岡市城南区",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wSHctS1AzV2dneUZGRk82dk53SU5hVHVZWXp2MVBKZDRIZnhYU3VmaldCSTd2UGFwWm5UZVlrUk84NXJOZm0zZlc4amtJbjJFYTZzbnNRdw?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "九州自動車道古賀IC付近で7台絡む玉突き事故 3人搬送、1人死亡 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lLURPWUZTQ21RVERsTUZEdHFqVnNuN0tMMzhacjcxOG5ycXdkRmFLbDJJNlptOWdDY0ZHc1NTS0dfZnI0WGNpdGUyN1JSVDdHdC1XaFZva0tpWEotcUhLS0dqa1ZISE0?oc=5",
+      "date": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車が歩行者はね、4日後に死亡 運転の高校生「考え事していた」 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aOW9PemxCNUwydEx0UUVCdE5jWmR2LW5BUmxpbmZPV3hYN3UwQUhOT0FVMHhOamc1d2pJX3g1ejJHR25XVmZmX2pkYkZzQ0hoWUJicHVkU1RrMHN1dXU0dWc0N1pIU2c?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

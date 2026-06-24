@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T02:29:13.606824",
+  "generated_at": "2026-06-25T03:35:26.908689",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.8,
+    "temp_max": 27.3,
+    "temp_min": 25.5,
+    "precip_prob_max": 100,
+    "precip_sum": 7.2,
+    "wind_speed": 11.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "09:00",
+        "temp": 26.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "12:00",
+        "temp": 26.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 27.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "18:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 16
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "今月始まった自転車「青切符」制度、鹿児島県内で初摘発――ながら運転と一時不停止 指導・警告は400件以上",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Zb212Y2EzTGR2dHBDaEp2RkxKN3lDM192NnN2bE01OU84bklaRmk2UlJvaExIa0MybWhzOE01SWRJQlRnN2tjaElPNVRQcXJ6SENpRS05dw?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国内最大スカウトトップを逮捕 鹿児島・奄美で確保、暴排条例違反容疑―グループ全容解明へ・警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKYU82WUs0aEw2cGJYX0R0eEpVdC1RaHJsZkQxeEQyVXgzX1oyUDBkSEhKeVhEUDJGUEFsaWFJaFdiOVhRT0l1UW5JTkktTWlkRGFodXlWRTE5Rjh5UURXOF9Hdw?oc=5",
+      "date": "Tue, 27 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "何度指導されても事故を繰り返す…ついに速度超過34キロで摘発――「指導を自分ごととしてとらえられていなかった」。小学校事務主査を減給1カ月 鹿児島県教委",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15STEtWEljTVQ5S3l6TEprVTAtRENLUTc4dlBfLTNiU2dxcHV6aUJ0WWgtR2hJbzI3czgwd1k2S09HdnB1V2kyYUlOanhaeEJNWU9Md2VqQQ?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "パチンコ店公選法違反事件、捜査終結 摘発236人は平成以降で最大",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DVGY3VzNxVlZ4Y0ZjM0NxNTJRR0V4UjQ5c0RCejRHdFlralp0dWkwRkpyTld0ZFBzNzBRWTNTXzFVLVBHcUNWRmFPMEhaRjdzT0dqdFVRS0lFOG5UdUpBU25VemJsY1U?oc=5",
+      "date": "Fri, 26 Sep 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "鹿屋市で交通死亡事故 鹿児島県（KKB鹿児島放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rYWg5SEx5QTRTdkdUUkNzQWk5NGtvX2JUNW5pbXd4UTdNMXFGXzZMS2VnMXFlTHFONUpRVm5jRDNpalQyVmZ2UmZNSjlIVWdyWWFRODNPV04xM1lqMFRFSjZXWHlHaGhmbGdoWnNnZThzRm5NQ2YxbGpzVi1qNVk?oc=5",
+      "date": "Wed, 24 Jun 2026 09:16:35 GMT"
+    },
+    {
+      "title": "路線バスと軽四輪貨物自動車 交通事故 姶良市・鹿児島 | 鹿児島のニュース｜MBC NEWS｜南日本放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Mk00djB4U2lRY2ljREFCd3NfQlhVSUxEX1FiRjhvVS02cDhFY0lFenNBS2ZwX21CMTFGSTZZSFAwTUMyMVdHV2RPS2RsOTBuZWVzcnBod2J1NWlNbXNpRk1sRlF1cHM?oc=5",
+      "date": "Wed, 24 Jun 2026 07:09:00 GMT"
+    },
+    {
+      "title": "鹿屋市で交通死亡事故　鹿児島県",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDE0SDJfSGRwM3RIeFU2SmRyVEJfODRvU3pGZzhQZHN4UnVUS2JNSEQ4RnBmZGRmaE12WkxQWGVGSWdrdURNTjJEN05oT25yYXJSbDVybUdtbEkxOTZLdXduZU45NlhkYmp3ZFVaRFNFRkc3c1BqYkhsR3BtVHpXX3Bn0gGCAUFVX3lxTFBsMTRIMl9IZHAzdEh4VTZKZHJUQl84NG9TekZnOFBkc3hSdVRLYk1IRDhGcGZkZGZoTXZaTFBYZUZJZ2t1RE1OMkQ3TmhPbnJhclJsNXJtR21sSTE5Nkt1d25lTjk2WGRiandkVVpEU0VGRzdzUGpiSGxHcG1UeldfcGc?oc=5",
+      "date": "Wed, 24 Jun 2026 09:17:00 GMT"
+    },
+    {
+      "title": "【交通死亡事故】鹿児島県で7日間に3件3人 曽於・肝属ブロックに多発警報［6/24-7/3］ | チバテレ＋プラス",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJSnRiX2NHNkExdHhnRV9jWUN1V2tsYzlaOHRXZFN3emhNU3BuS0hSeVVQZ2hHSmxULV9YUXRYTGNzU0JmRUdJaDh0ZzB4WTBvWVk4S25mcWJ3bW9kY0cwN1kxb0HSAWRBVV95cUxQSUp0Yl9jRzZBMXR4Z0VfY1lDdVdrbGM5Wjh0V2RTd3poTVNwbktIUnlVUGdoR0psVC1fWFF0WExjc1NCZkVHSWg4dGcweFkwb1lZOEtuZnFid21vZGNHMDdZMW9B?oc=5",
+      "date": "Wed, 24 Jun 2026 12:51:49 GMT"
+    },
+    {
+      "title": "令和7年度「年末年始の交通事故防止運動」の実施について",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uaEMzZXlFd0FCTlQwbU41YmNiT2k4MlpWTDU4RE1wRjVKUEJBMHVJZm5YY240UmphYXhvZzdCcHg3WWo3TGR5NnFUV2drd2Q5MHc2cmxZc1lTTktNU19ZT1F3aG1RRXBfSE1wNERoSTFfMUZSSHlZ?oc=5",
+      "date": "Tue, 25 Nov 2025 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",

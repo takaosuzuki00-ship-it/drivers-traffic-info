@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T01:53:11.901504",
+  "generated_at": "2026-06-25T03:34:42.983370",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.6,
+    "temp_max": 23.3,
+    "temp_min": 20.4,
+    "precip_prob_max": 100,
+    "precip_sum": 101.8,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.4,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 20.7,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 20.6,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 22.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "15:00",
+        "temp": 22.9,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 23.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 23.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "令和８年６月中の速度違反取締計画について - 府中警察署",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LNTZDWTJveXVpZmZSb0x1Z1V4U1FGN0lQRnItZTJ0UGxjaThVU091WXIzWFZZRE5RcS1PZ3hDcENDQTZmTllsU0xBTFFhbExXUXBfaEFLQ0ZoVC1uUUFvNlNPTDlIQlBvbkFzNVZBNWtIWVp1ZVY3WTdR?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "6月23日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRDU0Z1pOZzk4NjI5a3VMUTdlWTk3dm9rYzV4SWRnX2VyWDUteXpEUDJReUN1aTVQWklWWjJoNEY2Zy1OQTJ2MjlYMHJnYmdVVUQ0MTZjZ1owWWc2UHpLWVhVaTVVZld0Y1hXOHVMONIBdEFVX3lxTE5BcFctMExscWhOUnE1cVE1RW9sRjM1b045TU14VGNFWldTQlRpdTNjczhnMENDLURfX2tNanp6TDBwdUtqa3FSZmVFOVdPeGR4T1dHMXVMMS01T2NvWkpheUdBaXozTUY0RTc4bkF0TWJ4bTl5?oc=5",
+      "date": "Mon, 22 Jun 2026 20:05:01 GMT"
+    },
+    {
+      "title": "6月17日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ORkZCMVc2RlhmUU1XZXNTV251Q1hMWDBsZW5GUGwwTlJ4TEVXam12OENLWVhiMzI5WlIwWVBVd2J2enpUU1k5VlFYcWJVRnVUbUFTR1NvTXdzd3Z4Vk9MSTJfTGdQR3M?oc=5",
+      "date": "Tue, 16 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月24日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yNmRqM2JsZHc2NXNiMF9VUGJ1UmNmNUlNc3d2R1cxbXBaNVNyWmJ5SHl2ZXJ3ZTdYZTNDcm1uaUd5QUFGZGRGb1FYQW51TF9ZWXRTa2dHaUhVdXVlYndkbC14enBqaHgwell0akR5NNIBdEFVX3lxTFBKNkRfa2I1YVZjTjRoY3hNRnE1OTJ1U3QtRDVTbjREYUtaZEtCYWYwRF9sR2h2OGxmdThNRVZ4dFJxcndULXFycm5HekJKWlFxd2FjOTRVV1VYcVNCdEZXek9jUl9UVGRzTGVuXzNvZUw4eGh6?oc=5",
+      "date": "Tue, 23 Jun 2026 20:09:55 GMT"
+    },
+    {
+      "title": "広島県警が選挙違反取締本部を設置 3710人態勢",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMU5sb0xqcXMweUhUamwtTEJjbkdfSVlUSjFaWVVOdUZqTlRKeGRCMmpfRzZxVFFpWHJmbGgwS3k4cjlqMVY1NzB4aW1mTy00dThQSUhwVHJVZw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故が多発を受け、警察は速度違反などを一斉に取り締まり実施（広島テレビ ニュース）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2cU5hdTZfSHcwSU1zMkxJSUplWW9oZGs3bEE4ZjRQZ2N3dDdLbDEyUEV3Slgzc0hNaDFqODZRQ2NrdnpTekNQVElCQjFlYXFXZWVESGxybjloVDhmbExnai1FYXNkSFdUQjg3SW9vSWpGZ2VpZXVFWm4yX2VRekU?oc=5",
+      "date": "Fri, 19 Jun 2026 03:47:00 GMT"
+    },
+    {
+      "title": "広島 死亡事故増で注意呼びかけ 各地で速度違反の取締り",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DdzdTeUw0c3NTYXFGaWpvanM1QWo4YkVRY185Z3ZBQUliMDFROWpHRUNKVVJRaG9MY2lRZzBOWGxjU1hQekNDbnVYMWVBZzJjN2xYWnB5Wl8?oc=5",
+      "date": "Fri, 19 Jun 2026 03:34:00 GMT"
+    },
+    {
+      "title": "未明のバイパスで乗用車がバイクに追突する事故 バイクの女性(52)が死亡 バイパス一部区間が一時通行止めに 西広島バイパス",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xSUYyQk42LUdQRXozQ0dNOEh3Ql9Qek1KQWVTdWZuNnVtbXpud3ZpVXVraEx1NHpzMmZUYW1GX05KM0VIS29sXzd5QktXWkwtdFpBTWI0WQ?oc=5",
+      "date": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "広島 スイス人観光客死傷事故で路面電車の運転士を書類送検",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RHRVdDJEdXZxVVNaU3h6NVM2cmMzUG5ZQWtwTEhzam9lT0hiTVlGWkRaMEpuLVBxU1owRWE3ckVmNHZNcFF3VDAyQTQyb2ZDRWZfVkRxS1c?oc=5",
+      "date": "Wed, 24 Jun 2026 11:37:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

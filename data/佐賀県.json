@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T02:14:13.072054",
+  "generated_at": "2026-06-25T03:35:09.368463",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 25.1,
+    "temp_max": 25.2,
+    "temp_min": 22.8,
+    "precip_prob_max": 100,
+    "precip_sum": 191.7,
+    "wind_speed": 20.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 24.8,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 24.0,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 24.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 24.4,
+        "weather": "強い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 23.4,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月24日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RYTMxanZKX1JQVFdacG9GWEdTUm9oVkNaamlvWm5pWUZMYVRsb1VUZWV4d2VvYTlRcERPQ3FScGc0d3lLQ3RPeERCMmx1QnJPRGFTZnYxZks4UlZtVmN3cldZTTAzYzFNWXFkWi1NMNIBdEFVX3lxTE9QYnRUSDE2eFFmd1B4WHNRejZLbGt1RVJHOVpKQ2Zkc2ZLT050dlpCVFVzdEdmRGM2MmFiTl9xOG54bW1jQ3dlQ0VHcmZzZ2dLRW9SaWxqaFBOREtkcThLZk9VUEFpZmF2ZThqYTE0S2J4YWN5?oc=5",
+      "date": "Tue, 23 Jun 2026 20:09:58 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」 | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yamtsOGQtTzM3VUg4Y3J4azVrNE5iV1Utdzlhc2k1VktVUXB3ZXhHT3ZELVZpY2RpS0ZGdC04eWhIR1h0T1hKbmFnQ0Q5ZGNBemloWVVB?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "唐津市消防本部、飲酒運転の消防団員を停職1カ月 夜間に自家用車で外出、検問で摘発 | 行政・社会 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSDRJRFcxRmtCemppelVSV1V5bDJGUTZPLVJ4eFRFVVRKOWtwNmdqdXA2anVmMHdwSWtRZERhZEFMZXpMTjlCXzduZEZBRUczX2YxNzlpOVVLWndBRkE?oc=5",
+      "date": "Sun, 04 Jan 2026 08:57:07 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「痛いよ」と泣く声だけが…下校中の小2男児が自宅近くではねられ大けが 母親が事故防止訴え【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42Z2dPMk8wbFpSRXl3ci1STl82d1ZaU2syRmpINkk3Q05fX0w4Mzd6TlZtNXR3cFpqX1RXeEJzX1BQb29MdTVuRjlMdkJod3RGU0ZQcUZ4eXhvb01icTU1YllB?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀県交通安全計画、交通事故死者数を年間１０人台・人身事故２０００件以下が目標…「ながら運転」対策強化",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BUmszYUNtRk5pMlVCbE9Sd1BFUUN4Q1dYcnR4WTlRNEhsN2w3TXJ4NE5fajVMc0xMZEdZSFZkc0UybHhZSjl6Z3JxMWFiWXg5RnVDbzd3d0VzSjYxUEcxeHIyMkx2amdpbk1PLVdJcHVqdw?oc=5",
+      "date": "Sat, 02 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故防止に向け、パトロールに出発する白バイ隊員 - 安心安全な鳥栖三養基地区に 人身事故42％増 取り締まり強化 佐賀県警鳥栖署 - 写真・画像(2/2)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CM1dNOGhsQ0k3ZkdhcDhlRkRMS2lBVHhpSXBnbG11SUpzMHZmblJ6NU5MdEw5UDFoamdMcXktRVBKdGZaeHh0Vi01TU4xT0p3a0dOZzJ4TQ?oc=5",
+      "date": "Fri, 19 Jun 2026 21:18:37 GMT"
+    },
+    {
+      "title": "中学１年の男子が死亡、「川に沈んでいる」と119番通報 佐賀 [佐賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xai1TQnZIb09SUHgyNy03V19DQktlYi14QVFnR3BESkhHajFFek5feUdvVWRGZ3FramdOMC1xdXdOVHJkcTAtY0t3RWtmN3hqRzZQOUVlNHo3LUpjak1mclFacUV3S3M?oc=5",
+      "date": "Mon, 15 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "軽乗用車とオートバイが衝突 18歳男性死亡 佐賀県基山町、国道3号の交差点 | 事件・事故 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBucmh5YVFTdW02ZDZPdnpGUjkxMlJ3ZnV4aURnQ09OMzJ2ODFpbkRaOThyU21EYmNHRzFia3dKWHdXUHJPTjQ2b1MycjFXWktQSmI3UGZ3?oc=5",
+      "date": "Mon, 15 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",

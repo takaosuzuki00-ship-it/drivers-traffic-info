@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T01:11:10.485387",
+  "generated_at": "2026-06-25T03:33:56.209019",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 19.8,
+    "temp_max": 22.6,
+    "temp_min": 18.5,
+    "precip_prob_max": 53,
+    "precip_sum": 5.4,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 19.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 35
+      },
+      {
+        "time": "09:00",
+        "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 37
+      },
+      {
+        "time": "18:00",
+        "temp": 18.7,
+        "weather": "霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 18.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ZzVCUjlWRUhOcDNoNDJOOWk2azZvRm5Wbm5NTVlSYkF3a002QVVVdGpfZFJHdmJHanN3aXQ2eEQzMjFfZ0tqNDUxdHJtMG5SY2VUcWh4MHVZYmU0MXQtbE5YbFZXc0J4ajJ0U095ZDk?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "6月22日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wbkozTENGdmFSM3RZQWNXT2NnSGJJNlFheHBYNjBoakxJdm1nenp2cnIzSU0wN25GWk8zRHpCM0VQaFlKbmxST0dIekFSZ2drYlRGSTlENDJxazBKaC1LSDh5TXVTVUt2QzIwTnNjd9IBdEFVX3lxTE8tMDJTSkpjcEpoZWkyYkpyZDNVNW9XcDk4V2pBRldGaVllSmVHMkVFeUNaUVB4dGRtQ29oY3hqR0VSWnZTZndDWlp6Q3BsWmhJay1tYXFrdFQxSlI2cWhoa2NaNnhPcW92X0luNjNVS3FVeEdC?oc=5",
+      "date": "Sun, 21 Jun 2026 20:07:23 GMT"
+    },
+    {
+      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eVQxNmFRRlpobDk1THpjeFU2Nm9GNFdTNFN4cFI1V2xZWW1ndFpfRGtDWVdjU3JXd0p2SzVtYVVDQVBjWnlKdzBwRUtack1FdHNZZjdnM2g1Zw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "南木曽町のＷオービスは、そのまま放置！ ついに壊滅、長野県のHシステム！ 最終回【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEIxczZNMndzd0NqeGY0aF9GMGh3M05Qc3o0ZWlqcU11QkpfUWlKY1lQRGJSZVBTMGxhT0N0aTFuZ3o5bXNvNmoxMlluWHMzMHlFSFh4NFBPY2pKQ1lqTGxJV25QTi1BRmNwUTB4Rm1iRUxrMVdSc21FV3dzOGxmR0haX3VKU00y?oc=5",
+      "date": "Wed, 25 Dec 2019 08:00:00 GMT"
+    },
+    {
+      "title": "参院選へ 長野県警が選挙違反取締本部を設置 「特に悪質な違反行為に対しては、事前検挙も辞さない」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05eVBKYnNPWFY3NkpYMFJIOVhwV1ltTzNqal9hOTBIcHZTT3RlWVlNeV9TbUpYRVc0ZTctbHJ0U2plT1FrZFVNdVJIVnc2SWJXY25MVUdfazF0QU5tMV84aWVxUnZLeDg?oc=5",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "長野市の交通量が多い県道 軽乗用車同士の事故で1台横転 20代女性が大けが 30代女性が軽いけが【長野】",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLTV2aWVwWURMX1RQQ0R0NUQyd3JyS0thMnk1SlJSSTZYYmtFblJrZVhKOF9Nd0l4NGxId3dNSlRrQkRwLVNmc0g4SjlHTUhVaDRqdmpvR3JoVUk1dXJ0R21ha3hMQ0JhV3pPNFRWanMyY3VUd2hUVXcxTWt2M09QUVlwRi1zeFE?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「保険金を水増して請求している整骨院がある…」交通事故患者に施術したように装う…保険金だまし取ったとして長野市の鍼灸師の40歳男を逮捕…損害保険会社から80万円余りだまし取ったか | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZ2RQaV9MSjE0SHRJZ1dSd0pUVFVuTVpLbzBaUDYyd3hYcjRieHQwYldFZm85VUJFdHJjNjhTY2NkbHdyQ3RfaXZLR2xZSV9fSldBQlRWQ3JocGtxdnY4Z19xT2l3dlE?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "長野がMF吉田桂介の交通事故を報告「心よりお詫び申し上げます」 (ゲキサカ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVhzMGhPX1QyYzZFd1BmWWd5TTRyUUUyZW96RUN1aG5oMEZzVGh2ajFiTzBWbnJBa29XYV83Q3pJYjVuUVlNNW5nOVk1UWh5dlAtc0FEZHIxX01Cal83MDdWVDYySXotdDRJRzVBREhDSnN3Z2dwRUNxc0tUYllISDNUNkVmcEVkOU1hUHdB?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "長野県飯田市の交通事故。無謀運転の武勇伝競争が行われていたかもしれません Mi Vs Rcb (S1ueG6GXNS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LVDEwdEZROGxUSlR5RDIwQllyWkJWS0htQkh1WlNBZmg3b2ZfZ3k1SjhfMzdoSkFRbVFVWUhOeXN0eUlRcHIzVEt2eGZHYXlEcmxlTUwzRGFHN3M?oc=5",
+      "date": "Sun, 21 Jun 2026 11:44:03 GMT"
+    },
+    {
+      "title": "長野県警の男性機動隊員が死亡 後退していたトラックを誘導中 トラックと車庫内のタイヤラックの間にはさまれる 長野",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3Z0dxR3JRekNObGZCUFFpYUNWVXdHUkpmZEh3X0l0TDhKQ2JEWWE5alBpcTVFZ1lNMFJNYk9EMkFjWHM2eUE2MWQ3REotWDJSX2VSNjFRUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

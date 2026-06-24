@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T01:44:11.436550",
+  "generated_at": "2026-06-25T03:34:32.841358",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 19.9,
+    "temp_max": 23.0,
+    "temp_min": 19.8,
+    "precip_prob_max": 94,
+    "precip_sum": 22.4,
+    "wind_speed": 4.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.9,
+        "weather": "強い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "03:00",
+        "temp": 20.0,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 20.2,
+        "weather": "曇り",
+        "precip_prob": 90
+      },
+      {
+        "time": "09:00",
+        "temp": 21.2,
+        "weather": "曇り",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "15:00",
+        "temp": 22.6,
+        "weather": "霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 22.5,
+        "weather": "弱い雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "21:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 78
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "秋の交通安全運動 期間中の交通事故や取り締まり状況を県警が発表 交通指導取締状況は前年度より265件増加 鳥取県",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdE9JTWd2UkJCVE80b3lpVEdOd2p5ajRJUnhkdmVNTEZndW90alEzN2UyazROLS1KZ3RaU2tFZVNvMTVhUW5Dc0hHSVZTcmd5a2twX0R0M3M5MUdvUms4ZUJRd2xtWF9Rd2FUaVZnNTBYM1ZiZ1E2ZDdXV2VTWjNDdnJjTm9XeW8?oc=5",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県（2026年6月19日掲載）｜日本海テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmp2NEhQV2JOUG40YnlEVzl1LU5SQnFuY3JhT2JxTk5uNTd3eDFUNHFHZG0tTXFmV1ZQSWViM0NfSFJ0dDBET2lTRE1jQkViYUE3M19mdUhaYkhDTzdsVzBIRERDMWVQRDlEdWFCcmpOLW13STVhV3hISG80REN5RGhydEF3UU0?oc=5",
+      "date": "Fri, 19 Jun 2026 09:48:01 GMT"
+    },
+    {
+      "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NcVhhdDVydkpxMlA3dkZWSlMwVFltR1VpTGhfMWdIUTdDXzBIR3QzR1pnYmJiNFVNcEN6M2RZLVlUNUotUEh6MTBCSGZBSjNCSEdzbzdWamFCNS1YYjVKX3k2N2s1ODlkVTNnM19Odl9OWEFLU2prZFNKT0VRU0U?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "時速17kmオーバーで「逮捕」!? 速度違反で\"住所\"と\"氏名\"隠した84歳男はなぜ「青切符」で済まなかったのか？ 元警察官が解説",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BQWlUV3daUWVHeWFBalNDaVlqbWRxSzJHWTZWaTYxSFdIUEFyMzZWX2dRVHhBdDNseGdvc3hsVzZUVjBOb0FmY2N6cw?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "松江の国道９号 無許可、違法走行の特殊車両取り締まり ２台違反を確認 国交省",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8waGJUN1lDZzdSd0d3VFJMT2g2WThZR0J5RGpGLVc3TnpFaW9GRlVjdk9xQjFoVFZQa2Rxbl9zUldtQXc5d3QwQUNwcFQ0U3RjbnlpRDFhZHVfaU0?oc=5",
+      "date": "Sat, 23 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【続報】「運転手が意識を失い、事故を起こした」と通報 鳥取市の交差点で車3台が絡む事故 普通乗用車の運転手（60）が意識不明の重体 （日本海テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Td2ppZDJuRlZGOElVY25KWmNVM1VFTDlpNGJWQThPQUY1bzhoVWdOOEh2cjZhQVh3UDVtYmJqeFNPREgtWHdUUUpLeUpETmZRbW9zcU9RTFkwN2RJeUQ1VUFJallmbXg2OF9QZ1h6UTg4Ull5bnRCR0pQVkx5dTQ?oc=5",
+      "date": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「運転中に意識をなくして事故を起こした」車3台がからむ追突事故 1人意識不明の重体 鳥取市の県道と国道53号が交わる丸山交差点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vNFpsRHJfdU5rckdaSERGdnJCdVlYTFJOUmZyZlN0R0FOWUZPRUpjNWpTWG1ldl95aU93ZVNvVmR2dUlXa3NGMjdSSnZFSmxHUW9VdUV3VQ?oc=5",
+      "date": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "鳥取市の交差点で車3台が絡む事故 普通乗用車を運転の60代男性が意識の無い状態で病院に搬送 鳥取県鳥取市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUpmRDdkUTI5REZyWnFORGtXM2NUSXBVbS1sYXp0NXBtMWo2UDEyTHhjNE1OdGxDRU92V2FEQ2M4d2k4a2xzWWRWMWNCQUlTUjFaOVFweVFwOU93VjhuY0pUMFktWmRpd2VGYnFZbTNRQk9uOU5SNS03N292UFUxY0tuakIyMW8?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【続報】鳥取市で車両３台が絡む事故 １人が意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iM19NVWw3TUVUZWx1ODhTN3IzZll6VU9aanJDYnJlQkRXWW5GUGxNaU5HLTdkaldRMmRMSl9IRk1keC1nX1NZaUt6OFFEQkE4MlVvZnJ5MEtoQzQ?oc=5",
+      "date": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山陰道で事故 鳥取西ＩＣ―吉岡温泉ＩＣ間下り線が一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3eExkN3ZiaU9vWjRRUEliazNCWHRoeXQwSlVVcnFyUnpudVdrMW9TVkx1TVFHbTcwZDk4Rk9tVHdrbWxRTDJ3Z0VFemZJMHFE?oc=5",
+      "date": "Sat, 20 Jun 2026 08:35:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鳥取県警察 公式サイトを検索",

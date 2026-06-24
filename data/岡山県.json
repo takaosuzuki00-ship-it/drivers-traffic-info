@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-06-25T01:50:11.719292",
+  "generated_at": "2026-06-25T03:34:39.610668",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.6,
+    "temp_max": 22.8,
+    "temp_min": 20.2,
+    "precip_prob_max": 100,
+    "precip_sum": 88.7,
+    "wind_speed": 8.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "03:00",
+        "temp": 20.7,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 20.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 22.1,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 22.2,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "6月24日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yNmRqM2JsZHc2NXNiMF9VUGJ1UmNmNUlNc3d2R1cxbXBaNVNyWmJ5SHl2ZXJ3ZTdYZTNDcm1uaUd5QUFGZGRGb1FYQW51TF9ZWXRTa2dHaUhVdXVlYndkbC14enBqaHgwell0akR5NNIBdEFVX3lxTFBKNkRfa2I1YVZjTjRoY3hNRnE1OTJ1U3QtRDVTbjREYUtaZEtCYWYwRF9sR2h2OGxmdThNRVZ4dFJxcndULXFycm5HekJKWlFxd2FjOTRVV1VYcVNCdEZXek9jUl9UVGRzTGVuXzNvZUw4eGh6?oc=5",
+      "date": "Tue, 23 Jun 2026 20:09:55 GMT"
+    },
+    {
+      "title": "6月18日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13cFRqZjVPbkhjelg4ZmROUW0zaVVEbWtTd0hHMlpZVjlwcUcxZHRmVnBoUlVWU0RxUlRTMmVJZW9kUVllVm83T2d2NEdaR0NZVDFuQl91bw?oc=5",
+      "date": "Wed, 17 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "６月２４日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZGhTLXJaV0NBWUZvMEdDS0Jpanc3Nk9HcTd0X3VXMFZRVTAwdE5DeUk1VXRiYUxtOHdHbW5jZDlac0lELTdxTnlQMTJlLU1kcGxFQmdCMzNLUEdxM0F3bHZ5V0xSLXZ2NDgzYmw2WWY1OXdNUnp30gF3QVVfeXFMTUlkaFMtclpXQ0FZRm8wR0NLQmlqdzc2T0dxN3RfdVcwVlFVMDB0TkN5STVVdGJhTG04d0dtbmNkOVpzSUQtN3FOeVAxMmUtTWRwbEVCZ0IzM0tQR3EzQXdsdnlXTFItdnY0ODNibDZZZjU5d01Senc?oc=5",
+      "date": "Tue, 23 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "国交省が「すぐに車を直せ」\"命令\"！ 「爆音」「シャコタン」「ハミタイ」の\"大迷惑車両13台\"を一斉摘発！ 「旧車イベント」参加の\"不正改造車\"を一網打尽 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82QndxZjJXRDJaRXFoSWRpbUVoa1BFMUdWZHA1TkIzNUpkS3BKMzZQTXUzY2VJYUlmQ1RGdDl1Z1YyMEtEeFUyYWphYw?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "岡山市で「岡山広告賞」贈呈式 ”魔の７歳”とも呼ばれる子供の交通事故撲滅啓発ＣＭが金賞【岡山】（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMEVZX2IwYVJWV2NyMjFNaEg2QW5INUpweTNBV3BiTDdpYjdJMHl2cDl5bVRYSmtISnExVDY3a0NTWWdndDBqZ1ZKM3MtY3VULWl6UmU5X0xsdm9pelFRRlh0akxsOC1rVDlxV3p3LTJ3MTFWbGNzc0N5VEpGZEk?oc=5",
+      "date": "Wed, 24 Jun 2026 09:08:02 GMT"
+    },
+    {
+      "title": "交通事故遺児の就学に役立てて 岡山トヨタ自動車が１００万円寄付",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MUnM5NDhBWjR1ZjUydG0yMnFfUHFwZ1Zna2tPNnJfN3lPOWxsQlZFUmtkbWw2Z0FRVlRrV0ZlZVhIdWdpMXFENmRUSFFIY0g4X0E?oc=5",
+      "date": "Tue, 23 Jun 2026 09:15:59 GMT"
+    },
+    {
+      "title": "【続報】大型トラックに挟まれた軽自動車の男性(63)が死亡 岡山市の国道2号で車4台が絡む事故",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MaTJraDFheXdaX2NEczNEOFpxWlZLcjNQVktCWkVsOEhreFBReDdud0xINWZ6OFZ1TkFjbl9JSmJ5Z1oxc1FmTTdQN3RPN3RJ?oc=5",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山市で「岡山広告賞」贈呈式 ”魔の７歳”とも呼ばれる子供の交通事故撲滅啓発ＣＭが金賞【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GekFJaW9QdlMzdXZTcVFvdGwxemZKbGpWY01Xd1NjME9GRFBjY3pVY3BXNHA5V0Vad0xEUUh2eUR4cmJvM1RKMzBBWGl6WDFfV2tpYTgxcVlsb1ZCeUlMN3N1Q0txa3hCZDRDd0pR?oc=5",
+      "date": "Wed, 24 Jun 2026 09:11:00 GMT"
+    },
+    {
+      "title": "事故防ぐ夜光反射材の着用を 相次ぐ事故受け岡山西署 スーパーで啓発",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERlVDQ3lwSkZYTWQzUmFfOXVLMVNhR1p5OVVoS2JZVTVZMXZJbUhKMklxYVhXY1c1R3ZtOE1Tdm1tZ29OX2RRZVQ4WE1pMlppV1E?oc=5",
+      "date": "Mon, 22 Jun 2026 23:42:17 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",
