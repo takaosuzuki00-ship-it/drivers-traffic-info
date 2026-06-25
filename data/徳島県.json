@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-06-25T21:04:31.705653",
+  "generated_at": "2026-06-26T00:03:39.737826",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 24.4,
-    "temp_max": 24.4,
-    "temp_min": 20.8,
+    "temp_now": 24.2,
+    "temp_max": 26.2,
+    "temp_min": 21.9,
     "precip_prob_max": 100,
-    "precip_sum": 30.7,
-    "wind_speed": 10.0,
+    "precip_sum": 36.3,
+    "wind_speed": 8.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.4,
+        "temp": 24.2,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "03:00",
+        "temp": 25.0,
         "weather": "弱い雨",
         "precip_prob": 98
       },
       {
-        "time": "03:00",
-        "temp": 20.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 96
-      },
-      {
         "time": "06:00",
-        "temp": 20.8,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 21.4,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
-        "temp": 23.0,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 23.5,
+        "temp": 24.3,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
+        "time": "09:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 25.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
         "time": "18:00",
-        "temp": 24.0,
-        "weather": "弱い雨",
+        "temp": 23.6,
+        "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 24.4,
-        "weather": "弱い霧雨",
+        "temp": 22.5,
+        "weather": "雨",
         "precip_prob": 98
       }
     ]
