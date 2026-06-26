@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-26T09:03:11.461811",
+  "generated_at": "2026-06-26T12:03:54.876463",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 23.4,
-    "temp_max": 23.4,
-    "temp_min": 21.5,
+    "temp_now": 22.8,
+    "temp_max": 23.3,
+    "temp_min": 21.4,
     "precip_prob_max": 100,
-    "precip_sum": 67.9,
-    "wind_speed": 7.1,
+    "precip_sum": 79.5,
+    "wind_speed": 7.4,
     "hourly": [
       {
         "time": "00:00",
         "temp": 23.1,
         "weather": "弱い霧雨",
-        "precip_prob": 67
+        "precip_prob": 69
       },
       {
         "time": "03:00",
         "temp": 22.8,
         "weather": "弱い雨",
-        "precip_prob": 94
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 23.3,
+        "temp": 23.1,
         "weather": "雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 23.4,
-        "weather": "弱い霧雨",
+        "temp": 22.6,
+        "weather": "弱い雨",
         "precip_prob": 98
       },
       {
         "time": "12:00",
-        "temp": 23.2,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 21.8,
-        "weather": "強い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "18:00",
-        "temp": 22.0,
+        "temp": 22.8,
         "weather": "雨",
         "precip_prob": 98
       },
       {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 21.8,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
         "time": "21:00",
-        "temp": 22.0,
-        "weather": "弱い雨",
-        "precip_prob": 98
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 100
       }
     ]
   },
