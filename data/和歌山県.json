@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-27T09:03:17.162353",
+  "generated_at": "2026-06-27T12:03:45.446759",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 21.8,
-    "temp_max": 24.8,
+    "temp_now": 22.5,
+    "temp_max": 24.9,
     "temp_min": 21.2,
     "precip_prob_max": 100,
-    "precip_sum": 23.1,
-    "wind_speed": 7.1,
+    "precip_sum": 16.1,
+    "wind_speed": 9.5,
     "hourly": [
       {
         "time": "00:00",
@@ -27,43 +27,48 @@
       },
       {
         "time": "06:00",
-        "temp": 21.5,
-        "weather": "雨",
-        "precip_prob": 94
-      },
-      {
-        "time": "09:00",
-        "temp": 21.8,
+        "temp": 21.3,
         "weather": "雨",
         "precip_prob": 100
       },
       {
-        "time": "12:00",
+        "time": "09:00",
         "temp": 21.7,
-        "weather": "雨",
-        "precip_prob": 96
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 23.8,
-        "weather": "曇り",
-        "precip_prob": 61
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 76
       },
       {
         "time": "18:00",
-        "temp": 24.2,
+        "temp": 24.5,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 22.8,
-        "weather": "晴れ",
-        "precip_prob": 20
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "麻薬取締法違反などを理由に医業停止処分受けた医師（39）が95人に医療行為疑いで逮捕 大阪府警",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYlE1X0xzXzlscExabzF5aHFtdFZfYk92bWowQk01Q1NhUHRSamRrR093R195d0hnTngtSWZ1Wm1fREx5dDBJZFhmTUN6dkg2NGJtMjBjWUVvUWVwclZVNjBJNUUzN09HZ3plbmlpcWhtWjUwNUUwODBxenEwTFU?oc=5",
+      "date": "Wed, 24 Jun 2026 09:44:00 GMT"
+    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -87,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "橋本市の交通死亡事故 死因判明",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CQlc3SEtWd2VPZGEzczlHQUV4eFR2S2NNR2tvenUtaHlORHNyZ0EzTGZtZmh5N3F4LVBoQjdHRHVQa1hfemNjU3VEMnFKNUZmUXMyTFU2b3g4M25yOEZzZk5VOEI?oc=5",
-      "date": "Wed, 24 Jun 2026 09:02:34 GMT"
-    },
-    {
       "title": "橋本市で交通死亡事故",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VVWpGNDZUQlRYNTRFai1GQkJMYXhXYk5oTFg0YnA3c2hOS3VFdlJsWm5tRjh6TkgxdlpuREo1bFlCWVdKcmNhUTFxVGdFNm42cnI4M0c2Q0JYTE16Q3NabE1Tek4?oc=5",
       "date": "Tue, 23 Jun 2026 08:39:48 GMT"
+    },
+    {
+      "title": "橋本市の交通死亡事故 死因判明",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CQlc3SEtWd2VPZGEzczlHQUV4eFR2S2NNR2tvenUtaHlORHNyZ0EzTGZtZmh5N3F4LVBoQjdHRHVQa1hfemNjU3VEMnFKNUZmUXMyTFU2b3g4M25yOEZzZk5VOEI?oc=5",
+      "date": "Wed, 24 Jun 2026 09:02:34 GMT"
     },
     {
       "title": "自転車と衝突後に帰宅の女性死亡 ひき逃げ疑い男性逮捕 和歌山",
@@ -107,9 +112,9 @@
       "date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "title": "深夜の市道で49歳男性が軽乗用車にひかれ死亡 運転手「何かに乗り上げた」確認すると路上に横たわる男性が… 搬送先の病院で死亡確認 和歌山・橋本市（関西テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ya0U3dWNYd0YtTjVWYmUta0RjdkkzYldqd01mb0hNOTBQMUtUcGU1SjdwcXo5dktoeC1IaFA0RkVickVabnVGZmZQOU9pdjRULVRPMWpfNXpVNlZ1S2pxRy1rLXZFQmVoSXBKMUdmVnhUaVN0ZFJ4OUYwNTJ5Wms?oc=5",
-      "date": "Mon, 22 Jun 2026 21:08:01 GMT"
+      "title": "紀の川市で交通死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RQ3hUei13T3pIUlhmall2akdxX0liTjVybTA0OURSSlVVNWV4VHhSSzJPYzgxeEZLYU9XQjJfUGRnQ0kwNlJKZEJVMDdCamhETjFUOFh3UzcyNXl1SUtwWF9PWHE?oc=5",
+      "date": "Sat, 13 Jun 2026 10:54:56 GMT"
     }
   ],
   "official_links": [
