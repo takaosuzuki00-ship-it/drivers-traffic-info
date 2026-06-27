@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T18:03:29.523775",
+  "generated_at": "2026-06-27T21:02:53.178476",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
@@ -7,11 +7,11 @@
     "code": 65,
     "weather": "強い雨",
     "temp_now": 23.3,
-    "temp_max": 23.3,
+    "temp_max": 23.6,
     "temp_min": 20.8,
     "precip_prob_max": 100,
     "precip_sum": 29.9,
-    "wind_speed": 3.4,
+    "wind_speed": 4.8,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 21.8,
         "weather": "霧雨",
-        "precip_prob": 96
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 22.2,
+        "temp": 22.3,
         "weather": "弱い霧雨",
-        "precip_prob": 82
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 23.3,
-        "weather": "曇り",
-        "precip_prob": 27
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 23.2,
+        "temp": 23.3,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       }
     ]
   },
