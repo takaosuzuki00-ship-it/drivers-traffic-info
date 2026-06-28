@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-28T06:03:56.400775",
+  "generated_at": "2026-06-28T09:04:18.337663",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 21.5,
-    "temp_max": 23.3,
-    "temp_min": 20.7,
-    "precip_prob_max": 90,
-    "precip_sum": 9.3,
-    "wind_speed": 3.7,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 23.0,
+    "temp_max": 24.1,
+    "temp_min": 21.1,
+    "precip_prob_max": 93,
+    "precip_sum": 6.3,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.6,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 8
       },
       {
         "time": "03:00",
-        "temp": 21.5,
+        "temp": 21.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 21.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 25
+        "temp": 21.8,
+        "weather": "弱い雨",
+        "precip_prob": 45
       },
       {
         "time": "09:00",
-        "temp": 22.5,
-        "weather": "雨",
-        "precip_prob": 71
+        "temp": 23.0,
+        "weather": "弱い雨",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 23.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 78
+        "temp": 24.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 22.5,
-        "weather": "曇り",
-        "precip_prob": 90
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 21.9,
+        "temp": 22.2,
         "weather": "曇り",
         "precip_prob": 67
       },
       {
         "time": "21:00",
-        "temp": 21.3,
+        "temp": 21.5,
         "weather": "曇り",
-        "precip_prob": 55
+        "precip_prob": 57
       }
     ]
   },

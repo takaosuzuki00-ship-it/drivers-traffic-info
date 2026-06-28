@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-06-28T06:05:32.573783",
+  "generated_at": "2026-06-28T09:06:37.129222",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 21.3,
-    "temp_max": 27.0,
-    "temp_min": 20.8,
-    "precip_prob_max": 90,
-    "precip_sum": 6.5,
-    "wind_speed": 1.1,
+    "temp_now": 21.5,
+    "temp_max": 27.3,
+    "temp_min": 20.7,
+    "precip_prob_max": 84,
+    "precip_sum": 7.9,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
         "temp": 22.7,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 21.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "06:00",
-        "temp": 21.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
+        "temp": 20.9,
+        "weather": "雨",
+        "precip_prob": 78
       },
       {
         "time": "09:00",
-        "temp": 21.4,
+        "temp": 21.5,
         "weather": "弱い霧雨",
-        "precip_prob": 90
+        "precip_prob": 80
       },
       {
         "time": "12:00",
-        "temp": 24.3,
+        "temp": 24.5,
         "weather": "晴れ",
-        "precip_prob": 73
+        "precip_prob": 53
       },
       {
         "time": "15:00",
-        "temp": 27.0,
+        "temp": 27.3,
         "weather": "晴れ",
         "precip_prob": 20
       },
       {
         "time": "18:00",
-        "temp": 25.7,
+        "temp": 25.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 23.5,
+        "temp": 23.4,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "６月２５日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UeEx4UEdlcDl0S0ZkLWo1bEYwMW9uQXE3TW0xenpaTHRNczZrM0EwTVRmb00tVTNyWmtoVjhoQ3BxTHdkdlU0dlhiWEc0WFRrSjRpT29ybw?oc=5",
-      "date": "Wed, 24 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "6月23日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRDU0Z1pOZzk4NjI5a3VMUTdlWTk3dm9rYzV4SWRnX2VyWDUteXpEUDJReUN1aTVQWklWWjJoNEY2Zy1OQTJ2MjlYMHJnYmdVVUQ0MTZjZ1owWWc2UHpLWVhVaTVVZld0Y1hXOHVMONIBdEFVX3lxTE5BcFctMExscWhOUnE1cVE1RW9sRjM1b045TU14VGNFWldTQlRpdTNjczhnMENDLURfX2tNanp6TDBwdUtqa3FSZmVFOVdPeGR4T1dHMXVMMS01T2NvWkpheUdBaXozTUY0RTc4bkF0TWJ4bTl5?oc=5",
-      "date": "Mon, 22 Jun 2026 20:00:00 GMT"
+      "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YTUN6QnFsZ2M4NGJhM25YUVJHSl9kcm1oQzZ2TlRnbXZsV1R1bDh4WnkxdXdxWU1hVWpER0pZWGsyd0dVQ3hQX2xSdVlveXg4ZXg2OU1OYkZ0bmhuUUdCMXM5UEQwZ2l5QXQ3SDYyNNIBdEFVX3lxTE9sTkx0VVVYaDZCN21lQ2pnNUR1NGpVVUdubHBTa19YTFJEZk9YRmVIWVprOW1yUTlyVWNfRVR4b0Jsb1B3R2dCMlpCS2RkLVd0Y1pQTkFTa3pUXy1zRjVpZl82SnB3Zk5fbFFrc203RUdWdVNp?oc=5",
+      "date": "Sat, 27 Jun 2026 20:10:31 GMT"
     },
     {
       "title": "6月25日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
@@ -80,14 +75,19 @@
       "date": "Wed, 24 Jun 2026 20:02:00 GMT"
     },
     {
+      "title": "銃刀法・火薬類取締法",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZnF1ZjlDTzh3Z1BVd0lNbnJvNV9jb2hJU0c4X0M4WkJvVlBkRjkyeG4yQ01XZGFPWFJlMEgzejFYNXMxd3ZVa2V6Ym5KSUJUcldWeEkzQWlObmFtY01N?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "6月23日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRDU0Z1pOZzk4NjI5a3VMUTdlWTk3dm9rYzV4SWRnX2VyWDUteXpEUDJReUN1aTVQWklWWjJoNEY2Zy1OQTJ2MjlYMHJnYmdVVUQ0MTZjZ1owWWc2UHpLWVhVaTVVZld0Y1hXOHVMONIBdEFVX3lxTE5BcFctMExscWhOUnE1cVE1RW9sRjM1b045TU14VGNFWldTQlRpdTNjczhnMENDLURfX2tNanp6TDBwdUtqa3FSZmVFOVdPeGR4T1dHMXVMMS01T2NvWkpheUdBaXozTUY0RTc4bkF0TWJ4bTl5?oc=5",
+      "date": "Mon, 22 Jun 2026 20:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "６月２７日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FeVdYdzdlMG1jTUlSWkt5b25nbk16WklPb29VdVdaemtSMXlVUUtESUFlQ3pGd3hLU0V2WjB4ZHpvemp5bDhoTDVoNHRkbnIwNm12R1RLTWRlOVprZF9OOWtTMko2TWhScU5Ub3hDZWh4Z9IBd0FVX3lxTFBlOVU3VVhxUjRrVTRZdlNPZkZYX0E3UEZ4dUJ1SHd6SHdtX2cyWHM2MHVZSWFVemtqM2dRX1FBQVBGSFZZV3pCdEotY0ozQ29GdC0wZVZiSGZxNFBhOHFZd01QcFpQZnp4M1BOWWViWWZ3d2VySDFZ?oc=5",
-      "date": "Fri, 26 Jun 2026 20:08:37 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Fri, 26 Jun 2026 10:08:36 GMT"
     },
     {
-      "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
-      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
+      "title": "「ながら運転は殺人行為に近い危険運転」交通事故で息子失った男性が高校生に講演 愛知・半田市（中京テレビＮＥＷＳ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qblpfVEFacFpjdGtTcmRxMUpfamVWX09jX2MyMllyNkk5ZEFJWkd0cmdMWVpudkRRdE9DR3RiTHRlUGs3YWlldjZGTGpvT2tyYlBHVHpSNjU1dmVRWWllcTJDUjJNS1pHM1JtdGdERW52MmVlVVdQeFZBTVVRTGs?oc=5",
+      "date": "Fri, 26 Jun 2026 10:39:00 GMT"
     },
     {
-      "title": "妊婦死亡事故 国に被害胎児の法整備求める 愛知・一宮市議会（読売新聞オンライン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52d0lmeXA5ZFpfanR0dEtYeDkzbHBpVXRqRzFsaEpCdjNSbGZRUkVzN1N2R2JteUZjNy1PT1k5aUd0T0pwcHFPWklFejlnSHNMYlFXaTBqQVpwRy1fY2hHX0VzbU5JY19XelRCWU8tT2FnS0loVlpvUWhwMWpfaHM?oc=5",
-      "date": "Sat, 27 Jun 2026 02:25:46 GMT"
+      "title": "愛知 ことしの交通事故死亡者43人で“全国ワースト” ｢自転車の青切符｣などルール徹底呼びかけ ｢春の全国交通安全運動｣",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTmtlc21MUk9sUms0QlNmSEprd3lfVWJuNlJDVGVTSnQ0anZfYjZYYk0zUDlPQm4yZlFtbFlScTE1TWNFZ3cwZ3Z5aURsXzVybWFkbFZveWNjOVVhVlpN?oc=5",
+      "date": "Mon, 22 Jun 2026 10:26:00 GMT"
     }
   ],
   "official_links": [
