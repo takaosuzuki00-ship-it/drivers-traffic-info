@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-28T18:02:58.352047",
+  "generated_at": "2026-06-28T21:02:47.340676",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 23.8,
-    "temp_max": 26.9,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 20.8,
+    "temp_max": 27.5,
     "temp_min": 18.3,
-    "precip_prob_max": 29,
-    "precip_sum": 0,
-    "wind_speed": 6.7,
+    "precip_prob_max": 57,
+    "precip_sum": 1.1,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
@@ -45,30 +45,25 @@
       },
       {
         "time": "15:00",
-        "temp": 26.5,
-        "weather": "晴れ",
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 23.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 29
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 57
       },
       {
         "time": "21:00",
-        "temp": 21.3,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 20.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 18
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "6月25日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINkpUN2hSbE1RbGFNSVZmVFo5UzFwaUo5ZHU1VGswVDVXZVpKUTBmXzB6cHVVWDNNLUxQaVRzdlVXbl9QbGpSQXVHZmZMVTVJcEE4Wmw1SU5rTTc0N3RvRjUtOXlDeXhVRkNZV0Qwa9IBdEFVX3lxTFBIUWUzMGs4WkxMU3pwb3dBMDR4akQ4amhBcENjcjY4QkRiY3JkcHpNWHBCZGtWYlB3TTdFdUFwNWIzaXZtV0N5NzZ0dDFCd3lCdGJySG9zaDhmSTQtZDljNmVWTmZBcy1VN0xxd3dvZTdTTW5h?oc=5",
-      "date": "Wed, 24 Jun 2026 20:02:00 GMT"
-    },
     {
       "title": "長野へ帰省中「オービス」が光りショック！ 後日「出頭通知」が来たら“長野県警”まで行かないとダメですが？ わが家は「東京」なのですが、最寄りの警察で対応可能でしょうか？（ファイナンシャルフィールド）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNVlmXzZSa21KdVNtaWJjb0l2YzloMmRUNE5MRndIR3FEaDlLTlY0dzhHRF9YVnk5RlZCMFNMc1RYcnd5LTdTZ1VuRnVwVi1fUDRYYzJqczl0NDh3bGtzVlpKR0c1VmFRRGxjVTRJOG1ic29XOGtidHdBSl81TG8?oc=5",
@@ -85,6 +80,11 @@
       "date": "Fri, 19 Jun 2026 20:02:00 GMT"
     },
     {
+      "title": "参院選へ 長野県警が選挙違反取締本部を設置 「特に悪質な違反行為に対しては、事前検挙も辞さない」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05eVBKYnNPWFY3NkpYMFJIOVhwV1ltTzNqal9hOTBIcHZTT3RlWVlNeV9TbUpYRVc0ZTctbHJ0U2plT1FrZFVNdVJIVnc2SWJXY25MVUdfazF0QU5tMV84aWVxUnZLeDg?oc=5",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT"
+    },
+    {
       "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
       "date": "Thu, 11 Dec 2025 08:00:00 GMT"
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "スクールバスが対向車線の車に衝突、けが人は中高生ら11人に 大阪 [大阪府]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UEthcGkzWm9zSjBHNnpvTDBlSU10MjRzMTRZX2JXd2FqTWhRc19jZ3Azd2NMY1pVdjdNWU5hWnF6Zzd3XzRzc0JtaDd4bnp0ZkFSS2xlN0FrNDdfTUphNDRJeERqV2c?oc=5",
-      "date": "Thu, 25 Jun 2026 13:02:00 GMT"
+      "title": "右折しようとした軽トラックと対向車線を直進の車が衝突…軽トラック運転の69歳男性が死亡【長野・中野市】（テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Q0lCSEs0a25vZlFDRlM1cnVWTVlNUUl4ZDNDeGU4d2p4eDd1TWZ3czhSNUQxN29NdWNyamdfVkhBV2NLZVZjM3FqZWU0M1dBYmtWRzVwN2YtNWUyY0NrbEcteWdOSzlGeGZsbHRuVEwwclVCYlRMX0Ryc0JKcms?oc=5",
+      "date": "Sun, 28 Jun 2026 01:55:00 GMT"
     },
     {
       "title": "信号機の柱に軽乗用車が衝突 意識不明だった78歳の男性が死亡 柱は途中で折れて信号機や標識が落下 車が押しつぶされる 長野・須坂市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
@@ -102,9 +102,9 @@
       "date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "スクールバスなど複数台が絡む事故、12人搬送 大阪外環状線（毎日新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZVBOV1Flc2VuS0RKRklkTmV1N3JpRHg2SlNEREIyTDhiZjkySlowb3pZTTYySERQRjdVRm9tY3lfMndGNVQxbkVKTWQ0SmFUN2xXQW1VWmt6QU1zQU5HQVg5bUJLcXRoZDVpZm1WQnNkLVZmVTA5Q1lQSjh3ZG8?oc=5",
-      "date": "Thu, 25 Jun 2026 12:44:25 GMT"
+      "title": "スクールバスが対向車線の車に衝突、けが人は中高生ら11人に 大阪 [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UEthcGkzWm9zSjBHNnpvTDBlSU10MjRzMTRZX2JXd2FqTWhRc19jZ3Azd2NMY1pVdjdNWU5hWnF6Zzd3XzRzc0JtaDd4bnp0ZkFSS2xlN0FrNDdfTUphNDRJeERqV2c?oc=5",
+      "date": "Thu, 25 Jun 2026 13:02:00 GMT"
     },
     {
       "title": "長野市の交通量が多い県道 軽乗用車同士の事故で1台横転 20代女性が大けが 30代女性が軽いけが【長野】",
@@ -112,9 +112,9 @@
       "date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "信号機の柱に軽乗用車が衝突 途中で折れて信号機や標識が落下 車が押しつぶされる 70代の男女2人が乗車 男性が意識不明の重体 長野・須坂市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bG9DVlY4Uy1Ydnh1TDUydXNqREdybTdKNjZJX25HV2pVM3A1TmlYanJtdXRqYkI2UG1WdnN6OWRDUUVrMHFNVlkzdDFuVG5XanRJUUVWaHdKTzhKbER4U3R0N29NWkk?oc=5",
-      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
+      "title": "右折しようとした軽トラックと対向車線を直進の車が衝突…軽トラック運転の69歳男性が死亡【長野・中野市】",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWY0amNFSlBNZ3VWdk00SUh0Q2N5Wk93R2Q0QzJDYmt3MlBKNHRhVlh5WDN0RWJIeDNQSXdFSmJlbnZJMFVRT1hDcENVNnBOY2dkeFZuRHR6NnprSFV5dkdaTnhNNHJUSXNIRFFaRmZIVS01S1R0aFVxdG4zU25VVVJPLVF2NTQ?oc=5",
+      "date": "Sun, 28 Jun 2026 01:55:00 GMT"
     }
   ],
   "official_links": [
