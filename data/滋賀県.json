@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-06-28T21:03:07.780527",
+  "generated_at": "2026-06-29T00:02:35.880701",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 23.1,
-    "temp_max": 26.6,
-    "temp_min": 20.2,
-    "precip_prob_max": 100,
-    "precip_sum": 5.1,
-    "wind_speed": 3.3,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.0,
+    "temp_max": 30.7,
+    "temp_min": 21.0,
+    "precip_prob_max": 61,
+    "precip_sum": 0.1,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "03:00",
-        "temp": 20.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 39
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "06:00",
-        "temp": 20.4,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "09:00",
-        "temp": 20.8,
-        "weather": "曇り",
-        "precip_prob": 100
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 8
       },
       {
         "time": "12:00",
-        "temp": 23.1,
+        "temp": 29.0,
         "weather": "晴れ",
-        "precip_prob": 18
+        "precip_prob": 12
       },
       {
         "time": "15:00",
-        "temp": 26.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "18:00",
-        "temp": 25.5,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
       },
       {
         "time": "21:00",
-        "temp": 23.1,
+        "temp": 24.5,
         "weather": "晴れ",
-        "precip_prob": 12
+        "precip_prob": 22
       }
     ]
   },
