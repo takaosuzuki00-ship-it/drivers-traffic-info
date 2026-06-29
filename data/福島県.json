@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-29T12:01:51.064262",
+  "generated_at": "2026-06-29T15:01:57.185837",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 29.7,
-    "temp_max": 29.7,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 29.8,
+    "temp_max": 29.9,
     "temp_min": 18.8,
-    "precip_prob_max": 25,
-    "precip_sum": 1.0,
-    "wind_speed": 2.4,
+    "precip_prob_max": 33,
+    "precip_sum": 0.2,
+    "wind_speed": 7.3,
     "hourly": [
       {
         "time": "00:00",
@@ -33,31 +33,31 @@
       },
       {
         "time": "09:00",
-        "temp": 25.3,
+        "temp": 25.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
         "temp": 29.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 29.5,
+        "temp": 29.8,
         "weather": "晴れ",
-        "precip_prob": 24
+        "precip_prob": 33
       },
       {
         "time": "18:00",
-        "temp": 25.5,
-        "weather": "霧雨",
-        "precip_prob": 20
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 22.6,
+        "temp": 23.4,
         "weather": "快晴",
         "precip_prob": 0
       }
@@ -65,13 +65,13 @@
   },
   "enforcement_news": [
     {
-      "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
-      "date": "Sun, 28 Jun 2026 20:02:00 GMT"
+      "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yZ0RQbHBVOTVtUHhSZWttRVFqWjFoWDVUMDA2anhzSDVKQ1Vaakt3MVAzMUZvaHVMNThwZmJLSEozTll5VDY3b1UyU1FObTBvcmQwREdUTQ?oc=5",
+      "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yZ0RQbHBVOTVtUHhSZWttRVFqWjFoWDVUMDA2anhzSDVKQ1Vaakt3MVAzMUZvaHVMNThwZmJLSEozTll5VDY3b1UyU1FObTBvcmQwREdUTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YTUN6QnFsZ2M4NGJhM25YUVJHSl9kcm1oQzZ2TlRnbXZsV1R1bDh4WnkxdXdxWU1hVWpER0pZWGsyd0dVQ3hQX2xSdVlveXg4ZXg2OU1OYkZ0bmhuUUdCMXM5UEQwZ2l5QXQ3SDYyNNIBdEFVX3lxTE9sTkx0VVVYaDZCN21lQ2pnNUR1NGpVVUdubHBTa19YTFJEZk9YRmVIWVprOW1yUTlyVWNfRVR4b0Jsb1B3R2dCMlpCS2RkLVd0Y1pQTkFTa3pUXy1zRjVpZl82SnB3Zk5fbFFrc203RUdWdVNp?oc=5",
       "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     },
     {
@@ -85,12 +85,22 @@
       "date": "Fri, 26 Jun 2026 20:00:00 GMT"
     },
     {
-      "title": "6月21日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hM0FhTG5RQkU0c3FJdVZnVDZWek9qOUxzVW1vNzJnci1fUTF0NXJUOHVQd1dvcDUxUkEtNEh6eG9VczBoVjY4cEQ5VDQ5bXQ3RzNkNTlKZw?oc=5",
-      "date": "Sat, 20 Jun 2026 20:02:00 GMT"
+      "title": "6月23日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1weEFpUDdxdE5ORUZKQ1ZJX1RKX0pCQmNCMDVXVlU0V0xabGljdGlxWmd3MUpMU09VNzFFdVRWdnZOZFJacHdoNnRtdW9jQ09RU04wcGNTdw?oc=5",
+      "date": "Mon, 22 Jun 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "＜続報＞歩行者の79歳女性死亡 福島市黒岩の交差点ではねられ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yeWpMTWd5MjRWZGljZjliMHN6c0s4N0JDYUJOZ2JnekN1cGJ0NFpiTksxczRLbjVxb2R1ckkyNzZFY2ZDVWhuUXJQR0pIYUE?oc=5",
+      "date": "Mon, 29 Jun 2026 01:39:28 GMT"
+    },
+    {
+      "title": "どっちの信号機が“赤”だったのか…信号機ある十字路交差点で歩行者と車が衝突 女性１人が死亡 福島",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHoxOEVDN0k5WG1lOG5OZGZiNXN1WmVqMDRUQkJVWVU0RldzSk9RN0FEUUVaRGYxSzhxRTdDSlBMbjJnTE9wbng5bnRGZWIzREFSNjg4bVlrSU15QnVBMTlhdFJDcUNJanZ2ejZQNE90RFdZbExlUHNYYVM2ekgyYUdMdy1sTWM?oc=5",
+      "date": "Mon, 29 Jun 2026 00:58:01 GMT"
+    },
     {
       "title": "「ギアをバックに入れたと思ったら…」福島市の店舗に乗用車が突っ込む事故（福島中央テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMDFHemJ0QklpNnVtRTVDUDc2clBkX0drZTBkVWlmLWFOdnlpNVJkM0VYY1NNS1JoblF6NzFWTGZoV1ZiWkVtakU5Z0lOQjJ6SG9QMWJXSGVsVFU0b2haNTRwNTJGLTAxc3lBTDdhSUttWlNtUEdqdE9lUm9zMms?oc=5",
@@ -102,19 +112,9 @@
       "date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通事故】 いわき市",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03SXBMQ09BMWxqQ1hPTzNfVEJFUHNyTWQ5Q3d2aDlSRVhFSzlIbC0zRnJNTDlDZ2huZy01OFIzWUl3VXJoaEtaTVQyX0MyOGs?oc=5",
-      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "４人が病院に搬送される重傷交通事故 福島・郡山市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzQ0dsbGtySU0zWmJXOEtVcHF5WEt5bzgxMUktd2F4OVdzUnNQcTZRMmw3VDFwUlhVZlNpRUdGZFhOaDlUMWVGSDBRdVJxQQ?oc=5",
-      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【最新】福島市の国道４号で軽乗用車が歩行者に衝突　79歳の女性が意識不明",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4cjRQaGVKb3ZOaHNaRDlLWmlwU041aTkyM2pGdFpEX1NtZE5Hck1aY3UyTktpdHRuVmhGX2E3SjlNU2p0RDhxR3QyNTBhQVZRNzV2dk0xQ2M0enJFa3plQzctcFdVUXVRcVljbEt4TUlDVGlkNGJvR3BuWTPSAYIBQVVfeXFMUE1ENHIwdC1COXBBOXRJV3BwczQyRUhGSDBjRnpoeTl0dmtxTXNlVmp3RjRRc1dONWx0VTZ2LW94WlZ4dE5uR1NDN2I1VjhXMlEtMUczY1Y0aUdBSUNHT2pGLTJVNGMzbWZWZnRkazZYWm9zc1hhbWNLeWFvcmVDb1ktZw?oc=5",
-      "date": "Sun, 28 Jun 2026 12:17:00 GMT"
+      "title": "福島県内で事故の多い交差点は？ ワースト1はいわき市の交差点 [福島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yTU1TU3pDeTlWVzItTGE3Q0huRVg2VnA0Y0szZ1kydzFJNXlPdHBGZ2FMdURhV1dYVS1ZM2xkN3pucVc5RmVrOEhFVkZvYmVjamJLOWptcXA5TFdFMmdiWnAxMFFDTE0?oc=5",
+      "date": "Wed, 20 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
