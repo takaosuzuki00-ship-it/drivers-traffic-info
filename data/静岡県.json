@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-29T18:02:47.990353",
+  "generated_at": "2026-06-29T21:03:18.596809",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 22.9,
-    "temp_max": 23.6,
+    "temp_now": 22.3,
+    "temp_max": 23.7,
     "temp_min": 21.7,
-    "precip_prob_max": 81,
-    "precip_sum": 4.6,
-    "wind_speed": 4.8,
+    "precip_prob_max": 94,
+    "precip_sum": 6.0,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
@@ -41,34 +41,29 @@
         "time": "12:00",
         "temp": 23.0,
         "weather": "弱い霧雨",
-        "precip_prob": 76
+        "precip_prob": 94
       },
       {
         "time": "15:00",
-        "temp": 23.4,
+        "temp": 23.6,
         "weather": "弱い霧雨",
-        "precip_prob": 78
+        "precip_prob": 67
       },
       {
         "time": "18:00",
-        "temp": 22.9,
+        "temp": 23.2,
         "weather": "弱い霧雨",
-        "precip_prob": 78
+        "precip_prob": 63
       },
       {
         "time": "21:00",
         "temp": 22.3,
-        "weather": "晴れ",
-        "precip_prob": 33
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
     {
       "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
@@ -80,9 +75,14 @@
       "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "「不偏不党の立場で厳正な取り締まりを推進」衆院選前に選挙違反取締本部設置＝静岡県警",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9haldaTW1NUUxZdVV3aUNKb0JoVjByclpnS24xWmZlaFZpZVRaN1VpOU5mYlJUZlJkSnNIbjhJR1R1ZnFpZ0RXbHdwUXBhR2dCb0ZrREprLTJiZw?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "６月２８日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NSVBuMEdMNE5Ca0Y3MUhuclZWTVMySWRmTnRjSHJ3VFlGalMwNWVVRl9ZM2VpODJyeWpId2R5STdyM2N6MmVBOTRQYjNMTl9pZDNLSDdocDlwdGJ4ak9leG1Pd3dkV096cG5XZjliYWpnUdIBd0FVX3lxTE1lTGplQVc4VV9zS3J2UXRFTTBwNjlEQll2U0xQbnZQRGVfUlVuNGp0U3NaYkxfUlpOY1MxVFU0ZGZycW9NcnhvZm5mYXA4Qms1UEpMcmFTUFhNYkZXbWd0dnBmVUxxcXlkZkwtdnk2NVFicEtzTlk0?oc=5",
+      "date": "Sat, 27 Jun 2026 20:00:00 GMT"
     },
     {
       "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
