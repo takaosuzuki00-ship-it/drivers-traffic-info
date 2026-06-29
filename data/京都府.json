@@ -1,79 +1,69 @@
 {
-  "generated_at": "2026-06-30T00:03:12.414405",
+  "generated_at": "2026-06-30T03:02:00.364916",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 23.5,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 22.5,
     "temp_max": 31.1,
-    "temp_min": 21.9,
+    "temp_min": 22.1,
     "precip_prob_max": 16,
-    "precip_sum": 0,
-    "wind_speed": 1.5,
+    "precip_sum": 1.0,
+    "wind_speed": 2.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.5,
+        "temp": 23.4,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 22.7,
-        "weather": "晴れ時々曇",
+        "temp": 22.5,
+        "weather": "晴れ",
         "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 22.1,
-        "weather": "曇り",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 25.1,
-        "weather": "曇り",
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 29.2,
-        "weather": "晴れ時々曇",
+        "temp": 29.1,
+        "weather": "晴れ",
         "precip_prob": 6
       },
       {
         "time": "15:00",
         "temp": 31.1,
-        "weather": "晴れ時々曇",
+        "weather": "曇り",
         "precip_prob": 12
       },
       {
         "time": "18:00",
-        "temp": 28.1,
+        "temp": 27.9,
         "weather": "晴れ",
         "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 25.0,
+        "temp": 23.8,
         "weather": "曇り",
         "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "6月29日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CenVjRmhsakZ1cWgyMzZGR0Q2cHc2ai1hcmNaTzB4SWxyTFlTbGlBVGVqcWR5WW03SUttX0FmejBLLXNzWDhDN1E2VFlSSDk0aXRGWDdHREdBaHVCUWlNd005QmZCcGJFRUlWNFFnONIBdEFVX3lxTE9CTWJhMy05dnQxb1U2b0hXZXo5UGd6WTNncDBJM0tkNkVFY3ZjZDNaZWtIc0JvRVFFWWdkbjlsVlo4RnljS0xjWlFpU0M2dkY5SE1WQVh5ZHVOZWdwclhzYVBXM1lkZFJyU0JFbFk4M2xIby1S?oc=5",
-      "date": "Sun, 28 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "６月２３日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95YUZVT1JOUExRTng4QUJkcGtMZXpIcVluRXhRMzdEOEFTU0ZCVldvd0tCcC1CQ3VvNDVxN2dleGtwbEk4eTdWRXlZUXRYb2hScmFILTRTR0EwZ2FrQmpTZ2x1ZHZQZUJa?oc=5",
-      "date": "Mon, 22 Jun 2026 20:00:00 GMT"
-    },
     {
       "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
@@ -83,6 +73,16 @@
       "title": "6月22日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQkJMWm5NLWFjNmd0ODZlcDZpRUZTdS1ReXh4NVVVMnpFYklNZng3d2VMMXptNmpPVnZRM2VlZkNzelNwS3hZbC1xUUdvXzRuaU5BOW1XUQ?oc=5",
       "date": "Sun, 21 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YTUN6QnFsZ2M4NGJhM25YUVJHSl9kcm1oQzZ2TlRnbXZsV1R1bDh4WnkxdXdxWU1hVWpER0pZWGsyd0dVQ3hQX2xSdVlveXg4ZXg2OU1OYkZ0bmhuUUdCMXM5UEQwZ2l5QXQ3SDYyNNIBdEFVX3lxTE9sTkx0VVVYaDZCN21lQ2pnNUR1NGpVVUdubHBTa19YTFJEZk9YRmVIWVprOW1yUTlyVWNfRVR4b0Jsb1B3R2dCMlpCS2RkLVd0Y1pQTkFTa3pUXy1zRjVpZl82SnB3Zk5fbFFrc203RUdWdVNp?oc=5",
+      "date": "Sat, 27 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月３０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "不法投棄を防ぐ！江別市東野幌の道道で廃棄物運搬車両の路上検問 積載物などを調査",
