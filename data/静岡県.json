@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-06-29T21:03:18.596809",
+  "generated_at": "2026-06-30T00:02:49.613420",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 22.3,
-    "temp_max": 23.7,
-    "temp_min": 21.7,
-    "precip_prob_max": 94,
-    "precip_sum": 6.0,
-    "wind_speed": 2.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.7,
+    "temp_max": 27.9,
+    "temp_min": 20.1,
+    "precip_prob_max": 41,
+    "precip_sum": 0,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 8
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 41
       },
       {
         "time": "03:00",
-        "temp": 21.8,
+        "temp": 20.5,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 6
       },
       {
         "time": "06:00",
-        "temp": 22.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 63
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 20
       },
       {
         "time": "09:00",
-        "temp": 22.9,
+        "temp": 24.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 51
+        "precip_prob": 14
       },
       {
         "time": "12:00",
-        "temp": 23.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 94
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "15:00",
-        "temp": 23.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 23.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 63
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 22.3,
+        "temp": 23.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 53
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
     {
       "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
@@ -75,19 +80,14 @@
       "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "６月２８日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NSVBuMEdMNE5Ca0Y3MUhuclZWTVMySWRmTnRjSHJ3VFlGalMwNWVVRl9ZM2VpODJyeWpId2R5STdyM2N6MmVBOTRQYjNMTl9pZDNLSDdocDlwdGJ4ak9leG1Pd3dkV096cG5XZjliYWpnUdIBd0FVX3lxTE1lTGplQVc4VV9zS3J2UXRFTTBwNjlEQll2U0xQbnZQRGVfUlVuNGp0U3NaYkxfUlpOY1MxVFU0ZGZycW9NcnhvZm5mYXA4Qms1UEpMcmFTUFhNYkZXbWd0dnBmVUxxcXlkZkwtdnk2NVFicEtzTlk0?oc=5",
-      "date": "Sat, 27 Jun 2026 20:00:00 GMT"
-    },
-    {
       "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
       "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転の増えるお盆に交通量の多い道路で検問 飲酒運転の取り締まり 静岡・沼津警察署",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYUprUGRXOWNGaFdQdC1hSGJMdWlRU2pkS0hoYV8zamhMeEdQVXVCUEg3Q3BLMENyZVlrTURId1Y3RzdyT0lDU2V3VVNsSmFsQXQ0SXVjVHBaYmUzTXN6eg?oc=5",
+      "date": "Sat, 16 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,9 +102,9 @@
       "date": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "「ながら運転」事故発生件数、静岡県内で横ばい 厳罰化された２０２０年以降",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZTW9WTlJtUVE3RWlLb0Q1S01QaFFYb3hBWkN6dDdIM2RkSmJVT3E2Wi1fbG44UnhucllCa2FqTUxxUkdDcEU4ZEJwZUxHZw?oc=5",
-      "date": "Wed, 10 Jun 2026 03:27:00 GMT"
+      "title": "「速度超過は結果が重大に」相次ぐ死亡事故で緊急の速度取り締まり 沼津市では2026年4人が死亡=静岡県警 - at",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14S3g0Yl9HNTR0MDZqU1p5dURXR2JRSC1tZURibDgzN0JENi1mcTZicXpnNGd5OHUtMzBicGZyYkFlZi1hdEhPUzNTWndfeDR0RzVlNFgzZ184VWk0TC03Yg?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "静岡 南伊豆町 県道で軽トラックが横転 男性１人死亡",
@@ -112,9 +112,9 @@
       "date": "Sat, 27 Jun 2026 08:50:00 GMT"
     },
     {
-      "title": "羅臼岳登山道を合同巡視 昨年ヒグマ死亡事故",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00N2NZZWNhZG93UHFLamZyUGlNSE9KbGRTVFZMUEwxTlRJR2RHNU51ZEJLeEpjRm5FRVR2c21Yb2M2NFIwem45NDc0M2NSQQ?oc=5",
-      "date": "Mon, 29 Jun 2026 00:45:00 GMT"
+      "title": "タイヤに電柱を支えるワイヤーが絡まり…軽トラックが横転し助手席の男性が死亡 台風との関連を調査（テレビ静岡NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTmFEZnpDU1J2bU9tQWhVZnlSRGpyWWtqeEZzV1V2QTQ0cFFaaWg1WmNyRHZEcTdvSEhpLXgxR25ESkVsbHNWa25HMnY4R2NwVWNGekZva2NNOWZnVTJvYlRuaWZ5dUxGcXcxSDllU0FWdFFpSGwxeXdiZ05lTDA?oc=5",
+      "date": "Sat, 27 Jun 2026 12:08:01 GMT"
     }
   ],
   "official_links": [
