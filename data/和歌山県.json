@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-07-01T00:03:40.970720",
+  "generated_at": "2026-07-01T03:04:04.567120",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 22.5,
-    "temp_max": 24.9,
-    "temp_min": 20.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.7,
+    "temp_max": 24.2,
+    "temp_min": 21.2,
     "precip_prob_max": 100,
-    "precip_sum": 42.3,
-    "wind_speed": 3.7,
+    "precip_sum": 13.1,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.5,
+        "temp": 22.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 21.3,
+        "temp": 21.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 21.1,
-        "weather": "曇り",
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 22.9,
-        "weather": "弱い霧雨",
+        "temp": 22.2,
+        "weather": "霧雨",
         "precip_prob": 25
       },
       {
         "time": "12:00",
-        "temp": 22.7,
-        "weather": "雨",
+        "temp": 23.4,
+        "weather": "霧雨",
         "precip_prob": 55
       },
       {
         "time": "15:00",
-        "temp": 21.9,
-        "weather": "雨",
+        "temp": 22.9,
+        "weather": "弱い雨",
         "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 21.7,
-        "weather": "弱い雨",
+        "temp": 22.3,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 24.2,
-        "weather": "弱い雨",
+        "temp": 23.8,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "6月30日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbmF3bXNiWXhBbzNJTzJNeExGYWhJZ2o0QWkwSlo4LTgybEtoclFVeklob25WV1VJaVFrbXRJZlYwOEpFRk5MLVJxek9YYTNvekxTTC1kNGhHTFFySUJLLUI5R0xqb29BNmJDNVJiY9IBdEFVX3lxTE1iNTNXUktHRnctTE5nSmxDWFNJNWRyU1ZOc09uZkJFaHdhNU5FNXR6SEJaNjRleTJEYTdMSF85SkNidHY4azFtTk1taEx2djlWcHFaU0dxaFdLcFhsZmpWOXVDb0pMS1NBbEF3ZjJ3QjVqYW11?oc=5",
-      "date": "Mon, 29 Jun 2026 20:00:00 GMT"
+      "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
+      "date": "Sun, 28 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "麻薬取締法違反などを理由に医業停止処分受けた医師（39）が95人に医療行為疑いで逮捕 大阪府警",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZYlE1X0xzXzlscExabzF5aHFtdFZfYk92bWowQk01Q1NhUHRSamRrR093R195d0hnTngtSWZ1Wm1fREx5dDBJZFhmTUN6dkg2NGJtMjBjWUVvUWVwclZVNjBJNUUzN09HZ3plbmlpcWhtWjUwNUUwODBxenEwTFU?oc=5",
       "date": "Wed, 24 Jun 2026 09:44:00 GMT"
-    },
-    {
-      "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
-      "date": "Sun, 28 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "飲酒運転 県内一斉取締り ４人検挙 和歌山県警",
@@ -88,6 +83,11 @@
       "title": "神奈川県警／違反２７１６件取り消し／７人送検 交通取り締まり不正",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qRURfQVRjQW5GWXFSOHFSX3VXc0gxQkVuUHNZdWV3b3BOQUx1MFBkMlp1ZW1EMlFuSzBEdlNDYUxkS3RrRkdwUmhIdWdhZzQ?oc=5",
       "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "鶴保沖縄・北方担当相、高速道路で40km/hオーバーのスピード違反",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10Wm1PYVhpcWNtWW1Cc3ZTMXpWQnlhcE5MT2gyVTVqLUNENzNWODR3UDBvQm9mTXFLZnVHVkU1SkI2N0pmcUR6bnVRVno5WXRwUW1mVGwtOHdhNDNXMlY4?oc=5",
+      "date": "Mon, 05 Sep 2016 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Tue, 23 Jun 2026 07:54:00 GMT"
     },
     {
-      "title": "【多重死傷事故】女が無罪主張 「てんかん」でない可能性を主張 死亡女性遺族が申し立て再捜査を経て起訴 事故5年目の初公判で 和歌山市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQmNLU0hMaDdzRE1XVUpFb0pGb3ZmX2VmWmtRWFhHRVFhUTQyV081X3E0X0toWm5icFRtWEdqa2FCTDh5b3ZyVDUxcDAyNGpnN05GeVhiVUVMTHZUWGhHQWRKTEtJUGo5bFJqR0lCWVJPSnZqaFB0Z3M2Rjk0RTA?oc=5",
-      "date": "Mon, 01 Jun 2026 07:00:00 GMT"
+      "title": "交通事故の撲滅 ヒマワリに託す 西署・園児ら種まき 和歌山 ／和歌山",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrbkptc3dmNEljQnpyMEZPQ1ZYcUJZVEkwYlN1Y2IxRUxORTdzU0dqdU1hTXZXTDF6TXY4c3BWSWdhelB4RWhsZEhSYlcxcXZVa2h6eTJHdlk3aHY1VVRnUjlfUVl6RklR?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOTlHRmt4VExKVE00OTNqZTQ0NmhFUFlIOE8yZERlbGtURDA4ZmZXNU91Sjdhc3BPUDVqM3pGWG1Yb2FvN1FJTlNKU2tQQXByVGNHcFZHVmloRmNheHN1cndLRnoxakhk?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
+      "title": "深夜の市道で49歳男性が軽乗用車にひかれ死亡 運転手「何かに乗り上げた」確認すると路上に横たわる男性が… 搬送先の病院で死亡確認 和歌山・橋本市",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sRW5OVHJBZ0oxT242VjM3U3l2U0NvcGowczBOZ3JPOHNFei1TVklCVV9VM2QtcHVxSkpJazdQdllBcEROZU8yRVVGdExVb3F4STZJWA?oc=5",
+      "date": "Wed, 24 Jun 2026 12:05:45 GMT"
     }
   ],
   "official_links": [
