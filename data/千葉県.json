@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-01T06:02:21.334577",
+  "generated_at": "2026-07-01T09:01:34.004289",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.5,
-    "temp_max": 25.3,
-    "temp_min": 21.5,
-    "precip_prob_max": 61,
-    "precip_sum": 0,
-    "wind_speed": 4.4,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.8,
+    "temp_max": 26.0,
+    "temp_min": 21.4,
+    "precip_prob_max": 55,
+    "precip_sum": 0.6,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.8,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 35
       },
       {
         "time": "03:00",
         "temp": 21.5,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "06:00",
@@ -35,31 +35,31 @@
         "time": "09:00",
         "temp": 23.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 24.4,
+        "temp": 25.2,
         "weather": "曇り",
-        "precip_prob": 37
+        "precip_prob": 35
       },
       {
         "time": "15:00",
-        "temp": 24.8,
+        "temp": 25.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "precip_prob": 55
       },
       {
         "time": "18:00",
-        "temp": 23.7,
+        "temp": 24.0,
         "weather": "曇り",
-        "precip_prob": 47
+        "precip_prob": 35
       },
       {
         "time": "21:00",
-        "temp": 22.9,
-        "weather": "晴れ",
-        "precip_prob": 24
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "10代男女4人が乗った車が横転し2人死亡 千葉市（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14MG1xcW9OYWJpQTM0ZnluZnkxRkNEN3V3eWhKQWE5UHhMbkR5UWtzcjh1a1BzN1lnYnpvSTdzT195SF9mVF9NbmRTNWFwZGdxWHhieVpURGJrVUVxZzRzZkpSRzI0OUN5TGt2bGhCTTBxVGlLY0hMbERXZlU1M2s?oc=5",
+      "date": "Fri, 26 Jun 2026 22:44:49 GMT"
+    },
+    {
       "title": "千葉・八街の児童5人死傷事故5年 運転手親会社の反省、母親の謝罪 [千葉県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CUkJLX081ZzAtTWFuY0tjVGt2M1JTWDYyUllPLXdrM3FGTjhfRHRRY3pZclY0MFBVRUhVY1FoZVFhYXB5TW9BWmNXOWphWHZ0YWliMlk0cUhPcmNGYjVQX0Z3bkN1UUE?oc=5",
       "date": "Sat, 27 Jun 2026 11:30:00 GMT"
@@ -102,19 +107,14 @@
       "date": "Sat, 27 Jun 2026 09:52:00 GMT"
     },
     {
+      "title": "事故起こし同乗者3人死傷…運転の高校生逮捕 千葉（2026年6月27日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjQXA1VHBTSkxKSGhEZ1pmd2NCMWx4ZXVSYXFWMnR1QWxtVjR0bmdDbkJuRkdxNDc4ZnA4ckdla2VqU0p4NGczWkxzc1Z3ZWVYX3IzSTJjeExxdDlGdU9SdEFZLXpYYXF2UTJWWF9HRndKN2tORF9LOHl5YU4?oc=5",
+      "date": "Sun, 28 Jun 2026 05:31:01 GMT"
+    },
+    {
       "title": "千葉 軽乗用車横転で４人死傷事故 運転していた高校生を逮捕",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHVVMxU0FDaVQ3bmRubEtXQkFvaTJKckIzNFdBc3V2MGRlVzJnNUs3N1E4QV9hT1AxWGw2dHFLYTNaWEgzSEVDQ2NRcDVnSi1aaGd5QUN4LWU?oc=5",
       "date": "Sat, 27 Jun 2026 21:56:00 GMT"
-    },
-    {
-      "title": "交通事故犠牲者の〝声〟伝える 未来奪われない社会を 「生命のメッセージ展」 ３０日から千葉市美浜区",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3RndxYjYyM0ViZkZHMzBla080TGNtRVhkZWNVaFllYk56cGtVVkZGNjBvTklxcE41N1lEcUZMdnpwR3FOUktfcG5LWkV1N25SWktwUXdVbjA?oc=5",
-      "date": "Mon, 29 Jun 2026 20:00:00 GMT"
-    },
-    {
-      "title": "過失運転疑い、高校生逮捕 車横転２人死亡―千葉県警",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTG91UE9JQUdlUmFKVWttcWdKNHNzOHROa3F4LThpZXJQUWxEMVE0YWVJclNsbnpPNzJtUUZLbUhjZDlYdFBzT3BfS3hDVUFRcFFDRWFwTUFrS2FxeGhJdmdYWQ?oc=5",
-      "date": "Sun, 28 Jun 2026 02:16:00 GMT"
     }
   ],
   "official_links": [

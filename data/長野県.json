@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-01T06:02:54.859301",
+  "generated_at": "2026-07-01T09:02:12.730488",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 19.8,
-    "temp_max": 26.9,
-    "temp_min": 19.2,
-    "precip_prob_max": 100,
-    "precip_sum": 1.9,
-    "wind_speed": 1.4,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.6,
+    "temp_max": 28.0,
+    "temp_min": 19.5,
+    "precip_prob_max": 91,
+    "precip_sum": 1.7,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 20.0,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 8
       },
       {
         "time": "03:00",
-        "temp": 19.4,
+        "temp": 19.9,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 19.8,
+        "temp": 20.4,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.2,
-        "weather": "曇り",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 25.8,
-        "weather": "曇り",
+        "temp": 27.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 26.7,
+        "temp": 27.1,
         "weather": "曇り",
         "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 24.0,
+        "temp": 23.1,
         "weather": "曇り",
-        "precip_prob": 20
+        "precip_prob": 14
       },
       {
         "time": "21:00",
-        "temp": 22.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 94
+        "temp": 22.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
       }
     ]
   },
@@ -92,14 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "スクールバスが対向車線の車に衝突、けが人は中高生ら11人に 大阪 [大阪府]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UEthcGkzWm9zSjBHNnpvTDBlSU10MjRzMTRZX2JXd2FqTWhRc19jZ3Azd2NMY1pVdjdNWU5hWnF6Zzd3XzRzc0JtaDd4bnp0ZkFSS2xlN0FrNDdfTUphNDRJeERqV2c?oc=5",
-      "date": "Thu, 25 Jun 2026 13:02:00 GMT"
-    },
-    {
-      "title": "長野市の交通量が多い県道 軽乗用車同士の事故で1台横転 20代女性が大けが 30代女性が軽いけが【長野】 （テレビ信州）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLU9OUWFuUFgyaVNlX0E4RjlPTHYtS1VSWVE2OER4bzdhanI0aldVc29ZaWI2RTRBQjZwZDRHZXJVYXRNZXVjLVJHV05mNnMyVzl4Y0FNSWNUek96UkZJY1BrX2VOUzd3Sm8xTDBNdjdqalFXOVhsNnFUUXhEdzg?oc=5",
-      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+      "title": "右折しようとした軽トラックと対向車線を直進の車が衝突…軽トラック運転の69歳男性が死亡【長野・中野市】（テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Q0lCSEs0a25vZlFDRlM1cnVWTVlNUUl4ZDNDeGU4d2p4eDd1TWZ3czhSNUQxN29NdWNyamdfVkhBV2NLZVZjM3FqZWU0M1dBYmtWRzVwN2YtNWUyY0NrbEcteWdOSzlGeGZsbHRuVEwwclVCYlRMX0Ryc0JKcms?oc=5",
+      "date": "Sun, 28 Jun 2026 01:55:00 GMT"
     },
     {
       "title": "信号機の柱に軽乗用車が衝突 意識不明だった78歳の男性が死亡 柱は途中で折れて信号機や標識が落下 車が押しつぶされる 長野・須坂市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
@@ -112,9 +107,14 @@
       "date": "Tue, 30 Jun 2026 08:09:00 GMT"
     },
     {
-      "title": "右折しようとした軽トラックと対向車線を直進の車が衝突…軽トラック運転の69歳男性が死亡【長野・中野市】（テレビ信州）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Q0lCSEs0a25vZlFDRlM1cnVWTVlNUUl4ZDNDeGU4d2p4eDd1TWZ3czhSNUQxN29NdWNyamdfVkhBV2NLZVZjM3FqZWU0M1dBYmtWRzVwN2YtNWUyY0NrbEcteWdOSzlGeGZsbHRuVEwwclVCYlRMX0Ryc0JKcms?oc=5",
-      "date": "Sun, 28 Jun 2026 01:55:00 GMT"
+      "title": "長野市の交通量が多い県道 軽乗用車同士の事故で1台横転 20代女性が大けが 30代女性が軽いけが【長野】 （テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLU9OUWFuUFgyaVNlX0E4RjlPTHYtS1VSWVE2OER4bzdhanI0aldVc29ZaWI2RTRBQjZwZDRHZXJVYXRNZXVjLVJHV05mNnMyVzl4Y0FNSWNUek96UkZJY1BrX2VOUzd3Sm8xTDBNdjdqalFXOVhsNnFUUXhEdzg?oc=5",
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "携わった全事件を胸に、事件事故の未然防止に注力 生まれ故郷・長野市の長野南署に赴任",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNE40U212Q1JPMkh0bDh4RS1UNEZ4S2ZBbXhsUl9nV2dsT1dhamtCcW1RRVhxZWViU3lBS01PLXZHcmhsNm9LT2NBdTVSaEFFMHZJZlZrVFJkMld1WGhYd0dhUk0xU0R3bVRRVndKVEQ?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
