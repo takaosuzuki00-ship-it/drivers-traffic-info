@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-01T21:02:11.387596",
+  "generated_at": "2026-07-02T00:02:11.519505",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 22.8,
-    "temp_max": 29.0,
-    "temp_min": 20.3,
-    "precip_prob_max": 49,
-    "precip_sum": 0,
-    "wind_speed": 5.4,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.7,
+    "temp_max": 21.7,
+    "temp_min": 19.8,
+    "precip_prob_max": 100,
+    "precip_sum": 27.1,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.9,
-        "weather": "晴れ",
-        "precip_prob": 49
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
       },
       {
         "time": "03:00",
         "temp": 20.8,
-        "weather": "曇り",
-        "precip_prob": 0
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 21.5,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.3,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 24.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 20.7,
+        "weather": "強い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 27.9,
-        "weather": "晴れ",
-        "precip_prob": 24
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 28.2,
-        "weather": "曇り",
-        "precip_prob": 37
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 26.3,
-        "weather": "晴れ",
-        "precip_prob": 20
+        "temp": 20.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
       },
       {
         "time": "21:00",
-        "temp": 22.8,
+        "temp": 20.0,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 16
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
     {
       "title": "衆院選栃木 県警取締本部、文書掲示違反３件に警告",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13S0EzRF94SDNYRERzSGFnODN5eXQwSllrTm5hSjVkZk53UXhhUUhEc2stVE1xS3V2MURhd21Wa3pCWGYxZlRzLTZ4ZDZ6NkxzNGJzaHFITU9xYjA?oc=5",
@@ -72,7 +77,7 @@
     {
       "title": "不法投棄を防ぐ！江別市東野幌の道道で廃棄物運搬車両の路上検問 積載物などを調査",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91U1lsSWI3RF9lSW9OSUtGOThoQ1lUVkhwMjNJcm1Bd3Y5RjI3TFp2cGZZcmhRWnZ5bEdTUmNDaFNDX0Q3VVNHUmRjcGpZekZtN3hlRlF4blk0OHhvRGxfOTZ1OUFRREx6RmhROTM0ZlZXUWJjNTA3UnhXbw?oc=5",
-      "date": "Wed, 17 Jun 2026 08:51:00 GMT"
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
@@ -83,19 +88,9 @@
       "title": "栃木県警「一斉警戒」に記者が同行 全19警察署が検問、摘発者も",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sRmZfTkxIYnpuVFJRUFJzTFFqYTU0MnlLYUI4bUl5X0xrZXJ1cnFTeWM3SC1MdUZBY3poa0hEcy1HX3F2aEV0eFJCdw?oc=5",
       "date": "Sun, 15 Dec 2024 08:00:00 GMT"
-    },
-    {
-      "title": "運輸局\"怒り\"の「いますぐクルマを直せ！」命令に反響多数 「厳罰化しろ」「もっとやれ」東北道で出現の\"迷惑\"「爆音・フルスモ・ハミタイ」の旧車セダンを\"即・摘発\"！ 不正改造検問取締り実施",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qNTdBVmZXVi1lYU5IWXZsNnBmV0pQUEE3Ni1JZXM2NE9xLTZiaklLLUJqY3JXay0yMTUzXy0tWndrYkxncm10OEFR?oc=5",
-      "date": "Wed, 10 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "「通報中に追突された」高速で車3台絡む多重事故 46歳女性死亡 2台が横転、水たまりでスリップか 午前3時現在も通行止め 規制解除のめどたたず（TBS NEWS DIG Powered by JNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vaVN3UkQxRDJIOFlaQ3JFeTIydXJkRTRKcGYxTjRPUHBBV25uNEppUFIyWFVyNTk5YTd1X1Zmd3Z0R1FoQ3liSlQ2NUpPc1hhVmV0dUpLcEJiamNSTFFyU0R5T2Y4T3RlaF8wRW9RZk5NS2tmTXZNSWRjQUE3SE0?oc=5",
-      "date": "Tue, 30 Jun 2026 15:23:19 GMT"
-    },
     {
       "title": "乗用車衝突 電柱根元から折れる 運転手の男性（20代）意識不明の重体 栃木・宇都宮市",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VbXpxUzl2bXowcVF3UUJiYmRQNVRVcHVsRkNISHpOZDdEbzJDV1lkNVc5M3RIenBlWnRid2RhcGJCNU5hME5OR2FSTGw5d0pfSUtxWHp1cw?oc=5",
@@ -105,6 +100,11 @@
       "title": "東北道で重体交通事故 岩舟JCT-栃木IC下りで通行止め",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5SUNmWDBDQ0k5Y1hKRjYxZm1DeFpmT21HN3lnLXhXQ1hEc2VJVDRuRGhUQ3cwa2ltTm1xZ200Z1VmR1Bib2tiT0g0OVVocGJlSUtIRVRTckl4OXNjNzBOWWR5RFRJX3RGRlE?oc=5",
       "date": "Tue, 30 Jun 2026 12:40:30 GMT"
+    },
+    {
+      "title": "「通報中に追突された」高速で車3台絡む多重事故 46歳女性死亡 2台が横転、水たまりでスリップか 午前3時現在も通行止め 規制解除のめどたたず（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vaVN3UkQxRDJIOFlaQ3JFeTIydXJkRTRKcGYxTjRPUHBBV25uNEppUFIyWFVyNTk5YTd1X1Zmd3Z0R1FoQ3liSlQ2NUpPc1hhVmV0dUpLcEJiamNSTFFyU0R5T2Y4T3RlaF8wRW9RZk5NS2tmTXZNSWRjQUE3SE0?oc=5",
+      "date": "Tue, 30 Jun 2026 15:23:19 GMT"
     },
     {
       "title": "２０２５年の交通事故発生件数と死者数 過去５年で最多 栃木県－NEWS - tochigi",
