@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-01T12:03:52.490078",
+  "generated_at": "2026-07-01T15:05:11.853715",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 23.0,
+    "temp_now": 23.5,
     "temp_max": 23.7,
     "temp_min": 21.9,
     "precip_prob_max": 100,
-    "precip_sum": 70.6,
-    "wind_speed": 8.9,
+    "precip_sum": 93.7,
+    "wind_speed": 13.2,
     "hourly": [
       {
         "time": "00:00",
@@ -33,20 +33,20 @@
       },
       {
         "time": "09:00",
-        "temp": 22.9,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
         "temp": 23.0,
         "weather": "雨",
         "precip_prob": 100
       },
       {
+        "time": "12:00",
+        "temp": 23.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
         "time": "15:00",
-        "temp": 23.1,
-        "weather": "弱い雨",
+        "temp": 23.5,
+        "weather": "雨",
         "precip_prob": 100
       },
       {
@@ -57,7 +57,7 @@
       },
       {
         "time": "21:00",
-        "temp": 22.6,
+        "temp": 23.1,
         "weather": "弱い霧雨",
         "precip_prob": 100
       }
