@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-02T12:03:31.532439",
+  "generated_at": "2026-07-02T15:02:36.567527",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 27.1,
-    "temp_max": 27.5,
+    "temp_now": 27.7,
+    "temp_max": 27.7,
     "temp_min": 22.7,
     "precip_prob_max": 100,
     "precip_sum": 3.1,
-    "wind_speed": 3.2,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
@@ -33,31 +33,31 @@
       },
       {
         "time": "09:00",
-        "temp": 26.0,
+        "temp": 25.5,
         "weather": "晴れ",
         "precip_prob": 33
       },
       {
         "time": "12:00",
-        "temp": 27.1,
-        "weather": "曇り",
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 26.9,
-        "weather": "曇り",
+        "temp": 27.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 25.8,
-        "weather": "晴れ時々曇",
+        "temp": 26.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.5,
+        "temp": 23.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "７月２日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ3UzZDR3YXE0Z25QeEZjdlQxckNpZmJ0VjFuem1nWlJJYjFNZHRBT2gtUURRWmtYcXloSWZVSVltZUhaOW1URzRjRllUZVpDY2d4T2dvWll2aVRHbW1pd0lrUXRUdzVvX05uX2JsT1FoOFRzRnpyR2NjN19POEVIbW1pY1FMZGZ4TjdGWG80V0FhRl9xaEpBVVdRS1hsYU1BNFM5cXhvVmlBdGQyUHNtQXdSazhtQWVvY01DcGpFOHlva0RtQlg00gF3QVVfeXFMT1BwX0k0aUIxeDM0WVUxRU9WdGRVS19OQzlSa3Q3TmtCYlVuQ29sSWxmNWJjZXRWcDNyOUZzcVRBRUV2UFJhZHlRQ1hhNEZxNWRqU0NGYW1HOUc1elZrNFVLTlQ3TEdrS1lLbDM0dHhQTmhnYkFhSG8?oc=5",
-      "date": "Wed, 01 Jul 2026 20:11:18 GMT"
-    },
-    {
       "title": "令和８年６月中の速度違反取締計画について - 府中警察署",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LNTZDWTJveXVpZmZSb0x1Z1V4U1FGN0lQRnItZTJ0UGxjaThVU091WXIzWFZZRE5RcS1PZ3hDcENDQTZmTllsU0xBTFFhbExXUXBfaEFLQ0ZoVC1uUUFvNlNPTDlIQlBvbkFzNVZBNWtIWVp1ZVY3WTdR?oc=5",
       "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月２日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ3UzZDR3YXE0Z25QeEZjdlQxckNpZmJ0VjFuem1nWlJJYjFNZHRBT2gtUURRWmtYcXloSWZVSVltZUhaOW1URzRjRllUZVpDY2d4T2dvWll2aVRHbW1pd0lrUXRUdzVvX05uX2JsT1FoOFRzRnpyR2NjN19POEVIbW1pY1FMZGZ4TjdGWG80V0FhRl9xaEpBVVdRS1hsYU1BNFM5cXhvVmlBdGQyUHNtQXdSazhtQWVvY01DcGpFOHlva0RtQlg00gF3QVVfeXFMT1BwX0k0aUIxeDM0WVUxRU9WdGRVS19OQzlSa3Q3TmtCYlVuQ29sSWxmNWJjZXRWcDNyOUZzcVRBRUV2UFJhZHlRQ1hhNEZxNWRqU0NGYW1HOUc1elZrNFVLTlQ3TEdrS1lLbDM0dHhQTmhnYkFhSG8?oc=5",
+      "date": "Wed, 01 Jul 2026 20:11:18 GMT"
     },
     {
       "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "交通事故データ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
+      "date": "Thu, 02 Jul 2026 05:33:44 GMT"
+    },
+    {
       "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
@@ -100,11 +105,6 @@
       "title": "山陽道下りで一時通行止め 志和IC―広島東IC間で3台玉突き事故（中国新聞デジタル）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yVlRScW5EWlhENTdVQ2hoVDI5T3hYSjdQVGlHQ2xudmZTRGFFRldlc0ZIQ0FjRXhRaFl2NTA0NGZ3Wmk3V1FZeW9EMEJyZDNhNWkxaUhSXzlDNmtjOUJzYlowTHcwdE1PY21qZENSeWVYVzQtekJYWVdfUkpaMjg?oc=5",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【JAF広島】交通事故防止と安全な交通社会の実現を目指して 小中高生向け交通安全教室を開催",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3QUxHRk9MNnNpeXlSOGJQd0Q3WXlFN2tZaU9pM2tkalRmOWVzOW9kUEx5NEJScG1MSjNNdlNlLWFwWEppT0ZNRHFYOS11N2dHV1E?oc=5",
-      "date": "Sat, 27 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "【事故】広島市中区銀山町の交差点で車2台が衝突 1台横転",
