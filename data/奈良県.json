@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-03T21:03:27.240879",
+  "generated_at": "2026-07-04T00:03:31.446896",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 23.8,
-    "temp_max": 30.4,
-    "temp_min": 20.2,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 5.8,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 22.1,
+    "temp_max": 23.4,
+    "temp_min": 21.1,
+    "precip_prob_max": 85,
+    "precip_sum": 23.2,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.7,
+        "temp": 22.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.6,
-        "weather": "晴れ",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 23.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 23.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 27
       },
       {
         "time": "12:00",
-        "temp": 27.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 23.1,
+        "weather": "弱い雨",
+        "precip_prob": 80
       },
       {
         "time": "15:00",
-        "temp": 30.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "雨",
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 28.3,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 21.4,
+        "weather": "強い霧雨",
+        "precip_prob": 84
       },
       {
         "time": "21:00",
-        "temp": 23.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 21.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
       }
     ]
   },
