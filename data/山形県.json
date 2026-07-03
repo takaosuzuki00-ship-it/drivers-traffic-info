@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-03T15:02:52.773892",
+  "generated_at": "2026-07-03T18:01:56.849922",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 22.2,
+    "temp_max": 22.7,
+    "temp_min": 18.9,
+    "precip_prob_max": 100,
+    "precip_sum": 6.8,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 19.1,
+        "weather": "霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "06:00",
+        "temp": 19.1,
+        "weather": "霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "09:00",
+        "temp": 19.9,
+        "weather": "曇り",
+        "precip_prob": 84
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "曇り",
+        "precip_prob": 71
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 25
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -21,9 +80,9 @@
       "date": "Thu, 02 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "７月２日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50QWJseTdhaFRyUDlUSVN4bWdocC1CS0Z4bzRDZmdyTGxmQlUtX1RQLWxOeUQ2RC1lY3Z1YmYzaGtjcmpLR0tEX0lTNEhnMHM5dTZpa2lpMEYxNTlWVmlQWHNRaVczcmtsSExwVXdBSENQUdIBd0FVX3lxTE9QcF9JNGlCMXgzNFlVMUVPVnRkVUtfTkM5Umt0N05rQmJVbkNvbElsZjViY2V0VnAzcjlGc3FUQUVFdlBSYWR5UUNYYTRGcTVkalNDRmFtRzlHNXpWazRVS05UN0xHa0tZS2wzNHR4UE5oZ2JBYUhv?oc=5",
-      "date": "Wed, 01 Jul 2026 20:00:00 GMT"
+      "title": "取り締まりを強化…衆院選公示を前に「選挙違反取締本部」を設置 山形県警（2026年1月25日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjdBN1ZwVUtkU0psYlp0ZTZvVG5lZDhpTWtqdF9oN3hfdlZUUkZ3emRGcDVFMFpfSWZrdjA3d2xVWmp3anVXZlNzVG02bWo5R2F6R0M3NnR1ak1pWksyY2RDdU5SS18xVTdTT21sUmQ0ZWZ2YnljaFhnMURzb1NHWDNjZmVBdW8?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "犯人が逃走中・山形県上山市で発生の強盗事件、警察が検問も（2025年12月2日掲載）｜YBC NEWS NNN",

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-03T15:08:53.244700",
+  "generated_at": "2026-07-03T18:03:43.793188",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.7,
+    "temp_max": 28.2,
+    "temp_min": 21.0,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -26,9 +85,9 @@
       "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "6月30日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Md1ZEMml4TEE5clVSQmhHcEZERC1NWF8yVWRLQTJacnFXRnU0dlFhY1BSUDk5cEpfSWZ4Y3ZCMU1SNFRCcXFDWEZ2V1c0dGxmc1A2WnFPdkFiNnlpSE16empuMC0yT1RGUWswQ1JLd9IBdEFVX3lxTE5mdlRtcWxtSlBjRzdDWWhLNkVaZlJmblh1SV9LTFdwMUZFbkRJeWhJWFZLa0xtcVVURlEzUXl4VDIwQjRjUllYdjdldHZMR2d0UjR5LUVGNDhKcmVBQW55V0NsSGtuVnZQUmU3V1NkODBFRjhJ?oc=5",
-      "date": "Mon, 29 Jun 2026 20:02:00 GMT"
+      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [

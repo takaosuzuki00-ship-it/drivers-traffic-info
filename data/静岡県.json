@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-03T15:06:16.152802",
+  "generated_at": "2026-07-03T18:02:57.354152",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 24.7,
+    "temp_max": 25.7,
+    "temp_min": 21.9,
+    "precip_prob_max": 100,
+    "precip_sum": 3.0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 65
+      },
+      {
+        "time": "03:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 21.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 24.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "18:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "21:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 47
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通指導・取締情報",
@@ -38,9 +97,14 @@
       "date": "Wed, 01 Jul 2026 05:04:29 GMT"
     },
     {
-      "title": "【速報】東名高速と新東名高速で車横転事故相次ぐ…激しい雨の影響か 交通規制続く（午前１０時現在） 静岡県（静岡朝日テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wMHhEU1h2b0NRWkJpZDkydnc3RmF1aENPN1hMV0MzZGkwSmhqaGF1LTFjbjktN3E2VlQyQkVVZjY5X2ZjUzRaRnhtNWg1a2JxQ2dkNlhFa1Z6ZXRlQnNKOGpuSTlCSTdEQXVUSDA5a2J2YnlnYVozNms5bHZ0Q1E?oc=5",
-      "date": "Thu, 02 Jul 2026 01:54:17 GMT"
+      "title": "小学生の女の子（9）が登校中に横断歩道ではねられる事故 病院搬送も意識不明の重体 警察は運転手の男を逮捕（静岡・浜松市）（Daiichi-TV（静岡第一テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94RW0xTlhVX3BNQlBPS3c0aEFOQTR5WFRJbDc3MFNRS3BPeFJrb3M1SG9zU3lBcWRpMUF4VjZhOE5TNDk2S29zUVNzcWJYdElQZExmdEVydlc0R200dzJMTDZsdTEtendpeUxSeURZY1FXT1RoS18xbmFZRGtBMUE?oc=5",
+      "date": "Fri, 03 Jul 2026 06:09:00 GMT"
+    },
+    {
+      "title": "車が横断歩道を渡っていた通学途中の9歳女子児童をはね一時重体に 車運転の21歳男を逮捕 信号無視か=静岡・浜松市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10cy1xWXhhLTZZb3ZCenRYSzFQNllKRHVXUzJxT0dWM3FIX25OVi1nanJDNVB0YXpxVXJlcC03S1hIeXlfaXpZZWVMSWo2ZWdJWm5SV1hvc0g0RDNWcUJSdWpLbTZqV2xOUDZQR19tcWtZbEFuaHVVRVhwbEFLalU?oc=5",
+      "date": "Fri, 03 Jul 2026 03:58:12 GMT"
     },
     {
       "title": "交通死亡事故ゼロ1200日 静岡県菊川市が「交通安全優良市町」に",
@@ -51,11 +115,6 @@
       "title": "【静岡市清水区】19歳の女を酒気帯び運転の疑いで逮捕 交通事故起こし発覚（静岡県警清水警察署）",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmtneW9lbFNqWHJJVUVHZVBYdGlybWp0LUVVN0FBdlNUelVWeDdUV2pENndMZDdPWVB5S1BHWWwyN0xSWk9SNkxmUk9oWnlJa3dYNWhmRDY0VUc0UXhzSk9ValJTSXpNbkJEb25yZmdwWkswYTlDekFEbFlFdE9pdnROblVDRnM?oc=5",
       "date": "Sun, 21 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通事故の発生件数が全国20の政令指定都市の中で最多 16年連続 脱「ワーストワン」へ啓発活動＝浜松市",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZU0NRNkdLbnQxaGl0N2ItcnZHWXFNTkpZOWRlVlhIUGdERkRKMURCU0N6bUlNakg4MVU5c1QzY0lLeVdrZUVjakpraHgzdk93ZzJLRlRmbjd0UQ?oc=5",
-      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

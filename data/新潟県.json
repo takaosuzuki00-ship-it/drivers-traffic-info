@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-03T15:04:46.847080",
+  "generated_at": "2026-07-03T18:02:30.644313",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 22.5,
+    "temp_max": 23.0,
+    "temp_min": 20.8,
+    "precip_prob_max": 98,
+    "precip_sum": 6.4,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 78
+      },
+      {
+        "time": "03:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "12:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月3日（金）【岩手県】 日中・夜間の交通取締情報",
@@ -11,14 +70,14 @@
       "date": "Thu, 02 Jul 2026 20:07:58 GMT"
     },
     {
-      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
-      "date": "Thu, 02 Jul 2026 20:11:58 GMT"
-    },
-    {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
+      "date": "Thu, 02 Jul 2026 20:11:58 GMT"
     },
     {
       "title": "【交通取締情報】9月20日 新潟市秋葉区や見附市で取り締まり強化",
@@ -38,14 +97,14 @@
       "date": "Wed, 01 Jul 2026 08:10:00 GMT"
     },
     {
-      "title": "【新潟市北区で交通死亡事故】交差点で普通乗用車同士が衝突 25歳男性が死亡 - 新潟県内のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tT21yNjZLcjBJckV5NWM2TkMxMk9RZGRGUEhEb2NQejRMV2pJYlg1dllHaDNXR2QtdE5SclJtZXFWRXJl?oc=5",
-      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+      "title": "【小針小学校付近で軽傷ひき逃げ事故】新潟西警察署が事故に関する目撃情報などを募集",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9takNJZi1ZbjJHN1VtUDJ0cnotMWxIbVgwSXY2cmhBZ21ZbzBKTU9LaDh3Xzlmc0FJUXV5MHZpalRjRW54?oc=5",
+      "date": "Fri, 03 Jul 2026 06:38:15 GMT"
     },
     {
-      "title": "【記事追加】北越高校（新潟市）のバス事故受け安全策「校長の事前承認」と「教職員同乗」を徹底［磐越道バス事故］",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45NzZQUzBXdnVvNEtKb3JlQjF0TU9WejNxM0gtN0pIZlBTZWZwSERsM1ZjYVJDY1F4WXh3aHRYSGtRUnBWaU5VSjlJZ1FLa29SQUIxb1BBdzFrWkRnZmc?oc=5",
-      "date": "Tue, 30 Jun 2026 14:30:00 GMT"
+      "title": "【アイシテル事故のないニイガタ。】ホームゲームで交通安全を呼びかけよう！アルビレックス新潟にちなんだ「交通情報板」の標語募集のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SNXE3ZjFFLWxwUldDQ24tMnRGcHhydkM5OUJNTy1aN2t5X0FpNm8xTTFsVVpLREphNjRuYjdlTzVGMzJvWmRqcnU3SUtKUQ?oc=5",
+      "date": "Mon, 19 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "新潟で男子高校生がおぼれ死亡 風に流され消波ブロックから戻れず [新潟県]",

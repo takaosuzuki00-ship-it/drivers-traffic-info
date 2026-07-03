@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-07-03T15:01:57.769398",
+  "generated_at": "2026-07-03T18:01:37.354373",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.2,
+    "temp_max": 24.4,
+    "temp_min": 17.3,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 6.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 22.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPM001N0kwVXVwQmFQXzRQX056LV85Vkl3ZEJ5Z3Q1YkhLdFRISGV3SFlKSUhhMEh5SnhhMzdKakY5RE9mZjlSemdobDg4YzdranNrNXlZdlNmQzZBZGk5MVFfbC1RNnJMOUlrcjVRVdIBdEFVX3lxTE5SOF85R2RsSGdyTUVzSmJFbFNpZERDV2Y2NUNFbDJabHVSWXEtaXFMRFJzWEF1OHJjd0c3akoxcEVsN3VVQWN1SUUzNDJVTURSbGZYLV8zMjZxRnE1c0FlLUlDUXd3T2hfR0JKOW9ZWjd5bnAz?oc=5",
-      "date": "Thu, 02 Jul 2026 20:02:00 GMT"
-    },
     {
       "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DVnNCT2RyWGU0SXJFLUtDQnhlRjRNTU9fR2Q0NUlUbUFUdGc2d2h3YWI0bU5qbGlYMG9lNk1pNHFhLXF2Wm9RN3FxWTY0Skl6T1RoMGF5WTBudw?oc=5",
       "date": "Wed, 01 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPM001N0kwVXVwQmFQXzRQX056LV85Vkl3ZEJ5Z3Q1YkhLdFRISGV3SFlKSUhhMEh5SnhhMzdKakY5RE9mZjlSemdobDg4YzdranNrNXlZdlNmQzZBZGk5MVFfbC1RNnJMOUlrcjVRVdIBdEFVX3lxTE5SOF85R2RsSGdyTUVzSmJFbFNpZERDV2Y2NUNFbDJabHVSWXEtaXFMRFJzWEF1OHJjd0c3akoxcEVsN3VVQWN1SUUzNDJVTURSbGZYLV8zMjZxRnE1c0FlLUlDUXd3T2hfR0JKOW9ZWjd5bnAz?oc=5",
+      "date": "Thu, 02 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "7月3日（金）【岩手県】 日中・夜間の交通取締情報",
