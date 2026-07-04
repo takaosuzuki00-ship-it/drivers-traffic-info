@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-04T18:03:52.472319",
+  "generated_at": "2026-07-04T21:04:31.862535",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 23.2,
+    "temp_now": 22.5,
     "temp_max": 23.8,
-    "temp_min": 22.5,
+    "temp_min": 22.4,
     "precip_prob_max": 100,
-    "precip_sum": 23.0,
-    "wind_speed": 2.6,
+    "precip_sum": 25.6,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 23.5,
         "weather": "弱い霧雨",
-        "precip_prob": 100
+        "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 23.4,
+        "temp": 23.2,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
         "temp": 23.2,
-        "weather": "霧雨",
-        "precip_prob": 90
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 22.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
       }
     ]
   },
