@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-05T03:04:00.072585",
+  "generated_at": "2026-07-05T06:04:10.309986",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 24.6,
-    "temp_max": 26.9,
-    "temp_min": 24.6,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 24.8,
+    "temp_max": 28.3,
+    "temp_min": 24.7,
     "precip_prob_max": 100,
-    "precip_sum": 63.5,
-    "wind_speed": 2.7,
+    "precip_sum": 31.9,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
@@ -21,49 +21,59 @@
       },
       {
         "time": "03:00",
-        "temp": 24.6,
-        "weather": "晴れ時々曇",
+        "temp": 24.8,
+        "weather": "晴れ",
         "precip_prob": 45
       },
       {
         "time": "06:00",
-        "temp": 24.6,
+        "temp": 24.8,
         "weather": "弱い霧雨",
         "precip_prob": 67
       },
       {
         "time": "09:00",
         "temp": 25.2,
-        "weather": "強い雨",
+        "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 26.3,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "15:00",
-        "temp": 26.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
-      },
-      {
-        "time": "18:00",
-        "temp": 25.3,
+        "temp": 27.1,
         "weather": "弱い霧雨",
         "precip_prob": 98
       },
       {
+        "time": "15:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
         "time": "21:00",
-        "temp": 25.0,
-        "weather": "雨",
+        "temp": 25.3,
+        "weather": "弱い雨",
         "precip_prob": 88
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月5日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Wd2lzRUZjZ0tqR3djaEQwMktHblhoU2dSTlUzWDNFX2pkWHNxekhQTjdJc3V0WE5rLXRhQXVsbmFSdUpzUVNPZHFnUkV4YW5yVVVMTW5senJERDNYWUNSSlVwUE50LUdmR0xJa1U3TdIBdEFVX3lxTE9ENGk0WUFhNzdIODl2SkpJTlhNQjNnaTBrcy1QNXNWa1ZQYThlamxCZXotN1RIWTBhMGdhTVFXekI5cGZhdkNKWnBpa0lXUTd6ajI2WWpEUjNEdzJjcXQwcVBXSUp1UWtSTHVlcklITjdJSFBR?oc=5",
+      "date": "Sat, 04 Jul 2026 20:11:06 GMT"
+    },
+    {
+      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPM001N0kwVXVwQmFQXzRQX056LV85Vkl3ZEJ5Z3Q1YkhLdFRISGV3SFlKSUhhMEh5SnhhMzdKakY5RE9mZjlSemdobDg4YzdranNrNXlZdlNmQzZBZGk5MVFfbC1RNnJMOUlrcjVRVdIBdEFVX3lxTE5SOF85R2RsSGdyTUVzSmJFbFNpZERDV2Y2NUNFbDJabHVSWXEtaXFMRFJzWEF1OHJjd0c3akoxcEVsN3VVQWN1SUUzNDJVTURSbGZYLV8zMjZxRnE1c0FlLUlDUXd3T2hfR0JKOW9ZWjd5bnAz?oc=5",
+      "date": "Thu, 02 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
@@ -78,16 +88,6 @@
       "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜FBS NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW12STRIZU05clV1UlVaQ241ZnZhaVZfbzMtNklpTnBXd2VFR3d3dEo3Smk1QU50MDIyZ1B0ekVHZXhONUJ0c0lpbTNvcTEzdFgta1dOMEQ3ZFZRdS13YmFvd2VYSG84aEV5WHpWYXEyanFfTGhxSnF5YlBTN3B4N1lyNkJPMEU?oc=5",
       "date": "Mon, 30 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "花見シーズンに大規模飲酒検問 北九州・小倉城近く、福岡県警小倉北署",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUXFYdWRJRl9qNkxNZXJldkJ3OFR6ZjMwRFdJVlhvZEJMa25XeDdvTTJCZkRMSi1weFFkRzVFTW1Zb0JwRk5MaG9FcVpLTjNoSkZ2VDR3?oc=5",
-      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」 | | 全国のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yamtsOGQtTzM3VUg4Y3J4azVrNE5iV1Utdzlhc2k1VktVUXB3ZXhHT3ZELVZpY2RpS0ZGdC04eWhIR1h0T1hKbmFnQ0Q5ZGNBemloWVVB?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Thu, 11 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "【佐賀県大町町・佐賀市】「大町自動車学校 鍋島校」が事故率0.24で県内最小値に。年間教習業務成績優秀受賞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnTlNpUmcwVlBVX3dTU2ZrX0hNT2ROa3oyemdVQ1E3aklzeDZ4VE9HNzFuMjFoRl9McWc2b1ZJeVZ2RElqdm9fTTFlZnJtWlFyRjFr?oc=5",
-      "date": "Fri, 03 Jul 2026 09:51:25 GMT"
-    },
-    {
       "title": "「事故死者数、年間10人台に」 第12次佐賀県交通安全計画で数値目標 | 行政・社会 | 佐賀県のニュース",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1adFg3SUJPNEhQSXYtME5HNTB1aGxuVDliQUxndms1bmVHT05GdHpxTkJkZlJ1OGkxSTVXaTFEblV1N0NLSWNuM0NfdC1wbGdvTHBCTUZR?oc=5",
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【佐賀県大町町・佐賀市】「大町自動車学校 鍋島校」が事故率0.24で県内最小値に。年間教習業務成績優秀受賞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnTlNpUmcwVlBVX3dTU2ZrX0hNT2ROa3oyemdVQ1E3aklzeDZ4VE9HNzFuMjFoRl9McWc2b1ZJeVZ2RElqdm9fTTFlZnJtWlFyRjFr?oc=5",
+      "date": "Fri, 03 Jul 2026 09:51:25 GMT"
     },
     {
       "title": "交通事故防止に向け、パトロールに出発する白バイ隊員 - 安心安全な鳥栖三養基地区に 人身事故42％増 取り締まり強化 佐賀県警鳥栖署 - 写真・画像(2/2)",

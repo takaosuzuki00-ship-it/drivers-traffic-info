@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-05T03:02:15.052277",
+  "generated_at": "2026-07-05T06:02:09.904654",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
+    "code": 61,
+    "weather": "弱い雨",
     "temp_now": 21.7,
-    "temp_max": 24.2,
-    "temp_min": 21.1,
+    "temp_max": 24.7,
+    "temp_min": 21.4,
     "precip_prob_max": 76,
-    "precip_sum": 5.9,
-    "wind_speed": 3.8,
+    "precip_sum": 6.8,
+    "wind_speed": 4.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.0,
+        "temp": 22.1,
         "weather": "霧雨",
         "precip_prob": 61
       },
       {
         "time": "03:00",
         "temp": 21.7,
-        "weather": "霧雨",
+        "weather": "弱い雨",
         "precip_prob": 59
       },
       {
         "time": "06:00",
-        "temp": 21.8,
+        "temp": 21.7,
         "weather": "霧雨",
         "precip_prob": 43
       },
       {
         "time": "09:00",
-        "temp": 22.4,
-        "weather": "晴れ時々曇",
+        "temp": 22.6,
+        "weather": "晴れ",
         "precip_prob": 69
       },
       {
         "time": "12:00",
-        "temp": 23.8,
-        "weather": "晴れ時々曇",
+        "temp": 24.3,
+        "weather": "曇り",
         "precip_prob": 73
       },
       {
         "time": "15:00",
-        "temp": 23.9,
-        "weather": "晴れ時々曇",
+        "temp": 24.4,
+        "weather": "曇り",
         "precip_prob": 33
       },
       {
         "time": "18:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
+        "temp": 23.3,
+        "weather": "曇り",
         "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 21.9,
+        "temp": 22.1,
         "weather": "晴れ時々曇",
         "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月5日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Wd2lzRUZjZ0tqR3djaEQwMktHblhoU2dSTlUzWDNFX2pkWHNxekhQTjdJc3V0WE5rLXRhQXVsbmFSdUpzUVNPZHFnUkV4YW5yVVVMTW5senJERDNYWUNSSlVwUE50LUdmR0xJa1U3TdIBdEFVX3lxTE9ENGk0WUFhNzdIODl2SkpJTlhNQjNnaTBrcy1QNXNWa1ZQYThlamxCZXotN1RIWTBhMGdhTVFXekI5cGZhdkNKWnBpa0lXUTd6ajI2WWpEUjNEdzJjcXQwcVBXSUp1UWtSTHVlcklITjdJSFBR?oc=5",
+      "date": "Sat, 04 Jul 2026 20:11:06 GMT"
+    },
     {
       "title": "７月４日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SUHJEdnFtdE9qbktnWkp6VFhHV1ZrV2hGb3F4Qi1TdmJtTlNSSzI2SjBFZjVzUk9hcVUxbTVuYmRuR1V5cVhUMVFUUUFvWTBWRE5WWG1HS0t0cGgtZGY5X3NubmNLQWUyajJuTVh1anUtZ9IBd0FVX3lxTFB1UzViZlhvWkRvRGFWWVg1UVRSWFVqYWo0NlJ1ai1WbHNOQU1jekFmN0dBTEZoWXRQT1V1U3p1bFBVZXZnX1laRTZ3d19pM082ZHVZQ3BZaEZHdlNGNmwwdk4zSVNMZ2NoSVJyaVZDbUVxY0VtT3Mw?oc=5",
@@ -78,11 +83,6 @@
       "title": "【交通取締情報】福井県警 ４月２２日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "6月29日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BYV9jMGtsaV9JM2NDNGZVRF9XbjlQdHZ6VGVBY29iOHZGWDZZeW5xbmVUZV9ELVlMS1dTTTQyVVc3cjhsVW9wZS1mWThwOVM1Z3NvUFowOVQwc3gxNnRTQlI1VWpjeEpyQlJzcm5RRdIBdEFVX3lxTE0wbWJFLThTQ1RrcjZOSUdDUEc0R1QtZ3E2TC1Ia200am1wZWRFS2FValYwRlNWZWpUZVVmYWo3YTNlU1lwVW9nVVVyM2NlUURkY0NIWGdBbUNEQzdXN3VCU0NYOGwtUFR5cUlPeG5iODdWV1Rw?oc=5",
-      "date": "Sun, 28 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "東京都江東区で「不正改造車」一斉取締り実施 スポーツカーなど9台に整備命令",
@@ -112,9 +112,9 @@
       "date": "Sun, 24 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「事故の記憶ない」 内閣府公用車事故の運転手が説明 勤務先を捜索 [東京都]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtcnkyQTQ0bk1CR2lpaVJUb1lYaXpWc2VDdDVldlRfRmhUNGYwNUZ3Ri1KZVI1WE5fZi0tcmpsSVRRMXRkLXN3QWJ1ZHZob09vYjNVczdlSGw2bzBhLUxSRExJUXVtRms?oc=5",
-      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+      "title": "東京・中央区の勝どき陸橋で2人乗りバイクから女性が転落 後続車にひかれ搬送先の病院で死亡 バイク運転の男は逃走しひき逃げ容疑で捜査 警視庁月島署（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOXJlVGxYeldIMC1xYTRRbDExWFhoUUxTM2F1VlVlUWRtbFdVVGhVQnpXQ1ZpY1lIRnNpNkZMUGxPU0ZJS01Ob2E4cEZLTjZlTDdUenBCam1YUFlkWjdRVXN4b1JRd2FwY2ZTSUJBZEVZUXhXSXVxbmhMb1AxX1U?oc=5",
+      "date": "Sat, 04 Jul 2026 14:32:07 GMT"
     }
   ],
   "official_links": [
