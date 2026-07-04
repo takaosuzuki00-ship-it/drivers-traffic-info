@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-07-04T12:01:59.504687",
+  "generated_at": "2026-07-04T15:01:42.731356",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.4,
+    "temp_max": 25.7,
+    "temp_min": 15.1,
+    "precip_prob_max": 41,
+    "precip_sum": 0,
+    "wind_speed": 10.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.2,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "18:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "21:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DVnNCT2RyWGU0SXJFLUtDQnhlRjRNTU9fR2Q0NUlUbUFUdGc2d2h3YWI0bU5qbGlYMG9lNk1pNHFhLXF2Wm9RN3FxWTY0Skl6T1RoMGF5WTBudw?oc=5",
       "date": "Wed, 01 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ekljUFZ5TFc5UEJRODdUSXBIN2VTeXV5OUNvakZ1SUJ3SHJ6UHBPdHN1MEdJSlJ4aDZXTDZUcU1BVkxxSnZ5MURfY0JSeTVWQlg1SWp0ZVRNaklzMXc1TGJTUFlwXzhKN1l0TXZORmpGZ1JqZzJSR0p0V2VvYmc?oc=5",
-      "date": "Wed, 01 Jul 2026 20:00:32 GMT"
     },
     {
       "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -29,32 +83,37 @@
       "title": "大麻由来の成分「カンナビノール」所持で男を逮捕 県内で初摘発 先月1日付けで指定薬物に指定",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXBIcjJrWVk4bHd0YWJuallsNFJPYllRSnhIc3FIZndzN0p1THNpNDNEeTZpTjVhWmxmYXhKM1dYTXEweC12d2ZiZ0QxeXlCTGRWd1lLNEI0cjJjNHdid01GbWx6WDVubjdKMVNyaXJYclJuR2xVLVBhV2U2RHhTQndURHBoLUU?oc=5",
       "date": "Thu, 02 Jul 2026 10:50:00 GMT"
+    },
+    {
+      "title": "偽ポケカ販売、大阪市の男逮捕 商標法違反疑い／十和田署と青森県警生活保安課（Web東奥）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HcEhQRUFKVUdCR3hOZVdVdGlyZGstVVNtWG9mTGFyQmhLTnBfU3NtcTU4V251UXBxQTNZcVVVQ0d4Z2NrMUdHdmtJWklFNmVpWGhqcEhEV2dyY0FEcmNKUzYwYzRDZklTSk9BMGVGd0NUVF9VS2VQYWVyYUNlYUE?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "【速報】車５台が関係する玉突き事故 男女５人搬送 青森県青森市・国道７号青森環状線",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwMUdGcmU0cTR1UUNhQm1hb3AxVjctVVJVakJvTkpYR3ZkZm5zUVNIZTBtY1loQ2FyWndWbWEyekg0NTFzYVBqdmw5cXlUQkU2M0x5TVE1cw?oc=5",
+      "date": "Sat, 04 Jul 2026 05:21:00 GMT"
+    },
     {
       "title": "死亡事故ゼロ記録達成 青森交通安全協会 青森市内4つの支部を表彰",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Sc2ZfZGU4NmhsN3FFWWFGWjE2dVFDVnJOdWYwbW1xLU8xQ0JNaEZQNWxwbmF1SkZVMDlPSEhHOG5fUmdpUFcyckNlVmtPRGlaQjh4b1FKcGg?oc=5",
       "date": "Thu, 04 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "相次ぐ交通事故 弘前市では車が横転 十和田市では国道で軽乗用車同士が正面衝突 65歳の女性が死亡 18歳の少年が足首に軽いけが 青森県",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XVGJoZnUwUjdVQnBrTGtzWGpiUkhVZTVwMXNKUkF0anNram1lTlV4dXdQblJyZmxpU0NlLWZ3Z0JBTDk5RmJRRkhYZTJ4dTJpMEJ5WmRxcw?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT"
+      "title": "【速報】車５台が関係する玉突き事故 男女５人搬送 青森市・国道７号青森環状線",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50cWtaemQ3WFJWZDBRQURhZnpUSjdQMjVmdFFDZmhJY2dSRnhjRGJnZjhaOEhSRmNLTHBiZmE4MC1NN3ZHRWlPSm1DTTdkUHJ0N0xPNEh3clRycDJ2NEplbm4tNGZjOTQ?oc=5",
+      "date": "Sat, 04 Jul 2026 04:57:00 GMT"
     },
     {
-      "title": "大型ダンプと衝突 意識不明の重体だった軽乗用車の男性死亡 青森警察署発表（2026年6月4日掲載）｜青森放送NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHZLUklUZlpfM1B5SE9FcUJZOFhqRnlJSlR0S2RzczdoSDh6M2d0Yjlrcjk5UmJUVlhwWjh0eWhDVDlWQWdyazlQRzVVcFdNaEhkbThmM1hwQm5ObkFUeDVabWl4X1dUZmYteTJ3T2ItTTJUM3JUTnRSQzJTbDBpSmhPMDZUX28?oc=5",
-      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
+      "title": "(追記あり)イオンモール下田付近で事故のため一時通行止め 複数人搬送か（2026年6月8日掲載）｜青森放送NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNuWUstd1lhQmJRajBCQVRWSzV1MThVaUJZRXNGeGR6aEE4VVpicDRPbVdPZ09TVnF1NWtDbUttbzhPVmEyaC0zRURVM2RzLWxveHd1emIyR2xjVkt4VnFNNmZoQVVyQ3BENkxiRGdrcXBqeHJPSGpIbFcxSGdaTkRKU0pON2M?oc=5",
+      "date": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "青森県内事故多発交差点ワースト現場を視察／十和田市と十和田署｜行政・政治｜青森ニュース｜Web東奥",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4MGpLUllJNzVDODFzZlJBZERLdGcyc1ItTUdnYzBKY01RTzNKWXJlcUJwMkJweWVFbFQwTmlYR25ZTnZzUWRvN2Vjc3BVb0ZSYnN2UFUzR2g?oc=5",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "青森県内事故多発交差点ワースト現場を視察／十和田市と十和田署",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pb1MwbHlhalR5VUpGaC1vZDhIOUFWbXVCZ3ZvRkZmNjJMX1dTRFNrTkVWYkhRSUZvaEo5NE5Rc0o4WkZwT0NBNGJTMA?oc=5",
       "date": "Tue, 23 Jun 2026 07:00:00 GMT"
     }
   ],

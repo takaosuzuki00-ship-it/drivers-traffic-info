@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:07:08.310927",
+  "generated_at": "2026-07-04T15:03:25.783948",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 23.4,
+    "temp_max": 23.7,
+    "temp_min": 21.3,
+    "precip_prob_max": 100,
+    "precip_sum": 32.7,
+    "wind_speed": 7.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "03:00",
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "06:00",
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 67
+      },
+      {
+        "time": "09:00",
+        "temp": 23.7,
+        "weather": "霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "12:00",
+        "temp": 23.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 23.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 22.5,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 21.5,
+        "weather": "強い雨",
+        "precip_prob": 92
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月４日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -21,14 +80,14 @@
       "date": "Wed, 01 Jul 2026 20:06:00 GMT"
     },
     {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+      "title": "７月２日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yYmRkVDdHVktpaWF6UTlFeHRENnZPY2gtQm1iblJST1dHNVlYd05uTzZEdUh6bnlJUHlrbncycGg5Mk1WQ3BkQlVlMkJ5Z0k4TEZMZmVLTlUyUHZ0OHBPVFFzUC1CbXZCVUsxWU50WQ?oc=5",
+      "date": "Wed, 01 Jul 2026 20:12:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月２２日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZm43U25GZFR3NXRuTmxvQzB5Slk5TklKamFJbmtYYUZGY2ZTQS12STVPQk5FTWNLWmFKRXd4d2k1UWlTQmZUdGo2cw?oc=5",
-      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+      "title": "7月3日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3RFZESkdZZVNPTzc4dmFoc3VFeGFsWFFZWm1IQ2p2MGVlODE2YUZyb1NLRXdVOTZ5Ujk3WkRrOElKNjh2VUhfZFRvSk9ZSVBQVUdfbEFTLVI4YXJxMlBrT1NndUN6aXdfbWluQld5Z9IBdEFVX3lxTFAwSE9JRlkzYl9MSm5rbVAtcmJ0Ui1zYk52aTBQM1VBV3J1VXp3aEJ2dkp0N3Rnc1BXdWM3N2k4SlE2b1dKVFM4WGxyVENaNGtickgzU051RXlJWEE2YVlJcnozdzluc01DOXlGTWNMZmttc3hG?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [

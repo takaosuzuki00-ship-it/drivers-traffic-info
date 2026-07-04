@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-07-04T12:02:12.659994",
+  "generated_at": "2026-07-04T15:01:46.657451",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 28.8,
+    "temp_max": 28.8,
+    "temp_min": 17.5,
+    "precip_prob_max": 35,
+    "precip_sum": 0,
+    "wind_speed": 8.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 17.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 22.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月4日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52ZG1leTgzSkdfNmE0S01BTGZDbGRZcDN4WnRQTzMzS3JhclJoR2M0TWYtaUR3emtubmwyek14V1Rjd0x6TFYyRjJNaU5WMVpDbUk4VlE1UkVidlg4aXFMS05XeGZvaUtFZVRvUjh4Z1oyTS00bERJTE53SldyWE0?oc=5",
-      "date": "Fri, 03 Jul 2026 20:00:34 GMT"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2t0R1BISC1pb0h1dXc4OWRYbFg1Uy11Ry1iV1JWYmIxbXpRVzNlN2gwYWNSYmxudDdOLWM1MkliYmp1eWJlc0VUMlh3UklnNWNSeE5VN3lybjdNX0lfUUY3UG5qSUYwU1BPMGNhTDlZTldadHpyWko2RDR6R0VmZE93VFJhLWkwVWVzOFNR?oc=5",
+      "date": "Fri, 03 Jul 2026 20:41:48 GMT"
     },
     {
       "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -53,9 +112,9 @@
       "date": "Fri, 03 Jul 2026 20:20:24 GMT"
     },
     {
-      "title": "原付バイクの男性が用水路に転落し死亡　岩手・紫波町",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RLTBrVC1NY1hBQldkbWpiaHE1WXhaWVlYVTlqOUtsbFVBUmJoblJ1elhuSFJ6YnhEbFZxWjZkLV83QUdOcDlXbnlLdi1ra3BEVlczU2xHeUF3UG9YOHZvTUI2OGFRN2U3ZXdHcE9mTdIBdEFVX3lxTE84ZkZxeDB5bEtvM0FoZWdhMFNoYy00azNXQWlNTEtkcENDZVFyazFJbHFUTl9ReUtmSXdNdTRJSzRERG1QQnkxdTNFTjl1b182UEdmZDBWZzhCTEJRZDBsX2RLZ3Bib05hQl95RVVNZ29EMzEy?oc=5",
-      "date": "Sat, 04 Jul 2026 00:12:00 GMT"
+      "title": "80歳男性死亡 原付バイクが用水路に転落 紫波町の町道 岩手県",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96Zjh2WWtpYWlsczkzQjBwdkl6R19vRmxDRExWNWl0ZDEwcEJBbUJVNm1qc0M2N3Fzc1dtTkxFbTUwNjQtY1NUem1wc0dkZw?oc=5",
+      "date": "Sat, 04 Jul 2026 03:20:00 GMT"
     }
   ],
   "official_links": [

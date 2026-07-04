@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:12:19.489330",
+  "generated_at": "2026-07-04T15:05:18.126117",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 29.6,
+    "temp_max": 29.9,
+    "temp_min": 26.6,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 29.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -33,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "バイクとトラックが衝突、男性死亡 うるま具志川の県道 沖縄（琉球新報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBROHpUem9ZVE9WV1ROeDJYa0hCeVNPcWppbjNlNXJ1Rnc2eS1sOFcyS2UxYkJXS3VpaFNDLTgxUlJwUjR4VzZtakZoSW5hWnVZMmhpSllLQ2lZN1BsYzZYNnFnMVZfb254YmRyVU55aDJfN3gzQTU3dDFsVE1NUUE?oc=5",
-      "date": "Wed, 01 Jul 2026 06:11:27 GMT"
+      "title": "西原町の国道で交通死亡事故 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4YUdMQm1FMjJnZnhUbUZiRkhqN09pUmNzSWJwc0tuWnNxai1Sd2Z5N2h4bXhsanA0ODJ6NG5vUm10bEsxdU0zY19jX0NpN2VTNUY0am40WGRGUy1aYk9hTXg4YTFHTDlPdFQ1WExET3QtcUp1SlVHbjVkRW9KRzg?oc=5",
+      "date": "Mon, 29 Jun 2026 03:04:11 GMT"
     },
     {
       "title": "死亡事故現場に薬物エトミデート 所持容疑で運転手の男を再逮捕 糸満市で発生 危険運転との関係捜査",
@@ -48,9 +107,9 @@
       "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "西原町の国道で交通死亡事故 沖縄",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4YUdMQm1FMjJnZnhUbUZiRkhqN09pUmNzSWJwc0tuWnNxai1Sd2Z5N2h4bXhsanA0ODJ6NG5vUm10bEsxdU0zY19jX0NpN2VTNUY0am40WGRGUy1aYk9hTXg4YTFHTDlPdFQ1WExET3QtcUp1SlVHbjVkRW9KRzg?oc=5",
-      "date": "Mon, 29 Jun 2026 03:04:11 GMT"
+      "title": "バイクとトラックが衝突、男性死亡 うるま具志川の県道 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBROHpUem9ZVE9WV1ROeDJYa0hCeVNPcWppbjNlNXJ1Rnc2eS1sOFcyS2UxYkJXS3VpaFNDLTgxUlJwUjR4VzZtakZoSW5hWnVZMmhpSllLQ2lZN1BsYzZYNnFnMVZfb254YmRyVU55aDJfN3gzQTU3dDFsVE1NUUE?oc=5",
+      "date": "Wed, 01 Jul 2026 06:11:27 GMT"
     },
     {
       "title": "飲酒の交通事故率 25年沖縄は全国最悪2・95％ 5年連続 死亡率は2倍",

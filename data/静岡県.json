@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:06:41.304661",
+  "generated_at": "2026-07-04T15:03:17.160834",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.1,
+    "temp_max": 26.2,
+    "temp_min": 21.4,
+    "precip_prob_max": 90,
+    "precip_sum": 2.2,
+    "wind_speed": 4.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "09:00",
+        "temp": 24.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 26.2,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 25.1,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 24.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 23.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通指導・取締情報",
@@ -26,9 +85,9 @@
       "date": "Sat, 18 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "山本れいわ代表６９キロ速度違反 東九州道、１４９キロで走行",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLejBRYTJZTFhKYldqNEsxZHlaQ0VMWWxQc2c2RFFzMHVtYmZOMk82bDc4TVFqLW1Fc28xMkNuZ09vYmFST0lHcGlINFNwUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 11:00:00 GMT"
+      "title": "飲酒運転の増えるお盆に交通量の多い道路で検問 飲酒運転の取り締まり 静岡・沼津警察署",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYUprUGRXOWNGaFdQdC1hSGJMdWlRU2pkS0hoYV8zamhMeEdQVXVCUEg3Q3BLMENyZVlrTURId1Y3RzdyT0lDU2V3VVNsSmFsQXQ0SXVjVHBaYmUzTXN6eg?oc=5",
+      "date": "Sat, 16 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [

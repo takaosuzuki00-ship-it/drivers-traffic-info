@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:11:26.073395",
+  "generated_at": "2026-07-04T15:04:59.236309",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 26.8,
+    "temp_max": 26.8,
+    "temp_min": 22.5,
+    "precip_prob_max": 100,
+    "precip_sum": 29.5,
+    "wind_speed": 11.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "03:00",
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "06:00",
+        "temp": 22.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "09:00",
+        "temp": 25.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 26.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 26.8,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 25.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり（RKK熊本放送）",
@@ -40,7 +99,7 @@
     {
       "title": "ワゴン車と衝突…バイクの専門学校生が意識不明の重体 熊本市の国道3号",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkQTdjbVpDRjRweVVfQVZqWkpOck5nR2pqY2xCY19PNC1tWkNVMmM4SHB4bjI4TnduYU5UdGtxZlpUTGxLQUhOVlZkNDc4WHBDSlhEX1lB?oc=5",
-      "date": "Tue, 30 Jun 2026 10:04:00 GMT"
+      "date": "Tue, 30 Jun 2026 10:06:27 GMT"
     },
     {
       "title": "事故続く…橋脚に正面衝突で男性が死亡、デイサービス送迎車と衝突しバイクの男性が意識不明（ＫＫＴ熊本県民テレビ）",

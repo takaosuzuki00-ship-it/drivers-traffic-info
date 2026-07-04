@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:01:45.734376",
+  "generated_at": "2026-07-04T15:01:37.622112",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 23.6,
+    "temp_max": 24.3,
+    "temp_min": 13.7,
+    "precip_prob_max": 24,
+    "precip_sum": 0,
+    "wind_speed": 18.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 24
+      },
+      {
+        "time": "18:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "北海道警察 高速道路 速度取締指針",
@@ -43,14 +102,14 @@
       "date": "Wed, 05 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "スタントマンが実演！ 自転車事故の危険性伝える 交通ルール順守呼びかけ 北海道置戸町",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRV93RHExTmZaOG9fNDNCT0tzUWZxU01qYVNuZHdoOXg2Yng5VmREaExKUDBaWGNldlowS0lSVkwwZGpaN1JDNHhjNEVxOVd2TWI0eGNDY2ZnY0RvaFU5VnhlTFN3ZmE3NmxpNkV4YVlBeTZoWkZJS0FoS2tzR2M?oc=5",
-      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "【70代女性が車にはねられ死亡】現場は”地下歩道”があり横断歩道がない場所―ワンボックスカーの運転手を逮捕＜北海道岩見沢市",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IZDY0N2h5Ty1kQXVQUFUzLTNYY2gwbTN4UTVGeDI5dWtJWHpPZHo2cE8zeTUxOHRDTTNlUlpHT0llM1RTYzF5M25PU0tSZw?oc=5",
       "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "20代女性が乗用車にはねられ死亡～40歳運転手を過失運転致傷の疑いで現行犯逮捕「固いものに乗り上げ、確認したら人だった」女性が国道に倒れていたか〈北海道函館市〉",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qcW9PLUEzOEkzMjVPSVdGbUJ3ajdESUM0NmhnbXZlOXIySzJGS29jaXc1eGdxNnRZbnpEcDhVTGZXYUtXb01hVUtWQUNWM3l4X2ZJemwwQQ?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "「サイロから転落した者がいる…」北海道陸別町の林業会社敷地内で60代男性作業中に転落 搬送先で死亡確認",

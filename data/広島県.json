@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:09:23.837548",
+  "generated_at": "2026-07-04T15:04:15.652041",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 21.8,
+    "temp_max": 22.9,
+    "temp_min": 21.3,
+    "precip_prob_max": 100,
+    "precip_sum": 34.3,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "06:00",
+        "temp": 22.0,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.8,
+        "weather": "雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月４日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -43,11 +102,6 @@
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "西広島バイパスで事故 バイクの女性が死亡 広島市西区（HOME広島ホームテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10WTdub3c1eFBLVWtBUHJ3WWExai1IeUdvTWRuSWN3YjU1eTBGaW5PRVJ1am5kUU94LUtER2RDMUdzS3NkWGJBcllGdWxyZDlhWXpxYmwwbkZjaktCWGx3ZFNTLTVyRFZSZ1dndU8xaTJ3Uk1fRWlxTHRxd1U0a3c?oc=5",
-      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "【事故】広島市中区銀山町の交差点で車2台が衝突 1台横転",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jRWZ0YUhTaDk5OVk1MkNmamktaWZLU0otQmUwSV9BZUdCRWN1VGlpUmlLSWVhdTdzbVJESTMtNFJlNW1tTUVsWXUwb3ZyZFFGRlFKQWMzLW93Zw?oc=5",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "【通行止め解除】山陽道で大型トラックなど３台絡む事故 志和IC～広島東IC(下り)の通行止めは約9時間後に解除 【交通情報】",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdHdvMjl6Y010LW9Fd3RscVcyZmZWZU5fY2hqNmJDWEhzNnJnSlZodmVsLUF5QTNPa1BHRWZFNmlsOGJGTjRhZXY1Q3Y3aTBSWFY1clJHVGlVSnBKc0gtc0tidHRybGs?oc=5",
       "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「川に人が浮いている」広島市中区の本川から救急搬送された女性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xd2dxM19kd2pOR0VPb2d5SkFMcHBMaXJTTEdpVnVWUlNkUHhHRl9VZVZwUHpUa09zaENPWWhtUmNWWS1zNmRWNS1GZ0N0NllJWmZSdEkxRlU1Zw?oc=5",
+      "date": "Fri, 03 Jul 2026 09:29:21 GMT"
     }
   ],
   "official_links": [

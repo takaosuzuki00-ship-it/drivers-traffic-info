@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:09:11.502751",
+  "generated_at": "2026-07-04T15:04:09.944168",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.7,
+    "temp_max": 23.1,
+    "temp_min": 21.7,
+    "precip_prob_max": 100,
+    "precip_sum": 30.3,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 39
+      },
+      {
+        "time": "09:00",
+        "temp": 22.2,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 22.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 22.3,
+        "weather": "弱い雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 51
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -17,7 +76,7 @@
     },
     {
       "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa3laaTVoT3ZFcF82MllIeXUzU3FVaEg4OHdJVXh1RzdXZ3RabnJkU1R1OWRpLUs5eW1jWG5OLUV2SVhQMTFGYm82NTJuSXFwWExjY2o1NzY2ZGg3Z2s2QmxMX0tNZG9PeGw4Mk9GSGlaRkFvendV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjZWt5TmJxYVhXSVlZcWdvWkxnOEZSeWNhUl9rMmJ6ZEFSX2dKYVFtNmROLWJKV25mcXE5ci1rWjFKa29kMDFFdkI3a2diVGxsRXRjLVVpWmgwcXlDZDNmTVYzUEh5MUJvVDE1QUQwTWVTU0N2Q2lB?oc=5",
       "date": "Sat, 27 Jun 2026 07:00:00 GMT"
     },
     {
@@ -26,9 +85,9 @@
       "date": "Thu, 02 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "７月２日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50QWJseTdhaFRyUDlUSVN4bWdocC1CS0Z4bzRDZmdyTGxmQlUtX1RQLWxOeUQ2RC1lY3Z1YmYzaGtjcmpLR0tEX0lTNEhnMHM5dTZpa2lpMEYxNTlWVmlQWHNRaVczcmtsSExwVXdBSENQUdIBd0FVX3lxTE9QcF9JNGlCMXgzNFlVMUVPVnRkVUtfTkM5Umt0N05rQmJVbkNvbElsZjViY2V0VnAzcjlGc3FUQUVFdlBSYWR5UUNYYTRGcTVkalNDRmFtRzlHNXpWazRVS05UN0xHa0tZS2wzNHR4UE5oZ2JBYUhv?oc=5",
-      "date": "Wed, 01 Jul 2026 20:00:00 GMT"
+      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPM001N0kwVXVwQmFQXzRQX056LV85Vkl3ZEJ5Z3Q1YkhLdFRISGV3SFlKSUhhMEh5SnhhMzdKakY5RE9mZjlSemdobDg4YzdranNrNXlZdlNmQzZBZGk5MVFfbC1RNnJMOUlrcjVRVdIBdEFVX3lxTE5SOF85R2RsSGdyTUVzSmJFbFNpZERDV2Y2NUNFbDJabHVSWXEtaXFMRFJzWEF1OHJjd0c3akoxcEVsN3VVQWN1SUUzNDJVTURSbGZYLV8zMjZxRnE1c0FlLUlDUXd3T2hfR0JKOW9ZWjd5bnAz?oc=5",
+      "date": "Thu, 02 Jul 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -40,7 +99,12 @@
     {
       "title": "車にはねられ高齢とみられる男性、死亡 岡山の国道３０号 警察が身元の確認を急ぐ",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15UGJmWHRSX1A4c0tDMC15S3NCMHNHU1ZyOTUyTjd5SVdvaGpBdHZ3OXhQMHNMeTZrX1lPQ3diU0pEd293a3NSc1A5ZFlVWi15ZVE?oc=5",
-      "date": "Fri, 03 Jul 2026 02:36:00 GMT"
+      "date": "Fri, 03 Jul 2026 02:44:13 GMT"
+    },
+    {
+      "title": "倉敷市で大型トラックなど３台が絡む交通事故 軽乗用車を運転していた８４歳の男性が死亡【岡山】（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRQ3lIZlZkRnBsblJiUm9xRmxXMzJqQ3pESlZKTUhQSnBDWm95dk5lV09DWDhRRndmelNKcGx6U3hpckRrd1ZwZGJFY0VscFVudVdUYmtqbXZQeS01OHg4VVM1M3h4UnB2bmZCaGVNOEFodGZfOEFCX193aHpYX0k?oc=5",
+      "date": "Sat, 04 Jul 2026 04:14:01 GMT"
     },
     {
       "title": "倉敷市で大型トラックなど3台が事故 1人死亡2人けが 岡山",
@@ -51,11 +115,6 @@
       "title": "岡山市南区西紅陽台の国道30号で歩行者が車にはねられ死亡 高齢とみられる男性【岡山】",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fTW1lLWh4UFE0Z3hlTHFaVUYzNGZRd3ROdFJLTzlmektyRjJPTTF5Z0E2YWRhWFlTVnFjYjBNU3lmTDlQYUlRQTdHLVBTN0VfeERmOXhCV2NnQXNBQjFtWVhFbU9NeVU?oc=5",
       "date": "Fri, 03 Jul 2026 01:23:00 GMT"
-    },
-    {
-      "title": "倉敷市で大型トラックや軽乗用車など車3台が絡む事故 84歳の警備員の男性が死亡【岡山】",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSS1oNWQxVnFRdkxSRFBNanlUVTJ4Zy0td1dDWnl0d1h5Z0FqT052OGlKTmlEbGxXR2hNTFR2ODYwT1ViUnYyTldlck5PM1hFcnpGNVVYTkRyQQ?oc=5",
-      "date": "Fri, 03 Jul 2026 23:40:00 GMT"
     }
   ],
   "official_links": [

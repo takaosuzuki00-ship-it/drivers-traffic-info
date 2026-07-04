@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:08:44.823282",
+  "generated_at": "2026-07-04T15:03:58.244859",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.3,
+    "temp_max": 25.4,
+    "temp_min": 20.9,
+    "precip_prob_max": 77,
+    "precip_sum": 0.6,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 24.8,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "12:00",
+        "temp": 25.4,
+        "weather": "曇り",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 25.3,
+        "weather": "曇り",
+        "precip_prob": 76
+      },
+      {
+        "time": "18:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "21:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "秋の交通安全運動 期間中の交通事故や取り締まり状況を県警が発表 交通指導取締状況は前年度より265件増加 鳥取県",
@@ -38,14 +97,14 @@
       "date": "Sun, 14 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "消火剤をまき散らしながら走行していた2人乗り自転車が車と衝突した事故 犯人隠避の疑いで逮捕された19歳の少年を鳥取家庭裁判所に送致 鳥取県鳥取市（日本海テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jOGZXQXBlczMyUWJIUVpRZFYtb24yUUJFaThLSVhGZ1NNVjdpcHFMMGMyYkdZOE8zV0dQa0Q3V3F1andkb0t6WWQ4RjVPRUJRN2hvaXRlTEF4V2hHOGw1X0Qzc1FLN1R1NjEzbVVXclZvN05yVTEwTnN5MU1wdzg?oc=5",
-      "date": "Fri, 03 Jul 2026 09:58:00 GMT"
-    },
-    {
       "title": "山陰道で事故 鳥取西ＩＣ―吉岡温泉ＩＣ間下り線が一時通行止め",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3eExkN3ZiaU9vWjRRUEliazNCWHRoeXQwSlVVcnFyUnpudVdrMW9TVkx1TVFHbTcwZDk4Rk9tVHdrbWxRTDJ3Z0VFemZJMHFE?oc=5",
       "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "消火剤をまき散らしながら走行していた2人乗り自転車が車と衝突した事故 犯人隠避の疑いで逮捕された19歳の少年を鳥取家庭裁判所に送致 鳥取県鳥取市（日本海テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jOGZXQXBlczMyUWJIUVpRZFYtb24yUUJFaThLSVhGZ1NNVjdpcHFMMGMyYkdZOE8zV0dQa0Q3V3F1andkb0t6WWQ4RjVPRUJRN2hvaXRlTEF4V2hHOGw1X0Qzc1FLN1R1NjEzbVVXclZvN05yVTEwTnN5MU1wdzg?oc=5",
+      "date": "Fri, 03 Jul 2026 09:58:00 GMT"
     },
     {
       "title": "鳥取市の交差点で車3台が絡む事故 普通乗用車を運転の60代男性が意識の無い状態で病院に搬送 鳥取県鳥取市",

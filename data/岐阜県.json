@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:06:21.316508",
+  "generated_at": "2026-07-04T15:03:12.815914",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.8,
+    "temp_max": 27.0,
+    "temp_min": 22.0,
+    "precip_prob_max": 99,
+    "precip_sum": 1.1,
+    "wind_speed": 8.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      },
+      {
+        "time": "03:00",
+        "temp": 22.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "09:00",
+        "temp": 24.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 27.0,
+        "weather": "曇り",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      },
+      {
+        "time": "18:00",
+        "temp": 23.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
@@ -16,19 +75,19 @@
       "date": "Mon, 10 Nov 2025 05:20:33 GMT"
     },
     {
+      "title": "麻薬及び向精神薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uYm1ISEZvM2VOQTcyQTZBVUtKcmxSRkx3cmVDZnNSUGs4NUR0bndnSlV1ZWZXYXhXZ0tXVGJHeV9uR1gwQncxT1Ywd2s1My00VjNNMDc1MDlIbVNBZEJXMzR3WQ?oc=5",
+      "date": "Tue, 30 Sep 2025 05:54:23 GMT"
+    },
+    {
+      "title": "岐阜県中津川署が可搬式速度違反自動取締装置で初めて速度取締り",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96elFnRThOYnFJc1JlN0ViOUJON1lnalYzY0JKQ0x4em1mNGpfQ2g1NWpBRTNrNDVxZ3JWbkJsRVJCS1VYZlRtcGpRcmhrVHVjd1JOclpDTWd4bVE?oc=5",
+      "date": "Fri, 12 Jun 2020 07:00:00 GMT"
+    },
+    {
       "title": "【垂井警察署】交通検問の実施",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxY2tqSnhDWWpLMGZHQWNfamVscnMxS1p0ckpCb1hSeHVCVDlJeUFfejBpTEYyMThLWXJORnM2ZkdNSU1JaTYybmxiZWFnWmVkeTFUUElyUTZlRWRYXzhFcFZpamM?oc=5",
       "date": "Mon, 29 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "検問を振り切る…「ラリージャパン」で許可のない一般車両が公道のコースに進入 レース競技中断 被害届提出の方針 Tottenham - Leeds (Bmff3VssWp)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pRzIxM3Y2a3RSVDRMZ3RvYTU1aW16aUh1bG5QVEVGdjdjT29WY2JRX05odHRCZmxiVUl3T1pWTkVQSFhVTXBCNV9LcVNLallCbU14VUgtSlBuZXM?oc=5",
-      "date": "Sat, 27 Jun 2026 09:19:25 GMT"
-    },
-    {
-      "title": "お盆前引き締め一斉検問 岐阜県内１８カ所、飲酒運転４件摘発",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rT0pkMGQ4a194MkVKTHFVenJoV2IyQUdpaFZUaGNqeDVxb0RPTTJycmtST0xReVR2NmoyVElzejhWQS1wSlQwc3lfMVl0V0FpZ3h3XzN3?oc=5",
-      "date": "Tue, 05 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Fri, 05 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "岐阜県の官民協働、交通事故抑止や特殊詐欺被害防止 セーフ・タウン・オール岐阜",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMTRHSmRZbG9jR3lCOHJ4VnlaNW4yNDFibUlDWHRlcDFoQlJNMmZKR3o1VWxBa0xWbzEtWjhQWmRfbWhuZzE1M3Q3ckJPU2FkdUhqaVlR?oc=5",
-      "date": "Thu, 02 Jul 2026 10:32:00 GMT"
-    },
-    {
       "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岐阜県の官民協働、交通事故抑止や特殊詐欺被害防止 セーフ・タウン・オール岐阜",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMTRHSmRZbG9jR3lCOHJ4VnlaNW4yNDFibUlDWHRlcDFoQlJNMmZKR3o1VWxBa0xWbzEtWjhQWmRfbWhuZzE1M3Q3ckJPU2FkdUhqaVlR?oc=5",
+      "date": "Thu, 02 Jul 2026 10:32:00 GMT"
     }
   ],
   "official_links": [

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:05:17.259151",
+  "generated_at": "2026-07-04T15:02:51.061680",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.5,
+    "temp_max": 26.8,
+    "temp_min": 19.0,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.9,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
@@ -26,9 +85,9 @@
       "date": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "停止中の車に追突 26歳の女 安全運転義務違反の疑いで現行犯逮捕 危険な速度と進路の安全確認しなかったか 富山",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZm9mSlBaQl9ueTA1dm5NNHNwUXg4ejl5RDJIS2xjbWRmVDRROGttcGVXU0tfWTJ2bnNpRmgtWmJKM2sxOFItTmluOHlTVVB6aFhsQkhYYjJ4Zw?oc=5",
-      "date": "Tue, 16 Dec 2025 08:00:00 GMT"
+      "title": "悪質運転５件摘発 県警、国道８号で特別取り締まり 富山の親子死亡事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SlhkNWhzLWdNdTJCRGhWNmtYOHFUVGNBNnNnQ0h3OEt4Szh4N2J4S2hCVnhhaEp5NnFyUnR4OHdRc1F1QU1rVjlWY05qMnVVMVZvcUVZY2VGQQ?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

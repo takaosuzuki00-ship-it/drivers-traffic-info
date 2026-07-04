@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:11:39.370547",
+  "generated_at": "2026-07-04T15:05:04.031493",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 26.1,
+    "temp_max": 26.2,
+    "temp_min": 22.4,
+    "precip_prob_max": 100,
+    "precip_sum": 16.3,
+    "wind_speed": 1.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      },
+      {
+        "time": "03:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "06:00",
+        "temp": 22.4,
+        "weather": "霧雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "09:00",
+        "temp": 23.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 47
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月４日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",

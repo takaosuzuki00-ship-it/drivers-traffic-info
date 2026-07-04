@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:04:50.138061",
+  "generated_at": "2026-07-04T15:02:41.772489",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.3,
+    "temp_max": 25.6,
+    "temp_min": 21.0,
+    "precip_prob_max": 63,
+    "precip_sum": 0.1,
+    "wind_speed": 5.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "15:00",
+        "temp": 25.3,
+        "weather": "曇り",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 24.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
@@ -53,9 +112,9 @@
       "date": "Thu, 08 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "遺言で1.8億円寄付 女子高生の死亡事故受け「崖崩れ防止に」 [神奈川県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNTDdOQm1JSWJSZ0JfbkdWMERnT3J0aVBMRkZPcGlXRTJSWndpMlVSbS1tWk1CWUFSdFVxcXU0am5yS0tHX3VScFRoVGhNV004MkRlSzhJMFNDcEtSN2N5MDZzdklTekU?oc=5",
-      "date": "Sat, 06 Jun 2026 07:00:00 GMT"
+      "title": "横須賀市の交差点、横断中にはねられた女性死亡 乗用車運転の男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UnR1N3Jtenk1WDZXZEFGdW96aVhXTkVKTS1wVXVvVlRiYW1BX0FIV1pfVFNMcDZVUThYZHkwaDhCSzNfajJEYzVZYjQyRDZnTFhPd0JLRm1jc3ozekJhUTJtbC15TjJPU0Q4U01n?oc=5",
+      "date": "Fri, 03 Jul 2026 13:10:00 GMT"
     }
   ],
   "official_links": [

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:07:23.132212",
+  "generated_at": "2026-07-04T15:03:30.901241",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 23.6,
+    "temp_max": 25.5,
+    "temp_min": 20.9,
+    "precip_prob_max": 100,
+    "precip_sum": 34.5,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.1,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 23.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 22.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 21.1,
+        "weather": "強い雨",
+        "precip_prob": 69
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -53,9 +112,9 @@
       "date": "Tue, 09 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "滋賀・彦根市の多景島で水難事故70代の住職が心肺停止で発見 搬送先の病院で死亡",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tZ2FzbUF5TnVhdnBzTTA4OS1rbjh0LVNpa09PUHZRN2xsWThlUy11eExmTFdBbk9ZRUhyU1FvMU9qRVBGakh0NzU5THBkUVAwalpGNVNWTUgwZHFNeHNpaVdBZWQzQjRxa01SbXZHN1FSWkFYSHBNRGJjWdIBgAFBVV95cUxQRjVtTTE3VnNsSjJmaks3N3BqYUgxU3FfYXBXWURfdzIyWC1NT1ZrenBrbHkyVVJDSFo1czZBdi1kT21sajgySlZnRXBQNHpwRW03N3BSSk41b3V4OFJ0Rm82REFPMmlBamszb0dWZVE4RFJRczA3cUxxOUNCUjB5Rw?oc=5",
-      "date": "Fri, 03 Jul 2026 11:19:00 GMT"
+      "title": "高齢女性、車にはねられ死亡 未明に歩行中、白っぽい服",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DSFBpX3R2dTFVTXdDa1loellYcmN2NHZwNTNBRWp5cEo5TUV5bzlKX1h1dEE2ZHotcVJyRTBDWjFMWmRSRHF4SzZ6SU9RZHpwb3pxdlVjNy0?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

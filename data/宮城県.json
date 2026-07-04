@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:02:26.743197",
+  "generated_at": "2026-07-04T15:01:52.333508",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.9,
+    "temp_max": 22.5,
+    "temp_min": 18.8,
+    "precip_prob_max": 93,
+    "precip_sum": 0,
+    "wind_speed": 8.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.0,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "21:00",
+        "temp": 19.8,
+        "weather": "曇り",
+        "precip_prob": 12
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "東北学院大学の学生が麻薬取締法違反の疑いで逮捕　商業施設の駐車場で乾燥大麻所持か〈宮城〉",
@@ -38,14 +97,14 @@
       "date": "Sat, 04 Jul 2026 02:58:34 GMT"
     },
     {
-      "title": "自転車通学時の事故に注意！プロのスタントマンによる交通安全教室 宮城・石巻市",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREN5WURiVUtqMUp1aXlReER5ZWw1M1ZORjJHX3AtYk9rU1JSS3FnSHZTOG1neUdpYlJMZzFlRFBkWWpmbEJjcXBwTkJlVlVPd0lIVi1kUzllaXlSdzVHSGw3dWNjMS1Kemw2bFU3Rzl2Qkp2T3VkaGdET0xEdEx6anFmdkc5OTA?oc=5",
+      "title": "自転車通学時の事故に注意！プロのスタントマンによる交通安全教室 宮城・石巻市（ミヤギテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04dUZIMlZkV0hYSnVrQzk4Z1Z6cHhqeUZoLXBJOHNINGxyQ2g3b01tVVhuN1lRQ2dxZ2pTeE1XZG85c2wtTGp5S2xYRXRlaWRDWjJKaTRhbEJfbk1CNHg5UDVzb3N4d1dsRjVvYlgyaXFLWmFkWEVFTEJxWUdDTzA?oc=5",
       "date": "Mon, 29 Jun 2026 10:05:00 GMT"
     },
     {
-      "title": "16歳男子高校生が横断歩道上で乗用車にはねられ死亡 運転手の19歳男を現行犯逮捕 宮城・塩釜市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YWXJSMHFKTTFibGx5ZTcwNTVCU01rVWF3d0N2QVVYalFyQXYxTnBXOW5FdmJONTJyZGJxYzdDTW5GTTRtSXNTbS1XczBDT1dJcXNCR3hNTmxMUXlzWmZUTERBVEl6dlU?oc=5",
-      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+      "title": "未明の国道で補修工事中の男性 車にはねられ意識不明の重体 当時は片側交互通行中 宮城・涌谷町",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50amR0Z0FPeTIwNlBLb0pOSzd1b3ktMEZjVVA2NFIyd3kwOXFJRXl2cmh1alZwcTI4ZUQtTW5sTHFSbmxmN3JwSWdCb3BTdTdxNWVZWEl3YXM1NGJVVkVweFhfVDV4ejJuZDBIbUd0Z2Y4STdKS2lfaklmOFVJNTQ?oc=5",
+      "date": "Wed, 24 Jun 2026 06:40:00 GMT"
     },
     {
       "title": "栃木市の東北道で３台関係する事故 同乗の宮城県の女性死亡 雨でスリップ（とちぎテレビ）",
@@ -53,9 +112,9 @@
       "date": "Wed, 01 Jul 2026 04:44:01 GMT"
     },
     {
-      "title": "仙台市宮城野区の死亡事故 危険運転致死の罪で起訴 １１４〜１３６キロで交差点進入 仙台地検",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbFJ0b0phUm1jUDRlOFFUSy1LcjlCdXVrb1VESl9VRkJXcUlwZ3pGekxqNXRRU3luWTFIZlRMeFNySk5tUXI0SGRiTExQdUE?oc=5",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
+      "title": "「柵の老朽化、ネットがない」ため池小1男児死亡事故で遺族提訴 宮城・栗原市で2022年発生",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaQkpuU29sTm11NzRBNk1sXzIzMENVRnNyX3BJV3VvaFBDNU91Q1VCR0dVdzI5cEM5SHJrMVpuX2FMWlVwUHh0bDg4LTlnYjRFbm5BcGd0MmlRcVlydi1N?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

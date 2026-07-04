@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-04T12:09:52.158904",
+  "generated_at": "2026-07-04T15:04:29.742335",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.5,
+    "temp_max": 23.6,
+    "temp_min": 22.2,
+    "precip_prob_max": 100,
+    "precip_sum": 16.5,
+    "wind_speed": 15.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "09:00",
+        "temp": 23.0,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 23.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 23.5,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 23.1,
+        "weather": "弱い雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【徳島県】5日は飲酒運転取締り強化日など6月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
@@ -26,9 +85,9 @@
       "date": "Fri, 03 Jul 2026 09:45:32 GMT"
     },
     {
-      "title": "れいわ・山本太郎代表、大分市の高速道を時速149キロで走行 速度超過で摘発…罰金9万円、90日の運転免許停止処分",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWVlRVlhLQ2tEN0JyWDEyZVBuSm12M0M5b0lyWG1GYjU0amlLZ0VGbTJ3M2p4V3FZNGxucVRRRWZtX0hLamhxZUNpMmU4ZTVLeFExQmV3?oc=5",
-      "date": "Fri, 03 Jul 2026 10:00:02 GMT"
+      "title": "スピード違反で男性巡査長を処分 徳島県警",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80RTZ5UEQ4V0ZWaUV4WjdxUzhGdGY1MnhZMDJTb0taQ0E1dWpYQzhwTEtZNmVQUVY4NGpfTFpTd2xad0FqenBYZEJrTzNyRXF2ZF9IS2Z3?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Fri, 16 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "徳島市でバイクと乗用車が衝突",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SOFFfVFFTa1dMWGJCQkd3Z3JsdUx6TW1kc1JZNjZmckh0ZTZTRW9LRUpGVEx5blJ5c3dzSkNjRVAxbXZsTVdiZXM3eTBGUFNob1N6U2pB?oc=5",
-      "date": "Thu, 02 Jul 2026 14:40:00 GMT"
-    },
-    {
       "title": "交通事故が多発する「危ない交差点」」徳島・香川・愛媛・高知のワースト1は?",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14UGNhNGlVaGNQS1FackIzNC1YdkN0VDMtRG4zQWp2akFmU3VBT3JLdGtHWlZEdHBTUjdCa2VlWWhIa1NXdVk4WUZENWVNZFdIRjY2V0pZMll1QnpTYWRVMF96OVRaQUlwcU80?oc=5",
       "date": "Fri, 19 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "愛媛・四国中央市で追突事故 東みよし町の男性死亡【徳島】（2026年6月16日掲載）｜JRT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTFvYmNEam5DUXpNNkk5elU0YVo4MkRVQ1BhLTZFbDE0R1AzMUY4WGludVg4S0FtNnluak42QlJlSzNBa2pxajdfZUstS1lvNjd0OFBlZ0xXNW82WExzOFJZZmxaQVNMc1d0NkQyb1M5dWZZSEdUdkx3c0Q3MDV5TGNzdXRSNFU?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
