@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-05T00:05:04.195377",
+  "generated_at": "2026-07-05T03:04:08.283533",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 25.4,
+    "temp_max": 26.8,
+    "temp_min": 25.1,
+    "precip_prob_max": 100,
+    "precip_sum": 37.4,
+    "wind_speed": 5.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.7,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "03:00",
+        "temp": 25.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 25.2,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "09:00",
+        "temp": 26.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 26.3,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 26.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 25.8,
+        "weather": "強い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -11,9 +70,9 @@
       "date": "Fri, 03 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり（RKK熊本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc1JfSkZmXzlSNVdWSDFHVGVQcTM3dUNwcGFTZ2o4WGJwekNfaG5OUG1Db0VLa3BBOGxIZ0paVHVLUmxzUjNiZUpvcEl5Qm1fTXlTZ0RlbVZiaDB1cjYtaUJmV0NiT3FreGFUQUJnX1d3d1lSZm9Yc0F1RXpfczg?oc=5",
-      "date": "Fri, 03 Jul 2026 20:02:13 GMT"
+      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kbnFPakZpVlNWNE12SlBXNW1qX3VmSDRZX0x5LXNSWUZDeWhyUG1qa1ZGczZGcEpHMU4xQVY4b2pydWtZeXFyU2pUdDk4RFZRU2R4eXNZb3Jrajlja0RwUFRYYllIeElHcnNqTVBwdHNFUGJVX2VYcFJaUXVRYlk?oc=5",
+      "date": "Thu, 02 Jul 2026 20:02:17 GMT"
     },
     {
       "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -48,14 +107,14 @@
       "date": "Tue, 30 Jun 2026 12:42:00 GMT"
     },
     {
+      "title": "“相次ぐバス事故” 今月3件目…熊本市の国道で高速バスが軽ワゴン車に追突し2人負傷",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9adVk1ZDNTUG9kbDVLaHYxUkZnQUFiNktmcmVYV3IzeVpMTER6akt2REF0amFiSW90WE01WndjVkJGQkk3R1pEd19fU0xQT3NxbDh4MXJFaUkzemoxamtaZmtReGkyZjA?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "【とぴっく・荒尾市】夏の交通事故防止キャンペーン",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ST25kSUhJcDJpUTl0S1l0eGVFemNFTEQzbldEXzQtVVlncmgtWFhfd2RMMG4zUXdvZ0hBb05yWUxKYXR4Z1h1VElTNmpRb1U?oc=5",
       "date": "Wed, 24 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "原付バイクがトラックに追突した事故で心肺停止の状態だった男性が死亡 熊本・御船町",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NakZRbnJBNmhYc0hxdXZTckhoLWlWZnRKR05PbWo5X25nRUptbVg5Y19GTUxGSTI5ZDhkVHNjdXJ6ZnNkYWZhLXpQSkI0RHBKVGlhVXFVM09HcF9wX2c?oc=5",
-      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
