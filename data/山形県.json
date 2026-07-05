@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-06T03:01:41.547601",
+  "generated_at": "2026-07-06T06:01:36.042701",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 20.4,
-    "temp_max": 25.5,
-    "temp_min": 19.4,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 19.7,
+    "temp_max": 24.5,
+    "temp_min": 19.7,
     "precip_prob_max": 47,
-    "precip_sum": 1.8,
-    "wind_speed": 3.4,
+    "precip_sum": 1.6,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.0,
-        "weather": "晴れ",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       },
       {
         "time": "03:00",
-        "temp": 20.4,
-        "weather": "曇り",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 47
       },
       {
         "time": "06:00",
         "temp": 19.7,
-        "weather": "霧雨",
+        "weather": "強い霧雨",
         "precip_prob": 35
       },
       {
         "time": "09:00",
-        "temp": 22.0,
-        "weather": "晴れ時々曇",
+        "temp": 21.9,
+        "weather": "曇り",
         "precip_prob": 8
       },
       {
         "time": "12:00",
-        "temp": 25.5,
-        "weather": "晴れ",
+        "temp": 23.8,
+        "weather": "曇り",
         "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 23.8,
-        "weather": "曇り",
+        "temp": 24.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 27
       },
       {
         "time": "18:00",
-        "temp": 21.3,
-        "weather": "霧雨",
+        "temp": 22.9,
+        "weather": "曇り",
         "precip_prob": 20
       },
       {
         "time": "21:00",
-        "temp": 20.0,
+        "temp": 21.2,
         "weather": "晴れ時々曇",
         "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZmxOb3dtNWEtUFJyNUF6Q0ozc2JSYUh4alI3VnoydGUzQTZZaUE5S1JWdTFiWFctSzlvUDkwX3FWVnBpNmJ2Q0luZlBFS2R1b2xlXzVVQQ?oc=5",
+      "date": "Fri, 03 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
@@ -80,31 +85,26 @@
       "date": "Sun, 25 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfTzU0SWxrbUdyTTlqcXpKZGFTNTBCTDNMbzlnYThUVUNINldGTDZXbUVvZFNaUFY5azNsdlV6ZlRfOGM2aTN4ZTZsR0FDV0pCbFlkemQxN0xxcFhzUHA1bm9NWEhvNUE?oc=5",
-      "date": "Thu, 04 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "7月5日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Wd2lzRUZjZ0tqR3djaEQwMktHblhoU2dSTlUzWDNFX2pkWHNxekhQTjdJc3V0WE5rLXRhQXVsbmFSdUpzUVNPZHFnUkV4YW5yVVVMTW5senJERDNYWUNSSlVwUE50LUdmR0xJa1U3TdIBdEFVX3lxTE9ENGk0WUFhNzdIODl2SkpJTlhNQjNnaTBrcy1QNXNWa1ZQYThlamxCZXotN1RIWTBhMGdhTVFXekI5cGZhdkNKWnBpa0lXUTd6ajI2WWpEUjNEdzJjcXQwcVBXSUp1UWtSTHVlcklITjdJSFBR?oc=5",
-      "date": "Sat, 04 Jul 2026 20:02:00 GMT"
+      "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yZ0RQbHBVOTVtUHhSZWttRVFqWjFoWDVUMDA2anhzSDVKQ1Vaakt3MVAzMUZvaHVMNThwZmJLSEozTll5VDY3b1UyU1FObTBvcmQwREdUTQ?oc=5",
+      "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "白鷹町の重体事故 意識不明の大型バイクの男性は長井市の会社員（34） （山形・長井署）（テレビユー山形）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80RmpYbzJHRnYySVpJTmJMbWJCZHVpU05vdS1fSGI4VnY0QzVjY0ZUYVRwbUplTUpKdGt3ck1ONllOTGpja2JUeGhJVXpFLWI5aldKNWo4WFNGODdLeWFoRkpZSElCVDZna1cyeVJyOEtIWGZfU2RXTldYQVU4SEE?oc=5",
-      "date": "Sun, 05 Jul 2026 00:33:15 GMT"
-    },
     {
       "title": "\"逆走\"9件・対向車と絡む事故も発生 NEXCO東日本が高速道路交通警察隊と連携訓練 山形｜ニュース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96QVhXRmV0WUd0Q1hHdS1waDNoTmNSRU9TXzZzaDZqZ2ZMZmxkal9obFlTMjNsc2VDSjRmX1dwUkh2UjdNMk1NRWZoVnJBRk1NcmlmUXpvZkJOTUdZQllEOWZPY1d0bTZDSURCS1JoenVscHc?oc=5",
       "date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "事故前から意識を失っていた可能性も...山形市で軽乗用車とライトバンが衝突 意識不明の女性は首の骨折る大ケガも",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1RWdEYjVMRWJEQ0JFNVcxT0RKUm1xNV9RY1pzc1BUd0t6TWhGZFQzaml4aTNqcU92QVdPcE16LUNCT18zMmVqLXVfb3ZoSWNxakhFT3VqMUNvZw?oc=5",
-      "date": "Tue, 21 Apr 2026 07:00:00 GMT"
+      "title": "白鷹町の重体事故 意識不明の大型バイクの男性は長井市の会社員（34） （山形・長井署）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80RmpYbzJHRnYySVpJTmJMbWJCZHVpU05vdS1fSGI4VnY0QzVjY0ZUYVRwbUplTUpKdGt3ck1ONllOTGpja2JUeGhJVXpFLWI5aldKNWo4WFNGODdLeWFoRkpZSElCVDZna1cyeVJyOEtIWGZfU2RXTldYQVU4SEE?oc=5",
+      "date": "Sun, 05 Jul 2026 00:33:15 GMT"
+    },
+    {
+      "title": "【速報】山形市嶋北で交通事故 女性1人が意識不明（現場画像あり）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwMWExT1J4WU15YkZ5eFdwLXlaUUhxZ29XVG1yd2lvNEdGNXlHWU1Tb1c5Z3VwdTVEdjcxUmpSR2o1UzB2aDVkcnlONWZNRHY1R3pjMTZORQ?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "国道13号で乗用車と軽乗用車が衝突 50代男性が死亡（山形・上山市）",

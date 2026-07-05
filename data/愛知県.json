@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-07-06T03:02:43.023028",
+  "generated_at": "2026-07-06T06:02:32.954133",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 21.5,
-    "temp_max": 22.2,
-    "temp_min": 20.7,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.4,
+    "temp_max": 22.4,
+    "temp_min": 20.3,
     "precip_prob_max": 100,
-    "precip_sum": 18.3,
-    "wind_speed": 1.3,
+    "precip_sum": 15.7,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 22.1,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 21.5,
+        "temp": 21.6,
         "weather": "弱い雨",
         "precip_prob": 94
       },
       {
         "time": "06:00",
-        "temp": 21.3,
-        "weather": "曇り",
+        "temp": 21.4,
+        "weather": "弱い霧雨",
         "precip_prob": 41
       },
       {
         "time": "09:00",
-        "temp": 21.9,
+        "temp": 22.1,
         "weather": "曇り",
         "precip_prob": 55
       },
       {
         "time": "12:00",
         "temp": 22.2,
-        "weather": "霧雨",
+        "weather": "弱い雨",
         "precip_prob": 75
       },
       {
         "time": "15:00",
-        "temp": 21.9,
-        "weather": "弱い雨",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
         "precip_prob": 86
       },
       {
         "time": "18:00",
-        "temp": 21.6,
-        "weather": "弱い霧雨",
+        "temp": 21.8,
+        "weather": "霧雨",
         "precip_prob": 92
       },
       {
         "time": "21:00",
-        "temp": 21.2,
-        "weather": "晴れ時々曇",
+        "temp": 20.8,
+        "weather": "弱い雨",
         "precip_prob": 78
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
-      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "銃刀法・火薬類取締法",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZnF1ZjlDTzh3Z1BVd0lNbnJvNV9jb2hJU0c4X0M4WkJvVlBkRjkyeG4yQ01XZGFPWFJlMEgzejFYNXMxd3ZVa2V6Ym5KSUJUcldWeEkzQWlObmFtY01N?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -80,14 +75,19 @@
       "date": "Sat, 27 Jun 2026 20:02:00 GMT"
     },
     {
-      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
-      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
+      "title": "銃刀法・火薬類取締法",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZnF1ZjlDTzh3Z1BVd0lNbnJvNV9jb2hJU0c4X0M4WkJvVlBkRjkyeG4yQ01XZGFPWFJlMEgzejFYNXMxd3ZVa2V6Ym5KSUJUcldWeEkzQWlObmFtY01N?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "愛知県８警察署 合同検問を実施：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWHYyemZrX2NxWGJlNl9VMVdsNEJjd2tFcXhmdmZCdG9xM2lORm1fTGZyQndNOE1BRXBPRVlpbDBpRmFTN0VPbXQzN01lRmRCTnJDOUU1SDBramxMMUg4MERtSTNhNDFuRi1zbFZSNHM?oc=5",
+      "date": "Tue, 05 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "検問を振り切る…「ラリージャパン」で許可のない一般車両が公道のコースに進入 レース競技中断 被害届提出の方針 Tottenham - Leeds (9Bmff3VssW)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pRzIxM3Y2a3RSVDRMZ3RvYTU1aW16aUh1bG5QVEVGdjdjT29WY2JRX05odHRCZmxiVUl3T1pWTkVQSFhVTXBCNV9LcVNLallCbU14VUgtSlBuZXM?oc=5",
+      "date": "Sat, 27 Jun 2026 09:19:26 GMT"
     }
   ],
   "accident_news": [
