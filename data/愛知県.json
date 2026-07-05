@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-07-05T06:02:53.922268",
+  "generated_at": "2026-07-05T09:03:44.637962",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 21.5,
-    "temp_max": 24.3,
-    "temp_min": 21.4,
-    "precip_prob_max": 94,
-    "precip_sum": 18.8,
-    "wind_speed": 0.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 22.6,
+    "temp_max": 24.2,
+    "temp_min": 21.7,
+    "precip_prob_max": 100,
+    "precip_sum": 10.1,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 22.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 82
+        "precip_prob": 98
       },
       {
         "time": "03:00",
-        "temp": 21.6,
+        "temp": 21.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 47
+        "precip_prob": 59
       },
       {
         "time": "06:00",
-        "temp": 21.5,
-        "weather": "強い霧雨",
-        "precip_prob": 29
+        "temp": 21.7,
+        "weather": "霧雨",
+        "precip_prob": 51
       },
       {
         "time": "09:00",
-        "temp": 22.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 16
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
       },
       {
         "time": "12:00",
-        "temp": 23.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 39
+        "temp": 24.0,
+        "weather": "曇り",
+        "precip_prob": 37
       },
       {
         "time": "15:00",
-        "temp": 24.3,
-        "weather": "曇り",
-        "precip_prob": 65
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 82
       },
       {
         "time": "18:00",
-        "temp": 22.7,
-        "weather": "弱い雨",
-        "precip_prob": 67
+        "temp": 22.8,
+        "weather": "霧雨",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 22.1,
-        "weather": "強い霧雨",
-        "precip_prob": 92
+        "temp": 22.3,
+        "weather": "霧雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
-      "date": "Thu, 02 Jul 2026 20:11:58 GMT"
-    },
     {
       "title": "銃刀法・火薬類取締法",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52ZnF1ZjlDTzh3Z1BVd0lNbnJvNV9jb2hJU0c4X0M4WkJvVlBkRjkyeG4yQ01XZGFPWFJlMEgzejFYNXMxd3ZVa2V6Ym5KSUJUcldWeEkzQWlObmFtY01N?oc=5",
@@ -78,6 +73,11 @@
       "title": "6月28日（日）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yZ0RQbHBVOTVtUHhSZWttRVFqWjFoWDVUMDA2anhzSDVKQ1Vaakt3MVAzMUZvaHVMNThwZmJLSEozTll5VDY3b1UyU1FObTBvcmQwREdUTQ?oc=5",
       "date": "Sat, 27 Jun 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",

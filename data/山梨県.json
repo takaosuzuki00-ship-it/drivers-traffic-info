@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-05T06:02:40.668340",
+  "generated_at": "2026-07-05T09:03:21.864188",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 20.7,
-    "temp_max": 22.0,
-    "temp_min": 20.4,
-    "precip_prob_max": 94,
-    "precip_sum": 10.1,
-    "wind_speed": 2.3,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.1,
+    "temp_max": 23.1,
+    "temp_min": 20.2,
+    "precip_prob_max": 100,
+    "precip_sum": 13.3,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.1,
         "weather": "弱い霧雨",
-        "precip_prob": 82
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 20.5,
+        "temp": 20.8,
         "weather": "晴れ",
-        "precip_prob": 29
-      },
-      {
-        "time": "06:00",
-        "temp": 20.7,
-        "weather": "弱い霧雨",
         "precip_prob": 6
       },
       {
+        "time": "06:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
         "time": "09:00",
-        "temp": 21.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 14
+        "temp": 23.1,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 21.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 45
+        "temp": 22.4,
+        "weather": "霧雨",
+        "precip_prob": 41
       },
       {
         "time": "15:00",
-        "temp": 21.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
+        "temp": 21.9,
+        "weather": "霧雨",
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 21.5,
-        "weather": "霧雨",
-        "precip_prob": 71
+        "temp": 21.3,
+        "weather": "弱い雨",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 20.8,
-        "weather": "強い霧雨",
-        "precip_prob": 86
+        "temp": 20.6,
+        "weather": "雨",
+        "precip_prob": 98
       }
     ]
   },
