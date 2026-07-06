@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T21:44:11.313975",
+  "generated_at": "2026-07-07T00:02:22.654118",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.8,
+    "temp_max": 23.3,
+    "temp_min": 19.4,
+    "precip_prob_max": 65,
+    "precip_sum": 0,
+    "wind_speed": 0.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 19.7,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 19.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警 (日テレNEWS NNN)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXNsN1prOThTUm5aQ3huZmVzMEdfUTAwUTRqNUlqZFo0TU0xanZ1ckJEc2ZxSUthVVRSWlFDbmJ4a0JELU9MV0dJY3NJQkt6OXFYd0hnTW5QSFc0bUtxRFNHQ2dhUm9EWHI4eFBaR0FmdmxPTXEyR1FzZjlwVzBKVVF5Mk1fQnhZUldTYl9R?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVnRTdFBVUEF5MktoejVZdHFxNWhZNTNndzRwdE1qMzVZRjc4Q2ZkdHJpV25DTkQyRnBOT3EzbU5ZQWtzZlpxMHpFeTJ5ZFJWSGQzWTUzOExNeFhmMW44OTJNQjBjMDVfWXVZR3llUnZIWmJIbnAzTEE3cw?oc=5",
+      "date": "Wed, 01 Jul 2026 12:05:00 GMT"
+    },
+    {
+      "title": "【速報】埼玉・長瀞町鈴木町長が辞職の意向　2日、公選法違反で有罪判決受け",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTFkX29RcHh6MVVSR2l2Z09yaEYtOTRYeExadkJocXZfSFFVUVpXQl9vZU4wc2NjZDhZa1duNElaMXNGZ28wc0VwLVlhcDRnWjNVOVp4NFU2XzZXMERBVGFnNllvQ256TncxTUV0Q19pLW5rcVB1TVJDaUZLRlJ6dUF6ONIBiAFBVV95cUxOLWFCTVhZSDBGZkNYN25rdHZsRzFkWjZRRV95WHlkSHdVZ2p6TzJoa0psQlZNWUloZ09nLW1lTGlTemxYOGxOc0QyVFp1cEJHSFlLNEw4QjdtZm53Sm5ORUFDLXpoYW8xTkRxSmlGVDItRVVYWEFtMjlkZVZCc0k4R3VkRFVzdW9H?oc=5",
+      "date": "Thu, 02 Jul 2026 08:08:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "令和8年夏の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "春日部 市道で事故 自転車の女性死亡／埼玉県（テレ玉）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTX3hobU5zZjgzZTRETG9rdlJPbGJnYUNvT2dYb0d4RWh5THl1T0NmajFiWHpIdVFEdlpYeFFxLWFBZmpNbEN0MzFTREFrbFY1YTdhdURUS2FDZG9pT195Ny1ha2phbm11U1lwX0U4bm94LTgweEFyYmlKLUZ2T2s?oc=5",
+      "date": "Mon, 06 Jul 2026 09:19:53 GMT"
+    },
+    {
+      "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、うち2件が二輪車絡み 今年初、昨年は6回発令",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3WHB0eVFvVmNGZF9ZREpaRU5jcFdMelhoUS1PZk9MT2IxTUV3UksyVVBWRGtSUnlNRzZvb09ERS1VWDZDVUZ6NFZoVEhwUTZLNkVmeW9tVXN2Qkd1RVNSZFAtbDVJd2ZYWVhiOTdjcU94ZE5DWkNpNTF0QQ?oc=5",
+      "date": "Mon, 06 Jul 2026 02:38:15 GMT"
+    },
+    {
+      "title": "バイクの男子高校生が転倒し死亡 飯能",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NUGxLOEZ1WnlJVjJOSDNPUGkwemY2VzdJQ1hTNXdUOGdJUmJwQnJnZ1VIVC05SHh4Y3JFdlJ2QzNVRFNwNVVpMFZ0MEM4MWY2R2E3aWRmUWVJbElnTC1HQ3dDTVAzdw?oc=5",
+      "date": "Sat, 04 Jul 2026 22:54:00 GMT"
+    },
+    {
+      "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、うち2件が二輪車絡み 今年初、昨年は6回発令",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5welhJYjZsSVg3MFRobllXd3F5WGZUQzVvZFRDT0wtay1TUUZrWW8yVmxBVEhhX0VReXc4ZElBR3FYdlZEZ0RqbG5nUERNa0RLNUdpQno0Z0NoUmR3ZHhVOXExRXVieEYzU2FiWVJNbHlkY2ZqV2RFN1dpdDhiZG8?oc=5",
+      "date": "Mon, 06 Jul 2026 02:20:33 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

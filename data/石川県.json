@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-06T22:01:10.857759",
+  "generated_at": "2026-07-07T00:02:52.863314",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.3,
+    "temp_max": 28.0,
+    "temp_min": 22.0,
+    "precip_prob_max": 92,
+    "precip_sum": 0,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 22.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月6日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
@@ -34,7 +93,7 @@
   "accident_news": [
     {
       "title": "交通事故防止！交通安全こども自転車石川県大会に48人の児童が参加「一人一人がしっかりルールを守ることが大切」",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5adlZYN1ZoeFV3OHJWaHEtRGM3a2FvVHVXaDBCR1NjX0gyTHRzeHlSR1RoTGNYRjV6SWJRX05kd1VrVDhKWGlvM18xRG5vbWtoazFNWWU1LU03Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZYUtOeUdOZ0lHRnlMQUstTGJVZnBfTHROS3lzNXdteC12THhSNjg2ek1KWDJsX0hTY05uLUdpd1ZRelBsdm1zcjZPVHRzQTdVVU5SSlA4NjhoSmtOZ293?oc=5",
       "date": "Sun, 05 Jul 2026 08:25:00 GMT"
     },
     {

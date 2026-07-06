@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T21:59:11.641763",
+  "generated_at": "2026-07-07T00:02:48.177656",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 21.9,
+    "temp_max": 27.7,
+    "temp_min": 21.3,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "03:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 27.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "立ち去った男性は…発生時間に合わせ検問 未明の交差点で33歳女性死亡の事故 ひき逃げ事件の可能性も含め捜査 富山・高岡市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tX0x4dGhPNm0xMkZZRmV1dTJSVDVmVm8yTmVIdlpjcl8zVE5wR3RTTUVKUXpJeVpCYzY5dGRyam1wVFpUOXZrckhrZ1JVeVhtY0hBVG9sUHFLMlVNX1M0dUU5Q1k1Snc?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "北陸自動車道でスピード取り締まり 5月15日午前10時から「可搬式オービス」投入 国道8号の親子死亡事故など受け富山県警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sRUtYbkxLMk5DTUVPXzVOck5CVjl2ZHA2cHFPdEM1VWZaVmRvMkZhdXJvdDFENk9iQUVaLVR3MUZnY3lMbVJfek0wWkFieGdzTGUwNU11eVlxQQ?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "悪質運転５件摘発 県警、国道８号で特別取り締まり 富山の親子死亡事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15SlhkNWhzLWdNdTJCRGhWNmtYOHFUVGNBNnNnQ0h3OEt4Szh4N2J4S2hCVnhhaEp5NnFyUnR4OHdRc1F1QU1rVjlWY05qMnVVMVZvcUVZY2VGQQ?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "高齢者の死亡事故を防ぐため 交通安全を学ぶ講習会 富山",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hb1R5MTBsV2pzUjRCZ2dueGVXY1d5YktTT3NabmpiV2Y5a2FYejU5a0I5SUZpT3BWby1fQWxpT3FXS0VjLWxCNjZqOVVCTElfWURGWm9JRS0?oc=5",
+      "date": "Mon, 06 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送（北國新聞社）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96V1pmVG1lQTBmM3VoRUtBaTVGUTcyRlJPRUlpZUVaQmdaN05MdHYtTUtFQVVKc3ZmTWpGY0hnRVBSOUtuZE5wWUUtX3JvZ2VBWjFnRkJZVi1ZTWpnR3F4RHBPRVFyalpfZl81cnc4ZU9tTGhtMEQxb2lhY0tmakE?oc=5",
+      "date": "Mon, 29 Jun 2026 20:00:33 GMT"
+    },
+    {
+      "title": "赤信号を140キロで進入か、危険運転致死罪で起訴 親子死亡事故 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTmFuUkNZM2J3QzBTc3hORk5lMmNVZnB0N0Jjb1ROTTlfcW1iR0ozZUVRUkk0T1RMWTNyQndUM09seG1ORkp6NGk1b0xaODRWaUlYQ2xRRm9PN2NKeFI5M2FrazdDRms?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【続報】北陸道の2人死亡事故、酒気帯び運転容疑で逮捕のトラック運転手「酔っていなかった」と一部否認 基準値超えるアルコール検出",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uOGhSZ25xYUM0WE56UXlVUE4yZVdYTThybnlwcmoxVWpySjY2Umt3Y2hnTnpNRWJIVXlNUHBMT0N5UnRkTFNCdDBDVHNVUQ?oc=5",
+      "date": "Mon, 08 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T21:20:10.305252",
+  "generated_at": "2026-07-07T00:01:40.013296",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.2,
+    "temp_max": 28.4,
+    "temp_min": 18.8,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 19.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月6日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oei1PUkhFLXgtSXphYlRXYkJkUkRDeFNGVWZkUi1kV3NqbkVqd0R3OE1mdGx1QnZkaEpJYU1RZ3pDQXJGLTZoaWo1a25ocEZjVHVNQzY1Yw?oc=5",
+      "date": "Sun, 05 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月6日（月）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETWVialc4eXpESE1VbDAtS0hweHFQU2tBeVFsb2g4MktuN0Q5UHVmY0lUSFB4SXdlYkp5MzZwb0ZWTWVaTkkxM2lRQmVlMXZ1WmRzWmFFMUZWQ0k5ZjJnazljYmJvMFZnMDJjN2lfVGd3Qjl3b016Y016MEVoMjQ?oc=5",
+      "date": "Sun, 05 Jul 2026 20:00:33 GMT"
+    },
+    {
+      "title": "7月3日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3RFZESkdZZVNPTzc4dmFoc3VFeGFsWFFZWm1IQ2p2MGVlODE2YUZyb1NLRXdVOTZ5Ujk3WkRrOElKNjh2VUhfZFRvSk9ZSVBQVUdfbEFTLVI4YXJxMlBrT1NndUN6aXdfbWluQld5Z9IBdEFVX3lxTFAwSE9JRlkzYl9MSm5rbVAtcmJ0Ui1zYk52aTBQM1VBV3J1VXp3aEJ2dkp0N3Rnc1BXdWM3N2k4SlE2b1dKVFM4WGxyVENaNGtickgzU051RXlJWEE2YVlJcnozdzluc01DOXlGTWNMZmttc3hG?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月5日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9POTFCU0dlcGczb016Q3RhcWhObXhWMWctZHEwOE94Umg0NEt1cEtqVGxhcFFZMmpJMm5taHduTV9sZl83OEJXVWs3VW1iVmk3X1FISjBDNA?oc=5",
+      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月4日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VnhOZFgya2ZuSTVMRkMteTd4bjB1QWt2Z0hfZzg0d2QzeEs0WFhBdmJIdnVuZ2JLR0xSTDEtZnp0UUpYZDNJVnhaN3U5U0VCSzljLThZQmJqUQ?oc=5",
+      "date": "Fri, 03 Jul 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故で両足切断の男性が２００回目の講演【岩手・矢巾町】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sLUlwY0U4RXVENEV4bzk5UGVlaXZyeDNRbkFQcGt0b0dMOGpDczNUVjBiTlU4bkN3WGFDRVJCaS1ta0ZYMG5JM0RxbnpPeFRPcUpzNllkbw?oc=5",
+      "date": "Mon, 06 Jul 2026 08:50:02 GMT"
+    },
+    {
+      "title": "交通事故死者の増加率 岩手県が全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RbDZLc211R1lJQ1NOMTFhbTNxbTVCTS1TU1hJaVBPWmhxMnVvYkg1UWprVEpSNHVRbnJoS0tjMjlTMlgxNkNsR3RJTTNSZw?oc=5",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "三陸鉄道 織笠トンネル内で人身事故【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sV1hZTmctaEx2UGhLeEdubEV3eUVOaHR6NmkweE41dVNjU2NxcDBiWGtoQmptdktVM2kxVTVBMUVibGUxbHZNbElWbFZTdDZvbERGX3JCaw?oc=5",
+      "date": "Mon, 06 Jul 2026 09:51:15 GMT"
+    },
+    {
+      "title": "岩手県内で交通事故急増 件数、死者数、けが人の増加率全国ワースト1位 ドライバーが気をつけるべきことは？",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUXRheUhMN2hnWk1qZU5rVU12eU9nTUZtWkV4N3BzNGRadGt3bUQtTmdaZC1pM3oyeldmMzhaUFNaekdWSUs1c09zbTZGMmJNQk9GNzNBVUswN1o1OVlLLVBVeHlBWHM?oc=5",
+      "date": "Wed, 25 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "15日から啓発強化 県警 昨夏交通死亡事故急増で【岩手】（岩手日日新聞社）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85TE92UUgxTkdhdDBhZEhuYlRhT0F1TFI1N0pPckRCQWg0dFd5d3BMa0NCQUdxLUZINFZqN1JGN19oWUFTN2NYdUN4dFRtNzhrb3hWMmZNd0dSYVAxVGJPTlV5b1ZGUVp5SGRrZE5aMy1fbkZCbnBpTXhydXFGZVU?oc=5",
+      "date": "Fri, 03 Jul 2026 20:20:24 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岩手県警察 公式サイトを検索",

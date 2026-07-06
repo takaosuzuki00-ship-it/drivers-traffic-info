@@ -1,29 +1,93 @@
 {
-  "generated_at": "2026-07-06T22:02:57.992281",
+  "generated_at": "2026-07-07T00:03:03.562324",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 18.7,
+    "temp_max": 27.3,
+    "temp_min": 17.5,
+    "precip_prob_max": 29,
+    "precip_sum": 0.1,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "03:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
+      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
+      "date": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPM001N0kwVXVwQmFQXzRQX056LV85Vkl3ZEJ5Z3Q1YkhLdFRISGV3SFlKSUhhMEh5SnhhMzdKakY5RE9mZjlSemdobDg4YzdranNrNXlZdlNmQzZBZGk5MVFfbC1RNnJMOUlrcjVRVdIBdEFVX3lxTE5SOF85R2RsSGdyTUVzSmJFbFNpZERDV2Y2NUNFbDJabHVSWXEtaXFMRFJzWEF1OHJjd0c3akoxcEVsN3VVQWN1SUUzNDJVTURSbGZYLV8zMjZxRnE1c0FlLUlDUXd3T2hfR0JKOW9ZWjd5bnAz?oc=5",
+      "date": "Thu, 02 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "小学校の男性教諭 自転車の酒気帯び疑いで摘発 交通安全期間中の検問で発覚 山梨",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWkyeW1CRmh5NXdwSG1iS25xdzV5ZUt6MmlnT256RWZCcGswbEtLbkNvX3hxVlFHaFlad0pacmVWWFpvX29ZOVVQYklaLWZ3X2JXTXpyWV9EcEQ2SGhqMFdZUy0tTnF6Um83SXU1Z3gwa3psa2xDTG8yVE1zSGlBdnBoc2w4Znc?oc=5",
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転 1週間で8人を摘発 3人は事故で発覚 山梨",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BbS1YQ2Z1WURNLXlfOXZIbVJEYmRtcWF0NkxhcHd0RnJObk5henZCQUlFVDYwNzh0Q0ZuT2FCM09mZDhMeXNxZy1MZENKejFwSmo0LThlZw?oc=5",
-      "date": "Mon, 06 Jul 2026 08:30:00 GMT"
-    },
-    {
-      "title": "ストーカー規制法違反疑い 男逮捕",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qYkMtaHZkRWxFcnVPS2R1a1g1cC1tcW9abDc0NTRrVzZzY3VOYUdOaTQ1eGI5a3dJY3ppWm9uVGlYcVNQRVVwX0FMbEF4NXpUZ1ZXU0doanE3a1JncDBlc3NVdVU3clVxdVQzUU1NMnMzeU9U?oc=5",
-      "date": "Thu, 02 Jul 2026 05:01:33 GMT"
-    },
-    {
-      "title": "一斉取り締まり 自転車や車の酒気帯び運転で3人を摘発 その他の違反でも3人摘発 山梨",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FaVFIVjNVNUJRX3FjTzNRZ2JKM0ZfcDNHdF9TSHprYlIyeDdmODFjQ003bVU5aEdyNWFfcXdidFdyYWE5RDZJeVVnd1pDLTBxaHY5WVUxa05CaHdodE83Q1FELW5MeFU?oc=5",
-      "date": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

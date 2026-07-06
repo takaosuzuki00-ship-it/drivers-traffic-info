@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T21:47:11.478090",
+  "generated_at": "2026-07-07T00:02:26.388107",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.1,
+    "temp_max": 23.8,
+    "temp_min": 19.5,
+    "precip_prob_max": 69,
+    "precip_sum": 0.1,
+    "wind_speed": 4.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 65
+      },
+      {
+        "time": "03:00",
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "18:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月5日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wS3R4Z3RVMUZzUng0bjc2aERfX1I3d3ZTUmUxQmVqeDVpbWhDVkJwTGRmQ1N3bEpBemtBRHhjaXFYRmx4RnQwNEdWZ0V3cm9YZnl2WTg1NXRjdVRKTVBTT0VWUFZpR0U?oc=5",
+      "date": "Sat, 04 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月6日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zTlhiOEFpMVdGSnFVbHFZNTFpTlFZaGpRUWhwRTBXQkZTOUE4WDB4TXl0eUUxcVlHVFVMNjFIUzNOdkdCVmM2TUJsOHVUMVlBU0xTSEJQb2dkQVN4OXFNQ3FqMUZ2UUxtS25ZUk1Sc9IBdEFVX3lxTFBUVkNHckFieUZpRDRsM2pQeDVYcGpEOE1VMWpXQUpGWVNFX3lvTFdyTjcyYXY1Z3hrOXM0S2FpdFp4aU1ob1JzM1B4SVhrbm1sYVR1VEVWb2pMZFYxdzZOQk40SHJrcjluT1VsMGtxX3hGdU8y?oc=5",
+      "date": "Sun, 05 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２３年１２月１５日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ibDdiODZFUDFpakJmdWtKWXh3bXFfSktCZXRpLXNRMm5OUi1aaTVpQm1FOVpOTnNKa2drZm04NXB3OXVkenRWeU4zSHZuRFIyRVZjaHhMNA?oc=5",
+      "date": "Sat, 04 Jul 2026 22:02:55 GMT"
+    },
+    {
+      "title": "７月６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9udUtIVWMwaDZCMU1YVTdkcnc3WXdCa2V3U08yM2llZzFleHluSm5ja3M0Sy1Cek5pWFdBVDZOLW1SNGtEaFNmSjU5TU1XU1NDOGdFdUFLNHc0eTUxS1lFdjFIMV94WklBY0ZGVFk5SndxZ9IBd0FVX3lxTE5fU3JqTF9mdFBtQmlHa3pGRjVKNF9vZGZGOHJNc2s1X01CSTEwRTlKcWpTdG9NSFhjbUZ0R1FDc2RqV1MtY1J2c3VFRHhBeE1WUERsMi1tOV9nWVI0MmNELVUweEt4bnlrRHVoVGZRM0RHaVFXYVpJ?oc=5",
+      "date": "Sun, 05 Jul 2026 20:30:52 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "10代男女4人が乗った車が横転し2人死亡 千葉市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMckstcnIybXFwVEduckU1aHdLWG9SMVRrVWJIeklySm1hcHhEd0tscGJhZnJ3M1FOeENUUm9pT3ptYW9EcUowUzlXQ1E4Smc?oc=5",
+      "date": "Fri, 26 Jun 2026 22:44:49 GMT"
+    },
+    {
+      "title": "千葉・八街児童死傷事故「まだ5年、もう5年」市民の思いは風化せず [千葉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MHFXcWpQdWJvVkdVS2d6N3Q2dm9HeF9TcXFKaG5fZXpyRUdHRU4wTHVVck1qXzBXSkxCb19la3l1MTBHdkg3Zjl3ZnF0bTZ6cWNld2daVnVhbEJaOW5YOTZLUzJaM3c?oc=5",
+      "date": "Sun, 28 Jun 2026 20:30:00 GMT"
+    },
+    {
+      "title": "事故起こし同乗者3人死傷…運転の高校生逮捕 千葉（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11RFJaQm5pVlRuUjhmSEZYZkhsd3BqSWd6SHFKcWY2ZF9pSE0xeEtOSEhrNnNWdWk1RjhNM1ItYTZUSUFySmlTQjZ3RHhTR0tveU4xazUyeTdQeGxQREttQ2I3Tm00ZWQyTVhjYVlXUmZtZWlNV2hRVGM5RGdDMms?oc=5",
+      "date": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MeU1zeG9IRmJELXJTMnhDNGYzamxfTFZ0M3ZWWE0wQnFnUkFiTHh2YnNMMDZtZWpHRDV2dHAta2xCdTFsUGdJUk5vTGVBeGNmbGc?oc=5",
+      "date": "Fri, 22 May 2026 10:04:23 GMT"
+    },
+    {
+      "title": "高校生ら10代4人乗車の軽自動車が横転 2人死亡2人けが 街路灯に衝突か 千葉市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xOVV2cEFmTlltcllxR2xWV3V6WUZ6RkRYRFlQbmtPdmV6OFFSRVhLUDFwbmpkdHo3d1prTmxtVmhDVEp5SWhsMTEzaHk2QQ?oc=5",
+      "date": "Sat, 27 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",
