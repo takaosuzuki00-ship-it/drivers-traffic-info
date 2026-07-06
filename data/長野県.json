@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T19:11:13.101894",
+  "generated_at": "2026-07-06T22:03:02.714043",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 20.2,
+    "temp_max": 22.2,
+    "temp_min": 20.0,
+    "precip_prob_max": 100,
+    "precip_sum": 4.9,
+    "wind_speed": 8.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "曇り",
+        "precip_prob": 51
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 41
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
+      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RTlNDNmhIYkxzbnVaN05UMC1CZGJWZWJlbHBuS3pXbmJpT09ncE5xUkxteGFSd3ByMW9tSmdSY2gxMXA3YXY2SHF2ckRqbW12VGxrSjBKb1hWaXJoTTNiQTVFV05nejFPY3lhaUNab9IBdEFVX3lxTE0teGRGRDlVeW1pdzdxV25YTkUza0hzcGgycExaYXhyc0xQd2RDUms1ako1VEdqMWJmb3JSQ3hMQk1CNlgyRzgtS0h0NkpxdlJXMDVSWTJpZWptdy1faXE0cTBCUk9xZ2lnTTFnMk1pMnJSRU9i?oc=5",
+      "date": "Fri, 03 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "長野へ帰省中「オービス」が光りショック！ 後日「出頭通知」が来たら“長野県警”まで行かないとダメですが？ わが家は「東京」なのですが、最寄りの警察で対応可能でしょうか？（ファイナンシャルフィールド）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNVlmXzZSa21KdVNtaWJjb0l2YzloMmRUNE5MRndIR3FEaDlLTlY0dzhHRF9YVnk5RlZCMFNMc1RYcnd5LTdTZ1VuRnVwVi1fUDRYYzJqczl0NDh3bGtzVlpKR0c1VmFRRGxjVTRJOG1ic29XOGtidHdBSl81TG8?oc=5",
+      "date": "Sat, 16 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eVQxNmFRRlpobDk1THpjeFU2Nm9GNFdTNFN4cFI1V2xZWW1ndFpfRGtDWVdjU3JXd0p2SzVtYVVDQVBjWnlKdzBwRUtack1FdHNZZjdnM2g1Zw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "長野市の交通量が多い県道 軽乗用車同士の事故で1台横転 20代女性が大けが 30代女性が軽いけが【長野】 （テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLU9OUWFuUFgyaVNlX0E4RjlPTHYtS1VSWVE2OER4bzdhanI0aldVc29ZaWI2RTRBQjZwZDRHZXJVYXRNZXVjLVJHV05mNnMyVzl4Y0FNSWNUek96UkZJY1BrX2VOUzd3Sm8xTDBNdjdqalFXOVhsNnFUUXhEdzg?oc=5",
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "長野道下り線　工事規制区間の合流地点で事故　大型トラックと軽ワゴンが衝突　軽ワゴンを運転していた男性が腰の骨を折る大けが　長野・岡谷市",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OM2NLOTVFRDVMcGlQLW1sT1Y0WkNjZlVMZU1DbFJFQUsxUkJsQjVYQTZnam9LalBPS2dQeDdMWUt3Nnd3SUlJdzBjVUZCclBhOFJUYXhqVzVkSGJicTlvODlremhnSmUtZGR6NWZKbUtvbXVw0gF6QVVfeXFMTi16SmRLSVlud1Y4TDZPa1pnSFplenU0R3h5djFoVmxpa2xmclRNejBidTdoU3ZvQU9JV3p0ZXpNLWFxMlVnRmFnVV81bWhiQnVuRDBRUDlIaGZUX19XM0NGWlpiSHJGVnZaSDdRSVBDWlo3TU1wSTF5Q0E?oc=5",
+      "date": "Mon, 06 Jul 2026 03:52:00 GMT"
+    },
+    {
+      "title": "保険会社から保険金80万円余りをだまし取った罪 交通事故に遭った女性に施術したように装う…長野市の鍼灸師の40歳男を起訴 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xSWFYVDlHa1N6LVNkUzU4bFdoN2w0TXN4Ry1nc09UNGd0TjZfS0tHN3hxXzFDUXNuYWNNR0kwUlliWGlpQ1VJY0dRY1dJcHdYQlNkeVlGYnRKQQ?oc=5",
+      "date": "Wed, 01 Jul 2026 08:30:00 GMT"
+    },
+    {
+      "title": "犯罪や交通事故かっ飛ばせ 横浜ベイ・牧選手が広報大使に 長野県警 [長野県] [DeNA（横浜DeNAベイスターズ）]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmV3M4VUpmcFQzS08zNTZvRFhJZWhQUDA1bUNTZElaNkVid2V2WlAzZ0pyVkYtNlg5ejBGOGRZX2x3NkF4S0xVZXpncTc0b1VTcTNYdjN6SE8tVkMyYm14UVNfa1RUTE0?oc=5",
+      "date": "Wed, 03 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "長野自動車道上りトンネル内で9台絡む複数の事故…けが人なし【長野】（2026年5月4日掲載）｜テレビ信州NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYldROHM3WGkyek90NGk0blY0R2tCVXpPemtnc0t5ZU9ETGVSbEp6SVBPdVJNQkVWbDdtdTVEckNxQmsxWmJFdHVQQ2cyZS02NGppMFR3RzlqWURlcnBnY1NnUXNvSERJTHFlSzdiR0prMDVIUTd0N3g1LUd0M29fM3EzT0xES1E?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

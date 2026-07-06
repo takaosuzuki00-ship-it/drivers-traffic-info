@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T19:17:13.219445",
+  "generated_at": "2026-07-06T22:03:12.833165",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 19.7,
+    "temp_max": 22.4,
+    "temp_min": 19.7,
+    "precip_prob_max": 100,
+    "precip_sum": 27.3,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.9,
+        "weather": "雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "03:00",
+        "temp": 21.8,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 21.5,
+        "weather": "強い霧雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "12:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 22.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 20.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "7月5日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MG9MOWdUbjVhdmJlRjlRSWFNLUk5V3pBZG5vU0EteFJOSGFlbUx1SWl6cXkxSmJUWExCNXphelR2STFUTlgwSndhQ0Z4NVU2Tkk5aG1DTkpzMm1NZmVGR21YUzNjb2lDeGZnM2tqa9IBdEFVX3lxTE5sZFVZWGVGSUtUUkl3QzNUbURrc2NKb2F4UTRkY1R3UVpuLUVzSUVpdDVtZXRXb0hYZHVTUUlLWTl5dVZOSEZPb2RqaVBfaGkyLUR6a2tHc2dXeVNMSjZZUEhQdmhtcVE5MVNXYlZKbGtkS3Nk?oc=5",
+      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月3日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3RFZESkdZZVNPTzc4dmFoc3VFeGFsWFFZWm1IQ2p2MGVlODE2YUZyb1NLRXdVOTZ5Ujk3WkRrOElKNjh2VUhfZFRvSk9ZSVBQVUdfbEFTLVI4YXJxMlBrT1NndUN6aXdfbWluQld5Z9IBdEFVX3lxTFAwSE9JRlkzYl9MSm5rbVAtcmJ0Ui1zYk52aTBQM1VBV3J1VXp3aEJ2dkp0N3Rnc1BXdWM3N2k4SlE2b1dKVFM4WGxyVENaNGtickgzU051RXlJWEE2YVlJcnozdzluc01DOXlGTWNMZmttc3hG?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月3日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPM001N0kwVXVwQmFQXzRQX056LV85Vkl3ZEJ5Z3Q1YkhLdFRISGV3SFlKSUhhMEh5SnhhMzdKakY5RE9mZjlSemdobDg4YzdranNrNXlZdlNmQzZBZGk5MVFfbC1RNnJMOUlrcjVRVdIBdEFVX3lxTE5SOF85R2RsSGdyTUVzSmJFbFNpZERDV2Y2NUNFbDJabHVSWXEtaXFMRFJzWEF1OHJjd0c3akoxcEVsN3VVQWN1SUUzNDJVTURSbGZYLV8zMjZxRnE1c0FlLUlDUXd3T2hfR0JKOW9ZWjd5bnAz?oc=5",
+      "date": "Thu, 02 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "めざせ！交通事故ゼロのまち",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG9xamtQZlU3MnM2c2M3OWxoRnBodDlodUl6LUFxY3NaUV9UZ21LUU1NdVd1SUNFOUNyRkczN0NfdWt0QVRwUWIya2tZZUEtcjBMdmotVjRDdjVLakdGNy1HSkJSQkh5LXBldS1NNTRFaTRoYWNKREpYem5hSkgtNTBWTUVlT0Q3S2c?oc=5",
+      "date": "Wed, 01 Jul 2026 05:04:29 GMT"
+    },
+    {
+      "title": "交差点で81歳女性がはねられる事故 警察は運転していた女(23)を過失運転傷害の疑いで逮捕 はねられた女性は病院で死亡が確認される=静岡県警・富士署 - at",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14UHlTQ2NxeFVVNUZoRGl3N043TnZZbUxSMUt2OTk3RS16bFNCLVVWdHJhUnRyVk1ueXRONlFRLVkzVjh3ZDhyQWxlSUs2Q29SUHNyUm12VXRNYnR5b2Zxbw?oc=5",
+      "date": "Fri, 03 Jul 2026 08:57:36 GMT"
+    },
+    {
+      "title": "車が横断歩道を渡っていた通学途中の9歳女子児童をはね一時重体に 車運転の21歳男を逮捕 信号無視か=静岡・浜松市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10cy1xWXhhLTZZb3ZCenRYSzFQNllKRHVXUzJxT0dWM3FIX25OVi1nanJDNVB0YXpxVXJlcC03S1hIeXlfaXpZZWVMSWo2ZWdJWm5SV1hvc0g0RDNWcUJSdWpLbTZqV2xOUDZQR19tcWtZbEFuaHVVRVhwbEFLalU?oc=5",
+      "date": "Fri, 03 Jul 2026 03:58:12 GMT"
+    },
+    {
+      "title": "小学生の女の子（9）が登校中に横断歩道ではねられる事故 病院搬送も意識不明の重体 警察は運転手の男を逮捕（静岡・浜松市）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOTBBTHQ5MkdrdTMtUjh0QngzNVBWbFNIMkdWZm9sZjV1b1pPM0JOeS04WmJZeHYyMzAtTzVlUnlkU1NMVEo3V3EwUkxlSEUzNVZBcnVRdWJGLXUyc052UGdCOERUeHFrZl9fYTRBU2UtWi10c05TYXVjMjIzNjNlY3dOTFBjYVE?oc=5",
+      "date": "Fri, 03 Jul 2026 06:09:00 GMT"
+    },
+    {
+      "title": "【速報】インドネシア人の女性が刃物で刺され死亡 犯人逃走中も直後に電車の人身死亡事故 事件との関連捜査 「女性の悲鳴が聞こえる」110番通報 静岡・浜松市（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KNWk1eTJfZ1VBVWlHLXZ5bjlxQURoMUhqZExMMWUtNmFpYUd0Q3lqWTE5b2o0bTZNeHdEUGNPbWpNLU4weENGQkZlQXRMbmVOOGRHdTlQSi1jN0c4N0Z4Q1paU0FjRWV0ZFlQLVZWZVppVXA3elR2QlpHVENlcFU?oc=5",
+      "date": "Mon, 06 Jul 2026 07:20:23 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

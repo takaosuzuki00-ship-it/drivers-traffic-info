@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T20:14:15.685965",
+  "generated_at": "2026-07-06T22:04:47.737042",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.1,
+    "temp_max": 27.7,
+    "temp_min": 24.4,
+    "precip_prob_max": 100,
+    "precip_sum": 35.2,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 24.7,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 24.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 25.7,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 25.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 26.3,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 27.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 55
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月6日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ja0FmbER6QTRBNHVQaFU4WnZqMmZoWEEtN3BuUUZiMUlPX1JFdC1FQ0dmT2lsZlVRTjFyZXZaVlZOSnczXzI1aUg0c0FXNFk1ZjNMMGJ3LU9MTmVQb29JNm1OTzNtZmtFX0U1bDh6WdIBdEFVX3lxTE1tRHNsdHdTeERPZUthRUNvQ25SN1FINC15TnhseUNyNk9ST2I4M1A1M0dzcGFiMGlaMmo1aFN2VmY4Yjc3eWpHcUxsUkxaeDZYR0xVc2QzOWh4cEd2eC1ySnNadGZTOWxFbEs3dkZZdTFuSS0y?oc=5",
+      "date": "Sun, 05 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月5日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Wd2lzRUZjZ0tqR3djaEQwMktHblhoU2dSTlUzWDNFX2pkWHNxekhQTjdJc3V0WE5rLXRhQXVsbmFSdUpzUVNPZHFnUkV4YW5yVVVMTW5senJERDNYWUNSSlVwUE50LUdmR0xJa1U3TdIBdEFVX3lxTE9ENGk0WUFhNzdIODl2SkpJTlhNQjNnaTBrcy1QNXNWa1ZQYThlamxCZXotN1RIWTBhMGdhTVFXekI5cGZhdkNKWnBpa0lXUTd6ajI2WWpEUjNEdzJjcXQwcVBXSUp1UWtSTHVlcklITjdJSFBR?oc=5",
+      "date": "Sat, 04 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "イスラエルがガザ検問所を封鎖",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IVkV5YUlZVXp0WXhoVDlFT1JQQkZFU0w3SG42TFR1djhhLTRGUFNEM2VwY2xheGJhaFljbDFlbUoyMkFlanFQSmFkTW9NWURwdjV2WC1n?oc=5",
+      "date": "Mon, 08 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ビールに焼酎…検問で飲酒発覚 唐津市消防団員が酒気帯び運転で停職1カ月【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wMVlvbzlSVmtmRVpuaFlWbEQ5ZEllcnFBMlROQmNCelNUamhGUFR2SW5GeVpLMDVxVnlPSFpKeHFvWHk1bGZtS2lraWZnaF81VGNIaTBvWnVhbmxKand4aDBn?oc=5",
+      "date": "Thu, 25 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "高齢ドライバーの事故減少へ 佐賀市で「グッドドライバーレッスン」 参加者50人が運転技術を再確認",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CUUVweTI1MEVTZ3ptMDh3ZUdLemZObXJRTUUzbTRKSjloMWdUN18yWUpQZG5jU29nRmtsOGliOTEzOVBRSVRDU21rZw?oc=5",
+      "date": "Sun, 05 Jul 2026 22:00:00 GMT"
+    },
+    {
+      "title": "「痛いよ」と泣く声だけが…下校中の小2男児が自宅近くではねられ大けが 母親が事故防止訴え【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42Z2dPMk8wbFpSRXl3ci1STl82d1ZaU2syRmpINkk3Q05fX0w4Mzd6TlZtNXR3cFpqX1RXeEJzX1BQb29MdTVuRjlMdkJod3RGU0ZQcUZ4eXhvb01icTU1YllB?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高齢ドライバーが運転技術確認 事故減少へ「グッドドライバーレッスン」 | まちの話題 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWWtxQmdNVW15bVVFYUdjRXBGRFZ0OHJCVXJ6TldEYW1CLWdnWW1iZnc4RTFyWU9Rbk5jeW9RNWxvaUVRNEo1U0lxcW9Sdk1JbmpSQlh3?oc=5",
+      "date": "Sun, 05 Jul 2026 09:00:00 GMT"
+    },
+    {
+      "title": "【交通事故死者2026】佐賀県で上期計13件13人［前年比＋6］5年ぶり2桁台",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VemwydHl5UkZNTmxSajF1ZmMxWEUyWklOUm1oZ2VoN09BdFZYem5iaDRDUXBkZ1VhZzJGMVQ1eXNVMHVTZDQ2N0FqcFZneFowbEVwMzI2elQ4dkdtOTBr?oc=5",
+      "date": "Sun, 05 Jul 2026 20:07:00 GMT"
+    },
+    {
+      "title": "【佐賀県大町町・佐賀市】「大町自動車学校 鍋島校」が事故率0.24で県内最小値に。年間教習業務成績優秀受賞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnTlNpUmcwVlBVX3dTU2ZrX0hNT2ROa3oyemdVQ1E3aklzeDZ4VE9HNzFuMjFoRl9McWc2b1ZJeVZ2RElqdm9fTTFlZnJtWlFyRjFr?oc=5",
+      "date": "Fri, 03 Jul 2026 09:51:25 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-06T19:20:13.284602",
+  "generated_at": "2026-07-06T22:03:19.806344",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.4,
+    "temp_max": 23.4,
+    "temp_min": 20.4,
+    "precip_prob_max": 100,
+    "precip_sum": 20.7,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
+      },
+      {
+        "time": "03:00",
+        "temp": 21.9,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 22.2,
+        "weather": "霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "12:00",
+        "temp": 23.4,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 22.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 22.5,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 20.6,
+        "weather": "弱い雨",
+        "precip_prob": 80
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZmxOb3dtNWEtUFJyNUF6Q0ozc2JSYUh4alI3VnoydGUzQTZZaUE5S1JWdTFiWFctSzlvUDkwX3FWVnBpNmJ2Q0luZlBFS2R1b2xlXzVVQQ?oc=5",
+      "date": "Fri, 03 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月6日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ja0FmbER6QTRBNHVQaFU4WnZqMmZoWEEtN3BuUUZiMUlPX1JFdC1FQ0dmT2lsZlVRTjFyZXZaVlZOSnczXzI1aUg0c0FXNFk1ZjNMMGJ3LU9MTmVQb29JNm1OTzNtZmtFX0U1bDh6WdIBdEFVX3lxTE1tRHNsdHdTeERPZUthRUNvQ25SN1FINC15TnhseUNyNk9ST2I4M1A1M0dzcGFiMGlaMmo1aFN2VmY4Yjc3eWpHcUxsUkxaeDZYR0xVc2QzOWh4cEd2eC1ySnNadGZTOWxFbEs3dkZZdTFuSS0y?oc=5",
+      "date": "Sun, 05 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lUk4xRXdoX3VYb0NvWUdPRVBMQUFDbGdXVUJzY1RRbVZJQjk4S3JwR25yZjhuNVJkT2hjd2thTUMyemdZV0FDN29FclNvSExIZWcyM0lQMF9ORUxiZXpvNERISFBZR3c2dkNjR3Y0XzM3QdIBd0FVX3lxTFB6WDJyVXhXS2tpbHYxTURNOG1LSGtSYnV5M0NHcDRxdUN2ckJ0a3NkalVLZktDblBpbmkyRC03Z2FSTGx3SkdURzlHaXU0OWtWblVIU3RpYUswWDgwT3VsMlZSX1hGLTMwejduZndnOWlJQjI2T0Jv?oc=5",
+      "date": "Thu, 02 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "愛知県８警察署 合同検問を実施：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWHYyemZrX2NxWGJlNl9VMVdsNEJjd2tFcXhmdmZCdG9xM2lORm1fTGZyQndNOE1BRXBPRVlpbDBpRmFTN0VPbXQzN01lRmRCTnJDOUU1SDBramxMMUg4MERtSTNhNDFuRi1zbFZSNHM?oc=5",
+      "date": "Tue, 05 Aug 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "愛知と岐阜で交通事故が相次ぐ 男性1人が重体 車両の炎上も（中京テレビＮＥＷＳ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcTJoc1psV1NvSnFmSVpwUzg3WjdWREVPeWVpNHlJNjBmZkJQQjRXek9JTjNjeEJfZTRvWjhsRmpYbmotU3h3NmlfNHZsQUxvRGxYdENfT0lBalh5RzEwZ2t0eTV1ZlJEZXBQb3V5TVZYbkYtYThJR2IyWFZ6WEU?oc=5",
+      "date": "Fri, 03 Jul 2026 02:55:00 GMT"
+    },
+    {
+      "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "妊婦死亡事故、被告に実刑判決 胎児も重度の障害 名古屋地裁支部 [愛知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12dHlfZTFQcXBWX3pUZU5EbnJ5VzRpSHg3eW14OTBoVVktYUo3eldGTDR5QVBqV05lZmk0MEszdGQtWUZGUW96eW02OTljVU8tSmN6LWRIUDYxcDF2YjJiUDlBM05uZjA?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "アパートの一室で倒れていた男性が死亡 浴室では男性の母親とみられる女性が死亡しているのが見つかる 愛知・豊川市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WSlJqNjRRLUpPSEdoVkpIOTBvUkt0RTVyMlNYdnhZaGlma1AyZDgtZnVHNmU1cmRaQWxPN0RPRXFMb2N4NFdWV05kaWc1NDc2bFdmeWE5bG5CMTB2Q1lYcjRaeVJ1MFdhQVl0N0p6X1JKeDdWejVkQ1FubnR2bFU?oc=5",
+      "date": "Sun, 05 Jul 2026 21:30:00 GMT"
+    },
+    {
+      "title": "愛知県一宮市の妊婦死亡事故、被告の実刑判決が確定 被告側、検察側がいずれも控訴せず",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QdWZVbVlVSHhRRWZvYUVxX3l0U0NHY05PcXB2NkJ6X3BtaE1zSGI3elZnMlp0V3ZOaXNkYmt3Y08weFo5SlFSUi1HamxOa0tsMzdNYQ?oc=5",
+      "date": "Fri, 03 Jul 2026 10:33:28 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",
