@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-06T06:03:31.057855",
+  "generated_at": "2026-07-06T09:03:51.778929",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 24.2,
-    "temp_max": 27.2,
+    "temp_now": 25.7,
+    "temp_max": 26.9,
     "temp_min": 23.5,
     "precip_prob_max": 100,
-    "precip_sum": 19.2,
-    "wind_speed": 5.1,
+    "precip_sum": 33.0,
+    "wind_speed": 22.2,
     "hourly": [
       {
         "time": "00:00",
         "temp": 24.5,
         "weather": "霧雨",
-        "precip_prob": 96
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 24.0,
+        "temp": 24.2,
         "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 24.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 90
-      },
-      {
-        "time": "09:00",
-        "temp": 24.4,
-        "weather": "強い霧雨",
+        "temp": 24.3,
+        "weather": "弱い雨",
         "precip_prob": 98
       },
       {
+        "time": "09:00",
+        "temp": 25.7,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
         "time": "12:00",
-        "temp": 25.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 82
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 86
       },
       {
         "time": "15:00",
-        "temp": 27.2,
+        "temp": 26.5,
         "weather": "弱い霧雨",
-        "precip_prob": 69
+        "precip_prob": 57
       },
       {
         "time": "18:00",
         "temp": 26.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 25
+        "weather": "晴れ",
+        "precip_prob": 45
       },
       {
         "time": "21:00",
         "temp": 25.0,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 18
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月6日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zTlhiOEFpMVdGSnFVbHFZNTFpTlFZaGpRUWhwRTBXQkZTOUE4WDB4TXl0eUUxcVlHVFVMNjFIUzNOdkdCVmM2TUJsOHVUMVlBU0xTSEJQb2dkQVN4OXFNQ3FqMUZ2UUxtS25ZUk1Sc9IBdEFVX3lxTFBUVkNHckFieUZpRDRsM2pQeDVYcGpEOE1VMWpXQUpGWVNFX3lvTFdyTjcyYXY1Z3hrOXM0S2FpdFp4aU1ob1JzM1B4SVhrbm1sYVR1VEVWb2pMZFYxdzZOQk40SHJrcjluT1VsMGtxX3hGdU8y?oc=5",
+      "date": "Sun, 05 Jul 2026 20:30:17 GMT"
+    },
     {
       "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
@@ -80,11 +85,6 @@
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "飲酒運転撲滅へ県内一斉検問 県警、８月末まで取り締まり強化",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWWJhX3gwYVd4MVhkVnFVZXduMk1STVBNMlQtbDNWTkkwYXl6cUdxTzlNQWtvSy15dHp6WGliWUpHNjE2YjZmbFo5QktZT2pFQnRINUJRb3Bzek5mTmk1Mw?oc=5",
       "date": "Wed, 01 Jul 2026 11:23:35 GMT"
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "桜三里での重体事故は雨で車がスリップした可能性…雨の日の運転、注意すべきは？【愛媛】",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWVLVGgyeDRKWF9pdi1LN1BGd0R5SVJWd1pIdjNpcHA1STNEWHZIcEo4TTZUSmJkbXNFU2Q4UEg5eW9FYkRqVjVrR0xfRy1sUmQxQWgtNENVMHN2R2xYRXRSS25lalJud3B2NGl0Y0ZnNGpmWXNhR0cwS08yVG9DVno3Zw?oc=5",
-      "date": "Thu, 02 Jul 2026 06:26:00 GMT"
-    },
-    {
       "title": "西条市の県道で高齢女性が車にはねられ死亡、松山市の43歳男を過失運転致傷容疑で現行犯逮捕（南海放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84YU1DdVNhVlo0RnBrU3cyQWFpZVo2RHlRa2Foa2QyXzJEZktUekxmLUxLaVJnb2Npc1hKcmZqZ0F6UnRwZFFxSUJQd2hXZnFTaFdoWGw2MjNQcC1GQjRSQmNkMmJyVUxBbjJrMW9XZUU2QjBhbWdUNUs0SG8xdEU?oc=5",
       "date": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "桜三里での重体事故は雨で車がスリップした可能性…雨の日の運転、注意すべきは？【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWVLVGgyeDRKWF9pdi1LN1BGd0R5SVJWd1pIdjNpcHA1STNEWHZIcEo4TTZUSmJkbXNFU2Q4UEg5eW9FYkRqVjVrR0xfRy1sUmQxQWgtNENVMHN2R2xYRXRSS25lalJud3B2NGl0Y0ZnNGpmWXNhR0cwS08yVG9DVno3Zw?oc=5",
+      "date": "Thu, 02 Jul 2026 06:26:00 GMT"
     },
     {
       "title": "【愛媛県伊予市】「うんこ先生」と楽しく交通安全を学ぼう。子どもの交通事故ゼロを目指して ETPグループ（愛媛トヨタ・愛媛トヨペット）から「交通安全ドリル」が寄贈されました",
