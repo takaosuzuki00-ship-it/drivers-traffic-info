@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-08T00:01:37.595580",
+  "generated_at": "2026-07-08T03:02:27.816855",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.4,
-    "temp_max": 27.8,
-    "temp_min": 20.1,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.5,
+    "temp_max": 27.7,
+    "temp_min": 20.0,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 4.3,
+    "wind_speed": 4.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.4,
-        "weather": "晴れ時々曇",
+        "temp": 21.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.7,
-        "weather": "晴れ",
+        "temp": 20.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.8,
-        "weather": "晴れ",
+        "temp": 20.6,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 25.1,
-        "weather": "晴れ",
+        "temp": 25.3,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.3,
-        "weather": "晴れ",
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
         "temp": 27.7,
-        "weather": "曇り",
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 25.0,
+        "temp": 25.3,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.0,
+        "temp": 23.1,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "公開交通指導取締（２０２６年７月７日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UY0xPQmZoRHZrZFBpbUhjdDcwMjBLbDN4VUpwdWZfYndCYTh5OWJqYXZhOV9MZ2RZcjdxZUR1NnJmeGh0YmFtZVRqNkNIeEhYSThXeDlvMTM?oc=5",
+      "date": "Mon, 06 Jul 2026 20:10:56 GMT"
+    },
     {
       "title": "7月5日（日）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wS3R4Z3RVMUZzUng0bjc2aERfX1I3d3ZTUmUxQmVqeDVpbWhDVkJwTGRmQ1N3bEpBemtBRHhjaXFYRmx4RnQwNEdWZ0V3cm9YZnl2WTg1NXRjdVRKTVBTT0VWUFZpR0U?oc=5",
@@ -75,19 +80,14 @@
       "date": "Mon, 06 Jul 2026 20:02:00 GMT"
     },
     {
+      "title": "７月５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zTGZwRkF0d3dTaGZGU0x3ZEJlTFFVaVUzTTRGZDVpa3dkcDVpMVdxbE5ZZW1UU0ZPMXhMMmtjbVJYYlEtZ2RMTDlacWZ2bnlwOGU3bGQxeW1NZEdXTjRtMXNOVFZvREM1N2JsdmxYWQ?oc=5",
+      "date": "Sat, 04 Jul 2026 20:19:19 GMT"
+    },
+    {
       "title": "公開交通指導取締（２０２３年１２月１５日）",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ibDdiODZFUDFpakJmdWtKWXh3bXFfSktCZXRpLXNRMm5OUi1aaTVpQm1FOVpOTnNKa2drZm04NXB3OXVkenRWeU4zSHZuRFIyRVZjaHhMNA?oc=5",
       "date": "Sat, 04 Jul 2026 22:02:55 GMT"
-    },
-    {
-      "title": "7月6日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ja0FmbER6QTRBNHVQaFU4WnZqMmZoWEEtN3BuUUZiMUlPX1JFdC1FQ0dmT2lsZlVRTjFyZXZaVlZOSnczXzI1aUg0c0FXNFk1ZjNMMGJ3LU9MTmVQb29JNm1OTzNtZmtFX0U1bDh6WdIBdEFVX3lxTE1tRHNsdHdTeERPZUthRUNvQ25SN1FINC15TnhseUNyNk9ST2I4M1A1M0dzcGFiMGlaMmo1aFN2VmY4Yjc3eWpHcUxsUkxaeDZYR0xVc2QzOWh4cEd2eC1ySnNadGZTOWxFbEs3dkZZdTFuSS0y?oc=5",
-      "date": "Sun, 05 Jul 2026 20:02:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
