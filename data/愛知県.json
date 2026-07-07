@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-07-07T21:03:06.581828",
+  "generated_at": "2026-07-08T00:02:23.876904",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 23.9,
-    "temp_max": 27.4,
-    "temp_min": 20.8,
-    "precip_prob_max": 96,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 23.1,
+    "temp_max": 27.9,
+    "temp_min": 22.3,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 5.4,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.0,
-        "weather": "曇り",
-        "precip_prob": 96
-      },
-      {
-        "time": "03:00",
-        "temp": 21.0,
-        "weather": "曇り",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
         "time": "06:00",
-        "temp": 21.1,
-        "weather": "曇り",
-        "precip_prob": 10
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.9,
+        "temp": 25.3,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.6,
+        "temp": 27.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 27.4,
+        "temp": 27.9,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 26.3,
+        "temp": 26.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.9,
+        "temp": 24.4,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "７月７日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGSG11Skw4Yzh6alJXeFJOUThKSmJfZ2FfQ0R2YkhIcmk0aURMR195VlZyVjhRY25QOGhRN09oWjJ1RGRfOWQwSWd2bVNIeERMYTVlYXVNakxFWmU2TWlvb3FYOHhHN3ZhMTBDX1liU1FyUdIBd0FVX3lxTE9lUTItdEhNNFNKczJoSUgxYXVBbEc4YXBEdjc0dlphcy16VzdBbllsX1c2NEhJeEFhc2NRWEdONmFpdVpMR1cyd3ZwZzk5WHh1emNYMmxuWGZVdnRZSVdtWlM0SDB4OXlNbmtkdXB3M2wwVG95TGZJ?oc=5",
-      "date": "Mon, 06 Jul 2026 20:07:51 GMT"
-    },
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZmxOb3dtNWEtUFJyNUF6Q0ozc2JSYUh4alI3VnoydGUzQTZZaUE5S1JWdTFiWFctSzlvUDkwX3FWVnBpNmJ2Q0luZlBFS2R1b2xlXzVVQQ?oc=5",
@@ -80,20 +75,30 @@
       "date": "Sun, 05 Jul 2026 20:02:00 GMT"
     },
     {
+      "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
+      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
-      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+      "title": "警察署における交通取締用自動二輪車運用要綱の制定",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00OHY3Sm0xekZnSGUtR2NfZUE1V0g4UkJqZjd0R1hEem92aHpQNFBjMFI2eDFsMldoaU5zbDh6VnlUWGVWSUMyZnV2ZzJKUDNvT1hMdmhfdllrSDI1XzVjYm9FWGw3UDhiLUxOWkl3TzBsS015SnhzeWhHaw?oc=5",
+      "date": "Thu, 02 Feb 2023 06:17:04 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "スピードワゴン･井戸田潤さんが交通安全呼びかけ 七夕の短冊には… 愛知県内の交通事故死者数は全国ワースト2位 名古屋・中川区 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KZmdFb1dneEp6X2YzdkhreWwzeXJISWkxNmxDemRsY1FMLXNQdGNUbXpub3NsQUVkeE5CcUVyNmY5dlEwZ0N4NUJNbUxxdTZabDB3bFRlV2pBZw?oc=5",
+      "date": "Tue, 07 Jul 2026 10:38:00 GMT"
+    },
+    {
+      "title": "スピードワゴン･井戸田潤さんが交通安全呼びかけ 七夕の短冊には… 愛知県内の交通事故死者数は全国ワースト2位 名古屋・中川区",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFVPUHV3S3otQVU0U211NDdKU1BOcTNyWm5WazFMdHVOb1JHQXBWSnFIRmRHM1lzajREWmpSYnNJaTRrZHM4SUh0c3R0RWxnc1JUZHRfMkFRUFIzeWVNc2plS0lpd2tpdTdubG5UZzhsT0Vjd3Bpc0V30gF6QVVfeXFMTzdwVU9QdXdLei1BVTRTbXU0N0pTUE5xM3JablZrMUx0dU5vUkdBcFZKcUhGZEczWXNqNERaalJic0lpNGtkczhJSHRzdHRFbGdzUlRkdF8yQVFQUjN5ZU1zamVLSWl3a2l1N25sblRnOGxPRWN3cGlzRXc?oc=5",
       "date": "Tue, 07 Jul 2026 10:38:00 GMT"
     },
     {
@@ -105,11 +110,6 @@
       "title": "スピードワゴン･井戸田潤さんが交通安全呼びかけ 七夕の短冊には… 愛知県内の交通事故死者数は全国ワースト2位 名古屋・中川区",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZjFvVEdaTVJNdGQ0dVhjVk9BNF9leDA1NjdudktVM2c3UUdaVm52anJTMGRGWXh0aTBmRDFNME9UQ05XQVlxcFNmMlpDMFFYTl9VODhfS0dwVTQ5NFZN?oc=5",
       "date": "Tue, 07 Jul 2026 11:03:16 GMT"
-    },
-    {
-      "title": "スピードワゴン･井戸田潤さんが交通安全呼びかけ 七夕の短冊には… 愛知県内の交通事故死者数は全国ワースト2位 名古屋・中川区",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1aGY4RzNFYkRjb2VsbjZDSDFtR0dVNFJydHhsQTllalFOY180SFhUR3NfSmJsNVpMaWxLenM5MzIxb2U5emtDcDN1VjlNU09jTlpDQnRQOEZ4aGswLThEVm5EUnB3a01XVDdXOUxtRzJzTVI2MjlYbDFCQQ?oc=5",
-      "date": "Tue, 07 Jul 2026 10:38:00 GMT"
     },
     {
       "title": "妊婦死亡事故、実刑確定 愛知・一宮、自動車運転の女（共同通信）",

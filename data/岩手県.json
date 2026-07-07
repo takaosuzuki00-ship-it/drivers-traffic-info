@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-07-07T21:01:45.710467",
+  "generated_at": "2026-07-08T00:01:00.351570",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 21.9,
-    "temp_max": 28.5,
-    "temp_min": 18.3,
-    "precip_prob_max": 2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.0,
+    "temp_max": 26.8,
+    "temp_min": 18.9,
+    "precip_prob_max": 3,
     "precip_sum": 0,
-    "wind_speed": 8.0,
+    "wind_speed": 4.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.2,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "03:00",
-        "temp": 18.8,
+        "temp": 20.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
+        "time": "03:00",
         "temp": 19.1,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.7,
+        "temp": 22.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.5,
-        "weather": "快晴",
+        "temp": 25.8,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 28.3,
-        "weather": "快晴",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 25.9,
-        "weather": "快晴",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 21.9,
+        "temp": 22.1,
         "weather": "晴れ",
         "precip_prob": 0
       }
