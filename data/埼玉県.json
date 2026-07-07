@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-07-07T06:02:36.014204",
+  "generated_at": "2026-07-07T09:01:53.576293",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 19.9,
-    "temp_max": 24.1,
-    "temp_min": 19.7,
-    "precip_prob_max": 65,
-    "precip_sum": 0,
-    "wind_speed": 4.8,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.4,
+    "temp_max": 25.4,
+    "temp_min": 20.1,
+    "precip_prob_max": 90,
+    "precip_sum": 0.1,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 20.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 35
+        "precip_prob": 29
       },
       {
         "time": "03:00",
-        "temp": 20.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 20.3,
+        "weather": "曇り",
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 19.9,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 21.5,
-        "weather": "曇り",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
-        "time": "12:00",
-        "temp": 23.4,
+        "time": "09:00",
+        "temp": 22.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 45
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "15:00",
-        "temp": 23.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 65
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 23.9,
+        "temp": 24.0,
         "weather": "晴れ",
-        "precip_prob": 25
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 22.6,
-        "weather": "曇り",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
@@ -92,19 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、うち2件が二輪車絡み 今年初、昨年は6回発令",
+      "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、二輪車絡みも3件 今年初、昨年は6回発令（更新）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5welhJYjZsSVg3MFRobllXd3F5WGZUQzVvZFRDT0wtay1TUUZrWW8yVmxBVEhhX0VReXc4ZElBR3FYdlZEZ0RqbG5nUERNa0RLNUdpQno0Z0NoUmR3ZHhVOXExRXVieEYzU2FiWVJNbHlkY2ZqV2RFN1dpdDhiZG8?oc=5",
       "date": "Mon, 06 Jul 2026 02:20:33 GMT"
-    },
-    {
-      "title": "令和8年夏の交通事故防止運動を実施します",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
-      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "春日部 市道で事故 自転車の女性死亡／埼玉県（テレ玉）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTX3hobU5zZjgzZTRETG9rdlJPbGJnYUNvT2dYb0d4RWh5THl1T0NmajFiWHpIdVFEdlpYeFFxLWFBZmpNbEN0MzFTREFrbFY1YTdhdURUS2FDZG9pT195Ny1ha2phbm11U1lwX0U4bm94LTgweEFyYmlKLUZ2T2s?oc=5",
-      "date": "Mon, 06 Jul 2026 09:19:53 GMT"
     },
     {
       "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、うち2件が二輪車絡み 今年初、昨年は6回発令",
@@ -112,9 +102,19 @@
       "date": "Mon, 06 Jul 2026 02:38:15 GMT"
     },
     {
-      "title": "交通誘導中の男性、車にはねられ死亡 滑川",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45QmJ6aUVxaDhfLVFsSURCU3JKX3RocHJSOFdpa2ZKZUY0ZksxMVVPVTAzcEg0bGZYR0MyUjZXc25iM2MwQ3daVkxodkdDY2tmWUxEZXVqNA?oc=5",
-      "date": "Fri, 03 Jul 2026 02:14:00 GMT"
+      "title": "埼玉で死亡事故6件…多発警報を発令　6件のうち3件が午前中に発生、うち2件が二輪車絡み　今年初、昨年は6回発令",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWU1xQzY2b3o4QXV0QzE4bzFBOVVWMVZlcThWZjZNT0VGVVROMEZGdzZ3RE0tam1Xa2FKRE1pb2hkSTNyQmp6NmJUTU9jQ0pRakotbWMtcXlJeU5iMXhWMHZJdGt5MUJqajdkQ2xOUDk2STE3eUdxbUlUVlZ1LUJHR3lJTdIBiAFBVV95cUxNdUhncEZEcTNSM2I2TG9VUWhFN0V4SENGT2JWQTNId3MtSFQ3VF9YWF9uOGNXRGlyaGhwOUduWGdYSV81bTNVb19JUzY3b1VSbkRxWVBodWVhOXQwZm5WcXZkeW05SFFyOEU5bUZEcEhFWGlXcXlua3pWU3ZmTS1jdHNyeGJhQ1pm?oc=5",
+      "date": "Mon, 06 Jul 2026 02:18:00 GMT"
+    },
+    {
+      "title": "埼玉で死亡事故5件…多発警報を発令 5件のうち3件が午前中に発生、うち2件が二輪車絡み 今年初、昨年は6回発令",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MTXJVZ3dVV3VKN1dsYUR2WS1zZTNKQ3RWUVNnMG5GaGlOUl9ocWV5R1NTRjM5c2U3XzVkRE93V1UxU1NBTnRMRE14bVVmUDlrWGRXTlNUbGNQYjNaUjdRVXlNd29jam83c0lzR3o3Mm0wNS1IMlk0?oc=5",
+      "date": "Mon, 06 Jul 2026 02:21:00 GMT"
+    },
+    {
+      "title": "バイクの男子高校生が転倒し死亡　飯能",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcU5MdFpkaHhfSDNYV2JfTk14YlZjTmxEcE5wN1hLYXJOd3lFR2NwRnBvNXJiOHBvUjV0VkM2SlpXNWVWbzgxTTktZDZpeVAtRGpUcWNySXcyT0VKTjNqNXZjdl9lLS0xNGo1U1QteFgxUER1NUI5Z0FrM2pUWkZtTzJIZ9IBiAFBVV95cUxNLS1Yd0xnUzdNQmlQUktCWkRlazJ0Z1pvV2VEcDR5emxmYzN5Qk5rdHdQZkxWaUE5YUgyX3hUeENPN0NXR0NFdWNXd29hcGJSVHAtMW9wMTRDc2VveXRlY0d6MFc3VUlYZE93RnNERW9vem5NYW5vbzJtQzlxdlh5N2NNaFhzMW5h?oc=5",
+      "date": "Sat, 04 Jul 2026 23:01:00 GMT"
     }
   ],
   "official_links": [

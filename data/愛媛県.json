@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-07-07T06:05:55.572506",
+  "generated_at": "2026-07-07T09:03:27.521301",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.3,
+    "temp_max": 30.1,
+    "temp_min": 24.0,
+    "precip_prob_max": 39,
+    "precip_sum": 0.1,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 29.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "15:00",
+        "temp": 30.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
-      "date": "Wed, 01 Jul 2026 09:37:00 GMT"
-    },
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RTlNDNmhIYkxzbnVaN05UMC1CZGJWZWJlbHBuS3pXbmJpT09ncE5xUkxteGFSd3ByMW9tSmdSY2gxMXA3YXY2SHF2ckRqbW12VGxrSjBKb1hWaXJoTTNiQTVFV05nejFPY3lhaUNab9IBdEFVX3lxTE0teGRGRDlVeW1pdzdxV25YTkUza0hzcGgycExaYXhyc0xQd2RDUms1ako1VEdqMWJmb3JSQ3hMQk1CNlgyRzgtS0h0NkpxdlJXMDVSWTJpZWptdy1faXE0cTBCUk9xZ2lnTTFnMk1pMnJSRU9i?oc=5",
       "date": "Fri, 03 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
+      "date": "Wed, 01 Jul 2026 09:37:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -43,9 +102,9 @@
       "date": "Wed, 01 Jul 2026 19:45:34 GMT"
     },
     {
-      "title": "交通事故件数の推移",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16QzBoVVVtZXdFanBhMnlKWWhJQW1OcHlZTEZWRnB1MlZMbWlycDR4VXdMeUhac1RmMTVKUHRvS3hEbmRaWWdFWG5kLTg1eG01X2w5T1RTd21PYl9lbThuOTlTeGE2U3RvZVE?oc=5",
-      "date": "Wed, 01 Apr 2026 05:14:48 GMT"
+      "title": "交通事故死者数が県内最多 四国中央署、現場で安全運転呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRjNFQjNjMVpwdV9HaC1zWjJfT1ZXWVBJU3l5dEpWVHAzS1RnTjlZQ3RGM1dRRFhFVUVMZDFVWTdES1FLNVpFZC1fd0dTbFNrR29hYkFFNFk1RVNaVXFDQw?oc=5",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "西条市の県道で高齢女性が車にはねられ死亡、松山市の43歳男を過失運転致傷容疑で現行犯逮捕",
@@ -53,9 +112,9 @@
       "date": "Fri, 26 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "「危機的な状況」2週間に死亡事故6件発生し県警が緊急呼びかけ 愛媛県・松山市",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxS3hQZEVKTENPVTlycXFNSHptSGxQN0gxQU9MY2lpbE5yeFY2SlV2UW96a3VlNmxLZ0M3bUtpaUVVUlhzS0Q3SXBoalJKZXEwV3IxVWlWN3NEQQ?oc=5",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+      "title": "【台風７号で増水】川で「SUP（サップ）」中に溺れ男性2人が死亡 愛媛・西条市（あいテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15c1RJQ0lnYjduTTdKazNZM2wwVkVFbDhJNUVSNGJMcHZGQWtrcm0tU09lM3JiZWRicHp2dEs3dlZPUW9qNVExYVpzeVlobThRaUc2LWphcGxpTDFJM1ktVGxmcDc2YmFGSl9ycE9pVEJueVpQN1duLVhjR0huTHc?oc=5",
+      "date": "Sat, 27 Jun 2026 11:28:35 GMT"
     }
   ],
   "official_links": [
