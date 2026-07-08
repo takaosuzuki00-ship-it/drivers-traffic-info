@@ -1,68 +1,9 @@
 {
-  "generated_at": "2026-07-08T18:04:18.412631",
+  "generated_at": "2026-07-08T21:03:46.489142",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 25.9,
-    "temp_max": 30.9,
-    "temp_min": 20.2,
-    "precip_prob_max": 53,
-    "precip_sum": 0,
-    "wind_speed": 6.2,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 21.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 20.9,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 20.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 24.5,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 29.4,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 29.2,
-        "weather": "曇り",
-        "precip_prob": 20
-      },
-      {
-        "time": "18:00",
-        "temp": 25.9,
-        "weather": "晴れ",
-        "precip_prob": 53
-      },
-      {
-        "time": "21:00",
-        "temp": 23.8,
-        "weather": "晴れ",
-        "precip_prob": 10
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
       "title": "７月８日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -85,16 +26,26 @@
       "date": "Mon, 06 Jul 2026 20:07:53 GMT"
     },
     {
-      "title": "小学校の男性教諭 自転車の酒気帯び疑いで摘発 交通安全期間中の検問で発覚 山梨",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWkyeW1CRmh5NXdwSG1iS25xdzV5ZUt6MmlnT256RWZCcGswbEtLbkNvX3hxVlFHaFlad0pacmVWWFpvX29ZOVVQYklaLWZ3X2JXTXpyWV9EcEQ2SGhqMFdZUy0tTnF6Um83SXU1Z3gwa3psa2xDTG8yVE1zSGlBdnBoc2w4Znc?oc=5",
-      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+      "title": "6月30日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zQWYyUDlnUExRcG43WjM0ZUp4UDlQZG1RTGNrV1p2RXc3MWZQNERfczZ0NG9NdHMxNS1hTDJKeGNiZHc4YndvVHZyWEpFdVhUR3ZRLUZQaw?oc=5",
+      "date": "Mon, 29 Jun 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
     {
+      "title": "追突事故で相手に軽いけが、通報せず走り去ったか 寺田義彦県議を近く書類送検へ 過失運転傷害と事故不申告の疑い 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Q2w3RTlHZVZ5bHl4RzdtUnM5cXdVSGMwNDhvYlI5ZUN5R1hYOGxCTFdPeW9aUkQ4UjNWbUFMUExWRFFKNW5sNC04djlNbVhJSDNSd2pidDZBQQ?oc=5",
+      "date": "Wed, 08 Jul 2026 09:16:00 GMT"
+    },
+    {
       "title": "国道１３７号 事故で一時通行止め",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JS1FIY0FuSFdrcjdKWXBCNmNGMVFKUTc5RHpYUm5wSDdqbjRlWlRLMkpmZDBkLU0tYVJDSzV2TU5hMm9wd1VjQ2FPaXVOZ3BPTXhQZVZGOVVvMjVEb3c2WUNBbHY?oc=5",
       "date": "Fri, 19 Jun 2026 21:53:30 GMT"
+    },
+    {
+      "title": "追突事故で相手に軽いけが、通報せず走り去ったか　寺田義彦県議を近く書類送検へ　過失運転傷害と事故不申告の疑い　山梨",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83eDNGMW91QUZLWGJGWlItbG9taWhuRVV5TlR6N3FlRkpjVHFSVmVOQnZTeHo4UUFOUEJYZnlZLWlkbVExQXpJaDRCbk1fTEh5aUt0bGdIMzFZbWg3eHZyTDk5SEhUQ3otdmFvcmVWNNIBdEFVX3lxTE9pb3lsM0lUR3pDbXBuTmFRaDlOQzNpOWJQdk9HaHg1YWJKNVVDeVhVYUFCc243UDIwR3NCSERua3IycmMyTnlGMUp0MWthSE1zeUhiUFczYml0ZF9lLS1UdnB4aUp4MHF1ZzlRbXd4eHRVM24w?oc=5",
+      "date": "Wed, 08 Jul 2026 09:16:00 GMT"
     },
     {
       "title": "緊急走行中の救急車が車と衝突 救急隊員ら4人けが 急病人の搬送には支障なし 山梨（YBS山梨放送）",
@@ -102,19 +53,9 @@
       "date": "Tue, 07 Jul 2026 11:27:00 GMT"
     },
     {
-      "title": "20代男性2人が乗った乗用車、道路脇の看板支柱に衝突 1人死亡、1人重傷 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wSHJmTy1jNzBqV1lMQ0RDVHJvQTF0WmRpRTFPbmtkZmgxSjhwQ01oYTZtY05YSTBGYzhad2NwMVhpUGZnYkpJWW1jbm9PeWhDUEhOZlRKSDAtUQ?oc=5",
-      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
-    },
-    {
       "title": "車4台衝突し道路ふさぐ 女性1人が軽傷 通勤時間帯の事故で現場は一時混雑 山梨（2026年5月27日掲載）｜YBS NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3NJdDRNbzlXVGMwNk1SaUl0VS1VZlgzajlXNVk1QzEycGVYQXZFaG1Pcy02c3AwOWRWdUFzM1lZRE1TamVMeURVWkh4UWtOYkxlOGp6M2gwSUlsZ2IxUEpEOE0ySHRDejByUHBFWXFTemtNSEUxRXZpOENGMG1LRXN5YXhuNWM?oc=5",
       "date": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "テレビ山梨の男性記者が飲酒後に物損事故、警察に申告せず立ち去り",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mTnFSOVBEelBVeElzanEtZV9QR3Z0TjAycU5MVXo4ZEdpMW5rM3JhWlFPdVlKVElCeHVod0NmVTNuZHA0bFlPeVRLeld2QkNERFBNVnpQUGV3bWFicTNBT1dzcDlmQQ?oc=5",
-      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
     }
   ],
   "official_links": [

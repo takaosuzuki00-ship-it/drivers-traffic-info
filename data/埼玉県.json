@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-08T18:03:12.166249",
+  "generated_at": "2026-07-08T21:02:51.614961",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 24.4,
+    "temp_max": 28.5,
+    "temp_min": 20.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 24.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警 (日テレNEWS NNN)",
@@ -33,19 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "令和8年夏の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、二輪車絡みも3件 今年初、昨年は6回発令（更新）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cmVrUlpheGFLLVVQQS1ZLVR4Sk9xbDhpYTFSUnNkWm5OcEd2OUkzam9JZmtRSXJrbEpWYzNsblRIeDhrZ2hYOFRjcFRjWjhiZjh6ZmdRMVVRZTgzZENGMjkyWjNEQQ?oc=5",
-      "date": "Tue, 07 Jul 2026 22:44:03 GMT"
-    },
-    {
-      "title": "春日部 市道で事故 自転車の女性死亡／埼玉県（テレ玉）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTX3hobU5zZjgzZTRETG9rdlJPbGJnYUNvT2dYb0d4RWh5THl1T0NmajFiWHpIdVFEdlpYeFFxLWFBZmpNbEN0MzFTREFrbFY1YTdhdURUS2FDZG9pT195Ny1ha2phbm11U1lwX0U4bm94LTgweEFyYmlKLUZ2T2s?oc=5",
-      "date": "Mon, 06 Jul 2026 09:19:53 GMT"
-    },
-    {
-      "title": "バイクの男子高校生が転倒し死亡　飯能",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcU5MdFpkaHhfSDNYV2JfTk14YlZjTmxEcE5wN1hLYXJOd3lFR2NwRnBvNXJiOHBvUjV0VkM2SlpXNWVWbzgxTTktZDZpeVAtRGpUcWNySXcyT0VKTjNqNXZjdl9lLS0xNGo1U1QteFgxUER1NUI5Z0FrM2pUWkZtTzJIZ9IBiAFBVV95cUxNLS1Yd0xnUzdNQmlQUktCWkRlazJ0Z1pvV2VEcDR5emxmYzN5Qk5rdHdQZkxWaUE5YUgyX3hUeENPN0NXR0NFdWNXd29hcGJSVHAtMW9wMTRDc2VveXRlY0d6MFc3VUlYZE93RnNERW9vem5NYW5vbzJtQzlxdlh5N2NNaFhzMW5h?oc=5",
-      "date": "Sat, 04 Jul 2026 23:01:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5welhJYjZsSVg3MFRobllXd3F5WGZUQzVvZFRDT0wtay1TUUZrWW8yVmxBVEhhX0VReXc4ZElBR3FYdlZEZ0RqbG5nUERNa0RLNUdpQno0Z0NoUmR3ZHhVOXExRXVieEYzU2FiWVJNbHlkY2ZqV2RFN1dpdDhiZG8?oc=5",
+      "date": "Mon, 06 Jul 2026 02:20:33 GMT"
     },
     {
       "title": "女性死亡…トラックに巻き込まれる 夕方の交差点で 女性は会社員49歳、自転車で走行中…トラックが女性側へ左折 運転手の男逮捕、違反の疑い「気付かなかった」",
@@ -53,9 +107,14 @@
       "date": "Mon, 06 Jul 2026 22:56:00 GMT"
     },
     {
-      "title": "外環道外回りで事故 中型トラックの男性死亡",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtV3N3OWJ5enlXZE9aUVQzUjFlM1I1NG1WSTNnOGRqRGpVV3V4S0JSU1dDclc3WjE0RnprVDIzNU94QUlZMkkxaWZLck44Z21hWHRVR2JfZw?oc=5",
-      "date": "Sun, 05 Jul 2026 01:01:00 GMT"
+      "title": "埼玉で死亡事故6件…多発警報を発令　6件のうち3件が午前中に発生、うち2件が二輪車絡み　今年初、昨年は6回発令",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWU1xQzY2b3o4QXV0QzE4bzFBOVVWMVZlcThWZjZNT0VGVVROMEZGdzZ3RE0tam1Xa2FKRE1pb2hkSTNyQmp6NmJUTU9jQ0pRakotbWMtcXlJeU5iMXhWMHZJdGt5MUJqajdkQ2xOUDk2STE3eUdxbUlUVlZ1LUJHR3lJTdIBiAFBVV95cUxNdUhncEZEcTNSM2I2TG9VUWhFN0V4SENGT2JWQTNId3MtSFQ3VF9YWF9uOGNXRGlyaGhwOUduWGdYSV81bTNVb19JUzY3b1VSbkRxWVBodWVhOXQwZm5WcXZkeW05SFFyOEU5bUZEcEhFWGlXcXlua3pWU3ZmTS1jdHNyeGJhQ1pm?oc=5",
+      "date": "Mon, 06 Jul 2026 02:18:00 GMT"
+    },
+    {
+      "title": "春日部 市道で事故 自転車の女性死亡／埼玉県（テレ玉）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTX3hobU5zZjgzZTRETG9rdlJPbGJnYUNvT2dYb0d4RWh5THl1T0NmajFiWHpIdVFEdlpYeFFxLWFBZmpNbEN0MzFTREFrbFY1YTdhdURUS2FDZG9pT195Ny1ha2phbm11U1lwX0U4bm94LTgweEFyYmlKLUZ2T2s?oc=5",
+      "date": "Mon, 06 Jul 2026 09:19:53 GMT"
     }
   ],
   "official_links": [
