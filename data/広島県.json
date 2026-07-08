@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-09T00:06:11.917603",
+  "generated_at": "2026-07-09T03:04:53.253483",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 24.2,
+    "temp_max": 30.1,
+    "temp_min": 23.8,
+    "precip_prob_max": 2,
+    "precip_sum": 0.1,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報",
@@ -26,9 +85,9 @@
       "date": "Mon, 02 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "7月7日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XOEdUM2dqdjkzUTRTb3dwZ1hpVXUyTHdqdWN1T2l3SHVpWm1qN1FtOTJHa3ZrOTR3ODZmck43eWdkSUFQQ0VJNUZUd2tnbm9TV21LaHBlaTUzaWpZN1NjcU04eFZXUEFvcEhRcGgtc9IBdEFVX3lxTE4zcDY0ZThWbC1lNm51d0JxR0lTakVKbW5KV2gzM3g5MVE0Nnh3NVFoOGI3SXUyZG1GQjN4Ql9fVWIwUi1RakRrRjBmOG1zdU11cWV1TkVEMHpPOWlzSFJ0SXhaZ203eDQzblExNlVvRnFaX0FI?oc=5",
-      "date": "Mon, 06 Jul 2026 20:03:51 GMT"
+      "title": "７月７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HNTVNUGpRUXk0Rmp2OWlhNnlFbmhhRDBWRUg4cjU3a190TE9pM0w2bEtzWGJUZUV0LVhaRkR0QmZXOGlwdU5GcTViT3FiOEJycXFtWUMwNFgzR0Y5aHBnZGJ0N1RraG5uSzVFRVVGdw?oc=5",
+      "date": "Mon, 06 Jul 2026 20:12:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "交通事故データ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
-      "date": "Thu, 02 Jul 2026 05:33:35 GMT"
-    },
-    {
       "title": "【速報】広島中心部で6台絡む事故 約2時間通行止めも",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEcFpLNjUtVDJwVEhOd2Z3YWdFekZFOHBLRUVoNTduWW9UbTJORERiS3A0bnlQSkhiSlZaMWdXbUlwbHVNSmFROEx0a2xNLW8zMnk2OEV1Z1g1VDNqdkF0Tks1UUlzYkEtZGxIOWlmeVQ5QQ?oc=5",
       "date": "Sun, 05 Jul 2026 08:52:56 GMT"
+    },
+    {
+      "title": "交通事故データ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
+      "date": "Thu, 02 Jul 2026 05:33:35 GMT"
     }
   ],
   "official_links": [

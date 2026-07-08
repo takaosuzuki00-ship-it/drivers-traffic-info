@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-09T00:05:48.473295",
+  "generated_at": "2026-07-09T03:04:35.341567",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.5,
+    "temp_max": 31.3,
+    "temp_min": 25.3,
+    "precip_prob_max": 22,
+    "precip_sum": 0,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 30.5,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 29.5,
+        "weather": "快晴",
+        "precip_prob": 22
+      },
+      {
+        "time": "21:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県",
