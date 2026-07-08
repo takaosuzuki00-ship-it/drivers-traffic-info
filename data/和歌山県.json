@@ -1,15 +1,69 @@
 {
-  "generated_at": "2026-07-08T21:05:03.187581",
+  "generated_at": "2026-07-09T00:05:34.832394",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 23.7,
+    "temp_max": 28.2,
+    "temp_min": 22.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "和歌山市長選挙を前に取締本部を設置 和歌山県警",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFY01WTFUzLS1lSmNnRWRhSTNMbUJjV3RuR0JCS1E3YU14dFhjbHBvekN5NEx1dWNpUmh3VUR1WTZTd3hlaHM1alJXZEQwV2FNQXk0Vm54VUk?oc=5",
-      "date": "Mon, 06 Jul 2026 09:26:00 GMT"
-    },
     {
       "title": "７月７日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGSG11Skw4Yzh6alJXeFJOUThKSmJfZ2FfQ0R2YkhIcmk0aURMR195VlZyVjhRY25QOGhRN09oWjJ1RGRfOWQwSWd2bVNIeERMYTVlYXVNakxFWmU2TWlvb3FYOHhHN3ZhMTBDX1liU1FyUdIBd0FVX3lxTE9lUTItdEhNNFNKczJoSUgxYXVBbEc4YXBEdjc0dlphcy16VzdBbllsX1c2NEhJeEFhc2NRWEdONmFpdVpMR1cyd3ZwZzk5WHh1emNYMmxuWGZVdnRZSVdtWlM0SDB4OXlNbmtkdXB3M2wwVG95TGZJ?oc=5",
@@ -21,14 +75,19 @@
       "date": "Sun, 05 Jul 2026 20:30:17 GMT"
     },
     {
-      "title": "７月６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkdOaHNKZko2UHJwYmJ6TjVEelVoakZreEx2WVkzVVlRUjRmTnhZMVRpZW91OXp0dG9kckZBOXVUQlVmbkdnNVo4V0NPczZSSXFDaHVUSXoyb29BWE50TlIzTGJPRzd2eUlNd3prUl9CeU9yam5mZjZQT1FHbXR1a3ktdjDSAXdBVV95cUxOX1NyakxfZnRQbUJpR2t6RkY1SjRfb2RmRjhyTXNrNV9NQkkxMEU5SnFqU3RvTUhYY21GdEdRQ3NkaldTLWNSdnN1RUR4QXhNVlBEbDItbTlfZ1lSNDJjRC1VMHhLeG55a0R1aFRmUTNER2lRV2FaSQ?oc=5",
-      "date": "Sun, 05 Jul 2026 20:07:29 GMT"
-    },
-    {
       "title": "７月５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12R0RSQ051R1luaWFfQXdqTDlVXzhZY2dqSy1qMWtRUXZtNU52aGE3N2Niekt1VTlJVmIwQkhweC1TcnYza1JZQ1piSl9wTENpX0NhcUtwejR4d3R5eXZ4b2YwemZuZVRteWVzakplNFZYZ9IBd0FVX3lxTE9KWGphR1NiSVJOdDdGZHZhc0xFTHJJcDI3OGxoSG5DeXI3QUhPYmpHWjNyZERGc1R4MVF6SDRCR3cyRGNnV2xjSUZDZ3o3RVVtcEhOZGlWd0VhT2JmbDE3WThEVGY1d1FQM2ZuMFlJaUliUGEyTnRn?oc=5",
       "date": "Sat, 04 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "6月30日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbmF3bXNiWXhBbzNJTzJNeExGYWhJZ2o0QWkwSlo4LTgybEtoclFVeklob25WV1VJaVFrbXRJZlYwOEpFRk5MLVJxek9YYTNvekxTTC1kNGhHTFFySUJLLUI5R0xqb29BNmJDNVJiY9IBdEFVX3lxTE1iNTNXUktHRnctTE5nSmxDWFNJNWRyU1ZOc09uZkJFaHdhNU5FNXR6SEJaNjRleTJEYTdMSF85SkNidHY4azFtTk1taEx2djlWcHFaU0dxaFdLcFhsZmpWOXVDb0pMS1NBbEF3ZjJ3QjVqYW11?oc=5",
+      "date": "Mon, 29 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "れいわ・山本太郎代表、大分市の高速道を時速149キロで走行 速度超過で摘発…罰金9万円、90日の運転免許停止処分",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhUWUyYThyV3dYNzZWOGg0SW9RSFF1ZUUzc3U2SDFiQ0h0dU1MVkREVzF1c19aVHNOWVNRRUlHeERfMENjeDFmS2lKWHZhWDQ?oc=5",
+      "date": "Fri, 03 Jul 2026 12:22:01 GMT"
     }
   ],
   "accident_news": [
