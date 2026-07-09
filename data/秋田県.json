@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-09T06:02:22.729348",
+  "generated_at": "2026-07-09T09:19:13.010272",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 22.3,
-    "temp_max": 27.8,
-    "temp_min": 21.7,
-    "precip_prob_max": 37,
-    "precip_sum": 0.1,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.5,
+    "temp_max": 27.9,
+    "temp_min": 21.3,
+    "precip_prob_max": 16,
+    "precip_sum": 0,
     "wind_speed": 5.8,
     "hourly": [
       {
@@ -21,59 +21,49 @@
       },
       {
         "time": "03:00",
-        "temp": 22.0,
+        "temp": 21.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 22.3,
+        "temp": 22.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 24.9,
+        "temp": 25.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "precip_prob": 10
       },
       {
         "time": "12:00",
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
         "temp": 27.4,
         "weather": "晴れ時々曇",
         "precip_prob": 10
       },
       {
-        "time": "15:00",
-        "temp": 25.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 4
-      },
-      {
         "time": "18:00",
-        "temp": 25.4,
-        "weather": "曇り",
+        "temp": 26.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.7,
+        "temp": 24.3,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkh4WldTcGZPLVhldjB3akJhUU1nT1g1OFMyLXNBZ1pPZ2VGUVQtTEg5TVlnMlFkRk1RTHRuQU5SNGpWSndrRnlaX0l2V0hObi1oOFpWeC03N1gtR0pIZmM4b0ozNER3VnNrMFBxOEt2MmRSSUFpeHV4bzFLNUhCU1d30gF0QVVfeXFMT1pQY01qUjR6V2tQVEVMLU94R3I0NzVGMWxOcFM3bXV2VnVNdXRsZkVIUGsxQzRxU0tsbzd1SlowUzFxQm9CdlJ5NjE2bjZqcGVoZUMwbG9BWVNSVDRKMnlBWFY4OHVjeWxOeV9QRllpNEhhWDI?oc=5",
-      "date": "Wed, 08 Jul 2026 20:08:22 GMT"
-    },
-    {
-      "title": "7月5日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9POTFCU0dlcGczb016Q3RhcWhObXhWMWctZHEwOE94Umg0NEt1cEtqVGxhcFFZMmpJMm5taHduTV9sZl83OEJXVWs3VW1iVmk3X1FISjBDNA?oc=5",
-      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
-    },
     {
       "title": "7月5日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MG9MOWdUbjVhdmJlRjlRSWFNLUk5V3pBZG5vU0EteFJOSGFlbUx1SWl6cXkxSmJUWExCNXphelR2STFUTlgwSndhQ0Z4NVU2Tkk5aG1DTkpzMm1NZmVGR21YUzNjb2lDeGZnM2tqa9IBdEFVX3lxTE5sZFVZWGVGSUtUUkl3QzNUbURrc2NKb2F4UTRkY1R3UVpuLUVzSUVpdDVtZXRXb0hYZHVTUUlLWTl5dVZOSEZPb2RqaVBfaGkyLUR6a2tHc2dXeVNMSjZZUEhQdmhtcVE5MVNXYlZKbGtkS3Nk?oc=5",
@@ -88,6 +78,16 @@
       "title": "衆院選 県警察本部が選挙違反取締本部を解散 事前の選挙運動に関する違反で警告2件 秋田",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IZ2VsM2ZwSUFFSjFHR25saEhDdjd6VVZ4VmZ4TjhfYTZwWDQtdGNCeDMxUThoelpBaDlialRfdmVNMjdpc1UteWwtYURORFdkb092WnZqeFZXa2dsWVUxU0FQdXpHeVE0S3NkU19zZDRqUkhlTUJCUjlMZERKYVE?oc=5",
       "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rWEJlSDlHMUIyQXAtNDJPTlRpUkhwQ1JoVzFsaVljZzZLMUpwbXp3RmFQUWg3WHltVmxnWUtwMm9BY0w3M29NcV96U2QwM2h5M28tUWhQZnRzWlRzVXhGdlRn?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山本れいわ代表６９キロ速度違反 東九州道、１４９キロで走行",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ybU5OSWQ1NXZ6MzNWclZ1blFQaGxFcjVBNC1HM3R6alZ0T0hOVWR5WTRQMDhaTHVIMGNNZDJlV25yMFh1aGFNaThoTTRJLUVNUXZTb2E1bEMyTmlRbjhrNU1R?oc=5",
+      "date": "Fri, 03 Jul 2026 11:00:27 GMT"
     }
   ],
   "accident_news": [
@@ -97,9 +97,9 @@
       "date": "Tue, 07 Jul 2026 01:15:00 GMT"
     },
     {
-      "title": "軽トラックの前に自転車が…事故直後の現場の様子をとらえる　軽トラにはねられ自転車の女性大けが　秋田市",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocGxhcEJLbzFPZ0owZVlvR2g1MXZYdlhBVmNBMUpTbXNrTmtDQkZ6bkprQzROSlBWMDlSYk5GSldmeFlDaER3bFVOMXEtM2tWSWdWSjVYQWhjRU53dmw5MDJ6SlVXOW9WZUZYRNIBckFVX3lxTE44REQwbndrWk1OU2FRYU1sQkg1MFpfSmVtRFNhcTltOGVkR1czZ0dGVlFKWVAxeE1kNWJsRk9FUWJnNUd6U3NpT1Uyb3BUYzRWRlh2UEM2VkN1ZFQ2NENCam1WUUl1Wm1idV9iT2ZBYXRZdw?oc=5",
-      "date": "Wed, 08 Jul 2026 08:00:00 GMT"
+      "title": "七夕行事に合わせて保育園で交通安全教室 短冊に交通安全への願いをしたため飾り付け 事故にあわないことを約束 秋田",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1yTTVrNFg2dkZTZmpqZEZBVGZJTWtzT3lPWFhia2szUnVEUHg1Q3JXRWtRQWlBMjY2UktERWp2aHBOXzh3NVBrS0NWWmI1S254RXRSRnA1UzBXTUszQWZnVFRxVVJMSTJpOVE0Mkg3VTY0cnN2eHg2ZGw5bW5KWlllMmJJRUE?oc=5",
+      "date": "Tue, 07 Jul 2026 09:09:00 GMT"
     },
     {
       "title": "見通しの良い交差点での事故…「コリジョンコース現象」が原因か 地元住民が注意していた場所では死亡事故も 秋田",
@@ -107,14 +107,14 @@
       "date": "Wed, 08 Jul 2026 09:09:19 GMT"
     },
     {
-      "title": "見通しの良い交差点での事故…「コリジョンコース現象」が原因か 地元住民が注意していた場所では死亡事故も 秋田",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10cF9RUnhETkVYeG15cE9OUmV3Sy0xYmZkTlVNOEZ2cmZqWHVnVXFsaFlfbGZvMVZyS21tVUhrd3o2ZnFHRG1MVTNoNA?oc=5",
-      "date": "Wed, 08 Jul 2026 12:42:04 GMT"
-    },
-    {
       "title": "「酒蔵の再生人」が酒蔵で酸欠か 日本酒ブームの陰で相次ぐ死亡事故 [秋田県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EX2J1YXlVTXg3SmJYZm1xWTN5RDVSa1hodWU2NDhDMGNOdk81Vkh5aXJOZm0zeThUb1I3aDUxZEpwX0xJM1pfalNMdjJUbWpFSTVBc21MeE55bDNWQ1pTVEhVN0pFSjQ?oc=5",
       "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋田市のブレード落下事故で最終報告書「構造上の問題と損傷の未確認が原因と推定」",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HWHlBak5EZHJ0TW1qSUVEaTVIdzB4VFA0QnU2U0xMVU1xWkxzSnQ1MUJPRmtaMFgzTTZWN0xfS2tlajgt?oc=5",
+      "date": "Wed, 21 Jan 2026 08:00:00 GMT"
     }
   ],
   "official_links": [
