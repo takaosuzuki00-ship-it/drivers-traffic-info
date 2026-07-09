@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-09T09:17:10.955710",
+  "generated_at": "2026-07-09T12:01:32.779759",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.5,
+    "temp_max": 24.2,
+    "temp_min": 18.8,
+    "precip_prob_max": 94,
+    "precip_sum": 1.0,
+    "wind_speed": 3.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.3,
+        "weather": "曇り",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "12:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 22.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月８日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XT2FmZ0lnYnRYU3licTZCODdsVUgwS2pCNnB6b2hrWS12cEpoZS1fV0hnMmJwZUdHTUYzM2dlZDlUYjNaT1hHamVpajhvejlWN3pOWWJMSTdGZUFFakZLRDdnY09xaUwxXy13TE5vN1o5QdIBd0FVX3lxTE92SlRDQ3NBRVJGR3Nna0VtaURJWTFpazF3RklfMXJ6VTZiUHBDUFU4bEVlb2s5TGk1SGxOYXdWTTV0djFwcDJTbVNrYVljSFZWV18weXRwQjhPSUVlZlNuOEZBOWFyNXVzOHlpZ1dlMXdjRnp0aHBJ?oc=5",
+      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DVnNCT2RyWGU0SXJFLUtDQnhlRjRNTU9fR2Q0NUlUbUFUdGc2d2h3YWI0bU5qbGlYMG9lNk1pNHFhLXF2Wm9RN3FxWTY0Skl6T1RoMGF5WTBudw?oc=5",
+      "date": "Wed, 01 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ekljUFZ5TFc5UEJRODdUSXBIN2VTeXV5OUNvakZ1SUJ3SHJ6UHBPdHN1MEdJSlJ4aDZXTDZUcU1BVkxxSnZ5MURfY0JSeTVWQlg1SWp0ZVRNaklzMXc1TGJTUFlwXzhKN1l0TXZORmpGZ1JqZzJSR0p0V2VvYmc?oc=5",
+      "date": "Wed, 01 Jul 2026 20:00:32 GMT"
+    },
+    {
+      "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abm8xNC1ick41Uy15RHNWOHhhVXFBU2dLQ1otcVJyRkpMUEJCbEI0R0UweGxPNnExbTJ5V3hldXVZNFdzWFFQLWxJLXZ6UGNfMktTZ3NwSzE1Z2pzenlGYnVsU0xvcmprX21uNktSMNIBdEFVX3lxTE1hMkpaNk1TeXYyejF0YWhsV0hjem4tWG1CVURCLTdRS294YUtTdXExbDMzcFRLVHA5ZEt0MnJHRGY0Qmk2RkRoLUExa29OeHRhUE5RNXNHUUs1LXRkRUFHSmdzeWhGZXhPZVZkOV81YzYtOFY3?oc=5",
+      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "0歳男児が意識不明の重体 青森の「事故多発交差点」で車同士が衝突 [青森県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTaGtuV0VXS3RvSjEtQlJCZ2dDOXdNVG5XMF9Na2lfOEtyX195OGZVbTUyUFNzNlR1YUhjWTFVTHdTVjRZWnRNQk1rN0pMZEhTbmd0RzUzd2dzc0pSakhxb1B1WVJKTEU?oc=5",
+      "date": "Wed, 08 Jul 2026 10:40:00 GMT"
+    },
+    {
+      "title": "【速報】重体の赤ちゃんが死亡 トラックと車の衝突事故 乳児1人含む3人病院搬送の事故 赤ちゃんは「真っ青だったの顔が…」「生きろ生きろ生きろ生きろって」 現場は『交通事故多発交差点』の1つ 青森県三沢市（ＡＴＶ青森テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fbmY0VVpidWU5cnZSM2lXYkIxSC1aVHdWeVF2cXNiSW9YNllGYjUya2oyVS03UTRYTmNmbzBkS2NMaFBqY3dNYmlBVFlzeTRKSm5vNkJrQ21nS1dOQmFIamdwbDVUaUo3MWRlR3VqT3NvT3dwR3hweG5Hdk5wUUU?oc=5",
+      "date": "Wed, 08 Jul 2026 23:50:24 GMT"
+    },
+    {
+      "title": "【詳報】赤ちゃんは「真っ青だったの顔が…」0歳乳児が意識不明の重体に 現場は『交通事故多発交差点』の1つ「赤いラインを先月引いたばっかりだった」 交差点でのトラックと乗用車の衝突事故 青森県三沢市 | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PdTlLMnJPRTE0OEhlZXlYdEpUeXk0WFFZWEtIUUw0V1lZdEFfYW90dHBqNGQ4ZUVPQ3owbmVIME5DV0FKeEROSjdfY1hCVEtpVnRMTU5SZXVfcFNjOXNrODN6VWt0Wjg?oc=5",
+      "date": "Wed, 08 Jul 2026 12:47:00 GMT"
+    },
+    {
+      "title": "重体の0歳死亡 トラックと車衝突",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UN293N1NwaGRHME1HblJtNnFVT2pTM2RNSS1QYjJ3amQtVXlGaWZIdkwycFFhdmZXclRaSWpDMC16RTRSSzRfVm1jNVZlZFN1?oc=5",
+      "date": "Thu, 09 Jul 2026 00:18:14 GMT"
+    },
+    {
+      "title": "死亡事故ゼロ記録達成 青森交通安全協会 青森市内4つの支部を表彰",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Sc2ZfZGU4NmhsN3FFWWFGWjE2dVFDVnJOdWYwbW1xLU8xQ0JNaEZQNWxwbmF1SkZVMDlPSEhHOG5fUmdpUFcyckNlVmtPRGlaQjh4b1FKcGg?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

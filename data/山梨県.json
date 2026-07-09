@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-09T09:20:04.107871",
+  "generated_at": "2026-07-09T12:03:00.169234",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 31.4,
+    "temp_max": 32.7,
+    "temp_min": 20.9,
+    "precip_prob_max": 8,
+    "precip_sum": 0,
+    "wind_speed": 2.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月9日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -16,9 +75,9 @@
       "date": "Fri, 03 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PdFFsT3R3a0Fwd3FYR0dtMDNlUk5VcU9wTVFVbkR3c0t6eFJMSjZvUkdWQ2lweVRQeVZoTGR6SDR5T3ViYnUxeUpnRlVFb1FkX01DZFhMSGZvZDg3WWhsM185RVJSd2h5ZlVnaTVxd9IBdEFVX3lxTE9aUGNNalI0eldrUFRFTC1PeEdyNDc1RjFsTnBTN211dlZ1TXV0bGZFSFBrMUM0cVNLbG83dUpaMFMxcUJvQnZSeTYxNm42anBlaGVDMGxvQVlTUlQ0SjJ5QVhWODh1Y3lsTnlfUEZZaTRIYVgy?oc=5",
-      "date": "Wed, 08 Jul 2026 20:20:05 GMT"
+      "title": "７月９日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDM3VGU2ak00Rk1ZTWlnSEJ5MXRiZEJZWkRUVktnczNOb2d6bUN2SUZnY0NYYjRpeUlTSlZxRE9xa05DWFFzaExsUXlHVzBja1pZV0JyTzBwU0h5YUw0QXRTVVhLSG1fS2cxR015LWNNd9IBd0FVX3lxTE92a2dla2hfRTNKMXV4eWlsQk5yeDZhZ3NTbEluU0lETXF1aURIaGJCbm5BVnJDVElHcTBBOUZsNEFWNnFBYjNGTlZfZ0V3OHB1VG1NTUdmcFQwd2NYTmdlc1RSc0dZcXdaanJ0YlZXX0dGY0xONFJV?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
@@ -38,14 +97,14 @@
       "date": "Wed, 08 Jul 2026 09:16:00 GMT"
     },
     {
-      "title": "国道１３７号 事故で一時通行止め",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JS1FIY0FuSFdrcjdKWXBCNmNGMVFKUTc5RHpYUm5wSDdqbjRlWlRLMkpmZDBkLU0tYVJDSzV2TU5hMm9wd1VjQ2FPaXVOZ3BPTXhQZVZGOVVvMjVEb3c2WUNBbHY?oc=5",
-      "date": "Fri, 19 Jun 2026 21:53:30 GMT"
-    },
-    {
       "title": "緊急走行中の救急車が車と衝突 救急隊員ら4人けが 急病人の搬送には支障なし 山梨（YBS山梨放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MemozRTNtTnBLQmNpTFQxM3hidDFDN2twVzdja2RBT0VCR1F5WDREbUo4a3d5OW9yaXluczQ4NTByNFlnVEVxQ0ZEbkljVngyb0tNN2dMY25PTHlKX1M2S0UzWmdQRVBveEJLOGZmZ0NMTVZXOGtSTW9FWGJmSHc?oc=5",
       "date": "Tue, 07 Jul 2026 11:27:00 GMT"
+    },
+    {
+      "title": "国道１３７号 事故で一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JS1FIY0FuSFdrcjdKWXBCNmNGMVFKUTc5RHpYUm5wSDdqbjRlWlRLMkpmZDBkLU0tYVJDSzV2TU5hMm9wd1VjQ2FPaXVOZ3BPTXhQZVZGOVVvMjVEb3c2WUNBbHY?oc=5",
+      "date": "Fri, 19 Jun 2026 21:53:30 GMT"
     },
     {
       "title": "車4台衝突し道路ふさぐ 女性1人が軽傷 通勤時間帯の事故で現場は一時混雑 山梨（2026年5月27日掲載）｜YBS NEWS NNN",

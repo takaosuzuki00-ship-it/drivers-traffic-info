@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-09T09:21:45.911983",
+  "generated_at": "2026-07-09T12:04:37.278679",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 29.0,
+    "temp_max": 30.0,
+    "temp_min": 24.7,
+    "precip_prob_max": 45,
+    "precip_sum": 0,
+    "wind_speed": 9.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "03:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.6,
+        "weather": "快晴",
+        "precip_prob": 22
+      },
+      {
+        "time": "18:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 20
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "麻薬取締法違反の疑いで福岡市西区の男を逮捕 福岡西署",
@@ -26,9 +85,9 @@
       "date": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZlprejU2MXNnVnBaRE1tVmFZUEVNcExteEFwSHhrVXVKd3FJaXlYWmJmUHRpaEVCeHBnaUNZaDNBemtMNTMyZHlLTG02a2xZODByaHpOWHBjcVN1MklzUGNITDdnY0t2QndTY2FhRG1Wdw?oc=5",
-      "date": "Sun, 26 Apr 2026 07:00:00 GMT"
+      "title": "福岡市早良区の山口組系組幹部らを逮捕 麻薬取締法違反の容疑、福岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UjQ2OGtveU5veHZFVzZMZ25Bbm5WdXlGZjhhTmU3OHpJeFZFdE03V1BVazU3RUF6X3NEZ3dVVlhiQXUwc2N1N0o5SHYwZ0ZuYkF4WVhB?oc=5",
+      "date": "Tue, 07 Jul 2026 08:35:00 GMT"
     }
   ],
   "accident_news": [

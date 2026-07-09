@@ -1,32 +1,101 @@
 {
-  "generated_at": "2026-07-09T09:19:03.546448",
+  "generated_at": "2026-07-09T12:01:40.835772",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.6,
+    "temp_max": 29.7,
+    "temp_min": 19.4,
+    "precip_prob_max": 29,
+    "precip_sum": 0.4,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 26.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "21:00",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "「遅刻しそうだった」男性巡査が31キロ超過、一般道で速度違反 所属長注意 岩手県",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ubjg4RnhPcDkzanJjcmd3d3ZudUpGdFF1UmkyVllGQlZRQkx3Wk5La0pMREdwWGVQekJRUE5TcENVOWJUQm5yT21xS2R1Zw?oc=5",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT"
+      "title": "7月9日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hMl95M21hb3dvSnIxdFhOMlBtZFl2b19JYjQtb3BWZENQMUhQTWl3VEZRRlppa0VoMDNwbTVkRE9oWXBVTlVqLXBHSDkyX0NzcndKZzhQTHhRTFFnb3FkbjB4ZEd1aXpIUUlvRGphUVNaUlBnblR4anBLaUhlcDg?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:34 GMT"
     },
     {
-      "title": "22歳男性消防士、酒気帯び運転の疑いで摘発 「5時間ほど散歩をし酔いがさめたと思った」岩手県盛岡市（岩手めんこいテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQXFRVjNnWmdBQmhMeVlDa2dFTDF3QmVFdEF4OEJneFpNWklIZ3B2VVpmZEJKTFF0bHhad1FZd3Y0SW40NkhnbG9LWEtUdzhBX0RidVNlYXNRdXI4UF9pZjBlTzhPNkZZZEZqTEpkaXNYVnlCcThRMGh6Y0hyYVk?oc=5",
-      "date": "Tue, 30 Jun 2026 06:00:01 GMT"
+      "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FT0Rwb1M4RGtRNzR0aktZZ2lHSDd6d2U5azR0UkZhU1BpTDRyQXI5U0Z6RTktWHFmMUROZWFoNWdRXzVlQlk5LVdSd1NiYldFMUFsX3JDMk5zZw?oc=5",
+      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "22歳男性消防士を懲戒免職処分　酒気帯び運転の疑いで摘発　「5時間ほど散歩をし酔いがさめたと思った」岩手県盛岡市",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOcVhVaTlFMThjMFhOZzJTRnhxVWZMUW11V0tmcjhyS29QRGF0VnFPWDgzbUFKRmZoakRsdGJRaTVTMnJlYk1QQmxqUTFtMXljbjhRWEhyNklrQ1JSbjJUdzJNY1RLYUwyeVdUMTlzUkJRVXBXSElTd3RIQjXSAYIBQVVfeXFMTkF2TVhBTjlxOEt2YUQxTHVOUXMxbnFVNGZmdkxZZ3RlcE1HUFo1Tnl3V3Y5WjRjczNxLWtweTFZcHZicVdsdmxvak04WTJlZk1sNVhZZ0ZEZ0Y3YUxKejh6NEZzUUxrbUhHQTdUd2NFOGdtQnJlWDJ1b3VFQUwzR01jUQ?oc=5",
-      "date": "Tue, 30 Jun 2026 13:15:40 GMT"
+      "title": "7月9日（木）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjBSVGhJR1UzVk5Xal9saWlKNG5UUS02VUpfdXZoQlNTNU5YRWwtdjZkNmdIQ2FpQURmUlVwWGVmMkcxUnpNOHpvMmZOa1hGb2ltTnZwaE9tRFhJVlNXQk5GY0ZNbVZVR1FCeUVtemY5REU5M3N2UzQtV3dRYjc2U05EV1FlaGg2ZFVHTnZR?oc=5",
+      "date": "Wed, 08 Jul 2026 21:02:15 GMT"
     },
     {
-      "title": "誤った標識の設置で交通規制の効力が無効に 誤った摘発も発覚、県警が反則金の返還手続き進める 岩手",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rS0o5NDMxeWZseVROSEdqTjdRY2FralJDbGFfZUc4SGhRNjh4RmZxRXh1Q3k3SzNZSE9sdzNNMGYybnBxbXQ3SWxuLVJpNVo4ck0yTVBEOA?oc=5",
-      "date": "Mon, 19 Jan 2026 08:00:00 GMT"
+      "title": "7月6日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oei1PUkhFLXgtSXphYlRXYkJkUkRDeFNGVWZkUi1kV3NqbkVqd0R3OE1mdGx1QnZkaEpJYU1RZ3pDQXJGLTZoaWo1a25ocEZjVHVNQzY1Yw?oc=5",
+      "date": "Sun, 05 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月5日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EYkVVVkRmSVhVNmg4MmppOVBKbVdYWld0N0lGRUd5c2tLV0hWVTBWZ0Q1aGROWHltSjViSHRsckpPNGRyUVNQaFFQSlZZZ0NURS1rZ2dkd0FjQQ?oc=5",
+      "date": "Sat, 04 Jul 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "プレスリリース：［JAF岩手］花巻警察署が実施する活動に協力！夏休み期間の子どもの交通事故防止へ（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HUjBQVktHY191a0xpaHNsSG1mM1dKaGlLRzlpOFlvN0NWV2hXTndJc0lTZW1NNU5lenBXMXdqa0o4azk5d3huYjJLQ0ZDcXptQlNPcW1PREE1aWdkd0UwM1RMb2FaTi03?oc=5",
+      "date": "Thu, 09 Jul 2026 01:51:44 GMT"
+    },
     {
       "title": "一関 スタントマンが自転車事故再現の交通安全教室 岩手",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4ZlI5VTgtVUZhU21mNnNlQkVDVTFpdy1QVWpGdFFScFhzSmRmeFRYWklGVlNLcFZNSFhrX0Q3UlNfZ0F4b0hwNGVMUEZGcUtET3dVMEVTcEM?oc=5",
@@ -38,19 +107,14 @@
       "date": "Tue, 23 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "東北道、事故のため一時通行止め",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zUzFCa3djWExaaDkteXltSkZnbzR1dEVCR25raGtoQWVHelZEZ29IdDFWNjJuaGNFckxPWU83TDdBTEtFZ0NGbmRkMDRISUh0enU1cG9wTG5uSGZ2WGJ1bA?oc=5",
-      "date": "Sun, 28 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "三陸鉄道 列車がトンネル内で人身事故 7日は朝から平常通り運転 岩手 | IBC NEWS | IBC岩手放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjS3ZOUDRmN0VFdERMNEVwVEZxcDA2Y0tidzJrR1FGNlpPWG9jRVpBdkVOdEd2YktSLWVYVWRrVnBWSXo3ZE0tTVZONHdSNzBmWHJVNDE5Smxmdmp1a3MzLUVUUk9TMWM?oc=5",
       "date": "Tue, 07 Jul 2026 02:26:00 GMT"
     },
     {
-      "title": "三陸鉄道 織笠トンネル内で人身事故【岩手】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sV1hZTmctaEx2UGhLeEdubEV3eUVOaHR6NmkweE41dVNjU2NxcDBiWGtoQmptdktVM2kxVTVBMUVibGUxbHZNbElWbFZTdDZvbERGX3JCaw?oc=5",
-      "date": "Mon, 06 Jul 2026 09:51:15 GMT"
+      "title": "盛岡市で衝突事故、男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rM1NyUkJ0bVRVUjFkR1hLZkJiYmFFbDZod0RIN1hmTW9qM2t1QmVtMjR0OHJIX1ZWWEJFcnJHTnlRcXZ5ZDFlbnYxTkxjTllxLXRBZUVyay1KRThRc1B4bQ?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
