@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-07-09T21:02:13.046681",
+  "generated_at": "2026-07-10T00:02:04.018837",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 25.8,
-    "temp_max": 32.5,
-    "temp_min": 20.3,
-    "precip_prob_max": 18,
-    "precip_sum": 0,
-    "wind_speed": 2.2,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 24.0,
+    "temp_max": 33.7,
+    "temp_min": 22.2,
+    "precip_prob_max": 67,
+    "precip_sum": 1.1,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.7,
+        "temp": 24.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.9,
-        "weather": "晴れ",
+        "temp": 22.7,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 21.4,
-        "weather": "晴れ",
+        "temp": 23.2,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 26.0,
+        "temp": 28.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 30.4,
-        "weather": "曇り",
+        "temp": 32.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 32.5,
-        "weather": "快晴",
-        "precip_prob": 8
+        "temp": 33.7,
+        "weather": "晴れ",
+        "precip_prob": 31
       },
       {
         "time": "18:00",
-        "temp": 29.0,
-        "weather": "晴れ",
-        "precip_prob": 18
+        "temp": 30.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
       },
       {
         "time": "21:00",
-        "temp": 25.8,
+        "temp": 26.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "7月7日（火）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aRmxzcTdXMDJQUENjVXR2OGVNU3BDLTFhcUhVMmJsRTYzdFFkRVlaSUpWU0FackVpZkxXTlppWTEzUFVLUUxvcGViT2czZl9oN0lYb0pxaw?oc=5",
+      "date": "Mon, 06 Jul 2026 20:02:00 GMT"
+    },
+    {
       "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PdFFsT3R3a0Fwd3FYR0dtMDNlUk5VcU9wTVFVbkR3c0t6eFJMSjZvUkdWQ2lweVRQeVZoTGR6SDR5T3ViYnUxeUpnRlVFb1FkX01DZFhMSGZvZDg3WWhsM185RVJSd2h5ZlVnaTVxd9IBdEFVX3lxTE9aUGNNalI0eldrUFRFTC1PeEdyNDc1RjFsTnBTN211dlZ1TXV0bGZFSFBrMUM0cVNLbG83dUpaMFMxcUJvQnZSeTYxNm42anBlaGVDMGxvQVlTUlQ0SjJ5QVhWODh1Y3lsTnlfUEZZaTRIYVgy?oc=5",
       "date": "Wed, 08 Jul 2026 20:20:05 GMT"
+    },
+    {
+      "title": "７月９日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDM3VGU2ak00Rk1ZTWlnSEJ5MXRiZEJZWkRUVktnczNOb2d6bUN2SUZnY0NYYjRpeUlTSlZxRE9xa05DWFFzaExsUXlHVzBja1pZV0JyTzBwU0h5YUw0QXRTVVhLSG1fS2cxR015LWNNd9IBd0FVX3lxTE92a2dla2hfRTNKMXV4eWlsQk5yeDZhZ3NTbEluU0lETXF1aURIaGJCbm5BVnJDVElHcTBBOUZsNEFWNnFBYjNGTlZfZ0V3OHB1VG1NTUdmcFQwd2NYTmdlc1RSc0dZcXdaanJ0YlZXX0dGY0xONFJV?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -78,16 +88,6 @@
       "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abm8xNC1ick41Uy15RHNWOHhhVXFBU2dLQ1otcVJyRkpMUEJCbEI0R0UweGxPNnExbTJ5V3hldXVZNFdzWFFQLWxJLXZ6UGNfMktTZ3NwSzE1Z2pzenlGYnVsU0xvcmprX21uNktSMNIBdEFVX3lxTE1hMkpaNk1TeXYyejF0YWhsV0hjem4tWG1CVURCLTdRS294YUtTdXExbDMzcFRLVHA5ZEt0MnJHRGY0Qmk2RkRoLUExa29OeHRhUE5RNXNHUUs1LXRkRUFHSmdzeWhGZXhPZVZkOV81YzYtOFY3?oc=5",
       "date": "Tue, 07 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "７月７日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGSG11Skw4Yzh6alJXeFJOUThKSmJfZ2FfQ0R2YkhIcmk0aURMR195VlZyVjhRY25QOGhRN09oWjJ1RGRfOWQwSWd2bVNIeERMYTVlYXVNakxFWmU2TWlvb3FYOHhHN3ZhMTBDX1liU1FyUdIBd0FVX3lxTE9lUTItdEhNNFNKczJoSUgxYXVBbEc4YXBEdjc0dlphcy16VzdBbllsX1c2NEhJeEFhc2NRWEdONmFpdVpMR1cyd3ZwZzk5WHh1emNYMmxuWGZVdnRZSVdtWlM0SDB4OXlNbmtkdXB3M2wwVG95TGZJ?oc=5",
-      "date": "Mon, 06 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "7月7日（火）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・携帯電話・シートベルト",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTRsRjRrcjJHSHdzM2J0cm1DUl9pSlo3RUMyV2V4MXQwNEFSNjZMdlBZQ3RWa0U0dVlsZktTTXdmSjdjSlZvdHdsS1hKTURZOHM1SkxUVHZsaV8wc1VSZ21hNm93SG95eWV0TWRiZ9IBdEFVX3lxTE1zV2VVaHNTQ21PUWtIRmY5RGVRY3Q0ZTM3MnFleXN0dTdFSkl6WmZkMldsaFpxRFlXVTVuaGhEd21QcmMzQlp5UHYxRk1IUVFxVHZSa1RfVlNaWHFoelFtNFFLc0JGYjJCNzI4NlpRNXItSTZK?oc=5",
-      "date": "Mon, 06 Jul 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
