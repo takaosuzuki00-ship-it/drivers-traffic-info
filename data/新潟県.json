@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-07-10T06:03:32.781043",
+  "generated_at": "2026-07-10T09:02:45.139021",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.1,
+    "temp_max": 28.5,
+    "temp_min": 23.1,
+    "precip_prob_max": 71,
+    "precip_sum": 0,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
+      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
+    },
     {
       "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNEt6eVlmMmkteHBIa0NnSC1hRFFGYWQ0LXJlTW16TDhJaHp4c0V1M0VDemdWVktISFk3R3RsR2FtM1liLTRtLTFYNHR1T3RhNm5uQ3BrSHVRNTZpUTgxQUN3UTNWa0hvSDBMZlNEc9IBdEFVX3lxTE1mWEVqLW1LLXhLQy1xck52Q1dxUV9SR0xXY2JLOEozZTRqNXpHdEtHYXoxaG9ZdjRRakhfd01lcUt0Z2tHSk01cEhzdWxnZFR2YXVqZzZlTGZkUDk0M1BiRU9Zd2hYREpVOUpVZU5TRWxidERq?oc=5",
@@ -16,22 +80,22 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "7月7日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XOEdUM2dqdjkzUTRTb3dwZ1hpVXUyTHdqdWN1T2l3SHVpWm1qN1FtOTJHa3ZrOTR3ODZmck43eWdkSUFQQ0VJNUZUd2tnbm9TV21LaHBlaTUzaWpZN1NjcU04eFZXUEFvcEhRcGgtc9IBdEFVX3lxTE4zcDY0ZThWbC1lNm51d0JxR0lTakVKbW5KV2gzM3g5MVE0Nnh3NVFoOGI3SXUyZG1GQjN4Ql9fVWIwUi1RakRrRjBmOG1zdU11cWV1TkVEMHpPOWlzSFJ0SXhaZ203eDQzblExNlVvRnFaX0FI?oc=5",
-      "date": "Mon, 06 Jul 2026 20:03:51 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abm8xNC1ick41Uy15RHNWOHhhVXFBU2dLQ1otcVJyRkpMUEJCbEI0R0UweGxPNnExbTJ5V3hldXVZNFdzWFFQLWxJLXZ6UGNfMktTZ3NwSzE1Z2pzenlGYnVsU0xvcmprX21uNktSMNIBdEFVX3lxTE1hMkpaNk1TeXYyejF0YWhsV0hjem4tWG1CVURCLTdRS294YUtTdXExbDMzcFRLVHA5ZEt0MnJHRGY0Qmk2RkRoLUExa29OeHRhUE5RNXNHUUs1LXRkRUFHSmdzeWhGZXhPZVZkOV81YzYtOFY3?oc=5",
-      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "交通事故防止に捧げた半世紀…古俣侃さん（新潟市西区）に「警察協力章」、民間人最高位の栄誉",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ERzdQdWFVOEJHZFMwWTZldTItVloyU2Nqako4QWVKcGVlWGNqMF9MNXBqZmtwNGc2WGFTREdNYW1KQU5Bc3ZkSEFfeVA4cy1OSUE1Q0hJbHNGMG9fbWc?oc=5",
+      "date": "Thu, 09 Jul 2026 23:00:00 GMT"
+    },
     {
       "title": "【出血性ショックにより死亡】新潟市秋葉区で交通事故が発生",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1yby15aVBpVTk1RzRBdmxHS1FrYlVRLVY4ZUM3aW1QWnhqeFNjNm1RS3Iyc0QtNU0zbnQtRFlyQmwzc09R?oc=5",
@@ -51,11 +115,6 @@
       "title": "新潟 急病人搬送中の救急車が乗用車と衝突 別の救急車が搬送",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzcXF6cnNoVnJOVDJjMElFdERiREtBUkR0QkpTRmVDYzJZYWo2WkdRLUtBNk5JM0lpNzhQdzRmbWRQWkFmTDJkSGFOaGdSbWVRTUJFcUR2VVI?oc=5",
       "date": "Sun, 05 Jul 2026 07:13:00 GMT"
-    },
-    {
-      "title": "70代男性患者を搬送中の救急車が交通事故 交差点で別の車と衝突 事故の後、他の救急車で搬送《新潟》",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUpYbkpNdENEUW95N3d0M1c2RlRxQjJPdDhzZDBqUFIwR2hhOFlRWGVsZ1dmUE9XV1U0YTZHTnd5dmZJR3dfZk5Cc0x6QnE5aTJkMDR6Tjk1RnE0VkNfMmhxUnNfX3NLSV8xWk9ibERydGtpOEo0ci1FSkg1b2NNemYzV2EzdUkx?oc=5",
-      "date": "Sun, 05 Jul 2026 05:52:00 GMT"
     }
   ],
   "official_links": [

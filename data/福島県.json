@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T06:02:38.613020",
+  "generated_at": "2026-07-10T09:02:10.732293",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 23.5,
-    "temp_max": 33.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 28.5,
+    "temp_max": 33.6,
     "temp_min": 22.5,
-    "precip_prob_max": 67,
-    "precip_sum": 2.0,
-    "wind_speed": 1.8,
+    "precip_prob_max": 71,
+    "precip_sum": 2.4,
+    "wind_speed": 3.5,
     "hourly": [
       {
         "time": "00:00",
@@ -21,8 +21,8 @@
       },
       {
         "time": "03:00",
-        "temp": 22.9,
-        "weather": "晴れ",
+        "temp": 23.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
@@ -33,41 +33,46 @@
       },
       {
         "time": "09:00",
-        "temp": 28.1,
+        "temp": 28.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.4,
+        "temp": 32.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 33.8,
+        "temp": 33.6,
         "weather": "晴れ",
-        "precip_prob": 31
+        "precip_prob": 24
       },
       {
         "time": "18:00",
-        "temp": 29.7,
-        "weather": "霧雨",
-        "precip_prob": 67
+        "temp": 30.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
       },
       {
         "time": "21:00",
-        "temp": 26.1,
+        "temp": 26.4,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNEt6eVlmMmkteHBIa0NnSC1hRFFGYWQ0LXJlTW16TDhJaHp4c0V1M0VDemdWVktISFk3R3RsR2FtM1liLTRtLTFYNHR1T3RhNm5uQ3BrSHVRNTZpUTgxQUN3UTNWa0hvSDBMZlNEc9IBdEFVX3lxTE1mWEVqLW1LLXhLQy1xck52Q1dxUV9SR0xXY2JLOEozZTRqNXpHdEtHYXoxaG9ZdjRRakhfd01lcUt0Z2tHSk01cEhzdWxnZFR2YXVqZzZlTGZkUDk0M1BiRU9Zd2hYREpVOUpVZU5TRWxidERq?oc=5",
-      "date": "Thu, 09 Jul 2026 20:08:41 GMT"
+      "title": "7月7日（火）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aRmxzcTdXMDJQUENjVXR2OGVNU3BDLTFhcUhVMmJsRTYzdFFkRVlaSUpWU0FackVpZkxXTlppWTEzUFVLUUxvcGViT2czZl9oN0lYb0pxaw?oc=5",
+      "date": "Mon, 06 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkh4WldTcGZPLVhldjB3akJhUU1nT1g1OFMyLXNBZ1pPZ2VGUVQtTEg5TVlnMlFkRk1RTHRuQU5SNGpWSndrRnlaX0l2V0hObi1oOFpWeC03N1gtR0pIZmM4b0ozNER3VnNrMFBxOEt2MmRSSUFpeHV4bzFLNUhCU1d30gF0QVVfeXFMT1pQY01qUjR6V2tQVEVMLU94R3I0NzVGMWxOcFM3bXV2VnVNdXRsZkVIUGsxQzRxU0tsbzd1SlowUzFxQm9CdlJ5NjE2bjZqcGVoZUMwbG9BWVNSVDRKMnlBWFY4OHVjeWxOeV9QRllpNEhhWDI?oc=5",
+      "date": "Wed, 08 Jul 2026 20:08:22 GMT"
     },
     {
       "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -80,11 +85,6 @@
       "date": "Tue, 07 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "７月７日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGSG11Skw4Yzh6alJXeFJOUThKSmJfZ2FfQ0R2YkhIcmk0aURMR195VlZyVjhRY25QOGhRN09oWjJ1RGRfOWQwSWd2bVNIeERMYTVlYXVNakxFWmU2TWlvb3FYOHhHN3ZhMTBDX1liU1FyUdIBd0FVX3lxTE9lUTItdEhNNFNKczJoSUgxYXVBbEc4YXBEdjc0dlphcy16VzdBbllsX1c2NEhJeEFhc2NRWEdONmFpdVpMR1cyd3ZwZzk5WHh1emNYMmxuWGZVdnRZSVdtWlM0SDB4OXlNbmtkdXB3M2wwVG95TGZJ?oc=5",
-      "date": "Mon, 06 Jul 2026 20:00:00 GMT"
-    },
-    {
       "title": "7月7日（火）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・携帯電話・シートベルト",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTRsRjRrcjJHSHdzM2J0cm1DUl9pSlo3RUMyV2V4MXQwNEFSNjZMdlBZQ3RWa0U0dVlsZktTTXdmSjdjSlZvdHdsS1hKTURZOHM1SkxUVHZsaV8wc1VSZ21hNm93SG95eWV0TWRiZ9IBdEFVX3lxTE1zV2VVaHNTQ21PUWtIRmY5RGVRY3Q0ZTM3MnFleXN0dTdFSkl6WmZkMldsaFpxRFlXVTVuaGhEd21QcmMzQlp5UHYxRk1IUVFxVHZSa1RfVlNaWHFoelFtNFFLc0JGYjJCNzI4NlpRNXItSTZK?oc=5",
       "date": "Mon, 06 Jul 2026 20:02:00 GMT"
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "JRいわき駅そばの交差点で交通事故 70代男性が死亡（KFB福島放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kUVBjRHg1V2ZEeVF6OEVybUxxcHhXbVBrSEF3TkJJQ3lYR3dIUGhncWROSHNhREprWmFySWVSeEZiMmtQQWNYUF9SYVNCZkFhLThKMXRrR0hNcV9aUTlhZGJOU2lHR2VTaHRRcWZYeXNQTlB4U0d0UDl6eDh0SVU?oc=5",
-      "date": "Sun, 05 Jul 2026 09:18:39 GMT"
+      "title": "事故多発の福島県内６地点調査へ 福島・森合ガード下交差点など",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TMndlSlhfWE9pY2NnVF9ZT0NkZ0huWVRualdzSHlpWHRkUWR1N1E3NURPdDVvRG5MVzg5SEducHp1OHJqcGVvTEV3bw?oc=5",
+      "date": "Thu, 09 Jul 2026 23:10:00 GMT"
     },
     {
-      "title": "中学生５人お手柄、交通事故でけがの女性救助 福島北署が感謝状:地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54aDNrd3JXTVVkR2VOb19FeTdXdnZOZ2VjYVA1ZS1BTnhQOFUwTkdQQkd0c1FvRjc0ZWtLYUExTGtEcVJvd0lHVXlkZlR0VndZYVRSdlUySklXbTQ2U25jem1nRmVxb3JJ?oc=5",
-      "date": "Wed, 01 Jul 2026 23:55:00 GMT"
+      "title": "事故多発の福島県内6地点調査へ 福島・森合ガード下交差点など（福島民友新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBalVMc3FlWmk2ckpnSmVCNFRhYlU0WEd3UVlQZzZaVEhmTE1QSnZxV09rOVpSUXNFaFZlRm91dHlyRVp2OTJCdzRGNkFuQVIyUVVqU291dGFLa2pwYml5ZnpQdmFabC1CNjJmX0tkSXlDaGI4T2w2V3c1NGtIcDQ?oc=5",
+      "date": "Thu, 09 Jul 2026 23:39:15 GMT"
     },
     {
       "title": "地域の交通事故抑止誓う 県南方部連絡協",
@@ -107,9 +107,9 @@
       "date": "Tue, 07 Jul 2026 02:00:00 GMT"
     },
     {
-      "title": "【更新】横断歩道を渡っていた男性(76)と乗用車が衝突 男性は死亡 いわき市・福島（2026年7月4日掲載）｜日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCeVB5bjNXLTVhZ0tyajJVbkpQZHpLR2ZKbFVNeGROVjRKMGc2MFdPcEVBNUk5ZmVYczFZV3BTYUFUSThWbnYybnNtZWZoSkVuNXNZdXpTSHBoOHUxblZ2WndyRlc3SW9iZ3ZGMDJERlpXV05aZjdFR2hISUFQcHc?oc=5",
-      "date": "Sun, 05 Jul 2026 02:29:00 GMT"
+      "title": "中学生５人お手柄、交通事故でけがの女性救助 福島北署が感謝状:地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54aDNrd3JXTVVkR2VOb19FeTdXdnZOZ2VjYVA1ZS1BTnhQOFUwTkdQQkd0c1FvRjc0ZWtLYUExTGtEcVJvd0lHVXlkZlR0VndZYVRSdlUySklXbTQ2U25jem1nRmVxb3JJ?oc=5",
+      "date": "Wed, 01 Jul 2026 23:55:00 GMT"
     },
     {
       "title": "交通事故の現場で人命救助 中学生５人に警察から感謝状 福島",
