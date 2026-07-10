@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-10T12:04:44.018312",
+  "generated_at": "2026-07-10T15:03:27.453689",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.3,
+    "temp_max": 28.3,
+    "temp_min": 22.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通指導・取締情報",
@@ -33,19 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "「安全を つなげて広げて 事故ゼロへ」静岡市で夏の交通安全県民運動 出発式 7月11日から20日まで（テレビ静岡NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83UjlLdUxySnF5SGpJVlJyQ1hBUlZxdEpmM2VzX1hfMDV0ZVNPYUM1OXRMNmtkVFNKd3RWVl9hUGRPbV9QQXZtdlNMcnp3dFpNbWk1Umd5NmplM2lYaHR5bjNORnFPV1NobVFQNENfV1BRY3JaeUZyb0xtN0RFem8?oc=5",
+      "date": "Fri, 10 Jul 2026 03:02:01 GMT"
+    },
+    {
       "title": "国道246号でトラックとトレーラーの衝突事故、2人けが 車が交差点をふさぎ現場付近は一時通行止めに＝静岡・長泉町",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqNHFqTkJXWTZvbDkyZ3otZVUtckpqakdvNUhDdW1HdkUweFpmdmxNdHBYTmZSM1RGTmhIZXFfZnQzajlJQ21rNld3RlBTbmp1U0dUbm45Zw?oc=5",
       "date": "Tue, 07 Jul 2026 22:40:00 GMT"
     },
     {
-      "title": "交通事故防止へ!静岡県警と静岡新聞社が定期的な広報啓発活動で連携「週刊YOMOっと静岡」などで交通ルール発信へ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VlNNZVNZVjBUUEFDTjFLSUdFODdqZFNXSmpIOGNhOEFBaVBqY1FfcExpNTBfaS1wR1FJY3ZoNHE4OFZ5OEVnVG9yVGFEMThJeXdFOXlsUVotdDg2NXJzRHRqOG9KM2lPRF9QQkowYkpLeGlOcEw0dGRMbFMzdW8?oc=5",
-      "date": "Tue, 07 Jul 2026 10:25:23 GMT"
-    },
-    {
-      "title": "【図あり】横断歩道のある交差点「右折事故」が全体の６割 静岡県警が過去５年の歩行者死傷交通事故を分析",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xWWdIaF9qSEJicDlDWTVKMkhnZWxlTGNGakkyckMxMkNIWDE5MWl0N3RnZ2ZESEhZc0dRWWNoR1c1SUNwQTlqNGdJOXBndw?oc=5",
-      "date": "Thu, 09 Jul 2026 09:41:00 GMT"
+      "title": "国道246号でトラックとトレーラーの衝突事故、2人けが 車が交差点をふさぎ現場付近は一時通行止めに=静岡・長泉町 - at",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oM0Z6UHc0dkh4X0h5Rk5hYkR5aFZDV2pzQ1ZkQlp2LXZNUlVtMGIxQXRxTmhjcEdMZGV6cnBLX092dlZaOTBqTjN1M0VoaFdyQ3BOcURKVzVEZTZBWDU3RA?oc=5",
+      "date": "Tue, 07 Jul 2026 23:06:47 GMT"
     },
     {
       "title": "めざせ！交通事故ゼロのまち",
@@ -53,9 +112,9 @@
       "date": "Wed, 01 Jul 2026 05:04:29 GMT"
     },
     {
-      "title": "交通死亡事故ゼロ1200日 静岡県菊川市が「交通安全優良市町」に",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RU3kyZVZFekVxZ1REUnNESUNZcC12d0JpaEhGOE5TQy1qXzVVdVlnS1RZbkpOSDJnWFg3NkVYaXBpcVhDY2FETEJfWGhIY2RDMTU0djFUS2czenBTSDlKMzJiYU9qOVk?oc=5",
-      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+      "title": "「夏の交通安全県民運動」に向け出発式 スローガンは「安全をつなげて広げて事故ゼロへ」自転車の安全利用など呼びかけ=静岡県警（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0teFdsZTl3bmxmaGlqaXRTV21JUTRRd1VJS1d1VnQzXzRGN2hJM09SZzREYVJsTnlOSVB3YmNac1B4V1IzYVExY1VDMzVzRjFjUFNJd0dlLXk1WTlfUjQ2Y1ZIQmFNc1ZaQ2xQSk0xQy00UzBNV2tLNWEzWTNxc28?oc=5",
+      "date": "Fri, 10 Jul 2026 03:45:26 GMT"
     }
   ],
   "official_links": [
