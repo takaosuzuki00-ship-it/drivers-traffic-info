@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-10T21:04:37.806041",
+  "generated_at": "2026-07-11T12:30:08.768455",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 24.8,
-    "temp_max": 34.7,
-    "temp_min": 23.0,
-    "precip_prob_max": 20,
-    "precip_sum": 0.4,
-    "wind_speed": 1.5,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 30.5,
+    "temp_max": 30.7,
+    "temp_min": 23.6,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 7.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.3,
+        "temp": 24.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 23.8,
+        "temp": 24.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 23.8,
+        "temp": 23.9,
         "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 27.5,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 32.4,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 33.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 26.8,
-        "weather": "弱い霧雨",
         "precip_prob": 2
       },
       {
+        "time": "09:00",
+        "temp": 27.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 30.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 29.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 26.2,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
         "time": "21:00",
-        "temp": 24.8,
-        "weather": "晴れ",
-        "precip_prob": 20
+        "temp": 24.6,
+        "weather": "曇り",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
     {
       "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ZzVCUjlWRUhOcDNoNDJOOWk2azZvRm5Wbm5NTVlSYkF3a002QVVVdGpfZFJHdmJHanN3aXQ2eEQzMjFfZ0tqNDUxdHJtMG5SY2VUcWh4MHVZYmU0MXQtbE5YbFZXc0J4ajJ0U095ZDk?oc=5",
@@ -80,11 +85,6 @@
       "date": "Sat, 16 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「事前検挙も辞さない」衆院選へ 長野県警が取締本部設置 | SBC NEWS | 長野のニュース | SBC信越放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51eVQxNmFRRlpobDk1THpjeFU2Nm9GNFdTNFN4cFI1V2xZWW1ndFpfRGtDWVdjU3JXd0p2SzVtYVVDQVBjWnlKdzBwRUtack1FdHNZZjdnM2g1Zw?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
-    },
-    {
       "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
       "date": "Thu, 11 Dec 2025 08:00:00 GMT"
@@ -92,14 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "今年、長野県内で起きた交通事故2162件・死者19人 夏休みシーズン「安全運転」呼びかけ 7月11日から「夏の交通安全運動」",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9abklYWkZ4SzFyNjl2a3BScXBneHNnVHAxbE9ZWm1kTHBvSEJJNzVsc2ZrM2w1R2F2d19lazZ4NXV5eU5kRUg4VU1CdjhMZw?oc=5",
-      "date": "Fri, 10 Jul 2026 02:53:00 GMT"
-    },
-    {
       "title": "【長野県東御市】市内の交通死亡事故ゼロが2000日に到達",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVkZQeWMwV1FudHJheDlGN25xeWdpTDNwR0hhT21xbzVsempwNElvZ0hKQWc1Qnhfc3lGeWVablZheVpEeVJIY2NFeDNzVVczeDc0amx5WVlyYjBQdDZxenQzTUZfdGJTamc?oc=5",
       "date": "Thu, 09 Jul 2026 02:10:02 GMT"
+    },
+    {
+      "title": "今年、長野県内で起きた交通事故2162件・死者19人 夏休みシーズン「安全運転」呼びかけ 7月11日から「夏の交通安全運動」",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sZnN5YVlLYW5vV1RlYm9CZmtRbGpKVnJEV3pMdXpaT19aTmU1RUh4WVM0MXhFZFNvSzFyQnhDMFZuRVp5UFd0b2FhMi00VlRpcVJEeFY5NmcwcXBrcjNlRDVueDhDTDNfYmcxbVIwclJTdWRSNWdVcUtOQ29pMVE?oc=5",
+      "date": "Fri, 10 Jul 2026 02:54:01 GMT"
+    },
+    {
+      "title": "「基本の交通ルールを」 11日から夏の交通安全やまびこ運動 長野県内は交通事故減少も横断歩道での事故は増加",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUl9PMVFWdUNrSFh5TlFKS2FjMVVrT0gzQVpzdWI5ZDRTRzJ3RGNlRFd2MGFPdTBmMV9jYjYwYjFCOWdqdkdxRGhpakQta0x5Z3JsUm56eWFIeVV6MmY0X3hDSVNQM3MzUDFtV3VXX3hYV2RSbWZYYlJOZlhrUUN2b2FKbnc1OTg?oc=5",
+      "date": "Fri, 10 Jul 2026 10:10:00 GMT"
     },
     {
       "title": "今年、長野県内で起きた交通事故2162件・死者19人　夏休みシーズン「安全運転」呼びかけ　7月11日から「夏の交通安全運動」",
@@ -110,11 +115,6 @@
       "title": "トラックが土蔵に突っ込む 国道で軽自動車と衝突 トラック運転の20代男性を搬送 長野・坂城町 - nbs",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZktodmYzVERhOTBKaDB5MWctVUhxekw3aXFaV2x5Nkk3RDJKNmZZOTlKMkNXRDczcFVWUG9Ea1JIa1VoQzlldFczRnozTGk3cnZxSElYQzhuUjlzX3c?oc=5",
       "date": "Tue, 07 Jul 2026 02:10:00 GMT"
-    },
-    {
-      "title": "明治天皇が休憩した民家の土蔵にトラック突っ込む 国道で軽自動車と衝突 2人けが 長野・坂城町（NBS長野放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRXlTV3JmeUF3Wl91RnVjc2c5TlpKZXQ0S3FIakNRcVJXSHJHazNzcnEtQXNfX1h2VXQ4TmZOT2liZ3N3XzNXcElWUXhoME5qZVg2M2ZIVXVvaVhWZTFsZlpXSVBwV1FaRGdCb2Q3cWNnWjhTZ1cwbGdUVmMwWjA?oc=5",
-      "date": "Tue, 07 Jul 2026 04:49:01 GMT"
     }
   ],
   "official_links": [

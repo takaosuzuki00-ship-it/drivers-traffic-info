@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-07-10T21:03:28.209032",
+  "generated_at": "2026-07-11T12:28:22.659918",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.6,
-    "temp_max": 29.8,
-    "temp_min": 20.6,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 24.0,
+    "temp_max": 25.1,
+    "temp_min": 22.5,
     "precip_prob_max": 100,
-    "precip_sum": 0.2,
-    "wind_speed": 5.0,
+    "precip_sum": 16.9,
+    "wind_speed": 6.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.1,
+        "temp": 24.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 20.7,
+        "temp": 25.1,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 24.6,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 24.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
       },
       {
         "time": "09:00",
-        "temp": 28.6,
-        "weather": "快晴",
-        "precip_prob": 31
+        "temp": 23.7,
+        "weather": "霧雨",
+        "precip_prob": 73
       },
       {
         "time": "12:00",
-        "temp": 29.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 98
+        "temp": 23.7,
+        "weather": "強い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 29.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 98
+        "temp": 25.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 27.5,
-        "weather": "晴れ",
-        "precip_prob": 41
+        "temp": 23.0,
+        "weather": "霧雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 25.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uVkl1ZHJsV0dpeDNrU2dJYzVRTWF2SGVMNXJaYkJ4ODVFV2NZQU9Pak84c1lVdXhCbERMYTEzSGQwT0NYd1ZBd0RqVnhIUUlsU3h4NmQ3aw?oc=5",
+      "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
+      "date": "Fri, 10 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月１０日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MSzVzSmhJUGpqemRJM29wTEhfS0hRdW9rWWxwQWltSFhZbWJwVTdZeGNNM1NmS3VJbzZFWFpOcE9FMUVvVTRFS3NseFRjRFJseGRkRl9VTQ?oc=5",
       "date": "Thu, 09 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
-      "date": "Fri, 10 Jul 2026 00:42:13 GMT"
-    },
-    {
-      "title": "７月８日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XT2FmZ0lnYnRYU3licTZCODdsVUgwS2pCNnB6b2hrWS12cEpoZS1fV0hnMmJwZUdHTUYzM2dlZDlUYjNaT1hHamVpajhvejlWN3pOWWJMSTdGZUFFakZLRDdnY09xaUwxXy13TE5vN1o5QdIBd0FVX3lxTE92SlRDQ3NBRVJGR3Nna0VtaURJWTFpazF3RklfMXJ6VTZiUHBDUFU4bEVlb2s5TGk1SGxOYXdWTTV0djFwcDJTbVNrYVljSFZWV18weXRwQjhPSUVlZlNuOEZBOWFyNXVzOHlpZ1dlMXdjRnp0aHBJ?oc=5",
-      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "7月2日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
@@ -85,9 +80,14 @@
       "date": "Wed, 01 Jul 2026 20:00:32 GMT"
     },
     {
-      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kZGp6SDdxemNQYmY3RGRSR2l0WUIwd0M5WHBGc3BWM1BwVlRtU0d6QlFSMXQxZXhRWW9uUDVITFo4cktYZmlaWWhUR1lIUGg4TlRZQ1RJUQ?oc=5",
-      "date": "Wed, 08 Jul 2026 20:02:00 GMT"
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大麻由来の成分「カンナビノール」所持で男を逮捕 県内で初摘発 先月1日付けで指定薬物に指定",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXBIcjJrWVk4bHd0YWJuallsNFJPYllRSnhIc3FIZndzN0p1THNpNDNEeTZpTjVhWmxmYXhKM1dYTXEweC12d2ZiZ0QxeXlCTGRWd1lLNEI0cjJjNHdid01GbWx6WDVubjdKMVNyaXJYclJuR2xVLVBhV2U2RHhTQndURHBoLUU?oc=5",
+      "date": "Thu, 02 Jul 2026 10:50:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,24 +97,24 @@
       "date": "Wed, 08 Jul 2026 10:40:00 GMT"
     },
     {
-      "title": "トラックと乗用車が交差点で衝突 意識不明だった0歳児が死亡 母親と2歳の兄は軽傷 現場は「事故多発交差点」 青森・三沢市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZDk2bWNJSFgtOXBtb2VmNlNCMmpfU3ZvenZqRkJEVGFfd1lhV1VGYkgzV1lDWF9RYThUVkI0NEk3N2QwRDN0UGNVX2owVDRwM2NmRUE1UVFzdmE2cjJhM3RQdGJ0Q3VIcVNPSnNUZU9wZklMaUNDcVc4Z3ZoaVE?oc=5",
-      "date": "Thu, 09 Jul 2026 15:32:49 GMT"
-    },
-    {
       "title": "【詳報】事故現場の交差点は「懸念を十二分に感じる場所」町内会が三沢市へ信号機設置を要望へ 0歳赤ちゃん死亡のトラックと車の衝突事故 「事故多発交差点」市は今後の対応について関係機関と協議進める予定 青森県",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DeXctREVFODJuT1lYRGlLb3pjM09oNWhaNTN3b3Z5WkpaT1NpWEp1UEx6RXVuMTkyQmdBZm5ST1N1S0plZnFDcVF0Vy1BLUZPOEgza2xEbw?oc=5",
       "date": "Thu, 09 Jul 2026 12:47:00 GMT"
     },
     {
-      "title": "「もう1人、そこにいるはずだって…」衝突事故で0歳乳児が重体、母子も搬送 現場は過去5年で16件発生『事故多発交差点』 青森県三沢市",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2tKS1Rpd2FhRWFkVTBJZmdVaC1zbHo0dW9nVDJNT1hlOTA1Zk1kODgwajlvWnJMTTNkLTVtRnZRVE9VMGk5Q3BuajM5cHBvbjJ3d2RHLUQ0bXVpR3pBbjJTR0Z5N0NxczI2NFJPZ2syanlVd01xMVB5dGJSZ3gyb0FHUTM1UmM?oc=5",
-      "date": "Wed, 08 Jul 2026 10:46:00 GMT"
+      "title": "【詳報】赤ちゃんは「真っ青だったの顔が…」0歳乳児が意識不明の重体に 現場は『交通事故多発交差点』の1つ「赤いラインを先月引いたばっかりだった」 交差点でのトラックと乗用車の衝突事故 青森県三沢市（ＡＴＶ青森テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OWlkwZkZWYUE3R0pXMVQzZk16Mlh0NWtpdVNfOXZjQjZ4WlB5RlNOdWtmQ0NGZlFkMkRNNVMxZVFxZmpjUnBvS3NmN0I3MC1XV2RHcU1MYk5UdzByaUFtRjVTVkFyeHVSeE5XQkZSZkNuSXltZjR5RXpnQmVwcmc?oc=5",
+      "date": "Wed, 08 Jul 2026 12:47:12 GMT"
     },
     {
-      "title": "乗用車とトラックが衝突 男女3人搬送 1人は男の赤ちゃん",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RDFxdE04Q1ZOaUhjLWM3WGZINVZzaGpEd1lVdDljSHludVF0dkFfcDh4V3dncTZrY3o5RnFiYjFNZ1J0UTUxMUZ1MmhZX2NZb3Q1WXZlZFA?oc=5",
-      "date": "Wed, 08 Jul 2026 07:25:00 GMT"
+      "title": "8日三沢市で乗用車とトラックが衝突 重体の0歳の赤ちゃん死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81a0p5UXpuUDZXMi1DUEtyWHJwYmkwVzJyVEk5bmNZS0hBaWE0MFlMVUZMbHJqWG9uVEdrNGxjLUNaeVZIZW1RcDFQYmRaQW9CMmhDM1FlZEk?oc=5",
+      "date": "Thu, 09 Jul 2026 02:45:00 GMT"
+    },
+    {
+      "title": "車同士が衝突 0歳男児が意識不明／三沢の交差点｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTl9wTmtNZUs3ajNIcXN1SkxDRnk3ekZZR2szekQtRkNONFVpT2tsME9RLVZIV2F5NWN5eU83OXBPb1QxUmV5a0ZYMFhWcU40Wnh0aDdsY0I?oc=5",
+      "date": "Wed, 08 Jul 2026 23:55:00 GMT"
     }
   ],
   "official_links": [
