@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-11T18:01:59.774601",
+  "generated_at": "2026-07-11T21:04:09.030901",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 23.3,
+    "temp_now": 23.1,
     "temp_max": 25.2,
     "temp_min": 21.3,
     "precip_prob_max": 100,
-    "precip_sum": 24.7,
-    "wind_speed": 7.0,
+    "precip_sum": 26.7,
+    "wind_speed": 4.7,
     "hourly": [
       {
         "time": "00:00",
@@ -41,24 +41,24 @@
         "time": "12:00",
         "temp": 25.2,
         "weather": "弱い霧雨",
-        "precip_prob": 86
+        "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 23.7,
+        "temp": 23.9,
+        "weather": "弱い雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 23.6,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
-        "time": "18:00",
-        "temp": 23.3,
-        "weather": "霧雨",
-        "precip_prob": 100
-      },
-      {
         "time": "21:00",
-        "temp": 23.4,
-        "weather": "霧雨",
+        "temp": 23.1,
+        "weather": "弱い雨",
         "precip_prob": 100
       }
     ]
