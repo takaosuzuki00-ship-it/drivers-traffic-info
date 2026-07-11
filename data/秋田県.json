@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-07-11T21:04:09.030901",
+  "generated_at": "2026-07-12T00:04:11.648685",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 23.1,
-    "temp_max": 25.2,
-    "temp_min": 21.3,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 23.0,
+    "temp_max": 24.5,
+    "temp_min": 23.0,
     "precip_prob_max": 100,
-    "precip_sum": 26.7,
-    "wind_speed": 4.7,
+    "precip_sum": 83.6,
+    "wind_speed": 8.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 23.0,
+        "weather": "強い雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 21.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 23.7,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 21.8,
-        "weather": "曇り",
-        "precip_prob": 12
+        "temp": 24.0,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 23.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 29
+        "temp": 24.2,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 25.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 24.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 23.9,
-        "weather": "弱い雨",
-        "precip_prob": 86
+        "temp": 24.1,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 23.6,
-        "weather": "弱い雨",
+        "temp": 23.9,
+        "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 23.1,
-        "weather": "弱い雨",
+        "temp": 23.4,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       }
     ]

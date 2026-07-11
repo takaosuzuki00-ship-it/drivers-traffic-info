@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-11T21:05:31.682859",
+  "generated_at": "2026-07-12T00:05:05.052460",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 25.5,
-    "temp_max": 32.3,
-    "temp_min": 22.7,
-    "precip_prob_max": 2,
+    "temp_now": 24.2,
+    "temp_max": 29.8,
+    "temp_min": 22.4,
+    "precip_prob_max": 18,
     "precip_sum": 0,
-    "wind_speed": 3.7,
+    "wind_speed": 0.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.0,
+        "temp": 24.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
+        "temp": 22.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 23.2,
+        "temp": 22.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 26.9,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 32.1,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 31.5,
+        "temp": 24.9,
         "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
+        "time": "12:00",
+        "temp": 28.9,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 29.8,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
         "time": "18:00",
-        "temp": 28.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
       },
       {
         "time": "21:00",
-        "temp": 25.5,
+        "temp": 25.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
+      "date": "Fri, 10 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "７月１１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScHFCaHhQTmFOeTgtdFlnX29mZGU1cnVaWUFnTUtCdVhRN2FBQWRYblJuVEJXbFMzRnl4V0x3QWk2cklfYmpLdXpUbGpjRk52YUtNU0ZLQVhPODFmeTJnQTJrTnlyeFYxcTJYWkEyY1duQdIBd0FVX3lxTE9USmJSVDR6R2w3LTJDbnhiWDBadWJpMl8tc1c4a08wdXVQNGRIdTl2eWVqSWlkajNmOHJNR0NwV0ZCblg2OEhpRFNtaTlvbXBvU00zU1ltZVQyS3FtNGZkN0YyLU90UDhxaTNnbjVhMjRIdExFdFBJ?oc=5",
@@ -82,12 +87,7 @@
     {
       "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
-      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
-    },
-    {
-      "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZmxOb3dtNWEtUFJyNUF6Q0ozc2JSYUh4alI3VnoydGUzQTZZaUE5S1JWdTFiWFctSzlvUDkwX3FWVnBpNmJ2Q0luZlBFS2R1b2xlXzVVQQ?oc=5",
-      "date": "Fri, 03 Jul 2026 20:02:00 GMT"
+      "date": "Thu, 09 Jul 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -95,11 +95,6 @@
       "title": "過失運転傷害と事故不申告の疑いで県議書類送検 自民党山梨県連「検察の判断が出たところで、県連としての対応協議」",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FblUxRlJ3YmFkZ3plNnFFX3FRazJXbi1NakV4UmZ4UnkyTDE1Uzl6NzBZQ05qOVBCcGRQbEZSb01ULXczeFFlVW9pSkkwTlRmM3FWUk5nMDZHY0ptcnhfQkl2ZUw?oc=5",
       "date": "Sat, 11 Jul 2026 04:20:00 GMT"
-    },
-    {
-      "title": "国道で車2台が正面衝突 軽乗用車の37歳男性が重体 乗用車がはみだした可能性 山梨",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUxlU3NhVW1vdmo2bXJ6Qzd0NldJXzZYT3E0WFNHRmJwb0pGQzAwN09NRnFOOFo1dnZNYklDeThwUWE5eWtpTjNYY3hpX0VrdEFhMGRBQVRSMV9ySG1Zd0dXeDJKR3pubWx1aC1SQ1VWNXlibzJubXFMamVvd3hRRVl6ZFhTdzA?oc=5",
-      "date": "Fri, 10 Jul 2026 10:43:00 GMT"
     },
     {
       "title": "山梨県の国道で車同士が正面衝突 1人が意識不明の重体（テレビ朝日系（ANN））",
@@ -110,6 +105,11 @@
       "title": "山梨県議を書類送検 車の追突事故でけが負わすも不申告か",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHOU9KS1JJT1E2a0x0djljWEdFUkItTzUzRF9pODQ2ZXNrOUV4TXJzcjRDVXVwdWxkWlVqSUtjQmc0Q01kRnB5RlJLLU1JSWRQMzloRVhqdEs?oc=5",
       "date": "Fri, 10 Jul 2026 08:40:00 GMT"
+    },
+    {
+      "title": "車4台衝突し道路ふさぐ 女性1人が軽傷 通勤時間帯の事故で現場は一時混雑 山梨（2026年5月27日掲載）｜YBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3NJdDRNbzlXVGMwNk1SaUl0VS1VZlgzajlXNVk1QzEycGVYQXZFaG1Pcy02c3AwOWRWdUFzM1lZRE1TamVMeURVWkh4UWtOYkxlOGp6M2gwSUlsZ2IxUEpEOE0ySHRDejByUHBFWXFTemtNSEUxRXZpOENGMG1LRXN5YXhuNWM?oc=5",
+      "date": "Wed, 27 May 2026 07:00:00 GMT"
     },
     {
       "title": "８０代女性死亡事故 男に有罪判決",

@@ -1,13 +1,72 @@
 {
-  "generated_at": "2026-07-11T21:06:33.817704",
+  "generated_at": "2026-07-12T00:05:53.506814",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.2,
+    "temp_max": 33.7,
+    "temp_min": 23.5,
+    "precip_prob_max": 12,
+    "precip_sum": 0,
+    "wind_speed": 2.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 33.4,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 29.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWFlyWUg4N1ZhSlNkbHE3Rm1Oa04waGJfNnVOMGp1YjB0OWJUYXBtdFlXYndFSDZsQ2hXcUhMZGFubHZ2UjhpQXlMT0JUSmVsVGtseUo1aHI0eXlnTWhIekhxQ3U?oc=5",
       "date": "Fri, 10 Jul 2026 20:02:00 GMT"
     },
     {
@@ -26,9 +85,9 @@
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     },
     {
-      "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
-      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
