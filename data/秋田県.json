@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-07-12T03:06:33.193068",
+  "generated_at": "2026-07-12T06:02:10.933551",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 24.2,
+    "temp_max": 24.3,
+    "temp_min": 23.1,
+    "precip_prob_max": 100,
+    "precip_sum": 69.1,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 23.5,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 24.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 24.2,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 24.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 24.1,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 23.8,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 23.3,
+        "weather": "霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "7月11日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wR2RHSGZENjk5ZnlnY0x0QnRVckY0ejAtX2h4TWtOV29wOXRlZmJrUmpDVTA0TTVUT2docFRqLThWNFhlLXRuOHYyOXNlVnZmVDJITUZpU2Vhcm5fSnFlQkNBaG5HX2M?oc=5",
-      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+      "title": "7月9日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fa2dsWk9pRHloZUdjLTJPUnhicEptTjBMX1BCa1FTVXdqZ2dKUjhsN2ZPbzVBYjdqOFBhMVJOTTdZRWtmekU5WW1vMDZXWUwtci02OGgwd3hHZw?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
@@ -16,9 +75,9 @@
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     },
     {
-      "title": "7月9日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fa2dsWk9pRHloZUdjLTJPUnhicEptTjBMX1BCa1FTVXdqZ2dKUjhsN2ZPbzVBYjdqOFBhMVJOTTdZRWtmekU5WW1vMDZXWUwtci02OGgwd3hHZw?oc=5",
-      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
+      "title": "7月11日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wR2RHSGZENjk5ZnlnY0x0QnRVckY0ejAtX2h4TWtOV29wOXRlZmJrUmpDVTA0TTVUT2docFRqLThWNFhlLXRuOHYyOXNlVnZmVDJITUZpU2Vhcm5fSnFlQkNBaG5HX2M?oc=5",
+      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
@@ -35,7 +94,7 @@
     {
       "title": "６月の大仙市の交通事故、意識不明・重体の男性が死亡",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1na0ZfSVVSY3VrTUVJRzYtRHdITk1OcF81NF9lNEprWjBRWHoydnRzUGhEWnRZN0tJYTBrR1FNenNXYmRCbHJHZEpOMA?oc=5",
-      "date": "Tue, 07 Jul 2026 02:17:07 GMT"
+      "date": "Tue, 07 Jul 2026 01:15:00 GMT"
     },
     {
       "title": "七夕行事に合わせて保育園で交通安全教室 短冊に交通安全への願いをしたため飾り付け 事故にあわないことを約束 秋田",

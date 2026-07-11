@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-12T03:09:50.593796",
+  "generated_at": "2026-07-12T06:07:01.268949",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 95,
+    "weather": "雷雨",
+    "temp_now": 26.8,
+    "temp_max": 28.6,
+    "temp_min": 26.7,
+    "precip_prob_max": 88,
+    "precip_sum": 2.2,
+    "wind_speed": 33.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 45
+      },
+      {
+        "time": "12:00",
+        "temp": 28.3,
+        "weather": "雷雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "15:00",
+        "temp": 28.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "21:00",
+        "temp": 26.8,
+        "weather": "快晴",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -23,7 +82,7 @@
     {
       "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
-      "date": "Thu, 09 Jul 2026 20:02:00 GMT"
+      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
     },
     {
       "title": "朝の検問で発覚、出勤中に酒気帯び運転疑い 34歳容疑者「酒は抜けたと思った」",
