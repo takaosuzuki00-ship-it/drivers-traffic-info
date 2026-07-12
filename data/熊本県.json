@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T20:20:13.236217",
+  "generated_at": "2026-07-12T21:50:29.198334",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.8,
+    "temp_max": 34.3,
+    "temp_min": 25.3,
+    "precip_prob_max": 78,
+    "precip_sum": 0.2,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 34.2,
+        "weather": "快晴",
+        "precip_prob": 78
+      },
+      {
+        "time": "18:00",
+        "temp": 32.2,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "21:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 22
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月12日（日）【熊本県 交通取締情報 午前・午後・夜間】（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWxTbXRGd0VxV0VRV3hxYVhrX3lyaHRsUGNtNjNSZUpxV2YyRnlKMlZwOTVQRkU0UkQ5Snl3aDNDYkpGcFhISm9LLVVvcl9LMV9QamkzMmNkTlphWWduZ2U0VXFpRUx2cFlRdkhZbWZfZmRQOHg2VFVfRjRSVHpSQjl4TTBJNm9iMmtXcXd3?oc=5",
+      "date": "Sat, 11 Jul 2026 20:56:14 GMT"
+    },
+    {
+      "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
+      "date": "Fri, 10 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kZGp6SDdxemNQYmY3RGRSR2l0WUIwd0M5WHBGc3BWM1BwVlRtU0d6QlFSMXQxZXhRWW9uUDVITFo4cktYZmlaWWhUR1lIUGg4TlRZQ1RJUQ?oc=5",
+      "date": "Wed, 08 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月12日（日）【熊本県 交通取締情報 午前・午後・夜間】 (RKK熊本放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblRBdHhJRXNtU0xJNW9zNFZqS3VFT04yVktpa2kwcVNmNjFLcm51ajU1NkxEVjZ1TnZhdmZOeE1RMENPUmZkNVpTNmV6U3g5MXkxRXVPaGJodzRSck4tVG1nVHduZ3hrTUJWRzNCTFBpV3NOSVpoY3p4VmlwWV9kb0NJRGJLZmdhS2NrMTBR?oc=5",
+      "date": "Sat, 11 Jul 2026 20:02:14 GMT"
+    },
+    {
+      "title": "7月8日（水）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4eGJBeEdyX2hDQ0M2VTJQVHpUT1J2dFFMUHNRNVJWVzlwR3AyTGpUYThLNXdaN3RFbkdNNjdvMmV2TlhRYXdSank2cWYwYmhyeHE2cXpXX2pFZw?oc=5",
+      "date": "Tue, 07 Jul 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "[TKUニュース 26.07.10 12:00 ] 熊本市南区で高齢女性が軽自動車にはねられ死亡【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TSUdGWXBWY0NxeHlFSHA3bi16eVlpUnl5OFpNQ0JxX2xCVEJxaXJZdFZyTDlMVDVfZWlOZmJ1eVZjbnRtQmVLWUNRbmp0WlIzQlJIU2tibmgxZm5aN2lKZGRWcw?oc=5",
+      "date": "Fri, 10 Jul 2026 03:01:45 GMT"
+    },
+    {
+      "title": "ワゴン車と衝突…バイクの専門学校生が意識不明の重体 熊本市の国道3号",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkQTdjbVpDRjRweVVfQVZqWkpOck5nR2pqY2xCY19PNC1tWkNVMmM4SHB4bjI4TnduYU5UdGtxZlpUTGxLQUhOVlZkNDc4WHBDSlhEX1lB?oc=5",
+      "date": "Tue, 30 Jun 2026 10:06:27 GMT"
+    },
+    {
+      "title": "｢気づくのが遅れた｣夜の国道交差点を横断していた84歳の女性が車にはねられ死亡 熊本市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWJfa256OHQxcWw5ZkxWWHhaWmxJY2poZk43dmZnSmFUZEdUbnZCNjYtVUhDRHJ5T2NyRlgteFZxU1Y5bzc5ZmhhUXV2eTRyMUxPYWcyemNGa3dDOGJjOEh0UTVrMFlWY0x5MnczSm1vWDdLT2tjTkNkS3FjTUh2NG1sakxjWVk?oc=5",
+      "date": "Fri, 10 Jul 2026 03:29:00 GMT"
+    },
+    {
+      "title": "【通行止め】熊本県菊陽町 国道443号の上下線が全面通行止め 大型トラックからむ交通事故の影響 ※10時45分に解除",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzcHBDbkMxX1VWUjBVc2pLellNNGZnRE9ENGdRYlpoUVRhQ19LaWw4UFEwRENuTGs0OTJCV19tQWZNSkF6WWV3RWdxR1J0cHNBSk1aaVQ3MHlFR243eEdN?oc=5",
+      "date": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】九州道一部通行止め 松橋－御船IC上り線 交通事故のため",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKaFJHSjhxallUTlQ5S1QyYkd5WlhzRXJqTlh6OG1LYzNtT3YyMmNaXzZfbnFhMGlmUlI3SnB6OEhUdEdSbjlfRkN3dFRBcWM?oc=5",
+      "date": "Mon, 06 Jul 2026 00:12:33 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

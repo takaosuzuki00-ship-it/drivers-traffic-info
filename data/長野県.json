@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T19:11:11.601948",
+  "generated_at": "2026-07-12T21:48:19.702172",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 24.6,
+    "temp_max": 28.4,
+    "temp_min": 22.4,
+    "precip_prob_max": 96,
+    "precip_sum": 0,
+    "wind_speed": 2.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "03:00",
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 22.8,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 37
+      },
+      {
+        "time": "18:00",
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 25.0,
+        "weather": "曇り",
+        "precip_prob": 86
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "７月１２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEVMZ2E4OTk4Um1KU0VSSkJqcVF1LXZOZTlIeS15VEtXbVM3am9IcWk3OW1od0o0dHRqQVppWW1oLXpuVzlXbU9TN2JKNFBKSnJDT0xOTEg4R01RTXBZNUpxVm9VTGtpV2c2STFrWEdMT3JpTndyMC1qczVvX0RlQTFadUdObk1xenJISTVNUGJlUTM4XzNBX2xJWHdYUkk3d1BEc3VLLWlQTHkyem1qbUtadmt3REk1R0V5OWwySHc1ZUxqMW1N0gF3QVVfeXFMTm1YLVkyeDl2bktlTXlSV1JHWnVxMWlSbGVmYWNyN2d4QzViN20xUlFkMEhBaUFTZDktMjJaTkxBMmdZRW51dFRfSml3blRZcmhsTjFpMUVDRGZUT1JnaTRMZG1hZm94QXR1Q1RILS0yMGlNY25oN00?oc=5",
+      "date": "Sat, 11 Jul 2026 20:10:26 GMT"
+    },
+    {
+      "title": "長野へ帰省中「オービス」が光りショック！ 後日「出頭通知」が来たら“長野県警”まで行かないとダメですが？ わが家は「東京」なのですが、最寄りの警察で対応可能でしょうか？（ファイナンシャルフィールド）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNVlmXzZSa21KdVNtaWJjb0l2YzloMmRUNE5MRndIR3FEaDlLTlY0dzhHRF9YVnk5RlZCMFNMc1RYcnd5LTdTZ1VuRnVwVi1fUDRYYzJqczl0NDh3bGtzVlpKR0c1VmFRRGxjVTRJOG1ic29XOGtidHdBSl81TG8?oc=5",
+      "date": "Sat, 16 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月１１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScHFCaHhQTmFOeTgtdFlnX29mZGU1cnVaWUFnTUtCdVhRN2FBQWRYblJuVEJXbFMzRnl4V0x3QWk2cklfYmpLdXpUbGpjRk52YUtNU0ZLQVhPODFmeTJnQTJrTnlyeFYxcTJYWkEyY1duQdIBd0FVX3lxTE9USmJSVDR6R2w3LTJDbnhiWDBadWJpMl8tc1c4a08wdXVQNGRIdTl2eWVqSWlkajNmOHJNR0NwV0ZCblg2OEhpRFNtaTlvbXBvU00zU1ltZVQyS3FtNGZkN0YyLU90UDhxaTNnbjVhMjRIdExFdFBJ?oc=5",
+      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【長野県東御市】市内の交通死亡事故ゼロが2000日に到達",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVkZQeWMwV1FudHJheDlGN25xeWdpTDNwR0hhT21xbzVsempwNElvZ0hKQWc1Qnhfc3lGeWVablZheVpEeVJIY2NFeDNzVVczeDc0amx5WVlyYjBQdDZxenQzTUZfdGJTamc?oc=5",
+      "date": "Thu, 09 Jul 2026 02:10:02 GMT"
+    },
+    {
+      "title": "今年、長野県内で起きた交通事故2162件・死者19人 夏休みシーズン「安全運転」呼びかけ 7月11日から「夏の交通安全運動」",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sZnN5YVlLYW5vV1RlYm9CZmtRbGpKVnJEV3pMdXpaT19aTmU1RUh4WVM0MXhFZFNvSzFyQnhDMFZuRVp5UFd0b2FhMi00VlRpcVJEeFY5NmcwcXBrcjNlRDVueDhDTDNfYmcxbVIwclJTdWRSNWdVcUtOQ29pMVE?oc=5",
+      "date": "Fri, 10 Jul 2026 02:54:01 GMT"
+    },
+    {
+      "title": "スクールバスが対向車線の車に衝突、けが人は中高生ら11人に 大阪 [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UEthcGkzWm9zSjBHNnpvTDBlSU10MjRzMTRZX2JXd2FqTWhRc19jZ3Azd2NMY1pVdjdNWU5hWnF6Zzd3XzRzc0JtaDd4bnp0ZkFSS2xlN0FrNDdfTUphNDRJeERqV2c?oc=5",
+      "date": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラック突っ込む…明治天皇が休憩した住宅の土蔵に運転席部分がめりこむ 衝突事故のはずみで 2人けが 長野県坂城町の国道18号 - nbs",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JYmV4RmVSdDdMWThPSnVYYmU4Ymw2azVsUmd0Tkl3cXM1UjBPRXNob1doZEg5LWltZFN3VFZGdjhLdnRuWFBDUThJZWJaelV0elpWVDRHNG9idUpUcGc?oc=5",
+      "date": "Tue, 07 Jul 2026 10:37:00 GMT"
+    },
+    {
+      "title": "スクールバスが対向車線に 6台絡む事故 大阪・河内長野市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51NVJobHpYeUN3U2FUZU0wLWlZS0Z6czNUZmVKc3lVZ1FTN0FiM1A1ak90SWVXYWF5NWpoaU80dFdpR2MtaHM2Z0o0amNJaFNBRE1yNTRnTVozQnFzTnZPNjY5Rlp2dS1nRUUyUzhEQkZxdw?oc=5",
+      "date": "Fri, 26 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

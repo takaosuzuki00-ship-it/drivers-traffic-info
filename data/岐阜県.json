@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T19:14:11.699104",
+  "generated_at": "2026-07-12T21:48:24.448020",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 28.0,
+    "temp_max": 34.0,
+    "temp_min": 23.1,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 33.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 31.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 28.4,
+        "weather": "曇り",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月１１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScHFCaHhQTmFOeTgtdFlnX29mZGU1cnVaWUFnTUtCdVhRN2FBQWRYblJuVEJXbFMzRnl4V0x3QWk2cklfYmpLdXpUbGpjRk52YUtNU0ZLQVhPODFmeTJnQTJrTnlyeFYxcTJYWkEyY1duQdIBd0FVX3lxTE9USmJSVDR6R2w3LTJDbnhiWDBadWJpMl8tc1c4a08wdXVQNGRIdTl2eWVqSWlkajNmOHJNR0NwV0ZCblg2OEhpRFNtaTlvbXBvU00zU1ltZVQyS3FtNGZkN0YyLU90UDhxaTNnbjVhMjRIdExFdFBJ?oc=5",
+      "date": "Fri, 10 Jul 2026 20:06:58 GMT"
+    },
+    {
+      "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
+      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "「総会屋」ら警戒 岐阜県警、株主総会特別警戒取締本部を設置：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55RWZMVGhOVUVGNHloLVZJZ212MHotNERwWXZrZ0ZuYWFvU2ZCRjVONEhwNVZMUThmUEtCcDRCNlZHU0xsMnViRXl2czJJbVNWSHJuekszblVGZGhvbmxEZnJESDdPbHZBWDJvVzl2ajc?oc=5",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "覚醒剤取締法違反の被疑者を逮捕しました！",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RQ3hhbkp2a3dKYkNpcnd1WDk4MDl3eEstcXFGamRIb2k4ZXZ0dE9nV0ltN1hueXBZdjhLLUN2TkQwUmxCV29FMjhMeklTU1loRnRQdFFReEdMSWRTWm1BYnFseGxfQmVt?oc=5",
+      "date": "Mon, 10 Nov 2025 05:20:33 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "岐阜県大垣市で交通事故 軽自動車と自転車が衝突し自転車の大学生が死亡（メ〜テレ（名古屋テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZeEJNTGpwVC1WNXZmRER1bjRwSzFMakdlb0xSTVZsR192b0w3ZnZsbVRGX1NaSGc3UWlPTDhjSFhCV284a3dnblFKMFhUdWlMUmM1VVRxTzBLR1pYM0V5Si11Xy1sdk9HM01zOGI0MGV5Q0FmMkRsbHpQcER5akk?oc=5",
+      "date": "Sun, 12 Jul 2026 09:19:01 GMT"
+    },
+    {
+      "title": "岐阜県大垣市で交通事故　軽自動車と自転車が衝突し自転車の大学生が死亡",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnBWLUgwQUtDVlRHbzlSakJZWWdHZk1nUVliNzNiX21lWlJNejdIX2tJRElsNl9rdnNJejZWTlU4b0JfcVNkYk5CZHg0ZVlORWtrelY5dzF5YUQ4OTlrUk5rQWNtbTcxZ1pNQzYzVi1FTEppWTgtR18zRVJFaDlfS9IBgAFBVV95cUxOYnBWLUgwQUtDVlRHbzlSakJZWWdHZk1nUVliNzNiX21lWlJNejdIX2tJRElsNl9rdnNJejZWTlU4b0JfcVNkYk5CZHg0ZVlORWtrelY5dzF5YUQ4OTlrUk5rQWNtbTcxZ1pNQzYzVi1FTEppWTgtR18zRVJFaDlfSw?oc=5",
+      "date": "Sun, 12 Jul 2026 08:53:00 GMT"
+    },
+    {
+      "title": "岐阜県大垣市で交通事故 軽自動車と自転車が衝突し自転車の大学生が死亡",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxYW5qSnNNei1ET01MWVU1aFJMRnhaeXFld2lBRGxsSUFqRkhIaDlmMWstZHRyckZ1aUpGeEtOR1RKNGRMM2FvaHJXM0RFOWd4eXd5a2N1V01PRjNwc0FCa3k3RE82WHQ2UldrWHZpeUpRaWk3ZW5BaG9ldw?oc=5",
+      "date": "Sun, 12 Jul 2026 08:53:00 GMT"
+    },
+    {
+      "title": "交差点で車と自転車衝突　自転車に乗っていた女子中学生が重体　岐阜・瑞穂市",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CcmFnTHJPcW5LTkt4Z0JtU3dqcXN3MW9SOHY4cUNCU2tEdVNrcXRSaTVQMnZNcy1rQld1c3did3RQMHRUVEVtaU9nYVc5NXBNTXfSAWRBVV95cUxNZWplUkp4SnRBNTltQ0hwcjB5ZllwMV9ETk5KN1RrQ3pQcGJtbjlLanlSZFMtMlJISlhQbVBuM1dCU2RsZ2Z6N0pHLUhQbzdVZzY5Xy1GeWpHU1l1QkFnX04xM09T?oc=5",
+      "date": "Thu, 09 Jul 2026 02:32:00 GMT"
+    },
+    {
+      "title": "本線を走行中のバイクが側道から出てきた車と衝突 バイクの男性が死亡 このほか交差点で歩行者の男性が車にはねられ死亡 名古屋・中区で交通事故相次ぐ | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5RHFNdnNlbWhEVng0M1FDekVPN0ZZZVdsNS1DQTFNd0hYMzBTa0Z2YlJjaVRrN0NNdS1sWWJ3LXN1eFV4X0k0Q1FrT1BrQjBFUXBLS0VMbG5QemppaWhoSnRaLTNUVEE?oc=5",
+      "date": "Sat, 11 Jul 2026 04:39:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

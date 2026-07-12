@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T19:53:12.417186",
+  "generated_at": "2026-07-12T21:49:42.882057",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.9,
+    "temp_max": 31.4,
+    "temp_min": 24.6,
+    "precip_prob_max": 22,
+    "precip_sum": 0,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "21:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月１２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEVMZ2E4OTk4Um1KU0VSSkJqcVF1LXZOZTlIeS15VEtXbVM3am9IcWk3OW1od0o0dHRqQVppWW1oLXpuVzlXbU9TN2JKNFBKSnJDT0xOTEg4R01RTXBZNUpxVm9VTGtpV2c2STFrWEdMT3JpTndyMC1qczVvX0RlQTFadUdObk1xenJISTVNUGJlUTM4XzNBX2xJWHdYUkk3d1BEc3VLLWlQTHkyem1qbUtadmt3REk1R0V5OWwySHc1ZUxqMW1N0gF3QVVfeXFMTm1YLVkyeDl2bktlTXlSV1JHWnVxMWlSbGVmYWNyN2d4QzViN20xUlFkMEhBaUFTZDktMjJaTkxBMmdZRW51dFRfSml3blRZcmhsTjFpMUVDRGZUT1JnaTRMZG1hZm94QXR1Q1RILS0yMGlNY25oN00?oc=5",
+      "date": "Sat, 11 Jul 2026 20:10:26 GMT"
+    },
+    {
+      "title": "7月12日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXJJWWtSa3l5WTRTN1VLWHNyTXNJR1l6T04ybkEyRUpYeWNaVFpoa1FjTWxBVmNJdHJJcXc4WHZQQVhiZ0pOcy1JbDljcTFBSVFBWDdsQ1Zvcng2ajMtVDBYRmdRdUkwa3MtUm9QX2Y2a1ppYjQ3aGdKLUVfbHpEaWJR0gF0QVVfeXFMT1lSZGt4dTRDM0Y1VjVqSVItTTlubnJuX3VLR2FlcHkwT1NlVkQzQ2NPRFdXemNZdG5RN204dU1qRmpHX0lFZXVUMkhhOHFXcWQwY0I5YzhlUlR4LURBMlJXa3J3Zzd2M0lmLWhBTmtZSVpreTg?oc=5",
+      "date": "Sat, 11 Jul 2026 20:07:44 GMT"
+    },
+    {
+      "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
+      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
+    },
+    {
+      "title": "７月９日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDM3VGU2ak00Rk1ZTWlnSEJ5MXRiZEJZWkRUVktnczNOb2d6bUN2SUZnY0NYYjRpeUlTSlZxRE9xa05DWFFzaExsUXlHVzBja1pZV0JyTzBwU0h5YUw0QXRTVVhLSG1fS2cxR015LWNNd9IBd0FVX3lxTE92a2dla2hfRTNKMXV4eWlsQk5yeDZhZ3NTbEluU0lETXF1aURIaGJCbm5BVnJDVElHcTBBOUZsNEFWNnFBYjNGTlZfZ0V3OHB1VG1NTUdmcFQwd2NYTmdlc1RSc0dZcXdaanJ0YlZXX0dGY0xONFJV?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "年末に合わせ広島県警が東広島の山陽道で飲酒検問",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lYzNLUTJtczZmTXlDMk5ESkNtTWVsYW9DQ0R4b1JGVEg5b0UtaTBDMC0yNUxwa2hTNzVQRDdxUmhfVDhRbEMxbXhHQXJCUi1sTzNQdlJ2TVFaUQ?oc=5",
+      "date": "Wed, 24 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「一生許さない。娘返して」 東広島の女子高校生死亡事故、法廷に響く父の悲痛な声【シリーズ事件簿】（中国新聞デジタル）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRFctQVFWcFczV0ZKRHFJcDJZalllc0NFVXNkM0x2aVItVFdwUnBESEpSSjVYYTE2bVcxWjJDV21Za25iYkQ2ZzBOY0oxVi13c1U5aUdLZFBmRmFZVU9lcjJYdnlEMDFRb1g4Q2ZNeHAxQlFuamYtWTNySG9ncEU?oc=5",
+      "date": "Thu, 09 Jul 2026 04:07:06 GMT"
+    },
+    {
+      "title": "「一生許さない。娘返して」 東広島の女子高校生死亡事故、法廷に響く父の悲痛な声",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRjJ4eF9iUEdfUFRjRlIxdUNLNVNWRGlicjN5YXZMZXZhMWFsWWFRSG12T0ZiTjhRbU1pVXpmY2U5dnFYa3Blb2NpYzJxQlhMb0hCWTV6QWUxUQ?oc=5",
+      "date": "Wed, 08 Jul 2026 03:08:10 GMT"
+    },
+    {
+      "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故データ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
+      "date": "Thu, 02 Jul 2026 05:33:44 GMT"
+    },
+    {
+      "title": "１１日から「夏の交通安全運動」始まる 広島サンダーズの選手も交通事故防止呼びかけ ２０日まで 広島",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rUWZjc2kwbUREcXUwb2c3SVAxN0dfM1ZaeF9PUGxNeFJHb1hSakZObERJVWVBWEhzQ2E0TnBsS2N0aVpscUpfWFZQcFVOUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 01:49:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

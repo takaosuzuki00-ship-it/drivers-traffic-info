@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T18:53:11.049372",
+  "generated_at": "2026-07-12T21:47:56.265057",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.3,
+    "temp_max": 28.8,
+    "temp_min": 23.6,
+    "precip_prob_max": 20,
+    "precip_sum": 0.7,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 28.4,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 26.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "北海道警察が飲酒検問を実施 酒気帯び運転の疑いで男逮捕 基準値を大幅に超えるアルコール 札幌市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaVTE1QWExRUdTRE4xWUhhUjVoV28tdHVmN0gyZWxkTVBsSFo4UEo5LUZZQkpyX3hEUC14YVNURTZxOTUzVVkwZFViWTBpWEVUNmExYjZnM3NiUkZ2Q3dGMjdVeWR3SW0zX1ptTTNZaTVhSlNzR0NPancwNA?oc=5",
+      "date": "Sat, 11 Jul 2026 02:55:00 GMT"
+    },
+    {
+      "title": "イスラエルがガザ検問所を封鎖",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZ1VCVEMwcVYxLV9KaE1BREhCZGN1YzRUdVo2STAxVGY1RVE1VEpSM3JXX2lES01FY1AzbnFOdjJGcTZhenJmelhYMnpxbmdaM1BPeThhVmVsaFRFUEtFdm9NYUZsMWs1N2U1M1JPLTM?oc=5",
+      "date": "Mon, 08 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通違反「ノルマ」の波紋と4月から厳罰化される自転車取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wX1Bkb0hvM1IzQmNKRXJqeWkzYWsyTTM5VlFYT20wYy02QlRFWDJfc2RDcWJuS0VZTlM3RnJINXpNY1NjOHB6T2xKVXlqWDA?oc=5",
+      "date": "Fri, 13 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が“不適切な”交通違反取り締まりか…2000件以上の違反を取り消しへ 担当の警察官ら複数人を書類送検へ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wU0Z5dXRnREJHOE8ybFZXY0VUQWNiakJYdlFwem1NY1o0Q1dZQS1iRVlvcFdtVDgtREs2UHdSa09qdjFUdUxVLUFOaUxXNGNoanNDMXVTZ1lYbjJRZkxrVEdnZ2lNZGJXYmx2U1ZjT1RWQWthU01hek5ydnYzcVk?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "横浜で交通事故、医師２人が８０代女性を救護 止血に声かけ…経験生きる",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CR0g2aWh2QnhjYzRMdUxzS2VtQnV0U2piOVdDSHBvNUpVVDhCajhxb2ppNURRVDFoQkFiOWZwTDY5NkY0SFlDb2VIZ0ZKbnNfb1BGYlpvVV8tM1RKMnhMR1pxUEhFajg?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "相模原 中央道 乗用車と複数のトラックによる事故 １人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00aXZyUnRtR0xFUHdRVGFGU1J0MEtZWUpzcV9EOTVJeTRlVzZfdmZxekFPMFZIaHY3V2FKZmZSbWJkcEE2VjducGg0aUhGRS1OZDM0SkJtOTI?oc=5",
+      "date": "Thu, 02 Jul 2026 23:58:00 GMT"
+    },
+    {
+      "title": "スピードワゴン･井戸田潤さんが交通安全呼びかけ 七夕の短冊には… 愛知県内の交通事故死者数は全国ワースト2位 名古屋・中川区 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (2ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TcGp1YWtzcFlQMjlpTndtLUVjWU1ISDhFM0ZBX1dEa2E2N05tWmJHUW5PMDhuTnRpWUF2WEthMDBWZnVHN0ludVI4TU1BNm1iX2lQc1R0azFrOGJrdVgtX3lsdw?oc=5",
+      "date": "Tue, 07 Jul 2026 10:38:00 GMT"
+    },
+    {
+      "title": "神奈川県、交通死亡事故多発警報を7件相次ぎ発令 自転車絡みが3件",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93SnFITnNfZ1ZSSl9DTDFkZ0FEaW9UakhkQkdKbHV6Yk4zdmdMSk9zYTZLbTRwQjBOanhuM0k2SVRkcGtaMTB5dzFsdzAxOWpTQnZZ?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "神奈川・逗子市の海水浴場で男性死亡 泳いでいた際におぼれたか 警察が身元の確認進める",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TLVV4Z0JrYmFQMktwTldsNHJUVGk4eGtDWDlSeWM3SWRYclp6c2EyeWJqYmpBR0VselZVQjBBMVpSOGJRTE8xdERPR3hlVHNMVmM1TVlFWQ?oc=5",
+      "date": "Thu, 09 Jul 2026 10:15:57 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "神奈川県警 月次取締情報(横浜16+川崎7箇所)",
