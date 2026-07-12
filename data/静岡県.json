@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-12T06:04:01.671949",
+  "generated_at": "2026-07-12T09:04:01.155048",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.8,
+    "temp_max": 28.6,
+    "temp_min": 23.1,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 2.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.6,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 27.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通指導・取締情報",
@@ -11,9 +70,9 @@
       "date": "Fri, 21 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNEt6eVlmMmkteHBIa0NnSC1hRFFGYWQ0LXJlTW16TDhJaHp4c0V1M0VDemdWVktISFk3R3RsR2FtM1liLTRtLTFYNHR1T3RhNm5uQ3BrSHVRNTZpUTgxQUN3UTNWa0hvSDBMZlNEc9IBdEFVX3lxTE1mWEVqLW1LLXhLQy1xck52Q1dxUV9SR0xXY2JLOEozZTRqNXpHdEtHYXoxaG9ZdjRRakhfd01lcUt0Z2tHSk01cEhzdWxnZFR2YXVqZzZlTGZkUDk0M1BiRU9Zd2hYREpVOUpVZU5TRWxidERq?oc=5",
-      "date": "Thu, 09 Jul 2026 20:00:00 GMT"
+      "title": "７月９日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDM3VGU2ak00Rk1ZTWlnSEJ5MXRiZEJZWkRUVktnczNOb2d6bUN2SUZnY0NYYjRpeUlTSlZxRE9xa05DWFFzaExsUXlHVzBja1pZV0JyTzBwU0h5YUw0QXRTVVhLSG1fS2cxR015LWNNd9IBd0FVX3lxTE92a2dla2hfRTNKMXV4eWlsQk5yeDZhZ3NTbEluU0lETXF1aURIaGJCbm5BVnJDVElHcTBBOUZsNEFWNnFBYjNGTlZfZ0V3OHB1VG1NTUdmcFQwd2NYTmdlc1RSc0dZcXdaanJ0YlZXX0dGY0xONFJV?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "新東名高速、一部区間の最高速度120km/hにアップ！ さて、自動速度取締装置、オービスは何km/hから光る？【交通取締情報】",
@@ -21,9 +80,9 @@
       "date": "Fri, 10 Jul 2026 06:32:09 GMT"
     },
     {
-      "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abm8xNC1ick41Uy15RHNWOHhhVXFBU2dLQ1otcVJyRkpMUEJCbEI0R0UweGxPNnExbTJ5V3hldXVZNFdzWFFQLWxJLXZ6UGNfMktTZ3NwSzE1Z2pzenlGYnVsU0xvcmprX21uNktSMNIBdEFVX3lxTE1hMkpaNk1TeXYyejF0YWhsV0hjem4tWG1CVURCLTdRS294YUtTdXExbDMzcFRLVHA5ZEt0MnJHRGY0Qmk2RkRoLUExa29OeHRhUE5RNXNHUUs1LXRkRUFHSmdzeWhGZXhPZVZkOV81YzYtOFY3?oc=5",
-      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
+      "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNEt6eVlmMmkteHBIa0NnSC1hRFFGYWQ0LXJlTW16TDhJaHp4c0V1M0VDemdWVktISFk3R3RsR2FtM1liLTRtLTFYNHR1T3RhNm5uQ3BrSHVRNTZpUTgxQUN3UTNWa0hvSDBMZlNEc9IBdEFVX3lxTE1mWEVqLW1LLXhLQy1xck52Q1dxUV9SR0xXY2JLOEozZTRqNXpHdEtHYXoxaG9ZdjRRakhfd01lcUt0Z2tHSk01cEhzdWxnZFR2YXVqZzZlTGZkUDk0M1BiRU9Zd2hYREpVOUpVZU5TRWxidERq?oc=5",
+      "date": "Thu, 09 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】",
