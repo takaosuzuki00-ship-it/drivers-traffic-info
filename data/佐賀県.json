@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-07-12T09:06:04.127036",
+  "generated_at": "2026-07-12T12:05:47.764687",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 34.0,
+    "temp_max": 35.5,
+    "temp_min": 25.0,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 9.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 35.5,
+        "weather": "快晴",
+        "precip_prob": 27
+      },
+      {
+        "time": "18:00",
+        "temp": 34.0,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 30.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "自転車にも”青切符”導入を前に･･･新設の専門部隊が交通違反取り締まり 高校生らに正しい走行呼びかけ 佐賀県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16emNMc3pnYUF5bWNTSlNuOW90bHdZbGhEVVhGcUxHeGZlQWpkMXRJYTBucUNKU19WYnlCOHNjUlF5ZjVMNFBPcXJONFFZWEpYZE4yOWYtTnVWcmZTZkFVOW4yZnRrTVE?oc=5",
+      "date": "Mon, 20 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選、選挙違反取締本部を設置 佐賀県警、1250人体制 「選挙の自由と公正確保」 | 行政・社会 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TdEhCajN5UEFHd3ZqbVRHSFZEcTVFVlZ4WTlnSjVVcUFramt4b2Jadnotd3Uzc0tkTnVJaFhjM0hFeGlib05WcVBqcnhaS0cwdkM5WmJ3?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」 | | 全国のニュース",
@@ -24,11 +88,6 @@
       "title": "北九州市で飲酒検問 自転車も対象 飲酒機会が増える年末を前に（2025年11月18日掲載）｜FBS NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0dqbjlMWGU3ZlpxOUV4V0x1c1Q3Z291N3RQZGgteG9mX1J4Rjl4NVBTVVprTms0X1VKSHFBM055VXdmYXlobHNfSVJhRWZPLTVsT2NtRUF5Z3BJXzRQcGg4QlRjMWlWSktwRlhaOWYtSUFWMVFaLWZncW45UWNST2ZVZzF5MVE?oc=5",
       "date": "Tue, 18 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "佐賀県警本部前で車を止め、飲酒検問する警察官たち - 佐賀県警本部前で飲酒検問 死亡事故受け取り締まり強化 - 写真・画像(1/1)",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zb1lXcE1tRGJHWnl4WE5nSk1TNFRVYVBwa0NpQ19kRW5KOXZTaHQ0TFBKSkY5ZTJSUXBLSEtjcnpNU3I0UFJEdUxYVi0zeHJNQ3Qta2Vn?oc=5",
-      "date": "Sun, 04 Sep 2022 03:10:39 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Fri, 10 Jul 2026 13:00:00 GMT"
     },
     {
+      "title": "国道444号でトラックと軽乗用車が衝突 57歳男性が意識不明の重体【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhbXpkX2RmZFlZV1A0bkNyV2RBbkFQX1h4WGZlRVJKYWJQaklhbmxSbzJ0U3FPU0ZMYWluTXpPeXVpQURrblA4aFZyMlVYMEJhRW1JOXRZY3FaQXoybW9EODl3?oc=5",
+      "date": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "呼子町の港で70代女性が浮いているのが見つかる 病院搬送も約2時間後に死亡 佐賀・唐津市（RKB毎日放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42S0tQNTNSMDZXMjM2eFhSbGdiMktjcXlqcGZSSlZQV2lCa2hDcGdjNzBDMFU0eFRtTlRBYWR5bDhERmVmQUc5ZlNGSGtfRWRZVWZvV2Q2V21UcjdfRk82TXpka2ViM19uZ2N3SkdMRXVYeGpFVGo1QzlGMTF2T1U?oc=5",
       "date": "Fri, 10 Jul 2026 14:49:12 GMT"
-    },
-    {
-      "title": "佐賀・鳥栖市のJR肥前旭駅構内、快速列車に女性がはねられ死亡",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uZnVfR0M0U3JtWkxCYktyUTlUcGUtVEF0WmtjTC0tVTBxUFR4VGFPNnE4R1RmVlBFc0JVemU3NXRUU0Iwb0kyQndHUnE1XzFZdjJWWFN3?oc=5",
-      "date": "Mon, 06 Jul 2026 07:14:00 GMT"
     }
   ],
   "official_links": [

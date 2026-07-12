@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-12T09:04:01.155048",
+  "generated_at": "2026-07-12T12:04:12.718926",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 26.8,
-    "temp_max": 28.6,
+    "temp_now": 28.5,
+    "temp_max": 28.7,
     "temp_min": 23.1,
-    "precip_prob_max": 14,
+    "precip_prob_max": 20,
     "precip_sum": 0,
-    "wind_speed": 2.8,
+    "wind_speed": 5.6,
     "hourly": [
       {
         "time": "00:00",
@@ -27,7 +27,7 @@
       },
       {
         "time": "06:00",
-        "temp": 23.5,
+        "temp": 23.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
@@ -39,27 +39,27 @@
       },
       {
         "time": "12:00",
-        "temp": 28.6,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 27.5,
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
         "weather": "曇り",
         "precip_prob": 2
       },
       {
-        "time": "18:00",
-        "temp": 26.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
-      },
-      {
         "time": "21:00",
-        "temp": 24.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 25.0,
+        "weather": "曇り",
+        "precip_prob": 10
       }
     ]
   },
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "速報）静岡・富士市で高波にさらわれた男性 搬送先の病院で死亡",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIdmM0NVl1WDhMOHY5SzR2RmdfQmtFM0JPWlVwSGk1a0dtNklKTlZwSnRDWFlDQUxib09wVE4xUlo0aUhCUGtBLU1QOWROS1VjSVVsSWJVeFNCMjZkVHZPY2FnejQ?oc=5",
-      "date": "Sat, 11 Jul 2026 03:06:00 GMT"
-    },
-    {
       "title": "「安全を つなげて広げて 事故ゼロへ」静岡市で夏の交通安全県民運動 出発式 7月11日から20日まで",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nSkhWaGIzUjNIck9FR1VNV1NWeGpjTk0wck01Z2dYVUZ4SVB6Z3lOMDM1OXp2bVVUS3B4amlsS19KdDVZeXVVRGpyNDBLN1Q2WnI5ZEJIbHdkYWdtMVJfT1ZIWQ?oc=5",
       "date": "Fri, 10 Jul 2026 02:55:00 GMT"
+    },
+    {
+      "title": "速報）静岡・富士市で高波にさらわれた男性 搬送先の病院で死亡",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIdmM0NVl1WDhMOHY5SzR2RmdfQmtFM0JPWlVwSGk1a0dtNklKTlZwSnRDWFlDQUxib09wVE4xUlo0aUhCUGtBLU1QOWROS1VjSVVsSWJVeFNCMjZkVHZPY2FnejQ?oc=5",
+      "date": "Sat, 11 Jul 2026 03:06:00 GMT"
     },
     {
       "title": "国道246号でトラックとトレーラーの衝突事故、2人けが 車が交差点をふさぎ現場付近は一時通行止めに=静岡・長泉町 - at",
@@ -112,7 +112,7 @@
       "date": "Wed, 08 Jul 2026 02:20:53 GMT"
     },
     {
-      "title": "「男性が波にさらわれた、陸地から姿は確認できる」富士市の海岸で50代男性が波にさらわれる 県防災ヘリで救助も死亡確認",
+      "title": "波にさらわれ50代男性死亡 静岡",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yYjN1eGxGX01Vcy0tdFJPemRRc3JTXzJKMzFiSHA1MlAzSnV2V2VWdkhVOS1JS2NiaDVOeGFlb2JHQVhnVzhYR3dFdlpaQlQ2?oc=5",
       "date": "Sat, 11 Jul 2026 04:53:20 GMT"
     }
