@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T21:20:08.961197",
+  "generated_at": "2026-07-13T00:01:45.113805",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.1,
+    "temp_max": 28.5,
+    "temp_min": 21.2,
+    "precip_prob_max": 71,
+    "precip_sum": 0.1,
+    "wind_speed": 5.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "06:00",
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "12:00",
+        "temp": 27.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      },
+      {
+        "time": "15:00",
+        "temp": 28.3,
+        "weather": "曇り",
+        "precip_prob": 59
+      },
+      {
+        "time": "18:00",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "21:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月9日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fa2dsWk9pRHloZUdjLTJPUnhicEptTjBMX1BCa1FTVXdqZ2dKUjhsN2ZPbzVBYjdqOFBhMVJOTTdZRWtmekU5WW1vMDZXWUwtci02OGgwd3hHZw?oc=5",
+      "date": "Wed, 08 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月12日（日）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSGlsRTAyT2QyblUzb0JSTnlwMG9sNUpsQTh4bXBDSGxDZG9LWTE4RExnZVp6Y3UzVTktUzFReHRyWVJjOWYybHFlUjNtTlphVXRnX2ZnOEpET3JxSnAyUTVwZU1zOTVTWFV6ZVRHWmg5N18tSzRJOGc5RzJkSFk?oc=5",
+      "date": "Sat, 11 Jul 2026 20:00:32 GMT"
+    },
+    {
+      "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNEt6eVlmMmkteHBIa0NnSC1hRFFGYWQ0LXJlTW16TDhJaHp4c0V1M0VDemdWVktISFk3R3RsR2FtM1liLTRtLTFYNHR1T3RhNm5uQ3BrSHVRNTZpUTgxQUN3UTNWa0hvSDBMZlNEc9IBdEFVX3lxTE1mWEVqLW1LLXhLQy1xck52Q1dxUV9SR0xXY2JLOEozZTRqNXpHdEtHYXoxaG9ZdjRRakhfd01lcUt0Z2tHSk01cEhzdWxnZFR2YXVqZzZlTGZkUDk0M1BiRU9Zd2hYREpVOUpVZU5TRWxidERq?oc=5",
+      "date": "Thu, 09 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月8日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FT0Rwb1M4RGtRNzR0aktZZ2lHSDd6d2U5azR0UkZhU1BpTDRyQXI5U0Z6RTktWHFmMUROZWFoNWdRXzVlQlk5LVdSd1NiYldFMUFsX3JDMk5zZw?oc=5",
+      "date": "Tue, 07 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月12日（日）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0lFTzV2MDZuaHVqdDh2czc0OVVpbHB4M3VMb0FBOF9QUXhOTUFqa0dJdkxVOWg0aE5uekg0dk03VjNWWWlOZGtLVERJeEw2VFJ1MDl5NXl3SjNqMlJlZUk3bWs1T1UwbXpQMkVjdTJ2VnBCVlltdW1tOTF3MG1jMTV4ckZScTh3dHVfaGp3?oc=5",
+      "date": "Sat, 11 Jul 2026 22:05:23 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【JAF岩手】花巻警察署が実施する活動に協力！夏休み期間の子どもの交通事故防止へ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xRk1DUEZ3WXllY1BfajdDRnBYbHkzcWRCVVNtNGFHeXFoUjY5NE9hMTBEZW9Qdi1DWVg3MzhVV0tqRTc5ZkJ4WVBwVmJOX2dJTXY4azFNVEV5VGNJWW1sbXFoODZqczhIVmc?oc=5",
+      "date": "Thu, 09 Jul 2026 01:00:02 GMT"
+    },
+    {
+      "title": "岩手県内 先月末時点で交通事故の死者数 増加率全国最悪",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04aGRXLUdLT2lhd2ZNUldrM2s3VjZ6c3E3bnMxYVBSN1BSeWZjYUtLUWVRcG1GZ0RLRnM3NkQ1aVhIb3FSLV9kQjFmZ3NER0hURTNfQUttZFc?oc=5",
+      "date": "Wed, 08 Jul 2026 03:05:00 GMT"
+    },
+    {
+      "title": "岩手山 登山の63歳男性が死亡 警察が死因調べる 岩手県",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CZHUySXZVSWpkRXRoSTdDQUdvVklydUVRUTNibjh6S2Z2VExzQzlFdDkxamdEVnI5Q2R6UkttdUwxU3JVZjJrcVBQazhoelNlQkdkX0xNYWE1MlE3Vy1pZWpXMjJEazhZUVIyV3oxZ2xzVUJaMzhZaWUxQmpHRm8?oc=5",
+      "date": "Sun, 12 Jul 2026 08:40:00 GMT"
+    },
+    {
+      "title": "岩手山8合目付近で体調不良で倒れた東京の63歳男性が死亡 知人ら6人と登山中 警察が救助に向かうも天候不良で下山は翌日 岩手（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxX0oxczZzTjAxS2o3RVh2TmVGajBrREVGZ0VlNWM5YlVyM1NZUndHcDQ5ZmRvNWsxWkdfajVaeFVndGRicGViczl3YnZPUE1YbFdxVWdFLUpQNXZ1UUpWN25EQUg1bHFxQUJmWl9JZm1kV0VlYnV3RktFOU9SLVU?oc=5",
+      "date": "Sun, 12 Jul 2026 06:24:17 GMT"
+    },
+    {
+      "title": "原付バイク運転の８０代男性が用水路に転落して死亡【岩手・紫波町】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1U3hfV3lQQUFTbnItNjZ5a2lMMUpzRUROd0cyX2xRVHkzSnUzYWluYm4wLTFYbDY5NVR5ZC1QaTJTMjBWS0RSOEhuS1UxdHlYRFRnNzZvQQ?oc=5",
+      "date": "Sat, 04 Jul 2026 04:05:51 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岩手県警察 公式サイトを検索",

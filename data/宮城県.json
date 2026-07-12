@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-12T21:23:09.001257",
+  "generated_at": "2026-07-13T00:01:50.112232",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 22.4,
+    "temp_max": 30.5,
+    "temp_min": 21.8,
+    "precip_prob_max": 78,
+    "precip_sum": 0.8,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.4,
+        "weather": "霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "03:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "06:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "09:00",
+        "temp": 27.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 30.4,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 27.7,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 22
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「東北の麻薬王」ら5人逮捕 宮城県警・東北麻薬取締部",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02ZHBnOWJaOEppOWI1c3ZxeVNIMEdBRUc4YTFadFZ0SWRnZXotazM4Snhua3pNRF8ycmlKMGhMTk1XRmpBZUFXNzR2a000bURtN0xiZ0NWNjFNNWFTc2ZQUExoSk55eFE3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "7月4日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RTlNDNmhIYkxzbnVaN05UMC1CZGJWZWJlbHBuS3pXbmJpT09ncE5xUkxteGFSd3ByMW9tSmdSY2gxMXA3YXY2SHF2ckRqbW12VGxrSjBKb1hWaXJoTTNiQTVFV05nejFPY3lhaUNab9IBdEFVX3lxTE0teGRGRDlVeW1pdzdxV25YTkUza0hzcGgycExaYXhyc0xQd2RDUms1ako1VEdqMWJmb3JSQ3hMQk1CNlgyRzgtS0h0NkpxdlJXMDVSWTJpZWptdy1faXE0cTBCUk9xZ2lnTTFnMk1pMnJSRU9i?oc=5",
+      "date": "Fri, 03 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "地元産のナスを配って「交通事故ナス」を呼びかけ 「事故ナス作戦」 宮城・登米市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WT2xzRXJqWVBhQzRKaGg3blphSnhJVnB6QXZYVXFHcGtXbjVPNDNCN1lkb2RoR0xEZGJweFcyRW0xT3RPOFRFRFV3Q3lOcU1Edno0Q2ZLVQ?oc=5",
+      "date": "Sun, 12 Jul 2026 04:45:00 GMT"
+    },
+    {
+      "title": "地元産のナスを配って「交通事故ナス」を呼びかけ 「事故ナス作戦」 宮城・登米市（tbc東北放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSGgtdjA2OXo3MFRuUTdBYkZjQlNhaTR1cG5FV0tqcllUQk9jclZvQm1lUUF5blNvRTBoalIxSVdqZEI4LVJyX0VkSTFrWDJUcm56M1ZIb2pxa0w3MDlHcmVoNGdISUFBS194cjJFYWVPbXlRc3lrd1pUREk5dmM?oc=5",
+      "date": "Sun, 12 Jul 2026 04:45:30 GMT"
+    },
+    {
+      "title": "東北自動車道のトラック追突死亡事故 容疑者立ち合いで実況見分 宮城・大崎市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OdlhNRDVMcno1SElubENGQ3liS1dsZFM1OGx1V1FCS3ZHRmZnS0NtdHYxMnkxX3V3T1d1b3djV2xrUTduQ1VkV1hYVHZaTlE?oc=5",
+      "date": "Wed, 01 Jul 2026 07:43:35 GMT"
+    },
+    {
+      "title": "東北の犯罪被害者、交通事故の遺族が仙台で交流会 「家族の数だけ悲しみがあると知って」",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CWFJhMURRRnNlN3NLLWx3TEFOdzZKMHhoTWU1b09xTC1xQWxGeDJzcUc0bHBLWmpuaEI2b0JmbGg4VnBqQUQyamZjc01BN010ZFcwRDhsd0VzY2JMU0Jxeg?oc=5",
+      "date": "Sat, 11 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "地元産のナスを配って「交通事故ナス」を呼びかけ　「事故ナス作戦」　宮城・登米市",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWW1HQ2ZDdkhyVE03czFWbWZpdWYxRXdtNUh0OC14cFRlN2FaS01PNlQxd29RUklaMjRXMWlOX3pSajAxd294U2RGUjlUVEZtSk1mU211U1hvaUpyVEZIdlpZNVJMc014UlZZNGhEU2l2ODJMV3FfMkpUTGJUcUFvVE5RZTTSAYQBQVVfeXFMTlltR0NmQ3ZIclRNN3MxVm1maXVmMUV3bTVIdDgteHBUZTdhWktNTzZUMXdvUVJJWjI0VzFpTl96UmowMXdveFNkRlI5VFRGbUpNZlNtdVNYb2lKclRGSHZaWTVSTHNNeFJWWTRoRFNpdjgyTFdxXzJKVExiVHFBb1ROUWU0?oc=5",
+      "date": "Sun, 12 Jul 2026 04:45:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

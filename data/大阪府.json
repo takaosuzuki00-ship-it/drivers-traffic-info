@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-12T21:48:59.449734",
+  "generated_at": "2026-07-13T00:04:39.100805",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 26.7,
-    "temp_max": 30.7,
-    "temp_min": 24.3,
-    "precip_prob_max": 2,
+    "temp_now": 25.9,
+    "temp_max": 31.2,
+    "temp_min": 25.1,
+    "precip_prob_max": 66,
     "precip_sum": 0,
-    "wind_speed": 4.7,
+    "wind_speed": 3.4,
     "hourly": [
       {
         "time": "00:00",
+        "temp": 25.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
         "temp": 25.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 24.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 24.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
         "time": "09:00",
-        "temp": 26.9,
-        "weather": "晴れ",
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 30.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 29.5,
+        "weather": "曇り",
+        "precip_prob": 51
       },
       {
         "time": "15:00",
-        "temp": 30.5,
+        "temp": 31.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 63
       },
       {
         "time": "18:00",
-        "temp": 29.2,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 30.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 26.9,
+        "temp": 28.2,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
     {
       "title": "７月１１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScHFCaHhQTmFOeTgtdFlnX29mZGU1cnVaWUFnTUtCdVhRN2FBQWRYblJuVEJXbFMzRnl4V0x3QWk2cklfYmpLdXpUbGpjRk52YUtNU0ZLQVhPODFmeTJnQTJrTnlyeFYxcTJYWkEyY1duQdIBd0FVX3lxTE9USmJSVDR6R2w3LTJDbnhiWDBadWJpMl8tc1c4a08wdXVQNGRIdTl2eWVqSWlkajNmOHJNR0NwV0ZCblg2OEhpRFNtaTlvbXBvU00zU1ltZVQyS3FtNGZkN0YyLU90UDhxaTNnbjVhMjRIdExFdFBJ?oc=5",
@@ -75,19 +80,14 @@
       "date": "Fri, 10 Jul 2026 06:24:00 GMT"
     },
     {
-      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
-      "date": "Sun, 10 May 2026 07:00:00 GMT"
+      "title": "大阪府警察本部 竹内広行交通部長 危険運転への交通指導取締を強化 二輪車の交通事故防止に重点",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cTEwTXBWdmdSX29WWTZFRjQtUmlvb183TC16akdNRk5zYi1KRk5iQTlTcEowWEprdWZ2TUdmOGJUdTVEUWJXOWJoUG1PeDlvRkE?oc=5",
+      "date": "Fri, 14 Nov 2025 04:25:40 GMT"
     },
     {
       "title": "速報！名神高速の旧型自動速度取締機撤去ポイントに、怖さ倍増、レーダー探知機無効の新Ｌ型オービスがカムバック！【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84VTJTaG55MVF4MVpsZ2o1NTRFVkx3eURNV0lWOFBzWFE4SU01QmxpLXlKbDFxV0Y4c1hVcE5UalJnNm9US2FYUHdxd1pBQQ?oc=5",
       "date": "Fri, 10 Jul 2026 06:37:28 GMT"
-    },
-    {
-      "title": "吉川友梨さん行方不明から23年、現場で検問 情報提供呼びかける [大阪府]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qbVlYOVF3OC1zOUx0V00xTWJicmx0TGZPMW43NjZpOF9VM1VCYV9VZU9YZkFqbkRBT3ptNy0xUVhiVjlpLVV1ZFM4bU9WOWkzSUxEWUxoeEZ5N1YwcEVQUEJtcXp2R0k?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,6 +102,11 @@
       "date": "Tue, 30 Jun 2026 16:45:55 GMT"
     },
     {
+      "title": "バイクが電柱に衝突し27歳とみられる男性死亡　「単車が倒れている」目撃者が119番　防犯カメラに右車線寄りを走行し電柱へ向かう様子　大阪・西成区",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DYU9ZOFhxUGxMckF2SXBGc0xYUXFQakZBZEVfLWR3dmszWTlrUGZKLTdqTDROV2trNi1laTU4VFVhMEl2UnR5bXJWUEcwQUVwN2x2bUNGOVFmWXNILUo5bEtISWhaZ1cwdzJvU3N5NzdxcDZ6R24wRF9R0gF_QVVfeXFMTzUwdmNic2lySWd6V2tSZVVzM1NCZ2xhY0VEOWtFcV9rWTByTUhkczljMTJDZDZuYUdrRnlsT3FseUxQYVdqMkZwcDM4QUtsRnhoN1ZSUkVCOThBUElwQ2UweFFUNXFNQ2xWM3k3ZkhsM1FfN0o5QVV1aU5lcFdrMA?oc=5",
+      "date": "Sun, 12 Jul 2026 03:47:00 GMT"
+    },
+    {
       "title": "スクールバスなど複数台が絡む事故、12人搬送 大阪外環状線",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FeVVXNFZXUmdVbXlJMHVNMU5QcUdxU1dnT0hCSWNrTE96ZjEzeTJUVVpWMFowX2NCRkVhUDhOck5DbHlQbGFzdXpGeC1zMmVmaXcwR2pORUJwa0J4cFJ4YTJBbER3Ykdv?oc=5",
       "date": "Thu, 25 Jun 2026 07:00:00 GMT"
@@ -110,11 +115,6 @@
       "title": "大雨被害、近畿各地で 大阪ではスリップによる横転で死亡事故も",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rNFlVLWxzUHRieEVXUDlkVzlQMGxkS0VtZHBMTFBMbU1mdU5QSDhVMElpVjJfUDBtejNqM2dmUk5JUU9TSmthN2RFaHhoWEJldFJmZU91Qkc0ZkdSUHZwdl9xTU1wLTJJNzJWSnRYeWl3WGpiZmc?oc=5",
       "date": "Fri, 26 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "留学生対象に自転車の安全講習会 大阪市内で外国人が絡む事故が増加傾向 「日本の交通ルール、マナー学んで」",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITXhIUG1lT3V5NTFUNm5QWkpEekwtR1dGN3B3UHV3OVFpYlpBemxSUXVSREFRa0p0NXFMRVlZamltR3FMdXFLY3FLalRxU0RUYWJNODdUNUpEc2Nic2Y3cHAtUFFySUlwZ1V3bmpzclhlWko0aWphcUF6Zm9Ocnc?oc=5",
-      "date": "Wed, 08 Jul 2026 00:37:50 GMT"
     }
   ],
   "official_links": [

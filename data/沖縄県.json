@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-12T21:50:57.638239",
+  "generated_at": "2026-07-13T00:07:00.096602",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 26.7,
-    "temp_max": 29.0,
-    "temp_min": 26.6,
-    "precip_prob_max": 40,
-    "precip_sum": 0.3,
-    "wind_speed": 23.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.5,
+    "temp_max": 29.1,
+    "temp_min": 26.3,
+    "precip_prob_max": 39,
+    "precip_sum": 0,
+    "wind_speed": 24.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.3,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 12
       },
       {
         "time": "03:00",
-        "temp": 27.1,
-        "weather": "曇り",
+        "temp": 26.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 26.8,
-        "weather": "曇り",
-        "precip_prob": 8
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 28.1,
-        "weather": "曇り",
-        "precip_prob": 16
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 28.8,
-        "weather": "曇り",
-        "precip_prob": 39
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 22
       },
       {
         "time": "15:00",
         "temp": 28.8,
-        "weather": "曇り",
-        "precip_prob": 35
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
       },
       {
         "time": "18:00",
         "temp": 27.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 20
+        "weather": "晴れ",
+        "precip_prob": 25
       },
       {
         "time": "21:00",
         "temp": 26.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "weather": "曇り",
+        "precip_prob": 0
       }
     ]
   },
