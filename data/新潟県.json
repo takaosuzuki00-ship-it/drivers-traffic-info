@@ -1,24 +1,73 @@
 {
-  "generated_at": "2026-07-13T06:04:28.436643",
+  "generated_at": "2026-07-13T09:02:35.497001",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.5,
+    "temp_max": 26.3,
+    "temp_min": 24.1,
+    "precip_prob_max": 100,
+    "precip_sum": 10.3,
+    "wind_speed": 15.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.4,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 24.9,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 25.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 25.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "15:00",
+        "temp": 26.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "７月１３日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHQwd0Z5b0VnZDNITFpFVUhhclpXcVpRMHV1dDdkem53WXFncUl2ZFA4MEJFUDBfRTZHWklsTGtPLTZycWZuUDd0anBRWmd2WEViNXJ5Z25jZmdpa3JGbmwzazl0cThhb2JPWDgwRERaeE5pb2I0ZGlDcDd6RGdtaW8xanJ1NzJLZkR3bVk5d0o3eWVUcnJXNGZGWWF1R0psejdyaWdnaWp1ektUWUdfTG1iQmxmdlMxM2o1RU9ScmZTVWpfZ3Vv0gF3QVVfeXFMTThtWWtnQWg5SnNkRnF4Rk1pOVZBX2htSUdOTGlrQnhfVm5kcEphX2ViQ18zVGhuZ2NnZ0o5N2N3NFdMbmNxd1BfczRXaXROZVdUZWc1UC1jWkNyblFTTlU1Y1ZkUFpsRkhWNkVGSnlaWU1xX3U4V1E?oc=5",
-      "date": "Sun, 12 Jul 2026 20:09:38 GMT"
-    },
-    {
-      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kZGp6SDdxemNQYmY3RGRSR2l0WUIwd0M5WHBGc3BWM1BwVlRtU0d6QlFSMXQxZXhRWW9uUDVITFo4cktYZmlaWWhUR1lIUGg4TlRZQ1RJUQ?oc=5",
-      "date": "Wed, 08 Jul 2026 20:02:00 GMT"
-    },
-    {
-      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
-      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "7月12日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -26,9 +75,19 @@
       "date": "Sat, 11 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
-      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "７月１２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zc3d2REcydnlxVWwyRGFEc0JrNHdDekh5bEFqSjdOeHZHY0NEX3pSaHF0T1R4eF9POUctcmlmSUJSOHNhUXg4WUl3aGNRY0NDamdyY0RNZm1meW8ySE1BeTI3aVFTY3lBVlNnbXdQcnhpd9IBd0FVX3lxTE5tWC1ZMng5dm5LZU15UldSR1p1cTFpUmxlZmFjcjdneEM1YjdtMVJRZDBIQWlBU2Q5LTIyWk5MQTJnWUVudXRUX0ppd25UWXJobE4xaTFFQ0RmVE9SZ2k0TGRtYWZveEF0dUNUSC0tMjBpTWNuaDdN?oc=5",
+      "date": "Sat, 11 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "「事故のない連休に」新潟バイパスで早朝の一斉取り締まり、速度超過や携帯使用を摘発",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53V19ZNWFUNUhiZTVQRXVGNjVwTk8yVkVPanhoamwyZ014aXJtVF9CMHNLeGlweWRqMkRCZ3hXbFZjYU95NUoyX3ZRekw2b2RzN01oWWxCLVRoN0NSd0E?oc=5",
+      "date": "Sat, 02 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

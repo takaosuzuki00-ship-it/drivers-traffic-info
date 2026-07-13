@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-07-13T06:07:06.127315",
+  "generated_at": "2026-07-13T09:04:42.663791",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.1,
+    "temp_max": 31.8,
+    "temp_min": 25.5,
+    "precip_prob_max": 33,
+    "precip_sum": 0,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 30.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "18:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月11日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5bkRFYVI1NVZ5VktyM3BYRlFhNERGaktpTlU3WGk5NU50MXp3SnVpclFIUUV3V2cwU2VWTER6QUxlUlpVN0FETC1yMFNOc1dPb0FUbVBFSG81QTI2blVCYTd1VzhadFlDNnlpV2xZcWhFWHJqeUUwcFdnSzRKOUE?oc=5",
       "date": "Fri, 10 Jul 2026 20:00:34 GMT"
+    },
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "7月11日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -21,14 +85,9 @@
       "date": "Fri, 10 Jul 2026 07:17:13 GMT"
     },
     {
-      "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSXpteUJKRE05UXdWQm1XN2FYblRLOTlKb29MdDhEZzhxV1o1VjJGMHhwMjV3M0RvTFpWNlU3NzUtaWpZSG1EMXVHcm9lYkhtRjYzd0VSVnlEaTNkd21YOHdkOThxU1Y1cHpPczN6VdIBdEFVX3lxTE1ZR0U1UGJSbWNvdElwd1hFVF9VYWZveXVjMXRCbWg5Tm1BMnNQVGJ2eTlNV3BfLUtuaHJYTF9lekhHWk1MQVlLaHc2SUZUNHNUTjdaSlVCU0ZnOWNqdU13b24wd29DTHdMRHFDcjQtUXlqOF9z?oc=5",
-      "date": "Thu, 09 Jul 2026 20:10:37 GMT"
-    },
-    {
-      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+      "title": "7月10日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNEt6eVlmMmkteHBIa0NnSC1hRFFGYWQ0LXJlTW16TDhJaHp4c0V1M0VDemdWVktISFk3R3RsR2FtM1liLTRtLTFYNHR1T3RhNm5uQ3BrSHVRNTZpUTgxQUN3UTNWa0hvSDBMZlNEc9IBdEFVX3lxTE1mWEVqLW1LLXhLQy1xck52Q1dxUV9SR0xXY2JLOEozZTRqNXpHdEtHYXoxaG9ZdjRRakhfd01lcUt0Z2tHSk01cEhzdWxnZFR2YXVqZzZlTGZkUDk0M1BiRU9Zd2hYREpVOUpVZU5TRWxidERq?oc=5",
+      "date": "Thu, 09 Jul 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,14 +97,14 @@
       "date": "Fri, 10 Jul 2026 06:00:00 GMT"
     },
     {
-      "title": "「交通ルール・マナーを守って」事故防止を呼びかけ 夏の交通安全県民運動スタート 福岡（FBS福岡放送）",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFJOU1FPdkRQUlh3Y05GQVYyM1B6LVZ6Uk5PTzNYbHJ0UmJtVWd3VTdkNlhhREk1T0xNUzZta2ppT0NNV3ljNXplR09xVXRqNk1MVDhKckhZdmZVWU9mMVRmVi1uTU8tUkFjbERVMjNFNE9LUW4tbnhOSGprZ3FWaHRoR2ZyWnJlbmdzUFhn?oc=5",
-      "date": "Fri, 10 Jul 2026 03:01:00 GMT"
-    },
-    {
       "title": "「生後２カ月の乳児が車外に放り出された」 車２台が出合い頭に衝突 幼い子供４人含む７人を搬送 福岡・福智町",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HeDFxYk5wOU1KekhLczNBVWxoTExiUHl3M09raUN6aTZQWjQyR05QLVhfNkNjXzFORFpMeWUwaXFzV3JHeTltaXctdjFiaWRMZjZULXpXcG1IY1Ixd1JEUXdidw?oc=5",
       "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「交通ルール・マナーを守って」事故防止を呼びかけ 夏の交通安全県民運動スタート 福岡（FBS福岡放送）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFJOU1FPdkRQUlh3Y05GQVYyM1B6LVZ6Uk5PTzNYbHJ0UmJtVWd3VTdkNlhhREk1T0xNUzZta2ppT0NNV3ljNXplR09xVXRqNk1MVDhKckhZdmZVWU9mMVRmVi1uTU8tUkFjbERVMjNFNE9LUW4tbnhOSGprZ3FWaHRoR2ZyWnJlbmdzUFhn?oc=5",
+      "date": "Fri, 10 Jul 2026 03:01:00 GMT"
     },
     {
       "title": "交通事故装い保険金だまし取った疑い、北九州市の男逮捕",

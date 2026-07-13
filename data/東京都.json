@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-13T06:04:00.120106",
+  "generated_at": "2026-07-13T09:02:23.107615",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 24.2,
+    "temp_max": 27.4,
+    "temp_min": 23.8,
+    "precip_prob_max": 80,
+    "precip_sum": 8.8,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.2,
+        "weather": "霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "03:00",
+        "temp": 23.8,
+        "weather": "強い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "06:00",
+        "temp": 23.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 24.2,
+        "weather": "霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "12:00",
+        "temp": 25.0,
+        "weather": "曇り",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 26.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 24.6,
+        "weather": "晴れ",
+        "precip_prob": 67
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月13日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
@@ -11,9 +70,9 @@
       "date": "Sun, 12 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "７月１２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEVMZ2E4OTk4Um1KU0VSSkJqcVF1LXZOZTlIeS15VEtXbVM3am9IcWk3OW1od0o0dHRqQVppWW1oLXpuVzlXbU9TN2JKNFBKSnJDT0xOTEg4R01RTXBZNUpxVm9VTGtpV2c2STFrWEdMT3JpTndyMC1qczVvX0RlQTFadUdObk1xenJISTVNUGJlUTM4XzNBX2xJWHdYUkk3d1BEc3VLLWlQTHkyem1qbUtadmt3REk1R0V5OWwySHc1ZUxqMW1N0gF3QVVfeXFMTm1YLVkyeDl2bktlTXlSV1JHWnVxMWlSbGVmYWNyN2d4QzViN20xUlFkMEhBaUFTZDktMjJaTkxBMmdZRW51dFRfSml3blRZcmhsTjFpMUVDRGZUT1JnaTRMZG1hZm94QXR1Q1RILS0yMGlNY25oN00?oc=5",
-      "date": "Sat, 11 Jul 2026 20:10:26 GMT"
+      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
+      "date": "Sun, 12 Jul 2026 20:16:00 GMT"
     },
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
@@ -26,9 +85,9 @@
       "date": "Wed, 08 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "７月１１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScHFCaHhQTmFOeTgtdFlnX29mZGU1cnVaWUFnTUtCdVhRN2FBQWRYblJuVEJXbFMzRnl4V0x3QWk2cklfYmpLdXpUbGpjRk52YUtNU0ZLQVhPODFmeTJnQTJrTnlyeFYxcTJYWkEyY1duQdIBd0FVX3lxTE9USmJSVDR6R2w3LTJDbnhiWDBadWJpMl8tc1c4a08wdXVQNGRIdTl2eWVqSWlkajNmOHJNR0NwV0ZCblg2OEhpRFNtaTlvbXBvU00zU1ltZVQyS3FtNGZkN0YyLU90UDhxaTNnbjVhMjRIdExFdFBJ?oc=5",
-      "date": "Fri, 10 Jul 2026 20:06:58 GMT"
+      "title": "７月１２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSEVMZ2E4OTk4Um1KU0VSSkJqcVF1LXZOZTlIeS15VEtXbVM3am9IcWk3OW1od0o0dHRqQVppWW1oLXpuVzlXbU9TN2JKNFBKSnJDT0xOTEg4R01RTXBZNUpxVm9VTGtpV2c2STFrWEdMT3JpTndyMC1qczVvX0RlQTFadUdObk1xenJISTVNUGJlUTM4XzNBX2xJWHdYUkk3d1BEc3VLLWlQTHkyem1qbUtadmt3REk1R0V5OWwySHc1ZUxqMW1N0gF3QVVfeXFMTm1YLVkyeDl2bktlTXlSV1JHWnVxMWlSbGVmYWNyN2d4QzViN20xUlFkMEhBaUFTZDktMjJaTkxBMmdZRW51dFRfSml3blRZcmhsTjFpMUVDRGZUT1JnaTRMZG1hZm94QXR1Q1RILS0yMGlNY25oN00?oc=5",
+      "date": "Sat, 11 Jul 2026 20:10:26 GMT"
     }
   ],
   "accident_news": [
@@ -53,9 +112,9 @@
       "date": "Fri, 10 Jul 2026 12:35:00 GMT"
     },
     {
-      "title": "東京ドームシティ女性従業員死亡事故 調査報告書を公表（2026年7月10日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85SzVYLUlvME5IdExTS3BKNDFyellPRG5nWUFCS0ZBODktZl9kLVkwaWxTU3hGZ1VuSHBCSTZjSS1vUElISWMtMl96aGtYX2VkYlI0c1VfbzhmbmxvTWY1YmZ3X202YUtfZmR3QkxXdVZtNUhzRFdIT1ViT0U?oc=5",
-      "date": "Sat, 11 Jul 2026 00:12:00 GMT"
+      "title": "東京ドームシティ アトラクションズ、8月以降を目途に再開へ 「フライングバルーン」は撤去 4月に作業中女性が死亡事故 原因も公表",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QLTBUQU5RSXJTXzgycmlyM1BXaGZNZ1Zpc1ZRZmFKeks1aDZvSDZVTU16RzVjbnZsdkZpeVhubkdyTVpEaWJXcF9hNEx4RU0?oc=5",
+      "date": "Sun, 12 Jul 2026 21:49:12 GMT"
     }
   ],
   "official_links": [
