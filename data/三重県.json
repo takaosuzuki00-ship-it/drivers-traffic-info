@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:02:57.425377",
+  "generated_at": "2026-07-13T15:04:32.474793",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
@@ -7,11 +7,11 @@
     "code": 3,
     "weather": "曇り",
     "temp_now": 31.8,
-    "temp_max": 31.8,
+    "temp_max": 32.1,
     "temp_min": 26.9,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 14.3,
+    "wind_speed": 13.1,
     "hourly": [
       {
         "time": "00:00",
@@ -34,18 +34,18 @@
       {
         "time": "09:00",
         "temp": 29.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 31.8,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
-        "time": "15:00",
+        "time": "12:00",
         "temp": 31.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
@@ -57,7 +57,7 @@
       },
       {
         "time": "21:00",
-        "temp": 27.7,
+        "temp": 27.8,
         "weather": "晴れ",
         "precip_prob": 0
       }

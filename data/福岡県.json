@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-13T12:03:58.926732",
+  "generated_at": "2026-07-13T15:05:44.487801",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 31.8,
-    "temp_max": 32.0,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 30.4,
+    "temp_max": 31.6,
     "temp_min": 25.4,
     "precip_prob_max": 27,
     "precip_sum": 0,
-    "wind_speed": 5.6,
+    "wind_speed": 7.0,
     "hourly": [
       {
         "time": "00:00",
@@ -33,26 +33,26 @@
       },
       {
         "time": "09:00",
-        "temp": 30.1,
-        "weather": "晴れ",
+        "temp": 29.9,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 31.8,
+        "temp": 31.4,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 30.5,
+        "temp": 30.4,
         "weather": "晴れ",
         "precip_prob": 27
       },
       {
         "time": "18:00",
-        "temp": 31.4,
-        "weather": "快晴",
+        "temp": 30.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
@@ -92,9 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "【交通情報】福岡・八木山バイパス 篠栗IC～飯塚IC間で全面通行止め トラックなど複数台の事故のため",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZ2JKTmdNaUU0NTZHbF85ejJCdG1RMmFIRDVFU2tfSzZMeGhMYllZTEZMVkFyRk1OYUk4VVNoVVhSTHB6WDRBRXVfUEs4Zw?oc=5",
-      "date": "Mon, 13 Jul 2026 01:00:00 GMT"
+      "title": "ダンプカーが逆走しトラックと正面衝突か トラックの運転手が死亡 福岡県篠栗町・八木山バイパス",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wX1JvcTdYak1va3JMSWZ6SE1ZSlFYNFR1Ql85OXBTSUFfdmI5OGkxRGdQREp2VHZEb0NqMEUzbVNlN3VnUXFjVDNnSUJheDZ3dlR5U04tVUxrUWxvajNHdk9XMFg?oc=5",
+      "date": "Mon, 13 Jul 2026 02:30:00 GMT"
+    },
+    {
+      "title": "【交通情報】福岡・八木山バイパス 篠栗IC～飯塚IC間で全面通行止め→解除 トラックなど複数台の事故のため【13日午後1時5分時点】（TNCテレビ西日本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CSlRGWUVNM0hjcXNmRFRVSl9rb3cxWFBVNHRNZmlzd2VKVEp3UWhGeFNFMVFtLTF4SmRPY1A4T0J5NXFrWkNiMW1ja2w3N1FGVkhPa3dhd25KeFZSWUJUdmg0WG5xazVHeHF4UGY3bFhmdlAzZW1QRkExVVhJQXc?oc=5",
+      "date": "Mon, 13 Jul 2026 04:11:02 GMT"
     },
     {
       "title": "飲酒運転「自転車なら大丈夫」許すまじ、摘発件数全国一の福岡県警…かつて自動車の飲酒運転で３児死亡の事故",
@@ -102,19 +107,14 @@
       "date": "Fri, 10 Jul 2026 06:00:00 GMT"
     },
     {
-      "title": "「生後２カ月の乳児が車外に放り出された」 車２台が出合い頭に衝突 幼い子供４人含む７人を搬送 福岡・福智町",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HeDFxYk5wOU1KekhLczNBVWxoTExiUHl3M09raUN6aTZQWjQyR05QLVhfNkNjXzFORFpMeWUwaXFzV3JHeTltaXctdjFiaWRMZjZULXpXcG1IY1Ixd1JEUXdidw?oc=5",
-      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+      "title": "【交通情報】福岡・八木山バイパス　篠栗IC〜飯塚IC間で全面通行止め　トラックなど複数台の事故のため",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrcmFoMFFfVGIybWNYeEtDeXdmdG01NXRwRnhsSmtic0ZWMEdfYjI5T3J4M0cxRlJPSHRFV25GOFZOQ0xfYllmVDgyaVcxU25EemQwckd5aUx3RGFGQ2p2aEEteGRLenVjWnRrTFZqcTNRZkxH0gF0QVVfeXFMUGtyYWgwUV9UYjJtY1h4S0N5d2Z0bTU1dHBGeGxKa2JzRlYwR19iMjlPcngzRzFGUk9IdEVXbkY4Vk5DTF9iWWZUODJpVzFTbkR6ZDByR3lpTHdEYUZDanZoQS14ZEt6dWNadGtMVmpxM1FmTEc?oc=5",
+      "date": "Mon, 13 Jul 2026 01:00:00 GMT"
     },
     {
-      "title": "「交通ルール・マナーを守って」事故防止を呼びかけ 夏の交通安全県民運動スタート 福岡（FBS福岡放送）",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFJOU1FPdkRQUlh3Y05GQVYyM1B6LVZ6Uk5PTzNYbHJ0UmJtVWd3VTdkNlhhREk1T0xNUzZta2ppT0NNV3ljNXplR09xVXRqNk1MVDhKckhZdmZVWU9mMVRmVi1uTU8tUkFjbERVMjNFNE9LUW4tbnhOSGprZ3FWaHRoR2ZyWnJlbmdzUFhn?oc=5",
-      "date": "Fri, 10 Jul 2026 03:01:00 GMT"
-    },
-    {
-      "title": "福岡市早良区の山中で30代の男性死亡 樹木を伐採中、沢に転落",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TbHRiNmE0aFJCSURfZTRTUGNFU3hrWFUwZHQ2MTJvS2c5OVBOalBiUjFKcThrTmhFTnNNYlRDSmVqMUJuQ2JIaWJZSXhieHV3RkJDelln?oc=5",
-      "date": "Sat, 11 Jul 2026 06:30:00 GMT"
+      "title": "福岡 篠栗町 逆走ダンプカーがトラックと衝突 1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbV9UWV92Q0pEWmhZc2Q0YVRvQnhLaFZrS3FDc200bEZYaXQtQzZpYzRrUXFLa0VoWWNFcC1KaXR6T3pGSzB0djY1czR2dF9VOF9teFZCaXlkTWIwY3Ew?oc=5",
+      "date": "Mon, 13 Jul 2026 02:24:05 GMT"
     }
   ],
   "official_links": [
