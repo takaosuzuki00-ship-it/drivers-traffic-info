@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-14T03:02:16.152150",
+  "generated_at": "2026-07-14T06:02:16.623821",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 25.5,
-    "temp_max": 28.4,
-    "temp_min": 25.3,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.6,
+    "temp_max": 28.5,
+    "temp_min": 25.4,
     "precip_prob_max": 45,
     "precip_sum": 0,
-    "wind_speed": 14.0,
+    "wind_speed": 14.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.5,
+        "temp": 25.6,
         "weather": "晴れ",
         "precip_prob": 2
       },
@@ -34,30 +34,30 @@
       {
         "time": "09:00",
         "temp": 26.7,
-        "weather": "晴れ時々曇",
+        "weather": "晴れ",
         "precip_prob": 20
       },
       {
         "time": "12:00",
-        "temp": 27.8,
+        "temp": 28.0,
         "weather": "晴れ",
         "precip_prob": 45
       },
       {
         "time": "15:00",
-        "temp": 28.4,
+        "temp": 28.5,
         "weather": "晴れ",
         "precip_prob": 20
       },
       {
         "time": "18:00",
         "temp": 27.1,
-        "weather": "晴れ",
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 25.8,
+        "temp": 25.9,
         "weather": "晴れ",
         "precip_prob": 4
       }
@@ -65,9 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "7月12日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaEdLVzk2b1YzU1dDalQ1V3pFakoyZ2NnUjhnMFM0UnczclNDdFlfZnRORi04RWE4R0xwS0FtTTVJclRaUWM5N1VlbHNLWGg1MjRpS2k0eFJDWWRmZDZYQUVhazRYNjY3QU56TlBZa9IBdEFVX3lxTE9ZUmRreHU0QzNGNVY1aklSLU05bm5ybl91S0dhZXB5ME9TZVZEM0NjT0RXV3pjWXRuUTdtOHVNakZqR19JRWV1VDJIYThxV3FkMGNCOWM4ZVJUeC1EQTJSV2tyd2c3djNJZi1oQU5rWUlaa3k4?oc=5",
-      "date": "Sat, 11 Jul 2026 20:02:00 GMT"
+      "title": "7月14日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NaDN3eW01WXZBVUNieFR0RFJUSkNGYXFZWEtkS2d5cFNpVk9TU2M4OWI4S0ttVnVvcUNPVDhtOFE2aGh4ZC04WFdUNHp4N1RzZngya0NkREp6WUNzYThNMXBtSlRRRDAxUVc2M1cxQdIBdEFVX3lxTFA4dXlZWWFBdk1QbGo0emd1OE0zTWV5QkVkWGZ0bHc1M2V2ZWVBY2QxZld6bjk3Y3JBejE3Um1ZajJtQVROWDFkOVpMcy1Zbm1KYjNaNXVMdldjY3ZZQXF0ZWRYeU1aWjhGcHVCWDN4T0g3RFF3?oc=5",
+      "date": "Mon, 13 Jul 2026 20:05:13 GMT"
+    },
+    {
+      "title": "7月9日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kZGp6SDdxemNQYmY3RGRSR2l0WUIwd0M5WHBGc3BWM1BwVlRtU0d6QlFSMXQxZXhRWW9uUDVITFo4cktYZmlaWWhUR1lIUGg4TlRZQ1RJUQ?oc=5",
+      "date": "Wed, 08 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
@@ -75,19 +80,14 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "７月１２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ01RNFk3OTZaSGJWakc2NGJJMk1Ba0lUWUM3NlYtTktZQmFCQ1ZxNUVvQzA1dlY0ODAteEl1N0djU0xQTFA3M0tZeUFlai1jRy1kUTBZZ0pRTGRWenJMU0dCNUZhX0VtT2pjbWdDbEhsQTVMUGp4dmFfQzlncHpqX2drUVTSAXdBVV95cUxObVgtWTJ4OXZuS2VNeVJXUkdadXExaVJsZWZhY3I3Z3hDNWI3bTFSUWQwSEFpQVNkOS0yMlpOTEEyZ1lFbnV0VF9KaXduVFlyaGxOMWkxRUNEZlRPUmdpNExkbWFmb3hBdHVDVEgtLTIwaU1jbmg3TQ?oc=5",
-      "date": "Sat, 11 Jul 2026 20:00:00 GMT"
+      "title": "7月12日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaEdLVzk2b1YzU1dDalQ1V3pFakoyZ2NnUjhnMFM0UnczclNDdFlfZnRORi04RWE4R0xwS0FtTTVJclRaUWM5N1VlbHNLWGg1MjRpS2k0eFJDWWRmZDZYQUVhazRYNjY3QU56TlBZa9IBdEFVX3lxTE9ZUmRreHU0QzNGNVY1aklSLU05bm5ybl91S0dhZXB5ME9TZVZEM0NjT0RXV3pjWXRuUTdtOHVNakZqR19JRWV1VDJIYThxV3FkMGNCOWM4ZVJUeC1EQTJSV2tyd2c3djNJZi1oQU5rWUlaa3k4?oc=5",
+      "date": "Sat, 11 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】8月3日 新潟市西区や西蒲区で取り締まり強化",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9wWTNxVWNIOXU0YUR4dUJtbFRSOHdEUGE1MFdWY3pZS2gwclBqS20yU3NvSmR1LTg4RUd3c2ZVYzBBd1dJ?oc=5",
-      "date": "Sun, 03 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [

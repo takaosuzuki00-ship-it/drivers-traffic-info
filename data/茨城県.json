@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-14T03:01:50.844277",
+  "generated_at": "2026-07-14T06:01:49.142666",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 23.1,
-    "temp_max": 31.1,
-    "temp_min": 22.6,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.7,
+    "temp_max": 31.5,
+    "temp_min": 22.3,
     "precip_prob_max": 59,
     "precip_sum": 0,
-    "wind_speed": 4.0,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
@@ -21,43 +21,43 @@
       },
       {
         "time": "03:00",
-        "temp": 23.1,
+        "temp": 22.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
+        "temp": 22.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.6,
+        "temp": 26.7,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "12:00",
         "temp": 31.1,
-        "weather": "晴れ時々曇",
+        "weather": "晴れ",
         "precip_prob": 33
       },
       {
         "time": "15:00",
-        "temp": 29.8,
-        "weather": "晴れ時々曇",
+        "temp": 30.0,
+        "weather": "晴れ",
         "precip_prob": 59
       },
       {
         "time": "18:00",
-        "temp": 27.6,
+        "temp": 28.2,
         "weather": "晴れ時々曇",
         "precip_prob": 20
       },
       {
         "time": "21:00",
-        "temp": 25.8,
+        "temp": 26.3,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
-      "date": "Sun, 12 Jul 2026 20:16:00 GMT"
-    },
-    {
       "title": "７月１０日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OM2Jka0ozVm5yM0w0YmdFQ2tQcmdBbC1WdWVUYWdaVmZZajBfOFdqWlNFeWRXQVkwUnktVTBhSkhHUXY4RFBjeUptaFR1YWMzSlNDdzBFRlplSzg?oc=5",
       "date": "Thu, 09 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
+      "date": "Sun, 12 Jul 2026 20:16:00 GMT"
     },
     {
       "title": "きょうの交通取締",
@@ -80,14 +80,14 @@
       "date": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "７月１３日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHQwd0Z5b0VnZDNITFpFVUhhclpXcVpRMHV1dDdkem53WXFncUl2ZFA4MEJFUDBfRTZHWklsTGtPLTZycWZuUDd0anBRWmd2WEViNXJ5Z25jZmdpa3JGbmwzazl0cThhb2JPWDgwRERaeE5pb2I0ZGlDcDd6RGdtaW8xanJ1NzJLZkR3bVk5d0o3eWVUcnJXNGZGWWF1R0psejdyaWdnaWp1ektUWUdfTG1iQmxmdlMxM2o1RU9ScmZTVWpfZ3Vv0gF3QVVfeXFMTThtWWtnQWg5SnNkRnF4Rk1pOVZBX2htSUdOTGlrQnhfVm5kcEphX2ViQ18zVGhuZ2NnZ0o5N2N3NFdMbmNxd1BfczRXaXROZVdUZWc1UC1jWkNyblFTTlU1Y1ZkUFpsRkhWNkVGSnlaWU1xX3U4V1E?oc=5",
-      "date": "Sun, 12 Jul 2026 20:09:38 GMT"
-    },
-    {
       "title": "7月10日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jY0Z5VnVXd2lESUhLNzQ5bTVpVUJmM250MDFvak52QVFIWXFnOFBoc1FIYkIwelp2US1uSVVnSldpMUstS0pVMWxNYl93UlplbFc4engtU0FJdw?oc=5",
       "date": "Thu, 09 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
