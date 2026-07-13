@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-07-13T21:03:08.901552",
+  "generated_at": "2026-07-14T00:03:22.451452",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 27.9,
-    "temp_max": 32.7,
-    "temp_min": 24.3,
-    "precip_prob_max": 6,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.9,
+    "temp_max": 34.0,
+    "temp_min": 25.2,
+    "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 1.5,
+    "wind_speed": 3.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 24.8,
+        "temp": 26.9,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "06:00",
-        "temp": 24.9,
-        "weather": "晴れ時々曇",
+        "temp": 25.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 28.5,
+        "temp": 30.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.1,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 32.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 32.7,
+        "temp": 33.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 31.6,
+        "temp": 32.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.9,
+        "temp": 27.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
