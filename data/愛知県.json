@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-15T00:03:56.028938",
+  "generated_at": "2026-07-15T03:03:02.016350",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 26.8,
-    "temp_max": 35.1,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.8,
+    "temp_max": 35.4,
     "temp_min": 25.1,
-    "precip_prob_max": 50,
+    "precip_prob_max": 45,
     "precip_sum": 0,
-    "wind_speed": 1.5,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 26.8,
-        "weather": "快晴",
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 25.2,
+        "temp": 25.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.2,
-        "weather": "晴れ時々曇",
+        "temp": 30.3,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.3,
-        "weather": "曇り",
+        "temp": 34.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 34.3,
+        "temp": 34.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "precip_prob": 27
       },
       {
         "time": "18:00",
-        "temp": 31.9,
-        "weather": "晴れ",
-        "precip_prob": 49
+        "temp": 32.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
       },
       {
         "time": "21:00",
-        "temp": 29.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 29.7,
+        "weather": "晴れ",
+        "precip_prob": 4
       }
     ]
   },
