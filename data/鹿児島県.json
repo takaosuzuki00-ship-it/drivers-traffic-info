@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-14T21:06:46.533912",
+  "generated_at": "2026-07-15T00:06:08.397003",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 27.7,
-    "temp_max": 31.1,
-    "temp_min": 26.1,
-    "precip_prob_max": 4,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.4,
+    "temp_max": 30.3,
+    "temp_min": 27.3,
+    "precip_prob_max": 94,
     "precip_sum": 0,
-    "wind_speed": 3.1,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.1,
-        "weather": "快晴",
+        "temp": 27.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 26.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 26.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 27.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 28.5,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 28.4,
+        "weather": "曇り",
+        "precip_prob": 76
       },
       {
         "time": "12:00",
-        "temp": 30.2,
-        "weather": "快晴",
-        "precip_prob": 4
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 92
       },
       {
         "time": "15:00",
-        "temp": 31.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 29.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 63
       },
       {
         "time": "21:00",
-        "temp": 27.7,
+        "temp": 27.8,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 24
       }
     ]
   },
