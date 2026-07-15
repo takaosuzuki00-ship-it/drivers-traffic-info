@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-15T18:03:25.575936",
+  "generated_at": "2026-07-15T21:03:06.175819",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 29.3,
+    "temp_now": 27.7,
     "temp_max": 32.3,
     "temp_min": 24.9,
-    "precip_prob_max": 2,
+    "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 6.6,
+    "wind_speed": 4.5,
     "hourly": [
       {
         "time": "00:00",
@@ -45,19 +45,19 @@
       },
       {
         "time": "15:00",
-        "temp": 32.0,
+        "temp": 32.3,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 29.3,
+        "temp": 29.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.6,
+        "temp": 27.7,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "令和8年 夏の交通事故防止運動",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ09WZUY3Y1BxM3NOcGZqMUpPcUh3VVVsR0psS09CYVpIa2pNeFRNeGRyNFkyYjdhSklFZ0dNMThvb09lclVWXzZ6bmVHTWgyd0NzclNrSGZZRlRydkxoUkVGV25FejdFanN6V3RPakJodl93b1p6LUVERjhENDhYUm1KaklIVUNJYlVwMFVPa1IxN0l0bGVReFQ4VU1jQjFJ?oc=5",
       "date": "Tue, 30 Jun 2026 16:45:55 GMT"
@@ -110,11 +115,6 @@
       "title": "大雨被害、近畿各地で 大阪ではスリップによる横転で死亡事故も",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rNFlVLWxzUHRieEVXUDlkVzlQMGxkS0VtZHBMTFBMbU1mdU5QSDhVMElpVjJfUDBtejNqM2dmUk5JUU9TSmthN2RFaHhoWEJldFJmZU91Qkc0ZkdSUHZwdl9xTU1wLTJJNzJWSnRYeWl3WGpiZmc?oc=5",
       "date": "Fri, 26 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "スクールバスなど複数台が絡む事故、12人搬送 大阪外環状線",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FeVVXNFZXUmdVbXlJMHVNMU5QcUdxU1dnT0hCSWNrTE96ZjEzeTJUVVpWMFowX2NCRkVhUDhOck5DbHlQbGFzdXpGeC1zMmVmaXcwR2pORUJwa0J4cFJ4YTJBbER3Ykdv?oc=5",
-      "date": "Thu, 25 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
