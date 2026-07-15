@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-07-15T21:01:27.845994",
+  "generated_at": "2026-07-16T00:01:27.746267",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 27.1,
-    "temp_max": 32.5,
-    "temp_min": 25.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.6,
+    "temp_max": 31.8,
+    "temp_min": 23.4,
     "precip_prob_max": 100,
-    "precip_sum": 20.2,
-    "wind_speed": 3.6,
+    "precip_sum": 0.7,
+    "wind_speed": 17.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.1,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 25.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 26.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 27.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
       },
       {
         "time": "06:00",
-        "temp": 26.7,
+        "temp": 24.4,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 96
       },
       {
         "time": "09:00",
-        "temp": 29.4,
+        "temp": 27.7,
+        "weather": "快晴",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 31.0,
+        "weather": "快晴",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 31.5,
+        "weather": "快晴",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 27.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "12:00",
-        "temp": 31.5,
-        "weather": "晴れ",
-        "precip_prob": 14
-      },
-      {
-        "time": "15:00",
-        "temp": 32.5,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "18:00",
-        "temp": 30.9,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
         "time": "21:00",
-        "temp": 27.1,
-        "weather": "弱い雨",
-        "precip_prob": 88
+        "temp": 24.5,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
-      "date": "Fri, 10 Jul 2026 20:02:00 GMT"
-    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -80,9 +75,14 @@
       "date": "Sat, 11 Jul 2026 02:54:00 GMT"
     },
     {
-      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT"
+      "title": "大麻由来の成分「カンナビノール」所持で男を逮捕 県内で初摘発 先月1日付けで指定薬物に指定",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yMG1IUmRVcVJGblo0QktrUzJZbWs0R2VxODJoZF9FQlQ4Mzh5RWRMWkRabVZfNlA5aUY4MUk2WXdTTTdsUjEzNHhOUQ?oc=5",
+      "date": "Fri, 03 Jul 2026 02:50:23 GMT"
+    },
+    {
+      "title": "“偽ポケカ”を販売 商標法違反の疑いで大阪の男逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pT2N0MnFnM3htV0dTZEtTZ0pCY3RKVmhIbjBPQWpFZ2pyWmZlVTFwUzFnZjlZWm5DU3FlR1Myb1QySzg4VnU2VUFpN1pMRlBKbFJBOFZ1c2o?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "サッカーJ2ヴァンラーレ八戸の元役員が酒気帯び運転の疑いで警察に摘発 青森県",
@@ -97,9 +97,9 @@
       "date": "Mon, 13 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "5月に赤色塗装をしたばかりの「多発交差点」で事故防げず…衝突事故で重体だった0歳男児が死亡 青森県三沢市（青森放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zV1NDWFgtUURuX24tWXQ0SnktTFNqbG1TcnQwb1gtX3Z5VkMzOW4wWmtHWGZ3ZXRWX2QwMlFfY01rX1Y5MHowZTFuUzlna3V0ZnJfNW90UkxmdGJ3cVBPTDQtLXBTNlNRYTZCM25sN2V6WDkzeXpuQmJPQWlWcXM?oc=5",
-      "date": "Mon, 13 Jul 2026 10:27:00 GMT"
+      "title": "タクシー横転… 交差点でタクシーと乗用車が衝突する事故 3人が病院搬送 青森県青森市（ＡＴＶ青森テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45cW9aNHBPMHppWGJJTUJmZmNLUVBPcXlZSkY2b2dyNUI1NFlQUXR2WVNucnJ1SlpSRXJON2dTTl8tMW9Ya3NPWEdlRjlqLTNTZk9obk9KaHFGZW9kRkl1Z0g2ZlFfZWRlRDBJWDI5NEJ6YnhfR2pJSVBSUjFjdUU?oc=5",
+      "date": "Wed, 15 Jul 2026 04:25:25 GMT"
     },
     {
       "title": "0歳男児が車の衝突事故で死亡 青森の「事故多発交差点」で [青森県]",
