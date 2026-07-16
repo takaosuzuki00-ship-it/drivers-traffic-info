@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-07-16T12:06:18.159709",
+  "generated_at": "2026-07-16T15:03:41.507515",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 33.7,
+    "temp_max": 33.7,
+    "temp_min": 25.0,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 30.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 33.7,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 32.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 29.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jS2pYLWpqZ0RIX21Pd3Ywbk4wLUdvZ1I3XzNSVGd6c1Z6ZjE1UzJCT1dMOFVSTktDVkJ4T2s3T1VZSjNzSkliSi1ZQU5uUzBzOXJhTnI0TQ?oc=5",
+      "date": "Wed, 15 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "７月１６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ueXZlRHYyUkNLc3VDNmZCbUtGSGF0MU1EUTl0cDVRVnFMN1lud1Y0SkZoRjJwOEZac1NVYmdPX2FSQVc1dWJYSHV5OFBFWVgyQzFPMnZWd2NZZXRTUGxoajhBZHFoSUJfa3o2ZzVGTHc5d9IBd0FVX3lxTFBJNnU3eWlXbFEzNUtlbVNWc185RmZNNFBhSnQwT200eHB5VEpMblBXbldkdG9qVXJJWW41b3VJU2Y1VFBYNEZsSVZBRmUyNkdlOUJMN2NsZnRDTzFLUjBJeHFGVDFwMVl0aHd5Q2htVHdtZjRRRlpB?oc=5",
       "date": "Wed, 15 Jul 2026 20:13:22 GMT"
-    },
-    {
-      "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
-      "date": "Fri, 10 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "オービスを探せ、第2弾！ 岡山ブルーラインの自動速度取締機、Hシステムが、警告板を残して雲隠れ！【交通取締情報】",
@@ -21,21 +80,21 @@
       "date": "Fri, 10 Jul 2026 07:26:00 GMT"
     },
     {
-      "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjZWt5TmJxYVhXSVlZcWdvWkxnOEZSeWNhUl9rMmJ6ZEFSX2dKYVFtNmROLWJKV25mcXE5ci1rWjFKa29kMDFFdkI3a2diVGxsRXRjLVVpWmgwcXlDZDNmTVYzUEh5MUJvVDE1QUQwTWVTU0N2Q2lB?oc=5",
-      "date": "Wed, 15 Jul 2026 07:00:27 GMT"
-    },
-    {
       "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LZzZqTEtpZDVhYmZfMzRKOVR4RDZDb0VQemd5Zlpha2NyYmVRWEUwLWNVOE1zdExpZ2pCYWFQcmhOeVlmVnlUX3ZzNkRNUE5ybU5ObHNLZkdjUjc1NVlmeHF6NWV6TTBERFo2bHduSdIBdEFVX3lxTE5zREowUldKellUQmwxakpZVkVkX2xESnZXS0JpdG9LM08wa2NIZl9nand5Mkd3aVF5VWdyUkZmbjh0RGc1UjYyaXJ0eDk1cWZjdm1LUjc4RHVqMGg2WGh3cERubXpfdmVuQmt6eUtOT2tWSU5m?oc=5",
       "date": "Wed, 15 Jul 2026 20:08:59 GMT"
+    },
+    {
+      "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjZWt5TmJxYVhXSVlZcWdvWkxnOEZSeWNhUl9rMmJ6ZEFSX2dKYVFtNmROLWJKV25mcXE5ci1rWjFKa29kMDFFdkI3a2diVGxsRXRjLVVpWmgwcXlDZDNmTVYzUEh5MUJvVDE1QUQwTWVTU0N2Q2lB?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:27 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "2026年上期に発生した交通事故件数は約2万5000件　死者25人で前年より7人増　岡山県警",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeS1iS2lMTHBWTXpQNHpHZTVwQ2dlclA4bDZTeFJ2Wi1CcGUzSTNhamwxeUxVSmkwa2N4YzF0VUhsR2syZ2pEcHV2eDRFRlpwQWZxSGRDZ1k1U1NBTGdRTERVT2dkWEozcGp0dmV5bUVlM0k4UVpwX0lMdWdfLU1leUxINEU5MkpUSDBBR2VjSjRvM0lqanFXdnk2QWlCdktUbGZ3UmpYaVZVZ1VVQlY0QnRQVDJxaXQxWUdLZkNraFRKaVlzc2fSAXZBVV95cUxPdDdSUEpEb3ZuZmk0Qlc5WmNTX2RGSnpLLWE5YlNSOTg5RFA4OWxuVnAxNkZpZk9ZLWVxVW8wZk51dzlyRXUtYXUzekdxTV9qSW1EeGNXb091NW44SnVadm10Mk1jU2dWMFMtM3VyTnlFSk5NV3pR?oc=5",
-      "date": "Thu, 16 Jul 2026 01:04:00 GMT"
+      "title": "2026年上期に発生した交通事故件数は約2万5000件 死者25人で前年より7人増 岡山県警 （KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43VS14RDY5SWZKdzF1U1ctcXFqbjZHdW5mbzd4U052U1hTMXhEenRESExKZVBRakN1MUNjLXpwbFpwbzJsbWs5MVZFNTdkbkJCTXkyOFYzSER1WjJJUTFXTThmQ3dLOXlxS0g0QmN0Vnl6ajZtcEpOYnI0YTZkZG8?oc=5",
+      "date": "Thu, 16 Jul 2026 01:04:09 GMT"
     },
     {
       "title": "2026年上期に発生した交通事故件数は約2万5000件 死者25人で前年より7人増 岡山県警",

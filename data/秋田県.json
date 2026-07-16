@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-16T12:02:41.018619",
+  "generated_at": "2026-07-16T15:01:47.255471",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 28.0,
+    "temp_max": 28.9,
+    "temp_min": 23.1,
+    "precip_prob_max": 100,
+    "precip_sum": 6.1,
+    "wind_speed": 7.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 25.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "12:00",
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
