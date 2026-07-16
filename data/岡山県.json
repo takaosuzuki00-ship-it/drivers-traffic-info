@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16T18:04:20.631172",
+  "generated_at": "2026-07-16T21:04:01.802004",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 32.1,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 28.8,
     "temp_max": 34.0,
     "temp_min": 25.0,
     "precip_prob_max": 4,
     "precip_sum": 0,
-    "wind_speed": 6.4,
+    "wind_speed": 4.8,
     "hourly": [
       {
         "time": "00:00",
@@ -47,18 +47,18 @@
         "time": "15:00",
         "temp": 34.0,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "18:00",
         "temp": 32.1,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 29.0,
-        "weather": "晴れ時々曇",
+        "temp": 28.8,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
