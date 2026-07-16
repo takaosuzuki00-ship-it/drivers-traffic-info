@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-16T15:02:48.369340",
+  "generated_at": "2026-07-16T18:03:21.110498",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 26.9,
+    "temp_max": 34.8,
+    "temp_min": 24.5,
+    "precip_prob_max": 48,
+    "precip_sum": 51.5,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 34.3,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 31.1,
+        "weather": "霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 26.9,
+        "weather": "雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "21:00",
+        "temp": 25.7,
+        "weather": "強い雨",
+        "precip_prob": 45
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月１６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
