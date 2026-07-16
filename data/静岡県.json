@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-16T09:04:35.244020",
+  "generated_at": "2026-07-16T12:04:56.428787",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 32.2,
+    "temp_max": 32.2,
+    "temp_min": 24.8,
+    "precip_prob_max": 11,
+    "precip_sum": 0,
+    "wind_speed": 7.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 10
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "交通指導・取締情報",
@@ -16,6 +75,11 @@
       "date": "Mon, 13 Jul 2026 20:02:00 GMT"
     },
     {
+      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
+      "date": "Sun, 12 Jul 2026 20:00:00 GMT"
+    },
+    {
       "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MUXVfYmtnOVRlRzlyM2dyUzVIWkNvaUM3em1BRVdkdlB5TllMeWhDUEhIVmFaQXdCQnRqUmZYd0lvTGpsT0s5ZV91dHFGUQ?oc=5",
       "date": "Fri, 10 Jul 2026 06:56:26 GMT"
@@ -24,14 +88,14 @@
       "title": "飲酒運転による事故を防ごう 沼津市の繁華街近くで警察が検問を実施（静岡朝日テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSV91cGFsYjFlRXQtU0lVcW9lUzFRV21XakVveFFEc1pucnNOQ1RVRDF0aWZSNFRTVFFRQi0ydE5GOHNaSmpXeUJPSjl4cVh6UTJ6LUZiZkk4b3duZk02YUxfYmVvT2hVNi1vSnZSMlZVWWJoRFpUR3d2aUs4SFE?oc=5",
       "date": "Sat, 18 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転の増えるお盆に交通量の多い道路で検問 飲酒運転の取り締まり 静岡・沼津警察署",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYUprUGRXOWNGaFdQdC1hSGJMdWlRU2pkS0hoYV8zamhMeEdQVXVCUEg3Q3BLMENyZVlrTURId1Y3RzdyT0lDU2V3VVNsSmFsQXQ0SXVjVHBaYmUzTXN6eg?oc=5",
-      "date": "Sat, 16 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "横断歩道のある交差点事故｢右折が6割｣　死傷歩行者は5年で2852人、静岡県警が注意呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEdEtaQVB1WDIxQmtZRDZhV2dlNFM3MmZMTkh6YWluQ0FmMGF0SWYwTHZfdnFTREo4MVFGaXdXQUZvaG1jMDFlczNhMTRmM0EySUw1ZElIU2taeG5OVFFtVEZjakt0WHNZUkZhbU93OXFOd9IBd0FVX3lxTFBJQ3hFNXpRNlRzUll3U2d0RmZXOVk0WXlfRnNlbmtFdFd1dmJjSTd3dGRGaGM2dTVRVVp1ZUFfcEhzSDFwUUFpaXNTZmtqbHdCNnNCX3FUc2JwRk50SEV3c01jbmdDcWhjVXJJS21YazRzSmdUNmhv?oc=5",
+      "date": "Thu, 16 Jul 2026 01:10:00 GMT"
+    },
     {
       "title": "【連続ひき逃げ事件】高速道路で追突繰り返された被害者が語る“恐怖”…容疑者逮捕もダメージは大きく(静岡)",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tQXZvcUw3OTMtbXJyUnFOdzV0aExMVnVWakMxMEg3bmtiYmtwanEzZHI3UmtNcEVKZ3N3bXR2VUhheHEzY05PRmNIaC1TWkJBZm53T3ozY3hqYzRSVTRNSktEQkpKa3AtRFlOclNzODFIa3Nnd2REckJCcEk1MjA?oc=5",
@@ -46,11 +110,6 @@
       "title": "交通死亡事故ゼロ1200日 静岡県菊川市が「交通安全優良市町」に",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RU3kyZVZFekVxZ1REUnNESUNZcC12d0JpaEhGOE5TQy1qXzVVdVlnS1RZbkpOSDJnWFg3NkVYaXBpcVhDY2FETEJfWGhIY2RDMTU0djFUS2czenBTSDlKMzJiYU9qOVk?oc=5",
       "date": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "浜松市で車3台が関連する正面衝突事故 5人が救急搬送され 1人の死亡確認、２人が全身を強く打ち重傷=静岡",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZkUyWlZPZi1OMklnZFd1clRtVk9MZ3pmVmt6UHk3OFF1ZUs5NFNLakNnNWNndV9Ia2J2SkJmMFBkSkRaekNUeFR5RmxBLW5lRDRlSmdyLXd5Zw?oc=5",
-      "date": "Wed, 08 Jul 2026 10:37:00 GMT"
     },
     {
       "title": "水難事故相次ぐ 富士市で男性が死亡、御前崎市では男性が行方不明 当時、静岡県内には台風９号の影響で「波浪注意報」が発表（静岡朝日テレビ）",
