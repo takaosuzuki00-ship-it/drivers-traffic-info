@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16T06:03:05.090112",
+  "generated_at": "2026-07-16T09:03:27.211023",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 26.1,
-    "temp_max": 32.0,
-    "temp_min": 25.8,
-    "precip_prob_max": 86,
+    "temp_now": 29.5,
+    "temp_max": 32.5,
+    "temp_min": 25.7,
+    "precip_prob_max": 95,
     "precip_sum": 0,
-    "wind_speed": 4.1,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
@@ -21,45 +21,45 @@
       },
       {
         "time": "03:00",
-        "temp": 26.0,
+        "temp": 26.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 26.1,
+        "temp": 26.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.7,
+        "temp": 29.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 30.9,
+        "temp": 31.1,
         "weather": "快晴",
-        "precip_prob": 31
+        "precip_prob": 22
       },
       {
         "time": "15:00",
-        "temp": 31.9,
+        "temp": 32.5,
+        "weather": "快晴",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 28.9,
         "weather": "晴れ",
         "precip_prob": 86
       },
       {
-        "time": "18:00",
-        "temp": 28.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 51
-      },
-      {
         "time": "21:00",
-        "temp": 26.8,
-        "weather": "快晴",
-        "precip_prob": 57
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 84
       }
     ]
   },

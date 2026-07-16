@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-07-16T06:03:34.939721",
+  "generated_at": "2026-07-16T09:04:20.108254",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 25.6,
-    "temp_max": 35.3,
-    "temp_min": 25.6,
-    "precip_prob_max": 12,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.8,
+    "temp_max": 35.8,
+    "temp_min": 25.5,
+    "precip_prob_max": 10,
     "precip_sum": 0,
-    "wind_speed": 2.8,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
         "temp": 27.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 26.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 10
       },
       {
         "time": "06:00",
         "temp": 25.6,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 30.5,
+        "temp": 30.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.6,
-        "weather": "晴れ",
+        "temp": 34.8,
+        "weather": "快晴",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 34.9,
+        "temp": 35.7,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 32.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 32.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
@@ -65,6 +65,11 @@
   },
   "enforcement_news": [
     {
+      "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LZzZqTEtpZDVhYmZfMzRKOVR4RDZDb0VQemd5Zlpha2NyYmVRWEUwLWNVOE1zdExpZ2pCYWFQcmhOeVlmVnlUX3ZzNkRNUE5ybU5ObHNLZkdjUjc1NVlmeHF6NWV6TTBERFo2bHduSdIBdEFVX3lxTE5zREowUldKellUQmwxakpZVkVkX2xESnZXS0JpdG9LM08wa2NIZl9nand5Mkd3aVF5VWdyUkZmbjh0RGc1UjYyaXJ0eDk1cWZjdm1LUjc4RHVqMGg2WGh3cERubXpfdmVuQmt6eUtOT2tWSU5m?oc=5",
+      "date": "Wed, 15 Jul 2026 20:08:59 GMT"
+    },
+    {
       "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
       "date": "Sun, 12 Jul 2026 20:16:00 GMT"
@@ -73,11 +78,6 @@
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "title": "7月13日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZTGdvbzVsUWl5UjMydUp0LU5IZDcxSnBFMUN5a0FZdlpjeDlXUXlfX2lIU3pCb3Fzb0gzRk5zY2l1QWd0WEFwZVg3dnRROUdkTGp3WlY2dXJBOWliY1lJYTJ0d0hveG96SFlMbE5JZ9IBdEFVX3lxTE40WlpjOTRZZl93R0RuNnB4dzNSZlpqaXZkN3RGYXQtMFFUTlptU2Fpc1l0b0hOcGtNdFJCQm1nTkdRanRzOE4tQW9Ud0VsdFdWUDJERHU2d0VhLTUxVnJ1akhfNEZUYVJ5TGcyWlV5UmhMU2VK?oc=5",
-      "date": "Sun, 12 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "「総会屋」ら警戒 岐阜県警、株主総会特別警戒取締本部を設置：地域ニュース",
@@ -92,6 +92,16 @@
   ],
   "accident_news": [
     {
+      "title": "国道２１号、速度超過で交通事故多く 岐阜県警などが一斉取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdGZ4RjBOYjJSZnQ2OXNXdFVwUTdHSU9fMkk4ZTRsRlpJQ1ZIaUREMFRndTJ1aDR0R3lKSzVOTXhteklPd1lRYU1nN25JZWNwMkNQdzFB?oc=5",
+      "date": "Wed, 15 Jul 2026 22:15:00 GMT"
+    },
+    {
+      "title": "国道２１号、速度超過で交通事故多く 岐阜県警などが一斉取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83R1VCcFJmQ2NndXo5eEluWVJ6ZTlmeXNWM0JKVC1qNnpCOW5ZSjVoVktsbF92UnY4NnpDY012VDhpa1dHelJyVTJkbw?oc=5",
+      "date": "Wed, 15 Jul 2026 23:02:05 GMT"
+    },
+    {
       "title": "岐阜県大垣市で交通事故　軽自動車と自転車が衝突し自転車の大学生が死亡",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Wbl9RTHBBTWR3NDVVdW9GbXN3RndtaXpLQ0JDRkRQd3RFNlBoeXRzX05JZ1d0NGk3b0xBbGhxaE0wUDhDQU9JcHNUUUIzb3d4a0HSAWRBVV95cUxNVFkwUVBxbjVRd2FXaFQ4RThNS1p5b2dvR2FjSVhLdTk0cm11NDR3QnFCNTlIQ1oyX2FrS2JXc1RjQ09mUG1XeE5IamxxMGh4MWlWbGpCRmpmUTVacW5wcDQ5RXJm?oc=5",
       "date": "Sun, 12 Jul 2026 09:23:00 GMT"
@@ -102,19 +112,9 @@
       "date": "Wed, 15 Jul 2026 03:12:00 GMT"
     },
     {
-      "title": "法定速度60キロ超え走行の可能性も 過失運転致傷の疑いで男(21)を逮捕 三重と岐阜で事故相次ぎ2人死亡",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53X3ltY2tqWDhESURUbDJEZjF6QXFoa2dTblNRdVY4cXhkUkpYUFpaZDVTT09JOEd4VXdXWWFaZ0lpX3NNc3g5bTEwQQ?oc=5",
-      "date": "Wed, 15 Jul 2026 05:34:33 GMT"
-    },
-    {
-      "title": "フェンスを突き破り転落し大破、10代男女3人を救急搬送 “事故多発”の交差点で出会い頭に衝突か 岐阜市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNHVjUWFGaWVmNm9WWTVOWEdsVmN1N0RMUm5ucTc3eDlQTm5uYmFwd1VVeVRZLTJRcnlTc1A3Tktmd2dZcTF4TThIeXIxUQ?oc=5",
-      "date": "Mon, 06 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "大学生が車にはねられ死亡 岐阜・大垣市（CBCテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GN1hYUjNJc3lyQ3prdEhzNEpUajhUU25mZk4zQ2NpVUdyMGJqQ1EtUDRPSXpYbW1IbEs3YXhpR0d3ZXNRQURUdGlSTTVLV1ExdXFQWmpJMTAwcUZnUUJ5SWVBLTNTaTUtNVFCU0YtWC1ENkxaTE9BQjJYd1M2VWc?oc=5",
-      "date": "Mon, 13 Jul 2026 00:00:33 GMT"
+      "title": "死亡事故が相次ぐ… 大型トラックなど3台絡む事故で30歳男性死亡 右折と直進の車がぶつかり46歳男性死亡 岐阜・三重",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR3EyVlZra2kzT1BDMmVuR1BtTENzdVVMcWVzUzNzM1N1YTBmUTJtVFMxeWk5ejlmODlGNUhWVzhQUkx4LVMwcS1NdmdIVUVlQmdJVDNPWTJjMzNyV3JQUEQzS1Q2R2xBX2VlRHRLYmVRajVpWFpKTlhuNF9wajA?oc=5",
+      "date": "Wed, 15 Jul 2026 10:13:13 GMT"
     }
   ],
   "official_links": [
