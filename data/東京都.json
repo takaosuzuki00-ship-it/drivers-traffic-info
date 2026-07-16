@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-16T21:02:30.171210",
+  "generated_at": "2026-07-17T00:03:07.719926",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 28.3,
-    "temp_max": 33.2,
-    "temp_min": 24.5,
+    "temp_now": 26.9,
+    "temp_max": 29.4,
+    "temp_min": 25.4,
     "precip_prob_max": 100,
-    "precip_sum": 0.1,
-    "wind_speed": 1.5,
+    "precip_sum": 1.6,
+    "wind_speed": 3.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.6,
+        "temp": 26.9,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 33
       },
       {
         "time": "03:00",
-        "temp": 25.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
       },
       {
         "time": "06:00",
-        "temp": 25.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 25.8,
+        "weather": "曇り",
+        "precip_prob": 20
       },
       {
         "time": "09:00",
-        "temp": 29.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 26.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
       },
       {
         "time": "12:00",
-        "temp": 31.7,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 29.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
       },
       {
         "time": "15:00",
-        "temp": 33.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 80
-      },
-      {
-        "time": "18:00",
-        "temp": 30.7,
+        "temp": 28.6,
         "weather": "晴れ",
         "precip_prob": 100
       },
       {
+        "time": "18:00",
+        "temp": 27.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
         "time": "21:00",
-        "temp": 28.3,
-        "weather": "晴れ",
-        "precip_prob": 55
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 59
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByMGtzYnM0eFE5aTlJcEpZVnBONlNtMlVzWUZkb0dLNUtDNDNoLWo4dm5VaTNPQ1NxdnJJVzBkaVlrR0JqQmk0VVhRRGhNLUtncXZQMDVLUQ?oc=5",
+      "date": "Sun, 12 Jul 2026 20:00:00 GMT"
+    },
     {
       "title": "７月１６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ueXZlRHYyUkNLc3VDNmZCbUtGSGF0MU1EUTl0cDVRVnFMN1lud1Y0SkZoRjJwOEZac1NVYmdPX2FSQVc1dWJYSHV5OFBFWVgyQzFPMnZWd2NZZXRTUGxoajhBZHFoSUJfa3o2ZzVGTHc5d9IBd0FVX3lxTFBJNnU3eWlXbFEzNUtlbVNWc185RmZNNFBhSnQwT200eHB5VEpMblBXbldkdG9qVXJJWW41b3VJU2Y1VFBYNEZsSVZBRmUyNkdlOUJMN2NsZnRDTzFLUjBJeHFGVDFwMVl0aHd5Q2htVHdtZjRRRlpB?oc=5",
@@ -78,11 +83,6 @@
       "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90LWMtbVdYaTNIbFNJYnlOdEhfLUhvSVM1REFBN0x4QjVNVnlLbXRDcGxROERSMUlOZ2dydW9YR0NWTDBRd0FmSlBqNEtXZDAxVXItSkw0aDFNbmVCMkpCdzFfRkpXbkZBeHdMaXZsTdIBdEFVX3lxTE9nTGpPNXZ4M3RmSkRxckJOdXdvbG5kVVh2RktibVBud25hQ05WaDlsV29FV1otZzRnb2YwV0VaZ21nV0hrUGxEQ21PYzZBTWJ4SzhNN2VYUjIxY1MzOEFMbjctNWFpLUhNRDloemtPRVBlVlRh?oc=5",
       "date": "Wed, 15 Jul 2026 20:10:46 GMT"
-    },
-    {
-      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByMGtzYnM0eFE5aTlJcEpZVnBONlNtMlVzWUZkb0dLNUtDNDNoLWo4dm5VaTNPQ1NxdnJJVzBkaVlrR0JqQmk0VVhRRGhNLUtncXZQMDVLUQ?oc=5",
-      "date": "Sun, 12 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",

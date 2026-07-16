@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-16T21:05:09.712069",
+  "generated_at": "2026-07-17T00:07:04.968053",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 27.5,
-    "temp_max": 30.0,
-    "temp_min": 26.9,
-    "precip_prob_max": 4,
-    "precip_sum": 0,
-    "wind_speed": 13.6,
+    "code": 95,
+    "weather": "雷雨",
+    "temp_now": 27.4,
+    "temp_max": 29.9,
+    "temp_min": 27.2,
+    "precip_prob_max": 52,
+    "precip_sum": 0.9,
+    "wind_speed": 14.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.2,
-        "weather": "晴れ",
+        "temp": 27.4,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 27.1,
-        "weather": "晴れ",
+        "temp": 27.2,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 26.9,
-        "weather": "晴れ時々曇",
+        "temp": 27.2,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 29.9,
-        "weather": "快晴",
-        "precip_prob": 4
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 25
       },
       {
         "time": "15:00",
         "temp": 29.8,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "weather": "弱い霧雨",
+        "precip_prob": 41
       },
       {
         "time": "18:00",
-        "temp": 28.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 28.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
       },
       {
         "time": "21:00",
-        "temp": 27.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 8
       }
     ]
   },
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "警官から制止を求められたバイク、逃走し小学生らに衝突　那覇署、50代逮捕　無免許過失傷害の疑いも",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRUhwQmVQUENrcnN5aDRWTzBGd1U5VkNpRTNSUUFsNmZXbDlDcG5QN1FTc0hnUHRJNkRXbDFPS3FnaUtkbUp2VHlXOVZ3dWtTVldDVUtscGpOQUxBQXVQS1l1SmpHdU9mVGVYdGRiUnVrZk5mVkhHVmsyb2h6RU1KOEtYamlRcWNlUXZuTzJUSU5ZcnpzTEZRU1d1REFtRGtxZTVLbTMtNTVQeXotMEY0UHRuOXQ1N0FtVGJQWW5yZVRLVG9DdzZSYkg1OFBNWTY2M2NBVHR6NUzSAYgBQVVfeXFMUG8wQTZSMi1BMUprS05Jck94a0NKbFpOajlVQ3dvU0JWa1B2bXRRY2NPRkZ0Vnp4dy1CMVF0N3RpdjRDczJndWlnT2N1OGg4MlRORkMyaWtZbFhqcGo0S2plX3NFRnRQQ1hoLUVXNWk1S2ltdTQ3d1FFcGh5R3BPcGpvODRrNmRXWQ?oc=5",
-      "date": "Thu, 16 Jul 2026 10:53:00 GMT"
-    },
-    {
       "title": "自転車の17歳死亡 沖縄・本部町の国道で自動車と衝突（琉球新報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GRjQ0c3Y4SDZEajdWR0d0NVMwVS1TYlNReC0yank3azRzU1lJWm0xVjBwdDBlSjc5SkR1ZW1MZWRydFBZamExWXpKU19YckJRZGtaMUhaMURvYS1LZTJKS1E3SElZNUtfQnp3UWJ4dHF1NDUtSG45V3ZobTA3UGM?oc=5",
       "date": "Wed, 08 Jul 2026 07:00:00 GMT"
@@ -115,6 +110,11 @@
       "title": "飲酒の交通事故率 25年沖縄は全国最悪2・95％ 5年連続 死亡率は2倍",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mV0pGbHh5SzNMVlpzZzZCWHhQNVd0M1ZxcDRDbFNsOVhDZFZFZk9ZQ0xQeEtWblhmV0dySHZLQkp2OVFnSG9wMW9fTGNqUVl5TjY3NTlkcXFFMU5SWHFocA?oc=5",
       "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "信号待ちの車に追突 5台が絡む多重事故で4人搬送 宜野湾市の国道330号",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CSWR3RlJZY3NvS0dJNUtwUWZiYm9JNlZLLURVXzV3R2FfTWtTOUZlMUhrWm9VN191SnJmSGt5cURJRmpSd1V1elNhRVZSckVZTlRadlhSWl9rNXNldTJYalRUQ1Q2T00?oc=5",
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
