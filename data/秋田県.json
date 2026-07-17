@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-17T06:02:16.664130",
+  "generated_at": "2026-07-17T09:01:48.680167",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 28.6,
+    "temp_max": 33.3,
+    "temp_min": 23.0,
+    "precip_prob_max": 90,
+    "precip_sum": 0,
+    "wind_speed": 5.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.3,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.9,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 32.8,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "21:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月17日（金）【岩手県】 日中・夜間の交通取締情報",
@@ -16,14 +75,14 @@
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     },
     {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
-    {
       "title": "衆院選 県警察本部が選挙違反取締本部を解散 事前の選挙運動に関する違反で警告2件 秋田",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IZ2VsM2ZwSUFFSjFHR25saEhDdjd6VVZ4VmZ4TjhfYTZwWDQtdGNCeDMxUThoelpBaDlialRfdmVNMjdpc1UteWwtYURORFdkb092WnZqeFZXa2dsWVUxU0FQdXpHeVE0S3NkU19zZDRqUkhlTUJCUjlMZERKYVE?oc=5",
       "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
