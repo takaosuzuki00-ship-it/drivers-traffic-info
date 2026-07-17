@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-17T18:15:31.064631",
+  "generated_at": "2026-07-17T21:04:49.445648",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 28.9,
-    "temp_max": 30.0,
+    "temp_now": 28.2,
+    "temp_max": 30.2,
     "temp_min": 26.8,
-    "precip_prob_max": 16,
+    "precip_prob_max": 22,
     "precip_sum": 0.4,
-    "wind_speed": 2.3,
+    "wind_speed": 1.9,
     "hourly": [
       {
         "time": "00:00",
@@ -41,29 +41,34 @@
         "time": "12:00",
         "temp": 29.8,
         "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "15:00",
-        "temp": 29.4,
-        "weather": "曇り",
-        "precip_prob": 16
-      },
-      {
-        "time": "18:00",
-        "temp": 29.0,
-        "weather": "晴れ",
         "precip_prob": 10
       },
       {
+        "time": "15:00",
+        "temp": 30.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 29.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
         "time": "21:00",
-        "temp": 27.9,
-        "weather": "晴れ",
+        "temp": 28.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "麻薬取締法違反の疑い 宮崎市の少年再逮捕 福岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mOG5rTnV6Sjl1WklBRU5VTkNCelNIa2JkLXdIcGFkZ2RWU3NuV3c0QXlUaHFuc2l0Um1XQXhmNzVpM05xZHZpYVMtQjdjZFJobVBEODl3?oc=5",
+      "date": "Fri, 17 Jul 2026 03:17:00 GMT"
+    },
     {
       "title": "7月17日（金）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sRm1iVjFNZXpGTjk4WGFwMWU1cEpmQk5kZFJzc2ZZTTNPWWZKeE4zZFFJOV9jOU85N0o1YVBlRmJXU0pObVR5LTNNSEp0cU9UMVNmQjdDZ0Z1eVJjQkZjQmptempMaDUyb0lmWDl3QdIBdEFVX3lxTE9wMjNseXJzR0Q4TGJCekNEdG5jNHp3d2NRN1p5S3g3MXBYZjI3S0Mxdno5OEdtSEE4clFlYWtlTHNrUDFFa0ZLSGVUVWRHc0otbUpmWEVJUnF5ejd3a1VxRjZGTFRLM3d0d2FFVW5LREFlOVhq?oc=5",
@@ -83,11 +88,6 @@
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
