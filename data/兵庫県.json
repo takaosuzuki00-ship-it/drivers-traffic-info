@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-17T09:03:19.403279",
+  "generated_at": "2026-07-17T12:04:22.242379",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 29.8,
-    "temp_max": 34.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 32.8,
+    "temp_max": 33.7,
     "temp_min": 26.7,
-    "precip_prob_max": 0,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 3.1,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 26.7,
+        "temp": 27.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.8,
-        "weather": "快晴",
+        "temp": 30.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.7,
+        "temp": 32.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 34.6,
-        "weather": "快晴",
+        "temp": 33.5,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 30.4,
-        "weather": "晴れ",
+        "temp": 29.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.6,
+        "temp": 27.9,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       }
     ]
   },
