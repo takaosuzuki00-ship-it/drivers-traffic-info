@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-18T03:03:14.075509",
+  "generated_at": "2026-07-18T06:03:38.928064",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
+    "code": 63,
+    "weather": "雨",
     "temp_now": 25.4,
-    "temp_max": 28.3,
-    "temp_min": 24.8,
+    "temp_max": 28.1,
+    "temp_min": 25.4,
     "precip_prob_max": 86,
-    "precip_sum": 2.3,
-    "wind_speed": 1.5,
+    "precip_sum": 11.8,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.8,
+        "temp": 26.1,
         "weather": "霧雨",
         "precip_prob": 86
       },
       {
         "time": "03:00",
-        "temp": 25.4,
-        "weather": "弱い霧雨",
+        "temp": 25.7,
+        "weather": "雨",
         "precip_prob": 75
       },
       {
         "time": "06:00",
-        "temp": 24.9,
+        "temp": 25.4,
         "weather": "弱い霧雨",
         "precip_prob": 57
       },
@@ -39,7 +39,7 @@
       },
       {
         "time": "12:00",
-        "temp": 28.3,
+        "temp": 28.0,
         "weather": "晴れ",
         "precip_prob": 27
       },
@@ -57,13 +57,18 @@
       },
       {
         "time": "21:00",
-        "temp": 25.7,
+        "temp": 25.8,
         "weather": "弱い霧雨",
         "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月18日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLTBVX2Y3aUg2b1cyMjFvZGxKSzl6NmQweVhMWndla3dSWTE0czlLNVdQRnAxOXREbnVXUmhqbFVPZ2tDTkd2SHFIRl9kSGVwZHpwWjFEYXZpTldoamRiZHQzbFItSFJzazdtLWRuYWVXeUJlZVR1TWlTVU1XMTE1bkJjSjQ1ZFppNWdrSll2ejU3SkFJc2RoOENqeVR6RWxiMkFGU3ZZdy1IWTMyajFyXzBhaGpEOHpNUC14LTNvdl9lX0dT0gF0QVVfeXFMUHZQRVk0cmtJc2o1MGJPa0hmWjZ6UzBIME10Rkx2N3B2aEpXUlM3X2ZrdlgzMnVQb3lObS1tU3JyVGVyMHNQRjBqUDRBc1IzQkJfc0NsMGlyX3gySEY0LWxya25hLVE2WWF2SUt3c3MyQW9jRGg?oc=5",
+      "date": "Fri, 17 Jul 2026 20:09:33 GMT"
+    },
     {
       "title": "交通指導・取締情報",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
@@ -78,11 +83,6 @@
       "title": "７月１７日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVG1hWWs2UjlVVDIxYXNwN0Q5enZrZksteGZuOEdYMUk1LVVvbmFDSlVIVmFJMS1QSkVTOFV5ZHR2WjZPX2xFRDFFd0pHMjZVWUNJSTd3Y0hPZVBmcUY0MnlrSExzcG05X3BNN1k1V2tHbXdjeWlLLVQ5a2JUNUktOFRrcjHSAXdBVV95cUxNMWFteUVWcXh3a0dha294RGJ4TUEzU0N4OVlDQTZlSEs5QW13eldMNTVkd1RMNGpzU1hWeC1FLTkwQW9SLXM3YTJ4MEY5bHhYWk5TUk9wNFlpazZNRmRINXlyVXQ0a0NMN0I1UFotUmtYMm1PZkgyNA?oc=5",
       "date": "Thu, 16 Jul 2026 20:10:57 GMT"
-    },
-    {
-      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
-      "date": "Sun, 12 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】",

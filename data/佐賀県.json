@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-07-18T03:05:12.541077",
+  "generated_at": "2026-07-18T06:05:30.285797",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 26.6,
-    "temp_max": 33.1,
-    "temp_min": 26.0,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.8,
+    "temp_max": 32.4,
+    "temp_min": 25.8,
     "precip_prob_max": 88,
     "precip_sum": 0,
-    "wind_speed": 4.6,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.3,
-        "weather": "晴れ",
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 20
       },
       {
         "time": "03:00",
-        "temp": 26.6,
-        "weather": "晴れ",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 26.0,
-        "weather": "晴れ",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.3,
+        "temp": 28.8,
         "weather": "晴れ",
         "precip_prob": 45
       },
       {
         "time": "12:00",
-        "temp": 31.3,
-        "weather": "晴れ",
+        "temp": 30.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 88
       },
       {
         "time": "15:00",
-        "temp": 33.1,
+        "temp": 32.4,
         "weather": "晴れ",
         "precip_prob": 57
       },
       {
         "time": "18:00",
-        "temp": 30.9,
+        "temp": 30.7,
         "weather": "快晴",
         "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 28.4,
+        "temp": 28.3,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90LWMtbVdYaTNIbFNJYnlOdEhfLUhvSVM1REFBN0x4QjVNVnlLbXRDcGxROERSMUlOZ2dydW9YR0NWTDBRd0FmSlBqNEtXZDAxVXItSkw0aDFNbmVCMkpCdzFfRkpXbkZBeHdMaXZsTdIBdEFVX3lxTE9nTGpPNXZ4M3RmSkRxckJOdXdvbG5kVVh2RktibVBud25hQ05WaDlsV29FV1otZzRnb2YwV0VaZ21nV0hrUGxEQ21PYzZBTWJ4SzhNN2VYUjIxY1MzOEFMbjctNWFpLUhNRDloemtPRVBlVlRh?oc=5",
-      "date": "Wed, 15 Jul 2026 20:10:46 GMT"
-    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -88,6 +83,11 @@
       "title": "移民捜査で車両検問停止 米東部の射殺事件受け | | 全国のニュース",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZE81cnpsV1pucDBQSGp6OUFLRjloTTY2aVQtVDB4X1FyTlRPUUN1UnRpemc5STMzTS1FVk1hV2JrcFNiM3FQbzFIVDBVY0I2aHIyYXh3?oc=5",
       "date": "Tue, 14 Jul 2026 22:04:00 GMT"
+    },
+    {
+      "title": "れいわの山本太郎代表が法定速度違反で摘発",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lSzF2dEdHUmRIT3lEdE1nanhlcDlHSkRuZnpyT2hiOW50emdwZzhYc2dRTVNHSmVmdEhOUndVUFk0S2pZSXc2aFBiVlRfbUdteHZnMEl3?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Fri, 26 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "誤って海に落ちたか　軽トラ運転の７０代男性が死亡　佐賀・太良町",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOTHhMTENra19hZ05hMExjdTY5VmlObEJyNGUySTN3aEdGX3pLRFRhMnlzdkFfTnpWU0ZteTVsTFFvaUxybk5iZ3VHUEZXQmdKb2dNQjVuZEw1RVMzb1R2MlYtY3k3NUxTNUttSWFwVdIBdEFVX3lxTE1rSVUwZXVyVWZEbmJXN3UxalpLSm54cVpsVVBHTTBsVlZ0Z251cWVyc3pJTXZRSERtSXZiUmRaSk1lQXpZSkoxdHVINkZfUnpUcG15WUswY2h3bEJhTGFmQ1czanpZSVdmdmh2ZVdXbHY5amdh?oc=5",
-      "date": "Fri, 17 Jul 2026 13:17:00 GMT"
-    },
-    {
       "title": "佐賀・鳥栖市のJR肥前旭駅構内、快速列車に女性がはねられ死亡",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uZnVfR0M0U3JtWkxCYktyUTlUcGUtVEF0WmtjTC0tVTBxUFR4VGFPNnE4R1RmVlBFc0JVemU3NXRUU0Iwb0kyQndHUnE1XzFZdjJWWFN3?oc=5",
       "date": "Mon, 06 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "誤って海に落ちたか　軽トラ運転の７０代男性が死亡　佐賀・太良町",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOTHhMTENra19hZ05hMExjdTY5VmlObEJyNGUySTN3aEdGX3pLRFRhMnlzdkFfTnpWU0ZteTVsTFFvaUxybk5iZ3VHUEZXQmdKb2dNQjVuZEw1RVMzb1R2MlYtY3k3NUxTNUttSWFwVdIBdEFVX3lxTE1rSVUwZXVyVWZEbmJXN3UxalpLSm54cVpsVVBHTTBsVlZ0Z251cWVyc3pJTXZRSERtSXZiUmRaSk1lQXpZSkoxdHVINkZfUnpUcG15WUswY2h3bEJhTGFmQ1czanpZSVdmdmh2ZVdXbHY5amdh?oc=5",
+      "date": "Fri, 17 Jul 2026 13:17:00 GMT"
     }
   ],
   "official_links": [
