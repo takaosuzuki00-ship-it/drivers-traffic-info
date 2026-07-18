@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-18T15:03:36.881561",
+  "generated_at": "2026-07-18T18:05:25.600641",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 30.3,
-    "temp_max": 30.4,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 27.8,
+    "temp_max": 29.9,
     "temp_min": 24.1,
     "precip_prob_max": 100,
-    "precip_sum": 2.4,
-    "wind_speed": 3.4,
+    "precip_sum": 3.6,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 27.9,
+        "temp": 27.5,
         "weather": "弱い霧雨",
         "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 30.3,
+        "temp": 29.9,
         "weather": "晴れ",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 27.9,
+        "temp": 27.8,
         "weather": "晴れ時々曇",
         "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 25.8,
-        "weather": "晴れ時々曇",
+        "temp": 25.7,
+        "weather": "晴れ",
         "precip_prob": 33
       }
     ]
