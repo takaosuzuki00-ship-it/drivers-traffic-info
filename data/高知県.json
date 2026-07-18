@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-18T18:09:06.011460",
+  "generated_at": "2026-07-18T21:04:17.604807",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 27.4,
+    "temp_max": 31.7,
+    "temp_min": 25.6,
+    "precip_prob_max": 72,
+    "precip_sum": 4.8,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 61
+      },
+      {
+        "time": "12:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 27
+      },
+      {
+        "time": "15:00",
+        "temp": 31.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 27.4,
+        "weather": "弱い雨",
+        "precip_prob": 22
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月18日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
@@ -43,11 +102,6 @@
       "date": "Wed, 15 Jul 2026 10:20:00 GMT"
     },
     {
-      "title": "交差点で交通事故を起こした後行方くらます 20代の男逮捕【高知】（2026年7月15日掲載）｜RKC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnFkOU9lV3AxWC03OFU3R3JtRGZuQnQtazhKbEdVQ0xDMVZuOThYQ0VtQkNVUW9GSGxWd0YtMm82ZmRMV213bjB0U3EySGhzTFdOaXE2UWJOWUczQ2RUU2NyYXQ1bXV2RVVtZW1laVhHa09aS2FGQjhrTDlXWEd3WmlISl81U28?oc=5",
-      "date": "Wed, 15 Jul 2026 10:30:00 GMT"
-    },
-    {
       "title": "東部道１歳児死亡事故 被告に禁錮４年 「危険かつ悪質な運転」高知地裁判決",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VaDlnNGxtcEdVMzVMclJiQnFEa1dfbGhjUE5XYkxJV2tPaERJUzJfLXh0UDllajdhYjNwOXB4T2xYNndjaUhXM2Mxci16a19zdVpLTVhYS1NmRUZMam40?oc=5",
       "date": "Wed, 15 Jul 2026 23:59:00 GMT"
@@ -56,6 +110,11 @@
       "title": "【速報】高知「ながら運転」１歳児死亡事故　被告に禁錮４年判決　両親「納得できない」",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtcFdOZXBCbHAzZVAxcHl6NENuZUdBNGVUMGpFUG1EbGFPenhWVHFJck03QWx2Y3hReE1QU1JYaFB2SDQwc0psMV9aZVBBZDJWSk9lQmRNOGlOR3NaZ1NGUVMxNWlKdktYSnE4Sl9FdXZpWmg0LS1R0gF8QVVfeXFMTjNkVGNBQWNaS2xYdlJGeTE4cEU3UnliVnpTMzJ6LU03ZzVlNWFxTFYyRk9YSnU4NjhrMlhPQ18zcWZ2MDMzenVCRzduNnk1RzJSaVc5dDg2QnR0ZzhlanpKR2E2UVlKclM3bXJ6MlRLX1ZHYmFlZ2JUN21WdQ?oc=5",
       "date": "Wed, 15 Jul 2026 01:59:00 GMT"
+    },
+    {
+      "title": "運転中に靴履き替えようとして正面衝突 1歳男児死亡、禁錮4年判決 [高知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsNWtRTnlrd2dSMlNKekV1cFl6ZEs2VlEzZzZ3aVNCUExsbFF2TVJVcG95SUVFUmR1cDJrMUUydkZXZjhNYUxmS2Q1MTdBaFNON2hVazlXQS1TSHpGWHRWd2cyY2Zlc0k?oc=5",
+      "date": "Wed, 15 Jul 2026 08:15:00 GMT"
     }
   ],
   "official_links": [

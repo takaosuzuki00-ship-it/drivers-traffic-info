@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-18T18:08:52.012828",
+  "generated_at": "2026-07-18T21:04:13.591530",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 29.4,
-    "temp_max": 31.4,
+    "temp_now": 28.1,
+    "temp_max": 31.5,
     "temp_min": 26.1,
-    "precip_prob_max": 98,
+    "precip_prob_max": 80,
     "precip_sum": 0,
-    "wind_speed": 4.3,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
@@ -41,34 +41,29 @@
         "time": "12:00",
         "temp": 30.6,
         "weather": "晴れ",
-        "precip_prob": 69
+        "precip_prob": 51
       },
       {
         "time": "15:00",
-        "temp": 31.4,
+        "temp": 31.5,
         "weather": "晴れ",
-        "precip_prob": 98
+        "precip_prob": 80
       },
       {
         "time": "18:00",
         "temp": 29.4,
         "weather": "曇り",
-        "precip_prob": 82
+        "precip_prob": 61
       },
       {
         "time": "21:00",
-        "temp": 28.0,
+        "temp": 28.1,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "7月18日（土）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QWnMtM1k4YVl3dVJHV213QS02Yi1sXzkzRklHWmNHMXRlZDRseHZXVy16aGlnclRnaVhnRy1PSnQ4NXBZZjlCVGliVk1kZTV1NHlkVWVvSmoybkFqS0pZdWJCV28wWWF5S1J6V01UWdIBdEFVX3lxTFB2UEVZNHJrSXNqNTBiT2tIZlo2elMwSDBNdEZMdjdwdmhKV1JTN19ma3ZYMzJ1UG95Tm0tbVNyclRlcjBzUEYwalA0QXNSM0JCX3NDbDBpcl94MkhGNC1scmtuYS1RNllhdklLd3NzMkFvY0Ro?oc=5",
-      "date": "Fri, 17 Jul 2026 20:00:00 GMT"
-    },
     {
       "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LZzZqTEtpZDVhYmZfMzRKOVR4RDZDb0VQemd5Zlpha2NyYmVRWEUwLWNVOE1zdExpZ2pCYWFQcmhOeVlmVnlUX3ZzNkRNUE5ybU5ObHNLZkdjUjc1NVlmeHF6NWV6TTBERFo2bHduSdIBdEFVX3lxTE5zREowUldKellUQmwxakpZVkVkX2xESnZXS0JpdG9LM08wa2NIZl9nand5Mkd3aVF5VWdyUkZmbjh0RGc1UjYyaXJ0eDk1cWZjdm1LUjc4RHVqMGg2WGh3cERubXpfdmVuQmt6eUtOT2tWSU5m?oc=5",
@@ -78,6 +73,11 @@
       "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QM3dBQ2pBYkh1VTFwQTlWVmZwVzR2QXo3MWlCOEt1V3RKcHhoa1dPZHRpZGx0elcxTVpKQ0tPRzFlclN5aE1ibXpHdw?oc=5",
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "7月15日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZWlRRWdXbE5nbHJ3MUQ2ZzZVODZabEZJajZ3WEVjX2hlUFRGSm53MUpFeWV1ak5iSDg5X05KM3ZfS2VjRnh3NkVKdFo1d1RSSl84NUNQX2tCQ3ZXY1RBUnRkWDBoRHlfNFF1d2Fvb9IBdEFVX3lxTE1rc2NlSHdkdWpIMHE3SFNOTzd0SFlyWDNxZHhUU19wcWluLVJMRWNHZ3kwNnc1UEJpRGRpVUtmVzltSFZXSk5rT2lweVNYSlBsb05rV1FIZHlwbjRLbndKMzZVMWY4ZmtrYXQwMmdaMW5GU1pP?oc=5",
+      "date": "Tue, 14 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ３月２３日",
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "西条市で交通死亡事故【愛媛】（eat愛媛朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZVUyTDJEUkJHR293MFNDbm5iYTNpdjJkN2MtYkNwakRhQk85OElKcWlRNDFId3o4ZXotUGw2OF9ZOUdRMklrLThmV3RNZjdwY1BYekhrbEZzV0dfT01kMjVJMWktckc3Q0dhZE8yc1JWa2RRWTlocTc2RG9oVU0?oc=5",
+      "date": "Fri, 17 Jul 2026 09:31:13 GMT"
+    },
+    {
       "title": "西条の道路で横たわっていた男性 駐車場から出た直後の普通車にひかれ死亡 警察が状況調べる【愛媛】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LTWRGWHN1OC1mR01IeU0wc0FPTi10Rk1IV1BsaWJaaWQ0NTFwNFpkQ2dwSFRUTUZaMnpmSkpkRWJxWDBZYWZ1WkctWDhsUQ?oc=5",
       "date": "Fri, 17 Jul 2026 02:29:44 GMT"
-    },
-    {
-      "title": "西条市で交通死亡事故【愛媛】（eat愛媛朝日テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0FUMWpOYTBFZGtiUWJWam40aDNOanktdmJSWXpBbjZEanhsV3paVVpPUUpHUnA3a1NvbGhjSXhRel9PWjVRcWtBU19sNFB2VWJJcWdGRXVrQ0FoWklTQkRuZ3BtWHUySWJEdmt2Tlh5cTUwYXBGaGxwWlNLekEtcW53RkQ1VVhqVWxCRTRB?oc=5",
-      "date": "Fri, 17 Jul 2026 09:31:13 GMT"
     },
     {
       "title": "交通事故件数の推移",
@@ -107,9 +107,9 @@
       "date": "Wed, 01 Apr 2026 05:14:48 GMT"
     },
     {
-      "title": "医師が運転する車が路上にいた男性をひく 34歳団体職員が死亡 愛媛・西条市（あいテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaHo5Q1Zna1NPOW91eV9SRXlNalVQSHFmUzY0QTFpMHZXUU11TC1UZFpMUXl5M2d0UERFaEs2UF9HSmJYTUQ3OGx6ZHFnSlh4RFN6TmdpZTktOXhaQXlvWWx5TEthLXVwcU96NW1zMUl2QXVlVS1XX1BSVnRxR2c?oc=5",
-      "date": "Fri, 17 Jul 2026 01:50:28 GMT"
+      "title": "西条の道路で横たわっていた男性　駐車場から出た直後の普通車にはねられ死亡　警察が状況調べる【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlYjczWmMxWXM5bXpkdUpBbE9EWmItLVVHSmVlWDdQMXVtT18tNkZJY0w1VWtfMXNvYmhTX2x4LVROaGtwMDRKTDFYSFNFaXplTlBrVTNYZkZJQ3I5Tm5iZGVVeTI1eWVQd3BmT2xTLXhjd0JRSl9sU2h4THDSAXxBVV95cUxQZWI3M1pjMVlzOW16ZHVKQWxPRFpiLS1VR0plZVg3UDF1bU9fLTZGSWNMNVVrXzFzb2JoU19seC1UTmhrcDA0SkwxWEhTRWl6ZU5Qa1UzWGZGSUNyOU5uYmRlVXkyNXllUHdwZk9sUy14Y3dCUUpfbFNoeExw?oc=5",
+      "date": "Fri, 17 Jul 2026 02:21:00 GMT"
     },
     {
       "title": "医師が運転する車が路上にいた男性をひく 34歳団体職員が死亡 愛媛・西条市",

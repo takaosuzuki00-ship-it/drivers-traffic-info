@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-18T18:04:53.415490",
+  "generated_at": "2026-07-18T21:02:31.536303",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 27.4,
+    "temp_max": 29.4,
+    "temp_min": 25.7,
+    "precip_prob_max": 96,
+    "precip_sum": 2.5,
+    "wind_speed": 11.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "弱い雨",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 26.7,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 27.8,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 29.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -33,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "【速報】燕市内の商業施設駐車場の出入り口付近で車が3歳女児と衝突 女児が意識不明の重体 車を運転していた会社員の男（47）が現行犯逮捕《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xbWg0N05JYlluRGxib0VLT0xEOXJJX0JHaU9STXJFMkpXdEhsRnlBRHBvRTAyNVdWNEJrRFNFVjA5VDdvMVN3R01MV01lMklaQnhVQkMxa0FUcjdTdDNNUDlGMzRzem01UXJtYTVXZjZYVmJkdWpXMFpTNUdUVGs?oc=5",
+      "date": "Sat, 18 Jul 2026 06:41:00 GMT"
+    },
+    {
       "title": "【乗客3人が転倒】新潟市中央区の国道7号線で路線バスが関与する交通事故が発生",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05OXkwV2xNdVQ3OUpiOHhWOUcwa3Nsa1N4RHBsMm5Nanc0VFI3UkFQWlA2TUxOWjY5Z2NFVlo3dWk2emMz?oc=5",
       "date": "Sat, 11 Jul 2026 04:23:30 GMT"
@@ -46,11 +110,6 @@
       "title": "交差点で救急車と乗用車が衝突 意識ない男性を搬送中、事故によるケガ人なし【新潟】",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOYUFPSUpvQzdhbk5OVXctem1FZVRhTHdCb253VW9qUmpVbU5ZSDBxbUFvVGg1UFRiZFpCckpfVTBWYldOVlRnYjZkU1M1SXZjOUV5X1QxcU5HVU1iaE9qUG9JVVAxWlBWbFpNZnBoRU56QUMtZ0o2QlpaOHlCczYtd2hNLXM3dXlXUGI4cFlmUHBySk8ydWIwRW9JeGUycjFrV0FDZWpoQTN2eE1QQ3VPTDktQTY2ZkI4c2tLNndGZnQ3SUFNYnlQMWlDSWVlYTBDcVA5RjVhdGZDa0dEdGZjc09Cc2VXRnAzamdlc2VOY3ItN0JLZjhHbGRZNURYVUpKek1yNE15aGZzTnk5Z1VQdWROMkVEcW1PcGx5eVR5OFNESHhrRTBJeHJ5b1QxdTZnYmNEeGNSalFBNnMxZGpEQWhzYzJaQ1c3VTVrTQ?oc=5",
       "date": "Sun, 05 Jul 2026 06:16:29 GMT"
-    },
-    {
-      "title": "【続報】乗用車と大型バイクが衝突 バイク運転の男性が死亡、身元は燕市の男性会社員(45)と判明【新潟】（UX新潟テレビ21）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yczVoYmwxVXJNNUp4M3hKSkpseTlHUF9hTWpHMmdyMFlEbVpfNU05WmJiUmpibEpJekNQOHBVNXpXNWRpWVZQWEQ2ZHNCWXpFZEJPS0xDR1I0c0I4VnpkWHBveHBMT0d1UnIzMjNYZlpOaERVUjlLa1p6RmJ2SDQ?oc=5",
-      "date": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "交通事故防止に捧げた半世紀…古俣侃さん（新潟市西区）に「警察協力章」、民間人最高位の栄誉",

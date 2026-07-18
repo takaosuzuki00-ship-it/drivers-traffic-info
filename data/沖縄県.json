@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-18T18:10:27.183598",
+  "generated_at": "2026-07-18T21:04:50.162785",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 29.2,
+    "temp_now": 27.8,
     "temp_max": 30.2,
     "temp_min": 27.2,
-    "precip_prob_max": 27,
+    "precip_prob_max": 24,
     "precip_sum": 0.3,
-    "wind_speed": 12.6,
+    "wind_speed": 9.7,
     "hourly": [
       {
         "time": "00:00",
@@ -41,19 +41,19 @@
         "time": "12:00",
         "temp": 30.2,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 8
       },
       {
         "time": "15:00",
         "temp": 30.2,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 24
       },
       {
         "time": "18:00",
         "temp": 29.2,
         "weather": "弱い霧雨",
-        "precip_prob": 12
+        "precip_prob": 8
       },
       {
         "time": "21:00",
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "今帰仁村で交通事故 1人が意識不明の重体（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTjhCa2Jsdy1hcW5heTRRb0s5VzBMb1JyV0JveUFMSkozODJNZUFiYnBWUWZ5SlZGYTRHVjNFMUtvQU4wTml4Wi1BLWs1QnJuVlNMYWU2Q2EwOVFZQ3NPb0pHaWQ1ZEk1c1kzbDFFRmoxNktGRjYtYWtPbTJGOGs?oc=5",
+      "date": "Sat, 18 Jul 2026 09:06:01 GMT"
+    },
+    {
       "title": "トラックと原付きバイクが衝突 10代男性が意識不明 沖縄・今帰仁村天底の国道505号",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qeUVZQTNsVnRJSDhPOHlVQ3BNYVJwSzBxbUhRc0hFbTB5TGQ5aDZ6dDh6bjhnenppMjYza2lDc0pXOTMzY3JmX0FXT2YzaTRQRGktZ002bVZuQW5kMlE?oc=5",
       "date": "Sat, 18 Jul 2026 05:47:00 GMT"
-    },
-    {
-      "title": "10代の2人乗りバイク事故続発 2人重傷 軽と衝突、1人は一時意識不明 沖縄市（RBC琉球放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST1BnWmtOaDJLdm9FZ1ZfcE5vZ2YwMGU5QWFndWE4c1V5T3ZDUnJkNjQ2Nlhqd0pXMFdDQkVDZ1JqUE84ci00QXRZQVItQng3bjF5bXhzcGRNR1dtOV96c1RjSTk5aERxVVo1RURSdVh5TzNaQi1VVFlVRlJHNG8?oc=5",
-      "date": "Fri, 17 Jul 2026 03:05:24 GMT"
     },
     {
       "title": "10代の2人乗りバイク事故続発 2人重傷 軽と衝突、1人は一時意識不明 沖縄市",
@@ -107,14 +107,14 @@
       "date": "Fri, 17 Jul 2026 01:18:00 GMT"
     },
     {
+      "title": "10代の2人乗りバイク事故続発 2人重傷 軽と衝突、1人は一時意識不明 沖縄市（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST1BnWmtOaDJLdm9FZ1ZfcE5vZ2YwMGU5QWFndWE4c1V5T3ZDUnJkNjQ2Nlhqd0pXMFdDQkVDZ1JqUE84ci00QXRZQVItQng3bjF5bXhzcGRNR1dtOV96c1RjSTk5aERxVVo1RURSdVh5TzNaQi1VVFlVRlJHNG8?oc=5",
+      "date": "Fri, 17 Jul 2026 03:05:24 GMT"
+    },
+    {
       "title": "6歳男児が車にぶつかり重傷　ひき逃げ事件で署が捜査　沖縄・与那原町板良敷の町道",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcGlEalpJNEMxeFJVLVZDTERITzhYTG5hcW9GYklNVXE1czhZVUx2UVlIczBwS1hqUnlwWmR5Y0dLTHlnUE1HaFZQaEp6UUo4UkNrTGgxc1VKeGFyejRVQ095d1hXcVdwbTRxVk5VWGU2NWJjOFlfZUQ5SGFlcVQ4MlVjcHg5VTdtMHhLdHJzVkFUa1BkdHZ6YW1CSVdYbTZWLWdzUmQwLUFPUndhcE9YS05KTnczaEx1dzZwQXFNZ1FKcXJIRjBLMDd5NVprNHdXMG9hRko2ZW7SAYgBQVVfeXFMTmx4SkdvZU10MlJNdkh2Y3lqNWNJRHZhX29xOXVTcFhQOHprUk9vQlZveVd2MGVtZUpfNTFWeW1pTFNNaG9CeEMzSzFMeE93Y25VMFpSVzJDbHMydGJydWkxeWI1LXJZTzhxS1NUWEpjNlRYT21LT2lNRk9Vb191c2dmMFNKcXVyUA?oc=5",
       "date": "Sat, 18 Jul 2026 03:16:00 GMT"
-    },
-    {
-      "title": "沖縄県本部町 自転車と乗用車の衝突事故 意識不明の男子高校生が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QQ0ROMkk5XzRlcmxPMTBpVlZsRjQyNUF5Z0kwTHhGNXFCRVQycVRpbEtaSzJNaFBxVFZDc2VCZ1FEUFA5amtUN2lzMlNrZw?oc=5",
-      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
