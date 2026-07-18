@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-07-19T03:01:56.631888",
+  "generated_at": "2026-07-19T06:02:03.431899",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 23.3,
-    "temp_max": 29.8,
-    "temp_min": 23.1,
+    "temp_now": 23.6,
+    "temp_max": 29.3,
+    "temp_min": 23.5,
     "precip_prob_max": 100,
-    "precip_sum": 0.9,
-    "wind_speed": 8.7,
+    "precip_sum": 1.4,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.1,
+        "temp": 23.8,
         "weather": "弱い霧雨",
         "precip_prob": 41
       },
       {
         "time": "03:00",
-        "temp": 23.3,
+        "temp": 23.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 23.5,
-        "weather": "晴れ時々曇",
+        "temp": 23.6,
+        "weather": "曇り",
         "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 25.6,
-        "weather": "晴れ",
+        "temp": 24.9,
+        "weather": "弱い霧雨",
         "precip_prob": 24
       },
       {
         "time": "12:00",
-        "temp": 28.7,
+        "temp": 28.8,
         "weather": "晴れ",
         "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 29.1,
+        "temp": 29.0,
         "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 28.0,
+        "temp": 27.9,
         "weather": "晴れ",
         "precip_prob": 76
       },
       {
         "time": "21:00",
-        "temp": 25.7,
+        "temp": 25.8,
         "weather": "晴れ",
         "precip_prob": 2
       }
@@ -65,9 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "7月18日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYlNjQURtbEJyY3l4UHI1SXEweFZRbE5JbFpTMnlQZHlIUDk0UnMxNkFwZ1kxcWRaR0F6aFBFSEJLdXMtbVJhaGVMUVVYUTFKeElBWVpOYVB4QQ?oc=5",
-      "date": "Fri, 17 Jul 2026 20:00:00 GMT"
+      "title": "7月19日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYnk0bjVORUl2MmduZmdOMFNPU09maWxyZF9DUi1qYldPZ2RKLVJ6bXdzZUZzemRENFJ2SWxOYkFlUy12UEJqVUo5OFZKdi1jdjNLNWVYZktWdw?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月19日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM091LTlpVTVvQW9xY0xRcTZBcTNRZEllTFFfb0tBcmt0eHp0MFB3Tkx5RFpZaTNfSklwcmVlUHA0WTJDd1pNQ3Z5QUt4OVltVDQ1bVBiM1UtRlVJMlJRMVhDaV9yNTBoS2pKVHg2QXJBV0xmcF9xMHV1QmhYLUJCUldNN0J1WEhQb19hMUxEemowb1RXbXBBSXI5eER2R3RST3N3cVBHbXYzdHJ3bEdQVjl6OEVZNE9kQjY4N0FKYWFwXzhN0gF0QVVfeXFMTVRaUmJHblVRdTFUR3pDVk5hLUdYUjVFa3I2OGpBU2xZbEJvY2pqWjQtMGV6Vmh6dVpnT0ZCcHJ0aGRuRXRZVWhDQ1pVQ2U0M0NoUk4zLU5NbWJWS3Y3cERpT0o0X2JqZnZwb2JqaWpwSGZuUnc?oc=5",
+      "date": "Sat, 18 Jul 2026 20:09:35 GMT"
     },
     {
       "title": "7月18日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
@@ -75,14 +80,9 @@
       "date": "Fri, 17 Jul 2026 20:00:33 GMT"
     },
     {
-      "title": "7月17日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sRm1iVjFNZXpGTjk4WGFwMWU1cEpmQk5kZFJzc2ZZTTNPWWZKeE4zZFFJOV9jOU85N0o1YVBlRmJXU0pObVR5LTNNSEp0cU9UMVNmQjdDZ0Z1eVJjQkZjQmptempMaDUyb0lmWDl3QdIBdEFVX3lxTE9wMjNseXJzR0Q4TGJCekNEdG5jNHp3d2NRN1p5S3g3MXBYZjI3S0Mxdno5OEdtSEE4clFlYWtlTHNrUDFFa0ZLSGVUVWRHc0otbUpmWEVJUnF5ejd3a1VxRjZGTFRLM3d0d2FFVW5LREFlOVhq?oc=5",
-      "date": "Thu, 16 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54c1U4c3llSTlCZ0M3NlQ0MXJUWXpCdEJZNk9xbW5RaFlabHZQYWhZbHNJTHNOTXJMMEQ3UjdYNFVvM3pyLWJPYl9lS3BTdTVxZV9lN0h0cG5hZw?oc=5",
-      "date": "Wed, 15 Jul 2026 20:00:00 GMT"
+      "title": "7月18日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYlNjQURtbEJyY3l4UHI1SXEweFZRbE5JbFpTMnlQZHlIUDk0UnMxNkFwZ1kxcWRaR0F6aFBFSEJLdXMtbVJhaGVMUVVYUTFKeElBWVpOYVB4QQ?oc=5",
+      "date": "Fri, 17 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",

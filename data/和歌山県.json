@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-07-19T03:04:36.640660",
+  "generated_at": "2026-07-19T06:04:42.382910",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 25.9,
+    "temp_max": 31.8,
+    "temp_min": 25.8,
+    "precip_prob_max": 88,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.6,
+        "weather": "快晴",
+        "precip_prob": 84
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 67
+      },
+      {
+        "time": "18:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
       "date": "Sun, 12 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月8日（水）【熊本県 交通取締情報 午前・午後・夜間】交差点違反・携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mWTkyY0xZTzdnZnpXRTY3QV8tTjhLTWdDbHVSMXZXSUVEMFdlUE4yNkFnQkZRdUQ0R293anF6RWo1cFBqb3p3UGE4Nkd5Wm9PbE5BUEhRVlZxaDR2bkpCOVNLLVBpYUU?oc=5",
+      "date": "Tue, 07 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -21,14 +85,9 @@
       "date": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "れいわ・山本太郎代表、大分市の高速道を時速149キロで走行 速度超過で摘発…罰金9万円、90日の運転免許停止処分",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhUWUyYThyV3dYNzZWOGg0SW9RSFF1ZUUzc3U2SDFiQ0h0dU1MVkREVzF1c19aVHNOWVNRRUlHeERfMENjeDFmS2lKWHZhWDQ?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "スピード違反逮捕の杉山知靖が謝罪「自覚、意識が足りず」 今週からツアーに復帰",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yYTNnejJGTTZtWW0yaG03MVMwd082OWVZS0V3SU9Xb0NsTkJYdWktTzNYb3BYTkE3VXZvMnViVG8wc0dPazZzLTlveHhtc2tza0oxRWEteGpOQ1pFWndiOHdn?oc=5",
-      "date": "Wed, 23 Aug 2023 07:00:00 GMT"
+      "title": "消防署長が５０キロ超スピード違反「葬儀に向かっていて」…減給１０分の１懲戒処分、自ら申告",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcVdlRzhaMUhxenBWTTBwb0ViR1l5Q3BvQVBKSkhST1hCZzRZWGRVbmdVTnNkT1hqTGN6TkhyS2ZNMmQ3MnRxMnd5ZGItMGVqVTVod2hSS3VEam55NDRyamgyQ2lLQW1pVFlrWF9pWFFFQQ?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -43,6 +102,11 @@
       "date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
+      "title": "【多重死傷事故】女が無罪主張 「てんかん」でない可能性を主張 死亡女性遺族が申し立て再捜査を経て起訴 事故5年目の初公判で 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQmNLU0hMaDdzRE1XVUpFb0pGb3ZmX2VmWmtRWFhHRVFhUTQyV081X3E0X0toWm5icFRtWEdqa2FCTDh5b3ZyVDUxcDAyNGpnN05GeVhiVUVMTHZUWGhHQWRKTEtJUGo5bFJqR0lCWVJPSnZqaFB0Z3M2Rjk0RTA?oc=5",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "川遊び中の男子高校生が死亡 川底で発見、おぼれたか 和歌山 [和歌山県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVlc0VXZZb3N3UzhwMjVPNDd2b1RaMU5hcHJDVUx3MDJzU3p3Vk5hVlRIc3ZNeGZVWVo5Wmg1TnBhZXk3ajNiMU9PbnVCOFBBaXJJcXVuTld4S2xMQUM4ZGdYRG5STGM?oc=5",
       "date": "Tue, 14 Jul 2026 09:31:00 GMT"
@@ -51,11 +115,6 @@
       "title": "和歌山 川で遊泳の男子高校生が死亡 おぼれたか",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpZ3RUOU9LX3VNaEdoa1dRYzRLLW54ME1iNXRzNDR3REJlOVZNWWZJRmRzeFlKTnEyZmJFS1ZmeGNSY3ZVcURHVnZkYVQ3MEhwNEN2T2xfQUNwbkhmSkQ4?oc=5",
       "date": "Tue, 14 Jul 2026 14:30:10 GMT"
-    },
-    {
-      "title": "和歌山・日高川で友人と水遊びをしていた男子高校生(16)が溺れて死亡 「友達があがってこない」と通報（読売テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83eVJmUWtpYjlJQVc2enJpZVNWWVd1d1pfMndldE9wbmM1SHVuVXhZbGptSFozcXRtTGZ5WVBXUm85QmJFM1d4aEFnRFFQQThfREp1ZGRaZ0QzeVhLYnFYYUMxQzlRdzBCNjRTaUE5aENoWWhrZkxVdGJVYnppTGs?oc=5",
-      "date": "Tue, 14 Jul 2026 11:26:01 GMT"
     }
   ],
   "official_links": [

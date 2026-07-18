@@ -1,69 +1,15 @@
 {
-  "generated_at": "2026-07-19T03:03:33.637546",
+  "generated_at": "2026-07-19T06:03:50.820909",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 24.4,
-    "temp_max": 32.3,
-    "temp_min": 23.9,
-    "precip_prob_max": 80,
-    "precip_sum": 0.2,
-    "wind_speed": 5.1,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 25.0,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 24.4,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 24.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 27.5,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 31.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 32.2,
-        "weather": "晴れ",
-        "precip_prob": 33
-      },
-      {
-        "time": "18:00",
-        "temp": 29.3,
-        "weather": "晴れ",
-        "precip_prob": 80
-      },
-      {
-        "time": "21:00",
-        "temp": 26.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
+    {
+      "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFpNVUNjMEd6cFFLajVvOHhVX3oxcVk4TmFnN29tREFMczRtdHZMNk5QUlNEWDRRWFQxbkRGWTNJZ3AtT1ozTTVHVUNEcmFsalI4WFNYejJYaDdnN0t0anJpemlrV0VfbHhDbGVXOW0xNzE1R0ZiVk05TzgwQWpSQy1R0gF0QVVfeXFMTmhKNEdmX3VWbmstRVluTTVKLVFybEI3S2hsbG9qZnVXN3U0RFhsMDdsUTdDRTNrMVpYQnl2Y0pyTXhQWjhnWDFjakxiR0lTZjFjR01lMkVaeDgzMWxFTWZkNGgwd0h3SzJYZnRCOTJ2b0tCWFQ?oc=5",
+      "date": "Sat, 18 Jul 2026 20:15:36 GMT"
+    },
     {
       "title": "23日告示の長野県知事選に向け立候補の届け出書類の事前審査始まる 県警本部と県内22の警察署に選挙違反取締本部を設置",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cjc5V0FXZ1ZIZGRMNnpzcEdnckp6dDJQeTV4NXhWbW44ZDRsVkdfQWJ2RVI5S3JEeHhIRnpCYlBhZlBUbWZqcnZaLThQRFdZc21Odjk4ZUFDNTNZOGVnRkQyWHZZbHdaaGNZaV8zZ3pockdISVJVVHIzWEg5REk?oc=5",
@@ -73,11 +19,6 @@
       "title": "知事選に向け 県警が選挙違反取締本部を設置【長野】（abn長野朝日放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdF90cWwxUEdxbHA0SWtGU1JEd2Vrd3FnbGxBWE1pal9xbm5UMHdfZ1pxQ2VHelZ4REhVcGV6cHg0dHR2RURQNkc1MHVQNll3ZkhTclRHYWxfVzhES1M2Tnhhbk1HV2UxdGZob3N3ZzdDakdIUEFEVXM0UlNXakU?oc=5",
       "date": "Tue, 14 Jul 2026 07:15:44 GMT"
-    },
-    {
-      "title": "７月１８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUtsNjhWMkVnV29CVExKSlJqN3AzR3N3YzRzZlp1LUJpQ21NWEhYaTdpY1B4eWdpTDg5NlVpLWwwSzZZNmp4OHl0UDhsS2pvXzB1Y0dlODBEV2k4T1pVTjcyVEJtekxmQnd1WXB4bktkb3ZQd1UzdkNqRDNKVEZOeUZyYzFRem9PZVhZUk1Ib1FWSnQ0Z0IxdVh3cXUydjhuRWNLMHhFY1NKY0xzT3ZLOTFibGx5c2tUNzZTU2w4ZVh3eHZiclhR0gF3QVVfeXFMTi1pd3VhbWxsS1NkTll0LTBWdk45bkE1YkJ0blBQNS1XUU5WTkpkd210U1hvTlJ3dGphcUc2R05XMnhHUDlvUUlhSTBmX2VMVXN2MmQzNG5Uaml6SWQ0dEFDLWFoUlk0VUJGTXhwZjhxRVQ1NTE1Nnc?oc=5",
-      "date": "Fri, 17 Jul 2026 20:09:25 GMT"
     },
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
@@ -112,9 +53,9 @@
       "date": "Thu, 16 Jul 2026 07:33:00 GMT"
     },
     {
-      "title": "「畑で男性が倒れている」88歳の男性その場で死亡確認 近くにはエンジンがかかったままの重機 警察が事故の可能性含め調べる 長野 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVnliakdHZmpqanFQNGRveTlJY3dUMEpEVWtXY0lWYWFBRzUwNk92cFNNU3VrQTBIcjYzZFExbm5hTmhDdWNsVE1HRlhUZE9EbnJ1LTU1NFdJWG9YMG5wdXRId1ZVeVk?oc=5",
-      "date": "Sat, 18 Jul 2026 09:10:00 GMT"
+      "title": "大型トラックと衝突 軽自動車を運転していた大学職員の60歳男性が死亡 大型トラックの静岡県の62歳男性はけががない模様 現場は片側1車線の国道254号 長野・上田市 - nbs",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EMkRMam9fYjAycHZiQ1BLM3djSERiTm1nR0VBNXlxSVVnZDhGeW43b2V2NlFlM3hqYkJyN3JKTU56WE5KTXJDUnNOMWxXMFFiS3ZMdl9GRVdWbTJ5YlE?oc=5",
+      "date": "Wed, 15 Jul 2026 11:02:00 GMT"
     }
   ],
   "official_links": [
