@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-19T00:04:23.489419",
+  "generated_at": "2026-07-19T03:03:50.359100",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.9,
+    "temp_max": 28.7,
+    "temp_min": 25.8,
+    "precip_prob_max": 93,
+    "precip_sum": 8.8,
+    "wind_speed": 8.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "霧雨",
+        "precip_prob": 55
+      },
+      {
+        "time": "09:00",
+        "temp": 26.6,
+        "weather": "弱い雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
@@ -16,9 +75,9 @@
       "date": "Fri, 17 Jul 2026 20:09:25 GMT"
     },
     {
-      "title": "7月17日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TaS15UlMySGdEQ1daSThVeTgwRF9vd0h1dmlQelhoV3ZuWWxRb3NlLTlmMl9wU1U5OG1MYWhtSG1BMWdlbi1RMnFaTXNnV2tkZ0dPLUNGRUhna0NqaUI0SGpuUEQ1UWswUENWWGdhMNIBdEFVX3lxTE5pWHZPc2xTRnNWX0Rxd0RMOFVidDFvLVpTU052TWdqWFdTcmg1cy1YVkFOV0xvYUktUVpsZktQR0xGbnFKSHBjLXVjRFlNV1hmblNzeGdmUE8zQ2RoTURkX1J2MDdRaFE3M09kZ2dQX1pZTWY1?oc=5",
-      "date": "Thu, 16 Jul 2026 20:02:00 GMT"
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月２２日",
@@ -26,9 +85,9 @@
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90LWMtbVdYaTNIbFNJYnlOdEhfLUhvSVM1REFBN0x4QjVNVnlLbXRDcGxROERSMUlOZ2dydW9YR0NWTDBRd0FmSlBqNEtXZDAxVXItSkw0aDFNbmVCMkpCdzFfRkpXbkZBeHdMaXZsTdIBdEFVX3lxTE9nTGpPNXZ4M3RmSkRxckJOdXdvbG5kVVh2RktibVBud25hQ05WaDlsV29FV1otZzRnb2YwV0VaZ21nV0hrUGxEQ21PYzZBTWJ4SzhNN2VYUjIxY1MzOEFMbjctNWFpLUhNRDloemtPRVBlVlRh?oc=5",
-      "date": "Wed, 15 Jul 2026 20:02:00 GMT"
+      "title": "7月17日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TaS15UlMySGdEQ1daSThVeTgwRF9vd0h1dmlQelhoV3ZuWWxRb3NlLTlmMl9wU1U5OG1MYWhtSG1BMWdlbi1RMnFaTXNnV2tkZ0dPLUNGRUhna0NqaUI0SGpuUEQ1UWswUENWWGdhMNIBdEFVX3lxTE5pWHZPc2xTRnNWX0Rxd0RMOFVidDFvLVpTU052TWdqWFdTcmg1cy1YVkFOV0xvYUktUVpsZktQR0xGbnFKSHBjLXVjRFlNV1hmblNzeGdmUE8zQ2RoTURkX1J2MDdRaFE3M09kZ2dQX1pZTWY1?oc=5",
+      "date": "Thu, 16 Jul 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Mon, 13 Jul 2026 20:05:00 GMT"
     },
     {
+      "title": "子どもも高齢者も交通事故から守りたい 三重県の松阪・多気・明和で活動「とまとーず」が教室6000回",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FTnhVRUhoWTU2eWc2UjQxNlZoTEEwUHk5U0lhaVQ3MnhWS0g3aTJ5OTFJZnpMN2puVmxLdkpHamREQk9NUjRpRTI4QQ?oc=5",
+      "date": "Mon, 13 Jul 2026 20:05:00 GMT"
+    },
+    {
       "title": "右折車と直進車が衝突 男性1人死亡 21歳の保育士を逮捕 三重・津市（三重テレビ放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aWpSTEFMWnI0TXpEZjhWUGRXNG1jZDdtUDFuZXkwTVJNZW9iMlU5djE4Rl92aTJHWGQ1clZwQ283Nm8tMWtzckxxb2xobFZadG5lYXE4WEFEUDZPanlpX1R3b2xqam1INHN3YmFuWmw5aTNfNF9RWUhWanlGWTA?oc=5",
       "date": "Thu, 16 Jul 2026 01:30:58 GMT"
-    },
-    {
-      "title": "直進車と右折車が衝突、40代男性死亡 三重県津市の国道交差点",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85YjBqMlBJS0pNYW80M0k5cUJ2OEg5YURvSko4OHgtSnJ4bjd3c05rR2RfSGgxOEszQmhkNXptUkdlNW9mY0xQcGw4YjlhNk1IVXRmRQ?oc=5",
-      "date": "Wed, 15 Jul 2026 01:26:45 GMT"
     }
   ],
   "official_links": [
