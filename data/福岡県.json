@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-19T12:08:22.494062",
+  "generated_at": "2026-07-19T15:09:53.804740",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.7,
+    "temp_max": 32.8,
+    "temp_min": 26.4,
+    "precip_prob_max": 100,
+    "precip_sum": 0.2,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 30.1,
+        "weather": "快晴",
+        "precip_prob": 27
+      },
+      {
+        "time": "12:00",
+        "temp": 32.8,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "15:00",
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 28.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
@@ -38,19 +97,19 @@
       "date": "Sat, 18 Jul 2026 03:24:01 GMT"
     },
     {
+      "title": "「百年橋通り」飲酒運転で追突事故 東京の男(47)を逮捕 「自覚ない」と容疑否認 福岡市南区",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MWU9NSVVURmJadzJqWkxpOXIzN2ZZa2lFRjFrMVN2aFRGX3RjcFYxOGRVX0hqZThDSmdJd0tSWW1yQWZKVlpQUGVwcG9waTdYdmpOa2ZyclBGNlJpbUtmbERJZw?oc=5",
+      "date": "Sat, 18 Jul 2026 08:27:51 GMT"
+    },
+    {
       "title": "「ポップな服装、事故はコーン」 福岡・久留米市で交通事故防止へポップコーン配布",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWkhCbEFZT3d4UTZpYXRQUVVvRXRYZVZpY3UxdENnTXVIY0hfam5qSDBaTjhDeVlrUmhHTVVhRzVLaENfM19HeFgwcW5XU3c4MTd2YTZ3?oc=5",
       "date": "Tue, 14 Jul 2026 21:00:00 GMT"
     },
     {
-      "title": "「百年橋通り」飲酒運転で追突事故　東京の男(47)を逮捕　「自覚ない」と容疑否認　福岡市南区",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zVFluYVdJTUxJWVZWTDlabXlWNlhyQzJXNFh5dm54VFRFZzFrMWlPNzQ3ZWs5eUFJellSU01ESzRNbmFMYUdkNWo1UDhWWVNNZHNnaWhkV0dwSXRtVDFfd2oxSDNLQ21SbXpZVWo2b9IBdEFVX3lxTFA1UWZ2Xzk4Q05NcU5EcDk1UWxEX25NWlp4a1dfN1RHOGEyQXptWlBieXBOdTlEWmFLS3dYdUJqWVVFdjZOOUlaTmNlZmo2aFVVaFhhMGktV2wzVGsxS0VTcmdLMFNLNHpzdWx2SzFOc3ZOSFFU?oc=5",
-      "date": "Sat, 18 Jul 2026 07:30:00 GMT"
-    },
-    {
-      "title": "【続報】福岡・春日市で死亡交通事故 軽自動車と歩行者が衝突 近くに住む71歳の女性が死亡 横断歩道がないところを渡りごみ出しか",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0NXBkTUpILWRpZ2pxOVRaZmsyS1BVZ05MekNMaTd3NF9EY3pwVTFNS3JGWnBtYXg0alpBM1BmR1dFTElxN3dlRWFIMDV2RkY0TXpGQnlZNjI2QXlBR2p1UjBZYw?oc=5",
-      "date": "Mon, 27 Apr 2026 07:00:00 GMT"
+      "title": "「交通ルール・マナーを守って」事故防止を呼びかけ 夏の交通安全県民運動スタート 福岡",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajFxN0RBMTVyejBCREQxODdpQUlSbGV1TE9zMkZ5LV9YS1ltdGUyM0s5bnN5eHdCcTRpSmQ0aUpsTzdfd1FsOEhWRlpSTGMwdVFrRjBrNkJOZmdzVEJhTHo4V1JOSlJmYUQ3MlcxeU5Rc3lFOHJDNEVBbkhvcW96RXhjREk5MTA?oc=5",
+      "date": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "1.5キロ逆走か、料金所でUターン 死亡事故のダンプ運転手を逮捕 [福岡県]",
