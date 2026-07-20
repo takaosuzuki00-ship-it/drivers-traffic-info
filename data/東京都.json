@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-07-21T03:02:36.207088",
+  "generated_at": "2026-07-21T06:02:05.413976",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 25.1,
-    "temp_max": 33.9,
-    "temp_min": 24.8,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 24.8,
+    "temp_max": 34.1,
+    "temp_min": 24.4,
     "precip_prob_max": 94,
     "precip_sum": 0,
-    "wind_speed": 2.2,
+    "wind_speed": 1.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.0,
+        "temp": 25.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.1,
+        "temp": 24.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.0,
-        "weather": "晴れ",
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.8,
+        "temp": 29.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -51,7 +51,7 @@
       },
       {
         "time": "18:00",
-        "temp": 31.5,
+        "temp": 31.4,
         "weather": "快晴",
         "precip_prob": 78
       },
@@ -65,9 +65,19 @@
   },
   "enforcement_news": [
     {
-      "title": "７月１８日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nb3VsTWJENkpKakZUNTNfSUtFRjRxd2FvdC1sWjJWcExfVXhmWFExZzZZVzJSZGVqUEhNaHdMak9EUVVyb1h3YjdXeU5jd0NoS1FyQ1FPWQ?oc=5",
-      "date": "Fri, 17 Jul 2026 20:00:00 GMT"
+      "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaEc3UXpWZ2lWU3Q2Vk9mSzZCWmhha254clpUaG9VeEdKdzR0TmFYOGZmbGpTOTJzeXRGbmdDTHhMMC1ac2RWc3NuMmlhWVBLcjcwdVNjcw?oc=5",
+      "date": "Fri, 17 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YaXdDbzR4MF9KUFlfeWl1TzNyN1RncGQ0M1pwa093Nk4tLTVwYmNMb0dDTndNaERfaDY5U2xCTFJ6c1oycThUSGo2R2NFNS02MDROZ3dQS1lxUXpzYjBvQWhKTktjTDZhb0JMOEpoZUpEQdIBd0FVX3lxTE5fMDRVbUFET181VFdidnBieUdmcV8xYzlFOUpwNmM4cVY5VHhYaTg1Rmk4YTBoMFdOYXU5ODJMWGRnQk1WcEQ3YXlNNWRUMEZ5N0tDZFdGMnhMQ0pscmJFd2wtV3JGWEJiOEh0TEwyaklNUl9NUzI0?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jS2pYLWpqZ0RIX21Pd3Ywbk4wLUdvZ1I3XzNSVGd6c1Z6ZjE1UzJCT1dMOFVSTktDVkJ4T2s3T1VZSjNzSkliSi1ZQU5uUzBzOXJhTnI0TQ?oc=5",
+      "date": "Wed, 15 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "7月20日（月）【岩手県】 日中・夜間の交通取締情報",
@@ -75,26 +85,16 @@
       "date": "Sun, 19 Jul 2026 20:06:34 GMT"
     },
     {
-      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
-      "date": "Sun, 19 Jul 2026 20:10:32 GMT"
-    },
-    {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ３月２４日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83VndZdkcwcndPU2xtZEphRUtnTDNpVThlYm9MZHVaTGhNX1FsNWtsRnlrMTI0TVhKT2VJSkdpQVpmQUJSQUVJSm5Ccw?oc=5",
-      "date": "Mon, 23 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【速報】東京・西東京市の交差点で通学中の小3男児（8）が貨物自動車にはねられ死亡 貨物自動車の50代男性運転手から任意で話聴く 警視庁",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLTzNHc1JQblUzSm82T0cyRWF6Q2Z5N28wOU44bUViaVYtMFU2dDI4dV9ZQ1dUaGtMQWpzQkhmM0w5UzZraHkyVkFBckdkWUh4ZlRhRGktaw?oc=5",
-      "date": "Wed, 15 Jul 2026 07:12:00 GMT"
+      "title": "「横断歩道を渡る人はいないと勝手に思い込んだ」 西東京市・小3男児死亡交通事故で逮捕の59歳男を送検 会社事務所など関係先も家宅捜索 安全管理の状況も捜査 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YZXE5Qnp6b0RkN0lINHpIdmFtUzlIMXFnWkZFNmJnM1U4TGM3cmI3MzJVWG1yM1BLbWlLRWtEaExQVHdvSXF5VGRmUUxhSmtTZ1ZxNXBoaw?oc=5",
+      "date": "Fri, 17 Jul 2026 03:47:35 GMT"
     },
     {
       "title": "【速報】東京・西東京市の交差点で通学中の小3男児（8）が貨物自動車にはねられ死亡 貨物自動車の50代男性運転手から任意で話聴く 警視庁（TBS NEWS DIG Powered by JNN）",
@@ -107,14 +107,14 @@
       "date": "Wed, 15 Jul 2026 10:28:18 GMT"
     },
     {
-      "title": "「横断歩道を渡る人はいないと勝手に思い込んだ」 西東京市・小3男児死亡交通事故で逮捕の59歳男を送検 会社事務所など関係先も家宅捜索 安全管理の状況も捜査 警視庁",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YZXE5Qnp6b0RkN0lINHpIdmFtUzlIMXFnWkZFNmJnM1U4TGM3cmI3MzJVWG1yM1BLbWlLRWtEaExQVHdvSXF5VGRmUUxhSmtTZ1ZxNXBoaw?oc=5",
-      "date": "Fri, 17 Jul 2026 03:47:35 GMT"
-    },
-    {
       "title": "東京・西東京市の交差点で登校中の小3男児（8）が貨物自動車にはねられ死亡 ワゴン車の59歳の男を過失運転致死の疑いで逮捕 警視庁（TBS NEWS DIG Powered by JNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93SFJBVTRCaTJfOGl3RGpsUEI2ZnVCTG1kWk0wUGM4MVNDTjRFbzROUlVZMnBydm5PbkxMRm5pUktoUF94anJwcGlURnVMVmZjN3pKZnRJUGlvZEd1dnhKR3IzQjZSU2swRHBEZXdpTG1NeW9uY3BkQkMzYW5NNTQ?oc=5",
       "date": "Thu, 16 Jul 2026 00:36:54 GMT"
+    },
+    {
+      "title": "「百年橋通り」飲酒運転で追突事故　東京の男(47)を逮捕　「自覚ない」と容疑否認　福岡市南区",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zVFluYVdJTUxJWVZWTDlabXlWNlhyQzJXNFh5dm54VFRFZzFrMWlPNzQ3ZWs5eUFJellSU01ESzRNbmFMYUdkNWo1UDhWWVNNZHNnaWhkV0dwSXRtVDFfd2oxSDNLQ21SbXpZVWo2b9IBdEFVX3lxTFA1UWZ2Xzk4Q05NcU5EcDk1UWxEX25NWlp4a1dfN1RHOGEyQXptWlBieXBOdTlEWmFLS3dYdUJqWVVFdjZOOUlaTmNlZmo2aFVVaFhhMGktV2wzVGsxS0VTcmdLMFNLNHpzdWx2SzFOc3ZOSFFU?oc=5",
+      "date": "Sat, 18 Jul 2026 07:30:00 GMT"
     }
   ],
   "official_links": [
