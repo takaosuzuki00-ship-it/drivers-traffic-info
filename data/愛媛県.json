@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-20T21:05:38.755492",
+  "generated_at": "2026-07-21T00:08:38.658647",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 28.5,
-    "temp_max": 32.3,
-    "temp_min": 25.5,
-    "precip_prob_max": 80,
+    "temp_now": 26.8,
+    "temp_max": 32.1,
+    "temp_min": 26.6,
+    "precip_prob_max": 52,
     "precip_sum": 0,
-    "wind_speed": 1.6,
+    "wind_speed": 1.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "03:00",
-        "temp": 25.8,
+        "temp": 26.8,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 22
       },
       {
         "time": "06:00",
-        "temp": 25.7,
+        "temp": 26.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.5,
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.1,
+        "weather": "快晴",
+        "precip_prob": 49
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "18:00",
+        "temp": 30.4,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
-        "time": "12:00",
-        "temp": 32.2,
-        "weather": "晴れ",
-        "precip_prob": 31
-      },
-      {
-        "time": "15:00",
-        "temp": 32.2,
-        "weather": "晴れ",
-        "precip_prob": 49
-      },
-      {
-        "time": "18:00",
-        "temp": 30.1,
-        "weather": "晴れ",
-        "precip_prob": 80
-      },
-      {
         "time": "21:00",
-        "temp": 28.5,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },

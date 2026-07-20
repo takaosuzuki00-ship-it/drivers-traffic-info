@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-20T21:04:21.345192",
+  "generated_at": "2026-07-21T00:06:58.427526",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 29.7,
-    "temp_max": 32.8,
-    "temp_min": 24.7,
-    "precip_prob_max": 29,
-    "precip_sum": 0,
-    "wind_speed": 5.8,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 29.2,
+    "temp_max": 35.9,
+    "temp_min": 27.1,
+    "precip_prob_max": 39,
+    "precip_sum": 0.2,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 25.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 25.1,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "09:00",
-        "temp": 28.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 31.0,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 32.8,
+        "temp": 29.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "18:00",
-        "temp": 31.2,
+        "time": "03:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.9,
         "weather": "晴れ",
-        "precip_prob": 29
+        "precip_prob": 39
+      },
+      {
+        "time": "15:00",
+        "temp": 35.3,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "18:00",
+        "temp": 35.3,
+        "weather": "晴れ",
+        "precip_prob": 35
       },
       {
         "time": "21:00",
-        "temp": 29.7,
+        "temp": 31.8,
         "weather": "晴れ",
-        "precip_prob": 12
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
-      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
-    },
-    {
       "title": "７月１８日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZU0x4anQyYnRyNGtHa3BjcVRKaXlnWWh5cjl5TkhuaUlCMzZMOWE1VG15YTdaVHhpT0xRSVBBVGlzRVo1MXRNTUIweUtzTXFTY0ZISC1DRFZiMlVSYWo1RzEtVHFhV01C?oc=5",
       "date": "Fri, 17 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -107,14 +107,14 @@
       "date": "Wed, 15 Jul 2026 01:26:45 GMT"
     },
     {
-      "title": "子どもも高齢者も交通事故から守りたい 三重県の松阪・多気・明和で活動「とまとーず」が教室6000回",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FTnhVRUhoWTU2eWc2UjQxNlZoTEEwUHk5U0lhaVQ3MnhWS0g3aTJ5OTFJZnpMN2puVmxLdkpHamREQk9NUjRpRTI4QQ?oc=5",
-      "date": "Mon, 13 Jul 2026 20:05:00 GMT"
-    },
-    {
       "title": "新名神高速6人死亡事故4か月 遺族「父親を返してほしい」",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoTHZhNl9pdDRSNjNUckZNVnZVczQ0LXhDSkRtR3g5dDR0dTdnS08wZ1lwa1p6WkNkc0dhYmhPcTJqdnBndkdZYlAxdzhSY0E3U3NsR0pLQnFjS0ZqTEEw?oc=5",
       "date": "Mon, 20 Jul 2026 09:36:20 GMT"
+    },
+    {
+      "title": "三重・松阪競輪場でレース中に事故 伏見俊昭選手が死亡 アテネ五輪で銀メダル（メ〜テレ（名古屋テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VjRPUzBfYkV6ckozNzFpckZJUFA3T3pOZTNhaVJlOEZvZlJPZFdvcDA3YzBkX3hfX1ZLYXVpcUxSR0dEQXVnMDN0RFNtY1lQQXhPREdmdnpLWkRZVkFJYnlOQXVMNTU4dzJRY3NqNVlGcGFuMzNjemFKTzhzZnM?oc=5",
+      "date": "Sun, 19 Jul 2026 16:29:01 GMT"
     }
   ],
   "official_links": [
