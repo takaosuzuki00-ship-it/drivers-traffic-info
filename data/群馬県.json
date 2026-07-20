@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T12:41:11.681133",
+  "generated_at": "2026-07-20T15:03:29.164888",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 36.7,
+    "temp_max": 36.7,
+    "temp_min": 24.6,
+    "precip_prob_max": 90,
+    "precip_sum": 0,
+    "wind_speed": 6.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 35.2,
+        "weather": "快晴",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 36.7,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "18:00",
+        "temp": 34.4,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "21:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 6
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84SFM2ejY1cGhNcjNtMDZhWnVYQkg1OU9xM1o2OWJaSW16ajVkdkFqTXktTnpqcXNHckJxYmEweWxGMDJnNi1lbUFPOA?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の“歩道走行”は取締対象になる？「車道走行で命の危険」罰則強化に困惑の声も…正しいルールを解説【あなたの声で調査しました】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEWjkyLVdHSEk0WExwcXVUcFZaVzExSFdaTkFyMGJMREZrSVRqdUFnellSWUgtdW1taG16MnFJZ3pBUUl6Zl9FdXJmLVZnek11Tm94UlF4WE1uTHhWdXc?oc=5",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警察官引きずり“殺人未遂”で男送検 出頭の際「交通違反をしたので来た」 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzWllVaTBRYUVwcm02dHRhZTB1eWNfUG9yeXQtdG5nTkZNS1o3VENXVHhJd2tYZnphU0ZEZzJOR2c4YUN5ekJZejNoSQ?oc=5",
+      "date": "Wed, 13 May 2026 06:27:15 GMT"
+    },
+    {
+      "title": "鹿児島県下一斉飲酒運転取締りで16件摘発　酒気帯び運転2件、速度違反5件など　県警「取り締り強化していく」",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNElIMEs0OXlEQVVKZGlIbVhOUEhDOUN6M3M4WUVtMjFFZU9BQVlaZEJPemlTdy1JazNEc2t2RDFUbG5HVHhDTVlUQ3E4SVFYQmE2UFFTMzlhYngtUFU2dmlJUGdNTkV4WXdMMlNXVdIBdEFVX3lxTFBxSjZiaVl2eEtzcUlrcUFGYkJiQmRpOEx3ZUZ6YnFEanZ1ajFiOGNIYjNWQ2ZiNWhLVU83Q1pPS2pFTTNMUWJWWnkyOFJvWGN0WFZSUFZmUW1ENDR0WDA5b01mQk9WY2FWOGJWNEpldFVCOVY3?oc=5",
+      "date": "Sun, 19 Jul 2026 03:17:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "ひき逃げの疑いで会社員逮捕 男性重体 群馬・太田市の県道（群馬テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tbFI0eTRtMkRKU3hFRlJaazVtQ1llRDFPZGpSWmo1dXA3LThRV0R1OXFGTWRGMS1FcTdQQW9vR3BramtqNWluTkItNF9uZ3NPSkNrV1hGZU9xOWVGTzhrZ0NtWHRpRDU0UGE4VnZMQlVSTmNxVnotRFEzWEpKNms?oc=5",
+      "date": "Sun, 19 Jul 2026 09:32:24 GMT"
+    },
+    {
+      "title": "【速報】バイクの男性が転倒、ライトバンと衝突し死亡 群馬・高崎市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WaWw3b2l3QmF2ZDEyU05EM0ZCVnoxX192dmFUempvT1d2c2o0OG9fWnJpY25rbkw0LVBiRE0zRGwxUWhzRlhYV0hSZDZJNTZHUnB3U19BS2U?oc=5",
+      "date": "Sat, 18 Jul 2026 10:47:00 GMT"
+    },
+    {
+      "title": "ひき逃げの疑いで会社員逮捕 男性重体 群馬・太田市の県道(26/07/19)（群馬テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vaXdPSmYyNGthamZwOFBuQ1NWVjJXalRYWi1jVUhjNnFmVGxzeU1VajV5bkIxNEp3bjhhMk9xT3BoMmZpZWxVTzVQSEkzdnktbDFNYkhTc2ZyYkhwek1ZQjJPQXhXLXdwTmpRaVlDenVTb1Bf?oc=5",
+      "date": "Sun, 19 Jul 2026 09:59:00 GMT"
+    },
+    {
+      "title": "過失傷害とひき逃げの疑い 49歳男を逮捕 群馬県警太田署 74歳男性重体",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80Wl9VT3NudTJORDhuMXNkZDhqNy1DbFUxRHF0Q1JhaHc5OS1UTTdNMm94Y0h1SWZrYUI2d2wzZzJwUXEwOTQwbGs2YTRtalRZcTZJWlFhdzk?oc=5",
+      "date": "Sun, 19 Jul 2026 08:30:00 GMT"
+    },
+    {
+      "title": "富山・黒部市の海で小4男児が死亡 群馬県内から海水浴に",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mOTJPN0tTTVZYTzZRdkNNcTRVM1h2aEpqNkhpZVAycnZZOVRDcEZTdVpCUk8wSXhyb25hOUt6a3Rza1BUbUp4NHZLY1VnVDNneUNaclJ1WTBoYTFwTHZURzIweFBPbFJBazNJckpFTlhrdw?oc=5",
+      "date": "Sun, 19 Jul 2026 22:30:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",

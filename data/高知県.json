@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:08:14.124068",
+  "generated_at": "2026-07-20T15:06:10.968688",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 31.7,
+    "temp_max": 31.8,
+    "temp_min": 25.1,
+    "precip_prob_max": 60,
+    "precip_sum": 0,
+    "wind_speed": 6.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.2,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 31.7,
+        "weather": "晴れ",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5odlBzdVFOVnNRUV9xR1lMMEpuYmRGU09hWDRRUjZnRTJDR0JST1VlUUZ6ZnVYSmY2U3JJMzhMZDV3cks1bzAxTWRvTjI1MHBOamw1QVRzV01tTmRCaW56NmFZeENUSHU3TEh1d0N2VnZYOXJGSk1GbWVFXzVTSm8?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:34 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByX1RTdVZheWh4VGo2V0thS2w5OFNaWFNSY0lrcmdGTjN2R2RZY2tka3hEQS1aNi1mYTJUQmhrLXJMTTMycDRVOUwyVWVTSVRuR3B3UGJOOUdFMFU?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ0gF3QVVfeXFMT0JoZTZpb3pvQTRKeHBKUlk3NlgxZHZ4Um5mUGhXYWNlUG82Z05aZ1otcTh5bU9JSHhBNGpOLUVCMlVYWlB6aEZMa3BIb1M5ck5TcmlKeTM1NDJWSTVxX2dHSVpHVnZlRGFSV3lnYmZKZUk2WUFDcFk?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWhXeWJxV3JITGVac3p4T2NoU3BSNmx5MFZNMk5RX0haM00yMm13bF83bkxVcUFjVnR3Sjh1dk44LV85WU1KeXJNRDFadTUxWFc5ejNDdTYwZFVBSWw5Wkd3M3FKLWpaRGwtemlQQW8tM05oU3oyNnFTaWlfZ25FMWxHcnZ6ck1NY2pDQmtR?oc=5",
+      "date": "Mon, 20 Jul 2026 01:06:09 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd1NFTEdFNmFWRnZUTEN3VENRbllqTFZNWTRwdVVqZUo5R01fYzh4ZVFoNVlWUTUzTXFkUmZ5ZnZlS2hIeFRSbF9tN1JjTFhVWFJIcnFLXzhvanBMZ0g2M2pZWlpub200aWhMUkJHMVdtR1lpOXVyU1N3bkw0OFY5NkoweHdRODEtZEtsdXBuVGxPQ18tMk83Rm1VRnhLYWZKZ0VZbWExa0JFa0J1X05YTlFEVWkwN21kTjIzaFFTYVNkVXpRazhB0gF3QVVfeXFMTl8wNFVtQURPXzVUV2J2cGJ5R2ZxXzFjOUU5SnA2YzhxVjlUeFhpODVGaThhMGgwV05hdTk4MkxYZGdCTVZwRDdheU01ZFQwRnk3S0NkV0YyeExDSmxyYkV3bC1XckZYQmI4SHRMTDJqSU1SX01TMjQ?oc=5",
+      "date": "Sat, 18 Jul 2026 20:05:36 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "原付バイクが道路脇の電柱に衝突 運転手の男性意識不明の重体【高知】（RKC高知放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80QUxOVlZlaUtwSWdNMk50NEVDaENFZDFoLVF5dlgwZWk4R1JVQUtpTFJrbW9tbGNVMUVUWDk0eHF1LVlRZjB3XzlvUTRRbzdFempJVnVBOXMwYkRlbU1GN1FLU3ZfbEJ4bFQ2SHpocVpGOHI2Y1puQU1nSmI3V00?oc=5",
+      "date": "Sun, 19 Jul 2026 08:14:00 GMT"
+    },
+    {
+      "title": "運転中に靴履き替えようとして正面衝突 1歳男児死亡、禁錮4年判決 [高知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsNWtRTnlrd2dSMlNKekV1cFl6ZEs2VlEzZzZ3aVNCUExsbFF2TVJVcG95SUVFUmR1cDJrMUUydkZXZjhNYUxmS2Q1MTdBaFNON2hVazlXQS1TSHpGWHRWd2cyY2Zlc0k?oc=5",
+      "date": "Wed, 15 Jul 2026 08:15:00 GMT"
+    },
+    {
+      "title": "「こんな馬鹿げた運転中に靴履き替えようとする奴が出てくるなんて想定が法律もできない」高知東部自動車道死亡事故被告に実刑判決…男児亡くした遺族が心境語る 過失運転致死傷罪の量刑厳重化を目指す会も立ち上げへ | 高知のニュース・天気｜KUTV NEWS | KUTVテレ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jQnZOb1kwNGZxREZVS2hzNnpzQlh3QzAzN0hSemtYV0hDUk9hLVA3eXpFUnVGeWRLZjFucVpCaEhJTmZJME45R2ZMZkxtYlBHX3BOc2lfemw2YUtvM0tkWFBUYnFsX2lW?oc=5",
+      "date": "Wed, 15 Jul 2026 10:20:00 GMT"
+    },
+    {
+      "title": "3年前の事故を死亡事故に認定【高知】（2026年7月16日掲載）｜RKC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVdvQkZHdGh3OUxGQ2RabFlWVkt6cFBMYWtkdXl5TWR1NmdxUVU3Vmlhbmk5bjBjU0Znc1dSbWVxdFNEOWM3R09IUFV3SnJVYjVpQVdwOEhzQTJuZ1ZybXY4THd3SnNxVHlrYnNlLUxRQWhOeTZSS0xtM3p6WndOY2pRdkdRRlk?oc=5",
+      "date": "Thu, 16 Jul 2026 09:25:00 GMT"
+    },
+    {
+      "title": "交差点で交通事故を起こした後行方くらます 20代の男逮捕【高知】（RKC高知放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92S0t2emlQTEstREgtNWJpM0djWmRVM01tZ2dsWTU1Q09NTzl1eDlUTHlKOHk0N0dZMWdHZWtuUEk5Y1JaeXRUSXBCaUM3WFFkLTV6LWwzakJaVUZmQllTUDhveGpjOHJTTW42aG5OMjZEeDVENlIxeDZEcnRDMTA?oc=5",
+      "date": "Wed, 15 Jul 2026 10:30:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "高知県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T13:02:12.293839",
+  "generated_at": "2026-07-20T15:03:59.421758",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 31.0,
+    "temp_max": 31.4,
+    "temp_min": 25.6,
+    "precip_prob_max": 85,
+    "precip_sum": 0,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 31.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 27.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YaXdDbzR4MF9KUFlfeWl1TzNyN1RncGQ0M1pwa093Nk4tLTVwYmNMb0dDTndNaERfaDY5U2xCTFJ6c1oycThUSGo2R2NFNS02MDROZ3dQS1lxUXpzYjBvQWhKTktjTDZhb0JMOEpoZUpEQdIBd0FVX3lxTE5fMDRVbUFET181VFdidnBieUdmcV8xYzlFOUpwNmM4cVY5VHhYaTg1Rmk4YTBoMFdOYXU5ODJMWGRnQk1WcEQ3YXlNNWRUMEZ5N0tDZFdGMnhMQ0pscmJFd2wtV3JGWEJiOEh0TEwyaklNUl9NUzI0?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故続発防ぎ感謝状 石川署 玉川の鈴木さんら３人に",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTy1iZXNBaWROTTJvNlRiSGpadzJCU1hwRkhZMUNuaHBCODFkZmNIX2twQ2hXZXhISnJWczhQWVpUb3dyazhGaUwzenFjVGM?oc=5",
+      "date": "Mon, 20 Jul 2026 02:00:00 GMT"
+    },
+    {
+      "title": "交通事故続発防ぎ感謝状 石川署 玉川の鈴木さんら３人に",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WaW55VW9UbEFKMDZhTmFNYnpBZkVqdzBqc0FzRDByQVdfMUxNcEpwQVNpdXFnUHR0RUkwbVI5LW1GVEk1QlRBakJDSQ?oc=5",
+      "date": "Mon, 20 Jul 2026 02:00:00 GMT"
+    },
+    {
+      "title": "10トントラックと出会い頭に衝突 ライトバン同乗の76歳男性が死亡 石川・能登町（2026年7月3日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNTUNYYUFVOS1URkJtN3UzYWhqbjEwRWNOSm1VdkxHMU5CaFdxQ1FVRV84VG5OdjhZVVBwckY3R3JRMnhqNXd2QjZsRUF0N2RDSjFhMnRsd3R5SDUybHVrQm53bExOOHNZQzVCNnYzX01Rek1QeG9TRUNVQmx2V0k?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【動画】能登高で交通事故を再現するスタントマン｜社会｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ha3g4azZyUF83dEU3VlowR2tUZGJBaXNyTEd0RzBOMW9MblZPV1hZRzBQU0I2bmo2Sl9IOXJLdFFrYmhkLWV1bzc1TzhnQ2p0QjdpUEsxQQ?oc=5",
+      "date": "Fri, 17 Jul 2026 08:45:00 GMT"
+    },
+    {
+      "title": "男子児童死亡で遊泳禁止の石川・小松市の十二ヶ滝 バリケード設置 夏休みスタートに合わせ応急対応（MRO北陸放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MQy0xQzl5QjJJOUJCUjk0Nk9rblZOdnI1dUk5MkJGYkNuTThXVWVtQmxZU2Y4RlQ5WmFRc1l6LXNaV1ZOcVhhZng4MURGbHVhaERYeGpKZUNKeExIZDEwRWw1OWN5MDRZdUNzbjNXdXg3dHRFTlF2VWpEZVpJUDQ?oc=5",
+      "date": "Fri, 17 Jul 2026 09:25:24 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "石川県警察 公式サイトを検索",

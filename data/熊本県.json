@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:20:14.447509",
+  "generated_at": "2026-07-20T15:06:39.171141",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 32.7,
+    "temp_max": 32.8,
+    "temp_min": 26.1,
+    "precip_prob_max": 63,
+    "precip_sum": 0.4,
+    "wind_speed": 8.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 26.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "12:00",
+        "temp": 32.1,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 32.7,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 31.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9reXNMeU9HQUs5T05VbGNIV0t4eVJ1VzBBT3phaHFUWVJXYUZCbmEwS0hxUnRXSlo4ejctQ2VEVGtVSmlQX0FlQl8wTks3SkxGZEJlRFpPbnpFTDJoR3ZCME9KY2pjMWhtOVFVSnp6UGZKX0FyQVJ5allOdENZQzg?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:14 GMT"
+    },
+    {
+      "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJaTdyTnpBVHdickFDb0kwajRuVWxDU1dLMGhwTHc5RmJFYnVtT2R3TUVkMmpNSE5SZ0w1TEpDN0Zxc25QTFlnVm5BVE5YeHZhU0pmRkJSYWlmUQ?oc=5",
+      "date": "Sat, 18 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd10gF0QVVfeXFMTVdSSFl5Qk1EaGk2ZDVyd0hmMV8wVE9vMjZ4dVdYUG9TaFlPMlEySzhBVnpxcGI3OHlHZmNoRjdnRGh5QUlfZVRJUFVHaXl4TTFsOHBWa2JNc3ktRnJ5QVlmSjdoRWhDdlZSeG9ZNmhKdDF5V3U?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数 (RKK熊本放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUM0aEotZW5rLWt6UWRKWVJRXzlSQVdUbTlGek55T2duUEp5NDhDZzBrMVh2YnBSbmJYeWE0SVVMZWZmYzFkNThMU2NxWWFId0daNzZzRVpCZkU2SmlMRU5jQ1RfZDJHbTA0cms3MzRjbTVzVTNjZHhjZFZ6MUlfUXNOOU1SZ0R0dHJOQW53?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:14 GMT"
+    },
+    {
+      "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaEc3UXpWZ2lWU3Q2Vk9mSzZCWmhha254clpUaG9VeEdKdzR0TmFYOGZmbGpTOTJzeXRGbmdDTHhMMC1ac2RWc3NuMmlhWVBLcjcwdVNjcw?oc=5",
+      "date": "Fri, 17 Jul 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "[TKUニュース 26.07.17 11:00 ] 軽自動車が道路脇の壁に衝突 運転の男性死亡【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hdWFITWx5U3U1MkV2V1VrMTNEeVdRVTdxdlhDcERyQVJsSVdkZG5tLUVYbFllLXZTeDdjanZBUHE3QkNseDdHckFSTDR4ZE5zY0lvRHgwalZ3T1ZqQ1ZlTGdFZw?oc=5",
+      "date": "Fri, 17 Jul 2026 02:59:14 GMT"
+    },
+    {
+      "title": "道路脇のコンクリート壁に衝突 軽自動車を運転していた男性が死亡 高森町（ＫＫＴ熊本県民テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZjJKUFIzV1JUcnVtbjh3VHFnOW4weWZSNW1faXFQWVZMRFBwSmhwX1V3WUMySnRoa3FNQ2ZuSmpaSHFncnlSbEV4WUFsbFN4MEwzRmhNNTQwN0V1dkNhMUNqMjF1NGw2N2lRNFFOUEc2amhPSEpuZ0YyT0Uzc2c?oc=5",
+      "date": "Fri, 17 Jul 2026 03:38:00 GMT"
+    },
+    {
+      "title": "熊本県小国町で車とバイクが衝突 バイクを運転していた男性が死亡（熊本ニュース KAB ONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zNWJmZEJHT2hYcVJldFpTbC0wc1ZVTUJEbmc3T3d3WDRsREp3QUg5SS1IWTdvRXI4UWtOa01oam9jcGtyTDBRLUc1UkZFTWtwWmdqaWpEdWpLMXRNR1RNQmNfZWtvVmJwYjdvVG55QXA?oc=5",
+      "date": "Sat, 18 Jul 2026 10:03:00 GMT"
+    },
+    {
+      "title": "“相次ぐバス事故” 今月3件目…熊本市の国道で高速バスが軽ワゴン車に追突し2人負傷",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9adVk1ZDNTUG9kbDVLaHYxUkZnQUFiNktmcmVYV3IzeVpMTER6akt2REF0amFiSW90WE01WndjVkJGQkk3R1pEd19fU0xQT3NxbDh4MXJFaUkzemoxamtaZmtReGkyZjA?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】九州道一部通行止め 松橋－御船IC上り線 交通事故のため",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKaFJHSjhxallUTlQ5S1QyYkd5WlhzRXJqTlh6OG1LYzNtT3YyMmNaXzZfbnFhMGlmUlI3SnB6OEhUdEdSbjlfRkN3dFRBcWM?oc=5",
+      "date": "Mon, 06 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

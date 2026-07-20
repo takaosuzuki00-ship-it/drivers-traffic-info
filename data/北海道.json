@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T12:14:11.232826",
+  "generated_at": "2026-07-20T15:02:16.745457",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.8,
+    "temp_max": 24.1,
+    "temp_min": 20.3,
+    "precip_prob_max": 79,
+    "precip_sum": 0.2,
+    "wind_speed": 14.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.3,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 21.0,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 20.8,
+        "weather": "曇り",
+        "precip_prob": 65
+      },
+      {
+        "time": "09:00",
+        "temp": 21.2,
+        "weather": "曇り",
+        "precip_prob": 75
+      },
+      {
+        "time": "12:00",
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 23.8,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月１６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ueXZlRHYyUkNLc3VDNmZCbUtGSGF0MU1EUTl0cDVRVnFMN1lud1Y0SkZoRjJwOEZac1NVYmdPX2FSQVc1dWJYSHV5OFBFWVgyQzFPMnZWd2NZZXRTUGxoajhBZHFoSUJfa3o2ZzVGTHc5d9IBd0FVX3lxTFBJNnU3eWlXbFEzNUtlbVNWc185RmZNNFBhSnQwT200eHB5VEpMblBXbldkdG9qVXJJWW41b3VJU2Y1VFBYNEZsSVZBRmUyNkdlOUJMN2NsZnRDTzFLUjBJeHFGVDFwMVl0aHd5Q2htVHdtZjRRRlpB?oc=5",
+      "date": "Wed, 15 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "7月13日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yLU9OZEk0NnFEVUZIODlfUGVFbmJoM2hhSGM3UWxzNl9zbVZaMTlFUldfbzZYRkVWWF9kdUo0aEgwaE5ZdjUtR0RNOEwxdDNxYnRoX3FERW9uWnRjakIwZFlmZWYzX3ljUy1jN0wxa9IBdEFVX3lxTE5Fa1Z1bmtsMFlSTUh3QVpMZGt0LUpBTl9EX05ScVc3QUlIU0dvd1RVbVVDdFpFaGdJUWg4YVM1b0dTa3VCREU5V0F1YXU0aVJlMHpjYklkMk5sNXkwSEozSmI3dlE4Tmhydk9rY1FBYXlxZWJJ?oc=5",
+      "date": "Sun, 12 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
+      "date": "Tue, 23 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "北海道警察が飲酒検問を実施 酒気帯び運転の疑いで男逮捕 基準値を大幅に超えるアルコール 札幌市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWaTBaVVM3eHZpVU1jME13WlJ6bC1qM3RNZ2w0MzhacUwyWGtiY0l6VG11RnlWSkc5Szc2cFl6blhvQTNCLXpCRkVSQWk1ZlhNVEtvR05mOEtPTDF0VXpJMkVUWXVIMmRva3MzQlFHNzhwRVV3cHViZDU0NENPS28?oc=5",
+      "date": "Sat, 11 Jul 2026 02:54:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "北海道、交通死亡事故多発警報を発表 22日まで 3日間に5人死亡受け",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RWloV3gycGstZ2x2MDRTaWpGLWY4VkFvRHdCczVzOERxb0w4VTJyVVprbUFwN2pqcWktMkxUbHdBTlY3b2Z3U0I5V196aVBJTnhLM0hZNmZ5UQ?oc=5",
+      "date": "Wed, 15 Jul 2026 09:29:26 GMT"
+    },
+    {
+      "title": "「バイクとシカがぶつかった」運転していた男性が死亡 野付半島を走行中 北海道別海町",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIaHNUVkF5di1XekRJZ0kzTm9sb1p2S2ROYUcwNnZ6THY0WVFBNVNZdi1wcEo4YTlUM052YlV5XzZQTWF4eG9qM1l1N3FyZ0VKYW1wYjJfTUdQRV9TTmtZTkpnWl9pb1FDWFJYZ2U2b1diM09fRTR6Nk1Mb3hxOTQ?oc=5",
+      "date": "Thu, 16 Jul 2026 03:07:00 GMT"
+    },
+    {
+      "title": "交差点で出合い頭に衝突か 乗用車とトラックが事故 乗用車の男性運転手が死亡 北海道豊浦町 ｜ ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHcwSW9vTVdUMTY1cEthNmVSMHdsWi1fT3J3RkpqcUlFVTlwV1V4YlRyWHRzeTFMSWU4VlNkZFpwaC1JbXlDR2o4d1N4VC1OQ0pmVGJ2cVVRSmFrajdrMkJsa05PcnZBZU5wUE1BUFpnLThWS0hqcm1RN0ZxMmdUaGZR?oc=5",
+      "date": "Tue, 14 Jul 2026 16:30:00 GMT"
+    },
+    {
+      "title": "宿泊税活用、上川管内に「STOP」標識　外国人の交通事故防ぐ　レンタカー会社は外国語でルール説明",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hNjJrQ09ta3VsUlFkZm1jMDlYTkJZX3MwTjJlbkRIS2l6VU1ibUN3dlpXUVhXM0w1UFZmbHFQMUVDQWhqRmtRZnJFV05RT3VVYmhfeVRuZlpWUTVnaDlEWC1IanZMNTA4bUo1eUFZVVE5aUVOZW9vb3dJZHTSAYIBQVVfeXFMUEE0cTl4SVdXQmdaNnQ1SHo5b256NkdGZjFTWkwwTENOdmh3NXJsZmhZUTZLelZyQzQ1X2I1aElZTFVrV0d4ZDZhVHRjRWhSRFlaUzlibEp4U25vSVlycXgzelRtTmNVcUR5MTNxaFdxRTlSaUZMTE9yd3ZrQVpjeVE0Zw?oc=5",
+      "date": "Fri, 17 Jul 2026 03:00:00 GMT"
+    },
+    {
+      "title": "札幌・東区の工場作業事故 死亡男性の身元判明",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9paG1yckR4RUlPVHFSUVcwQTA5RUstbV96dkVPUFZ3aC1maW1VQ2NURU9salRrTmluSkVBOFBTZG9QeGZxSFphVnBHMHRuRjN1bjVGeUFHTWYwZw?oc=5",
+      "date": "Fri, 17 Jul 2026 04:40:42 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",

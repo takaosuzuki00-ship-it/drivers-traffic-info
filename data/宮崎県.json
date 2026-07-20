@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:26:14.626623",
+  "generated_at": "2026-07-20T15:07:07.188570",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 31.7,
+    "temp_max": 31.8,
+    "temp_min": 27.2,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 8.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月15日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oazN0bFhlM1NhMy00b0F0RkdpZHNEZVhJRjJNUENMeDJMNDB0dGJxRXdJenRja1hINXR4RmhTYTB3U2JwSkNEdElmbEI5SmZvRmR4U3U1TQ?oc=5",
+      "date": "Tue, 14 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNl9WZU5VRnQ5anBhTmZWX084VnZQTWFhTnB3MDNrbXd1d1dEUlFMSUZCSU5CTjcxVEh1alJHTjVfM0x1dy1HLTF1YU9LMjhhN05ZYzhvVm9GVDdkd29ucEgxemc4eW1Ub09BNHpBd9IBdEFVX3lxTFBDdzBxeFpkN0FuN0xvYVJOWXB0QnFxaWY1YUgwalRtS0pOZ25oMWF4ek9tdl9Nam5fSHRhNmtuWEpyc0RKTUNnWFI2RDl4YjdjcDJ2Q2MtOF9GZzRHM1YxWjdXRXFqUUg3bW5MWDRGU2hWWWs4?oc=5",
+      "date": "Sun, 19 Jul 2026 20:06:34 GMT"
+    },
+    {
+      "title": "鹿児島県下一斉飲酒運転取締りで16件摘発　酒気帯び運転2件、速度違反5件など　県警「取り締り強化していく」",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxSjZiaVl2eEtzcUlrcUFGYkJiQmRpOEx3ZUZ6YnFEanZ1ajFiOGNIYjNWQ2ZiNWhLVU83Q1pPS2pFTTNMUWJWWnkyOFJvWGN0WFZSUFZmUW1ENDR0WDA5b01mQk9WY2FWOGJWNEpldFVCOVY30gF0QVVfeXFMUHFKNmJpWXZ4S3NxSWtxQUZiQmJCZGk4THdlRnpicURqdnVqMWI4Y0hiM1ZDZmI1aEtVTzdDWk9LakVNM0xRYlZaeTI4Um9YY3RYVlJQVmZRbUQ0NHRYMDlvTWZCT1ZjYVY4YlY0SmV0VUI5Vjc?oc=5",
+      "date": "Sun, 19 Jul 2026 03:17:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "延岡市で交通事故 女性が大型トラックにはねられ死亡 ｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82UVdpaDhacXFoaVh6RUNOYldDdnk3cE5FanJ1WGh2UURmT04xR09STnlTelNZNE9lTUZocWVqbGdIYW5rZ3JJeW05bXgyUG92UFRwMGJqbkljN29XWkRJ?oc=5",
+      "date": "Wed, 08 Jul 2026 02:55:00 GMT"
+    },
+    {
+      "title": "所属スタッフの交通事故について",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd1QwdnpMeUgtbFdZN0Y2TTBmSl9oVEh3RmpTd3RVc2lmZHo3UHRpWjJTWTVONnN1MXVlbXRJZnFFVnJtVkE?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宮崎県内での交通事故の約3割を占める 高齢ドライバーを対象に宮崎市で交通安全講習会",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95VTROREU3bHlRck5mbHgxd0REMEw2WjlrSWFGc0cxRDQ5OHhVb0N3LXNaems4ejdPcTVFcS12RXE3REpkY0hoejFhV011TmRhSWZzcFd5QQ?oc=5",
+      "date": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「車を降りたら保護者と手をつないで」駐車場での飛び出し事故を防ぐ　川南町の保育園で交通安全教室",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XZHNtYVJ3VDltQjZERkFsdmtxZkJLZG1QU0RjQmNzWFVwZHZpQThTQzhMWXpvampGZ2ZDVjVVYmc2ZHRtcmZFX0xvSUJyb0lmSW40VDFhY0JFblprYnNrd095eWZiX0J6cjFrQtIBckFVX3lxTE5TRFp5TU5aejBWaGJrRTZwbXBla2N0SnozZURpRkwyOWdBQ19MTE85Yjd3SWVBUlF6Y1RCdDhqQ3NkZDltaTAySm5qbG9YYnZGcWdmQ0tKU2gwazBVeHZSeVF2YlV0eWpZdVBuN3hWM1Z3Zw?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「対向車を避けようとして…」宮崎市でトラクターが転落し83歳男性が死亡｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FMllpX2V4TUpVdmdtMW9KZlRLUy1nQllNVG5WS1otNDNmdkFLaVpXUzQtY3BfTEllaHdBVUtfaTdnYU5maWFEa2s5UmZlVE9aRWZrdmZUOHZwQmNmSWsw?oc=5",
+      "date": "Mon, 13 Jul 2026 09:15:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮崎県警察 公式サイトを検索",

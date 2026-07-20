@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:14:14.277924",
+  "generated_at": "2026-07-20T15:06:21.645803",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 33.5,
+    "temp_max": 33.8,
+    "temp_min": 26.5,
+    "precip_prob_max": 87,
+    "precip_sum": 0.2,
+    "wind_speed": 7.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "03:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "12:00",
+        "temp": 31.6,
+        "weather": "晴れ",
+        "precip_prob": 86
+      },
+      {
+        "time": "15:00",
+        "temp": 33.5,
+        "weather": "快晴",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 33.0,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "21:00",
+        "temp": 29.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 10
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:10:32 GMT"
+    },
+    {
+      "title": "7月20日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNl9WZU5VRnQ5anBhTmZWX084VnZQTWFhTnB3MDNrbXd1d1dEUlFMSUZCSU5CTjcxVEh1alJHTjVfM0x1dy1HLTF1YU9LMjhhN05ZYzhvVm9GVDdkd29ucEgxemc4eW1Ub09BNHpBd9IBdEFVX3lxTFBDdzBxeFpkN0FuN0xvYVJOWXB0QnFxaWY1YUgwalRtS0pOZ25oMWF4ek9tdl9Nam5fSHRhNmtuWEpyc0RKTUNnWFI2RDl4YjdjcDJ2Q2MtOF9GZzRHM1YxWjdXRXFqUUg3bW5MWDRGU2hWWWs4?oc=5",
+      "date": "Sun, 19 Jul 2026 20:06:34 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83VndZdkcwcndPU2xtZEphRUtnTDNpVThlYm9MZHVaTGhNX1FsNWtsRnlrMTI0TVhKT2VJSkdpQVpmQUJSQUVJSm5Ccw?oc=5",
+      "date": "Mon, 23 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd1NFTEdFNmFWRnZUTEN3VENRbllqTFZNWTRwdVVqZUo5R01fYzh4ZVFoNVlWUTUzTXFkUmZ5ZnZlS2hIeFRSbF9tN1JjTFhVWFJIcnFLXzhvanBMZ0g2M2pZWlpub200aWhMUkJHMVdtR1lpOXVyU1N3bkw0OFY5NkoweHdRODEtZEtsdXBuVGxPQ18tMk83Rm1VRnhLYWZKZ0VZbWExa0JFa0J1X05YTlFEVWkwN21kTjIzaFFTYVNkVXpRazhB0gF3QVVfeXFMTl8wNFVtQURPXzVUV2J2cGJ5R2ZxXzFjOUU5SnA2YzhxVjlUeFhpODVGaThhMGgwV05hdTk4MkxYZGdCTVZwRDdheU01ZFQwRnk3S0NkV0YyeExDSmxyYkV3bC1XckZYQmI4SHRMTDJqSU1SX01TMjQ?oc=5",
+      "date": "Sat, 18 Jul 2026 20:05:36 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【動画】追突事故や飲酒運転の根絶へ 佐賀中央郵便局、佐賀南署が交通安全パレード 地域見守る「ながら防犯」も",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HSUxCT0EtMnEwcFFrLXMzNkl3MGlLN2dhNjZnYjJCUS1nenJYc2djXzkxZlVERllMSDNnQWU1TDVwYkRwNzl1ZFZpOWc4MUdzbWZveXFR?oc=5",
+      "date": "Sat, 11 Jul 2026 00:41:04 GMT"
+    },
+    {
+      "title": "佐賀大生に命の大切さ訴え 県の出前講座で交通事故遺族 ／佐賀",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvNlVuWDFpZVdGUkFhLVNfaExCYTZnNjJUaW5jNUJhOHUxcnlxV0Z4dkxQSUMxcldoX1ZDem9LZExycFRnVllwSThkSTZ3QjJGRmNyQ3RabmpsUVZFN01uWGlpTmFMSmwzdTNXLVJFdw?oc=5",
+      "date": "Tue, 14 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「痛いよ」と泣く声だけが…下校中の小2男児が自宅近くではねられ大けが 母親が事故防止訴え【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42Z2dPMk8wbFpSRXl3ci1STl82d1ZaU2syRmpINkk3Q05fX0w4Mzd6TlZtNXR3cFpqX1RXeEJzX1BQb29MdTVuRjlMdkJod3RGU0ZQcUZ4eXhvb01icTU1YllB?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀・太良町で軽トラックが海に転落、男性が死亡（西日本新聞me）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wVmdqMllvTmZhbkZtX2pWQk9QVzYyS25GMUttcTRueXJuR0IxWkh5ZTFGTGNFVFJLREc0R05UaTJpMUE3V2FqTUlrbHg4UGVLSmxrcTBUQTUwMTVvdHRyVS1hdmVyT2pGcVlzSjBEcUo5cHVfMWM5ZzR0X3BqRFU?oc=5",
+      "date": "Sun, 19 Jul 2026 00:01:51 GMT"
+    },
+    {
+      "title": "佐賀・鳥栖市のJR肥前旭駅構内、快速列車に女性がはねられ死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uZnVfR0M0U3JtWkxCYktyUTlUcGUtVEF0WmtjTC0tVTBxUFR4VGFPNnE4R1RmVlBFc0JVemU3NXRUU0Iwb0kyQndHUnE1XzFZdjJWWFN3?oc=5",
+      "date": "Mon, 06 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",

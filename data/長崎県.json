@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:17:14.355683",
+  "generated_at": "2026-07-20T15:06:30.498111",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.6,
+    "temp_max": 30.6,
+    "temp_min": 26.4,
+    "precip_prob_max": 71,
+    "precip_sum": 0.9,
+    "wind_speed": 7.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "03:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "06:00",
+        "temp": 26.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 28.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 30.6,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月18日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QWnMtM1k4YVl3dVJHV213QS02Yi1sXzkzRklHWmNHMXRlZDRseHZXVy16aGlnclRnaVhnRy1PSnQ4NXBZZjlCVGliVk1kZTV1NHlkVWVvSmoybkFqS0pZdWJCV28wWWF5S1J6V01UWdIBdEFVX3lxTFB2UEVZNHJrSXNqNTBiT2tIZlo2elMwSDBNdEZMdjdwdmhKV1JTN19ma3ZYMzJ1UG95Tm0tbVNyclRlcjBzUEYwalA0QXNSM0JCX3NDbDBpcl94MkhGNC1scmtuYS1RNllhdklLd3NzMkFvY0Ro?oc=5",
+      "date": "Fri, 17 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qa1FULW9DVkl4WXBqa3p5THN6a2t1RHdLbWNuNUt1QUdVUVBpbkJ2cXlINXM3LUE3SUgyQ05oQUZhYlBfdWxiV2hETQ?oc=5",
+      "date": "Sun, 12 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "衆議院議員選挙違反取締本部を設置 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWQ2c1bm1UcXdVWXRNdVk2Z2pwNnhybVZWME9sUzk1d09ReFVqT0VMZ1Q0dXcydW5DcG0wcEwzZjRKMll3ekJXYlNxVU9LT2NRVmM2NS1NVXgxU0Y2RnhTaFEwYk1zb3c?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "親猫が交通事故死…絶滅危惧種「ツシマヤマネコ」の仔猫2匹 野生にかえすか?保護センターの葛藤（NBC長崎放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0S3NjVV9hM3lFemZiYm1GaGZiSDEyWjZMandwNGtmSHhzaC1vMmRkSnItN3B4V3BOZzJEbkdfZHdId1ZTc0hRblFUczh3VjU0Tm5tSDdrUlhnY1NldVR2NW1tU3diUVhCVW9halI5MTU1aVBWTms5VzY5WVE0U3c?oc=5",
+      "date": "Mon, 20 Jul 2026 02:13:14 GMT"
+    },
+    {
+      "title": "親猫が交通事故死…絶滅危惧種「ツシマヤマネコ」の仔猫2匹　野生にかえすか？保護センターの葛藤",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zMUplUEt1QTZDODQ3c1FQQ2xVa3BWWHJKaDk2UTFVZ0thUFBtSW9UcDRyRG1XYnJjdEVQenBvV3l1UF9UMTRCNHdEbENNM2lhYUVGajFBRFVTeGRxZi1kMHRNV2NiMWcxN05RdGpDWdIBdEFVX3lxTE1mYV9qUy1Hd3l5anc2MFBPVHdWZnloT3A4Zm4ySXhYWUhyX25EdTZPQTVFaUp3X0RWQkVwc21mU3d0VG1vemR4cUxjc1RfaktqTEJNVFhZeUphTnJLX2t6TmMwLXRScmJHOW5LcXBzWUxNQXZx?oc=5",
+      "date": "Mon, 20 Jul 2026 01:48:00 GMT"
+    },
+    {
+      "title": "【更新】軽乗用車とトラックの事故で３人病院へ搬送 交通規制は午後5時50分に解除（17日午後6時20分現在）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mTF9vUkFyR2loN25DUzJYeWVHR0Z6MmZWTF8zS2ZIeDhfSkNGU2ZVazVaVVB6dloyVG9tdzg1b2VCbnE3MXRma1Vqd2s2UGlWNXNrV3MyMVpfUQ?oc=5",
+      "date": "Fri, 17 Jul 2026 06:18:00 GMT"
+    },
+    {
+      "title": "交通事故二次被害を防止 長崎県警諫早署、整備士2人に感謝状",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9raHBvUTNPSTR5eTBNRzZVQVNIbnNaS1FrZWxGV1VIc2JCdXVNRHNGMEMyU2U4YmtiT2dCMGxIVjJoXzM2Wm9BamlIR1VlSTA1cGNwUFp3?oc=5",
+      "date": "Sat, 27 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ツシマヤマネコの子猫2匹保護 交通事故死？雌の近くで 長崎",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kRW5LRWNPeGN5dmtVcjZnZTM1akpxWkxlU25JVmdmdU9jWFNVUDRnQVFTQkxpQ3NpYU4tdXcxU0EyaEdiQlhCUDJKTGZBZHM2bVNGNW0yRjY3cTZPeXJqNXRrXzdXS0tJ?oc=5",
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長崎県警察 公式サイトを検索",

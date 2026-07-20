@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T13:50:13.569480",
+  "generated_at": "2026-07-20T15:05:29.381821",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 33.7,
+    "temp_max": 33.8,
+    "temp_min": 25.7,
+    "precip_prob_max": 86,
+    "precip_sum": 0,
+    "wind_speed": 8.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 32.7,
+        "weather": "快晴",
+        "precip_prob": 71
+      },
+      {
+        "time": "15:00",
+        "temp": 33.7,
+        "weather": "快晴",
+        "precip_prob": 76
+      },
+      {
+        "time": "18:00",
+        "temp": 31.8,
+        "weather": "快晴",
+        "precip_prob": 82
+      },
+      {
+        "time": "21:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNl9WZU5VRnQ5anBhTmZWX084VnZQTWFhTnB3MDNrbXd1d1dEUlFMSUZCSU5CTjcxVEh1alJHTjVfM0x1dy1HLTF1YU9LMjhhN05ZYzhvVm9GVDdkd29ucEgxemc4eW1Ub09BNHpBd9IBdEFVX3lxTFBDdzBxeFpkN0FuN0xvYVJOWXB0QnFxaWY1YUgwalRtS0pOZ25oMWF4ek9tdl9Nam5fSHRhNmtuWEpyc0RKTUNnWFI2RDl4YjdjcDJ2Q2MtOF9GZzRHM1YxWjdXRXFqUUg3bW5MWDRGU2hWWWs4?oc=5",
+      "date": "Sun, 19 Jul 2026 20:06:34 GMT"
+    },
+    {
+      "title": "オービスを探せ、第2弾！ 岡山ブルーラインの自動速度取締機、Hシステムが、警告板を残して雲隠れ！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42Y0JrWXhBZV90djhWRGEzN2ZBUXZ3NnNveHFCTlotYjRHTndGLW84ZEpKSUNoUm95UkVMTzcxcUQ3WTgyUl9TNmotZTdBQQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:26:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YaXdDbzR4MF9KUFlfeWl1TzNyN1RncGQ0M1pwa093Nk4tLTVwYmNMb0dDTndNaERfaDY5U2xCTFJ6c1oycThUSGo2R2NFNS02MDROZ3dQS1lxUXpzYjBvQWhKTktjTDZhb0JMOEpoZUpEQdIBd0FVX3lxTE5fMDRVbUFET181VFdidnBieUdmcV8xYzlFOUpwNmM4cVY5VHhYaTg1Rmk4YTBoMFdOYXU5ODJMWGRnQk1WcEQ3YXlNNWRUMEZ5N0tDZFdGMnhMQ0pscmJFd2wtV3JGWEJiOEh0TEwyaklNUl9NUzI0?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "備前市の岡山ブルーラインで乗用車２台が衝突 兵庫県の３０代男性２人が死亡【岡山】（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UNTkwTjRya3N1RUlEanl5Tk16U3BuLUNOaWg5TXk4NDZ0QlZFcGx6X19wVXV2T3AyYVJOZ0REaWEyZm0wdGNLRndveDdRRkt1bmJCSTNpUkN3LWdqOE96cTZxTS1rNExsN0NsY1o3Mjg0dU1ZWFJ3eEM2SGQ1THM?oc=5",
+      "date": "Sun, 19 Jul 2026 23:48:02 GMT"
+    },
+    {
+      "title": "【詳報】スポーツカーとSUVが衝突 団体職員の弟（32）と職業不詳の兄（36）が死亡 約3時間半にわたって岡山ブルーライン「備前ICから道の駅黒井山グリーンパークまで」上下線通行止め | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJbUh5ZlltekhmMk85NHNhMjA1ODRxakQ0bjhETjBISDFwZkViVnhrSlVoUmZWS29LNGkwWl9SZEZiMVM5dHBCTXNENWZVeWNVTjNZV2pzZlBXdHIxOWc3V28wX2Q2Z1k?oc=5",
+      "date": "Sun, 19 Jul 2026 03:57:00 GMT"
+    },
+    {
+      "title": "2026年上期に発生した交通事故件数は約2万5000件 死者25人で前年より7人増 岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSVzZKcGR4aXFZcHJKOF9PSzBjTktYdkxKN0p0Z2FYTlBvaFFNNDVuOU5UWkVyWWtzVHNndmNEeUZMLXZfY0hhWmdYNFJzcWFi?oc=5",
+      "date": "Thu, 16 Jul 2026 01:04:00 GMT"
+    },
+    {
+      "title": "岡山ブルーラインでスポーツカーとSUVが衝突 ２人死亡 ２人軽傷 備前市（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdmhaTzMzX005RndWSi1tbG9iOGtiY0tQbVhpWnA1MElQRmctSlFPN29mYnhtbW1FY19zLV9TVk4tRlBnLWg1OWpjSVBVYmpweDB4Z01DNG1Lck90U3VQVXNjQXRwVjlOcF9IZTZWV1Z5N2hlUzVOZXZkM2lQUU0?oc=5",
+      "date": "Sun, 19 Jul 2026 06:09:28 GMT"
+    },
+    {
+      "title": "事故防ぐ夜光反射材の着用を 相次ぐ事故受け岡山西署 スーパーで啓発",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ERlVDQ3lwSkZYTWQzUmFfOXVLMVNhR1p5OVVoS2JZVTVZMXZJbUhKMklxYVhXY1c1R3ZtOE1Tdm1tZ29OX2RRZVQ4WE1pMlppV1E?oc=5",
+      "date": "Fri, 17 Jul 2026 21:18:50 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

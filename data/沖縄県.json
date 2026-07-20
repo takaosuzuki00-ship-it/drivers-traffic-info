@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:32:14.800208",
+  "generated_at": "2026-07-20T15:07:26.174996",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 30.3,
+    "temp_max": 30.6,
+    "temp_min": 27.4,
+    "precip_prob_max": 31,
+    "precip_sum": 0,
+    "wind_speed": 12.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.5,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 30.3,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNl9WZU5VRnQ5anBhTmZWX084VnZQTWFhTnB3MDNrbXd1d1dEUlFMSUZCSU5CTjcxVEh1alJHTjVfM0x1dy1HLTF1YU9LMjhhN05ZYzhvVm9GVDdkd29ucEgxemc4eW1Ub09BNHpBd9IBdEFVX3lxTFBDdzBxeFpkN0FuN0xvYVJOWXB0QnFxaWY1YUgwalRtS0pOZ25oMWF4ek9tdl9Nam5fSHRhNmtuWEpyc0RKTUNnWFI2RDl4YjdjcDJ2Q2MtOF9GZzRHM1YxWjdXRXFqUUg3bW5MWDRGU2hWWWs4?oc=5",
+      "date": "Sun, 19 Jul 2026 20:06:34 GMT"
+    },
+    {
+      "title": "糸満の一軒家で大麻草143本を栽培 麻薬取締法違反容疑、男3人逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdWEweG56RkhwZkNVbXhiVU9qZGhNMENDRkFzUEVDVGw5RWNzbWpJZE5kSWlEdndCdXR1WUxlQnQ5RkRYTnpqYUt5MXZwcjhTUjdxenBOOGw0YmZ4aWJHMA?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "糸満の一軒家で大麻草143本を栽培 麻薬取締法違反容疑、男3人逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wNy11OUc3OHFHRnNMbWJHZ1g3emRLd2FMTlloYjBIM19kQnVDeXRaWVFINk1TZ19nV3Y4OGd3NV8wdzJfYlFSYXBLMA?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "今帰仁村で交通事故 1人が意識不明の重体（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTjhCa2Jsdy1hcW5heTRRb0s5VzBMb1JyV0JveUFMSkozODJNZUFiYnBWUWZ5SlZGYTRHVjNFMUtvQU4wTml4Wi1BLWs1QnJuVlNMYWU2Q2EwOVFZQ3NPb0pHaWQ1ZEk1c1kzbDFFRmoxNktGRjYtYWtPbTJGOGs?oc=5",
+      "date": "Sat, 18 Jul 2026 09:06:01 GMT"
+    },
+    {
+      "title": "10代の2人乗りバイク事故続発 2人重傷 軽と衝突、1人は一時意識不明 沖縄市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUGNHcUxBd21UaFNIV3c0TnM5Yll1U3pMZDB6UVJtajZjbjgzMjJ2M2ZyV243MW5SeWpoR2YydkJ4cXVIV3pjMlBPNVlhUmNNam5oNXlaczRDMFNXSlNybXBiOHh1eFk?oc=5",
+      "date": "Fri, 17 Jul 2026 01:18:00 GMT"
+    },
+    {
+      "title": "バイクの50歳男性死亡 沖縄・西原町の国道329号",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ldk1yUWViUklFeU9UM3doMGdTRVdsNUxpZGFrNGdodXFBc2J6R0REUjdMVzBYUy1VZWlqbXJOZDQ5WndYV3J2Ynl2dmdib0EzVnhQWHBnTDk4a2hvbXc?oc=5",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "10代の2人乗りバイク事故続発 2人重傷 軽と衝突、1人は一時意識不明 沖縄市（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST1BnWmtOaDJLdm9FZ1ZfcE5vZ2YwMGU5QWFndWE4c1V5T3ZDUnJkNjQ2Nlhqd0pXMFdDQkVDZ1JqUE84ci00QXRZQVItQng3bjF5bXhzcGRNR1dtOV96c1RjSTk5aERxVVo1RURSdVh5TzNaQi1VVFlVRlJHNG8?oc=5",
+      "date": "Fri, 17 Jul 2026 03:05:24 GMT"
+    },
+    {
+      "title": "車とオートバイの衝突事故 高校生が重傷 沖縄市の国道",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5UGwwRnc3YndaNGV1M3RoYzhhV1hTSVB6eGR5aS1jNThkN0UyMWlVM0lGN1cyYmh0N2c1RjdsdEdiMFJqM0cwQzNveG5Bdw?oc=5",
+      "date": "Fri, 17 Jul 2026 02:40:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "沖縄県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T13:17:12.755308",
+  "generated_at": "2026-07-20T15:04:33.988623",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 33.1,
+    "temp_max": 33.1,
+    "temp_min": 25.2,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 33.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "7月19日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85NjlEOWhCWlJHWVJsemVLWnZNcDRJR25RV3RvdzRWVVBNaG53cHVTSXozV05QdHZKZWVqMUdsM1JmdHBrZlVpbC14bHZCY3B2OFFianktWkU0YzBiNGtXTWVLNUlreXkzZFJodkNOQdIBdEFVX3lxTE1UWlJiR25VUXUxVEd6Q1ZOYS1HWFI1RWtyNjhqQVNsWWxCb2Nqalo0LTBlelZoenVaZ09GQnBydGhkbkV0WVVoQ0NaVUNlNDNDaFJOMy1OTW1iVkt2N3BEaU9KNF9iamZ2cG9iamlqcEhmblJ3?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月14日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54bFJLY2hMbzJYTmlHMXNmYlNsYlpIWVpnMzhqZWlVVXRFNVV2dkw1R3BIam94ejM4a0xNNWZlWEFocjRYYTBZVmlEcXZoTjN1N2tyOUlVRQ?oc=5",
+      "date": "Mon, 13 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月17日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sRm1iVjFNZXpGTjk4WGFwMWU1cEpmQk5kZFJzc2ZZTTNPWWZKeE4zZFFJOV9jOU85N0o1YVBlRmJXU0pObVR5LTNNSEp0cU9UMVNmQjdDZ0Z1eVJjQkZjQmptempMaDUyb0lmWDl3QdIBdEFVX3lxTE9wMjNseXJzR0Q4TGJCekNEdG5jNHp3d2NRN1p5S3g3MXBYZjI3S0Mxdno5OEdtSEE4clFlYWtlTHNrUDFFa0ZLSGVUVWRHc0otbUpmWEVJUnF5ejd3a1VxRjZGTFRLM3d0d2FFVW5LREFlOVhq?oc=5",
+      "date": "Thu, 16 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "新東名高速、一部区間の最高速度120km/hにアップ！ さて、自動速度取締装置、オービスは何km/hから光る？【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aMjBqYkFGSzliUUlzMnRzaWs4V2pwN1hPUDhZdGI5UG8tVExTbmZMdEZBalZhOEN2V09kcEdUTzZ5QVZPWlg0a1FzQjh4UQ?oc=5",
+      "date": "Fri, 10 Jul 2026 06:32:09 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "夏休み中の交通事故に注意 駿河区 買い物客に呼びかけ－静岡",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QR3RNSFVIQnFUajYxcXROZkVBdVlnZ2dfWmFJekhEVGpkQ3RtSnVUSXRMSE9PZFNOcDMtTEMyNlBGUTZtdk5oclNMNTZKZw?oc=5",
+      "date": "Thu, 16 Jul 2026 21:00:00 GMT"
+    },
+    {
+      "title": "県警が静岡市に広報活動の推進を要望 市内の事故の4分の1は自転車（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DVVlxdU9DUFJRMGVpQ3d2OXFIYl9kZ3hfdXpGV3ZGZ0dPR3hBT0FBR0ZQX0Rad2lSNFEtWjdMQ0xfNEVzQkhWOHNqNnVLQkhyMUR1bWM1UGEzR1lUT3Vaa2s3LUNHOXZwb1RwbkpNRTNOUGVxbkpENnhfSmNzVE0?oc=5",
+      "date": "Thu, 16 Jul 2026 13:33:30 GMT"
+    },
+    {
+      "title": "交通死亡事故ゼロ1200日 静岡県菊川市が「交通安全優良市町」に",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RU3kyZVZFekVxZ1REUnNESUNZcC12d0JpaEhGOE5TQy1qXzVVdVlnS1RZbkpOSDJnWFg3NkVYaXBpcVhDY2FETEJfWGhIY2RDMTU0djFUS2czenBTSDlKMzJiYU9qOVk?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "横断歩道のある交差点事故「右折が6割」 死傷歩行者は5年で2852人、静岡県警が注意呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNERTa3MzMXNoTzBiWTREVXgtUWNjMVFsMU04MHlOZl9yS3d6cndOVG43dWxWa2tXUFN5S003WHc4Vm9ocERHRWJCMA?oc=5",
+      "date": "Thu, 16 Jul 2026 01:10:00 GMT"
+    },
+    {
+      "title": "「速度超過は結果が重大に」相次ぐ死亡事故で緊急の速度取り締まり 沼津市では2026年4人が死亡＝静岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPM1Y3ZEhIc1Nvdnhkamd4MHpMcGU3MUJ2S2REYXZRS1ZrdExFVlZJWGpZeHFfYkxoQ0NLdEJNNXJQdzlZTG5RdUlqYzI1bk1iV3NkQVBCZU9jNzJ0enpF?oc=5",
+      "date": "Sun, 19 Jul 2026 09:16:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

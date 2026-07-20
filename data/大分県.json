@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T14:23:14.529047",
+  "generated_at": "2026-07-20T15:06:50.494275",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 29.5,
+    "temp_max": 29.5,
+    "temp_min": 26.4,
+    "precip_prob_max": 100,
+    "precip_sum": 0.6,
+    "wind_speed": 9.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "03:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 35
+      },
+      {
+        "time": "09:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "快晴",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 29.5,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 41
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月11日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GTTNuNU1OVWZnQnpnbEQ5SFh1NFpLRzllcm5BU085ZlR0R3JCS1ltdmpJVXRSLTd2bG5zZjlwM1JkaUJwY0FoTTBKamhzRUJZNl9QN0FySQ?oc=5",
+      "date": "Fri, 10 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "九州道下り115.4kpにL型オービス新設！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fZE1ZZEpiNi1KN3hsTHZhaXhvcmhJaHBVcWdFUXBLQUtUVEFmQU9EQWV1blUxajhKb095cXc0YTFmejZ2S2d4eEdJeTVrdw?oc=5",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "“4カ月逃亡”の末とうとう発表 れいわ山本太郎代表のオービス・スピード違反は「人命軽視の69キロオーバー」サーフボードを載せたアルファードで大分の高速を大爆走（デイリー新潮）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ockFYUk5kcXJhTTBMSlhXSWUwdTVXRUs5Y1ZtOHhVMlRGcHQ4S2Etc1pQSmJ3bjdqam5OZFI2a2c4Ul85OE9USEJLSmt5Q0twOVpJQVpzLUI2dEw3RTEtNzRUTjVlajNkZkNqc3gwM2RzeDFqcU9fTEx6UE5QYjg?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "61歳男をひき逃げの疑いで逮捕 国道で車4台が絡む事故 車はその場から逃走 男は容疑を否認 大分 （TOSテレビ大分）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84V01CNDNiYS1oRU1OTEpFR3FfdmlwNFZPd19yeWt3N09qWG4zOXRxUktpSTY3cG5tZXNqdEE0UGxTa2pZWk5lcnQ0T0FGLW1ISmpGOTVrbktFRW82UEdoWHFNVEs0S3k3V21aM1k1MXRmZ2FLaDJsZENnNkFMZk0?oc=5",
+      "date": "Thu, 16 Jul 2026 02:53:01 GMT"
+    },
+    {
+      "title": "十字路で車同士が出合い頭に衝突 1人が病院に搬送 大分県大分市",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMk5Ta2t4dzhYSlpZcjN0ZFNTdko0QmdrSHdDT2hrQUpILWhhSmk0RlE0NXVZSkYtVHprRWhRcUFqZGt3MzdtdTBkbzYtSFU1OTFLOWQ0X2hlWDRW?oc=5",
+      "date": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大分県内25年の交通事故死者、前年上回る41人　増加は20年以来、65歳以上が６割 - oita",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XeDlaUUpNeWpwS09LMUI2RGExMjhMX2dLbTh6c05PVmJVWk1xOVVnNWQzX0J4bWFOSWlMVDczc0RKSmYyZWVmYUtWeTB1S3NSTlVwUm1OdWRhTjNXM3VaSllmUDdocXpQYVM5WVkyT2hfaWxvd2fSAYIBQVVfeXFMTlFCNVpKUV9xcnQtWHFSZXZwRkg4aVpVZk9lUlNSMTdHWWNpdUFTTlJjWVBtOUJPS21hY1dzYWFMcTRzQkJmaWp5MGluYkNDNDVLR25hZzVBYmJuZUtDd0NValFOcnYzQ3Q2bGVwLVZsc3lEX3pfYzBWMjlVZWNxMmhtUQ?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "大分県内の昨年の交通事故 人身事故は減少、死者数は13人増加 [大分県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDU1BEaWdTN2czbGRFeUtRekxxSVVkNXZUbjh5bTZMV1diQnlBTkFsN0lHSXg4YVdXb2FlY3gzc0J4TVIxU3pnUjVESFVlc2R0RWRMc09Pc1h1UUIxdVB1d2pWd0J4QXM?oc=5",
+      "date": "Wed, 18 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "大分・臼杵の船爆発死亡事故 労基が造船会社と社長を書類送検 安全措置を講じず",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtUjFCS1QtZEFKLW5YQ1pyLUJpS1hwSFd3TkJJQlFzUDdIWFRELVdVNzJ1NEVqajRlbjBiYURtM1VQODJLYTc2SDJzRFJJRWV0bnhVRF9sOHd6VmUxdzdIeTJmLWVNaXVuRUVJai1MRTRJcmVRT1E?oc=5",
+      "date": "Fri, 17 Jul 2026 10:02:58 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",

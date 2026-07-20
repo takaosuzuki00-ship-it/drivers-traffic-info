@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T13:35:13.288246",
+  "generated_at": "2026-07-20T15:05:02.138490",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 31.4,
+    "temp_max": 31.6,
+    "temp_min": 26.4,
+    "precip_prob_max": 43,
+    "precip_sum": 0,
+    "wind_speed": 6.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 43
+      },
+      {
+        "time": "18:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 27.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "兵庫県警が衆院選に向け取締本部を設置 選挙違反の取締りを強化",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BUFZRU0VEMm01Q2UydHFrLUFFQ0s4cHFBWm9QU21YWWxtZngxYU82WGZYTlJ0WXA5UzB1OTlwMUtjQ2t2U0QtR1JHQ1FNNENFZHJzUmUzRkN2dk1yeGZZMm9iT0hMRzVp?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "薬物の密売拠点か　兵庫県警が民家摘発　ベトナム人の男２人逮捕",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PLUN2TGdPYjZIR1pxOERHWmc0SW9jQVp5Sk5pRFNjQUZ5LTZLYVRVQnM1UXVXS05SbmJDejU0Vzdoa3BGT3JmXzM4ZUUtWEtyclJpRVdULVY3Y0c5RnZNWHNsUG1GLTM3YWFXZ1BoVWVfTlAxX3p30gF8QVVfeXFMUEIzODhueHVjT0FqY0FjRzNaSjlIYW82T0FRRnlKd1JHeDBIQTdkd3BVRi1PR0VQWFRBMVctY2RZZTJBaEh2OUNzVGxsWXY5RGJsSE9OMzBsTWtoaWhuYTZDVWlpQm14YS1faUZQV1NXTFhvcWo5bDJWVFZWOA?oc=5",
+      "date": "Thu, 16 Jul 2026 12:53:00 GMT"
+    },
+    {
+      "title": "三田市内、飲酒運転事故多発で警戒 6月だけで死亡含め3件 主要な道路で定期的に検問予定|三田",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zdEpoSk5DdlRVZTJPcWV5RXlDUlIyUTJsanhIbDZEMC1WQmdOMmZpbzN3QWtMVmlBclJjQkRieHBnV2hpUlJPY3UtUmFmVzhDQ3I5azQyOG44RnRua2pEM3F6X3BzS3JfV2tV?oc=5",
+      "date": "Thu, 16 Jul 2026 20:10:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "国道を横断中の歩行者が車にはねられ死亡 高砂|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiMmt2S0EwZElYektlRnMwWDBUTUY1X0dLR2I2Q0xrcFltNV9LUzhqU1dFZmxYTmZ3dTVyNW5EcF9DV3Juc0M5eHgtMTFrLWltYUNxZGZCSVJTME1iS3BmTGRYb21FdHYwTlNqeWVmSi1kV0dXTGJKdmd3bw?oc=5",
+      "date": "Sat, 18 Jul 2026 23:52:15 GMT"
+    },
+    {
+      "title": "国道で歩行者がはねられ死亡 兵庫・高砂、乗用車を運転の男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5taWRCbTBlYjR2QlFEWkhUdE1mbGFjbWFpRHFSaHBhOHpYaHNvWFZNSTF6MTctRm9BQ2hqUUFtRy13cEJTcEtaR1BSdmJod1c1bW5WUEM0Mm9VX2lKcXhERWptcmlESFBkdWdlTlpRNzNXeUdJdGc?oc=5",
+      "date": "Sun, 19 Jul 2026 03:33:38 GMT"
+    },
+    {
+      "title": "【速報】スポーツカーで事故死の2人は兵庫の兄弟",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZNW1VVFZSNHE5TkdDUUZwX3BWaXE0MkY1MnhqSHpQNmVyWFhyWTlzWm44Zkhxc1BGekJ0MExCMmZxb25ybjlHMm8yZw?oc=5",
+      "date": "Sun, 19 Jul 2026 14:19:48 GMT"
+    },
+    {
+      "title": "78歳女性が右折の車にはねられ死亡 姫路の交差点|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpYjVkaHBuR0tyWlQ0VnNhMnhGcVkybnR6THplRnVrcDg1eFdvb0hOcmlMMVlwWHIxcGxkNzN0MVVmRDJQSzRKTGtzWExhWE5IRG9vLU9Ub2VaRHRKVkF1X2xxTmNqbVVyYkpPSWRteFd6X1dxbno5NVpHOA?oc=5",
+      "date": "Sat, 18 Jul 2026 00:48:39 GMT"
+    },
+    {
+      "title": "神戸市兵庫区 トレーラーが衝突し電柱折れ曲がる",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTDI0OUluX0JOcHRxTVA5dGpoa3NoY296ZGZteE52SDhsd25IY28wM0JsUTdMLW1yaGtWS2ZleU1FeF9BTzBRWWZLc3JzTURQd3FoQ296X2l3Q3R5REN6bXkxTlpoUVds?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",

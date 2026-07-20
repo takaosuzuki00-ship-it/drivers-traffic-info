@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T12:59:12.194558",
+  "generated_at": "2026-07-20T15:03:55.751578",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 33.6,
+    "temp_max": 34.1,
+    "temp_min": 25.5,
+    "precip_prob_max": 76,
+    "precip_sum": 0.2,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 31.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.9,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 33.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "18:00",
+        "temp": 30.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "21:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCaWJBT3NyQi0yS0VjYm1iY0wxYlI3ZFFFN05rQ2FaWVRldndNWndVWWdMYzRDcmlKSXFWUE8tbmc5TElUNzJ2YURtamlNTzRJbEdPUkwxWnBiQlkwMl8wekhUekdTUHh2OGY5eGNUZ9IBdEFVX3lxTE51VWhveWNNUFYySXUwUWZEMWFhY0h6R1VydXNYRTkyUzRFSzZQdUZXeEV3SXZrWVBCdHJPWWFqbnpqMmlDTVQ3cXNCb0lPdlc2ZjdEcW5jMmhQamZlWnlVT2Z6VnhTY2FUOTd2dGNWTTRpWDds?oc=5",
+      "date": "Fri, 17 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "ごみ収集車と普通乗用車が衝突 ３人けが 富山市（2026年7月13日掲載）｜KNB NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnU0RXBmUTEyZll6T0paTWVFSWVLNmhQYnVIYXpsU0YzOERfcjd1SlVwZ05HNDdBOXdXeFRZSFdqT3dSVHZWX2QwVnA0c2hYd2oxZlFheURTUG15azlGRjNSbzE1cUpwNUtMUUVCZlp1MlV4cTZKNDhIb0k1RUFOUEwtV2pkeGM?oc=5",
+      "date": "Tue, 14 Jul 2026 02:52:00 GMT"
+    },
+    {
+      "title": "赤信号を140キロで進入か、危険運転致死罪で起訴 親子死亡事故 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTmFuUkNZM2J3QzBTc3hORk5lMmNVZnB0N0Jjb1ROTTlfcW1iR0ozZUVRUkk0T1RMWTNyQndUM09seG1ORkp6NGk1b0xaODRWaUlYQ2xRRm9PN2NKeFI5M2FrazdDRms?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "80歳女性が車にはねられ死亡 この春2車線から4車線に拡幅の国道8号入善黒部バイパス（富山テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16TTVITklKZlRrSk5feVRDU3pWTUxkX2hpWjBaTU82WGgteW9ib3J4dktXQ2czRTdEVTNWNTVsMFRVNHVNaWJ0QkZ1SjdPNnVMOWQwRS1Nck94NzBtRm1qWmNRbjJUQ1c0WEdEa2hvTUh0M25OaFQ0VUtnWU16SkE?oc=5",
+      "date": "Sun, 12 Jul 2026 10:09:02 GMT"
+    },
+    {
+      "title": "富山県の海水浴場で小4男児が死亡 姿見えなくなり引率者が通報",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWmtDRFN2SnhPYWI4UmJ6dG1OSUJ2bnBHeVJkazdqWWxITEhHbDJUN2JiSnFVRU5yV3FWcXVUVDV3d0t0LW1ia01RVGcybER0SVE2Rko1UWpocUE3UTRqaGRLUGJxeTA?oc=5",
+      "date": "Mon, 20 Jul 2026 05:03:18 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

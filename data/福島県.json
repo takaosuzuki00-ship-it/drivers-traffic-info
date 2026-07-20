@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-20T12:32:11.488595",
+  "generated_at": "2026-07-20T15:03:11.378506",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 35.2,
+    "temp_max": 35.5,
+    "temp_min": 24.3,
+    "precip_prob_max": 73,
+    "precip_sum": 0.3,
+    "wind_speed": 10.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "09:00",
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 35.5,
+        "weather": "晴れ",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 35.2,
+        "weather": "晴れ",
+        "precip_prob": 67
+      },
+      {
+        "time": "18:00",
+        "temp": 32.3,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "21:00",
+        "temp": 29.4,
+        "weather": "晴れ",
+        "precip_prob": 31
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaEc3UXpWZ2lWU3Q2Vk9mSzZCWmhha254clpUaG9VeEdKdzR0TmFYOGZmbGpTOTJzeXRGbmdDTHhMMC1ac2RWc3NuMmlhWVBLcjcwdVNjcw?oc=5",
+      "date": "Fri, 17 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月17日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OE5mU182S1dBS0dEUVZhNXh0M3piRkJfU09rT2pUUXowc1FVaS1YZU5aZXQyZ2ZMSk1uelk5UlJub3RNeDVYcEpqOEdOWlNHWHZLdnBCTQ?oc=5",
+      "date": "Thu, 16 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jS2pYLWpqZ0RIX21Pd3Ywbk4wLUdvZ1I3XzNSVGd6c1Z6ZjE1UzJCT1dMOFVSTktDVkJ4T2s3T1VZSjNzSkliSi1ZQU5uUzBzOXJhTnI0TQ?oc=5",
+      "date": "Wed, 15 Jul 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "速報＞東北道で車運転の女性死亡 のり面に乗り上げ横転（福島民報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fLWwyVks2bFFoVFdVRXZ1d1NQbG1haFUzbFpfUW5LLW9aQnNTRUlzbThFeHBzSWlzVS1IX19uSElra0xoTENOZ1FKRFNMejZnYjJFR2tzN2dXUUtRWTJlZTJYWFE4S3B3Vmo5ZXpPOERUR293MlAtUXRhQldCelU?oc=5",
+      "date": "Sun, 19 Jul 2026 13:12:00 GMT"
+    },
+    {
+      "title": "【JAF福島】子ども安全免許証を作ろう！～「夏の交通事故防止市民総ぐるみ運動」啓発活動に参加します～",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XVHJ0ZmoxSzdGMG9iZE1CT0pfdFFvUHlIYnNlS3BnblN3a3kyLXlWdmp1UmhRN1RMM1ZQY0YwRmwwN3RlYkdQU3RNUDFuUmpTM0FvZldseXhIejRTNHU3dy1ybW1QSnFUd0E?oc=5",
+      "date": "Wed, 15 Jul 2026 03:00:02 GMT"
+    },
+    {
+      "title": "犯罪予防や交通事故防止を目指して JA共済連福島が防犯対策連絡協議会 福島",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LVU1yMVVhMW9jRHVKZ1ljbE13QzM0X0lmRjNnWkpxcUtKU2Q5WVIydU9ZZ0h1YVdYaG9RYm5hTkhwbDQ5ajJrSHQtNFRJSGlUQ2NCaXRHVEpFUQ?oc=5",
+      "date": "Tue, 14 Jul 2026 00:21:00 GMT"
+    },
+    {
+      "title": "「勝手に体が動いた」交通事故に中学生5人が遭遇 大ケガ女性に止血、交通整理も...連携救護に感謝状 福島：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yQ3FnOUhnVFJRQktod0ZwR1pEVGg2WkZWUzY5eXV2S0MxR3dMamVuTVc2cjhTNEZyNlVzRWhBeDRMc0RuMDVkTWJ5c2R2dktnelRBNklfdmZFOFFPd1llb25RcDBPOF9vbWFUYlMwNExRRExiRy1LbXZ3?oc=5",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【更新】横断歩道を渡っていた男性(76)と乗用車が衝突 男性は死亡 いわき市・福島（2026年7月4日掲載）｜中テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGVUZzZocTZBaTM0dXlDM21YbVZjREZ2MGhWRlRyNzNObkZYQmU4UG5sN0d4X1pUOXpLR0hQUzVqNWxBZEc0ZDVkYWt2VGpkVk5rNVRJTWVNOGVnNTEtYVJqaGgwZjdrTFk1UTZoUHpoczJpUjgtY1VLUDRfQnBzZFlqMXRsWjg?oc=5",
+      "date": "Sat, 04 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",
