@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-07-22T00:01:28.677432",
+  "generated_at": "2026-07-22T03:01:17.946873",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 26.8,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 25.6,
     "temp_max": 34.6,
-    "temp_min": 25.5,
+    "temp_min": 25.2,
     "precip_prob_max": 88,
     "precip_sum": 0,
-    "wind_speed": 1.6,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.8,
+        "temp": 26.6,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 25.9,
+        "temp": 25.6,
         "weather": "快晴",
         "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 25.8,
-        "weather": "晴れ時々曇",
+        "temp": 25.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.6,
+        "temp": 31.0,
         "weather": "快晴",
         "precip_prob": 12
       },
       {
         "time": "12:00",
-        "temp": 34.2,
+        "temp": 34.6,
         "weather": "快晴",
         "precip_prob": 22
       },
@@ -51,14 +51,14 @@
       },
       {
         "time": "18:00",
-        "temp": 32.1,
+        "temp": 32.3,
         "weather": "快晴",
         "precip_prob": 75
       },
       {
         "time": "21:00",
-        "temp": 29.2,
-        "weather": "快晴",
+        "temp": 29.3,
+        "weather": "晴れ",
         "precip_prob": 8
       }
     ]

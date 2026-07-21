@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-07-22T00:01:00.948956",
+  "generated_at": "2026-07-22T03:00:59.384450",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 25.4,
-    "temp_max": 35.3,
-    "temp_min": 24.9,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.1,
+    "temp_max": 33.4,
+    "temp_min": 25.1,
     "precip_prob_max": 73,
-    "precip_sum": 1.8,
-    "wind_speed": 1.8,
+    "precip_sum": 14.3,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.4,
+        "temp": 25.7,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 25.0,
+        "temp": 25.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.6,
+        "temp": 25.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.0,
+        "temp": 30.6,
         "weather": "晴れ",
         "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 34.6,
+        "temp": 33.2,
         "weather": "快晴",
         "precip_prob": 41
       },
       {
         "time": "15:00",
-        "temp": 33.7,
-        "weather": "弱い霧雨",
+        "temp": 33.1,
+        "weather": "快晴",
         "precip_prob": 63
       },
       {
         "time": "18:00",
-        "temp": 32.0,
+        "temp": 31.1,
         "weather": "晴れ",
         "precip_prob": 71
       },
       {
         "time": "21:00",
-        "temp": 27.7,
-        "weather": "弱い霧雨",
+        "temp": 27.1,
+        "weather": "弱い雨",
         "precip_prob": 20
       }
     ]
