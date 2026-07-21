@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-21T06:01:34.267284",
+  "generated_at": "2026-07-21T09:01:27.246455",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 25.3,
-    "temp_max": 35.0,
-    "temp_min": 24.3,
-    "precip_prob_max": 59,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 31.6,
+    "temp_max": 35.1,
+    "temp_min": 24.6,
+    "precip_prob_max": 83,
     "precip_sum": 0,
-    "wind_speed": 1.0,
+    "wind_speed": 3.5,
     "hourly": [
       {
         "time": "00:00",
         "temp": 26.3,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 10
       },
       {
         "time": "03:00",
-        "temp": 25.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 25.3,
-        "weather": "快晴",
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 31.4,
+        "temp": 31.6,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 2
       },
       {
         "time": "12:00",
         "temp": 34.6,
         "weather": "晴れ",
-        "precip_prob": 49
+        "precip_prob": 71
       },
       {
         "time": "15:00",
-        "temp": 34.3,
+        "temp": 34.5,
         "weather": "晴れ",
-        "precip_prob": 57
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 31.5,
-        "weather": "晴れ",
-        "precip_prob": 20
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 28.5,
+        "temp": 28.4,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月21日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZLTg2ZWthSW0yVkI2NjlBM01paWpOa25aSlIwNmZFR1g5V1pnR3FfNVVMTWRVMlNYRjZ4UkR6ZnNaM1d0U3gyN0pZQ29Nak8wX1JFWkxHYi1kOGM1NmNaa1d6STgxbTNiZFBIOFVvNNIBdEFVX3lxTE5UVFlCTFlWYktsUVd0RmxTMWYyVDl6MzlnTmIwblVsUkdlRHhBWndLRkxjS0NMOVRnSGVuR1QzVlJOZEtzRnlPZ1hJWHRZVkhzWkNPRzZkX1RScjR3blZZSHhsUU96YkY3YUYtUWVMbUtKd2dt?oc=5",
+      "date": "Mon, 20 Jul 2026 20:09:32 GMT"
+    },
     {
       "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaEc3UXpWZ2lWU3Q2Vk9mSzZCWmhha254clpUaG9VeEdKdzR0TmFYOGZmbGpTOTJzeXRGbmdDTHhMMC1ac2RWc3NuMmlhWVBLcjcwdVNjcw?oc=5",
       "date": "Fri, 17 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
-      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+      "title": "７月２１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56bUE4ZkszanBjVmtIcDNxcG5aU1dfQTkyeHF2ellZcElIdmZvRTNKeWFsWDVRSGltN19tT19wX3ZyOWs2UW5XdDhvV1pfVGNXOUoxeFhSS1E2bHFqNU9tb1FNaWI0SDlfUHRCamQzaEhmUdIBd0FVX3lxTFA0Rzk3SnVscXpiQ1BzS00xQUdVQ1kyTllaY1dOTnVhd2wyT0pKZ1lBWTVWM0ZsYjBsZzA4aWpIMWE3NHloanE5WGVLS0F0ZjJIM0RRcWtuakQtSjZDTUtMTE13NVVGdFZKRVVtMnVVVDZadUVqYlo4?oc=5",
+      "date": "Mon, 20 Jul 2026 20:31:48 GMT"
     },
     {
       "title": "7月17日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OE5mU182S1dBS0dEUVZhNXh0M3piRkJfU09rT2pUUXowc1FVaS1YZU5aZXQyZ2ZMSk1uelk5UlJub3RNeDVYcEpqOEdOWlNHWHZLdnBCTQ?oc=5",
       "date": "Thu, 16 Jul 2026 20:02:00 GMT"
-    },
-    {
-      "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaURzSEttM1k0b1hSUXR4emQ1YWxvT3gwdEdseDBjMVhwMUx6RG5SX2FCaXpraGNsd1NZSkt6N1F1ZVViYnVMby1FaHNXODR3eXRaYldfQ25ZbkkzdU9VN0R2NWxlWDdFdEp1NWJMSdIBdEFVX3lxTE5oSjRHZl91Vm5rLUVZbk01Si1RcmxCN0tobGxvamZ1Vzd1NERYbDA3bFE3Q0UzazFaWEJ5dmNKck14UFo4Z1gxY2pMYkdJU2YxY0dNZTJFWng4MzFsRU1mZDRoMHdId0syWGZ0Qjkydm9LQlhU?oc=5",
-      "date": "Sat, 18 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "7月16日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
