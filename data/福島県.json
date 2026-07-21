@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-21T21:00:57.705733",
+  "generated_at": "2026-07-22T00:00:56.305659",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 28.5,
-    "temp_max": 34.2,
-    "temp_min": 24.6,
-    "precip_prob_max": 93,
-    "precip_sum": 0.4,
-    "wind_speed": 3.3,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.8,
+    "temp_max": 35.4,
+    "temp_min": 23.3,
+    "precip_prob_max": 91,
+    "precip_sum": 0,
+    "wind_speed": 1.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.3,
+        "temp": 25.8,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 25.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.3,
-        "weather": "曇り",
-        "precip_prob": 8
+        "temp": 24.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 31.4,
+        "temp": 30.9,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.2,
+        "temp": 35.4,
         "weather": "晴れ",
-        "precip_prob": 86
+        "precip_prob": 78
       },
       {
         "time": "15:00",
         "temp": 33.7,
         "weather": "晴れ",
-        "precip_prob": 84
+        "precip_prob": 88
       },
       {
         "time": "18:00",
-        "temp": 31.4,
+        "temp": 31.8,
         "weather": "晴れ",
-        "precip_prob": 49
+        "precip_prob": 41
       },
       {
         "time": "21:00",
-        "temp": 28.5,
+        "temp": 29.0,
         "weather": "快晴",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月21日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42YWRWdS1vZ0xzcUktNGJ5U1Q5OC1LSTVVc0pKVktuRHd4eUFEN3pJT080Z2RxMVlldFZnMk5zNHlnbmpfWkRoUFNuMW1iejB2aDZqcEhERQ?oc=5",
+      "date": "Mon, 20 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "7月21日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZLTg2ZWthSW0yVkI2NjlBM01paWpOa25aSlIwNmZFR1g5V1pnR3FfNVVMTWRVMlNYRjZ4UkR6ZnNaM1d0U3gyN0pZQ29Nak8wX1JFWkxHYi1kOGM1NmNaa1d6STgxbTNiZFBIOFVvNNIBdEFVX3lxTE5UVFlCTFlWYktsUVd0RmxTMWYyVDl6MzlnTmIwblVsUkdlRHhBWndLRkxjS0NMOVRnSGVuR1QzVlJOZEtzRnlPZ1hJWHRZVkhzWkNPRzZkX1RScjR3blZZSHhsUU96YkY3YUYtUWVMbUtKd2dt?oc=5",
@@ -80,11 +85,6 @@
       "date": "Mon, 20 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "7月17日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” 多数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94OE5mU182S1dBS0dEUVZhNXh0M3piRkJfU09rT2pUUXowc1FVaS1YZU5aZXQyZ2ZMSk1uelk5UlJub3RNeDVYcEpqOEdOWlNHWHZLdnBCTQ?oc=5",
-      "date": "Thu, 16 Jul 2026 20:02:00 GMT"
-    },
-    {
       "title": "移民捜査で車両検問停止",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QODJoUkp3dkRLLVBzMXBnT0tuMjhra01fRVVkcjdFR1ZsWXNZR2VQa21FaHN3clhyVWFqOGIwamlBVFNOMDFPSWFpUS1aNDA?oc=5",
       "date": "Tue, 14 Jul 2026 22:04:31 GMT"
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "速報＞東北道で車運転の女性死亡 のり面に乗り上げ横転（福島民報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fLWwyVks2bFFoVFdVRXZ1d1NQbG1haFUzbFpfUW5LLW9aQnNTRUlzbThFeHBzSWlzVS1IX19uSElra0xoTENOZ1FKRFNMejZnYjJFR2tzN2dXUUtRWTJlZTJYWFE4S3B3Vmo5ZXpPOERUR293MlAtUXRhQldCelU?oc=5",
-      "date": "Sat, 18 Jul 2026 07:21:25 GMT"
+      "title": "上半期は1681件、県内の交通事故発生状況 福島県警（福島民友新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rekRvaVhKQ2NRbWpidXdicmxKU1d2TUd6emNraVJUSEpPbkEwb1lkWXlINXRWamduNHBWYWs0WTJ6VWh3ajgzUnpZSEdBZ1ZSX3FRZ3hfS05fdzRUdE5QOHhFak4zaVpEcjU0TmxJS0xHMU5QR09wcF9vdExOekU?oc=5",
+      "date": "Tue, 21 Jul 2026 08:59:41 GMT"
     },
     {
       "title": "交通事故防止へ相馬地区出動式",
