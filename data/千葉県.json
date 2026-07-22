@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-07-22T18:05:46.536922",
+  "generated_at": "2026-07-22T21:01:40.804941",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 29.3,
+    "temp_max": 33.1,
+    "temp_min": 26.0,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.8,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 32.1,
+        "weather": "快晴",
+        "precip_prob": 25
+      },
+      {
+        "time": "15:00",
+        "temp": 32.7,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 31.2,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "公開交通指導取締（２０２６年７月２２日）",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hQzFUUFlzMjNGbFViR1ZfbERfb1B2ZHNzYjRZNHBtRHgwbXctOVY4REQ5ekdIbGtlN1pmbWozMHY1WFBxZU5OR3FHUWh0Zl9XWEEzLTBZVVk?oc=5",
       "date": "Tue, 21 Jul 2026 20:04:23 GMT"
+    },
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:10:32 GMT"
     },
     {
       "title": "公開交通指導取締（２０２６年７月２１日）",
@@ -21,11 +85,6 @@
       "date": "Thu, 16 Jul 2026 20:02:00 GMT"
     },
     {
-      "title": "公開交通指導取締（２０２６年７月２０日）",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42aG5FV1JoWHlXV1ZoRU9ZM0Q3Znl2Tk54MS1pR0tLYmVpQmJIMnhqYVViQWc3UnBDamJrMFVEbjc4b1NrMUs1SllOMEtoMEpFRlhzQWRKX3o?oc=5",
-      "date": "Sun, 19 Jul 2026 20:55:26 GMT"
-    },
-    {
       "title": "空港第2ビル駅改修へ 混雑緩和「検問所」跡も撤去 ／千葉",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dVlQZTgxNy01LWt2ZmctT3pRdHJuQnJzeGpHODItS1I3X0taQWp2SEtoX0ZRMHVWaWNQWUV6OGQzNklfdC1Ld2czZ0FDUHhwMmY5ampWWFNsS09OR05rOS0tMkZiYlFP?oc=5",
       "date": "Fri, 03 Jul 2026 07:00:00 GMT"
@@ -33,14 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "一般道で時速100キロ超か カーブ曲がりきれず…歩道に乗り上げ支柱衝突 同乗の高校生ら4人けが 千葉市中央区",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcVExUlR5TzB4V0YzOWRFTkZCeWMwLWVhMWh4UE1sWm11QXQ0RTdYMVRHX0JKY1U3LU1RQkV0ME5TLTV3dC1PRS1tXzQ4eXdnRlJpX0FEM0Q3NFd2NjhlYTZIUFQwSlFXSDIzM2FqT3NuRE5pSElNWjFXbFA5UFU?oc=5",
-      "date": "Wed, 22 Jul 2026 03:00:04 GMT"
+      "title": "所属選手が交通事故に遭う…千葉が報告「速やかに警察へ連絡し、必要な手続きを行っております」（ゲキサカ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbFpZOFhWVjVFbHpFOUhTWU5lbXd0Ynl4WWg3RjlXWWRFQjBzbExacVZCMkswWUpMVVUzbkJQdklaZWcwLXRqQXhrME1GOEhjYUhSTjF3WktxdHdXdmVBTzZxNFppS0pELThQd0JBLTkzdmRtYkVjcFRCVWM5TUE?oc=5",
+      "date": "Wed, 22 Jul 2026 11:27:01 GMT"
     },
     {
       "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYM1ZSbTFZVmI3RTRmSTlGREI5T0Z4eUJGSTJzRHFVUlYzRlhZbjFDTmVIRVVjVV8tYWNIWkpsYUt6MjM0cGNqeHFBZ09PZWVPcmc?oc=5",
       "date": "Wed, 08 Jul 2026 10:40:55 GMT"
+    },
+    {
+      "title": "一般道で時速100キロ超か カーブ曲がりきれず…歩道に乗り上げ支柱衝突 同乗の高校生ら4人けが 千葉市中央区",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcVExUlR5TzB4V0YzOWRFTkZCeWMwLWVhMWh4UE1sWm11QXQ0RTdYMVRHX0JKY1U3LU1RQkV0ME5TLTV3dC1PRS1tXzQ4eXdnRlJpX0FEM0Q3NFd2NjhlYTZIUFQwSlFXSDIzM2FqT3NuRE5pSElNWjFXbFA5UFU?oc=5",
+      "date": "Wed, 22 Jul 2026 03:00:04 GMT"
     },
     {
       "title": "過失運転疑い、高校生逮捕 車横転２人死亡―千葉県警",
@@ -51,11 +115,6 @@
       "title": "【日録交通死亡事故】10道府県13人［7/21］千葉で1日2件 酒々井町で3年半ぶり",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZR0I3b2ZKT3B3VVBjdE5WSlpQWGVCc3hEZEpBbXFaRndSSWZYNS1aOTNIZ0VoNjB4dFkyTEI0d181U0FuU1M5UHNqX0JiS3pyZElhZVg4bHZOdkR0cDFZ?oc=5",
       "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "高校生男女3人乗りバイクが転倒 1人重傷2人けが 曲がりきれず住宅外壁に衝突か 過失運転致傷容疑も視野に捜査 千葉市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wc1B5RXpUUWUyS2V2QWhyVkZTMVB6VmNYNFloTWp1cmhFdjh2NjJCQjZ4eUhIUm1faUVvRG9Ud1ZwalA4TkppUVlfSE5nUQ?oc=5",
-      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

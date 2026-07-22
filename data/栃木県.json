@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-22T18:05:06.785068",
+  "generated_at": "2026-07-22T21:01:23.494670",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 27.8,
+    "temp_max": 36.6,
+    "temp_min": 25.3,
+    "precip_prob_max": 71,
+    "precip_sum": 3.3,
+    "wind_speed": 3.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "12:00",
+        "temp": 34.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 36.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 33.2,
+        "weather": "曇り",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "15歳の男子中学生を覚醒剤取締法違反の疑いで逮捕「俺は覚醒剤なんてやってない」 栃木・栃木市",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY0ROdEdCZWRBSnYzX1ExdnA3SzhXc2hRbElwVFNhMTZxYlBKY2hzMzZUc3FVOEp5SEJlemtidHMzZ2hKQVBjQ3l6ZDNrYUxObUJ2dThkSF82X3FTd3JZY1F2MTM?oc=5",
+      "date": "Tue, 21 Jul 2026 05:32:35 GMT"
+    },
+    {
+      "title": "7月21日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aQjQ0U0VxaFBDNHdwMXpzd1dkejZRem1QVmRvRUM2RnZ5TTlINWpyX1cwQjgzU0FPX2psT0FoYVdPTVBfRXF6dFBlUk4xdHczUUcxUF9LMF96dVBKejNnNTRna2RxdTR5VnYwZnlzQdIBdEFVX3lxTE9JRks1amRNcnBFaWctbEQ5elFxZXBfWW4tRW14cnJCMUZPN2NZYmw1bEZRdHJ1cUZ2dHRMblpCcjJIUmhTVEd6LVZfdU10Qm5YUmp2MkstUTh0NGd3X1N6WlZpU2QwNzJybV9qM2cxS2RPeHNq?oc=5",
+      "date": "Mon, 20 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "覚醒剤使用の疑いで中学生再逮捕 栃木県警 過去10年で初の中学生摘発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03Skx4eWJ5dXRqb19WNFcwazV6X0t1a2ZCU25fSE0zN25yOGl2a0VWUTdlZXV0SFJ4cnFrUXNDNl8zWndnMGc2TEJJLUtiY0tnYUFSMDI3WFhnSzA?oc=5",
+      "date": "Tue, 21 Jul 2026 08:45:00 GMT"
+    },
+    {
+      "title": "7月20日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tMGk1dlNJdmxNX2dGSkJfZGRzQ1VfNFZieWRWLXJOcVRQSWtiVWZEZVNxZmUxVlNrdklqVFJDUXA4c0E4MmZwd3Z6VU1LSG9vWGxZOWFqd1pwaHlxN3ZPZGFsU0FLN3ZXY1B3WDJxVdIBdEFVX3lxTE1XUkhZeUJNRGhpNmQ1cndIZjFfMFRPbzI2eHVXWFBvU2hZTzJRMks4QVZ6cXBiNzh5R2ZjaEY3Z0RoeUFJX2VUSVBVR2l5eE0xbDhwVmtiTXN5LUZyeUFZZko3aEVoQ3ZWUnhvWTZoSnQxeVd1?oc=5",
+      "date": "Sun, 19 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "栃木市で乗用車が塀や電柱に衝突 男性が重体",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RNWY4Y2NOVlkyV19vRlhxVzNHOXZ3S2dJUk12VGluT252UWEzYy1DUkl2ZnlxM09wUkJ3OGtCdTh2TTVwc1dzd0ROSk5TWnRJdmhEZ1B4TE0yR2M?oc=5",
+      "date": "Fri, 17 Jul 2026 03:00:00 GMT"
+    },
+    {
+      "title": "「雨でスリップして横転」 栃木・東北道で車3台絡む事故 1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDMjFDaVloNnZyWnhnOVcyV1VvZTN2aGNEVy1XYUN6S3RWRVVSX0xrYnpRb1JITUNnS05PTUZkWFlTX1ZoMkJyMG1HS2lKYmdSUUQ3c01TRm1HUTFSMHVJUkZaSW11Sm5EUGQxWVUtUmdnZw?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "河川などの「異常水質事故」の発生防止に御協力ください！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95OFZuM3pUeFJMMnVCRXlDejljTjNFc3FtX3VTdVpSa3NCSGJGa3dmZWlBcnlBak53NXcxLVZPbHU2ZGV2OEVxbzBVNWhoT0RvVnZDM3psaFBxWmFiblh4dkZtaFp2TmNMLWhUTjVrSDV1OEpGOXVqMWdR?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故に関するご報告",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9mU0gwYXlmVEo4X3B4cVk0NFZMdGxxZWs2MWpGR0Iwa1RMTkRSZVRSNVk2Y3FtYWNDRmpXVDBJMVdjSGdX?oc=5",
+      "date": "Mon, 18 May 2026 14:32:26 GMT"
+    },
+    {
+      "title": "２０２５年の交通事故発生件数と死者数 過去５年で最多 栃木県－NEWS - tochigi",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNMVd1OGh1Sjh0bGlwSFFlaUc5Rk55REtXSTlVZDNLT0puVk9jNEFEYl82ZkloX0RNNWhmQTJYUDNueUtmN215dGFRWVZUeGVzMk1KUmpOZ0hKQm5VZTZv?oc=5",
+      "date": "Thu, 08 Jan 2026 09:46:32 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "栃木県警察 公式サイトを検索",

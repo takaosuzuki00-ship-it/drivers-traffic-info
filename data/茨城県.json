@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-22T18:04:56.748157",
+  "generated_at": "2026-07-22T21:01:19.138228",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 27.0,
+    "temp_max": 33.4,
+    "temp_min": 24.7,
+    "precip_prob_max": 31,
+    "precip_sum": 4.5,
+    "wind_speed": 2.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "12:00",
+        "temp": 33.2,
+        "weather": "快晴",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 31.9,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 27.0,
+        "weather": "弱い雨",
+        "precip_prob": 10
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaURzSEttM1k0b1hSUXR4emQ1YWxvT3gwdEdseDBjMVhwMUx6RG5SX2FCaXpraGNsd1NZSkt6N1F1ZVViYnVMby1FaHNXODR3eXRaYldfQ25ZbkkzdU9VN0R2NWxlWDdFdEp1NWJMSdIBdEFVX3lxTE5oSjRHZl91Vm5rLUVZbk01Si1RcmxCN0tobGxvamZ1Vzd1NERYbDA3bFE3Q0UzazFaWEJ5dmNKck14UFo4Z1gxY2pMYkdJU2YxY0dNZTJFWng4MzFsRU1mZDRoMHdId0syWGZ0Qjkydm9LQlhU?oc=5",
+      "date": "Sat, 18 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "7月15日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZWlRRWdXbE5nbHJ3MUQ2ZzZVODZabEZJajZ3WEVjX2hlUFRGSm53MUpFeWV1ak5iSDg5X05KM3ZfS2VjRnh3NkVKdFo1d1RSSl84NUNQX2tCQ3ZXY1RBUnRkWDBoRHlfNFF1d2Fvb9IBdEFVX3lxTE1rc2NlSHdkdWpIMHE3SFNOTzd0SFlyWDNxZHhUU19wcWluLVJMRWNHZ3kwNnc1UEJpRGRpVUtmVzltSFZXSk5rT2lweVNYSlBsb05rV1FIZHlwbjRLbndKMzZVMWY4ZmtrYXQwMmdaMW5GU1pP?oc=5",
+      "date": "Tue, 14 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QS0tLWnR4ZFUxdUdFY1FONXl4NzJTbnc0bkJsMEFLU2UxangtVzZlU0tvdXlsbFVOcVhMbzh1MzFiVmViRWVnbjNrVkZSbmg5UXdRczNiT0JIRXFLQ2RSeV9Fcjc2eGxoQlFBU2pBZ2RtTjg?oc=5",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "茨城県内 交通事故死亡者数６２人に 過去５年間で最悪",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvRUhaaXpXVVBKYTVpNFZvRk9aZ1NtY0dtdmlSekREMXpCZ19NY3B0TmVMcFVYVHdQTDhsTGFoX1RrUjBjdkxjUi02b2VRcUcxSG5jaGVjeTk?oc=5",
+      "date": "Fri, 17 Jul 2026 09:13:00 GMT"
+    },
+    {
+      "title": "シニアカーの91歳男性が死亡 軽自動車にはねられる 茨城・阿見町（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTzJmblNTSFp6bmJZTjlrbnJqUFJhOHlqN0ZaNTdBM19ENXhqMDVpNzdJMFJjdnZEZkhkMUlXM2gxZncwaFIwN2FpWFMzTTljZXVaLW5CYWVQQy1hR1VqaURaSkduRGJpTzR5UkUzekI2Vl9xNlBMSk93Y284bHM?oc=5",
+      "date": "Tue, 21 Jul 2026 22:36:49 GMT"
+    },
+    {
+      "title": "交差点で乗用車と衝突 軽ワゴン車の93歳男性死亡 茨城・水戸",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kcXd1ZVNISzRIM1N5bDZZc0xVRmd2c01WeGtCbVdIU3JCOGhVbE15QndfYlV4TzVpLW0zZFoydjZ5QWNTMXdnQ3pkbw?oc=5",
+      "date": "Mon, 20 Jul 2026 09:49:00 GMT"
+    },
+    {
+      "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故発生マップ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVzRBSEZFNTRBb0VSenhrOWFuS2dYemZadzBRb21CajVyOURvRTQzVExxTGJOb0RueGJpLVdNa0hmdUM3cklmVUFIUnhDN2Y5RTl3VFJUZ0tfdEt6YXZLekFOay1ZVGlfT2ZxZXY3dw?oc=5",
+      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",

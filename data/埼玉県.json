@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-22T18:05:26.869418",
+  "generated_at": "2026-07-22T21:01:35.065750",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 30.3,
+    "temp_max": 36.7,
+    "temp_min": 25.7,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 2.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 29
+      },
+      {
+        "time": "03:00",
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "06:00",
+        "temp": 26.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.1,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 35.2,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 35.6,
+        "weather": "快晴",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 33.5,
+        "weather": "快晴",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 30.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警 (日テレNEWS NNN)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXNsN1prOThTUm5aQ3huZmVzMEdfUTAwUTRqNUlqZFo0TU0xanZ1ckJEc2ZxSUthVVRSWlFDbmJ4a0JELU9MV0dJY3NJQkt6OXFYd0hnTW5QSFc0bUtxRFNHQ2dhUm9EWHI4eFBaR0FmdmxPTXEyR1FzZjlwVzBKVVF5Mk1fQnhZUldTYl9R?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の取り締まり中に「可搬式オービス」どこかに消えた 900万円 前代未聞 埼玉県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUFBTXzVJSEstYW5ucW9IY1hLU1Q2WHhndTVtNTFrcTdVeHZEZFZkRDNJNGRjazltV3Y2S1lQN3pEcWY4VmFLN3VYcEI5RUtIam9N?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtcXpGTVBMSmxsZFZ3cm11dTQ4VzY5bmZpRHJINW9qeHFqd3BzNXVvdVg5RGlBX0JHbS0xZ0JuQjBfX3NYeWJDaWphTVR3Q2ZpZzdvWjZ5VQ?oc=5",
+      "date": "Tue, 14 Jul 2026 22:04:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "埼玉で5人死亡、40～70代の男女…7日間で5件の死亡事故あり 警報を発令 5件中、4件は貨物車両が関係する事故",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52TzFCUHJGX1hzb1FSZUtHSTdOc3dBeWlyaV9lREduQmFsMjRQSVF4czJiTUlhcXdHM09hbUxfOFlVc1czNC1SOXNXTEFkbjN1bE52MGt0NA?oc=5",
+      "date": "Wed, 22 Jul 2026 04:23:16 GMT"
+    },
+    {
+      "title": "埼玉で5人死亡、40～70代の男女…7日間で5件の死亡事故あり 警報を発令 5件中、4件は貨物車両が関係する事故",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBSVNrUk9LZDQtSG1Oem5BMDQ2Q0hSSHRIRjBlNWZ0Q2tCQTJpMkdHWlg0cmY4MGtiTXJ2alVXcFVOdE5sdEEtS3NkTQ?oc=5",
+      "date": "Wed, 22 Jul 2026 04:19:00 GMT"
+    },
+    {
+      "title": "独自＞外国人運転者の人身事故、埼玉で急増 年間558件、5年で3倍 高い外国人比率 「移民」と日本人",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cnNQMUQzSFd5cjlfRmR6V2FtaUp2czRsdnVjOUZHWmNyeDJoYl9UVDlzUXF4Q25GdHMzelhNNDJYVzVERmdhQzZDSm5zckxFZlpfa1RaZzhDQ1Y0TUE3Z0F0SjN3cEVDSW9OZThNQVhpZTV3ZGc?oc=5",
+      "date": "Sat, 18 Jul 2026 06:30:00 GMT"
+    },
+    {
+      "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、二輪車絡みも3件 今年初、昨年は6回発令（更新）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5welhJYjZsSVg3MFRobllXd3F5WGZUQzVvZFRDT0wtay1TUUZrWW8yVmxBVEhhX0VReXc4ZElBR3FYdlZEZ0RqbG5nUERNa0RLNUdpQno0Z0NoUmR3ZHhVOXExRXVieEYzU2FiWVJNbHlkY2ZqV2RFN1dpdDhiZG8?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "令和8年夏の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",
