@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-22T15:02:15.696003",
+  "generated_at": "2026-07-22T18:06:21.351935",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 35.0,
+    "temp_max": 37.7,
+    "temp_min": 25.9,
+    "precip_prob_max": 20,
+    "precip_sum": 0,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 36.1,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "15:00",
+        "temp": 37.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 35.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 30.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -33,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "軽トラと２トントラック衝突、４５歳男性死亡 岐阜県高山市の県道（ぎふチャンDIGITAL）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hak05b1I1M3VCR0VaeWhQeFp0OXZxZzBCLWV5dlVNbHB2SHJZaGpCUmxhRlpXUHVlMGJfcmZ5bHZ2Y2JNR0lJcWN2MXFLbm1qcWNWdUR6ZVM4ODJZZXVNTUNVZlpJSW9TeXQzR2JNS3NmUmZKSlMxYnB5c0JQZGM?oc=5",
-      "date": "Tue, 21 Jul 2026 10:12:24 GMT"
-    },
-    {
       "title": "岐阜・瑞穂市の国道２１号で車同士衝突、炎上 酒気帯び容疑で男逮捕",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBaHRaMjNEYTVTWkl3UlBkNDc3Y0kzX0dZMzVuSjl4YjkxZTBmQ2Y4dTYwbGhQSTFvczRqd08zYkp1U2VJS2hLRUYtSDNFWHFkam1PSUpn?oc=5",
       "date": "Sun, 19 Jul 2026 19:28:00 GMT"
@@ -53,9 +107,14 @@
       "date": "Mon, 06 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "死亡事故が相次ぐ… 大型トラックなど3台絡む事故で30歳男性死亡 右折と直進の車がぶつかり46歳男性死亡 岐阜・三重",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZVHhtd05rMVpBVUZPNmV3SFNQLWdub1hHQjNrUHo1TGNVWjE3dDZ4WnNWZm5WbTNPTTJzU1ExbnNFWGxFdWpCUENkaThJNnhjck9ad2RqZw?oc=5",
-      "date": "Wed, 15 Jul 2026 10:12:00 GMT"
+      "title": "国道２１号、速度超過で交通事故多く 岐阜県警などが一斉取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83R1VCcFJmQ2NndXo5eEluWVJ6ZTlmeXNWM0JKVC1qNnpCOW5ZSjVoVktsbF92UnY4NnpDY012VDhpa1dHelJyVTJkbw?oc=5",
+      "date": "Wed, 15 Jul 2026 22:15:00 GMT"
+    },
+    {
+      "title": "高齢者の方の交通事故抑止",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZNkl4cU4yc09Nbm5Dd1lnOFdRQnk1SG9NV0pCa0dfMDEzWThOdzg5RDd6VGs4UENaRWt1T1I2WWtiN0xFY3N6dkVkOW1FY3IzZEtRVUJFUDh1SXUzX2t5ZlBCNHU?oc=5",
+      "date": "Mon, 30 Mar 2026 09:32:36 GMT"
     }
   ],
   "official_links": [

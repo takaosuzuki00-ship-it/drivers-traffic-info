@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-07-22T15:03:20.542764",
+  "generated_at": "2026-07-22T18:07:00.990101",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 34.6,
+    "temp_max": 36.2,
+    "temp_min": 25.8,
+    "precip_prob_max": 57,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 33.8,
+        "weather": "快晴",
+        "precip_prob": 57
+      },
+      {
+        "time": "15:00",
+        "temp": 36.1,
+        "weather": "快晴",
+        "precip_prob": 22
+      },
+      {
+        "time": "18:00",
+        "temp": 34.6,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "21:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
-      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
-    },
     {
       "title": "7月22日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTQ2RVlIcHNkZFdoWFJiV0FRN3E1WmxhWUdjN3IyMHpHZ3BIWkRGSnZrS2hDS0xrZE9hd01lbHRIMldVV2ZpNHhnUjZNajFrejBMY2diZkN3OVdoR3R6NGpxODhoQVotV2tFekI3MDQxejNOUl9fQUtBS0FyWFo2cEJ30gF0QVVfeXFMTWhzMDl6b3h2dzNXZ0o1UmtXRDhSeTFhN25kSl9LMmM2QWg4UEFZTDhwMDYzSUhTRERBNVNMVE56OFNOb0hDQU4zZVI1NWxEU3BYdkZsNDd6UmsxcmVtTU9IQkYwSlZaZzB1Y1RMdUxGaC1FMEI?oc=5",
       "date": "Tue, 21 Jul 2026 20:07:06 GMT"
+    },
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "7月14日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",

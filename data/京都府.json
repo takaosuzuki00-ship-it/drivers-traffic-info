@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-22T15:02:50.436842",
+  "generated_at": "2026-07-22T18:06:40.507013",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 33.7,
+    "temp_max": 36.1,
+    "temp_min": 25.2,
+    "precip_prob_max": 78,
+    "precip_sum": 0,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 34.6,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 36.1,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "18:00",
+        "temp": 33.7,
+        "weather": "晴れ",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 6
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -43,19 +102,19 @@
       "date": "Fri, 10 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "64歳男性運転の乗用車がトンネル内でUターン試み対向車と衝突、同乗者の妻死亡 京都",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLR1ZHYWM1SHAwR0RPMU9Ya2EwclpaNnd2VEM1WGQta3I2ek1oZExBZjdpUnhBSmF4Y2JhaFpaRFlkZDZrRVRTcW5qQVdDb2F2Tkxib2pjOHZycV9FV2dJd2dVUHBVSkFYVEIza2RBQ1ZGaGVuMlE?oc=5",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
       "title": "京都府南部の人気「道の駅」でチャリティーＴシャツ販売へ 収益で交通事故遺児を支援",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UbHRkaW5aWC1UNlZJdi1YTG9ySmh6VWtiNVloUG0yMEFGempfNFhpdldsV29xY25mREgzeEhMSTJiamhjSHloZmtXQnhSSmdvWXJJQ2ZPSW4?oc=5",
       "date": "Fri, 26 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "京都で乗用車3台絡む事故 はねられた歩行者ら2人搬送",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Sm9CTkl5Qk5MMU1IdVhqZmNTUU9KTGE1MXB4OUFWRkk3ZW5nVUxKZmpPMHRkZU5rbGJub2FRWWVxaWVhR1plSFRQaVlMLTl1OXdGSzVlU05Mby1qM1RnRERzRGR4VjVH?oc=5",
-      "date": "Thu, 05 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "70代男性作業員が熱中症で死亡 国道で除草作業中",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmM1VWRJSXMyNzlKb2J2T285NHhHWFlKZFduYUowT0RzSk1xZURuNVRNSjZ3SXdRalFXNzZzelJacEo4bnY2a2FaaEY2blNNbzVWQWVIRGE?oc=5",
-      "date": "Fri, 17 Jul 2026 11:15:00 GMT"
+      "title": "除草作業中に熱中症、70代男性が帰宅後搬送され死亡 京都・京丹波の国道27号",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WMkl1Uk1nSzlnaW9sUldfZ0gzVmNRZFg1azhkQ3oxSi1DbUYyZnFzVG1CSkZ3MDItQ3pCTzhHdV9ZTDZfczR1eFpTZ1JnMzZKMUF4b2k5cThET3JNaWhQRUdEajVEbC1KU2dodGlnZ1ZmanVvcWc?oc=5",
+      "date": "Fri, 17 Jul 2026 11:50:29 GMT"
     }
   ],
   "official_links": [
