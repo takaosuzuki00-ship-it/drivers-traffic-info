@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-22T06:02:39.411952",
+  "generated_at": "2026-07-22T09:03:30.527448",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.6,
-    "temp_max": 35.6,
-    "temp_min": 25.3,
-    "precip_prob_max": 68,
-    "precip_sum": 0.1,
-    "wind_speed": 1.8,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.2,
+    "temp_max": 35.8,
+    "temp_min": 25.2,
+    "precip_prob_max": 76,
+    "precip_sum": 0,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
@@ -21,58 +21,58 @@
       },
       {
         "time": "03:00",
-        "temp": 26.1,
-        "weather": "晴れ",
+        "temp": 26.2,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.6,
+        "temp": 25.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.9,
+        "temp": 30.2,
         "weather": "快晴",
-        "precip_prob": 6
+        "precip_prob": 16
       },
       {
         "time": "12:00",
-        "temp": 34.6,
-        "weather": "晴れ",
-        "precip_prob": 41
+        "temp": 34.8,
+        "weather": "快晴",
+        "precip_prob": 69
       },
       {
         "time": "15:00",
-        "temp": 35.6,
+        "temp": 35.8,
         "weather": "晴れ",
-        "precip_prob": 53
+        "precip_prob": 59
       },
       {
         "time": "18:00",
-        "temp": 33.9,
+        "temp": 34.1,
         "weather": "晴れ",
-        "precip_prob": 67
+        "precip_prob": 76
       },
       {
         "time": "21:00",
-        "temp": 29.5,
+        "temp": 30.1,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:35:38 GMT"
+    },
+    {
       "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YaXdDbzR4MF9KUFlfeWl1TzNyN1RncGQ0M1pwa093Nk4tLTVwYmNMb0dDTndNaERfaDY5U2xCTFJ6c1oycThUSGo2R2NFNS02MDROZ3dQS1lxUXpzYjBvQWhKTktjTDZhb0JMOEpoZUpEQdIBd0FVX3lxTE5fMDRVbUFET181VFdidnBieUdmcV8xYzlFOUpwNmM4cVY5VHhYaTg1Rmk4YTBoMFdOYXU5ODJMWGRnQk1WcEQ3YXlNNWRUMEZ5N0tDZFdGMnhMQ0pscmJFd2wtV3JGWEJiOEh0TEwyaklNUl9NUzI0?oc=5",
       "date": "Sat, 18 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaURzSEttM1k0b1hSUXR4emQ1YWxvT3gwdEdseDBjMVhwMUx6RG5SX2FCaXpraGNsd1NZSkt6N1F1ZVViYnVMby1FaHNXODR3eXRaYldfQ25ZbkkzdU9VN0R2NWxlWDdFdEp1NWJMSdIBdEFVX3lxTE5oSjRHZl91Vm5rLUVZbk01Si1RcmxCN0tobGxvamZ1Vzd1NERYbDA3bFE3Q0UzazFaWEJ5dmNKck14UFo4Z1gxY2pMYkdJU2YxY0dNZTJFWng4MzFsRU1mZDRoMHdId0syWGZ0Qjkydm9LQlhU?oc=5",
-      "date": "Sat, 18 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１日",
@@ -80,14 +80,14 @@
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
+      "title": "7月19日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaURzSEttM1k0b1hSUXR4emQ1YWxvT3gwdEdseDBjMVhwMUx6RG5SX2FCaXpraGNsd1NZSkt6N1F1ZVViYnVMby1FaHNXODR3eXRaYldfQ25ZbkkzdU9VN0R2NWxlWDdFdEp1NWJMSdIBdEFVX3lxTE5oSjRHZl91Vm5rLUVZbk01Si1RcmxCN0tobGxvamZ1Vzd1NERYbDA3bFE3Q0UzazFaWEJ5dmNKck14UFo4Z1gxY2pMYkdJU2YxY0dNZTJFWng4MzFsRU1mZDRoMHdId0syWGZ0Qjkydm9LQlhU?oc=5",
+      "date": "Sat, 18 Jul 2026 20:02:00 GMT"
+    },
+    {
       "title": "「飲んだら乗るな！」危険運転の飲酒・速度超過に数値基準　改正法施行受け飲酒検問　大阪府警",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajJpaEZCN2JBank4VkU2N0k2S2UydzhiSkl3c3ZHbkdDZXF1U1ctTWhEWUxncHJRZmhtQnFEQ19EQ1VnU3pHZXo0eGNIOUxOT2FNM3p0ejRicDJrUmFIbnNoWTVGdEFGSmotQUI3aWE1ekFPLUk1WUc5NFhaZVNVZ9IBgAFBVV95cUxPajJpaEZCN2JBank4VkU2N0k2S2UydzhiSkl3c3ZHbkdDZXF1U1ctTWhEWUxncHJRZmhtQnFEQ19EQ1VnU3pHZXo0eGNIOUxOT2FNM3p0ejRicDJrUmFIbnNoWTVGdEFGSmotQUI3aWE1ekFPLUk1WUc5NFhaZVNVZw?oc=5",
       "date": "Tue, 21 Jul 2026 03:48:00 GMT"
-    },
-    {
-      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdnJocEUyMkV0dUZkVzRlYVN4dmNsUVhtWnB4TVprbFVOS29USktwM0RmUVVIaGNXTldPRlIyWnZ2R3ZQcmstNnNUaXlQS2g1QTU3RkV3Y3FNTUwxTDVaMmRPX2Y2UWxoUXluTGwzaFV0REVOaXpEdVh3NDVzTms?oc=5",
-      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

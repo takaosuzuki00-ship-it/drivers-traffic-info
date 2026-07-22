@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-22T06:02:57.570322",
+  "generated_at": "2026-07-22T09:03:46.995988",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.2,
+    "temp_max": 34.1,
+    "temp_min": 26.6,
+    "precip_prob_max": 65,
+    "precip_sum": 0,
+    "wind_speed": 3.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.4,
+        "weather": "快晴",
+        "precip_prob": 65
+      },
+      {
+        "time": "15:00",
+        "temp": 34.1,
+        "weather": "快晴",
+        "precip_prob": 33
+      },
+      {
+        "time": "18:00",
+        "temp": 32.8,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 4
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
@@ -48,14 +107,14 @@
       "date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車で飲酒運転し追突事故、理科実験で児童2人がやけど…　兵庫県教委、教諭ら計5人を懲戒処分",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFV6R0NzZmdkbklhNWhacWQ0MmxtWGlaemJtRGlIUnlUQXNlOEFLUU0xdGREeW5JSVRpemZucWpNdnc0aTRDNUFNbG5VQjJmeDM2enZtMVVCaTBDYnN1RjVlT2FMN0swbFM2U0htQXdydmp4MzhB0gF8QVVfeXFMUGFvejk5MS01V0JucV8zUWhCUVpVUzVHZXViQnFMdGxlZzYyM3BIWnZFck82TG93NGVnWmNrZVhQOW1aczY2WlJ6cjdIZlNfWklYRXlJTmVzSmJaV0dDUHBpbktTXzBuRTk2MDNnUFhxT1ZBUlpPNXFvMXRjTw?oc=5",
-      "date": "Tue, 21 Jul 2026 09:36:00 GMT"
-    },
-    {
       "title": "【速報】スポーツカーで事故死の2人は兵庫の兄弟",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZNW1VVFZSNHE5TkdDUUZwX3BWaXE0MkY1MnhqSHpQNmVyWFhyWTlzWm44Zkhxc1BGekJ0MExCMmZxb25ybjlHMm8yZw?oc=5",
       "date": "Sun, 19 Jul 2026 14:19:48 GMT"
+    },
+    {
+      "title": "自転車で飲酒運転し追突事故、理科実験で児童2人がやけど…　兵庫県教委、教諭ら計5人を懲戒処分",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdFV6R0NzZmdkbklhNWhacWQ0MmxtWGlaemJtRGlIUnlUQXNlOEFLUU0xdGREeW5JSVRpemZucWpNdnc0aTRDNUFNbG5VQjJmeDM2enZtMVVCaTBDYnN1RjVlT2FMN0swbFM2U0htQXdydmp4MzhB0gF8QVVfeXFMUGFvejk5MS01V0JucV8zUWhCUVpVUzVHZXViQnFMdGxlZzYyM3BIWnZFck82TG93NGVnWmNrZVhQOW1aczY2WlJ6cjdIZlNfWklYRXlJTmVzSmJaV0dDUHBpbktTXzBuRTk2MDNnUFhxT1ZBUlpPNXFvMXRjTw?oc=5",
+      "date": "Tue, 21 Jul 2026 09:36:00 GMT"
     }
   ],
   "official_links": [
