@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.530676",
+  "generated_at": "2026-07-23T12:02:22.643844",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 31.7,
+    "temp_max": 32.1,
+    "temp_min": 22.7,
+    "precip_prob_max": 96,
+    "precip_sum": 0,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.3,
+        "weather": "快晴",
+        "precip_prob": 45
+      },
+      {
+        "time": "03:00",
+        "temp": 23.1,
+        "weather": "快晴",
+        "precip_prob": 31
+      },
+      {
+        "time": "06:00",
+        "temp": 23.7,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "09:00",
+        "temp": 29.1,
+        "weather": "快晴",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 37
+      },
+      {
+        "time": "21:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 16
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "知事選に向け 県警が選挙違反取締本部を設置【長野】（abn長野朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdF90cWwxUEdxbHA0SWtGU1JEd2Vrd3FnbGxBWE1pal9xbm5UMHdfZ1pxQ2VHelZ4REhVcGV6cHg0dHR2RURQNkc1MHVQNll3ZkhTclRHYWxfVzhES1M2Tnhhbk1HV2UxdGZob3N3ZzdDakdIUEFEVXM0UlNXakU?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "8月9日投開票「長野県知事選」に向けて…県警が選挙違反の取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04d0NOV05JLTlHenNOZVd5SXB2MWNNRWVDRGVOOGFXWS1JUVcxcURwX1lXT3ZTaHRKMk5JS080TGhSMkdXTFVwMkRpWTBYUkRmdnlDd2Fwd0xJLXpXRGxUeHpLVm43alk?oc=5",
+      "date": "Tue, 14 Jul 2026 05:00:00 GMT"
+    },
+    {
+      "title": "「特に悪質な違反行為に対しては、事前検挙も辞さない」長野県警が知事選の選挙違反取締本部を設置 長野県知事選は7月23日に告示、8月9日投票 - nbs",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTjZJYnNiSmhNUFVyTmsyYTItaGxkcTZYbEpDRGhSb2tlcThRaU53cndMUndUaS1BQXpxcHdBczRCWlp0R1FnTWwwTFQ0cEprRjIyTmduVGpwRm1TMlE?oc=5",
+      "date": "Tue, 14 Jul 2026 08:31:19 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故ゼロ実現へ トヨタ社長ら、長野で安全祈願",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RWZRNkRiS3JmVXlELWNlWm1rUWlDUzduZmkxNjNaeEtaOFdhTEtfMFdDWjFVS01WdnJZczgxcFVmZlFTWGZ3UVV5TmZObVkzaFREWGcwaE9zSlE?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "トヨタやスズキ「スマートポール」で事故防止 長野で業界横断会議",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDUTJYNkhaNmQ1eThodjhQYUJwRVM1STR4c0xGWjBfQnluNjF3c2dULXdzTlljRVN2ejRIQUNBcXFiY25OYmRFNzJDaVFSeG85bjJzYkFkT3diUkVUTGJtRWIzZ1k3OG5XTDhndQ?oc=5",
+      "date": "Sat, 18 Jul 2026 08:30:13 GMT"
+    },
+    {
+      "title": "【長野県東御市】市内の交通死亡事故ゼロが2000日に到達",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVkZQeWMwV1FudHJheDlGN25xeWdpTDNwR0hhT21xbzVsempwNElvZ0hKQWc1Qnhfc3lGeWVablZheVpEeVJIY2NFeDNzVVczeDc0amx5WVlyYjBQdDZxenQzTUZfdGJTamc?oc=5",
+      "date": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "インフラ協調で事故ゼロを 自動運転「だけ」の限界も意識 長野で業界横断会議：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54NWZIMVRHMmh1MURPaXlBZGVxTk5BRXF0MUFSZkNnT3VyVGZNZjdEM2VNeUQzREhfTGtWVGZhX1Rqb003MWZRWVdOZ0FtTTBOajR5M0d0Y0pKZlhkclB3?oc=5",
+      "date": "Tue, 21 Jul 2026 09:17:24 GMT"
+    },
+    {
+      "title": "長野県が「農作業死亡事故」の多発で「安全対策」呼びかけ！",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvbXRJUnRXd0tveThzZUtlbFV2cXFfQTZnQ3VYT0VNeEFUVmExb080ZFg4RzFxcDF3OUZLdWN0cWtxLUhpUXg2UktqVjNVaVdn?oc=5",
+      "date": "Mon, 20 Jul 2026 03:32:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

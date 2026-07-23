@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.801276",
+  "generated_at": "2026-07-23T12:04:17.080692",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.5,
+    "temp_max": 30.6,
+    "temp_min": 26.4,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 29.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 78
+      },
+      {
+        "time": "15:00",
+        "temp": 30.3,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月23日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53ZnU3YXhPM2tBMkl2a0ZOamlSWUhXS29sdUVMdUVocmpHNlY4NGZKalJockcxaUNnTi1wQmVDMk10Zy1iMmpEMzQ5cmpDQ1hjVkM4N2FSMGV2U1U3djB4MDVhemgwWlFsYVRiSkg3Z9IBdEFVX3lxTE1jVkFpNnhqYW9wbzQ0ZC03NmJpUW9ZTVVtWGxaazhfSmhsbVc3ZXNOR1BDdmI3T0o4aGRHdXpRYXJUNFk1dXVPaGY3N3pjVmFYYXAxVl82U0diUmxoTjZ3cTRfSUlDMkhpWkVjOXpkZ3NGeUVQ?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
+    },
+    {
+      "title": "7月21日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aQjQ0U0VxaFBDNHdwMXpzd1dkejZRem1QVmRvRUM2RnZ5TTlINWpyX1cwQjgzU0FPX2psT0FoYVdPTVBfRXF6dFBlUk4xdHczUUcxUF9LMF96dVBKejNnNTRna2RxdTR5VnYwZnlzQdIBdEFVX3lxTE9JRks1amRNcnBFaWctbEQ5elFxZXBfWW4tRW14cnJCMUZPN2NZYmw1bEZRdHJ1cUZ2dHRMblpCcjJIUmhTVEd6LVZfdU10Qm5YUmp2MkstUTh0NGd3X1N6WlZpU2QwNzJybV9qM2cxS2RPeHNq?oc=5",
+      "date": "Mon, 20 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "7月21日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZLTg2ZWthSW0yVkI2NjlBM01paWpOa25aSlIwNmZFR1g5V1pnR3FfNVVMTWRVMlNYRjZ4UkR6ZnNaM1d0U3gyN0pZQ29Nak8wX1JFWkxHYi1kOGM1NmNaa1d6STgxbTNiZFBIOFVvNNIBdEFVX3lxTE5UVFlCTFlWYktsUVd0RmxTMWYyVDl6MzlnTmIwblVsUkdlRHhBWndLRkxjS0NMOVRnSGVuR1QzVlJOZEtzRnlPZ1hJWHRZVkhzWkNPRzZkX1RScjR3blZZSHhsUU96YkY3YUYtUWVMbUtKd2dt?oc=5",
+      "date": "Mon, 20 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 - oita",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qOXBfZW1aM3FYVmIxTXVvY19JTnNBa3dPQTN0aDZwWWpwSmVZbkFnSmtqVXA1Tms1LU4yX1lKOFRONTNIUzJ1eXRqQ1ZMZGdJcmJVLW1GWE9mYWw4RS0yZUtiSGx5OFM4aExWT2lPOUFCV3puYUtZWdIBhAFBVV95cUxPaTdUcTZkNUxNeldFdGhLUW5PcG83QkFGRlJkdS1XMlF0TS1hbDRQdVNod2M4NzYyQTI3NHBEQk1xV1lEU0tzeFVWalV5d3hqeVRrdU9uMmFuaHVhUlczMzhPMTU0MDJQTGZYb0xMTklRTXIyQUlVY1J4OGV0aGVMMTZKWFY?oc=5",
+      "date": "Tue, 14 Jul 2026 22:09:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "電柱に衝突 車を運転していた74歳の男性が死亡 助手席の女性も重傷 3台が絡む事故 大分（TOSテレビ大分）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKbk5LWTE2V3NCcHpMTmtZVC1MWFFNN2pyTXlDMFRtQmhybXVmSWpnZ2xQV1o2YmpQeFhhNmxpSWIzVzVpN3A5SG94MFU1MmhmYWFhN3RrWFJCNFBaVHVYTmd0aUZaUE9MUGh5Zm1CMXZYd1NocDVEbjI4aUVfSWs?oc=5",
+      "date": "Tue, 21 Jul 2026 09:27:01 GMT"
+    },
+    {
+      "title": "電柱と車に相次ぎ衝突…破片が周囲の車両に飛散 運転の74歳男性が死亡、同乗女性も骨折の大けが 大分",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVVkwV3FhY3NBTXhtU2xibFFTQ2lqMHd5cUVzTUJ1SXNiU2JCT2VDUW5talRtelE5R0ZqYlJ2NFlQUnlJNHIwNkdjU2hWV1FSUWRwTXRJVlB4RjN2VWxqa2JLUk0xclE?oc=5",
+      "date": "Tue, 21 Jul 2026 07:36:00 GMT"
+    },
+    {
+      "title": "十字路で車同士が出合い頭に衝突 1人が病院に搬送 大分県大分市",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMk5Ta2t4dzhYSlpZcjN0ZFNTdko0QmdrSHdDT2hrQUpILWhhSmk0RlE0NXVZSkYtVHprRWhRcUFqZGt3MzdtdTBkbzYtSFU1OTFLOWQ0X2hlWDRW?oc=5",
+      "date": "Fri, 29 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大分 乗用車が電柱などに衝突 運転していた男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYYnhfdTcwa3FvamQ3OE94bDVKZDJDbVA2c3oxaUNBakdXN3YzXzJYQnZBWXNwRTVFVDRLZXRCWUxWNzl1SUwxWjZkRW0xaDZmdW44X0VvY24?oc=5",
+      "date": "Tue, 21 Jul 2026 09:37:00 GMT"
+    },
+    {
+      "title": "アパートに男女2人の遺体 身元は31歳の男性と39歳の女性と判明 死亡の経緯調べる 大分",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQ1RmVUFIZGVNRG9qYlQ4ZDVyZGwxSDlMUHJGNnpteTJlbnBKaTI3X01xN2U4Rmw2RXR1aTNyYWkwNVVobWszSkVXZmE5cmp2Q003VnJJS2F3SWRZ?oc=5",
+      "date": "Wed, 22 Jul 2026 09:35:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",

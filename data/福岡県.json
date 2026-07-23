@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.735848",
+  "generated_at": "2026-07-23T12:03:59.654459",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 30.6,
+    "temp_max": 31.6,
+    "temp_min": 25.2,
+    "precip_prob_max": 99,
+    "precip_sum": 0,
+    "wind_speed": 10.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 29.5,
+        "weather": "快晴",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZlprejU2MXNnVnBaRE1tVmFZUEVNcExteEFwSHhrVXVKd3FJaXlYWmJmUHRpaEVCeHBnaUNZaDNBemtMNTMyZHlLTG02a2xZODByaHpOWHBjcVN1MklzUGNITDdnY0t2QndTY2FhRG1Wdw?oc=5",
+      "date": "Sun, 26 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NaS1aWHdnUHFSdTFxczEtNUwxTVo2dldlWG85RmgwNTJHY3BHdG9kNkptRndvTTVmaDNLTDB6LXQ5ek1DdGphX05CeUpEZHFTQUFrVE5KQ1B4YzJUNEIzY0RtVlpxZXVobjZ2YlltRWtWd1hTdmFZTFQwUThScGs?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "ドーム近くで衝突事故 軽自動車が横転 運転手２人が軽傷 福岡市（TNCテレビ西日本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Mc2ctTkNxc19hcTNON0szTUtVb05HZlpaeEdQM0Z6THp4akdDQXA0OXRSX3pqUHlMZVkxLTA5YVBUOHVtSFVMQVVDTHh4Q1NnMTU0akJrNWRwX1RycVlkOUt2ckt3T1owNXBfSWhaYUJfc3ZvOUV5V1BxWkI5VlU?oc=5",
+      "date": "Mon, 20 Jul 2026 00:00:00 GMT"
+    },
+    {
+      "title": "福岡県久留米市の国道で７９歳男性が車にはねられ意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByM1lJbFBmRGNxZFl5cm1Pb09RMjhnclFZbmZVcFZ4R1VOdlJLVFRtMXJvdFBScEtQNjh1UUhUXzU5cFJ6cnVCajhpb1o1N3h0UUhEel8wWQ?oc=5",
+      "date": "Tue, 21 Jul 2026 15:14:00 GMT"
+    },
+    {
+      "title": "久留米市の国道で男性が車にはねられ意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10SjE0NXJISUpPeVJFcnQzMFdXVUYyUlNMbmQxQzBzeWM3ZUx0Vko1T2t1aXZ3MlFKcnpGTk12Y195NWxPcmNxVWJhOEJSNnYwamhn?oc=5",
+      "date": "Wed, 22 Jul 2026 21:43:57 GMT"
+    },
+    {
+      "title": "訪日外国人のレンタカー交通安全対策を本格化、右折時事故は日本人の2.7倍、新千歳・福岡など空港周辺で先行実施 ―国土交通省",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Z0hsVTJoNlJCRi1MY0hQV3BaN1FLSmozMWFsdDdpbExFVG56Z3A1cThSd2ZpQ21GOTlOYWgwQnU4YTVtSENTU3ozQ0hXbXpaOVk5RQ?oc=5",
+      "date": "Tue, 21 Jul 2026 01:54:10 GMT"
+    },
+    {
+      "title": "男性（21）が川で溺れ死亡 先月も高校生が死亡する事故 福岡・八女市の星野川",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vaHk2b2NLYlNBMTJTTjlPWTFOVTVwVm8weVhJbnZDQ0NWRFIyTEdpMldQUHVIdll2akpTU1RjM1dOczkzdzREc3ZEUmhodE5OcGFOV3l1RQ?oc=5",
+      "date": "Wed, 22 Jul 2026 19:18:23 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.619158",
+  "generated_at": "2026-07-23T12:03:17.494306",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 34.0,
+    "temp_max": 35.3,
+    "temp_min": 25.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 35.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92TWs1SThxS0tCTU9aaVpSZWRuaWxLaVBvTEx1YktXWFBrbzhRQUZCSDc2Yk9leTd2SS11aEhxSXF3aU9oTXRuX0p0cXpROEhPNEhXVktELTJDcnhPWWlNbUNaSjJUYko4ZGFncFMxQnFiQdIBd0FVX3lxTE5DaUVMbEV3dWYwMkUwVFF6bXRWcG9PZTduMlptMkp3OUpJUnpsLXU4V2FicU5yelJuWE5hd1hIaTFpZzZBWnlqTjJKME1Qd2JOaW9HeUo5UnhKREpsUm5qUkZhQzRGcTRsRlkwcTYzTHdBWWs3V2FN?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0RIQlR4VjV3Rk9KdkFUaXE0SDhua3FJRXA5bTlmMTJ3YldrdVlzY2pFZFlqQVF6STZ1SXB5WWs2cDdzYzQyNl82WQ?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "和歌山県 漁業取締船「みさき」就役披露式",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZ2pMMC12cmMydG83aXktX1ZBbzRubzJpa0NaOFdXSll2ckJKMlllV1pzRk1pZTUweUhSaHd3bkM3b0U?oc=5",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "れいわ・山本太郎代表、大分市の高速道を時速149キロで走行 速度超過で摘発…罰金9万円、90日の運転免許停止処分",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhUWUyYThyV3dYNzZWOGg0SW9RSFF1ZUUzc3U2SDFiQ0h0dU1MVkREVzF1c19aVHNOWVNRRUlHeERfMENjeDFmS2lKWHZhWDQ?oc=5",
+      "date": "Fri, 03 Jul 2026 12:22:01 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOTlHRmt4VExKVE00OTNqZTQ0NmhFUFlIOE8yZERlbGtURDA4ZmZXNU91Sjdhc3BPUDVqM3pGWG1Yb2FvN1FJTlNKU2tQQXByVGNHcFZHVmloRmNheHN1cndLRnoxakhk?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【多重死傷事故】女が無罪主張 「てんかん」でない可能性を主張 死亡女性遺族が申し立て再捜査を経て起訴 事故5年目の初公判で 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQmNLU0hMaDdzRE1XVUpFb0pGb3ZmX2VmWmtRWFhHRVFhUTQyV081X3E0X0toWm5icFRtWEdqa2FCTDh5b3ZyVDUxcDAyNGpnN05GeVhiVUVMTHZUWGhHQWRKTEtJUGo5bFJqR0lCWVJPSnZqaFB0Z3M2Rjk0RTA?oc=5",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "川遊び中の男子高校生が死亡 川底で発見、おぼれたか 和歌山 [和歌山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVlc0VXZZb3N3UzhwMjVPNDd2b1RaMU5hcHJDVUx3MDJzU3p3Vk5hVlRIc3ZNeGZVWVo5Wmg1TnBhZXk3ajNiMU9PbnVCOFBBaXJJcXVuTld4S2xMQUM4ZGdYRG5STGM?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "和歌山・日高川で水難事故 遊泳中の男子高校生が溺れたか 搬送後死亡",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOWFtVE00MUxLQURVSkNZUHpGWmlCVGRMckpuclIzc18xd0ZvcndEOGliOHRWa3B4czQ3XzhqZWtnWHBCVXAtQWswN2hhY1RxNWRHdzBUV2NlYW12a2t3WXRqbWozOGEwMi1jaVY2T0o4ak13NEE?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "和歌山 日高川で泳いでいた男子高校生死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94aU8yb29TekdfS0FLaEFYX1FwM2JYazY3R1BfZ19xbDE0amZrUFdzMHhUbFpEWlBTbldwWDc0MjdYWm4wUE1WN0dtWDE2c29IRkdoNjUzV1Y?oc=5",
+      "date": "Tue, 14 Jul 2026 12:37:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "和歌山県警察 公式サイトを検索",

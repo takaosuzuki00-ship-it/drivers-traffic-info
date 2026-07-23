@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.639758",
+  "generated_at": "2026-07-23T12:03:25.778869",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 35.5,
+    "temp_max": 35.5,
+    "temp_min": 25.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 35.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 32.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YaXdDbzR4MF9KUFlfeWl1TzNyN1RncGQ0M1pwa093Nk4tLTVwYmNMb0dDTndNaERfaDY5U2xCTFJ6c1oycThUSGo2R2NFNS02MDROZ3dQS1lxUXpzYjBvQWhKTktjTDZhb0JMOEpoZUpEQdIBd0FVX3lxTE5fMDRVbUFET181VFdidnBieUdmcV8xYzlFOUpwNmM4cVY5VHhYaTg1Rmk4YTBoMFdOYXU5ODJMWGRnQk1WcEQ3YXlNNWRUMEZ5N0tDZFdGMnhMQ0pscmJFd2wtV3JGWEJiOEh0TEwyaklNUl9NUzI0?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LZzZqTEtpZDVhYmZfMzRKOVR4RDZDb0VQemd5Zlpha2NyYmVRWEUwLWNVOE1zdExpZ2pCYWFQcmhOeVlmVnlUX3ZzNkRNUE5ybU5ObHNLZkdjUjc1NVlmeHF6NWV6TTBERFo2bHduSdIBdEFVX3lxTE5zREowUldKellUQmwxakpZVkVkX2xESnZXS0JpdG9LM08wa2NIZl9nand5Mkd3aVF5VWdyUkZmbjh0RGc1UjYyaXJ0eDk1cWZjdm1LUjc4RHVqMGg2WGh3cERubXpfdmVuQmt6eUtOT2tWSU5m?oc=5",
+      "date": "Wed, 15 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月14日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NaDN3eW01WXZBVUNieFR0RFJUSkNGYXFZWEtkS2d5cFNpVk9TU2M4OWI4S0ttVnVvcUNPVDhtOFE2aGh4ZC04WFdUNHp4N1RzZngya0NkREp6WUNzYThNMXBtSlRRRDAxUVc2M1cxQdIBdEFVX3lxTFA4dXlZWWFBdk1QbGo0emd1OE0zTWV5QkVkWGZ0bHc1M2V2ZWVBY2QxZld6bjk3Y3JBejE3Um1ZajJtQVROWDFkOVpMcy1Zbm1KYjNaNXVMdldjY3ZZQXF0ZWRYeU1aWjhGcHVCWDN4T0g3RFF3?oc=5",
+      "date": "Mon, 13 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FDM3A4NXpBa2REdlFER3l3Z19uRUNTN1otY2l5WEpqVzVYMlFiaWE4bXJIQ1RBbFpMMGpUNVdJMzR6TzdJZ1JFM1c0bHJxOXZPQkRlWFhPWVBYcml1V18xckwxbkxSaVVlR0tKM010cVJ3b0diVUhRSDdyaDMwT2NLZWxtb2s?oc=5",
+      "date": "Wed, 15 Apr 2026 10:50:51 GMT"
+    },
+    {
+      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWXpDZ2d4V0FHMWNaMTl4bEpmMU5aaDdVSkUwTnBqMXBLT2tac1RVVUJqSThpY1V2RHBOSC11LVhOVk1mUW5vVTJLRQ?oc=5",
+      "date": "Fri, 19 Jun 2026 10:33:13 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【交通情報】多伎・朝山道路 出雲多伎IC－大田・朝山ICの上下線で通行止め⇒解除 事故２件発生 ２２日",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdy13aW50ODRaMUJETXNBejd4TVZ5dFNCMVk0ekFSRHh2aFRMLWtILU1YcVZ3c2xOcThoVXZ5dnV2alJhZDlOVVUyNV9qUDR2d3RjWlM2QURfUGM?oc=5",
+      "date": "Wed, 22 Jul 2026 10:30:00 GMT"
+    },
+    {
+      "title": "車と自転車が衝突 自転車の女性が死亡 車を運転していた女を現行犯逮捕 島根県大田市（BSS山陰放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RU9pREVGeVNIYVZ2UkZZS1hkZU0zLTJvaldkR0IzN09VaHVacVFfclV3dkJabjdLdkpiWndKYXJDaTJGNzhOeHBSbzAtUnVMMFJ3dVpRU0dGc0NsX0poU3lFNjNKUGxOX01hT2ZBRXVBMno4ODk1UFZNdGxEUnc?oc=5",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "楽しい夏を安全に。７/13から島根で交通事故防止運動スタート – 日刊Lazuda",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56SnZscE9fUVNmZkN1VTRLVzljSkxBYzMxSUFpRVN4ay1FWTM2aGFRSFJNNElHaXVmRllfN2RPbHpoR3hZc2lrNWNGU19lN0pZOTM0?oc=5",
+      "date": "Sun, 12 Jul 2026 05:59:35 GMT"
+    },
+    {
+      "title": "車と自転車が衝突 自転車の女性が死亡 車を運転していた女を現行犯逮捕 島根県大田市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hcEFoMGlNM3pDbUg4R0RIbjMyRml4VHBxTnhmSVpOS1kyU3lIQmJWNWNfclJqbzZUSVU3cmMzcWtnWlJ5enhIb09TcmdiZUJJTXFaY2d1SnVHUjdyLXFITEUtUEZVTWs?oc=5",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「サポカー」体験や反射能力テスト 高齢ドライバーの事故防止へ交通安全教室（島根・浜田市）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDajdUam1RTXVhaVpLblBKVUpEWF83RVEtZ2JaUUp1SmdVMWVzbmxWZDVYa1dtdFNOTnBBcHVLTW1NT3dKRnQ2NVFHUXMydw?oc=5",
+      "date": "Fri, 17 Jul 2026 09:55:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "島根県警察 公式サイトを検索",

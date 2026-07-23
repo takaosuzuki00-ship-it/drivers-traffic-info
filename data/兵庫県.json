@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.603485",
+  "generated_at": "2026-07-23T12:03:07.947453",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 32.7,
+    "temp_max": 35.1,
+    "temp_min": 26.7,
+    "precip_prob_max": 39,
+    "precip_sum": 0,
+    "wind_speed": 6.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 35.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 33.0,
+        "weather": "快晴",
+        "precip_prob": 39
+      },
+      {
+        "time": "21:00",
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "7月15日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWSlNpd0NtcTlmX24tRzNLNWR2Zmg1d2M1QVJMZUJ3RzBUajJsRnlTUWVycUxMYWRoRXE3MnFxZ0ZMTkNXZmVuR0VFQkNIUFBqMGF3OWZKUQ?oc=5",
+      "date": "Tue, 14 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警察官2人を懲戒免職 麻薬取締法違反の罪で起訴",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tYVgteG95MWR5Tk1sdDM4dnZZaThkcnRCQXZSdmFnVjlEbEJwdjBhQkhNLVBlSWRET2NGeURtTko0aFk0VTlwaGtOOWVtTXNsR3JUN19GcWtGTWRFN1R3TzVVaER0dzNa?oc=5",
+      "date": "Fri, 28 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BR0dvZU1QbjdfSTB5ck1jaVYycGMyYkxNLWFNeTFJYjVoOWlVTjhLdGdFcUdGdDdWSGpQRjR1OHA2YUxYbF9UM25oTUVId0kyc3BrTWJERFNoSjR2dW5keERfWlloaDBHTVYweWtuSTNwbG1sYVdoXw?oc=5",
+      "date": "Tue, 14 Jul 2026 22:04:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "知人の男子中学生にわいせつ行為や傷害疑い 14～15歳の少年3人逮捕 兵庫署|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LWGlhZ2R6dE14ZlZUQWluaEE2ZnV3R29wQUdyTXRBZklJZXFPcHRHUFFVZ1o5aUdDY0RIdTJsTzVlRWg5a01mSllDOU42WnhCeEVfZmpGejlUTWhfMks0TXdCR2cxeFNJLVg0?oc=5",
+      "date": "Wed, 22 Jul 2026 11:26:21 GMT"
+    },
+    {
+      "title": "国道を横断中の歩行者が車にはねられ死亡 兵庫・高砂（神戸新聞NEXT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1LTdzT2F6cGVMSFRGYnhwa2FkclZ1dFdpWkVkNUZNWk92MGhucllHbjJLNkcxMy1ucV9PUXhXRUZoRUVPb1F3QXctZExqeFZIdjlRN1dGbDVFYU5qVlFJTE9FU085RFg2NElUVEhqSXdqYlJ1UG8wX2x2blRteVk?oc=5",
+      "date": "Sun, 19 Jul 2026 00:05:33 GMT"
+    },
+    {
+      "title": "交通事故で６０人死亡・全国ワーストの増加率…目立つ「速度超過」原因、バイクで緩いカーブ曲がりきれず",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYT3ZXZkRLdE5faVVkazhZTjZsblZzNnllSER4UHJXUzYxZlF6NHN0bE9zVDRvUHNmR1dFU0Z0Y1o1bV9BM2gxZnNRX2xjZ2t2ZFZFUGw4WHI1VHVlR2lCZ0NSU1lRNEhUNmUzaUk2Z0Qwdw?oc=5",
+      "date": "Wed, 08 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故増加で兵庫県警が速度取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Z2xVSHpvWnJmVE5iNHJOdEJYS05VNUc3dnAyS3FZNVBxSnBRbVZWNXJrMS01dVpvTFR3OTVRODZRbW5BaDVMR0h3TndtaExWRHVtSnBDM2hTZ2RWdzFmTGNBcDN0RGd2?oc=5",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "JR神戸駅で普通電車と女性が接触し死亡 最終電車含む41本が遅れ 1万2千人に影響|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LSl9LekVCdWY0bm1reXlLSE9tendhSnJVel9OY20xQ3JJa0pyazBWc3JmaVNNVWpRNVJnTkluUmEtU1Z1T2NFdHREZU5RQUwyVi14NlR5bkxCa19oME5rdDRxelZIVFk5VlBJ?oc=5",
+      "date": "Tue, 21 Jul 2026 15:11:46 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",

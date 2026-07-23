@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-23T09:00:17.552204",
+  "generated_at": "2026-07-23T12:02:43.057049",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 36.2,
+    "temp_max": 37.9,
+    "temp_min": 25.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 36.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 37.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 35.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 30.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月23日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWDRGVU1EdVhHdXFpMnFFUXpldDhMS2RDRURwc0xtOTI0WWFRa012RnZiUml2T2g4X0NUVjNxeVV4c1RCSFNhRnFHdjhnbndGLTRTQ1MtSkc3N3FJWm1Ic0pWR0pJZF9mQk52aXYyWdIBdEFVX3lxTFBPTmMxU0F0TmJYOWs2M3dqTDNyejZWTXV3a19IaHp4T0FnZ0lOUU5faWJETGJNN01hZUdZZGw1TlhNOWJZU0pKYnowQW8yN25OSHFfanN5OER0U0ZWODBIcVZQSnBiOGl0SmdscHZ4ODZSWHlG?oc=5",
+      "date": "Wed, 22 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月22日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTQ2RVlIcHNkZFdoWFJiV0FRN3E1WmxhWUdjN3IyMHpHZ3BIWkRGSnZrS2hDS0xrZE9hd01lbHRIMldVV2ZpNHhnUjZNajFrejBMY2diZkN3OVdoR3R6NGpxODhoQVotV2tFekI3MDQxejNOUl9fQUtBS0FyWFo2cEJ30gF0QVVfeXFMTWhzMDl6b3h2dzNXZ0o1UmtXRDhSeTFhN25kSl9LMmM2QWg4UEFZTDhwMDYzSUhTRERBNVNMVE56OFNOb0hDQU4zZVI1NWxEU3BYdkZsNDd6UmsxcmVtTU9IQkYwSlZaZzB1Y1RMdUxGaC1FMEI?oc=5",
+      "date": "Tue, 21 Jul 2026 20:07:06 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
+    },
+    {
+      "title": "７月２０日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bnVpWnpmQTZPWFdoV3lnclRSNDZlYWRQR1J3QW02R2pUTFRXT2JWMHpLZ00xQk14ck84ZVBQdU5DdFFPUUE1T1hyM3p4LTZkVi1lbFdCM3QwZ0pzN3Fac0d2dFF6c2tweWx6YjlZdUxDQdIBd0FVX3lxTE9CaGU2aW96b0E0SnhwSlJZNzZYMWR2eFJuZlBoV2FjZVBvNmdOWmdaLXE4eW1PSUh4QTRqTi1FQjJVWFpQemhGTGtwSG9TOXJOU3JpSnkzNTQyVkk1cV9nR0laR1Z2ZURhUld5Z2JmSmVJNllBQ3BZ?oc=5",
+      "date": "Sun, 19 Jul 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "小学生が交通事故死、現場に信号を 小牧市議会、市長に緊急要望",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMV29tWkpnMnE0LWpSaXotVldxVllVSDBCemRkY1BLMEJQajBqVGpyUm5xeDR5SEN4bnpHRG9odzRZd2pmQ3FpUElrREh3ZzlwWFRTaHVCc2FER0tFVEhIUkNn?oc=5",
+      "date": "Wed, 22 Jul 2026 20:05:00 GMT"
+    },
+    {
+      "title": "「人が落ちてきた」マンションから男性が転落 近く歩いていた女性死亡 事件・事故で捜査（テレビ愛知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfdDh3MHk0WUsyZi1ScVBWTmh4X2MzWmpuc3pXVDc2VHNqTExIbnpodzQxa19pcTZrenk0Y1hhMTM2TkV6M192VDdoMXEyaDlZb2dlY0Q0ZGJBa2I2Wk8yd3htTTdIRHZJVlliTVNrNEdWRDRXNnRPcG9sajYxVE0?oc=5",
+      "date": "Sun, 19 Jul 2026 08:47:01 GMT"
+    },
+    {
+      "title": "小1死亡事故を受け、警察官や教師・保護者らが事故現場で見守り登校　愛知・小牧市",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Mb2NlQWlYU0w2dFZwZnhyc1c2N1FVc2hlQmRERVRld3YxcjEyb1FLR2t0NTFycHNmWnBial9kOGlYUVZaSFVVYVhjUVBDTWhyQVHSAWRBVV95cUxQbWc4cGk0TXJqeHNMSFNYbWpxRW4xUE52X3BvekFyV2ZkdTFpWFhTVGo5MzdkS1V3ZzJNT2hLaS1paDJIeW96Z1hkSFppcXAtRzh4TXE4YW9mTjFVMzVwemJnN1FF?oc=5",
+      "date": "Thu, 16 Jul 2026 03:30:00 GMT"
+    },
+    {
+      "title": "愛知 ことしの交通事故死亡者43人で“全国ワースト” ｢自転車の青切符｣などルール徹底呼びかけ ｢春の全国交通安全運動｣",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTmtlc21MUk9sUms0QlNmSEprd3lfVWJuNlJDVGVTSnQ0anZfYjZYYk0zUDlPQm4yZlFtbFlScTE1TWNFZ3cwZ3Z5aURsXzVybWFkbFZveWNjOVVhVlpN?oc=5",
+      "date": "Mon, 06 Apr 2026 22:13:33 GMT"
+    },
+    {
+      "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",
