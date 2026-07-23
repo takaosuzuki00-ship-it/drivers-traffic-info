@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-23T21:02:02.559814",
+  "generated_at": "2026-07-24T00:01:26.837565",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 28.1,
-    "temp_max": 35.1,
-    "temp_min": 26.2,
-    "precip_prob_max": 100,
-    "precip_sum": 0,
-    "wind_speed": 5.4,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.9,
+    "temp_max": 32.0,
+    "temp_min": 25.3,
+    "precip_prob_max": 97,
+    "precip_sum": 0.4,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 27
       },
       {
         "time": "03:00",
-        "temp": 26.7,
-        "weather": "快晴",
+        "temp": 26.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 27.0,
-        "weather": "快晴",
+        "temp": 25.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 32.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "12:00",
-        "temp": 34.8,
-        "weather": "快晴",
-        "precip_prob": 24
+        "temp": 31.2,
+        "weather": "晴れ",
+        "precip_prob": 67
       },
       {
         "time": "15:00",
-        "temp": 34.0,
-        "weather": "快晴",
-        "precip_prob": 100
+        "temp": 31.8,
+        "weather": "晴れ",
+        "precip_prob": 94
       },
       {
         "time": "18:00",
-        "temp": 30.5,
+        "temp": 29.4,
         "weather": "晴れ",
-        "precip_prob": 41
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 28.1,
-        "weather": "晴れ",
-        "precip_prob": 14
+        "temp": 27.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
       }
     ]
   },
