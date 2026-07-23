@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-23T18:01:13.702170",
+  "generated_at": "2026-07-23T21:01:50.881549",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 31.9,
+    "temp_now": 28.5,
     "temp_max": 35.9,
     "temp_min": 25.4,
     "precip_prob_max": 100,
     "precip_sum": 0.1,
-    "wind_speed": 7.0,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 35.9,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 35.0,
+        "temp": 34.8,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 31.9,
+        "temp": 31.7,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 84
       },
       {
         "time": "21:00",
-        "temp": 28.3,
+        "temp": 28.5,
         "weather": "晴れ",
-        "precip_prob": 82
+        "precip_prob": 47
       }
     ]
   },
@@ -80,14 +80,14 @@
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
-    {
       "title": "移民捜査で車両検問停止",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtcXpGTVBMSmxsZFZ3cm11dTQ4VzY5bmZpRHJINW9qeHFqd3BzNXVvdVg5RGlBX0JHbS0xZ0JuQjBfX3NYeWJDaWphTVR3Q2ZpZzdvWjZ5VQ?oc=5",
       "date": "Tue, 14 Jul 2026 22:04:00 GMT"
+    },
+    {
+      "title": "速度違反取り締まり中に「可搬式オービス」盗まれる 埼玉県警、購入金額900万円",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UZ1o3MDFnclBhWWdiYlI1UV9tdUFRWHEzMnZrY2ZwOTlLMlduLWd2SzdFX2ZBOGdRdmxZelZ1a3VESXBLU3pWN0dyalppN0h6cXdSSy1CS2xCbjl0QllTX0s0R05kcnZXS2V1RGxjc1FLYnNjTkE?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -95,11 +95,6 @@
       "title": "独自＞外国人運転者の人身事故、埼玉で急増 年間558件、5年で3倍 高い外国人比率 「移民」と日本人",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cnNQMUQzSFd5cjlfRmR6V2FtaUp2czRsdnVjOUZHWmNyeDJoYl9UVDlzUXF4Q25GdHMzelhNNDJYVzVERmdhQzZDSm5zckxFZlpfa1RaZzhDQ1Y0TUE3Z0F0SjN3cEVDSW9OZThNQVhpZTV3ZGc?oc=5",
       "date": "Sat, 18 Jul 2026 06:30:00 GMT"
-    },
-    {
-      "title": "令和8年夏の交通事故防止運動を実施します",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
-      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "埼玉で5人死亡、40～70代の男女…7日間で5件の死亡事故あり 警報を発令 5件中、4件は貨物車両が関係する事故",
@@ -115,6 +110,11 @@
       "title": "埼玉で死亡事故6件…多発警報を発令 6件のうち3件が午前中に発生、二輪車絡みも3件 今年初、昨年は6回発令（更新）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5welhJYjZsSVg3MFRobllXd3F5WGZUQzVvZFRDT0wtay1TUUZrWW8yVmxBVEhhX0VReXc4ZElBR3FYdlZEZ0RqbG5nUERNa0RLNUdpQno0Z0NoUmR3ZHhVOXExRXVieEYzU2FiWVJNbHlkY2ZqV2RFN1dpdDhiZG8?oc=5",
       "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "令和8年夏の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
