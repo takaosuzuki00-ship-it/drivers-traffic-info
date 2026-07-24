@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.054496",
+  "generated_at": "2026-07-24T15:03:32.949821",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 34.3,
+    "temp_max": 34.3,
+    "temp_min": 25.3,
+    "precip_prob_max": 29,
+    "precip_sum": 0,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 34.3,
+        "weather": "快晴",
+        "precip_prob": 29
+      },
+      {
+        "time": "18:00",
+        "temp": 33.7,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 29.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "7月24日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CLTNyQTlWc3VQeTNhSkNyd3lCay02SjZhQ3ZGNlgxb3ZfNldvX1d2bi1MZ25HM3oxdFc5WWFFVVFwcWxTZm5QcUJpVXp6eWR3UFVSbk5xM1pXT1RxdkdUbXdFV3VUOWJTQ3VpYjU2VdIBdEFVX3lxTE9DQnFZT3BQTjFRNno0eUtLaW5nUUNlOVNhY3lrTXg3RHhhLTBFZzZGMExjSFM2dTVOcWJRbFk1YUxpRzFKVGpZRWpab240UlQ2Q2xqMDl6Rl96bGVsRUdJMlhrZDlicmVCNFVrSjAyS1VqUzdz?oc=5",
+      "date": "Thu, 23 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54c1U4c3llSTlCZ0M3NlQ0MXJUWXpCdEJZNk9xbW5RaFlabHZQYWhZbHNJTHNOTXJMMEQ3UjdYNFVvM3pyLWJPYl9lS3BTdTVxZV9lN0h0cG5hZw?oc=5",
+      "date": "Wed, 15 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "７月２３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92TWs1SThxS0tCTU9aaVpSZWRuaWxLaVBvTEx1YktXWFBrbzhRQUZCSDc2Yk9leTd2SS11aEhxSXF3aU9oTXRuX0p0cXpROEhPNEhXVktELTJDcnhPWWlNbUNaSjJUYko4ZGFncFMxQnFiQdIBd0FVX3lxTE5DaUVMbEV3dWYwMkUwVFF6bXRWcG9PZTduMlptMkp3OUpJUnpsLXU4V2FicU5yelJuWE5hd1hIaTFpZzZBWnlqTjJKME1Qd2JOaW9HeUo5UnhKREpsUm5qUkZhQzRGcTRsRlkwcTYzTHdBWWs3V2FN?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「車と車の交通事故で1台が横転している」 広島市西区中広町にある交差点内で出会い頭の事故 横転した軽乗用車に乗っていた女性2人がけが（RCC中国放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GSGs3ZGNDbDk0eGNVbjBOazBrdUdZMWFMZk1zeHE5cllHMWt1aWxpSUlVeExNend4QTM0czB2Zmt6RU50dUplc1h6Y2NSd3BTQzhLMTlJT21qWFkxaGpHbWY5dnlNTjIwdzl3V0tiZ015OE9xS3BtN09DRHMxeVU?oc=5",
+      "date": "Sun, 19 Jul 2026 03:57:16 GMT"
+    },
+    {
+      "title": "「一生許さない。娘返して」 東広島の女子高校生死亡事故、法廷に響く父の悲痛な声",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRjJ4eF9iUEdfUFRjRlIxdUNLNVNWRGlicjN5YXZMZXZhMWFsWWFRSG12T0ZiTjhRbU1pVXpmY2U5dnFYa3Blb2NpYzJxQlhMb0hCWTV6QWUxUQ?oc=5",
+      "date": "Thu, 16 Jul 2026 08:33:00 GMT"
+    },
+    {
+      "title": "交通事故で車いす生活の中野由佳さん 始球式の夢を実現へ（広島テレビ ニュース）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbVNBU253TUdCYnV0SjVEQXRObmNYbVZjZUdkY0V2cUlNNXpOSmVnT0lFVXVVVXpHdERzMGtBMWVkYkFhRlhvRDFubEFaVDhkQjQtQVg2NzV6bHJvNURNZkhsdFlOa3ZSbnQ0VmQzcElESEl0dHkwMkZmVnF5bmc?oc=5",
+      "date": "Thu, 23 Jul 2026 10:21:00 GMT"
+    },
+    {
+      "title": "【速報】広島中心部で6台絡む事故 約2時間通行止めも",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEcFpLNjUtVDJwVEhOd2Z3YWdFekZFOHBLRUVoNTduWW9UbTJORERiS3A0bnlQSkhiSlZaMWdXbUlwbHVNSmFROEx0a2xNLW8zMnk2OEV1Z1g1VDNqdkF0Tks1UUlzYkEtZGxIOWlmeVQ5QQ?oc=5",
+      "date": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高齢者を支える「シニアカー」の注意点は？ 7月に庄原市で死亡事故も（広島テレビ ニュース）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XTWptdGN0OWVwU1pxWkNiZDBSQnVyNzhRMDd4UlBBRFhGYlZNZ1VJSVZkNzdJblZIVEFWQ0VVN3JUaHRPUzM3ZEo4dVNGUXMyb1BPc0tfYW14WHE2UkNjQ09wNHBQNDduSW9LVU5acGlKZ2tGNldHX3ZndGhaX0E?oc=5",
+      "date": "Thu, 23 Jul 2026 10:20:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

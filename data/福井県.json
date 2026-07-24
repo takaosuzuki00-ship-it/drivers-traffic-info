@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.837769",
+  "generated_at": "2026-07-24T15:02:06.411388",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 32.2,
+    "temp_max": 33.0,
+    "temp_min": 22.9,
+    "precip_prob_max": 59,
+    "precip_sum": 0,
+    "wind_speed": 11.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.0,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "15:00",
+        "temp": 32.2,
+        "weather": "快晴",
+        "precip_prob": 59
+      },
+      {
+        "time": "18:00",
+        "temp": 29.4,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "21:00",
+        "temp": 27.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tTGFhSWp0cVdOLWFhODRTbHgxVUt2eGlyUmxzUXNDRTIzbGUtOUphX01Jdy1DdTVGNF9fSHczR1dWRkJkSF8tMllrUmVmbFpRNUtlcWViV1ZiVW5aamc?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１２日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aajB0a0IyekVBQWNadXB0ck4xNG1kbDJwNFkwdV91UUh2NWlLMk5wZktGTGxXZjBIZU4wc2F5Wm1MTGZ1akJ3Zmx6WQ?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWU9ncmZ1Y3E2NWtnZEc2TzczcGZDc0Z1Z0FVODFYb0I2UmJtcUsySVBpTkVJZFpCMUlrTWlvNVNyOVdGR29uUW5nTk9IQVlWWlg1SVE0OURGREF3X2c?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wSXhnb3IzbW1nSXFhcmtTRE1PLUgxMnhLU250TUp5N1Z0U1h6TWNsSnFxazZTV0cxRmVabG5yVm1lcEpySjEzUnJmWHA2aWlWTDR3NjNfbmlaYkJhTXc?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１６日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxRGJlT2pfZGFBc0xlMVVLYmpsV1hJRnFKa2wtbUUzRjJfYXU5RDhsb0tzLWMwOFliemRKNjNPV2E3RVNxRFRqUFZ6VHFacDFOM3JRWUMwZ0RaalZwU3c?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "シニアカーの高齢女性はねられ死亡 道路を横断中に…軽自動車と衝突 勝山市の県道、通称･鮎街道（FBC 福井放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbjF4dnpKUmJ5MUZXa0h3NE1YNTlsb2JsYlN4ckk2RTJmbEwzT0YxR2YyRmswRWR5bkZYOU1YNVA2NkIzWExBT1lTWi1QYkN5SVdBTmFXenJLZ3JJVmpDRVp5OWFIbG1Ld0h1WjVwN1d4ekFOcXh1QjFEUGhpOEU?oc=5",
+      "date": "Thu, 23 Jul 2026 09:41:00 GMT"
+    },
+    {
+      "title": "【速報】あわら市の国道8号でトラックと乗用車が正面衝突 1人がドクターヘリ、3人が救急車で搬送 現場は片側1車線の緩いカーブ",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jVkVsNTlRaFI3Y2Q1T0Jua1pvQ3lKSTRvZTN6enlFSlpPa0FnRHpRdFEwSDMycHlIMXUwSUZzSHhZRnhsR2t5VXRGLVZUZw?oc=5",
+      "date": "Mon, 20 Jul 2026 10:20:00 GMT"
+    },
+    {
+      "title": "石川県の北陸道自動車道、事故のため通行止め 7月20日午後",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84R1BOYTFPeWZtdldnenFSY0tsY3U3ZGdWbW1XX3FmUjVSanh2dFlPdmFRYnM4N0xuUzhYTGN3N3FmbmRCNDFOVWY3UQ?oc=5",
+      "date": "Mon, 20 Jul 2026 09:17:00 GMT"
+    },
+    {
+      "title": "シニアカーの高齢女性はねられる 道路横断中、意識不明の重体 勝山市の県道、通称･鮎街道（FBC 福井放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTWtPYmJiODJiZF9MUEo2bEFLeTlxUGF3bjc1dG1pRGZ3NTBMSkNybDJFVzdGUjVhWjQ5dTVwNDJQbUIwYzFydllDczJWbGxuUUZsV194d1JESVRCSnJEbElqeUxVazY4MVhPRkNncEZOQm1LVFhuWElCUE9WdU0?oc=5",
+      "date": "Thu, 23 Jul 2026 03:11:00 GMT"
+    },
+    {
+      "title": "福井県の70代女性、熱中症で死亡か 救急隊員到着時にはエアコン作動しておらず（福井新聞ＯＮＬＩＮＥ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbXpYeC1ZSi04NWtWeFB4eFQycmdKVFNLSzJwWXBlNHY4UlhEWVhtc0FaVmdseDFabTFiZ0tNUHBWVGVxbGY1VmdhZDVMQTlFaEFRQk9DdFZnaEVFYUdzTHU2NmVOZWFEN18wcTVtLWlrTkw5OFI4c25zUWo4c1k?oc=5",
+      "date": "Thu, 23 Jul 2026 21:40:52 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",

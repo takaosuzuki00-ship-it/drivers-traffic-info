@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.817328",
+  "generated_at": "2026-07-24T15:01:44.152867",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 29.6,
+    "temp_max": 31.7,
+    "temp_min": 24.5,
+    "precip_prob_max": 96,
+    "precip_sum": 4.4,
+    "wind_speed": 7.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "03:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "15:00",
+        "temp": 29.6,
+        "weather": "霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 27.1,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 65
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CLTNyQTlWc3VQeTNhSkNyd3lCay02SjZhQ3ZGNlgxb3ZfNldvX1d2bi1MZ25HM3oxdFc5WWFFVVFwcWxTZm5QcUJpVXp6eWR3UFVSbk5xM1pXT1RxdkdUbXdFV3VUOWJTQ3VpYjU2VdIBdEFVX3lxTE9DQnFZT3BQTjFRNno0eUtLaW5nUUNlOVNhY3lrTXg3RHhhLTBFZzZGMExjSFM2dTVOcWJRbFk1YUxpRzFKVGpZRWpab240UlQ2Q2xqMDl6Rl96bGVsRUdJMlhrZDlicmVCNFVrSjAyS1VqUzdz?oc=5",
+      "date": "Thu, 23 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２６年７月２４日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pZFN2Y1BpYVNUa25qS1Q2dVoyZlZYRXVyTHR6TlkxR1ZQZ29ydkY1TFNieGRNdldKdm1CLUEyMk9qeWx6NkZPNkRpM0xUTVdLT1dROXZ0aHQ?oc=5",
+      "date": "Thu, 23 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２６年７月２３日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84ZlFHQ1lHOEl1RWR0eS1nTFNSdnVkNGs1NE1mdWpjSzN4VHNJbDdYT1dZNW5iZTJubzBtY3M2MkZtT2tCazc3NG9lQThXYy1iZ0tEOWRaVDc?oc=5",
+      "date": "Wed, 22 Jul 2026 23:38:30 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LMGE3NkZPWUhRaG1vSC1taU1CbG5Kd0pjaldfRUdjeTVNaXQwOEtkZ3dzNWY4RVV2V3JLR0t4R2VOMVAtYlNLZ1M4NVZ2dlZhc2c?oc=5",
+      "date": "Wed, 22 Jul 2026 09:22:32 GMT"
+    },
+    {
+      "title": "千葉・野田市の国道で交通事故を起こし殺害しようとした疑いで逮捕の男性を不起訴処分 千葉地検",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iamNTQUpFYXJSWFY1d3ZoN3dUVUVJMXF1QTR2dk05X2tycmdjYlR3TDFlcl90VE92OVBfNEZfZG5MOEp4N0tOOC1rTmF3bUE3WDljT0tqNA?oc=5",
+      "date": "Thu, 23 Jul 2026 09:00:54 GMT"
+    },
+    {
+      "title": "一般道で時速100キロ超か カーブ曲がりきれず…歩道に乗り上げ支柱衝突 同乗の高校生ら4人けが 千葉市中央区",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcVExUlR5TzB4V0YzOWRFTkZCeWMwLWVhMWh4UE1sWm11QXQ0RTdYMVRHX0JKY1U3LU1RQkV0ME5TLTV3dC1PRS1tXzQ4eXdnRlJpX0FEM0Q3NFd2NjhlYTZIUFQwSlFXSDIzM2FqT3NuRE5pSElNWjFXbFA5UFU?oc=5",
+      "date": "Wed, 22 Jul 2026 03:00:04 GMT"
+    },
+    {
+      "title": "所属選手が交通事故に遭う…千葉が報告「速やかに警察へ連絡し、必要な手続きを行っております」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14N29FOFRoRmFyLVJ0MFVfaWU2MTd3enBrSFNwMlRETXlJSm5rOVVVZHR6Z2JSZ3RCYU0yZ0w0Q0hhNndNUlNLV1JYamFveDhjUko4eUwwSnE0SnlDTGkzNUNfM29DU1M2eUpOVmNR?oc=5",
+      "date": "Wed, 22 Jul 2026 11:27:00 GMT"
+    },
+    {
+      "title": "「夏の交通安全運動」期間中の事故　千葉県内２９７件　４人死亡・３５７人けが",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3VpUjlNYi1XNjBuUlRabFRBWEJUcjBlOEtkcUV1WXRmakE1NUpiLWZKYldYWU42ZW5SVnJaR2Vrb29SMjRwVC1oTzRTdXJQZ25FS3MtYXpuamdmSGhTUm5TM0VoOVdHS0pXdDVkamRiWXhRWGdDVjFFTEljQlZIeTQ3RnBpcWfSAYcBQVVfeXFMT1d1aVI5TWItVzYwblJUWmxUQVhCVHIwZThLZHFFdVl0ZmpBNTVKYi1mSmJXWFlONmVuUlZyWkdla29vUjI0cFQtaE80U3VyUGduRUtzLWF6bmpnZkhoU1JuUzNFaDlXR0tKV3Q1ZGpkYll4UVhnQ1YxRUxJY0JWSHk0N0ZwaXFn?oc=5",
+      "date": "Thu, 23 Jul 2026 00:48:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.254276",
+  "generated_at": "2026-07-24T15:04:14.116875",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 30.6,
+    "temp_max": 30.6,
+    "temp_min": 24.9,
+    "precip_prob_max": 66,
+    "precip_sum": 0,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.2,
+        "weather": "快晴",
+        "precip_prob": 49
+      },
+      {
+        "time": "15:00",
+        "temp": 30.6,
+        "weather": "快晴",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 29.4,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CLTNyQTlWc3VQeTNhSkNyd3lCay02SjZhQ3ZGNlgxb3ZfNldvX1d2bi1MZ25HM3oxdFc5WWFFVVFwcWxTZm5QcUJpVXp6eWR3UFVSbk5xM1pXT1RxdkdUbXdFV3VUOWJTQ3VpYjU2VdIBdEFVX3lxTE9DQnFZT3BQTjFRNno0eUtLaW5nUUNlOVNhY3lrTXg3RHhhLTBFZzZGMExjSFM2dTVOcWJRbFk1YUxpRzFKVGpZRWpab240UlQ2Q2xqMDl6Rl96bGVsRUdJMlhrZDlicmVCNFVrSjAyS1VqUzdz?oc=5",
+      "date": "Thu, 23 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZlprejU2MXNnVnBaRE1tVmFZUEVNcExteEFwSHhrVXVKd3FJaXlYWmJmUHRpaEVCeHBnaUNZaDNBemtMNTMyZHlLTG02a2xZODByaHpOWHBjcVN1MklzUGNITDdnY0t2QndTY2FhRG1Wdw?oc=5",
+      "date": "Sun, 26 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "橋の上で倒れていた女性が死亡 頭部の損傷激しく ひき逃げの疑いも視野に経緯を捜査 福岡市中央区",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oS2s2MzVPam5TLVl5eGd5bDR4eDFRY3M1RzBjd1JybEV5M2hwTFowT29ERW04MEQ4dTY3QkxoWXlxQUlIT3ZFSEwtNi1tZVBkaWliU2ptVzhRNzlUTjFncTZfMA?oc=5",
+      "date": "Thu, 23 Jul 2026 23:38:26 GMT"
+    },
+    {
+      "title": "橋で女性倒れ死亡 正座の体勢で前かがみ、ひき逃げか 福岡・中央区 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoYzlsdGthQm55YkFSZWFHMlUzSWl1U1JfUmJiTWViSjVvc2RZX3BWOU53Y3VKXzJDU282Tml0VjduTkhVTmwzajNLeEIzLTIwUlhyTGNrQUY0SWNmLVNUbUpWZHRoSEU?oc=5",
+      "date": "Fri, 24 Jul 2026 04:00:00 GMT"
+    },
+    {
+      "title": "【速報】福岡市・平尾1丁目の原吉橋でひき逃げか 路上で女性死亡、頭から出血 福岡県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjLWZoZV9sSXMxbnBEWnVFUkNNcXQxdl9FMmJWQjJpREJLcVdiSVFzRmY4VXBrdHpqMUdEQV9SeUUwU19lZlhpc25hZW1RNFplR3FxNm1B?oc=5",
+      "date": "Thu, 23 Jul 2026 23:50:00 GMT"
+    },
+    {
+      "title": "橋の道路上で女性死亡…ひき逃げか頭部ひどく損傷 福岡市中央区平尾（KBC九州朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSk12OFJjZmF5dHhTcHE1ZEZ1eENHMmFhVkRBOXpHLUxRYzluY3Bic0t6YmpKR1E4UF92c3BiSmdWTl9fdU5XY1RuNUMyWm1nV2ZZQ1UtVTFoT1pWMkkzbGYwQXRqeHc1cW9DQ1NwczUyZ0FWNTEwS2dQRWVyWG8?oc=5",
+      "date": "Thu, 23 Jul 2026 22:45:03 GMT"
+    },
+    {
+      "title": "福岡県久留米市の国道で７９歳男性が車にはねられ意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByM1lJbFBmRGNxZFl5cm1Pb09RMjhnclFZbmZVcFZ4R1VOdlJLVFRtMXJvdFBScEtQNjh1UUhUXzU5cFJ6cnVCajhpb1o1N3h0UUhEel8wWQ?oc=5",
+      "date": "Tue, 21 Jul 2026 15:14:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

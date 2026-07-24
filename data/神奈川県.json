@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.823384",
+  "generated_at": "2026-07-24T15:01:50.938137",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 30.4,
+    "temp_max": 31.5,
+    "temp_min": 25.0,
+    "precip_prob_max": 98,
+    "precip_sum": 2.4,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 31.0,
+        "weather": "快晴",
+        "precip_prob": 75
+      },
+      {
+        "time": "15:00",
+        "temp": 30.4,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 73
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が“不適切な”交通違反取り締まりか…2000件以上の違反を取り消しへ 担当の警察官ら複数人を書類送検へ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wU0Z5dXRnREJHOE8ybFZXY0VUQWNiakJYdlFwem1NY1o0Q1dZQS1iRVlvcFdtVDgtREs2UHdSa09qdjFUdUxVLUFOaUxXNGNoanNDMXVTZ1lYbjJRZkxrVEdnZ2lNZGJXYmx2U1ZjT1RWQWthU01hek5ydnYzcVk?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "約2700件の交通違反取り消し 3500万円の反則金返還 神奈川県警“不適切交通取り締まり”で40代男性巡査部長ら7人書類送検 部下は「意見が言いづらかった」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzSHFIQjRLMEZrSGJTUFhWcHJGUW16SjZ4NVItekVsaEVqbDNoek5XWkF4LVZ6MHBEQnlqdi1ldFhhcmJKRzEtUXNGd3NHdHdtdG16b1pGMA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "仲間とツーリング中に事故 神奈川県川崎市の23歳男性が首を骨折する重傷 バイク運転中に縁石に衝突 緩い下りの左カーブを曲がり切れず 長野・原村",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vMm9nMmtFWXJzVVFVT1U0NWJjYXdLUGdrTVNYUVRfQ0NQQnNmb21qRWVMU3lrM2JDN0NfaGJxZmQ1R09wbHRzMGh6eElQdw?oc=5",
+      "date": "Fri, 24 Jul 2026 05:08:00 GMT"
+    },
+    {
+      "title": "3歳児が道路横断中にはねられ死亡 運転手の男を逮捕 横浜市の市道 [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zOFp1Vkk5OTNfY3lHd1pESFVxRXctb2I0aWs1d0tycGZrWTZCSERvODMyekluQ3NXTHRKV2lSbnF2TTVrdzZVVHByeHNvOHF5SWlGNlRhTlNDdWVXMF9zWnZ5MGJsbWc?oc=5",
+      "date": "Sun, 19 Jul 2026 23:30:00 GMT"
+    },
+    {
+      "title": "国道1号線の橋で2台の車が衝突・炎上で一時通行止め 午前9時すぎに交通規制は解除 神奈川・平塚市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUZGdCNDM4Y2w5YkYyaEdjalpmbnEtb3BoQmxCbURTOWRfWE1ueks3VTdUYUVlaDFQbEJSeW5VLWNMX0xaU3kyR0tsNTdwRzJiSlFVa2xiMA?oc=5",
+      "date": "Sun, 19 Jul 2026 00:30:00 GMT"
+    },
+    {
+      "title": "横浜の市道で３歳男児はねられ死亡 ライトバン運転の５２歳男を容疑で現行犯逮捕「私がひいたことに間違いない」",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KM29odlZscmNxLUllZ0dhQ0dHRVZMVkNlX3V5MEZaSkJVempCbkI1dmVfS1RHUmM0enh6M2R2Tk1fZzNDTF91dEpyUXRhcnFLbk1FblJGOUFWWXAxQ2lQLXlVR0dxU1ZUSzZ2aU9MQ0x4My1RTDJkeldLajRFUkk?oc=5",
+      "date": "Mon, 20 Jul 2026 01:51:01 GMT"
+    },
+    {
+      "title": "２５年の交通事故死者 神奈川が１３９人で全国ワースト 前年比３０人増",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYM3JaTk1MdFdzMTJ3MGR5WGNJSGMtZXVtYnI4X1VRMDNzblFGUld4blJxZnczTFJ6aGtIRXBxcTNSeUgxOFNhdVMyTlRtaFZvcDFOUnQtUUZVLTdaY3JjLU94dGVobWs?oc=5",
+      "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "神奈川県警 月次取締情報(横浜16+川崎7箇所)",

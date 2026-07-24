@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.165780",
+  "generated_at": "2026-07-24T15:03:54.925376",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 32.7,
+    "temp_max": 33.0,
+    "temp_min": 26.7,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 9.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.2,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 32.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 32.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "香川県警が「自転車等指導取締りマイスター」指定 経験豊富な警察官が適切な指導方法を若手に伝授（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaWZTQVpWbUI1SGZVSHBiemlsaWxYSUFlWGxKLVZfbEFYRTRqX3M3QVU5U3UtbWhMYzdJTkU2X003a2JlRm9JVXA2UWxjbzJCSDVsckFJVmI1cWthbXVta1dXYkQ2MWpOTk0wamljVnlfd0YtSUJnZ0ZiVS1ETjg?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "飲酒検問中に職務質問で発覚…自称・接客業の女（23）を現行犯逮捕 酒気帯びで軽乗用車を運転した疑い【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOYVRmbDFCUUItM3RvVDdwYm9IMmJCVjIzaHlTWlVsWkNaZ2VwN3poa1dPVGVlZmZfd3hpd3RhMnNBbTlhOU1oYTN0TWFIVEk1ZWFJdzlUWnA4QQ?oc=5",
+      "date": "Tue, 21 Jul 2026 00:26:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽自動車同士の追突事故で同乗の中学生けが 現場から逃走した疑いで41歳男を逮捕 香川・善通寺市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ME5MSG50Q0wwTWJZTU5ON0dhazRHY2RMaTMwQWs3R3VmaDZLQ1pleVhhWUgyYVZTSmRQRWF2TndKNzR3QVdEWE1Od2hyaF9Z?oc=5",
+      "date": "Tue, 21 Jul 2026 02:51:53 GMT"
+    },
+    {
+      "title": "ひき逃げの容疑で建設業の男（41）を逮捕 男子中学生（13）がけが【香川】（RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZVi1Fc1d2UkxaRmhrX19xVmI4TDhRMzBoVHRvek11QklyWUFoRnVLeGZweU9uenZnSy1uVVFMYXp0NWdPWEZCd0VEREh4NWdKRVowQTA2RGlmNVZaSFJNYzBpNDNzLTBhRjM2cXlnSVczMVQzVFBzUW53YjNDcVU?oc=5",
+      "date": "Tue, 21 Jul 2026 02:22:14 GMT"
+    },
+    {
+      "title": "香川県立高校の部活動の移動実態調査　レンタカー使用など規定抵触が15件　磐越道バス事故を受け",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GY012VWhWNFp4b0owQTRLTDFvM1ZETGd5Z0NGQmNTQmZfYzk3dVhRbXZyZlVuQWNvVVRjTEYwR0dFa3JweEdYOFNnbVYxMV9pREFGcGhvVlRRYWIyQ2lWVExhclM4Y21CVUlLYmFpODPSAXZBVV95cUxPZkRtXzVnblBsUGhwY1NGRWVtZWRWVUYxUEJ0cmFxeVJBM2lDZW85X3pjMEc1UC1kVG5sV3pHckVTbm5POVFNa0wxYkgwWDNYSGdvWU1zQ3RreTRtWl91Y1IxLTJ6NkN1RmRHM3J6OW9udVV3MTlR?oc=5",
+      "date": "Thu, 23 Jul 2026 09:56:00 GMT"
+    },
+    {
+      "title": "香川県 2026年上半期の交通事故死者9人 前年より1人減 事故件数は増加",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15YU5yTVVwbVBqdTlOdDg1SEpTekR0d2FaTUtfUXNUQXBrNnl6ZGRObGFnSk5LdjBQck5mbk5zc19mYW1VMC1vRXJ4dGxOVDNQ?oc=5",
+      "date": "Sat, 18 Jul 2026 00:43:00 GMT"
+    },
+    {
+      "title": "下草火災で99歳男性が死亡 野焼きの火が燃え移ったか 香川・丸亀市（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CNmxfOTJLbHhUQktHaS1ROWxhWVluTGRwVmFRbGRqdzlWSllVRm01cDZheEdiaDRjaE5Rek9oNzhwV3ljT28wdnh4VWpTNzBlS0ZiR3dzUC10WWtTbGR4N0U5WWI2aWNrXzcwQU04VFJmSDFmREZwOTdoSDkyVjA?oc=5",
+      "date": "Thu, 23 Jul 2026 00:38:25 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "香川県警察 公式サイトを検索",

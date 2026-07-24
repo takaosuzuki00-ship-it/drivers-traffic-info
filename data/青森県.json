@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.759946",
+  "generated_at": "2026-07-24T15:00:54.050067",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 28.8,
+    "temp_max": 29.0,
+    "temp_min": 21.5,
+    "precip_prob_max": 74,
+    "precip_sum": 5.6,
+    "wind_speed": 11.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "03:00",
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 53
+      },
+      {
+        "time": "06:00",
+        "temp": 22.0,
+        "weather": "弱い雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "12:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月23日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YMWprZ2dyazNRZkRyVVRHd2NUVFYtaFg2TGdWUVBONkVKM0pUOHpSWGZyLWVnYVppelRLaFE1cUF1Q19aY1pVd1lxQXo2VG01T3MtR2xEWQ?oc=5",
+      "date": "Wed, 22 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "7月23日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWDRGVU1EdVhHdXFpMnFFUXpldDhMS2RDRURwc0xtOTI0WWFRa012RnZiUml2T2g4X0NUVjNxeVV4c1RCSFNhRnFHdjhnbndGLTRTQ1MtSkc3N3FJWm1Ic0pWR0pJZF9mQk52aXYyWdIBdEFVX3lxTFBPTmMxU0F0TmJYOWs2M3dqTDNyejZWTXV3a19IaHp4T0FnZ0lOUU5faWJETGJNN01hZUdZZGw1TlhNOWJZU0pKYnowQW8yN25OSHFfanN5OER0U0ZWODBIcVZQSnBiOGl0SmdscHZ4ODZSWHlG?oc=5",
+      "date": "Wed, 22 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "青森自動車道 事故処理のため通行止め（青森放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5bnZoYzBjczM5NTYxb1NtQnFKOUhyS29od0d4NE4xcTF5d1pkRDhtckdIUm1FWlJ2RVNpNGdkclM1SHVNNjExX3EzZmt0ZFBRVVNDVlRScUlhbndydU0ySXBVUTNVbnBvM2ktQ2ZlYzNOaFVMd2tJbGJtbDZOWjg?oc=5",
+      "date": "Thu, 23 Jul 2026 23:38:01 GMT"
+    },
+    {
+      "title": "青森市浪岡の県道 交通事故のため通行止め（2026年7月23日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMDdZWkEyQ0JTSDEtYVk0Z25iWUJ3b284TGE4QzRVWjFiTTFKU0E2RG5iSFRZU2h1ZFh5a3dhbFlHelRhMm5iZzljcjFfYXRtbTQtb2NhS0VEWWxybXdiaGlsYTV1YzNrLVdEUnlURGJOLVIwM2JFV3d2UU5oSmM?oc=5",
+      "date": "Thu, 23 Jul 2026 07:43:01 GMT"
+    },
+    {
+      "title": "【速報】ひき逃げ事案とみて警察が調べる 男子小学生と車が接触する事故発生 青森市浪岡（ＡＴＶ青森テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92TzFudW9CNUo5RDdROV9fc1NNLXZwM1AyT3E0akJ1QU43bkN0S25kTndpVUdRYUx2QVVyTzFGNjNsdV9LWHg1V1ZGVEw1d3hTeUhXbDg5THVyOUtuNnBOMmpZWENmODA2YUZSSnFQRGZqR2ktTkxPZWFINmo1bW8?oc=5",
+      "date": "Thu, 23 Jul 2026 08:12:18 GMT"
+    },
+    {
+      "title": "【速報】ひき逃げ事案とみて警察が調べる 男子小学生と車が接触する事故発生 青森市浪岡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSU9IQm9zVjhubHRUeDNSRGczd29XMXZZMlJDb0JxUGRXMEdlNTJKNVh2bVZMaGdiM0diR1hHMzdzTHVvSVBPWDhpLXJiTjAwd1lNOTloVV9JUQ?oc=5",
+      "date": "Thu, 23 Jul 2026 08:11:00 GMT"
+    },
+    {
+      "title": "青森市の学習塾で交通安全教室 夏休みに交通事故にあわないよう身近にひそむ危険性や自転車マナーについて学ぶ「自分の命を守る行動を徹底してほしい」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRHRHQ0xEU2ktcXFkVzROUVdPMHNubEQxVGs4eUpDekdfd0lHcUpFRGItTGFpY3VMQUVvOTNwZlNBNFhZeXptSTNhOFB5MVdoSlFuOGY1MlRJZWNmbHdPZU5YUEtLbkE?oc=5",
+      "date": "Wed, 22 Jul 2026 21:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

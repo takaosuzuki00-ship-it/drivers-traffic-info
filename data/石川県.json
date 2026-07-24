@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.834096",
+  "generated_at": "2026-07-24T15:02:01.725658",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 29.8,
+    "temp_max": 30.5,
+    "temp_min": 23.4,
+    "precip_prob_max": 75,
+    "precip_sum": 0.2,
+    "wind_speed": 12.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "15:00",
+        "temp": 29.8,
+        "weather": "快晴",
+        "precip_prob": 75
+      },
+      {
+        "time": "18:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "７月２４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDZhYk9yanhzRTJQNUQzRUZNYTJMbVBHZUxuMFp2UWtqVHljZ19RRUNQVzdHaWVJMXJ5NEhJUXBITlVxOWlsd2hXQ3NPbDBRLVdudUM4WHo2ZTZteTFRbDREWVltQkFheW9idkRLYXhWMjM4aFA0VmVmdkpWTUxsTmNpa1PSAXdBVV95cUxNdnVaeXBSVDNBRnd4ekdHdlRiQl83SE1EaWxmQ1VZaDRPMzhlcERWeVRCMDlseDY3QTEzR285VHEwdGUtTS13RF9RWVpKbGxDS0xHWS1HNWxkcUxyNXk0OFM0SUhwQmtLTTBSX3gwMUxjU1dndXZvRQ?oc=5",
+      "date": "Thu, 23 Jul 2026 20:04:43 GMT"
+    },
+    {
+      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "未解決のまま18年 金沢市久安で会社員の男性が何者かに殺された事件 遺族と警察が現場周辺で検問し情報提供求める",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFanduWFNzR3ZGbkZrY3h3eS1iZVFCWU9feXZQQTBoUlo0dzJLWWVkSDJFZWlRaEtuMEwzN3RrYmRwZ3dMQjR5c2VPZFdQVm5HanRVN1NSTVI1X2NfMFZUOGhqMnF2WE0?oc=5",
+      "date": "Sun, 28 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "石川県の北陸道自動車道、事故のため通行止め 7月20日午後",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84R1BOYTFPeWZtdldnenFSY0tsY3U3ZGdWbW1XX3FmUjVSanh2dFlPdmFRYnM4N0xuUzhYTGN3N3FmbmRCNDFOVWY3UQ?oc=5",
+      "date": "Mon, 20 Jul 2026 09:17:00 GMT"
+    },
+    {
+      "title": "石川県の北陸道自動車道、事故のため通行止め 7月20日午後",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42UmhFamdpeXpYcEdMMTRvTEZjR0F1SldQRVN0eG1WaGdPeHFkbGN3N3lESDNXenNEb295Ul9HLXNNaEgxekVkMkswc0o5MEFjMDRXS2dwa2FKNkhKcFE?oc=5",
+      "date": "Mon, 20 Jul 2026 09:17:00 GMT"
+    },
+    {
+      "title": "交通事故続発防ぎ感謝状 石川署 玉川の鈴木さんら３人に",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZTy1iZXNBaWROTTJvNlRiSGpadzJCU1hwRkhZMUNuaHBCODFkZmNIX2twQ2hXZXhISnJWczhQWVpUb3dyazhGaUwzenFjVGM?oc=5",
+      "date": "Mon, 20 Jul 2026 02:00:00 GMT"
+    },
+    {
+      "title": "10トントラックと出会い頭に衝突 ライトバン同乗の76歳男性が死亡 石川・能登町（2026年7月3日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNTUNYYUFVOS1URkJtN3UzYWhqbjEwRWNOSm1VdkxHMU5CaFdxQ1FVRV84VG5OdjhZVVBwckY3R3JRMnhqNXd2QjZsRUF0N2RDSjFhMnRsd3R5SDUybHVrQm53bExOOHNZQzVCNnYzX01Rek1QeG9TRUNVQmx2V0k?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故防止！交通安全こども自転車石川県大会に48人の児童が参加「一人一人がしっかりルールを守ることが大切」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5adlZYN1ZoeFV3OHJWaHEtRGM3a2FvVHVXaDBCR1NjX0gyTHRzeHlSR1RoTGNYRjV6SWJRX05kd1VrVDhKWGlvM18xRG5vbWtoazFNWWU1LU03Zw?oc=5",
+      "date": "Sun, 05 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "石川県警察 公式サイトを検索",

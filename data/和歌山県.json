@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.958875",
+  "generated_at": "2026-07-24T15:03:10.327783",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 35.3,
+    "temp_max": 35.3,
+    "temp_min": 25.7,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 5.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 35.3,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 33.0,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 29.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92TWs1SThxS0tCTU9aaVpSZWRuaWxLaVBvTEx1YktXWFBrbzhRQUZCSDc2Yk9leTd2SS11aEhxSXF3aU9oTXRuX0p0cXpROEhPNEhXVktELTJDcnhPWWlNbUNaSjJUYko4ZGFncFMxQnFiQdIBd0FVX3lxTE5DaUVMbEV3dWYwMkUwVFF6bXRWcG9PZTduMlptMkp3OUpJUnpsLXU4V2FicU5yelJuWE5hd1hIaTFpZzZBWnlqTjJKME1Qd2JOaW9HeUo5UnhKREpsUm5qUkZhQzRGcTRsRlkwcTYzTHdBWWs3V2FN?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0RIQlR4VjV3Rk9KdkFUaXE0SDhua3FJRXA5bTlmMTJ3YldrdVlzY2pFZFlqQVF6STZ1SXB5WWs2cDdzYzQyNl82WQ?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "和歌山県 漁業取締船「みさき」就役披露式",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZ2pMMC12cmMydG83aXktX1ZBbzRubzJpa0NaOFdXSll2ckJKMlllV1pzRk1pZTUweUhSaHd3bkM3b0U?oc=5",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "正体判明！最新のレーザー式速度測定機LSM-200はオービスではなくネズミ捕り用だった!!",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15UjJ3SWlGdlhEVTNsZkkzSWdkanFZQ0t5d245YVB3UUpGX20zQ3NjbmVUcXpMd1phekxDNkVqT0pzN01fMXltUGt2T0hOWkVf?oc=5",
+      "date": "Wed, 11 Mar 2020 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOTlHRmt4VExKVE00OTNqZTQ0NmhFUFlIOE8yZERlbGtURDA4ZmZXNU91Sjdhc3BPUDVqM3pGWG1Yb2FvN1FJTlNKU2tQQXByVGNHcFZHVmloRmNheHN1cndLRnoxakhk?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【多重死傷事故】女が無罪主張 「てんかん」でない可能性を主張 死亡女性遺族が申し立て再捜査を経て起訴 事故5年目の初公判で 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQmNLU0hMaDdzRE1XVUpFb0pGb3ZmX2VmWmtRWFhHRVFhUTQyV081X3E0X0toWm5icFRtWEdqa2FCTDh5b3ZyVDUxcDAyNGpnN05GeVhiVUVMTHZUWGhHQWRKTEtJUGo5bFJqR0lCWVJPSnZqaFB0Z3M2Rjk0RTA?oc=5",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "草刈り中にため池へ転落か 70代と80代男性2人が死亡 和歌山 [和歌山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hVERZRkw3eU5meHN5czZHX1RxNGhJTTJQX2RuMS1lTXZSX1laRGJaRjRCb29uQzBhVXVLTjhsS0I3aTJ5T29OMXVNNHZRcUR0SVlTQ2NHa1p4MXFUVGVONzEwTEJpZGc?oc=5",
+      "date": "Thu, 23 Jul 2026 03:33:00 GMT"
+    },
+    {
+      "title": "和歌山市 ため池で２人死亡の事故受け注意喚起の文書送付へ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fQWJvSDVpZUFXX1R6WW1JVFVWZks1aFBfMG5WUURhVjA5YkFFVFdOX3ZVcnVzYmg5azZjOEtESkJ5cW56V3c1dlU2azJEWS1JNDgzcVVEQ28?oc=5",
+      "date": "Fri, 24 Jul 2026 04:53:00 GMT"
+    },
+    {
+      "title": "ため池に転落した高齢男性2人が死亡 草刈り作業中「呼んでも見当たらないので…」 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bk8xZ0dFZjd4MVlybzdHUkxySjNZRTFsQjIyZEh2UEo1c3ZZMjJkWkptcVhWOENJMnpRcV9KcE9LZ1pWUlowSDNDNnBWWTZRMy02Q19LTXlzbnpIUThUTVQ2b2tpQml0aWpXd3A1T1ItVDhRZ0VwamdXSGMxbms?oc=5",
+      "date": "Thu, 23 Jul 2026 08:27:23 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "和歌山県警察 公式サイトを検索",

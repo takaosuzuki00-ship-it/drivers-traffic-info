@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.854745",
+  "generated_at": "2026-07-24T15:02:23.964936",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 31.0,
+    "temp_max": 32.1,
+    "temp_min": 26.3,
+    "precip_prob_max": 59,
+    "precip_sum": 5.2,
+    "wind_speed": 8.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 32.1,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 28.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "弱い雨",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "7月21日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZLTg2ZWthSW0yVkI2NjlBM01paWpOa25aSlIwNmZFR1g5V1pnR3FfNVVMTWRVMlNYRjZ4UkR6ZnNaM1d0U3gyN0pZQ29Nak8wX1JFWkxHYi1kOGM1NmNaa1d6STgxbTNiZFBIOFVvNNIBdEFVX3lxTE5UVFlCTFlWYktsUVd0RmxTMWYyVDl6MzlnTmIwblVsUkdlRHhBWndLRkxjS0NMOVRnSGVuR1QzVlJOZEtzRnlPZ1hJWHRZVkhzWkNPRzZkX1RScjR3blZZSHhsUU96YkY3YUYtUWVMbUtKd2dt?oc=5",
+      "date": "Mon, 20 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "連休中の事故防止へ 静岡県警高速隊・交機隊が交通取締りの強化の出発式",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTkZmTlBwNlNfOFEyTy1SVEVOMWZwZGowcWl2d3dOeFE2b05icWh6SWl5YnZ3ZVZIQm43RXdMbktOREtjU1NNOVhYalhNOHEwQjBvZUczVk1Qd0k?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "「不偏不党の立場で厳正な取り締まりを推進」衆院選前に選挙違反取締本部設置＝静岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wX0p6QmZzRkZuZk9Ga05RRTZ4c0VFVG9vX2YxMURXa0JheFcxSnR2ZVRMRUZ1RVdDVDlKc3VCdGhfN2d0U25VdVg1aTgybDA2a2ZNRUtvRQ?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通規制解除 静岡県掛川市の国道1号パイパス 大型トラックと乗用車の事故で一時通行止めに＝静岡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LTVE3N05YUTRBdmVKRmZMZkhPcERMSjRVbG9qcjN2dHU0bk5OXzJyTEZHVHByZ2tyc3pQOEMzS2NTRkg5eEgzTmVFcXYtR0xpSVpnUk1DU21MQQ?oc=5",
+      "date": "Tue, 21 Jul 2026 17:26:00 GMT"
+    },
+    {
+      "title": "夏の交通安全県民運動　期間中の交通事故は４１０件　前年の同期間と比べると２７件減少　広報、啓発活動が結果に繋がったか（速報値）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40d3poTVhKS3pVRENVSkhrM1V4WmtDTWdrcE4xREVvX29Ud3dTT1ZORzBhYllFZXc1dTE5dlVLVkQ3Nmd0ZXc2a29EX2l0Rm10VFJsekdZbS1XQjZUTTZTb2RtX0pOV2NLbUwyb2NOS1RmSVYw0gF0QVVfeXFMTjR3emhNWEpLelVEQ1VKSGszVXhaa0NNZ2twTjFERW9fb1R3d1NPVk5HMGFiWUVldzV1MTl2VUtWRDc2Z3RldzZrb0RfaXRGbXRUUmx6R1ltLVdCNlRNNlNvZG1fSk5XY0ttTDJvY05LVGZJVjA?oc=5",
+      "date": "Thu, 23 Jul 2026 10:41:00 GMT"
+    },
+    {
+      "title": "「レーシングドライバーの目線から高速運転は危険です」県警の広報活動に女性ドライバーのレーシングチーム「富士山静岡レーシング」を起用 夏休みの事故防止へ安全運転呼びかけ=静岡（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ualktdk9jaFl1djFoSU1nRkdiRlhabUhhc094VjZVRnFDbmFscU8yU3hOZnB2SkUyRWc0ZHRsb3VtcS1mLU9DTnQ0N0IwTmZuRGcxa3gxby1BdE5TTmRtczNYSzVXT3RSMlZqc1BlVHVjdHBNUXRYdjA2b0JVRjQ?oc=5",
+      "date": "Tue, 21 Jul 2026 10:49:13 GMT"
+    },
+    {
+      "title": "交通死亡事故ゼロ1200日 静岡県菊川市が「交通安全優良市町」に",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RU3kyZVZFekVxZ1REUnNESUNZcC12d0JpaEhGOE5TQy1qXzVVdVlnS1RZbkpOSDJnWFg3NkVYaXBpcVhDY2FETEJfWGhIY2RDMTU0djFUS2czenBTSDlKMzJiYU9qOVk?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "静岡県内で水難事故相次ぎ2人死亡 河津町の海開き前の海水浴場で73歳男性が 沼津市ではダイビング中の58歳男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WX3haaDVfUVlRblY5U0lJN2Z1dUVXTXpXZGFoZ1B3ZUtGVFBmUmhPX1FKZkRxM3RpUDg4LWt0TFRwX0RLd09Xa3VMN3c1Q3V4UjAwUnp1TnBGNkVOR1BMak5xZVhfZVp3eG05d3QxUU1xUGF2VGt4RzBVRlUwUEU?oc=5",
+      "date": "Fri, 24 Jul 2026 02:58:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

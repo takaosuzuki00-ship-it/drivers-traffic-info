@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.143550",
+  "generated_at": "2026-07-24T15:03:48.829985",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 34.7,
+    "temp_max": 34.7,
+    "temp_min": 26.9,
+    "precip_prob_max": 92,
+    "precip_sum": 0,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.6,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 34.7,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 32.6,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1hQ1l4UWUyZHBURk9vR0pJVmh6bmdBU1hBcDRiZGVpQjlOVFQ1NjY5bC0wSHVtVmQ3akYxOC0wYjRqQk9NRTZUQjJXNDU5ZnNERU9yLXVCTjVCTDA2U01NTk8yUURmVWFvZTlWY2JhZVFIY1h5Y085b2k5Ylp3dDRpWQ?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "麻薬取締法違反の疑いで男を逮捕 鳴門署",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvcVlSTmRzampLRUhtM01YMGVHTVNtVFJELXZicWdENjByWldhSTlhTGNCdFJTQ1hsRU96d2NSbjlXV3dHX2o0eHd5N1VPcTNkbDBGemxR?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】2月はスピードの取り締まりにも十分注意！「交通取締計画」をチェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjFfWWJWTlFpZ0VJQ0ZtWkl0alk3WjRDeDBuUkotdmpUaFI5M2FPR1l1SmtuVkVjYVkxNFAya3BNc2ZIUnZWcFlaTWx0ZWl6QzhCdDljTHZYeU5yM2p2bDlMcng2dHFSMjA1SmNqUmtCZ1JEaVRCbm9fbWxKblZhVQ?oc=5",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "スピード違反で男性巡査長を処分 徳島県警",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80RTZ5UEQ4V0ZWaUV4WjdxUzhGdGY1MnhZMDJTb0taQ0E1dWpYQzhwTEtZNmVQUVY4NGpfTFpTd2xad0FqenBYZEJrTzNyRXF2ZF9IS2Z3?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "阿波市で車2台衝突 信号待ちの中学生に「ガラス片」あたりけが【徳島】（2026年7月9日掲載）｜JRT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalVURHhBeTkyU0QtS1VCb3YtODVEY0tOZUx1WHVMdDVuY3ktZVlXbWZWdGpXRnRVWkFFRGFIN2RET25BaEN4bHduUmRpdERRakpaVmpxQ05WVl9rX1lfYTE0dlc1NFgtU0t1TjVlcUw4YjJsSThTbkc3bkVYTW1nWElrUFRKcEU?oc=5",
+      "date": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「冷静でいようとしたが色々なことが頭の中を駆け巡っていた」――隊員が振り返る１４人死傷事故…トラックと高速バスが正面衝突、無線連絡に緊張が走った消防車内",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lNDZhTjhaRUNUYWd4TldEOFZJdTllU3FCSHlhYzFJRmQzSEYyYWhVSW00M0I3N2tCa0FZOW44QVRYU1R6Z1l3YU44ZEVhb3VROUJVU1dobndpelVGYVo0UEFpd1o4SlVnd2NVMlBETHExdw?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車両火災は摩擦熱による発火 徳島道2人死亡事故から1年【徳島】（JRT四国放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jRGVpcFdNcnlJTVk0LWZSN3JEaUxNWVQ4cVM3Vi0ybnBhZHZ5VnEwek1FZVdnWWlSMkZUWC1oMk5HNFFzcU0xWnZRUTk4TjR0dm55U0FUNjhQenNiLTVhdjRzdXJ3QmJXZUpkUnpuXzYzNmZocjBoUnJ0YlpCM3M?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "徳島道2人死亡事故から一年 上板町のSAで事故防止よびかけ【徳島】（2026年7月9日掲載）｜JRT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbDk3djZVSWl4LVhhdmMwMEtJa1FfdktaejJ5ZjVwZS14NTI2cXlnUmg5ekNQVzlFdk1LTHZJNGFoaXMySGhEMlJUX25ranlKT3Z3NnR3LW1VanJXaS1jQkEwMTVIZnNPMkluVlBfOHdqYUdCd0pBcncwTUFjZkxkYTdxSlZsenM?oc=5",
+      "date": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車利用者にルール順守訴え 死亡事故受け吉野川市・西条大橋近くで",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vUFZoSGVBbU5UNy02cklhVWpkb0wyaERTSlZSS1AxYW5PWE5wcXZwc1ZYWVE2M3hKbGtPZm9HZHdhbGpZYVFkUV9vaG1OeTRJVWdQcmhR?oc=5",
+      "date": "Fri, 17 Jul 2026 20:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "徳島県警察 公式サイトを検索",

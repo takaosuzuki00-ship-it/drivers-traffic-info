@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.199794",
+  "generated_at": "2026-07-24T15:04:02.642064",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 32.4,
+    "temp_max": 32.4,
+    "temp_min": 26.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 32.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 30.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 28.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
+      "date": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QM3dBQ2pBYkh1VTFwQTlWVmZwVzR2QXo3MWlCOEt1V3RKcHhoa1dPZHRpZGx0elcxTVpKQ0tPRzFlclN5aE1ibXpHdw?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MWmZJVWRmamlYMWIzU3FUOWdvd1RsVGpXLW1aRk54UThJUkJoXzFiLXBHQkV1YU1aVmJoa0gwMC1ETmV5elMwU05GYUkxUER1WUdNSWZ2X2tnclRhUkh3UA?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "西条市で交通死亡事故【愛媛】（eat愛媛朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZVUyTDJEUkJHR293MFNDbm5iYTNpdjJkN2MtYkNwakRhQk85OElKcWlRNDFId3o4ZXotUGw2OF9ZOUdRMklrLThmV3RNZjdwY1BYekhrbEZzV0dfT01kMjVJMWktckc3Q0dhZE8yc1JWa2RRWTlocTc2RG9oVU0?oc=5",
+      "date": "Fri, 17 Jul 2026 09:31:13 GMT"
+    },
+    {
+      "title": "西条の道路で横たわっていた男性 駐車場から出た直後の普通車にひかれ死亡 警察が状況調べる【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LTWRGWHN1OC1mR01IeU0wc0FPTi10Rk1IV1BsaWJaaWQ0NTFwNFpkQ2dwSFRUTUZaMnpmSkpkRWJxWDBZYWZ1WkctWDhsUQ?oc=5",
+      "date": "Fri, 17 Jul 2026 02:29:44 GMT"
+    },
+    {
+      "title": "１台は横転 乗用車など２台絡む事故 愛媛・新居浜市内の県道 「春の全国交通安全運動」はきょうから",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRUpDVVNHZS1rNjRMa05pMXl5MWl0OTc3MURycTRlQjlZSklyRmZfaGUyemxUR3otWDFsTVVHaDFfc29RM1I0a0lQMTVYbmRFLXRhRU92X2ZQWkpHYXBJ?oc=5",
+      "date": "Fri, 17 Jul 2026 10:56:32 GMT"
+    },
+    {
+      "title": "水深２０センチの川に自転車で転落、２４歳派遣社員が死亡…死因は窒息死（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSmIwNncwWFJ6UEJkZldmTHg1TmhMLTl0b3RzM19sWmxQS2ZuTlgtR0ZOTzNocGo3QVR0dHRKVEpLdjFJaEJBeU1pWXUzVS1hWWdRbjJzak5RTEFoWm1DTmhzQWZ5OVJDSmVsUWotTXBvNDd5d0dWNnFSVlpSQjg?oc=5",
+      "date": "Mon, 20 Jul 2026 16:03:00 GMT"
+    },
+    {
+      "title": "「母が近所の墓で倒れている」伊方町で高齢女性が死亡　前日夜から姿見えず長男探す　死因調べる【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY1o1eEdwN2J6WlhxY2FqOENTeUNGVzNKN0ZkQkxXVnA0akg2djZkT3R1Zzc3N3p4NlliX3l2cTA3eVl6bi1ERVdhQXBpNzJKVGU1QXhfeWJaZEVpbG5Ob1lvcWZfUzN3cXhVUHFzWWxoX1h3SWkzV2lCQkxJU0t5WjQyOVF0Z2NFbUJVaWNKaXQwV05CT0c4c3VpUEliRU55WXVXMXZQYnRCcEtiSDA5cF9XQ1ZPeWtCLUNNeHdzdnVuR2ZtZUxJZEduZWjSAXxBVV95cUxQS3JzVzFUeVJOSkNCYUU2RnZSZjBIWWtkZkFZNUp5eVc4QWFRUWlMTXpPOFRJTkhwUk14YUpEMGlmNS1VdVZNRHVaSExMeGlKbGJlck5lUlJ5Rl9OOWdzb0Q3bGVoM0Itaks4ZkVDWnJVRzVRNEJTYUt4N3hF?oc=5",
+      "date": "Fri, 24 Jul 2026 05:49:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛媛県警察 公式サイトを検索",

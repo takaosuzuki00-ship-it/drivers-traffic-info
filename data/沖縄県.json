@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.391584",
+  "generated_at": "2026-07-24T15:05:06.359367",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 32.3,
+    "temp_max": 32.8,
+    "temp_min": 27.5,
+    "precip_prob_max": 49,
+    "precip_sum": 0.8,
+    "wind_speed": 18.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "09:00",
+        "temp": 30.7,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "12:00",
+        "temp": 32.5,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 32.3,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 30.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 49
+      },
+      {
+        "time": "21:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 18
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "7月23日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53ZnU3YXhPM2tBMkl2a0ZOamlSWUhXS29sdUVMdUVocmpHNlY4NGZKalJockcxaUNnTi1wQmVDMk10Zy1iMmpEMzQ5cmpDQ1hjVkM4N2FSMGV2U1U3djB4MDVhemgwWlFsYVRiSkg3Z9IBdEFVX3lxTE1jVkFpNnhqYW9wbzQ0ZC03NmJpUW9ZTVVtWGxaazhfSmhsbVc3ZXNOR1BDdmI3T0o4aGRHdXpRYXJUNFk1dXVPaGY3N3pjVmFYYXAxVl82U0diUmxoTjZ3cTRfSUlDMkhpWkVjOXpkZ3NGeUVQ?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
+    },
+    {
+      "title": "糸満の一軒家で大麻草143本を栽培 麻薬取締法違反容疑、男3人逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdWEweG56RkhwZkNVbXhiVU9qZGhNMENDRkFzUEVDVGw5RWNzbWpJZE5kSWlEdndCdXR1WUxlQnQ5RkRYTnpqYUt5MXZwcjhTUjdxenBOOGw0YmZ4aWJHMA?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "糸満の一軒家で大麻草143本を栽培 麻薬取締法違反容疑、男3人逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wNy11OUc3OHFHRnNMbWJHZ1g3emRLd2FMTlloYjBIM19kQnVDeXRaWVFINk1TZ19nV3Y4OGd3NV8wdzJfYlFSYXBLMA?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "患者移動中の救急車と乗用車が交差点で衝突 患者と乗用車運転手の2人を搬送 沖縄市（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbWhjdFdIeWZaNlVMV3NYTzlTTU13SUlHRndPWU5UdlV0SWhRb3pzUWY0MWdQTWhvRkphYlVTaGpPYU0wRl9PcGtaLTY4UXFsOWlnTnJQWkswR2J1ZURuUlBWTlZIWXN3UXZsMUdTekkwbzA2Z2Z3S2k0Y250YVE?oc=5",
+      "date": "Wed, 22 Jul 2026 06:12:19 GMT"
+    },
+    {
+      "title": "患者移動中の救急車と乗用車が交差点で衝突 患者と乗用車運転手の2人を搬送 沖縄市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ralpjdThud3k5cWpwVnhRUmp3YWZfNnUxNlVnRlZ5ZlF2ZGsxbFN6a3JZek82ZUo2SWhiWGllVjc5SXJBYmc3WG5PbDNVcGVvV0JpbHJ0Y1dsdw?oc=5",
+      "date": "Wed, 22 Jul 2026 06:00:00 GMT"
+    },
+    {
+      "title": "2人乗りバイク転倒し街路樹衝突 10代女性が意識不明 北中城村の国道330号",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5McE9CelJSWTlSaFVZSGhoOU1CeTJmUThGbkhrY2wxM0NzV0p1Qzk0a2piTWFoaGJfTjhYazQ2WnVGNVRZWjdDd3JybW04d0h3Z253ZVlkMl9zWUhHQ2JSeg?oc=5",
+      "date": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "バイクの50歳男性死亡 沖縄・西原町の国道329号",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ldk1yUWViUklFeU9UM3doMGdTRVdsNUxpZGFrNGdodXFBc2J6R0REUjdMVzBYUy1VZWlqbXJOZDQ5WndYV3J2Ynl2dmdib0EzVnhQWHBnTDk4a2hvbXc?oc=5",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "心肺停止で搬送 67歳男性の死亡確認 沖縄・糸満市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZjRoWlNEMjladzJLVFpTTzJrR1U4RGhieGtZRU50QmdXNUE3NFp2LTdJdHZZeWlSRTlQWVljNm1Ta2Y3bEZ5V3pBaU8wR3lwcHZvN3hYVUZwTWpxWEE?oc=5",
+      "date": "Mon, 20 Jul 2026 10:06:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "沖縄県警察 公式サイトを検索",

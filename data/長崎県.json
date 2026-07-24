@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:19.291145",
+  "generated_at": "2026-07-24T15:04:27.164889",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 31.6,
+    "temp_max": 31.6,
+    "temp_min": 24.9,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 7.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.0,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 31.6,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 29.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 27.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月23日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWDRGVU1EdVhHdXFpMnFFUXpldDhMS2RDRURwc0xtOTI0WWFRa012RnZiUml2T2g4X0NUVjNxeVV4c1RCSFNhRnFHdjhnbndGLTRTQ1MtSkc3N3FJWm1Ic0pWR0pJZF9mQk52aXYyWdIBdEFVX3lxTFBPTmMxU0F0TmJYOWs2M3dqTDNyejZWTXV3a19IaHp4T0FnZ0lOUU5faWJETGJNN01hZUdZZGw1TlhNOWJZU0pKYnowQW8yN25OSHFfanN5OER0U0ZWODBIcVZQSnBiOGl0SmdscHZ4ODZSWHlG?oc=5",
+      "date": "Wed, 22 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qa1FULW9DVkl4WXBqa3p5THN6a2t1RHdLbWNuNUt1QUdVUVBpbkJ2cXlINXM3LUE3SUgyQ05oQUZhYlBfdWxiV2hETQ?oc=5",
+      "date": "Sun, 12 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月１９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YaXdDbzR4MF9KUFlfeWl1TzNyN1RncGQ0M1pwa093Nk4tLTVwYmNMb0dDTndNaERfaDY5U2xCTFJ6c1oycThUSGo2R2NFNS02MDROZ3dQS1lxUXpzYjBvQWhKTktjTDZhb0JMOEpoZUpEQdIBd0FVX3lxTE5fMDRVbUFET181VFdidnBieUdmcV8xYzlFOUpwNmM4cVY5VHhYaTg1Rmk4YTBoMFdOYXU5ODJMWGRnQk1WcEQ3YXlNNWRUMEZ5N0tDZFdGMnhMQ0pscmJFd2wtV3JGWEJiOEh0TEwyaklNUl9NUzI0?oc=5",
+      "date": "Sat, 18 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "検問で逃走…運転手から酒の臭い 飲酒検知拒否の疑いで現行犯逮捕 同乗者からも事情を聴く (NBC長崎放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzNLbmFGT2RoTnpEMll5bGhhdEFtQnBCaTIxQktzWElqNkdDNkd3S1hTUjM1ZlZiTFBJVTdXX1hMNmxPNW1LVkNwd2NGZVZ0WWREU0RyRzRqU19NVmd0clVYNHEwU0g1dUJLSWtuVzVTZHJ0aWlFYThDM183dXgyTDZQeWZKcEJrdm5zTndB?oc=5",
+      "date": "Tue, 14 Jul 2026 08:36:18 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "カーブを曲がろうとしてのり面に乗り上げ車が横転 運転していた84歳男性が死亡｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xNE9qbHBrLWlMdVJyUnpmX2E4YmsxLV9aN1pMSWZXTlJEOGh1NHo5TTZ5ZWpsRGtKeXlxX0pvcE5CMWpiY2pJaHVFMW9hTWNxeDF1WENoMExpQkhPcFBEX0ZR?oc=5",
+      "date": "Wed, 22 Jul 2026 04:55:00 GMT"
+    },
+    {
+      "title": "坂道で車が横転、男性（８４）が死亡…家族が見つけ通報 長崎（長崎新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRUl6cW1CMlJoRi1nX1hvTVhxYVhwQmVjQ3BUczh6YjM5ZEwtQU14VzZiYlpwSWpuRzJYYmVGV01KN2ZWYjgwcnA5c21Jdy1EbGJHa1dYSWFISW9kd2ZJb01uTEZBdTIzV3ZPVVIwam5VTkhJYmQ3RXNzREVTcGs?oc=5",
+      "date": "Wed, 22 Jul 2026 01:30:22 GMT"
+    },
+    {
+      "title": "【速報・更新】トラックとシニアカー（電動車いす）が衝突 高齢女性が重体の模様 | 長崎のニュース | 天気 | NBC長崎放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWTNZUzlGOF9TdkhGZldoLTJtanBJd1JrU0Job05KdDRqaE1KMklNTjZHRGNENkpscHRtNjdfUzNnanhFLTNNZ0o5ZDMxbXNsWmhnRnBVSHFwdw?oc=5",
+      "date": "Wed, 22 Jul 2026 08:43:00 GMT"
+    },
+    {
+      "title": "「バイクの音がうるさい」飲酒運転で追突 殺人未遂容疑で42歳男逮捕 きょう21日「飲酒・危険運転」厳罰化の法改正施行",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVFlvZDc3OTBvblBvdHJCRXBZV1BwTUhNSkFOU2F6bE9IRGxlLS0yUlJILTMxdTdsSEU4S200Y2NBZHJEVkQ2Mi1DU0J1S19ETHl5VXN5cXZueTg4U0dJMFF0cF9GbmZJYVlPNWVpbzVpZ19zdkxvdE1UaTU2dzA?oc=5",
+      "date": "Mon, 20 Jul 2026 23:52:14 GMT"
+    },
+    {
+      "title": "交通事故二次被害を防止 長崎県警諫早署、整備士2人に感謝状",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9raHBvUTNPSTR5eTBNRzZVQVNIbnNaS1FrZWxGV1VIc2JCdXVNRHNGMEMyU2U4YmtiT2dCMGxIVjJoXzM2Wm9BamlIR1VlSTA1cGNwUFp3?oc=5",
+      "date": "Sat, 27 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長崎県警察 公式サイトを検索",

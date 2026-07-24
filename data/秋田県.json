@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.770108",
+  "generated_at": "2026-07-24T15:01:10.895919",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.8,
+    "temp_max": 26.6,
+    "temp_min": 22.5,
+    "precip_prob_max": 100,
+    "precip_sum": 14.4,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.1,
+        "weather": "霧雨",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 23.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 25.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 24.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "21:00",
+        "temp": 23.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 24
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月17日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sRm1iVjFNZXpGTjk4WGFwMWU1cEpmQk5kZFJzc2ZZTTNPWWZKeE4zZFFJOV9jOU85N0o1YVBlRmJXU0pObVR5LTNNSEp0cU9UMVNmQjdDZ0Z1eVJjQkZjQmptempMaDUyb0lmWDl3QdIBdEFVX3lxTE9wMjNseXJzR0Q4TGJCekNEdG5jNHp3d2NRN1p5S3g3MXBYZjI3S0Mxdno5OEdtSEE4clFlYWtlTHNrUDFFa0ZLSGVUVWRHc0otbUpmWEVJUnF5ejd3a1VxRjZGTFRLM3d0d2FFVW5LREFlOVhq?oc=5",
+      "date": "Thu, 16 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月３０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWUt6bXVpUzJjT0Zab2FWbmYxbTg1LTRvektfZTVDbEt3cFhiYzBpRXdvaTd6N2lCVkZYa1BFc2lsbW16Q2djSWtIY0RNMXg1U1pIRkFfN0ZjNUtwLXNob1hR?oc=5",
+      "date": "Tue, 14 Jul 2026 22:04:31 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "AKT-NEWS 軽自動車と自転車が衝突 自転車の高齢男性、意識ない状態で救急搬送 秋田市の山王大通り|07月21日(火)19:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQ0lraXB4MXFyTXJEMG5oaUF3SHYzaUFEOUF6X21aZDhWSk44UC1sYTJkV21Ddnd4RDlxeFp0ZVNNX3ZtVHRUbDktMTFMcXcwOHExcnR3OU50MjVUUTFNdVpLZlg?oc=5",
+      "date": "Tue, 21 Jul 2026 10:54:27 GMT"
+    },
+    {
+      "title": "交通事故防止に貢献 秋田市の桑原さんに「警察協力章」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuQWlEcm44Z1RYZm8taWVJcTdiT2JUYUp3MjVWcHkxZUpTRGJqRFN3VE1zMUpHZUNzaEZoejZwcDJrRE5VYWpNcHZUUHM5bU1kY1pmLUxpMFpvZlBEWDctd0lR?oc=5",
+      "date": "Fri, 17 Jul 2026 05:15:00 GMT"
+    },
+    {
+      "title": "横手市の県道で軽自動車と自転車が衝突 自転車の80代男性が搬送先の病院で死亡 秋田",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OZjdWYkpYdWpxdDFSVFBWWmpUWHpjSERQaUw1Ry11NF9kNGU2RTlaS0RNYTZSNVVsU09qSmRhdGdSalJJUTdjOEVDR0luZw?oc=5",
+      "date": "Sun, 19 Jul 2026 07:53:02 GMT"
+    },
+    {
+      "title": "住宅から2遺体 長男を逮捕 自動車事故で事態“急転” 秋田・にかほ市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFNFdqRkxIZkJCYk8yWnhnbXZha0FINTYwWGNRVTlPRzlYX3U1MFhCdUdmQk1jVWMtNU5pYlpzSmN1cndldFFFQzdhME0yMnprcUtYaEp4M0N4Wncwb3hqVmg0OVh6OGNQOTk3dVRCWTJfQQ?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "軽乗用車が自転車に衝突する事故 自転車に乗っていた男性（85）死亡 秋田（2026年7月19日掲載）｜ABS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVI1UW5jMFdQSGZMdGVWbXhWT2tRWFQtY2tXRWtqejlhdExfZnJfY2lDRE1FWHN5dGZ4N0FrNzUxclZxd0szUjB5aFZiT1RCUS0yUktkM25iZEhnQVNGS1NZV2dtaGJjaDFLNC16ZS1rdHRxN1c3cUN4cDFpYTdZWEpodnIxMXc?oc=5",
+      "date": "Sun, 19 Jul 2026 09:47:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",

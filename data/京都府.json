@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.908326",
+  "generated_at": "2026-07-24T15:02:48.710673",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 35.7,
+    "temp_max": 35.9,
+    "temp_min": 24.6,
+    "precip_prob_max": 47,
+    "precip_sum": 0.1,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.4,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 35.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "18:00",
+        "temp": 32.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 39
+      },
+      {
+        "time": "21:00",
+        "temp": 28.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
+      "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "７月２３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92TWs1SThxS0tCTU9aaVpSZWRuaWxLaVBvTEx1YktXWFBrbzhRQUZCSDc2Yk9leTd2SS11aEhxSXF3aU9oTXRuX0p0cXpROEhPNEhXVktELTJDcnhPWWlNbUNaSjJUYko4ZGFncFMxQnFiQdIBd0FVX3lxTE5DaUVMbEV3dWYwMkUwVFF6bXRWcG9PZTduMlptMkp3OUpJUnpsLXU4V2FicU5yelJuWE5hd1hIaTFpZzZBWnlqTjJKME1Qd2JOaW9HeUo5UnhKREpsUm5qUkZhQzRGcTRsRlkwcTYzTHdBWWs3V2FN?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
+    },
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転だめ！北陸道のトラック事故を受け飲酒検問 去年は過去５年間で検挙数最多",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LRVJJNnRxem9CSUduLU82eXBzdVhMN2Vtbk1RUkZZWGhxZkNfbkUzVDI3QUY0NkoxdjhaMmNKTzlpRjFMc1M0OUZCUnNiNVc4dm9vakRJV3NuUE1QX1BnZXRKS2Rwamd6TFZmeThRSQ?oc=5",
+      "date": "Thu, 16 Jul 2026 11:07:00 GMT"
+    },
+    {
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdnJocEUyMkV0dUZkVzRlYVN4dmNsUVhtWnB4TVprbFVOS29USktwM0RmUVVIaGNXTldPRlIyWnZ2R3ZQcmstNnNUaXlQS2g1QTU3RkV3Y3FNTUwxTDVaMmRPX2Y2UWxoUXluTGwzaFV0REVOaXpEdVh3NDVzTms?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "京都縦貫自動車道の一部区間で上下線を一時通行止め ワイヤーロープ接触事故の影響で",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qdDJ6bXc2QXhid3BsVjI2RXlMSTlRTFpKV04ydlRNSVc2VWF4bEdJRHcybzNTdzdtanZkV1dYSjlBU0hMTWFybW5YT3UzTTJWbGl2bTFwUGY?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "トンネルでＵターン→衝突 ２台が絡み１人死亡３人負傷 京都縦貫道（ABCニュース）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZlNDQTRRRkFPNldKSENYZGp4c25pRjFFb2IxZ3ZFTW5ucVlxVVZKWFY5NndqMXV2NzVqdnNSTXNRS01PeUJycVl1OURTM1gxV3VMaTh4cVJkczVKVDF2TjVnTGtYdko4akJkNElDTVFtSWx1dGxCbklOUnducEk?oc=5",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都で乗用車3台絡む事故 はねられた歩行者ら2人搬送",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Sm9CTkl5Qk5MMU1IdVhqZmNTUU9KTGE1MXB4OUFWRkk3ZW5nVUxKZmpPMHRkZU5rbGJub2FRWWVxaWVhR1plSFRQaVlMLTl1OXdGSzVlU05Mby1qM1RnRERzRGR4VjVH?oc=5",
+      "date": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "除草作業中に熱中症、70代男性が帰宅後搬送され死亡 京都・京丹波の国道27号",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WMkl1Uk1nSzlnaW9sUldfZ0gzVmNRZFg1azhkQ3oxSi1DbUYyZnFzVG1CSkZ3MDItQ3pCTzhHdV9ZTDZfczR1eFpTZ1JnMzZKMUF4b2k5cThET3JNaWhQRUdEajVEbC1KU2dodGlnZ1ZmanVvcWc?oc=5",
+      "date": "Fri, 17 Jul 2026 11:50:29 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.965564",
+  "generated_at": "2026-07-24T15:03:16.236218",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.5,
+    "temp_max": 31.2,
+    "temp_min": 24.6,
+    "precip_prob_max": 6,
+    "precip_sum": 0.5,
+    "wind_speed": 9.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "夏の交通安全県民運動期間中 交通事故は前年より3件多く16件 速度超過の取締は前年より25件増えて282件 鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFBsMWxOTFNnUzBaSHBCR0FvenhFLTVpcU9nbTJGRFluX2NJaGF2NW9sRlpBS1VTa3ctMlBfdDc0UGJTTWJGb0g3S280ZHNOS21zVXZRT0Q3ZGp5QU5jLWZ3dGs2anVSaF9aMzQ4ZVJFdGlldW5BOFRKeE93dHJ1cmRYYmc4QXdTdFQtbnNB?oc=5",
+      "date": "Thu, 23 Jul 2026 22:15:43 GMT"
+    },
+    {
+      "title": "夏の交通安全県民運動期間中　交通事故は前年より3件多く16件　速度超過の取締は前年より25件増えて282件　鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUFFdEhNbkNNZ3pzN3VhcWp0bm5GZFQ5SUpxQzZzM3JCZkxySmFnQ2JUTmZ1WVVBZWd1VFo1QmZhMHlwTUNxUDhHb2tpRVRuczdSN0dtVWI5dnk2Z0RVbEhhcHZPN1VmYjU1ejQxSk55YlhOZjBDYkYxbHhWSFJwUFROY9IBiAFBVV95cUxPX1NZZ1dXbVVINWRtM2FkNlY1enBtcTdmU2E3YXYzM2ltTmhYanZ2T01VaFEwYjFmZ3F6bm9WZnNEUDBFbVVzeTdfRDBKU2dPcFFBUnhZS0FvcXpHOTd4amRueDEtbUlOZFpwTzNWV3VGYk8wa25aREstWVphWXVHZnJXYzVmR2Y4?oc=5",
+      "date": "Thu, 23 Jul 2026 21:56:15 GMT"
+    },
+    {
+      "title": "７月２１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56bUE4ZkszanBjVmtIcDNxcG5aU1dfQTkyeHF2ellZcElIdmZvRTNKeWFsWDVRSGltN19tT19wX3ZyOWs2UW5XdDhvV1pfVGNXOUoxeFhSS1E2bHFqNU9tb1FNaWI0SDlfUHRCamQzaEhmUdIBd0FVX3lxTFA0Rzk3SnVscXpiQ1BzS00xQUdVQ1kyTllaY1dOTnVhd2wyT0pKZ1lBWTVWM0ZsYjBsZzA4aWpIMWE3NHloanE5WGVLS0F0ZjJIM0RRcWtuakQtSjZDTUtMTE13NVVGdFZKRVVtMnVVVDZadUVqYlo4?oc=5",
+      "date": "Mon, 20 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWXpDZ2d4V0FHMWNaMTl4bEpmMU5aaDdVSkUwTnBqMXBLT2tac1RVVUJqSThpY1V2RHBOSC11LVhOVk1mUW5vVTJLRQ?oc=5",
+      "date": "Fri, 19 Jun 2026 10:33:13 GMT"
+    },
+    {
+      "title": "時速17kmオーバーで「逮捕」!? 速度違反で\"住所\"と\"氏名\"隠した84歳男はなぜ「青切符」で済まなかったのか？ 元警察官が解説",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BQWlUV3daUWVHeWFBalNDaVlqbWRxSzJHWTZWaTYxSFdIUEFyMzZWX2dRVHhBdDNseGdvc3hsVzZUVjBOb0FmY2N6cw?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "夏の交通安全県民運動期間中 交通事故は前年より3件多く16件 速度超過の取締は前年より25件増えて282件 鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFBsMWxOTFNnUzBaSHBCR0FvenhFLTVpcU9nbTJGRFluX2NJaGF2NW9sRlpBS1VTa3ctMlBfdDc0UGJTTWJGb0g3S280ZHNOS21zVXZRT0Q3ZGp5QU5jLWZ3dGs2anVSaF9aMzQ4ZVJFdGlldW5BOFRKeE93dHJ1cmRYYmc4QXdTdFQtbnNB?oc=5",
+      "date": "Thu, 23 Jul 2026 22:15:43 GMT"
+    },
+    {
+      "title": "夏の交通安全県民運動期間中　交通事故は前年より3件多く16件　速度超過の取締は前年より25件増えて282件　鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUFFdEhNbkNNZ3pzN3VhcWp0bm5GZFQ5SUpxQzZzM3JCZkxySmFnQ2JUTmZ1WVVBZWd1VFo1QmZhMHlwTUNxUDhHb2tpRVRuczdSN0dtVWI5dnk2Z0RVbEhhcHZPN1VmYjU1ejQxSk55YlhOZjBDYkYxbHhWSFJwUFROY9IBiAFBVV95cUxPX1NZZ1dXbVVINWRtM2FkNlY1enBtcTdmU2E3YXYzM2ltTmhYanZ2T01VaFEwYjFmZ3F6bm9WZnNEUDBFbVVzeTdfRDBKU2dPcFFBUnhZS0FvcXpHOTd4amRueDEtbUlOZFpwTzNWV3VGYk8wa25aREstWVphWXVHZnJXYzVmR2Y4?oc=5",
+      "date": "Thu, 23 Jul 2026 21:56:15 GMT"
+    },
+    {
+      "title": "夏の交通事故防止啓発 鳥取県民運動スタート、米子で推進式",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15NkMwcVJEWUZzc3Iyb3RZeHNZVGZVYkhuZ1IwQV82a3JiazAyX1U2NUdXcGdobHk0MjFNa2tEdm56OUFxaGxrWXN5Zw?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "鳥取市吉成南町の国道で事故 82歳女性が75歳男性運転の軽自動車にはねられる 女性は意識不明の重体 運転手に怪我なし 鳥取県 （2026年7月20日掲載）｜日本海テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWNBUDJfR0RTS3hfN2t0YmNKYnFvTFU0WTdxQWxXWndoM1lzc1pKeVh3dUpYNWVxQUt1LWxJVjFrdmZxeWp5RmlVOWh0UjAzMTByb0h1R1FwNV9OTml4VFJkc0dyWmlOOVM2WUxwUFFfd1lyLTZ6OGFzeFo2TENXbmxBbWJnSms?oc=5",
+      "date": "Mon, 20 Jul 2026 09:59:00 GMT"
+    },
+    {
+      "title": "期間中事故２３％増 夏の交通安全県民運動 鳥取県警まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYTFXWVNNVzQxLXZSa0NUVWxZRndhQlc2ZjN3V0RMU2MwY1ZQaTV2T1dxWlhlY3pGQkYwc21PXzZrZzRNTFJQc0p3anJmRjdB?oc=5",
+      "date": "Thu, 23 Jul 2026 01:50:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鳥取県警察 公式サイトを検索",

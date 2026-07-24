@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-24T12:00:18.919841",
+  "generated_at": "2026-07-24T15:02:59.481510",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 34.7,
+    "temp_max": 34.9,
+    "temp_min": 27.0,
+    "precip_prob_max": 73,
+    "precip_sum": 0,
+    "wind_speed": 7.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.4,
+        "weather": "快晴",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 34.7,
+        "weather": "快晴",
+        "precip_prob": 39
+      },
+      {
+        "time": "18:00",
+        "temp": 32.3,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "21:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVnRTdFBVUEF5MktoejVZdHFxNWhZNTNndzRwdE1qMzVZRjc4Q2ZkdHJpV25DTkQyRnBOT3EzbU5ZQWtzZlpxMHpFeTJ5ZFJWSGQzWTUzOExNeFhmMW44OTJNQjBjMDVfWXVZR3llUnZIWmJIbnAzTEE3cw?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警察官2人を懲戒免職 麻薬取締法違反の罪で起訴",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tYVgteG95MWR5Tk1sdDM4dnZZaThkcnRCQXZSdmFnVjlEbEJwdjBhQkhNLVBlSWRET2NGeURtTko0aFk0VTlwaGtOOWVtTXNsR3JUN19GcWtGTWRFN1R3TzVVaER0dzNa?oc=5",
+      "date": "Fri, 28 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "三田市内、飲酒運転事故多発で警戒 6月だけで死亡含め3件 主要な道路で定期的に検問予定|三田",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zdEpoSk5DdlRVZTJPcWV5RXlDUlIyUTJsanhIbDZEMC1WQmdOMmZpbzN3QWtMVmlBclJjQkRieHBnV2hpUlJPY3UtUmFmVzhDQ3I5azQyOG44RnRua2pEM3F6X3BzS3JfV2tV?oc=5",
+      "date": "Thu, 16 Jul 2026 20:10:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "タクシーにはねられ男性死亡 横断歩道付近に座っていたか 神戸・灘の市道|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5paWthTUswX20xZktyX3QyQUxMZ3Zxek1rUVdMamljaDJFMjJoVndxMnM3cEQwRHJwV1VEYlRvX2JwM0VvQlQyTDh1SHB2S2lINDFUNVRfNExuV0RSRUtCNU9kUW4xOHNlUExweQ?oc=5",
+      "date": "Fri, 24 Jul 2026 00:09:44 GMT"
+    },
+    {
+      "title": "兵庫県内の交通事故死者数が急増 県警音楽隊が園児らと交通安全PR [兵庫県]",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zSFM2ZEVVLXZHN0NYU0xVNU54aUNlMTl0S3ZRaUFyVVctSXpxSzU3OWl3Y0JsT295djlnTUZ1WUwyT1VRcWNZX0R0WjJmUURpQXloUWQ5UlE5SVdvNDU4ZUw1c1B2SXlCYmwyaER3?oc=5",
+      "date": "Fri, 24 Jul 2026 01:45:00 GMT"
+    },
+    {
+      "title": "兵庫県内の交通事故死者数が急増 県警音楽隊が園児らと交通安全PR（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PUDZWY3poN3JSUXJvYVR6bzF4T3pyZjIwY2xHNHgzS21UTFNEQWM1dm5HTFk5ZGZjTUs5N1JKM2RrSHJVSF9lbi1EQmNoUnpjVVF6VXNIaklDU2JMREVENUlNdHFuTnA1U1lpc0FLWTYwemkyUmhOcmg3ck4zN00?oc=5",
+      "date": "Fri, 24 Jul 2026 01:45:00 GMT"
+    },
+    {
+      "title": "公然わいせつ容疑で男逮捕 車で事故起こし、逃走中に服脱ぐ「身軽になりたかった」|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nQ1pYelRDRElBQTkzbWFmeG81NVJXVmlHLWdSMmtZemhGRkx2MFRER0l3SGJWeWl2WkRIMXpUdFZ4RzRhZHJ5ZmFWQ1hmdXZTNlJPc2NHOTFKVm5weEJucEpiMGZJY1dkVlZ3Qw?oc=5",
+      "date": "Thu, 23 Jul 2026 14:42:00 GMT"
+    },
+    {
+      "title": "交通事故で６０人死亡・全国ワーストの増加率…目立つ「速度超過」原因、バイクで緩いカーブ曲がりきれず",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYT3ZXZkRLdE5faVVkazhZTjZsblZzNnllSER4UHJXUzYxZlF6NHN0bE9zVDRvUHNmR1dFU0Z0Y1o1bV9BM2gxZnNRX2xjZ2t2ZFZFUGw4WHI1VHVlR2lCZ0NSU1lRNEhUNmUzaUk2Z0Qwdw?oc=5",
+      "date": "Wed, 08 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",
