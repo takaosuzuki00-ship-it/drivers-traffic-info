@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-07-26T03:01:23.788529",
+  "generated_at": "2026-07-26T06:01:53.074689",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 25.7,
-    "temp_max": 25.9,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.3,
+    "temp_max": 26.3,
     "temp_min": 23.8,
     "precip_prob_max": 100,
-    "precip_sum": 12.7,
-    "wind_speed": 13.0,
+    "precip_sum": 18.6,
+    "wind_speed": 8.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.9,
+        "temp": 25.4,
         "weather": "弱い霧雨",
         "precip_prob": 67
       },
       {
         "time": "03:00",
-        "temp": 25.7,
-        "weather": "霧雨",
+        "temp": 25.8,
+        "weather": "弱い雨",
         "precip_prob": 61
       },
       {
         "time": "06:00",
-        "temp": 25.4,
-        "weather": "弱い雨",
+        "temp": 25.3,
+        "weather": "雨",
         "precip_prob": 98
       },
       {
         "time": "09:00",
-        "temp": 25.2,
+        "temp": 25.6,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 25.2,
+        "temp": 25.3,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 25.5,
-        "weather": "弱い霧雨",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 25.8,
+        "temp": 26.0,
         "weather": "晴れ",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 24.3,
-        "weather": "晴れ",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "７月２５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oRXB5RHhERU92RXVOUWdxU2hibkJQcnM1dnNzc3RwUF9kbHYyRlpySmVzU0Q4c21hTWphWXJFYTl2NVlkXzMyU2pfVEVnalFCVzRhS0V3OElqYmUwQ3dGbWtuQU54eDFBSmd6SkJMSmpid9IBd0FVX3lxTFBEWUVvZ19KS2NBelNTaV9OdFNQRDc1cTZORzhfa2syZHNfd2hkaTc4MUpxN0g5ZDRpZS1SRzVYUHdhRDYwUGF2RjI0VkVzcWJweGhpLVkzU3ZCWDBNNnFGMHpYZ0VXNzZ3Wi1JblNOVVdVb1JicU4w?oc=5",
-      "date": "Fri, 24 Jul 2026 20:08:58 GMT"
+      "title": "7月26日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WTFBXYjFiTEdIYzVuNWZxVE40NzVRSTBlckM1WnM1bFd6RVA0T3lLN3hqRk9rYmxmVVhuWGVjMk1BRzJsRVIxMlpTQzdqRl9oa0NmM2ZQVmFfTWlPbHc5b1VxcWtySkJuQV8wQjRrSdIBdEFVX3lxTE1fQnhiSDVrdU9KQ2hwSi1udjNrZGl5V3Nla1AzbG5aLVIxNXdJZ3c3SGdQaXpodmhNSXY3NGlJSUZZTUlKSmJyYjJxQjFoTWxVOFpwVnFBa1hnR3ZhU3BncFBEcjhPRzVHT1JGRk82VkZWdWhF?oc=5",
+      "date": "Sat, 25 Jul 2026 20:11:34 GMT"
+    },
+    {
+      "title": "７月２６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRDRkbWhWRmJlaVRWRnB2U1piUzdyOFdvcnpEemVWZWhxZXA5Y2lfaG9rbnJrbkZJNVZ5SWNzUUNBeVZtWGZGclVveU4xRGNhSUxFa2VhaFpMQ1poWERiV1lwTEVmRTdnand4c3RZcWM4SHZTVkpTSjlvUDQxZUpCZjBEeGFtNnpUYnhVTmhvZVMzYW05WUhrN3dLLXo3d2tTT2ZRbElfcjk3VjVBYWpUdV9EZHB6d2J0T3BwV0lzNjVINDlnLVZz0gF3QVVfeXFMTWRRSmxyd1hlWGFtakRVLTE4Ti1ZOHRtZ2NYUXZCLTl3eWtVZXFsS3lQbGZWRXk3TlpRaTZvck1OV2FnOWxObTRScnFaNFVwQzFYUjFndDVER2FWdXBxdUh4ekFrdU9MZ3J2XzlhVXlYcnRyOF9HbVE?oc=5",
+      "date": "Sat, 25 Jul 2026 20:09:41 GMT"
     },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
@@ -75,19 +80,14 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "7月25日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXTGZ2eVFIYU41d3licG82amI1Z3FaTXY5NndSUExDYUZaT2tJMjUwQVlMNE1XeTVHcnR5OF80cHlDQzRKY1Q3TnptNFZHOUlQR3dIaWQxMVhhSGRJbmRZVE5IMHdVdjdHZWNoQnlFRdIBdEFVX3lxTE1pTmRpNllMN09MNzVITHR1SnpwTEZaUkZzTFVFbkh3YkdfdHZ6Ukpfdl9GN1F0aGZ3N0diMHJCOXptcUg5cnRIRG0zQlU1RlhsM0NWMVg2R2FiV1hDQUk1SThULV9OYWE4bmJPcDdQeTNZb2ZG?oc=5",
-      "date": "Fri, 24 Jul 2026 20:02:00 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ３月２３日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DbGFmV1hEMEVTcUt2T1ZwR3VEVmxTbi1PU0pQVUttc0c5QkxpckE5cENja2E2MFh4Y01SZjNBQ2FmQTBETUVaV3dkQQ?oc=5",
-      "date": "Sun, 22 Mar 2026 07:00:00 GMT"
+      "title": "７月２５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oRXB5RHhERU92RXVOUWdxU2hibkJQcnM1dnNzc3RwUF9kbHYyRlpySmVzU0Q4c21hTWphWXJFYTl2NVlkXzMyU2pfVEVnalFCVzRhS0V3OElqYmUwQ3dGbWtuQU54eDFBSmd6SkJMSmpid9IBd0FVX3lxTFBEWUVvZ19KS2NBelNTaV9OdFNQRDc1cTZORzhfa2syZHNfd2hkaTc4MUpxN0g5ZDRpZS1SRzVYUHdhRDYwUGF2RjI0VkVzcWJweGhpLVkzU3ZCWDBNNnFGMHpYZ0VXNzZ3Wi1JblNOVVdVb1JicU4w?oc=5",
+      "date": "Fri, 24 Jul 2026 20:08:58 GMT"
     }
   ],
   "accident_news": [
