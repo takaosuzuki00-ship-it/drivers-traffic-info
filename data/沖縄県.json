@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-25T09:03:58.836295",
+  "generated_at": "2026-07-25T12:03:46.322778",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 30.7,
-    "temp_max": 32.7,
-    "temp_min": 27.7,
-    "precip_prob_max": 82,
-    "precip_sum": 1.4,
-    "wind_speed": 7.4,
+    "code": 95,
+    "weather": "雷雨",
+    "temp_now": 31.7,
+    "temp_max": 31.7,
+    "temp_min": 27.9,
+    "precip_prob_max": 92,
+    "precip_sum": 6.6,
+    "wind_speed": 6.7,
     "hourly": [
       {
         "time": "00:00",
@@ -21,45 +21,45 @@
       },
       {
         "time": "03:00",
-        "temp": 27.9,
+        "temp": 28.3,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 27.7,
-        "weather": "快晴",
+        "temp": 27.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.7,
+        "temp": 30.9,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 32.7,
-        "weather": "曇り",
-        "precip_prob": 47
-      },
-      {
-        "time": "15:00",
-        "temp": 32.5,
-        "weather": "弱い霧雨",
+        "temp": 31.7,
+        "weather": "雷雨",
         "precip_prob": 82
       },
       {
+        "time": "15:00",
+        "temp": 31.5,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
         "time": "18:00",
-        "temp": 30.6,
-        "weather": "曇り",
-        "precip_prob": 41
+        "temp": 30.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
       },
       {
         "time": "21:00",
-        "temp": 28.9,
-        "weather": "晴れ",
-        "precip_prob": 18
+        "temp": 28.4,
+        "weather": "快晴",
+        "precip_prob": 25
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "ヤンバルクイナなど交通事故が最悪ペース 車にひかれ両足粉砕骨折 やんばるの自然と命を守る運転を",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NN0VIY0FXM1QzeUw3aV9mVmtSYng5dmFmN3NKQkVWeEc2aFBGREdvTGRNM2toelloLVRESEZUX1lZQlEwNmtkNl8yaHB4UE95S3NFLXhZS0F6R21jV2c?oc=5",
+      "date": "Fri, 24 Jul 2026 20:53:00 GMT"
+    },
+    {
       "title": "国道３２９号で事故 車が横転",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ac3VzREZsRXBsWlpkdnVuc0RvT0xxM1ZKVmdaNF9aTVppZ1IzRERZcUtJbzZBY3lPRzhvVkFvZmN4N1VOQzFhMllLa2hwVVZxak9RbGZJeEJPdkU?oc=5",
       "date": "Thu, 23 Jul 2026 16:19:13 GMT"
@@ -110,11 +115,6 @@
       "title": "沖縄県本部町 自転車と乗用車の衝突事故 意識不明の男子高校生が死亡",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QQ0ROMkk5XzRlcmxPMTBpVlZsRjQyNUF5Z0kwTHhGNXFCRVQycVRpbEtaSzJNaFBxVFZDc2VCZ1FEUFA5amtUN2lzMlNrZw?oc=5",
       "date": "Tue, 07 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "源河川で死亡の男性、25歳会社員と判明 死因は溺死 沖縄・名護市",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xY3MxaGZOMnNHZ05OTnFLVzJLanZQLWdOTGFFRlQ0LWJaX09mNWphWlJZSGNhbThDNngxMWFjTVRKeVdsRUxXM294SW13c3JEOUNFYTNKTURpU25BT0E?oc=5",
-      "date": "Tue, 21 Jul 2026 14:13:00 GMT"
     }
   ],
   "official_links": [
