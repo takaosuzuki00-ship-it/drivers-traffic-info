@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-26T21:01:19.351994",
+  "generated_at": "2026-07-27T00:00:47.839039",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 17.8,
-    "temp_max": 22.3,
-    "temp_min": 16.8,
-    "precip_prob_max": 90,
-    "precip_sum": 0.3,
-    "wind_speed": 14.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.0,
+    "temp_max": 23.9,
+    "temp_min": 16.7,
+    "precip_prob_max": 22,
+    "precip_sum": 0,
+    "wind_speed": 12.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.8,
-        "weather": "曇り",
-        "precip_prob": 6
+        "temp": 17.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.4,
-        "weather": "曇り",
-        "precip_prob": 31
+        "temp": 16.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.5,
-        "weather": "曇り",
-        "precip_prob": 45
-      },
-      {
-        "time": "09:00",
-        "temp": 20.4,
+        "temp": 17.9,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
         "time": "12:00",
-        "temp": 22.3,
+        "temp": 23.1,
         "weather": "晴れ",
-        "precip_prob": 25
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 22.3,
-        "weather": "曇り",
-        "precip_prob": 78
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 19.6,
-        "weather": "曇り",
-        "precip_prob": 84
+        "temp": 20.8,
+        "weather": "快晴",
+        "precip_prob": 22
       },
       {
         "time": "21:00",
-        "temp": 17.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 4
       }
     ]
   },
