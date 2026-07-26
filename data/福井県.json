@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-26T09:01:51.821776",
+  "generated_at": "2026-07-26T12:01:27.181994",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 27.8,
-    "temp_max": 31.3,
+    "temp_now": 30.2,
+    "temp_max": 31.1,
     "temp_min": 23.6,
-    "precip_prob_max": 73,
-    "precip_sum": 4.9,
-    "wind_speed": 1.6,
+    "precip_prob_max": 87,
+    "precip_sum": 5.4,
+    "wind_speed": 10.4,
     "hourly": [
       {
         "time": "00:00",
@@ -27,9 +27,9 @@
       },
       {
         "time": "06:00",
-        "temp": 23.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 24.2,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
@@ -39,27 +39,27 @@
       },
       {
         "time": "12:00",
-        "temp": 30.9,
-        "weather": "晴れ",
-        "precip_prob": 63
+        "temp": 30.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
       },
       {
         "time": "15:00",
-        "temp": 30.9,
+        "temp": 30.7,
         "weather": "晴れ",
-        "precip_prob": 71
+        "precip_prob": 84
       },
       {
         "time": "18:00",
-        "temp": 28.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 43
+        "temp": 26.9,
+        "weather": "霧雨",
+        "precip_prob": 45
       },
       {
         "time": "21:00",
-        "temp": 26.0,
-        "weather": "霧雨",
-        "precip_prob": 16
+        "temp": 25.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
       }
     ]
   },
@@ -92,14 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "福井の死亡事故、はねられた女性の身元判明 | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nZmdIUTZpLWFPMU5Zbzd4WWh0ekpkNjhQNlFaRUk3MExrT2FXVWozWnhYX0VuUU9nZi1KVEo3V2RoTThJQ2s3OFVkcUM5bGxSZkdRblpNbUUySHlVaFE?oc=5",
+      "date": "Sun, 26 Jul 2026 01:35:00 GMT"
+    },
+    {
       "title": "【速報】福井駅近くの市道交差点で死亡事故 横断歩道を渡っていた80代女性が左折車にはねられる（福井テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IY3ZMUlhOMnNHQlpCbDItR0pINWg3Z3l1SG43WFE2Qm1tQ25TaXRIcFplYlRTcFQyNnRTYjRxTmM2THhsaEc3VEtnV3lRN08yRmVZZnZmNlNicWJzcE9aaDRVUmU4czJRZDJtaEE5ZlN3dVExYXVJN0gwcXNxWGc?oc=5",
       "date": "Sat, 25 Jul 2026 10:13:01 GMT"
     },
     {
-      "title": "横断歩道を渡っている最中に… 乗用車にはねられ女性死亡 福井市手寄の市道交差点 70代男性運転手から話聞く",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckVuRjU4bFlJT1RyemxIbjRIU1EycnA2UWlNaGRCTEkwZjRLMVFQX214MlJ5UDZDYWhxcE0wTTdDWlNaYzhyaFNZWlFjdmhoWGJaSEtfYzJVUTh1a09pLUZlTW5pUnFQS3ZTQ1dQUUdsT3lPWldveW83SV9lQ1I0SzREeHNlQjQ?oc=5",
-      "date": "Sat, 25 Jul 2026 11:57:01 GMT"
+      "title": "乗用車に追突、頚椎捻挫などけが負わせ現場から逃走 ひき逃げ容疑で福井市の22歳会社員の男を逮捕 「間違いない」容疑認める",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hckh6a3hINU9EYnVqWDR3MnhlVDJmZExqbURVYmJfd3BCVG9DZV9FODBxalNkVWxqYUZPc2ZfNlY3ZThScGFZQlNERHpsMjNmTTJNb2V5aGVNbFltRDhFeWZGazVqcm43?oc=5",
+      "date": "Sat, 25 Jul 2026 11:37:45 GMT"
     },
     {
       "title": "【速報】あわら市の国道8号でトラックと乗用車が正面衝突 1人がドクターヘリ、3人が救急車で搬送 現場は片側1車線の緩いカーブ",
@@ -107,14 +112,9 @@
       "date": "Mon, 20 Jul 2026 10:20:00 GMT"
     },
     {
-      "title": "福井市で横断歩道を渡っていた女性はねられ死亡 7月25日夕方",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SUUlXZFBLeTBqR1JqekxpMXJBZ3hKZFpoVGRyN0FSTGxiM3V4TzlDY21QLWlhOVFlbmN2YnZfR2FxOTB4SDU1T3dkZkRJUnNTQnR6OHBTU2N3SzhWQWc?oc=5",
-      "date": "Sat, 25 Jul 2026 11:34:00 GMT"
-    },
-    {
-      "title": "【速報】福井駅近くの市道交差点で死亡事故 横断歩道を渡っていた80代女性が左折車にはねられる",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RWnFxQ1V3ZlN1SW1ubGhxTU1RdkE5cFpVQmxDNF82bEZ6cmdUcXlTbjBoMnBxd0ZiZUluNnlNY2FNbVRMNS1TdC1wZF9NWEVRTkFOT2tqQkMyQkk5UkVpVnNPVFN6VzUy?oc=5",
-      "date": "Sat, 25 Jul 2026 10:17:29 GMT"
+      "title": "福井県の70代女性、熱中症で死亡か 救急隊員到着時にはエアコン作動しておらず（福井新聞ＯＮＬＩＮＥ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbXpYeC1ZSi04NWtWeFB4eFQycmdKVFNLSzJwWXBlNHY4UlhEWVhtc0FaVmdseDFabTFiZ0tNUHBWVGVxbGY1VmdhZDVMQTlFaEFRQk9DdFZnaEVFYUdzTHU2NmVOZWFEN18wcTVtLWlrTkw5OFI4c25zUWo4c1k?oc=5",
+      "date": "Thu, 23 Jul 2026 21:40:52 GMT"
     }
   ],
   "official_links": [
