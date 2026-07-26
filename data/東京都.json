@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-07-26T06:01:44.892038",
+  "generated_at": "2026-07-26T09:01:29.803836",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 23.1,
-    "temp_max": 32.0,
-    "temp_min": 22.8,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 27.6,
+    "temp_max": 31.3,
+    "temp_min": 22.9,
     "precip_prob_max": 100,
-    "precip_sum": 25.4,
-    "wind_speed": 1.1,
+    "precip_sum": 31.9,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
         "temp": 23.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 22
+        "precip_prob": 69
       },
       {
         "time": "03:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 8
       },
       {
         "time": "06:00",
-        "temp": 23.1,
+        "temp": 23.4,
         "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 27.5,
-        "weather": "快晴",
         "precip_prob": 2
       },
       {
-        "time": "12:00",
-        "temp": 31.3,
+        "time": "09:00",
+        "temp": 27.6,
         "weather": "快晴",
-        "precip_prob": 31
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "曇り",
+        "precip_prob": 29
       },
       {
         "time": "15:00",
-        "temp": 31.7,
+        "temp": 31.3,
         "weather": "晴れ",
-        "precip_prob": 96
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 28.2,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 28.7,
+        "weather": "霧雨",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
         "temp": 26.3,
-        "weather": "雨",
-        "precip_prob": 96
+        "weather": "強い雨",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
       "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zeGRaMXo2bjJxdHBGSzcyT09JZnZ2bFJBXzlmRnpBcVZqdmxzemlkR1kwdFh4X19VeXlqUVNPNzM5Q0FjYkt1a1I4MW1ZVU52WXREdk9Lcw?oc=5",
-      "date": "Thu, 23 Jul 2026 20:02:00 GMT"
-    },
-    {
-      "title": "７月２５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEWUVvZ19KS2NBelNTaV9OdFNQRDc1cTZORzhfa2syZHNfd2hkaTc4MUpxN0g5ZDRpZS1SRzVYUHdhRDYwUGF2RjI0VkVzcWJweGhpLVkzU3ZCWDBNNnFGMHpYZ0VXNzZ3Wi1JblNOVVdVb1JicU4w0gF3QVVfeXFMUERZRW9nX0pLY0F6U1NpX050U1BENzVxNk5HOF9razJkc193aGRpNzgxSnE3SDlkNGllLVJHNVhQd2FENjBQYXZGMjRWRXNxYnB4aGktWTNTdkJYME02cUYwelhnRVc3NndaLUluU05VV1VvUmJxTjA?oc=5",
-      "date": "Fri, 24 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "7月24日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kMEJGdmhPQ3BMODlxd0tGSU9ESjFac0NNdjBKdXdXZTlFZndLLTFFYlRTNEl6RTcxUHdDRDBodHRwSEFhbmRHdU5EaXFyRmxHUmRoOFV2UHZKM3liQ2dkWFRMdzlUckxhb0hqX2lEa9IBdEFVX3lxTE8xYWc2bmJsTlYyWkNPckEzNVU4Wi1JdksxeTBDTU83d3NILU02N1NtelBCLXhpQWJUcm8xZzdQMXNHRVpsemloWGFrM2xZRHJWOGFoVGZ3cG4wRGQ2dmdOdkhBUkJnZlBxOVM0bDNwU21PUTVj?oc=5",
       "date": "Thu, 23 Jul 2026 20:12:37 GMT"
+    },
+    {
+      "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaEc3UXpWZ2lWU3Q2Vk9mSzZCWmhha254clpUaG9VeEdKdzR0TmFYOGZmbGpTOTJzeXRGbmdDTHhMMC1ac2RWc3NuMmlhWVBLcjcwdVNjcw?oc=5",
+      "date": "Fri, 17 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
@@ -85,9 +80,14 @@
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     },
     {
-      "title": "7月18日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反” あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaEc3UXpWZ2lWU3Q2Vk9mSzZCWmhha254clpUaG9VeEdKdzR0TmFYOGZmbGpTOTJzeXRGbmdDTHhMMC1ac2RWc3NuMmlhWVBLcjcwdVNjcw?oc=5",
-      "date": "Fri, 17 Jul 2026 20:02:00 GMT"
+      "title": "７月２３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92TWs1SThxS0tCTU9aaVpSZWRuaWxLaVBvTEx1YktXWFBrbzhRQUZCSDc2Yk9leTd2SS11aEhxSXF3aU9oTXRuX0p0cXpROEhPNEhXVktELTJDcnhPWWlNbUNaSjJUYko4ZGFncFMxQnFiQdIBd0FVX3lxTE5DaUVMbEV3dWYwMkUwVFF6bXRWcG9PZTduMlptMkp3OUpJUnpsLXU4V2FicU5yelJuWE5hd1hIaTFpZzZBWnlqTjJKME1Qd2JOaW9HeUo5UnhKREpsUm5qUkZhQzRGcTRsRlkwcTYzTHdBWWs3V2FN?oc=5",
+      "date": "Wed, 22 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月23日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53ZnU3YXhPM2tBMkl2a0ZOamlSWUhXS29sdUVMdUVocmpHNlY4NGZKalJockcxaUNnTi1wQmVDMk10Zy1iMmpEMzQ5cmpDQ1hjVkM4N2FSMGV2U1U3djB4MDVhemgwWlFsYVRiSkg3Z9IBdEFVX3lxTE1jVkFpNnhqYW9wbzQ0ZC03NmJpUW9ZTVVtWGxaazhfSmhsbVc3ZXNOR1BDdmI3T0o4aGRHdXpRYXJUNFk1dXVPaGY3N3pjVmFYYXAxVl82U0diUmxoTjZ3cTRfSUlDMkhpWkVjOXpkZ3NGeUVQ?oc=5",
+      "date": "Wed, 22 Jul 2026 20:10:05 GMT"
     }
   ],
   "accident_news": [
