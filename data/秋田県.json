@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-26T12:00:43.170429",
+  "generated_at": "2026-07-26T15:01:02.499731",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 26.0,
-    "temp_max": 26.0,
-    "temp_min": 20.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 22.2,
+    "temp_max": 25.2,
+    "temp_min": 20.1,
     "precip_prob_max": 100,
-    "precip_sum": 3.2,
-    "wind_speed": 10.0,
+    "precip_sum": 5.8,
+    "wind_speed": 8.4,
     "hourly": [
       {
         "time": "00:00",
@@ -33,25 +33,25 @@
       },
       {
         "time": "09:00",
-        "temp": 23.8,
+        "temp": 22.9,
         "weather": "晴れ時々曇",
         "precip_prob": 51
       },
       {
         "time": "12:00",
-        "temp": 26.0,
+        "temp": 25.2,
         "weather": "晴れ時々曇",
         "precip_prob": 53
       },
       {
         "time": "15:00",
-        "temp": 25.3,
-        "weather": "晴れ時々曇",
+        "temp": 22.2,
+        "weather": "霧雨",
         "precip_prob": 43
       },
       {
         "time": "18:00",
-        "temp": 21.8,
+        "temp": 20.8,
         "weather": "弱い霧雨",
         "precip_prob": 45
       },
@@ -64,11 +64,6 @@
     ]
   },
   "enforcement_news": [
-    {
-      "title": "7月26日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WTFBXYjFiTEdIYzVuNWZxVE40NzVRSTBlckM1WnM1bFd6RVA0T3lLN3hqRk9rYmxmVVhuWGVjMk1BRzJsRVIxMlpTQzdqRl9oa0NmM2ZQVmFfTWlPbHc5b1VxcWtySkJuQV8wQjRrSdIBdEFVX3lxTE1fQnhiSDVrdU9KQ2hwSi1udjNrZGl5V3Nla1AzbG5aLVIxNXdJZ3c3SGdQaXpodmhNSXY3NGlJSUZZTUlKSmJyYjJxQjFoTWxVOFpwVnFBa1hnR3ZhU3BncFBEcjhPRzVHT1JGRk82VkZWdWhF?oc=5",
-      "date": "Sat, 25 Jul 2026 20:02:00 GMT"
-    },
     {
       "title": "7月26日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZEdoeWRoRm5kcjU0TDlhTHNITEptWVc3MTdMS29sUWpFMjFHTXhBUUhlQnRlSWd0Wkp4VG1ZZk5YZDl3TXloSWlMc1E3TVlCb3AycW5MNVBSZExjU2tLZGt4MVk3VG00UTV2UlgzYnhOTzE50gF0QVVfeXFMUG9kR2h5ZGhGbmRyNTRMOWFMc0hMSm1ZVzcxN0xLb2xRakUyMUdNeEFRSGVCdGVJZ3RaSnhUbVlmTlhkOXdNeWhJaUxzUTdNWUJvcDJxbkw1UFJkTGNTa0tka3gxWTdUbTRRNXZSWDNieE5PMTk?oc=5",
@@ -83,6 +78,11 @@
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月３０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
@@ -112,9 +112,9 @@
       "date": "Sun, 19 Jul 2026 07:53:02 GMT"
     },
     {
-      "title": "軽乗用車が自転車に衝突する事故 自転車に乗っていた男性（85）死亡 秋田（2026年7月19日掲載）｜ABS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVI1UW5jMFdQSGZMdGVWbXhWT2tRWFQtY2tXRWtqejlhdExfZnJfY2lDRE1FWHN5dGZ4N0FrNzUxclZxd0szUjB5aFZiT1RCUS0yUktkM25iZEhnQVNGS1NZV2dtaGJjaDFLNC16ZS1rdHRxN1c3cUN4cDFpYTdZWEpodnIxMXc?oc=5",
-      "date": "Sun, 19 Jul 2026 09:47:00 GMT"
+      "title": "自転車の８５歳男性が車にはねられ死亡 車が自転車を追い越そうとしたところ… 秋田・横手市（秋田朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VbjRWOFBFZ1ljZUU5RjhZd1k2dkwwRWlWajRLQVN1cFRfYmp5czVYTUotT0dwazBHN2xrQzNCOGN3Zk0wM19tMmxQYnBHOGpXQXRVWmIxUjZxNE4zV2ZZVHJrMGgtbnJ6Y3RJNW9iUFQwVEg3XzgxOVZTSjdGMnc?oc=5",
+      "date": "Mon, 20 Jul 2026 04:06:02 GMT"
     }
   ],
   "official_links": [
