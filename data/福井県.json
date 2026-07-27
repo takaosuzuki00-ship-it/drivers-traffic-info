@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-27T21:01:52.838647",
+  "generated_at": "2026-07-28T00:02:04.161563",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 25.7,
-    "temp_max": 29.7,
-    "temp_min": 24.0,
-    "precip_prob_max": 99,
-    "precip_sum": 3.1,
-    "wind_speed": 2.3,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 24.2,
+    "temp_max": 30.5,
+    "temp_min": 23.6,
+    "precip_prob_max": 100,
+    "precip_sum": 29.8,
+    "wind_speed": 4.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 24.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.5,
+        "temp": 23.7,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 24.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "09:00",
-        "temp": 26.5,
-        "weather": "曇り",
-        "precip_prob": 90
+        "temp": 28.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
       },
       {
         "time": "12:00",
-        "temp": 27.0,
+        "temp": 30.5,
         "weather": "弱い霧雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 28.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 71
+        "temp": 26.7,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 28.5,
-        "weather": "快晴",
-        "precip_prob": 59
+        "temp": 26.4,
+        "weather": "強い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 25.7,
-        "weather": "快晴",
-        "precip_prob": 6
+        "temp": 25.5,
+        "weather": "強い雨",
+        "precip_prob": 100
       }
     ]
   },
