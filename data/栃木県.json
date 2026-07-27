@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-27T06:01:22.810500",
+  "generated_at": "2026-07-27T09:01:04.447597",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 22.4,
-    "temp_max": 30.0,
+    "temp_now": 25.5,
+    "temp_max": 29.4,
     "temp_min": 22.1,
-    "precip_prob_max": 96,
-    "precip_sum": 0.7,
-    "wind_speed": 6.9,
+    "precip_prob_max": 100,
+    "precip_sum": 0.8,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 22.9,
         "weather": "弱い霧雨",
-        "precip_prob": 47
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 22.6,
+        "temp": 22.5,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 22
       },
       {
         "time": "06:00",
-        "temp": 22.4,
+        "temp": 22.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 10
       },
       {
         "time": "09:00",
-        "temp": 25.7,
+        "temp": 25.5,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 18
       },
       {
         "time": "12:00",
-        "temp": 28.4,
+        "temp": 27.8,
         "weather": "晴れ",
-        "precip_prob": 51
+        "precip_prob": 49
       },
       {
         "time": "15:00",
-        "temp": 30.0,
+        "temp": 29.4,
         "weather": "晴れ",
-        "precip_prob": 92
+        "precip_prob": 94
       },
       {
         "time": "18:00",
-        "temp": 26.2,
+        "temp": 25.7,
         "weather": "晴れ",
         "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 23.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 80
+        "temp": 22.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "15歳の男子中学生を覚醒剤取締法違反の疑いで逮捕「俺は覚醒剤なんてやってない」 栃木・栃木市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52MmVrWW5xdlFkUW9qNEJQR1pDMTE4cHA2WDQ4dk1QQUpSNmswZ3otUmYzdG8zRThjcVNsUU54M1Zfb1BZV0h6S0lleVN3ZzZlcVRBSFBnbw?oc=5",
+      "date": "Tue, 21 Jul 2026 05:32:00 GMT"
+    },
     {
       "title": "覚醒剤使用の疑いで中学生再逮捕 栃木県警 過去10年で初の中学生摘発",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03Skx4eWJ5dXRqb19WNFcwazV6X0t1a2ZCU25fSE0zN25yOGl2a0VWUTdlZXV0SFJ4cnFrUXNDNl8zWndnMGc2TEJJLUtiY0tnYUFSMDI3WFhnSzA?oc=5",
@@ -83,11 +88,6 @@
       "title": "【交通取締情報】福井県警 ３月２３日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DbGFmV1hEMEVTcUt2T1ZwR3VEVmxTbi1PU0pQVUttc0c5QkxpckE5cENja2E2MFh4Y01SZjNBQ2FmQTBETUVaV3dkQQ?oc=5",
       "date": "Sun, 22 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "15歳の男子中学生を覚醒剤取締法違反の疑いで逮捕「俺は覚醒剤なんてやってない」栃木・栃木市",
-      "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQOUp2WmpicVhGZUg5NXVnZFROQ3NqM29ZZE84cFBqR2lEbWJXZkxOdXBoSDlJRWZ3VWp1TEM3em5vSnNscDFPZFJvVTVORlRFYVpENHVBdEJWMGpGalh3N0JrZkJUaUcyVTZEYjlaZFFRMGxpOGlJbk1Dd3Jldi1MY1ZZX25PM0p4X1VSbVNQRXZpaElGNXctdUpwUkowWDVEeGtlSU5abjJrNUdwd0ctT2tWamdhV0pOYmhkc1FBUXJIeDdTUnpYVWRaMnJhRlJuLWJPcklJZks1X0YwakRDQzhRRGRuUDlJdWVHdGZycjJrNmdGbkN1aEF6ZlQ5dzdjeGRFUGdObkpacEJuZDZyWEtlLVM2QTdnN2xLbnlvcm5VUUV0S1VBbHA1M21RQkZGSmVYVXUwcmFFeGNUTzBmeDZRSmZrNDBHUjVSYVRuTkkwdHBZbndPVXM4RGVEZThDTW9GRHVMMXpNYU1GbnBjb0pDVTd0bU5rNGpHdXpfS3c3S19wV055dlpTdURabWd0U2tGR1BRSnFBa2hqUVpoaksyaTkycEFKcWdaTXlMaENsWE9uUjlvYWVmUmxhU3BBX0FQNm5FcFJMZXJOaHpXNm5MVjJ4dGliMjJ4VUp1aHI0UGRGZEpwMERaTlh5S0cwZmItSHhncjh5Z2p3ZGtKQmxIWUw0RlNRejhOamxyNHFaTEt4dEVrWlNKTm8ta3BDVnZjZU0wdkZFVUJrVm5QTTMxZi1hVW1TdEUyTGpodm1nOFVnVWVsLTdDNktnX3lmSTNWOTNSN2F5S2dZXzdPMGFLemkwQkE3YzNZSEpyRi1SRUxlb0RkRy03RVF5YmJGRlBobVNFeUdESHRSMldhTktVSGpEcnktZWZlR2tOYWFBY2RFR3pHRnh2NktFaEpLNEtocU40ZVB2Mk1CMGxibEt0a2xfZWE3TEZrbjF5UjYtUmVfUkRxa3BB?oc=5",
-      "date": "Tue, 21 Jul 2026 14:07:06 GMT"
     }
   ],
   "accident_news": [
