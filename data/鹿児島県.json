@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-27T18:04:14.085497",
+  "generated_at": "2026-07-27T21:04:09.236536",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 31.3,
+    "temp_now": 29.4,
     "temp_max": 32.2,
     "temp_min": 27.6,
-    "precip_prob_max": 70,
-    "precip_sum": 0.1,
-    "wind_speed": 5.9,
+    "precip_prob_max": 84,
+    "precip_sum": 0.2,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
@@ -41,13 +41,13 @@
         "time": "12:00",
         "temp": 31.5,
         "weather": "快晴",
-        "precip_prob": 31
+        "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 32.1,
+        "temp": 32.2,
         "weather": "弱い霧雨",
-        "precip_prob": 69
+        "precip_prob": 84
       },
       {
         "time": "18:00",
@@ -59,11 +59,16 @@
         "time": "21:00",
         "temp": 29.4,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月25日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYWpXMFhkUlo2djI2ZEZvblNrbnBmMU5KN1BtaGttUWtSOHdLT2FXZG4zZmExNTNNVElNOU5qbVFKcW5jellxRGVsdEFNbWYzS2RTWlRjcnBJdw?oc=5",
+      "date": "Fri, 24 Jul 2026 20:02:00 GMT"
+    },
     {
       "title": "7月23日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53ZnU3YXhPM2tBMkl2a0ZOamlSWUhXS29sdUVMdUVocmpHNlY4NGZKalJockcxaUNnTi1wQmVDMk10Zy1iMmpEMzQ5cmpDQ1hjVkM4N2FSMGV2U1U3djB4MDVhemgwWlFsYVRiSkg3Z9IBdEFVX3lxTE1jVkFpNnhqYW9wbzQ0ZC03NmJpUW9ZTVVtWGxaazhfSmhsbVc3ZXNOR1BDdmI3T0o4aGRHdXpRYXJUNFk1dXVPaGY3N3pjVmFYYXAxVl82U0diUmxoTjZ3cTRfSUlDMkhpWkVjOXpkZ3NGeUVQ?oc=5",
@@ -78,11 +83,6 @@
       "title": "納めた反則金、交通違反じゃなかった…鹿児島県警が“誤摘発”139件 規制と標識が不一致「警察官の認識や連携が不足」",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCTGZPUmtWNi1zVXY5LWpmV2RueWVIQ1Z5M1JKcERQc1hrNlRMTjY1VFMyY0ljZmpCa0NMWE11ZWJiSi15S3pGS1FjMUQtYUVqZVlJSzlzYw?oc=5",
       "date": "Thu, 14 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "title": "７月１６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ueXZlRHYyUkNLc3VDNmZCbUtGSGF0MU1EUTl0cDVRVnFMN1lud1Y0SkZoRjJwOEZac1NVYmdPX2FSQVc1dWJYSHV5OFBFWVgyQzFPMnZWd2NZZXRTUGxoajhBZHFoSUJfa3o2ZzVGTHc5d9IBd0FVX3lxTFBJNnU3eWlXbFEzNUtlbVNWc185RmZNNFBhSnQwT200eHB5VEpMblBXbldkdG9qVXJJWW41b3VJU2Y1VFBYNEZsSVZBRmUyNkdlOUJMN2NsZnRDTzFLUjBJeHFGVDFwMVl0aHd5Q2htVHdtZjRRRlpB?oc=5",
-      "date": "Wed, 15 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "鹿児島県下一斉飲酒運転取締りで16件摘発 酒気帯び運転2件、速度違反5件など 県警「取り締り強化していく」",
@@ -107,14 +107,14 @@
       "date": "Sun, 19 Jul 2026 09:43:00 GMT"
     },
     {
-      "title": "講習会は「市電の中」で！ 市電と車の事故を学ぶ交通安全スクール 鹿児島市（KKB鹿児島放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpS1Z2NHRLZVd5bEVhMlhqR1N1RXYyb1FRUkwtbG0zYkRnVlNaUnpQOHp0bXVad3A2OTc4Undyc3g2cVdJOEx2Sjg4RTM1Y2phc0xZWXR5QUFYRS1pZTRqTGNNR1RNM3pJNW94OHd1ZWZrcmZrOFA5U3RTSy1RTWs?oc=5",
-      "date": "Sat, 25 Jul 2026 09:03:59 GMT"
-    },
-    {
       "title": "鹿児島県内全域に死亡事故多発警報――23日以降7日間で5人死亡",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01N0hpamw4MVlBRElxejF2Qk9UTUJDM1FUQUxlSzEyTXVqd2llSWFDNy1iTDhxYVdOcGtLNEc4WjhJb0NKWXhlbmZJa2tkQndvOFZKMEZVUQ?oc=5",
       "date": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "講習会は「市電の中」で！ 市電と車の事故を学ぶ交通安全スクール 鹿児島市（KKB鹿児島放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpS1Z2NHRLZVd5bEVhMlhqR1N1RXYyb1FRUkwtbG0zYkRnVlNaUnpQOHp0bXVad3A2OTc4Undyc3g2cVdJOEx2Sjg4RTM1Y2phc0xZWXR5QUFYRS1pZTRqTGNNR1RNM3pJNW94OHd1ZWZrcmZrOFA5U3RTSy1RTWs?oc=5",
+      "date": "Sat, 25 Jul 2026 09:03:59 GMT"
     }
   ],
   "official_links": [
