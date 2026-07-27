@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-28T03:02:08.353156",
+  "generated_at": "2026-07-28T06:03:40.457736",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.1,
+    "temp_max": 34.2,
+    "temp_min": 24.9,
+    "precip_prob_max": 96,
+    "precip_sum": 0,
+    "wind_speed": 1.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 33.0,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 33.7,
+        "weather": "快晴",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 63
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Yc2s2Mno3anJKei1SOURTaHNybU9GY0JIWkFMX0pGWUQtYldjN0gwdlZEb3VseFg3SGd6ZTZVa1NEQ0JXWUpESjNJeWM1eTVIbVpyN3lyMHRnZ1J0LUVWeHduVWdzdWIzazRQdzV5SlFtUdIBd0FVX3lxTE1rVWZ3R04wdXRSLXIwZ1laMlhTaHhrREotdldzTzNtcUZPeWhkZkhoZ0ZSbVVSMWRUTzlEVjM0TzlfRlRxMWlPZ2RRVDF2X0d4eWU0SGd2WWJRUWxJSkZwai02ckhZa2pZN0ZQbWFMTV9Ld24tc3Aw?oc=5",
+      "date": "Mon, 27 Jul 2026 20:08:37 GMT"
+    },
+    {
+      "title": "７月２４日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4dUQyN1lqVkpCUGdfOVU3S2J0U3lvMkJ4a291RU1TOUJnOS1qclZScnhsRV9YNk9DWnJaSk1WN2o5NFl0d29LYVdUY3NUeHhRQloyTkhsbTNDRUd5TjE0WkFEYk96bDhC?oc=5",
+      "date": "Thu, 23 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "７月２７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01d29ZeXpkaExLMGxLVDNiam1UR0VyNDRCWDZtV0ItTEY4b2ZvaEdjVXl1TElvcWs0dzZsUFNMcFFTVUdqeXk0eUJDc09aRl9XNzdRRVZ4cl9rY2RObUl2QVJFV3BmeEpMb0JwNnhaa1J6Z9IBd0FVX3lxTE41TXRqREdxR3ZkVzhZdTRvR01Dd1JQUjZpQmJpLVdIVFZLZmxpYnlKaFlFejZPUEU5cW02Z2twNmtVSy1pZnNXdnFqOFpRbXJYRkZSUkdaeXJKdi1rRXBwNWhCU1VmVkJDeGlOYVN1RkFZOUhIck5N?oc=5",
+      "date": "Sun, 26 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転は重大な犯罪」 奈良県警が年末の一斉検問 12月20日まで重点的取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RDlrTzNCM01uSGlRbjBKdWxvQVlRQnU3eUdLYXotNm8tN0g0VUhRd09uZ3NVcVRnelJXWWVFYll5U1p2VXVUOG11TVZ6N005eDBpZDhOcDhnYjlRTURXZDBqQ3IyZEsybktrNktzcEhhZ01UZ3c?oc=5",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車2台の正面衝突事故で2人死亡、1人重傷 どちらかが逆走か 奈良 [奈良県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV1pyOEQxN005Sl94UzJzb0FEYllhNkVuUWQ3QXVTaC1Oc1hnNE9BYVJ3dEQ0X3JlcF9vaFAtM3VFTzJXQXQ1Q3VtN2pMVkZ6VDdHYVpJd2NsRXhQeVpQb05ZWHlTdjg?oc=5",
+      "date": "Mon, 20 Jul 2026 00:33:31 GMT"
+    },
+    {
+      "title": "交差点で車と衝突、オートバイ男性けが - 奈良県大和郡山市の県道",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvcVlXNm9Kc1BMYnBxbFJBYTh3MzYyNUNpcUNUZ1luV2NGZFROR2lQbnd3WkpRVzEzTU82SGd4ckFkLTZQcXZQUURJNjZ4ZzNJVUg4YUVUdXlfajV4YVBr?oc=5",
+      "date": "Fri, 24 Jul 2026 12:30:00 GMT"
+    },
+    {
+      "title": "奈良 西名阪道 軽自動車が正面衝突し2人死亡1人大けが 逆走か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PZFdJYTlmbDRnQWNxMnY1c3FkOXF1VVNadEZHQXNoa2F6TllwTzBrdmNPWlVFMVQzY1hwWld1VXhPWFRTMVROcHd1TmhUYVd5b3p5aHVsblZFNkxEeWR3?oc=5",
+      "date": "Sun, 19 Jul 2026 19:49:37 GMT"
+    },
+    {
+      "title": "西名阪で逆走か、３人死傷 軽自動車が正面衝突―奈良",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiSWdaYlY0OER1MXZNTmFWV3pvWWRHeU9MRGJrZ3dyYlpXVGhxa3BFNjU1a0tkUkFTdXVDTkR1czNHU3NPX0UwdmJoYl9OMXlETmQ2Q0dxY1l2TnVUSmp3VE5WWQ?oc=5",
+      "date": "Mon, 20 Jul 2026 02:38:00 GMT"
+    },
+    {
+      "title": "奈良・西名阪自動車道で正面衝突事故 逆走か 2人死亡 1人重体",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZnA0UUZCWnBiT2RBeDNrbHFxSnQ1UFh5STZfdVhEYVAyWFl2bzBIMERqUFpsclNiZ3NWMnBDbmdVUEFocnRUQ0pfVUVNbVJGSVdUeHVRMkNqc3F3SUdvRXNFMF9QaGhkWUhJbG1NaktUUQ?oc=5",
+      "date": "Mon, 20 Jul 2026 03:15:06 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

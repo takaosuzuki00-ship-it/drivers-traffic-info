@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-28T03:02:08.645254",
+  "generated_at": "2026-07-28T06:04:58.294075",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.8,
+    "temp_max": 34.2,
+    "temp_min": 25.8,
+    "precip_prob_max": 8,
+    "precip_sum": 0,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.4,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 34.2,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 32.4,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 29.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leDRKcWFRMDBsRDVKTTlublo4X1JOTi0xQjhRYVdQRWY5SVpGeGR4TGU0WUdlcGdDeDhWQWFrNmNBNkk1Y3hhN0ZqQTRyYVBnaDV6TlNzYmp3TUlDU1MtazNWZnkxbHZHc1pqQkR1SU15V0RqWVFkS0QyckxWdGc?oc=5",
+      "date": "Mon, 27 Jul 2026 20:08:31 GMT"
+    },
+    {
+      "title": "7月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zWmJVTERPYy11VnBNQzF6SFY5WTB0MWpkUXNfeHNaWUc1SXRMQllSUXNCSTk5MTljOXZkZkQtbU9haXBIWDZwUDQwV0hka3hPLVNIVnh3dFdWRHA4MkNDQTc3N3lET1RaM1FIWUpZRVlWc3FI0gF0QVVfeXFMTjNaYlVMRE9jLXVWcE1DMXpIVjlZMHQxamRRc194c1pZRzVJdExCWVJRc0JJOTkxOWM5dmRmRC1tT2FpcEhYNnBQNDBXSGRreE8tU0hWeHd0V1ZEcDgyQ0NBNzc3eURPVFozUUhZSllFWVZzcUg?oc=5",
+      "date": "Mon, 27 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月26日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56dy1EY0VQWlNHdzFUMmRqbG5sUDViaTJxcXNjUGc4aG16UXlzdnY2d25uM2JqbkFwRDdxQ2JLTVJ0SVRjUi1vbWhwZTllOWxnWG9odlRhNA?oc=5",
+      "date": "Sat, 25 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZDNkbFhiaE12MTdWYXY4Wk1OTGFKTGJCeDVhUk9qQjU0OWZRNGktellNUHY1eFE5Mno5SHppV3RTZ0JfZVRfMHlmczg0Q3BzcFRfNW40Z0tVZw?oc=5",
+      "date": "Sun, 26 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月26日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fQnhiSDVrdU9KQ2hwSi1udjNrZGl5V3Nla1AzbG5aLVIxNXdJZ3c3SGdQaXpodmhNSXY3NGlJSUZZTUlKSmJyYjJxQjFoTWxVOFpwVnFBa1hnR3ZhU3BncFBEcjhPRzVHT1JGRk82VkZWdWhF0gF0QVVfeXFMTV9CeGJINWt1T0pDaHBKLW52M2tkaXlXc2VrUDNsblotUjE1d0lndzdIZ1Bpemh2aE1Jdjc0aUlJRllNSUpKYnJiMnFCMWhNbFU4WnBWcUFrWGdHdmFTcGdwUERyOE9HNUdPUkZGTzZWRlZ1aEU?oc=5",
+      "date": "Sat, 25 Jul 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "バス含む5台事故、16人けが 大分自動車道、熊本の団体",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrQ0xiWWlfVEIya3k1UU9nc3ZybnlWWGJDcGJlYjRKdWNMMkpQa290TjNObnhleHR3ZHpiV3RnTzVDVnota2o5UDFnOA?oc=5",
+      "date": "Mon, 27 Jul 2026 10:29:00 GMT"
+    },
+    {
+      "title": "【速報】大分の高速道で九州産交の大型観光バス2台など5台の事故 バスの13人けが 乗用車にもけが人",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHhtZEZfWE5hUk1TWWE4TWlMN0t1dVlacDJMS01leXRFTTQ2TUdpN254ejVycW9LSUJSbXI0ZjBlSkRfX29VX1l0cXVMVUVvWU5xNmZ0N3JJSXRHT3Z2QzlLcnpkUDI4bFBqMTY4eGgxbHZQb2VnQ3hqOWg2TGtSTllOMTd4YTA?oc=5",
+      "date": "Mon, 27 Jul 2026 05:48:00 GMT"
+    },
+    {
+      "title": "【通行止め】熊本県菊陽町 国道443号の上下線が全面通行止め 大型トラックからむ交通事故の影響 ※10時45分に解除",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzcHBDbkMxX1VWUjBVc2pLellNNGZnRE9ENGdRYlpoUVRhQ19LaWw4UFEwRENuTGs0OTJCV19tQWZNSkF6WWV3RWdxR1J0cHNBSk1aaVQ3MHlFR243eEdN?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "熊本からの貸切バスなど5台が絡む事故で15人搬送 日帰りツアー中に…大分自動車道で現在も通行止め",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vdk1iczlDT29FT0c0b1dDY1dmdHlSMFZkcEZmMHowRXFWWllIUnlhWlVvMjB6d25GNE1tV3FGbnFCLVZqTHZxWVJfRHl4eFFkdFhvNFRrNjJuakxuUTRxbU5HekU4NzY5ZGVPSFBfRGE?oc=5",
+      "date": "Mon, 27 Jul 2026 10:05:00 GMT"
+    },
+    {
+      "title": "熊本・嘉島町で交通違反の緊急取り締まり 相次ぐ事故受け 御船署と熊本県警交通機動隊",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CeDJwQWhnb3AwaWFobkNucmZYNEZ0RXl5QlB3dnE5OUp0RFVDR1pZc1FSamhrdzlqUzAzWS1NaW9acGJhdEhEVU5jZ2tjY2M?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

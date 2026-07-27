@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-07-28T03:02:08.468767",
+  "generated_at": "2026-07-28T06:04:13.479580",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 24.6,
+    "temp_max": 36.1,
+    "temp_min": 24.6,
+    "precip_prob_max": 17,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 36.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 32.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 29.1,
+        "weather": "曇り",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月２８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Yc2s2Mno3anJKei1SOURTaHNybU9GY0JIWkFMX0pGWUQtYldjN0gwdlZEb3VseFg3SGd6ZTZVa1NEQ0JXWUpESjNJeWM1eTVIbVpyN3lyMHRnZ1J0LUVWeHduVWdzdWIzazRQdzV5SlFtUdIBd0FVX3lxTE1rVWZ3R04wdXRSLXIwZ1laMlhTaHhrREotdldzTzNtcUZPeWhkZkhoZ0ZSbVVSMWRUTzlEVjM0TzlfRlRxMWlPZ2RRVDF2X0d4eWU0SGd2WWJRUWxJSkZwai02ckhZa2pZN0ZQbWFMTV9Ld24tc3Aw?oc=5",
+      "date": "Mon, 27 Jul 2026 20:08:37 GMT"
+    },
+    {
+      "title": "7月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFhPOTFBMHlHb2RQbnVKMzZYLXliNFhqODFHd1JxV3A3OUFjUWd6ckF0UHZTTGloV3R0d0tJeVdURk9JcVVXT2ppeG92MVZObjdCT1lTcndITDVDNHAxc01lX0N3TmQxbjNXa3o4VHpiX1JVZFlGaUMwQU9XNEhKaEt30gF0QVVfeXFMTjNaYlVMRE9jLXVWcE1DMXpIVjlZMHQxamRRc194c1pZRzVJdExCWVJRc0JJOTkxOWM5dmRmRC1tT2FpcEhYNnBQNDBXSGRreE8tU0hWeHd0V1ZEcDgyQ0NBNzc3eURPVFozUUhZSllFWVZzcUg?oc=5",
+      "date": "Mon, 27 Jul 2026 20:06:11 GMT"
+    },
+    {
+      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "7月28日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wT3VLb1Z5dXZuM3VPSDJiRTJ0LU9DdnpHbm5hMkwyc04wbEpvQm9rcXE1T1JlZm0tSTI4cEpVM0l4NW1yeHIwelYwQktwS2s4bTdNV2tGYW1LaXUwY3BGVDRaVnBJcXlWc1J4TVlxd9IBdEFVX3lxTE5lWGFMX2tiRjFrODR2VXpmRVBUVzVUbDRxOHFPdXFhWXBxNzQ1VVRGSTFscnZhM3luT3FOZzdFSWI4a0VRZnU3d3FlUUt1aEhrTXVWb3ZOSVlqazA1Y0JQOGppVTBLNHFhVS04LWxDX0IxYloy?oc=5",
+      "date": "Mon, 27 Jul 2026 20:08:41 GMT"
+    },
+    {
+      "title": "７月２７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01d29ZeXpkaExLMGxLVDNiam1UR0VyNDRCWDZtV0ItTEY4b2ZvaEdjVXl1TElvcWs0dzZsUFNMcFFTVUdqeXk0eUJDc09aRl9XNzdRRVZ4cl9rY2RObUl2QVJFV3BmeEpMb0JwNnhaa1J6Z9IBd0FVX3lxTE41TXRqREdxR3ZkVzhZdTRvR01Dd1JQUjZpQmJpLVdIVFZLZmxpYnlKaFlFejZPUEU5cW02Z2twNmtVSy1pZnNXdnFqOFpRbXJYRkZSUkdaeXJKdi1rRXBwNWhCU1VmVkJDeGlOYVN1RkFZOUhIck5N?oc=5",
+      "date": "Sun, 26 Jul 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故で車いす生活の中野由佳さん 始球式の夢を実現 広島のネイリスト",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbVNBU253TUdCYnV0SjVEQXRObmNYbVZjZUdkY0V2cUlNNXpOSmVnT0lFVXVVVXpHdERzMGtBMWVkYkFhRlhvRDFubEFaVDhkQjQtQVg2NzV6bHJvNURNZkhsdFlOa3ZSbnQ0VmQzcElESEl0dHkwMkZmVnF5bmc?oc=5",
+      "date": "Mon, 27 Jul 2026 00:40:00 GMT"
+    },
+    {
+      "title": "交通事故データ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "令和７年 広島県内市区町別交通事故発生状況（毎月更新）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15N0Jac1ptWHdYa2JIYV8tVUpQalBROXRTTFRWWko4bXB6Z2lHNUdsV1Y5aVBQS1VPQU16Ym5QOGJsemNBLVJNNnVIS1k0bzhXQjdnSGlvRlluc0twalh6aTVpNGxkYlE1MGtOcFhjZw?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【事件】広島市中区の飲食店で従業員死亡 男を暴行容疑で逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RRnJTMHBQVmNDcDdKQVhWc3Z4OC1pekxkeExmZ1o1d0QtRGhoRWdRYU9XQ2xYa2JPTmhQZGdlTHJzWGFWc3h2UDFuQVhFakh6ckZWZDRkeUdzQQ?oc=5",
+      "date": "Fri, 24 Jul 2026 23:59:00 GMT"
+    },
+    {
+      "title": "広島駅で人身事故 山陽新幹線 岡山～博多で一時運転見合わせ（テレビ新広島）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMXdhWTZtTzgxa1VRNUZLQzVadVNyRXV0b2V3N0kwc1JpM1k1V0M0ZWJDRWNKLXFJRU0wNld4LTZCZkkyWERZQkVhQnh4Tk9NYTNENlN1ZjBKeF95TXZSSmZYa3ZudVg5WmZkWEZHUUtaNlAteEtsZmozem5yUjA?oc=5",
+      "date": "Sun, 26 Jul 2026 09:57:02 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",
