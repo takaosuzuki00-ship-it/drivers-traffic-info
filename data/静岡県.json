@@ -1,83 +1,73 @@
 {
-  "generated_at": "2026-07-28T06:02:53.155218",
+  "generated_at": "2026-07-28T09:02:33.547212",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 24.1,
-    "temp_max": 27.8,
-    "temp_min": 24.0,
+    "temp_now": 25.7,
+    "temp_max": 28.3,
+    "temp_min": 23.9,
     "precip_prob_max": 100,
-    "precip_sum": 58.2,
-    "wind_speed": 3.3,
+    "precip_sum": 65.1,
+    "wind_speed": 3.5,
     "hourly": [
       {
         "time": "00:00",
         "temp": 24.6,
         "weather": "弱い雨",
-        "precip_prob": 51
+        "precip_prob": 73
       },
       {
         "time": "03:00",
         "temp": 24.4,
         "weather": "弱い雨",
-        "precip_prob": 35
+        "precip_prob": 71
       },
       {
         "time": "06:00",
-        "temp": 24.1,
-        "weather": "晴れ",
-        "precip_prob": 51
+        "temp": 24.2,
+        "weather": "強い霧雨",
+        "precip_prob": 55
       },
       {
         "time": "09:00",
-        "temp": 26.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 49
+        "temp": 25.7,
+        "weather": "霧雨",
+        "precip_prob": 67
       },
       {
         "time": "12:00",
-        "temp": 27.8,
-        "weather": "霧雨",
-        "precip_prob": 65
-      },
-      {
-        "time": "15:00",
-        "temp": 27.5,
+        "temp": 27.4,
         "weather": "霧雨",
         "precip_prob": 96
       },
       {
-        "time": "18:00",
-        "temp": 26.7,
-        "weather": "弱い雨",
+        "time": "15:00",
+        "temp": 28.0,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
+        "time": "18:00",
+        "temp": 27.0,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
         "time": "21:00",
-        "temp": 25.4,
+        "temp": 24.6,
         "weather": "曇り",
-        "precip_prob": 61
+        "precip_prob": 47
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
-    {
       "title": "７月２６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vNDIxbWVNOFFneEs3QmhrUFJpM0ZxTExicDE3TTJGMU81TkRpQmFfdi1sRWMyNWJNalJNbTZSX2Z4dURmdHJDZXoxNVB6X2lHbTQ5dzcteWhudjhqSGVnNGhSamxtWmpoSmpyUmgxc29TQdIBd0FVX3lxTE1kUUpscndYZVhhbWpEVS0xOE4tWTh0bWdjWFF2Qi05d3lrVWVxbEt5UGxmVkV5N05aUWk2b3JNTldhZzlsTm00UnJxWjRVcEMxWFIxZ3Q1REdhVnVwcXVIeHpBa3VPTGdydl85YVV5WHJ0cjhfR21R?oc=5",
       "date": "Sat, 25 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "連休中の事故防止へ 静岡県警高速隊・交機隊が交通取締りの強化の出発式",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTkZmTlBwNlNfOFEyTy1SVEVOMWZwZGowcWl2d3dOeFE2b05icWh6SWl5YnZ3ZVZIQm43RXdMbktOREtjU1NNOVhYalhNOHEwQjBvZUczVk1Qd0k?oc=5",
-      "date": "Mon, 25 May 2026 07:00:00 GMT"
     },
     {
       "title": "7月22日（水）【岩手県】 日中・夜間の交通取締情報",
@@ -85,16 +75,26 @@
       "date": "Tue, 21 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MUXVfYmtnOVRlRzlyM2dyUzVIWkNvaUM3em1BRVdkdlB5TllMeWhDUEhIVmFaQXdCQnRqUmZYd0lvTGpsT0s5ZV91dHFGUQ?oc=5",
-      "date": "Fri, 10 Jul 2026 06:56:26 GMT"
+      "title": "連休中の事故防止へ 静岡県警高速隊・交機隊が交通取締りの強化の出発式",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTkZmTlBwNlNfOFEyTy1SVEVOMWZwZGowcWl2d3dOeFE2b05icWh6SWl5YnZ3ZVZIQm43RXdMbktOREtjU1NNOVhYalhNOHEwQjBvZUczVk1Qd0k?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "７月２２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlWnZsUWV4bldMZk5kb2Znc3JXWGV6di01cU0xU19tYkYzNk5Za0l0b2h4QTdUUUJHUjNyV1lqUlFnbE0zRWV1ZzNnTjJvZFRxUy00UjNEZ3hXUEJZekVhbi1OQ2I0ak5TdE84Vnd6MS12QdIBd0FVX3lxTFAySU1TWXRiaXpBbXhucHhHeGpJU3R3THVDcG5pVW9nZHBTQUVnZVk0T1dNWEdFS3ZsWUxISUdVbWdlQWo4MGt2M1g0Ql9DanJzSFJ4a2Q1a3Rqd01yNDd1S2VLOGR2ZjQyM2Y2MUlTRWVUcjhpTW1n?oc=5",
+      "date": "Tue, 21 Jul 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "静岡）交通事故を減らせ！「ＡＫＤ総検挙」作戦中 [静岡県]",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmtQRVhSdy1XWkoybVc0WnUzSkgzODRrWmk0RG9sYjZvWUR6WWY5UjJ1MkRwUVRuT2ZRTVZoclh3Ymk4N3VRLXV1aUpjcy11RW1VM3p6ajFFQS1TX2lORW9rWTBKQ255ZmIyRHVkenk4cWhiQ2dCRkhJaTBlb2ZOLVE5WURGNGJyMTM4VjhEc0VCSGVTZ29XUjhn?oc=5",
-      "date": "Sun, 26 Jul 2026 01:51:29 GMT"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTVhYkZaMDBXeENadnBiNXk4VWdBYjlrVXFqdzJNNldhdkZ1X212NllfMWt5Nm1wbVlLRG91TDViUVJJa200VkVISFNuZmdCdmgydjRxX3BZSWp4SzdHTThHN2U2ci1VaXZuVVh3TWs2RThycXMyTzVucXhUOG9ZWEJFRmU4bGtPTVRKekNDMFhXWDItVUV6NHBB?oc=5",
+      "date": "Sun, 26 Jul 2026 03:34:58 GMT"
     },
     {
       "title": "「安全を つなげて広げて 事故ゼロへ」静岡市で夏の交通安全県民運動 出発式 7月11日から20日まで",
@@ -107,9 +107,9 @@
       "date": "Sat, 25 Jul 2026 20:10:00 GMT"
     },
     {
-      "title": "【速報】「沈んでいく人を見た」下田市の海水浴場で21歳の男性が溺れ死亡=静岡・白浜大浜海水浴場（静岡放送（SBS））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZGt5X21IY2NWQ1IyakRMV3dZVnBaUVpIb3VWOGR1TFFxSFh3SEVmVWhrQnlnSVdJd01uZzZpZ2pVMExzcDJ6YVdQTXlSdFhhQTBrQW1QSTUxWUE4Q21Ya01PYWRMNHVmMTN0clRaNzNPOXRfdkxPdVlfUnhVczg?oc=5",
-      "date": "Mon, 27 Jul 2026 05:50:25 GMT"
+      "title": "静岡 下田 白浜大浜海水浴場で大学生が溺れ 病院で死亡確認",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90MHBmc1RlbkNKYnlYTFhKT080N2E2WkFLbXFWNjBzZzVzMDJhSU82ZkNOSW1pRUg1UnlwdmRVMlJZT0xYM0tib2E5RkRjSzd2enlrWU1QbTY?oc=5",
+      "date": "Mon, 27 Jul 2026 09:52:00 GMT"
     },
     {
       "title": "静岡県内で水難事故相次ぎ2人死亡 河津町の海開き前の海水浴場で73歳男性が 沼津市ではダイビング中の58歳男性が死亡",
