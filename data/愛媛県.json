@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-28T21:03:49.037273",
+  "generated_at": "2026-07-29T00:04:27.389346",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 27.0,
+    "temp_max": 28.0,
+    "temp_min": 26.2,
+    "precip_prob_max": 96,
+    "precip_sum": 14.3,
+    "wind_speed": 2.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 26.4,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 27.1,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "15:00",
+        "temp": 28.0,
+        "weather": "曇り",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "覚醒剤取締法違反の疑いで四国中央市に住む４０代の男を逮捕　警察が入手先や余罪などを調べる【愛媛】",
@@ -26,21 +85,21 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "飲酒運転撲滅へ県内一斉検問 県警、８月末まで取り締まり強化",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWWJhX3gwYVd4MVhkVnFVZXduMk1STVBNMlQtbDNWTkkwYXl6cUdxTzlNQWtvSy15dHp6WGliWUpHNjE2YjZmbFo5QktZT2pFQnRINUJRb3Bzek5mTmk1Mw?oc=5",
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜南海放送NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGREaWZjbmx2NFRLVWxDMEt5Q1d6bGFBalk5aFJlWHBRWk5WeTBnTFlkV1Y3WUhsQTFDaVplTDNHeVNIQ2dlRE16UWRoaUdUOU0yZV9rS0J3SWlSX05GZmVNbFdqNTNQcExGeElkNUU3YUZNaUlwQ1VMU2tFM3VjOG40OGFmcUk?oc=5",
       "date": "Wed, 01 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "１台は横転 乗用車など２台絡む事故 愛媛・新居浜市内の県道 「春の全国交通安全運動」はきょうから",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRUpDVVNHZS1rNjRMa05pMXl5MWl0OTc3MURycTRlQjlZSklyRmZfaGUyemxUR3otWDFsTVVHaDFfc29RM1I0a0lQMTVYbmRFLXRhRU92X2ZQWkpHYXBJ?oc=5",
-      "date": "Mon, 27 Jul 2026 08:54:00 GMT"
-    },
-    {
       "title": "「ガソリン漏れた」松山市の環状線の陸橋で車３台絡む事故 少なくとも４人搬送 漏れたのはオイル【愛媛】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yNXZSV2g5OHZVcHZPY0FGVlRnNExjRHl3VzVDNHNOUWNRS1libDVDQ2dtUVVxTjBHUHgybE1adWlLZm1hRndwSHpnbTVEUQ?oc=5",
       "date": "Sat, 25 Jul 2026 08:25:00 GMT"
+    },
+    {
+      "title": "１台は横転 乗用車など２台絡む事故 愛媛・新居浜市内の県道 「春の全国交通安全運動」はきょうから",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRUpDVVNHZS1rNjRMa05pMXl5MWl0OTc3MURycTRlQjlZSklyRmZfaGUyemxUR3otWDFsTVVHaDFfc29RM1I0a0lQMTVYbmRFLXRhRU92X2ZQWkpHYXBJ?oc=5",
+      "date": "Mon, 27 Jul 2026 08:54:00 GMT"
     },
     {
       "title": "鬼北の道路で普通車と衝突 頭から血を流し７０代男性が意識不明の重体 見通しが良い直線【愛媛】（テレビ愛媛）",
