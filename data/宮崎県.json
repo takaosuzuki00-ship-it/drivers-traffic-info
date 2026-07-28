@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-07-29T03:04:45.337670",
+  "generated_at": "2026-07-29T06:03:31.244479",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 27.8,
-    "temp_max": 34.8,
-    "temp_min": 27.4,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.3,
+    "temp_max": 34.3,
+    "temp_min": 27.3,
     "precip_prob_max": 51,
-    "precip_sum": 0,
-    "wind_speed": 9.7,
+    "precip_sum": 0.1,
+    "wind_speed": 9.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 29.0,
+        "temp": 28.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 27.8,
+        "temp": 27.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 27.4,
+        "temp": 27.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.9,
+        "temp": 30.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.8,
-        "weather": "快晴",
+        "temp": 34.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 32.0,
-        "weather": "晴れ時々曇",
+        "temp": 31.4,
+        "weather": "晴れ",
         "precip_prob": 51
       },
       {
         "time": "18:00",
-        "temp": 31.9,
-        "weather": "晴れ時々曇",
+        "temp": 31.2,
+        "weather": "晴れ",
         "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 29.4,
-        "weather": "晴れ時々曇",
+        "temp": 28.8,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "7月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdXJCcG5MNW1pbXNBSTc3LWpUZmNRdnFVbjd1TjREWE9rR3U2UHRxWU81b3hKT3k1cVdSaUx5MlI5WERieHJRTmN6SGtxOUFTVXZJTktOX3RPNnpFclRnWl9ZNW13VEd5LWMtekFTTdIBdEFVX3lxTE4zWmJVTERPYy11VnBNQzF6SFY5WTB0MWpkUXNfeHNaWUc1SXRMQllSUXNCSTk5MTljOXZkZkQtbU9haXBIWDZwUDQwV0hka3hPLVNIVnh3dFdWRHA4MkNDQTc3N3lET1RaM1FIWUpZRVlWc3FI?oc=5",
-      "date": "Mon, 27 Jul 2026 20:37:14 GMT"
+      "title": "７月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eVNkRlZwR21NZTdoRzNpZXQtZHVTQjFpdlVaLU8yOGkwZklBeGpTZmNXTDNzbm5XTlZHZUtHRnVIcklKWWI4ZG9oWGNpenA5YlBVaW9nWHVOSEp6Szl6bnBobTlqZWF0MVQxRkJGRGljZ9IBd0FVX3lxTE9qRlFhT005Q2ZTRU5wSTFoSHFuMUxjV1dnSHlwRndUa3NNYXE0dUFoaTlySG55WDRabFFienNzMjkwYlo0YTQ5WXhRNElXcHptS0NiWEhpcWUybElrY1Z6YVhKVWFrbFdPQm9DQnl6aEhZQUdsbDRJ?oc=5",
+      "date": "Tue, 28 Jul 2026 20:13:58 GMT"
     },
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月２６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vNDIxbWVNOFFneEs3QmhrUFJpM0ZxTExicDE3TTJGMU81TkRpQmFfdi1sRWMyNWJNalJNbTZSX2Z4dURmdHJDZXoxNVB6X2lHbTQ5dzcteWhudjhqSGVnNGhSamxtWmpoSmpyUmgxc29TQdIBd0FVX3lxTE1kUUpscndYZVhhbWpEVS0xOE4tWTh0bWdjWFF2Qi05d3lrVWVxbEt5UGxmVkV5N05aUWk2b3JNTldhZzlsTm00UnJxWjRVcEMxWFIxZ3Q1REdhVnVwcXVIeHpBa3VPTGdydl85YVV5WHJ0cjhfR21R?oc=5",
+      "date": "Sat, 25 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "ガザ南部検問所、限定再開 イスラエル、運用緩和焦点",
@@ -83,11 +88,6 @@
       "title": "れいわ山本太郎氏は大分で「149キロスピード違反」を起こした5日後、宮崎でもサーフィンを“おかわり”していた レンタカー代はちゃっかり党費精算（デイリー新潮）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLVNGMzhrSWtKTWc5OERwLXRGZEluT251bmVLbnZVNXNTSWFUNmtwcGhmSFlMNXFSaWUyS1MyT1drNXN1WHFpYTBCSVE3blRIbmJnQU5Sc3FwMXlvekpaejNTR3NBV09XcHdjMV9IeTlQQ08zZkFzTkdGdGtwSlU?oc=5",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「対向車を避けようとして…」宮崎市でトラクターが転落し83歳男性が死亡｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FMllpX2V4TUpVdmdtMW9KZlRLUy1nQllNVG5WS1otNDNmdkFLaVpXUzQtY3BfTEllaHdBVUtfaTdnYU5maWFEa2s5UmZlVE9aRWZrdmZUOHZwQmNmSWsw?oc=5",
-      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "所属スタッフの交通事故について",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUc2hqM2NSYURwaEJqa2F0enBlWjZRaHhNV0xjcjZCYWdPZ2p1VkVkd2cyTjREdmZZS3ZYampKVUgzWVdzNjF0SFFxQQ?oc=5",
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "サーフィン中に男性（39）溺れて死亡 友人に引き揚げられるも意識なく 宮崎",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjQ0pxRDJmdG9xVHpwT2VubGEyQzFjWXJYQmx5dkFUa3JoSjNVVFc5eTczam1DZHhabk9DWUlUa0FkeVlYU0RKdTNpdTVtaUFqU1ZBNmVMaEpMSm9heG1kUFQ4NEFkVTdkQ2p6bjB0QTNGdw?oc=5",
+      "date": "Sun, 26 Jul 2026 20:57:38 GMT"
     }
   ],
   "official_links": [
