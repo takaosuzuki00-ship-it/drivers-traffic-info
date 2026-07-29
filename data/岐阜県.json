@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-29T12:01:50.829623",
+  "generated_at": "2026-07-29T15:01:53.327129",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 32.1,
-    "temp_max": 32.5,
+    "temp_now": 32.0,
+    "temp_max": 32.7,
     "temp_min": 22.7,
     "precip_prob_max": 100,
     "precip_sum": 0,
-    "wind_speed": 15.0,
+    "wind_speed": 14.0,
     "hourly": [
       {
         "time": "00:00",
@@ -33,31 +33,31 @@
       },
       {
         "time": "09:00",
-        "temp": 29.6,
+        "temp": 29.3,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 32.5,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 32.0,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "12:00",
-        "temp": 32.1,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 31.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
-      },
-      {
         "time": "18:00",
-        "temp": 29.7,
-        "weather": "晴れ時々曇",
+        "temp": 30.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.7,
+        "temp": 28.1,
         "weather": "晴れ",
         "precip_prob": 0
       }
