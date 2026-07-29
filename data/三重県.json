@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-30T00:02:24.483116",
+  "generated_at": "2026-07-30T03:02:17.758859",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.6,
+    "temp_max": 36.6,
+    "temp_min": 26.4,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 4.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 31.3,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 35.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 36.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 34.5,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月29日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",

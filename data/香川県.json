@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-30T00:03:51.602108",
+  "generated_at": "2026-07-30T03:03:11.359543",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.7,
+    "temp_max": 33.4,
+    "temp_min": 27.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 12.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 33.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 31.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月２８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -26,8 +85,8 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "香川県警が一斉検問で交通安全呼びかけ 危険運転の数値基準導入受け [香川県]",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS29yaWRVTkNjMXU1eExjRVJQdDBHT2NzOU9hckhFNG1BbTI1U05tT0k3ZGtETHlGNHMtV3JnbHh0S3FoeGt0MTVPVDI5UG5xLXNVTG80ZGU0QnBhanF5N1lqZHdSZDJuSkw1NG8yVnpwVDltR2FzUGFYcUtKeEw5V0NKMi1KaGE5NllVM0RSaVRwMWNHMHVDeUZB?oc=5",
+      "title": "香川県警が一斉検問で交通安全呼びかけ 危険運転の数値基準導入受け（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeDVGdzhIemdNZUxHQXAtWXYtRFE1MzVIMXZWbThNeVhVNG9TY3M5bVlSZHFXaUNzb013SDRXSk9CSnpyTWVFZ0l2NG1NMmJCd0h4Q2tOYnNWamZCSlU4N2M3T2lkYnZPRmZQd3RVdDZUbXZFd1FGd19jT0w0OXM?oc=5",
       "date": "Wed, 29 Jul 2026 01:30:00 GMT"
     }
   ],
