@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-29T18:04:36.707998",
+  "generated_at": "2026-07-29T21:05:09.591088",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 28.9,
+    "temp_max": 32.9,
+    "temp_min": 27.3,
+    "precip_prob_max": 8,
+    "precip_sum": 0,
+    "wind_speed": 11.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 32.9,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 31.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "7月25日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -53,9 +112,9 @@
       "date": "Sat, 25 Jul 2026 14:05:00 GMT"
     },
     {
-      "title": "磯海水浴場で死亡の男性は鹿児島市の77歳 家族が確認（南日本新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTEo4OWxLTXFoNmVhUU51ZDhDejFvcXFRancydlF3djJtU1hBbjNLTFg1QWQ5Uy1CdWo1SGZjV2I2V3Nzc25qRE5IREE5UjktQUVFT3BXeV82VVZqUFlOaU9fSGc2aDVsUHBOTUJ2SmNRUWZQZ0djZDd0eTJOZjQ?oc=5",
-      "date": "Thu, 23 Jul 2026 02:55:21 GMT"
+      "title": "阿久根市の海水浴場で女性（80）死亡 孫らと訪れ遊泳中溺れたか 鹿児島（MBC南日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfODFOLVBzd3F2cnRDcTNtdEFIWk5pTm1XQWFIdDlReU5VMHA4bi1jc0dFRTVDQmhSTmFwbjA4U24yblU2R0Fja3pSOW1UX3IxVnNzbU5aU1daWDEwaW56QXlVeUhQMVZaa2FsZ0pIS3VpT3dvTjlTSlJmekZvR28?oc=5",
+      "date": "Sat, 25 Jul 2026 09:23:16 GMT"
     }
   ],
   "official_links": [
