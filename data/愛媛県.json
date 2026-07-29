@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-07-29T06:02:54.406856",
+  "generated_at": "2026-07-29T09:04:40.150850",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 26.0,
-    "temp_max": 28.7,
-    "temp_min": 25.9,
-    "precip_prob_max": 96,
-    "precip_sum": 5.3,
-    "wind_speed": 3.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 27.2,
+    "temp_max": 29.1,
+    "temp_min": 25.8,
+    "precip_prob_max": 100,
+    "precip_sum": 2.2,
+    "wind_speed": 4.2,
     "hourly": [
       {
         "time": "00:00",
         "temp": 26.9,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 2
       },
       {
         "time": "03:00",
         "temp": 25.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 26.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 53
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 24
       },
       {
         "time": "09:00",
-        "temp": 27.5,
-        "weather": "曇り",
-        "precip_prob": 96
+        "temp": 27.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
       },
       {
         "time": "12:00",
-        "temp": 27.2,
-        "weather": "弱い雨",
-        "precip_prob": 84
+        "temp": 27.6,
+        "weather": "霧雨",
+        "precip_prob": 96
       },
       {
         "time": "15:00",
-        "temp": 28.1,
+        "temp": 28.5,
         "weather": "曇り",
-        "precip_prob": 63
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 28.5,
+        "temp": 28.6,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 10
       },
       {
         "time": "21:00",
         "temp": 27.1,
-        "weather": "晴れ時々曇",
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "覚醒剤取締法違反の疑いで四国中央市に住む４０代の男を逮捕　警察が入手先や余罪などを調べる【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZNWRxLWhQQ2J0ZlhYTHdFNXFad2swY3VrTnEzdmRIQzBXUjJibF9RSWh6VlNNUUROeUJLaDRYaXh5X09XVHdXMmZZT0M3ekJtVnp2bm4xTFdGeGYwVGNjZTJzWGxtWGF1RDhpWm4tRmJSdEVDUmY40gF8QVVfeXFMT1I3d2hLcllwWTFVdmJlQWxsdHFlSXEtRHdJOGtIWWdWRnJZS2xHNVB3MjVzNmdUN2lMbnV3TnUxQlphLTN1VjhtSDFWbFlTWGszVUdZdjkzcjh5LXF0YWNuSUlRNmpEUmhEaGFIWEhVMU5WWTdacllhbGItRA?oc=5",
+      "date": "Mon, 27 Jul 2026 10:00:00 GMT"
+    },
     {
       "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
@@ -75,11 +80,6 @@
       "date": "Tue, 28 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
       "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜南海放送NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGREaWZjbmx2NFRLVWxDMEt5Q1d6bGFBalk5aFJlWHBRWk5WeTBnTFlkV1Y3WUhsQTFDaVplTDNHeVNIQ2dlRE16UWRoaUdUOU0yZV9rS0J3SWlSX05GZmVNbFdqNTNQcExGeElkNUU3YUZNaUlwQ1VMU2tFM3VjOG40OGFmcUk?oc=5",
       "date": "Wed, 01 Jul 2026 07:00:00 GMT"
@@ -87,7 +87,7 @@
     {
       "title": "移民捜査で車両検問停止",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xeWJmVlFEa3UxTXc0V1hMYUhSQjAyQmdtVnVKcEtCUVhBTWVLOFR6R2JjZWhhcEJzalV3ZFVFZXdDQ1ZRQ3dOUzJxSWtYckZKZGhDME5KT1ZNTUU1anlwMWJaSV9PZw?oc=5",
-      "date": "Wed, 15 Jul 2026 10:12:50 GMT"
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

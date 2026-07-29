@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-07-29T06:00:48.235236",
+  "generated_at": "2026-07-29T09:01:06.475118",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 23.1,
-    "temp_max": 26.3,
-    "temp_min": 22.4,
-    "precip_prob_max": 98,
-    "precip_sum": 15.1,
-    "wind_speed": 4.7,
+    "temp_now": 25.8,
+    "temp_max": 27.2,
+    "temp_min": 22.8,
+    "precip_prob_max": 100,
+    "precip_sum": 10.8,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 23.1,
         "weather": "霧雨",
-        "precip_prob": 98
+        "precip_prob": 96
       },
       {
         "time": "03:00",
-        "temp": 22.4,
+        "temp": 23.7,
         "weather": "弱い雨",
-        "precip_prob": 80
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 23.1,
+        "temp": 23.5,
         "weather": "晴れ",
-        "precip_prob": 76
+        "precip_prob": 98
       },
       {
         "time": "09:00",
-        "temp": 25.0,
-        "weather": "晴れ",
-        "precip_prob": 67
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 25.7,
-        "weather": "雨",
-        "precip_prob": 80
+        "temp": 27.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
       },
       {
         "time": "15:00",
-        "temp": 24.8,
-        "weather": "曇り",
-        "precip_prob": 65
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
       },
       {
         "time": "18:00",
-        "temp": 23.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 33
+        "temp": 23.9,
+        "weather": "曇り",
+        "precip_prob": 25
       },
       {
         "time": "21:00",
-        "temp": 22.7,
+        "temp": 22.8,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 51
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "7月29日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zNVJCNld6Rlg0cUMySndSWjlvLTlEVkZEdWQ5RnNwaHBlbmpOZmNab2o2TXlWc19UVUdwQy1FcmFHakJmRTl5Rk9EbWR1SG5VekNtcWFmWnZsaUM3Yk8yOG9OTkhsWU5aNE9kSDVzQdIBdEFVX3lxTE1vcS03aVpnbEJvd1FFS0NtcW56RlZLdnEwcTk2azJHQXBiX2JXX1RHdVRfa0NKc2FsSG9ZUFltRFBYNU1fbFlmOFQ2aTMzb2hXdldFNHVzaG9CYjhHbTFta195TkVDMkVhUjJxVlQ5aEJrRm5L?oc=5",
+      "date": "Tue, 28 Jul 2026 20:13:19 GMT"
+    },
+    {
+      "title": "７月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGtTN01ud25CNUJpcHJuekNBaWVQdUFjOWVfQXZBcm5kaXNEVjlpSXZVSGxTLW1KMjJ0cG5CZzhhUndpZkRLVEFFSmVZcXhrMkN0My1vVXpwaUlMYzdGMzc3aUlOOUZ4Y1BIMWZMME1xVTFvSWFxa19fMC16LURHS3ZhenhTY3I2ZlFUOFd2TjhwQnFFZGFRV2JfNW9OMUI5YnVWQngtUkltbHVwUmY4VDg5OTZWQlNMeU5Pek1PSWtnX2xEVndV0gF3QVVfeXFMT2pGUWFPTTlDZlNFTnBJMWhIcW4xTGNXV2dIeXBGd1Rrc01hcTR1QWhpOXJIbnlYNFpsUWJ6c3MyOTBiWjRhNDlZeFE0SVdwem1LQ2JYSGlxZTJsSWtjVnphWEpVYWtsV09Cb0NCeXpoSFlBR2xsNEk?oc=5",
+      "date": "Tue, 28 Jul 2026 20:13:12 GMT"
+    },
+    {
+      "title": "7月29日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZUXVpbllJd3plMm4wbFBJVWlBamxITG1Md1VEOEtiQ1Q3aXpybmkxb1ZXZ1BPeXRjOTU0bkp1dTZJTUxDUnBGY2pBdEdIVU5xSHdlMU1leDFoUnZRMWdTaFhrdER3enBFUElIM2FBQdIBdEFVX3lxTFAzNlFxaUJkYU9FcWhKb0lHS19CS2FqX3pYdUVjclZpbjUzRkxmX2JnVWVnZExSVWFxT1QxeFk1LXlJQ1BLQmJ0VzZodW56M0gyNWxGaG1uRHpjckVZUVhvUFV0V09rbWZ5QzNQUklCTWVXNEl3?oc=5",
+      "date": "Tue, 28 Jul 2026 20:16:35 GMT"
+    },
     {
       "title": "７月２６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vNDIxbWVNOFFneEs3QmhrUFJpM0ZxTExicDE3TTJGMU81TkRpQmFfdi1sRWMyNWJNalJNbTZSX2Z4dURmdHJDZXoxNVB6X2lHbTQ5dzcteWhudjhqSGVnNGhSamxtWmpoSmpyUmgxc29TQdIBd0FVX3lxTE1kUUpscndYZVhhbWpEVS0xOE4tWTh0bWdjWFF2Qi05d3lrVWVxbEt5UGxmVkV5N05aUWk2b3JNTldhZzlsTm00UnJxWjRVcEMxWFIxZ3Q1REdhVnVwcXVIeHpBa3VPTGdydl85YVV5WHJ0cjhfR21R?oc=5",
@@ -73,21 +88,6 @@
       "title": "7月26日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UME9VSENIMGJpSG1SZ3NGcFhTVmN1WEpyZ0dnYXpZZVhQMUNlRXY0dktveFhXcnNNaEdnUGRydEZRSXJmNEh1alVlSGo0dHpOZGtlZmdTRjExeTAtdFhOcjZvTG9HR19fS2lFQk95RdIBdEFVX3lxTFBvZEdoeWRoRm5kcjU0TDlhTHNITEptWVc3MTdMS29sUWpFMjFHTXhBUUhlQnRlSWd0Wkp4VG1ZZk5YZDl3TXloSWlMc1E3TVlCb3AycW5MNVBSZExjU2tLZGt4MVk3VG00UTV2UlgzYnhOTzE5?oc=5",
       "date": "Sat, 25 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53R2dfZEVaYno3NE8xWjRycUdzOHZqam5HTFN2Wk92SzU3U01DbHduZmlNSV9jVnE1dk9IYV9GeVlJMXhIWEZJYlRuQmplUldHemF6MU9EVk11UQ?oc=5",
-      "date": "Thu, 04 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "7月27日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoVkd1NmNHQ0VQSi1McFhYRGwyYnpLVUJaOVVIZ3lVd1ZoaGhjTG9uNUNCMnFJU05HcUVUZ0xHQ25mVW45N3Exb1RPc1RGY3VyZ2lvUUNZeGdGUXFEUHpvc3BSdGpBZGRZUTVIbmwyONIBdEFVX3lxTE5fUDZwTXVpMENhNUppOWcyOTc3UEhYREZoUF9DX2FfRjBscHU3RUpzdG85dzI4bWJlelhDcEdJQXl4eFp0LXl1UldvcEVTNGNJdUh4ZjN3UkFWMnBWdV9wSkJLWC1ITHZQRXpwUzl0OUdGc2ZU?oc=5",
-      "date": "Sun, 26 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "7月27日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jdk53Nlhaam95YVI3dVAyUjJyRm9Ta1ZKNTVfaHJCeldkNUpoV0pIUk1FVE1FTm5jSG10aUpFMXlZbFBwekgxazdRa1dTcDNla3dTUjE5bXZ6V2E4Nkt3WEc1eG1HRWl1RVB2ZHBWNNIBdEFVX3lxTE56VW1rWmNva2dTSXZjY1BHaWZkbUVHeDdGaWY0UzU1clI3SjJ3VnF6anhfWG5lZWxkeGtuclVoVF94d0xoMmJISXhuV0tjQ1RmZTZKblQxY2RJWW5iUFFqSFduaHdpLWlseWhsZ2cyWWtlMy1Z?oc=5",
-      "date": "Sun, 26 Jul 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Sat, 18 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "高峰さん遺族悔しさあらわ 新名神６人死亡事故",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmhVV3BmSlpJa0MyWmZabi1nRWh1R1VhS2ZTcmIxQ2NfU2NaZ1c3R2lIRTRNQ2RTV1lxQTcyWjF4OEZJQ0JZTjhuVXdOYmRLYUtsb19mMldvT3lLVnU5VkhWV3RUc3lsRzREckdGbUUyajE4X2JWMFloUnZnbjhhRmtXbWdsLTVUdHQ4?oc=5",
-      "date": "Mon, 20 Jul 2026 11:01:56 GMT"
+      "title": "山形県内でクマの可能性による被害相次ぐ 死亡事故なら38年ぶり",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yMmx4d1hoR1BVODZrbmFTazlqTnhRRUNBR1JCX3Y1blJ0cHRNNDk5VlI5RW9CckI2WVhHUUJtRzZwYjhZdWRkQTlDSHlBdE5acXZudVcyWm9YOE5ZZF95NVk4YXExaDQ?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

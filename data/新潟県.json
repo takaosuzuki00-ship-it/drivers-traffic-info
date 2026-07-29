@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-29T06:01:19.836660",
+  "generated_at": "2026-07-29T09:02:04.250192",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 25.5,
-    "temp_max": 27.1,
-    "temp_min": 25.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.4,
+    "temp_max": 26.9,
+    "temp_min": 24.6,
     "precip_prob_max": 100,
-    "precip_sum": 7.2,
-    "wind_speed": 33.4,
+    "precip_sum": 11.5,
+    "wind_speed": 29.8,
     "hourly": [
       {
         "time": "00:00",
@@ -21,58 +21,63 @@
       },
       {
         "time": "03:00",
-        "temp": 25.9,
+        "temp": 25.7,
         "weather": "霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "06:00",
-        "temp": 25.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 94
-      },
-      {
-        "time": "09:00",
-        "temp": 25.6,
-        "weather": "晴れ時々曇",
         "precip_prob": 88
       },
       {
-        "time": "12:00",
-        "temp": 26.8,
-        "weather": "晴れ",
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "弱い霧雨",
         "precip_prob": 78
+      },
+      {
+        "time": "09:00",
+        "temp": 25.4,
+        "weather": "弱い雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 82
       },
       {
         "time": "15:00",
         "temp": 26.9,
         "weather": "晴れ",
-        "precip_prob": 55
+        "precip_prob": 41
       },
       {
         "time": "18:00",
-        "temp": 26.4,
-        "weather": "曇り",
-        "precip_prob": 73
+        "temp": 26.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
       },
       {
         "time": "21:00",
-        "temp": 26.5,
+        "temp": 26.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 94
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "7月29日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDc4VXVwTFdzQ2h3aGVxMjV2UnRGWEhvc2EyNDQ1TGE4Y2YwQmNpYWFOeUw2ejF5RTBtSlVYcS16dDlfSW1tdld2Q1FJSUkxaWVlRDA0NDU0VHdjUGtiLVQxcGd1aGVXakNkWFhBbmc2djVjNmwzd2VkWS1aaU0ycFVn0gF0QVVfeXFMUDM2UXFpQmRhT0VxaEpvSUdLX0JLYWpfelh1RWNyVmluNTNGTGZfYmdVZWdkTFJVYXFPVDF4WTUteUlDUEtCYnRXNmh1bnozSDI1bEZobW5EemNyRVlRWG9QVXRXT2ttZnlDM1BSSUJNZVc0SXc?oc=5",
-      "date": "Tue, 28 Jul 2026 20:05:10 GMT"
+      "title": "７月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGtTN01ud25CNUJpcHJuekNBaWVQdUFjOWVfQXZBcm5kaXNEVjlpSXZVSGxTLW1KMjJ0cG5CZzhhUndpZkRLVEFFSmVZcXhrMkN0My1vVXpwaUlMYzdGMzc3aUlOOUZ4Y1BIMWZMME1xVTFvSWFxa19fMC16LURHS3ZhenhTY3I2ZlFUOFd2TjhwQnFFZGFRV2JfNW9OMUI5YnVWQngtUkltbHVwUmY4VDg5OTZWQlNMeU5Pek1PSWtnX2xEVndV0gF3QVVfeXFMT2pGUWFPTTlDZlNFTnBJMWhIcW4xTGNXV2dIeXBGd1Rrc01hcTR1QWhpOXJIbnlYNFpsUWJ6c3MyOTBiWjRhNDlZeFE0SVdwem1LQ2JYSGlxZTJsSWtjVnphWEpVYWtsV09Cb0NCeXpoSFlBR2xsNEk?oc=5",
+      "date": "Tue, 28 Jul 2026 20:13:12 GMT"
     },
     {
-      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
-      "date": "Mon, 27 Jul 2026 03:15:01 GMT"
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】（UX新潟テレビ21）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVnRwZjJKQzRkM2Q2UE5HaUZ3ZW9TSkxGd1hQWFI1WjVXTVNXdmd1R24zM0JEMHlreFZzT21FWl9oWHQ1NG5UQXJsRkJ0c2RlUlFqeWZ5VXpyS2RJQ01oWk9adlBvdDlMSHpfck5SVVpUNHoySVllLXJfTkp3dG8?oc=5",
+      "date": "Mon, 27 Jul 2026 03:11:48 GMT"
+    },
+    {
+      "title": "7月29日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZUXVpbllJd3plMm4wbFBJVWlBamxITG1Md1VEOEtiQ1Q3aXpybmkxb1ZXZ1BPeXRjOTU0bkp1dTZJTUxDUnBGY2pBdEdIVU5xSHdlMU1leDFoUnZRMWdTaFhrdER3enBFUElIM2FBQdIBdEFVX3lxTFAzNlFxaUJkYU9FcWhKb0lHS19CS2FqX3pYdUVjclZpbjUzRkxmX2JnVWVnZExSVWFxT1QxeFk1LXlJQ1BLQmJ0VzZodW56M0gyNWxGaG1uRHpjckVZUVhvUFV0V09rbWZ5QzNQUklCTWVXNEl3?oc=5",
+      "date": "Tue, 28 Jul 2026 20:16:35 GMT"
     },
     {
       "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】 (UX新潟テレビ21)",
@@ -83,11 +88,6 @@
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Tue, 28 Jul 2026 11:05:00 GMT"
     },
     {
-      "title": "新潟、選手が運転する乗用車が追突される交通事故を報告（ゲキサカ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmbFctaURCNmE0b01aUUIxOThKeFBpQ2l0SzlUbnJ0TTk1OV8ycXhOMjV2MHpOcVNCSTU4c0ctVHZhVGlZYng4cFAtSmJwaU84c20yTHJveHRPTmt4Uk01MkJjSVhieU9WVTQ3cG9ldmIzNVZqOUNPanBOX2NSTm8?oc=5",
-      "date": "Thu, 23 Jul 2026 10:51:01 GMT"
-    },
-    {
       "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
       "date": "Mon, 27 Jul 2026 03:15:01 GMT"
+    },
+    {
+      "title": "新潟、選手が運転する乗用車が追突される交通事故を報告",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rM2tBdlNuM3pSaC0wVGxVTlJ4SDNRNUdQTzd6ZC1YYkowMmhyaXhXcEhQT013SGZvZW5qS25kUzRWN29jUUl6VXVVQWNHMUpuNzJ1ZjhQU0RpcU81ZFJreUtsQTdzcUhLdDZiMzFB?oc=5",
+      "date": "Thu, 23 Jul 2026 10:49:00 GMT"
     },
     {
       "title": "「夏の交通事故防止運動」新潟アルビBB 五十嵐圭選手が１日警察署長 飲酒運転禁止など呼びかけ",

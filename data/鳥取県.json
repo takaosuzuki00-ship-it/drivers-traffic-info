@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-29T06:02:19.048798",
+  "generated_at": "2026-07-29T09:03:52.618720",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 25.5,
-    "temp_max": 29.4,
-    "temp_min": 25.0,
-    "precip_prob_max": 99,
-    "precip_sum": 36.2,
-    "wind_speed": 1.8,
+    "temp_now": 26.7,
+    "temp_max": 28.5,
+    "temp_min": 25.3,
+    "precip_prob_max": 100,
+    "precip_sum": 44.1,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.8,
         "weather": "強い雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 25.2,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "06:00",
-        "temp": 25.5,
-        "weather": "霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "09:00",
-        "temp": 26.9,
+        "temp": 25.4,
         "weather": "弱い雨",
         "precip_prob": 88
       },
       {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 26.7,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
         "time": "12:00",
-        "temp": 27.4,
+        "temp": 27.3,
         "weather": "強い霧雨",
-        "precip_prob": 61
+        "precip_prob": 63
       },
       {
         "time": "15:00",
-        "temp": 28.8,
-        "weather": "晴れ",
-        "precip_prob": 43
+        "temp": 28.3,
+        "weather": "曇り",
+        "precip_prob": 57
       },
       {
         "time": "18:00",
-        "temp": 28.1,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 28.3,
+        "weather": "曇り",
+        "precip_prob": 57
       },
       {
         "time": "21:00",
-        "temp": 27.1,
+        "temp": 26.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 6
       }
     ]
   },
