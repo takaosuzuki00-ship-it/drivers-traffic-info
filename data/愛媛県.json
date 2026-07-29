@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-07-29T21:04:18.857690",
+  "generated_at": "2026-07-30T00:03:55.810951",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 26.4,
-    "temp_max": 29.8,
-    "temp_min": 25.8,
-    "precip_prob_max": 100,
-    "precip_sum": 4.5,
-    "wind_speed": 5.1,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.0,
+    "temp_max": 32.4,
+    "temp_min": 25.9,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 5.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.9,
+        "temp": 26.0,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.9,
-        "weather": "晴れ時々曇",
+        "temp": 26.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
         "temp": 26.0,
         "weather": "晴れ",
-        "precip_prob": 61
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 28.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 28.6,
-        "weather": "弱い雨",
-        "precip_prob": 94
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 29.8,
-        "weather": "晴れ",
-        "precip_prob": 67
+        "temp": 32.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 28.7,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 31.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 26.4,
+        "temp": 28.5,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       }
     ]
   },

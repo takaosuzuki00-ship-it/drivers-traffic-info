@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-07-29T21:03:25.509974",
+  "generated_at": "2026-07-30T00:03:12.951811",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 26.7,
-    "temp_max": 30.7,
-    "temp_min": 25.3,
-    "precip_prob_max": 100,
-    "precip_sum": 43.6,
-    "wind_speed": 3.4,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.0,
+    "temp_max": 32.3,
+    "temp_min": 24.7,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.8,
-        "weather": "強い雨",
-        "precip_prob": 100
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.4,
-        "weather": "弱い雨",
-        "precip_prob": 88
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.7,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 24.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 26.2,
-        "weather": "強い霧雨",
-        "precip_prob": 67
+        "temp": 31.0,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.9,
-        "weather": "晴れ",
-        "precip_prob": 86
+        "temp": 32.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 28.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 59
+        "temp": 31.0,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 28.6,
-        "weather": "晴れ",
-        "precip_prob": 57
+        "temp": 29.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 26.7,
+        "temp": 26.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
