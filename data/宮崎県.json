@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-31T09:03:38.188690",
+  "generated_at": "2026-07-31T12:04:02.377673",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 32.1,
+    "temp_max": 33.3,
+    "temp_min": 26.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 12.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 29.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -11,14 +70,14 @@
       "date": "Thu, 30 Jul 2026 20:12:12 GMT"
     },
     {
+      "title": "7月31日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03RjlLY3BhX1JHMzVxTXJkNjEwVms0YmQtRUllWEZibWlKd0RVQldCaEg4VmRqTUhPT3hYQzdObjBSVHBudHdhSzdwMjRicGp2NllOVjk2UldRVk91dGlFVVptZkhtZUZELUNSQ0tsUdIBdEFVX3lxTE5Wbl9hQTN1cDh1Wjk3NkxVTHpmTzRUMmR0eWpLbE44enktalI0bU9hN3JacWRLMWQybkJEME81QlFJLVAwdXJEd3ZseWVaQ0k5LVhUbG5talpid2JxUDc5Zk1QcHhaOHlNMndFanZ4bXRGMU9N?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
+    },
+    {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "7月30日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNkt6OFExS1VCUDlqd2h4VzJVd0phc1ZEWm1mOVFsNEZ3MGpRYnRkVTNnMlFkTXlfMUo2RDN2NkpZY3BEUTZzWWZjblZDeExzaVpYanJWN2JsSnZyTnZGejZ3MXZkUjdsV2YzNHpZd9IBdEFVX3lxTFBKdHlVdzNrMUdLNFZJTlpuX1lKY3I1RVExV2gwczVjZHdlbU51dzZoM3R5NTJoVzU0MktMY0F4aHdEaW9RZ3c5SHdINFhSSmp4NmVnYVNCWV9adUtiRDdxeFJQVFNuMlh5My1ZOHNrek5Hc0pX?oc=5",
-      "date": "Wed, 29 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "ガザ南部検問所、限定再開 イスラエル、運用緩和焦点",
@@ -43,11 +102,6 @@
       "date": "Wed, 29 Jul 2026 04:27:00 GMT"
     },
     {
-      "title": "東九州道 高鍋IC~日向ICが全面通行止め　普通乗用車同士が衝突する事故(29日午後0時15分現在)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UWEo0QUROTUJQeGtoelA5OWhmOUFCVDJFUWlJOHZpT0N6ejBUSmZnSHVjSTFvMmdtUmxMZHBpcUFHM25rUFlIYWU2QWJxR0tEeWZGNnpJRXEyZWpSZU92UlAzZTdleW9seXZyOEJtONIBdEFVX3lxTFBVQWNINzBxMWhMeTBaVkJScHVlMF94eUpGZzNZWm5lbnZZZTZxdmhPQ1ZYRmJRQ1ZDanJUTGNRTjY2X1pqQ0VXQXdzWkZfUEo4RFNJNnQ3aFh4WEQwOXpmUjlrSFBDOC1iYWpra2UySTRMQjA4?oc=5",
-      "date": "Wed, 29 Jul 2026 02:55:00 GMT"
-    },
-    {
       "title": "宮崎県内での交通事故の約3割を占める 高齢ドライバーを対象に宮崎市で交通安全講習会",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKSGNsMTB3VjZwekNENmMwWW55bWdkR05UdTlUd1l5RmxLeUtSTFNvbHRuSmFRaHdzNUNaRUdLSlJvNGdrQkZDVU5sMnJZLUxpVHUtd2FZRFY4QQ?oc=5",
       "date": "Tue, 12 May 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "宮崎県弁護士会が弁護士を除名の懲戒処分…交通事故に絡み保険金５９００万円を横領したとして公判中",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05OFFNdFRVRzMyMjdJcU5RRjY3MmlmTExiNVJwOGdDVjQ0TDg2dmlIczFkTmpjdlRQak53MXMxUm9qTkZhbmdNMHVhTGQxN0l0dWtlN0NJa19NeFR2OTA1V1Z1WWFMU1RyNXZMVVhTS2tTZw?oc=5",
       "date": "Sat, 25 Jul 2026 01:57:00 GMT"
+    },
+    {
+      "title": "所属スタッフの交通事故について",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUc2hqM2NSYURwaEJqa2F0enBlWjZRaHhNV0xjcjZCYWdPZ2p1VkVkd2cyTjREdmZZS3ZYampKVUgzWVdzNjF0SFFxQQ?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

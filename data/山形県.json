@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-07-31T09:01:05.954690",
+  "generated_at": "2026-07-31T12:01:02.551961",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 27.2,
+    "temp_max": 27.2,
+    "temp_min": 22.7,
+    "precip_prob_max": 87,
+    "precip_sum": 1.2,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "03:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 23.4,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "15:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "18:00",
+        "temp": 25.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "21:00",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -11,9 +70,9 @@
       "date": "Thu, 30 Jul 2026 20:12:12 GMT"
     },
     {
-      "title": "７月３０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sbE16Wkg4MG45QXo4VmN1cnkyelZ1bUxuQ1RNTWRQVjRLeF96WjZSTFpRWlFmbWR6MjF6U0Y0dUszNm16THVGeDYza29pWTZQTlZrejhhM1FZbzNfcERDZ19falFsd2o5TDJqVnozN09BQdIBd0FVX3lxTE5uNnVQVHRxbEItMlJOamhoN3FMdkZCTkE3bXNhQWx0d1FGeldSTXFld09HOHllRHQxY1ZEcjc1MTMwakdBVUhEc1NDWHhOOGJWcXlDNEF1OElhVE8yQjB0N2FqY21rcDNHcWIxR2NDa0JHQ0o5SG5r?oc=5",
-      "date": "Wed, 29 Jul 2026 20:06:33 GMT"
+      "title": "7月31日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53R1AxNTlKQ3VndkF3aWFfdXBEVjhELThCV3I2ZVp4Xy03WEZEblNYanUwRnI3QkxMYkdLb3pfdHpYWElycUNLMUMzUnhhZDMxMzJlelY2Q2M2LVhjQ2I0RnFTZTdPeHBZQjl3cmxPcno2WkJvcGRYSjhub1B3d9IBdEFVX3lxTE9icWFEWVI0em9ucF80S3U3S0hhU0ZweXNjMkZKRlp4ZmdsY0tON1hpb2RzWmhtQ3NKY0oyQl92ckRCdWNrRXQ2U0xFQ1MyT3BWMzQ5Ump6NWtWSUFlb2pvT3h4YzFmNjFTQWdJdmZLYkpOZk9V?oc=5",
+      "date": "Thu, 30 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
@@ -21,9 +80,9 @@
       "date": "Thu, 04 Sep 2025 07:00:00 GMT"
     },
     {
-      "title": "７月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGtTN01ud25CNUJpcHJuekNBaWVQdUFjOWVfQXZBcm5kaXNEVjlpSXZVSGxTLW1KMjJ0cG5CZzhhUndpZkRLVEFFSmVZcXhrMkN0My1vVXpwaUlMYzdGMzc3aUlOOUZ4Y1BIMWZMME1xVTFvSWFxa19fMC16LURHS3ZhenhTY3I2ZlFUOFd2TjhwQnFFZGFRV2JfNW9OMUI5YnVWQngtUkltbHVwUmY4VDg5OTZWQlNMeU5Pek1PSWtnX2xEVndV0gF3QVVfeXFMT2pGUWFPTTlDZlNFTnBJMWhIcW4xTGNXV2dIeXBGd1Rrc01hcTR1QWhpOXJIbnlYNFpsUWJ6c3MyOTBiWjRhNDlZeFE0SVdwem1LQ2JYSGlxZTJsSWtjVnphWEpVYWtsV09Cb0NCeXpoSFlBR2xsNEk?oc=5",
-      "date": "Tue, 28 Jul 2026 20:13:12 GMT"
+      "title": "７月３０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sbE16Wkg4MG45QXo4VmN1cnkyelZ1bUxuQ1RNTWRQVjRLeF96WjZSTFpRWlFmbWR6MjF6U0Y0dUszNm16THVGeDYza29pWTZQTlZrejhhM1FZbzNfcERDZ19falFsd2o5TDJqVnozN09BQdIBd0FVX3lxTE5uNnVQVHRxbEItMlJOamhoN3FMdkZCTkE3bXNhQWx0d1FGeldSTXFld09HOHllRHQxY1ZEcjc1MTMwakdBVUhEc1NDWHhOOGJWcXlDNEF1OElhVE8yQjB0N2FqY21rcDNHcWIxR2NDa0JHQ0o5SG5r?oc=5",
+      "date": "Wed, 29 Jul 2026 20:06:33 GMT"
     },
     {
       "title": "10キロ速度超過・免許証失効の無免許運転の疑いで摘発...庄内町の町議会議員 山形｜ニュース",
