@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-08-01T00:03:37.306368",
+  "generated_at": "2026-08-01T14:38:08.138109",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 27.3,
-    "temp_max": 33.4,
-    "temp_min": 25.4,
-    "precip_prob_max": 16,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 31.6,
+    "temp_max": 32.6,
+    "temp_min": 25.2,
+    "precip_prob_max": 8,
     "precip_sum": 0,
-    "wind_speed": 7.6,
+    "wind_speed": 7.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.3,
-        "weather": "晴れ時々曇",
+        "temp": 27.5,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.9,
+        "temp": 25.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.4,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 29.1,
+        "temp": 25.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "09:00",
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "12:00",
-        "temp": 31.7,
+        "temp": 30.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 32.4,
+        "temp": 31.8,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 32.3,
-        "weather": "快晴",
-        "precip_prob": 6
+        "temp": 32.2,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
         "temp": 29.6,
-        "weather": "快晴",
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4U0E5LVhYZGttaEVkZmhXMnJjaEpYOW9Ha01EUWpQSXpJVVdwY1BlcUdRX2VNS01rSkNQMmdHMkZDb0E4NmJnd0RLQXM5amNBQjlxb2oyZHlCZWNMQ1dWUnRUU1RFR1ZCYXl6UC1YZUlQd9IBd0FVX3lxTE12bnZQcXNCVVFKZFlBNGlrbFZvd1VFY096WmdENjh6bl9XUS12UV9ra2VVa21xMVdXbjE1T2ExYTAxSEVBZWVYRW9YUGZWc2ZkMUpoM1NiWEl6REcwMi1hYXc5blhjNm5aUjdrdmtkd0djV3hWYmhF?oc=5",
-      "date": "Thu, 30 Jul 2026 20:12:12 GMT"
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeFRULU5NTXc0SG1EY2toVjFZSlVfeHNwNFM2SW10OG1hand5YUZSU3BEa1laSE5wNjhURGRBdlJ0aU5wSGtqQkZNdHJTLVpvTEVxT0MxZjkwY05hY1FJVEEyS2hhbzVrRFNORVZRZ9IBdEFVX3lxTFBpTWtZNnlxSVhlZzNuX0xEc2dpQWk1cmswTmtoQjBKUnlsTlZkUGRXT0JUdUl3UG1oSWs3TURlSVQzdzk0Sm9JcmdyRDA4dFlVX1hVTkhXYnRYRV8yUHpnVDNZNnJyOG9FM1lfeU5MNWRKZVpE?oc=5",
+      "date": "Fri, 31 Jul 2026 20:16:14 GMT"
+    },
+    {
+      "title": "7月28日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZFFwenJreU1aaHMtcjhCMHRyaHVZRi1NejhZeFVvLTNCaDYyV2p1MmFKOXhXdElfdGUtYVd3VjF0Njk0V1FmQ1JuOE9LcllLVTByWHRUVQ?oc=5",
+      "date": "Mon, 27 Jul 2026 20:02:00 GMT"
     },
     {
       "title": "7月30日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -75,19 +80,14 @@
       "date": "Wed, 29 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "7月29日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zNVJCNld6Rlg0cUMySndSWjlvLTlEVkZEdWQ5RnNwaHBlbmpOZmNab2o2TXlWc19UVUdwQy1FcmFHakJmRTl5Rk9EbWR1SG5VekNtcWFmWnZsaUM3Yk8yOG9OTkhsWU5aNE9kSDVzQdIBdEFVX3lxTE1vcS03aVpnbEJvd1FFS0NtcW56RlZLdnEwcTk2azJHQXBiX2JXX1RHdVRfa0NKc2FsSG9ZUFltRFBYNU1fbFlmOFQ2aTMzb2hXdldFNHVzaG9CYjhHbTFta195TkVDMkVhUjJxVlQ5aEJrRm5L?oc=5",
-      "date": "Tue, 28 Jul 2026 20:13:19 GMT"
-    },
-    {
-      "title": "移民捜査で車両検問停止 - oita",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qOXBfZW1aM3FYVmIxTXVvY19JTnNBa3dPQTN0aDZwWWpwSmVZbkFnSmtqVXA1Tms1LU4yX1lKOFRONTNIUzJ1eXRqQ1ZMZGdJcmJVLW1GWE9mYWw4RS0yZUtiSGx5OFM4aExWT2lPOUFCV3puYUtZWdIBhAFBVV95cUxPaTdUcTZkNUxNeldFdGhLUW5PcG83QkFGRlJkdS1XMlF0TS1hbDRQdVNod2M4NzYyQTI3NHBEQk1xV1lEU0tzeFVWalV5d3hqeVRrdU9uMmFuaHVhUlczMzhPMTU0MDJQTGZYb0xMTklRTXIyQUlVY1J4OGV0aGVMMTZKWFY?oc=5",
-      "date": "Tue, 14 Jul 2026 22:09:00 GMT"
+      "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4U0E5LVhYZGttaEVkZmhXMnJjaEpYOW9Ha01EUWpQSXpJVVdwY1BlcUdRX2VNS01rSkNQMmdHMkZDb0E4NmJnd0RLQXM5amNBQjlxb2oyZHlCZWNMQ1dWUnRUU1RFR1ZCYXl6UC1YZUlQd9IBd0FVX3lxTE12bnZQcXNCVVFKZFlBNGlrbFZvd1VFY096WmdENjh6bl9XUS12UV9ra2VVa21xMVdXbjE1T2ExYTAxSEVBZWVYRW9YUGZWc2ZkMUpoM1NiWEl6REcwMi1hYXc5blhjNm5aUjdrdmtkd0djV3hWYmhF?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,11 +102,6 @@
       "date": "Mon, 27 Jul 2026 03:34:01 GMT"
     },
     {
-      "title": "上半期の交通事故死者、１１６２人 - oita",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUY1E0YWVWQXZDQlBuVEhTc0Zxc0NzZURSZWJ3alFfalRiVk9rejJqWlhnTzNFamdXNWZ0SXhBZ3g2MkVLZkFPaEl4VDNtYnI3R0R4X2FMTVhqSGwtR0k4eTFjWDF0V2s2V0poTF9Pb3lOMVNKMDRrVtIBhAFBVV95cUxOUmFBNjJEYmhPdTRyaWpkWS1IWmVzWGVSZjFyUGhhYktuaFRZYVBheEpWT1o1QlcwLTBtR1ktYXpBSExZYmRRQ0tidmgwZEM5OEsyOThWT0IyZ2EtNTBmYTZMZ2g1Q3JoOEpiRWQ5aVVMRDR1NV9tVjZTSlFxUm1zdC12akw?oc=5",
-      "date": "Fri, 31 Jul 2026 07:56:30 GMT"
-    },
-    {
       "title": "大分自動車道 観光バス2台含む5台の車絡む事故 16人が軽いけが",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5bUlZc1BqOVozQmd3WFg2bUszaFl5UkpDOFpyWUEtNnBmN2lXakdTYzdmQUI1bXh0OHNoa2I2UmRWTTdnRXQ0V3B3T1VTRWYzMlJZS1NsRXRja0NPUTRn?oc=5",
       "date": "Mon, 27 Jul 2026 06:06:50 GMT"
@@ -115,6 +110,11 @@
       "title": "バス含む5台事故、16人けが 大分自動車道、熊本の団体",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrQ0xiWWlfVEIya3k1UU9nc3ZybnlWWGJDcGJlYjRKdWNMMkpQa290TjNObnhleHR3ZHpiV3RnTzVDVnota2o5UDFnOA?oc=5",
       "date": "Mon, 27 Jul 2026 10:29:00 GMT"
+    },
+    {
+      "title": "大分自動車道で観光バス２台と乗用車３台が絡む事故、２～６０歳の男女１６人が軽傷（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LeUtzS0VaQ0pyZUdwYXZEcXoxclNBekdMaHhvck91UERoYmlXdHlmcXFuSTBCZUZnaHBBSXdsM0ZPTnhDaW0xNnRtN1JHV0tKa3hmMUxnUnduWklmOTVrMzdiYkV0VjVQczNhZndkSmdneU1NdkJMYWk2aXU0Y3M?oc=5",
+      "date": "Tue, 28 Jul 2026 01:14:14 GMT"
     }
   ],
   "official_links": [
