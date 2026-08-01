@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.213896",
+  "generated_at": "2026-08-02T00:01:51.172263",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.5,
+    "temp_max": 37.8,
+    "temp_min": 26.7,
+    "precip_prob_max": 81,
+    "precip_sum": 0.1,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 32.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 36.5,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 37.4,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 34.5,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 25
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "麻薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
+      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "移動オービスは赤く光る？ 白く光る？ 福岡県警も教えてくれた、これがみんなが気になる移動オービスの光り方！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNei1Pb09kQWdRTkJLSHM4a2ctd0VaR2VCOTNleFFPSWY2RXhoTGJTMEZFTExjTFFhWHlIbUhFa2ExYmdrQTRCTGwwOUpqdw?oc=5",
+      "date": "Wed, 10 Jun 2026 09:37:52 GMT"
+    },
+    {
+      "title": "【垂井警察署】交通検問の実施",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxY2tqSnhDWWpLMGZHQWNfamVscnMxS1p0ckpCb1hSeHVCVDlJeUFfejBpTEYyMThLWXJORnM2ZkdNSU1JaTYybmxiZWFnWmVkeTFUUElyUTZlRWRYXzhFcFZpamM?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【下呂警察署】飲酒検問の実施",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZURXVzhqYm9fSWNlMDFpQ2RVOFNnYl9KcWNodmxIbHFvTFR3VmdTUEhxSEhhNC1zMkgtZGhqR1NqMGV1T2FUUVFucmtNQTlLNnRxWjQ2WUxSS2lVNXBrdEdDdw?oc=5",
+      "date": "Thu, 09 Jul 2026 11:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "美濃加茂市でバイクと車2台が絡む事故 バイクの男性が死亡 軽自動車の運転手を逮捕 岐阜県警",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0ZQTzBSYVhab2kwYVY2YUhqWWxTd3VJUHpteElpbElEdVY1a2pianhDYW1aRkRjRzRDZHpFM0xXNk9VTTdnd05kQ2NmZVFsNGsyUkJ0UlJDZ2ViTXdmUjdKNm5XdXN2X3d1YlQyTXVnTUtLQW5mUXp4TE5vQzFJMW5LWkhPNXM?oc=5",
+      "date": "Wed, 29 Jul 2026 10:20:00 GMT"
+    },
+    {
+      "title": "トンネル内で軽乗用車と乗用車が正面衝突 6人けがも命に別状なし センターラインをはみ出したか",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10VUZleU1pRXh3bHo4eTBkUS00NFppWVVMMUh3R3NLZlNnaGhXYlBqRTZrVGdnODRPZHlIT2k3cmRxZXhKU1FiM3FqWFE2ajUwalQtNlFzbU5Sdw?oc=5",
+      "date": "Sun, 26 Jul 2026 21:42:00 GMT"
+    },
+    {
+      "title": "国道２１号、速度超過で交通事故多く 岐阜県警などが一斉取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdGZ4RjBOYjJSZnQ2OXNXdFVwUTdHSU9fMkk4ZTRsRlpJQ1ZIaUREMFRndTJ1aDR0R3lKSzVOTXhteklPd1lRYU1nN25JZWNwMkNQdzFB?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "列車と軽ワゴン車が衝突 車運転の73歳女性死亡…遮断機下りた踏切内に進入か 岐阜・坂祝町（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GeUQ3NTFPS0RJQjJWa3phTy1wTElVZTB4VEZEeHlEcE5sc1psU0VsdXdxRmx3cFJjLVRHZGRhb2s1elJUejdlcC1qTWdMSXV6UkxyaU5RU1hUMmFfZVl5eTVwaElBZnpxSWN6OVhudEF0TDR4M3c1ZDE2VEctWlE?oc=5",
+      "date": "Sun, 26 Jul 2026 14:12:00 GMT"
+    },
+    {
+      "title": "美濃加茂市でバイクと車2台が絡む事故 バイクの男性が死亡 軽自動車の運転手を逮捕 岐阜県警（中京テレビＮＥＷＳ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSlZFalc2cXZ1ZHlidFcwUVBXSGF6TF9odldEOVJTSUE1TFd4d0Rza0ZIR1N6ZFhCb0tuTWZIOWpPWVRyZVZqbWtlUV9fVEtPVURUeHgzMWpGaW9IYUQwbGhlbGhnVDJCYm5kblBqWGVvX3EybXkwUjhMT2dRTW8?oc=5",
+      "date": "Wed, 29 Jul 2026 10:20:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

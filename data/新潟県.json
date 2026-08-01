@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.165249",
+  "generated_at": "2026-08-02T00:01:27.593410",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.4,
+    "temp_max": 27.4,
+    "temp_min": 25.5,
+    "precip_prob_max": 88,
+    "precip_sum": 1.0,
+    "wind_speed": 18.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "03:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "06:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 26.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "18:00",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "21:00",
+        "temp": 26.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kQU00ZHZ1NGczMU1od3BxbmlzNkU2dHRNUUotRkJIdlROODlzSWtJVjQwSy16XzhUa2d2UG5odF9ORXlnYXpCUjVXODdnVy1ObHZ3QW5xUFZTRFREbTh5anh5QzZnQWJRVGJVMXd4TdIBdEFVX3lxTE5kRl9ZdnU5VkpZZjdhRFlmNmswdDNsZ1ZuNEY1aklZa3piVHpOZ3N5d19tS255Yk1pUC03czBKajg0d2NJR3ZidTBJVzhFbkpxWFBSc3NNUVA2clZnMUlKSGM3Qk9xcWtBX1ItTnh1RERpR3dU?oc=5",
+      "date": "Fri, 31 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】（UX新潟テレビ21）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVnRwZjJKQzRkM2Q2UE5HaUZ3ZW9TSkxGd1hQWFI1WjVXTVNXdmd1R24zM0JEMHlreFZzT21FWl9oWHQ1NG5UQXJsRkJ0c2RlUlFqeWZ5VXpyS2RJQ01oWk9adlBvdDlMSHpfck5SVVpUNHoySVllLXJfTkp3dG8?oc=5",
+      "date": "Mon, 27 Jul 2026 03:11:48 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "７月２９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eVNkRlZwR21NZTdoRzNpZXQtZHVTQjFpdlVaLU8yOGkwZklBeGpTZmNXTDNzbm5XTlZHZUtHRnVIcklKWWI4ZG9oWGNpenA5YlBVaW9nWHVOSEp6Szl6bnBobTlqZWF0MVQxRkJGRGljZ9IBd0FVX3lxTE9qRlFhT005Q2ZTRU5wSTFoSHFuMUxjV1dnSHlwRndUa3NNYXE0dUFoaTlySG55WDRabFFienNzMjkwYlo0YTQ5WXhRNElXcHptS0NiWEhpcWUybElrY1Z6YVhKVWFrbFdPQm9DQnl6aEhZQUdsbDRJ?oc=5",
+      "date": "Tue, 28 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "事故防止へ決意新た、新潟市で「県民交通安全フェア」 見守り活動など尽力の個人・団体を表彰",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHZHpZLUUwVHc5SGx5cW51LUs2bUdpLXBLSXRxOUpoR3U5V3c1MUNISl8wc28wcmIyS2ZMZVE5RmRFa2FZYlBYSGVLZ3FROEdnSWIwd2NjR2g5cktwVVE?oc=5",
+      "date": "Sat, 01 Aug 2026 06:00:00 GMT"
+    },
+    {
+      "title": "梅を配って「事故バイバイ(梅梅)」梅干しを疲労回復に役立てて：夏の交通事故防止運動【新潟】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRUJFa1dkUHduWmhrVi1xbXlOQnJNdVd2bkpsalRTX29va3lvWTJscmpzTzR2eDZKblIxUVdjdUowQnZ1dlhkTDBvZ2ExUDZvdGg2UnFsRkllQi1faXBqTjNMNm9YTEZ5U0V4ZTRTRWpDODZzQ0F4bndRa0dpUHZuSGlWQ1JpMkRPVXhVR2F1WDV0d2dZWmVQOWRDR1dhQ3F0cjBOYzRrMTdXRHZOTXFQSU5aMWlXdnR6cTRtaHF1TzRjM1F3ZExQY2Q3YXE0RlY3dEt4M2YtZHdSejNUUkJmVVhwZk1ESDdDS01YSXYzbmp1LUVTdEUzajJNSUpTQXdkUlcyOEVYUUdCbm9rZk1jOUdWMTNVczhSTTVHX1RHZ25UT1RkS3YyRUJQLWJSNVJNS1Y3YUNJZjRON0hDVjhtd0pDS2dDdTJzbFJZ?oc=5",
+      "date": "Wed, 29 Jul 2026 09:51:29 GMT"
+    },
+    {
+      "title": "車の運転中にスマホを操作しセンターラインはみ出す 対向車にぶつかる事故を起こした小学校の30代男性教師を減給3カ月 暗証番号を入力しようと…新潟",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZRXJ5cWlEMEVJWmJ5Unp5MWZfU0VDTnBQYnBDYzZXOWNnRE5DeFMtYXJSUGlHUEhmNXpVVzZ1eU9UZjV3cXE5NlpIcDFvclFpY05kcGlGYndVZHo1ajMw?oc=5",
+      "date": "Sat, 01 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "title": "スマホの「ながら運転」で交通事故…中越地方の小学校教諭を減給処分／新潟県教育委員会",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KYm50cW8zbGNpRDNPbXBmTFc3SXptcl82Rk13SGFocGtfb1lZTDU3N3lJLURiNmJRVW94ajVOQXYta0pVU29tWGlKbw?oc=5",
+      "date": "Tue, 28 Jul 2026 11:05:00 GMT"
+    },
+    {
+      "title": "新潟アルビレックスBB・五十嵐圭選手が長岡署で一日警察署長 交通事故防止呼びかけ《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bUwzY3djM2JyWTg2aXFHanhKRlZEeXFfZnQ1VXFMN3ZCZDVtakNwbWhjTm11bmxESkUyY2hfRHVfNUpXOTA0enR4SmpxNkltUVFqTkRPbVAtUUV3RDRuX0pJdVlINjRyQUt0S20wX0VvdmVfcjRtOWpiSmdNaXM?oc=5",
+      "date": "Tue, 28 Jul 2026 15:03:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

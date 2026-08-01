@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.092637",
+  "generated_at": "2026-08-02T00:00:32.741318",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 19.7,
+    "temp_max": 23.8,
+    "temp_min": 19.6,
+    "precip_prob_max": 39,
+    "precip_sum": 0,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.7,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "03:00",
+        "temp": 19.9,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "06:00",
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "「外から何か割れる音が」通報⇒駆け付けた警察が不審な男を発見“職質”で工具所持判明　ピッキング防止違反疑いの83歳男「違法と判断するなら…」北海道函館市",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xSkUxc1VOOGgzc1kyV3BKaXE1cnBiekZ0bVRqbUdpejAzaFNkSnBvc3hxQkgxQUpUZkVzcGtNR0FVQXFvVl9lT3U1Q1QySzctOTJ3aTZDMjNZTTdBN2s2Y2YySXd4LWRHQlNkbERvWdIBdEFVX3lxTFBSQ1h4VE9JQ25qZDNoNjJXNUJGcWdmY0lPR1gxaXAwSHZtdUJiZERYUzUxVmhwTWpZWG83aF9nTXRrSWNrR0pOeGMyZHlJS1V2TGowYXNIb0pJelpsS3ZxbHlLZmNQRkN0ejVVdU5JTVZHS283?oc=5",
+      "date": "Sat, 01 Aug 2026 00:32:00 GMT"
+    },
+    {
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【詳報】赤ちゃんは「真っ青だったの顔が…」0歳乳児が意識不明の重体に 現場は『交通事故多発交差点』の1つ「赤いラインを先月引いたばっかりだった」 交差点でのトラックと乗用車の衝突事故 青森県三沢市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNZVZTZUNTTjQ5ZXZxdElhLTR6ZG9sekJyRHBzTVlHMDV2WWV0bXJrZHpXQUlQU1k5VEJIeG5SQWRKRzhrS3hSOG1pVXFhN0hUczRhal9seV8tSC15Mm5r?oc=5",
+      "date": "Wed, 29 Jul 2026 00:16:00 GMT"
+    },
+    {
+      "title": "2026年上半期の青森県内交通事故1096件で死者13人 自転車の負傷者減少に青切符導入が影響か（青森放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQk56OXhNU0pTZUZvRkZxMlljdFBDRXdQblNoRk1sVVJ2QTBPVVkzZ0NuQkRha2M0OWRsazA3d2RaTEg3WjdTcEoyWjFPcXdSbVB3bk1YMDk2c1V3NlYxMDkyeWV6bUZCTnNuQk04QjE1MjAxbE1nU2xaUjhHaHM?oc=5",
+      "date": "Tue, 28 Jul 2026 05:12:01 GMT"
+    },
+    {
+      "title": "「もう1人、そこにいるはずだって…」衝突事故で0歳乳児が重体、母子も搬送 現場は過去5年で16件発生『事故多発交差点』 青森県三沢市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2tKS1Rpd2FhRWFkVTBJZmdVaC1zbHo0dW9nVDJNT1hlOTA1Zk1kODgwajlvWnJMTTNkLTVtRnZRVE9VMGk5Q3BuajM5cHBvbjJ3d2RHLUQ0bXVpR3pBbjJTR0Z5N0NxczI2NFJPZ2syanlVd01xMVB5dGJSZ3gyb0FHUTM1UmM?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "0歳児死亡の事故多発交差点、警察が信号機設置「前向きに検討」 [青森県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwOGJoekR5QmlQbUNMc3BVZHVMQnJLVVh3SjhURHB5Wm13WGZmQUZ4dENEWWdVbW1HNktJR0duZmkwVkVuMVUxay1Hdy10NTJUcENSWndPVE5mT1lqeHRSWHRyS0NkMDg?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ロープが足に絡んだ状態で海で発見 49歳男性漁業者死亡 青森・平内町のホタテ養殖施設",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IWDdpUy1LUlREU3JwNDRTdHItSnJ0OWFDSmVhNzdGQTF2ZXoxeXE0M3dWbHBsdWtYU3l1cEZnZXJYczdMU2tlMG9sM2hvRlJERzJMbmg3MVY?oc=5",
+      "date": "Wed, 29 Jul 2026 02:45:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

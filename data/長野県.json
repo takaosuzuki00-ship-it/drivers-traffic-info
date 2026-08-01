@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.206025",
+  "generated_at": "2026-08-02T00:01:46.791265",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.4,
+    "temp_max": 31.3,
+    "temp_min": 23.3,
+    "precip_prob_max": 96,
+    "precip_sum": 0.2,
+    "wind_speed": 1.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.8,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "12:00",
+        "temp": 30.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 30.9,
+        "weather": "晴れ",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ZzVCUjlWRUhOcDNoNDJOOWk2azZvRm5Wbm5NTVlSYkF3a002QVVVdGpfZFJHdmJHanN3aXQ2eEQzMjFfZ0tqNDUxdHJtMG5SY2VUcWh4MHVZYmU0MXQtbE5YbFZXc0J4ajJ0U095ZDk?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "23日告示の長野県知事選に向け立候補の届け出書類の事前審査始まる 県警本部と県内22の警察署に選挙違反取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnM0Z21TYXZ4OGwyWXJuMkhFNzk4RXVSVl9jYlByQUdLeWs5VnhOMjZENF9Eb2dYZEpKWUJzMk5EUGpRbld4YTVSUkZVLWd2dmFnTDY2X1h5RThtaktWRng2cngwYkZtTVdPRzhKZ09JRWRZcEo2RXVzWUFNWGtmeFhYQk1DQk0?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "知事選に向け 県警が選挙違反取締本部を設置【長野】（abn長野朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdF90cWwxUEdxbHA0SWtGU1JEd2Vrd3FnbGxBWE1pal9xbm5UMHdfZ1pxQ2VHelZ4REhVcGV6cHg0dHR2RURQNkc1MHVQNll3ZkhTclRHYWxfVzhES1M2Tnhhbk1HV2UxdGZob3N3ZzdDakdIUEFEVXM0UlNXakU?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "8月9日投開票「長野県知事選」に向けて…県警が選挙違反の取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04d0NOV05JLTlHenNOZVd5SXB2MWNNRWVDRGVOOGFXWS1JUVcxcURwX1lXT3ZTaHRKMk5JS080TGhSMkdXTFVwMkRpWTBYUkRmdnlDd2Fwd0xJLXpXRGxUeHpLVm43alk?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MTFlpUl9ZRVJTbXVWVXNvNGJTQkJGM2tOMm9uMnJMM1Q2MFZSeEVaczRzSmE3ZUdsVXE1R3BoSlBWdnhmbUVpUDV1Z1F3NS1WZGh3U0lJVk5aOEN0TlpjX1lLYWRBdVctMzNJ?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【長野県東御市】市内の交通死亡事故ゼロが2000日に到達",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVkZQeWMwV1FudHJheDlGN25xeWdpTDNwR0hhT21xbzVsempwNElvZ0hKQWc1Qnhfc3lGeWVablZheVpEeVJIY2NFeDNzVVczeDc0amx5WVlyYjBQdDZxenQzTUZfdGJTamc?oc=5",
+      "date": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故ゼロ実現へ トヨタ社長ら、長野で安全祈願",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RWZRNkRiS3JmVXlELWNlWm1rUWlDUzduZmkxNjNaeEtaOFdhTEtfMFdDWjFVS01WdnJZczgxcFVmZlFTWGZ3UVV5TmZObVkzaFREWGcwaE9zSlE?oc=5",
+      "date": "Sun, 19 Jul 2026 22:00:23 GMT"
+    },
+    {
+      "title": "トヨタやスズキ「スマートポール」で事故防止 長野で業界横断会議",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDUTJYNkhaNmQ1eThodjhQYUJwRVM1STR4c0xGWjBfQnluNjF3c2dULXdzTlljRVN2ejRIQUNBcXFiY25OYmRFNzJDaVFSeG85bjJzYkFkT3diUkVUTGJtRWIzZ1k3OG5XTDhndQ?oc=5",
+      "date": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車3台が絡む事故　1人搬送　小谷村千国で国道148号の通行止めは解除　長野",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kcFkwM2hqZGVhQmJkcWMtSWZDUGVKWm9kZDE1YUJNUHJsMEtPRl9QVnRMUEhSaWhkR1Z6MkhtRGZOdTZJWjk3a1JvOXoxVnkwZDZuQTJSWEpvN0YxU3I1dThSMjJKX0RydlR0c0dwRjlZZVR00gF6QVVfeXFMT3FEY1plYXFRMTMxWGdtXzJUdUs4czlZS2NfYXFhcFZVN3dWOHRTN3Fpb09yeEhhU0Y0cktIVUVQbkJuMDFTTVBzTks0Z05WSGdOZEVyQ3ZNeV9SZEdHVDMzSEVrSDM5SFhRMHRPWFE1dEFjZ3p0VG9iLWc?oc=5",
+      "date": "Tue, 28 Jul 2026 05:03:00 GMT"
+    },
+    {
+      "title": "小谷村で車3台が絡む事故 10時間後に1人死亡（abn長野朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RcDZFalJscmdPck9oV0FkUVc0cTlILXZGNTBLVlM3blEzaFlnQjRISTZ4RE10Vi1OMzh2d1FvTWNDc0taS2ktd0JqZVR4VmpoZVllRVFTVXNHX1RKeWU2cXhOcmI5LXVGS29NSmQzNldqRzJPUkJUT0tBdDhHbTg?oc=5",
+      "date": "Wed, 29 Jul 2026 02:42:17 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

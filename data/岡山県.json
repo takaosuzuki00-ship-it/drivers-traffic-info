@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.312462",
+  "generated_at": "2026-08-02T00:02:37.922682",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 28.2,
+    "temp_max": 36.8,
+    "temp_min": 25.5,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 2.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 36.8,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 34.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeFRULU5NTXc0SG1EY2toVjFZSlVfeHNwNFM2SW10OG1hand5YUZSU3BEa1laSE5wNjhURGRBdlJ0aU5wSGtqQkZNdHJTLVpvTEVxT0MxZjkwY05hY1FJVEEyS2hhbzVrRFNORVZRZ9IBdEFVX3lxTFBpTWtZNnlxSVhlZzNuX0xEc2dpQWk1cmswTmtoQjBKUnlsTlZkUGRXT0JUdUl3UG1oSWs3TURlSVQzdzk0Sm9JcmdyRDA4dFlVX1hVTkhXYnRYRV8yUHpnVDNZNnJyOG9FM1lfeU5MNWRKZVpE?oc=5",
+      "date": "Fri, 31 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月30日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YWVMzbk5vcG0wVGtPNDlYekVmYWg5ckxPMnhRNDNRemFZWkdPMzczX29GUTZhekpuT3hSb2NBQnNqclRZaFpIRXV0aTg4dVVYd1dzRWkzOE05bk15TGotVlhfQVcyMTdyaWswb0Ric9IBdEFVX3lxTE1wWUdpcTJxaDVmY0VtSi1kV0tndHlvVkJJVGQtdmQ0LTY3LV9UZ0NHeTdHS2hmdUc3RVpPSmg0MDhNSkJXOU9ubG9kUk55T2hoNEtsTm5iWnhGWU1ZVjFnekV0Slgyb1RLMUtDWktYLW1GMWdY?oc=5",
+      "date": "Wed, 29 Jul 2026 20:12:46 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN2pNVURNU05OeTZjQnVpR1kwX3BmbklGTk9aa2FodG1Mcmt2ZkZSWF9GWWFSQmhZLUNJQlFfSFloODkzX0FPZFlQUVR5YnNU?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【国道2号】大型トラックと乗用車が関係する事故 東区百間川橋付近（上り）が通行止め【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGbmZsZ09penZvWjBwdWNyQmdtXzVQT1FEOW4wWjBqZHBWZk9WSFdseWV4dW5MRlJLaFdPbzlTSTNnUHRqeDgyOG84NGltZHVZMzQ3U2lSdm83Zw?oc=5",
+      "date": "Sat, 01 Aug 2026 02:25:00 GMT"
+    },
+    {
+      "title": "岡山市で交通事故相次ぐ 男性1人死亡（2026年7月22日掲載）｜RNC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmRscXJIa25vbXNHZW1WNG5pN2pBeXE3UW0zVTlPLVdQelJKUFRMMk5rVUFOQWZNeFZmcnMwR2hielF4MXlORV81SEk1ZGpSX0tKTDlnX0x0N2dkeEVvdF9QRjBYNE9KdzBQNWE4N0g3NWJueW1GN29GbUhESWpjcG5BNmhYeUk?oc=5",
+      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "追突事故を起こす 酒酔い運転の疑いで61歳男を逮捕 岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15QzVYZjNtNzF6WEp5R2c2U3VJT0dMb3RZb3l2dHBuc3QwWk12OXJXNGpvREJmUm5nWGlSUVVGSUwzMXNucTFWb1REVW03c0RI?oc=5",
+      "date": "Sat, 01 Aug 2026 07:03:00 GMT"
+    },
+    {
+      "title": "岡山 南区で歩行者がはねられる事故相次ぐ １人死亡１人重体",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpZ0hHcG5FNnhGNFIxTV9McmxpUjF3R0tIZlVaQVVGOHZYRVl1c3hHeU9qM2dDbHg5dFdsSUVCNEZQRldnQy1iMWlDcGNZMzN4ZDlWZ3dJYkw?oc=5",
+      "date": "Thu, 23 Jul 2026 03:20:00 GMT"
+    },
+    {
+      "title": "軽自動車とトラックが衝突　33歳男性が重体　岡山・久米南町",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fS0VtbFZrWE1sNWcycHRaTHB0Rk5vaHFtUHcyZFN6WGxMbUtkYzZDU0JEUHMxOFB5MmhjcEJvT3NKNGRKUjVDZDMxT0dMdnRKcVhMU3pBbkhIM0oyTXhoQjhRNjRWZmZkM0pWYWFwcEbSAXZBVV95cUxPU1lSSnlxc0R3Z00taklDZ2hRNHhsZkhCU1pqcng0NkxfeVhwTWZpZFNTbXAwZ1lYc3VRZThNSUQxNm9qdnppNGpqWUh6SWtTalNka2pjRDJzOC0tRDRqS0g4MzdBZDJna09wMmpSVHU1eTFOTGNR?oc=5",
+      "date": "Sat, 01 Aug 2026 04:43:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

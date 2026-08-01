@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.253506",
+  "generated_at": "2026-08-02T00:02:12.607884",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.5,
+    "temp_max": 34.8,
+    "temp_min": 25.8,
+    "precip_prob_max": 16,
+    "precip_sum": 0,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.0,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 34.8,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeFRULU5NTXc0SG1EY2toVjFZSlVfeHNwNFM2SW10OG1hand5YUZSU3BEa1laSE5wNjhURGRBdlJ0aU5wSGtqQkZNdHJTLVpvTEVxT0MxZjkwY05hY1FJVEEyS2hhbzVrRFNORVZRZ9IBdEFVX3lxTFBpTWtZNnlxSVhlZzNuX0xEc2dpQWk1cmswTmtoQjBKUnlsTlZkUGRXT0JUdUl3UG1oSWs3TURlSVQzdzk0Sm9JcmdyRDA4dFlVX1hVTkhXYnRYRV8yUHpnVDNZNnJyOG9FM1lfeU5MNWRKZVpE?oc=5",
+      "date": "Fri, 31 Jul 2026 20:16:14 GMT"
+    },
+    {
+      "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4U0E5LVhYZGttaEVkZmhXMnJjaEpYOW9Ha01EUWpQSXpJVVdwY1BlcUdRX2VNS01rSkNQMmdHMkZDb0E4NmJnd0RLQXM5amNBQjlxb2oyZHlCZWNMQ1dWUnRUU1RFR1ZCYXl6UC1YZUlQd9IBd0FVX3lxTE12bnZQcXNCVVFKZFlBNGlrbFZvd1VFY096WmdENjh6bl9XUS12UV9ra2VVa21xMVdXbjE1T2ExYTAxSEVBZWVYRW9YUGZWc2ZkMUpoM1NiWEl6REcwMi1hYXc5blhjNm5aUjdrdmtkd0djV3hWYmhF?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月31日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03RjlLY3BhX1JHMzVxTXJkNjEwVms0YmQtRUllWEZibWlKd0RVQldCaEg4VmRqTUhPT3hYQzdObjBSVHBudHdhSzdwMjRicGp2NllOVjk2UldRVk91dGlFVVptZkhtZUZELUNSQ0tsUdIBdEFVX3lxTE5Wbl9hQTN1cDh1Wjk3NkxVTHpmTzRUMmR0eWpLbE44enktalI0bU9hN3JacWRLMWQybkJEME81QlFJLVAwdXJEd3ZseWVaQ0k5LVhUbG5talpid2JxUDc5Zk1QcHhaOHlNMndFanZ4bXRGMU9N?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "京都府知事選へ選挙違反取締本部を設置 府議補選、与謝野町長選、井手町議選も取り締まり - kyoto",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMk4zY1ZUaGJxekdDOEtVcThKeUFqZEl2clR1YkNaZW8zRTVFTW9hNlc0VnlEYk1GQWpKTURMUnU5NGwxZUdJOUcxQnlPbGtBWHdYbWJIbXA?oc=5",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdnJocEUyMkV0dUZkVzRlYVN4dmNsUVhtWnB4TVprbFVOS29USktwM0RmUVVIaGNXTldPRlIyWnZ2R3ZQcmstNnNUaXlQS2g1QTU3RkV3Y3FNTUwxTDVaMmRPX2Y2UWxoUXluTGwzaFV0REVOaXpEdVh3NDVzTms?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "京都）交通事故防げ 空手家・植草さんも呼びかけ [京都府]",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnNjZUxOTE5uVVdrN2NaNEswTlFKc21WbmxTTEFNdHZQcWJPVnc4U0NPV1BfbzhOUFd6YXpGQ0FtMzUtbjBkMWNnLWUyLVdrakxGNnNJS09OVHk2VTRsVjRyUW1PeXBWeHVMOFY4RFR2RnVlQWsxUUtMMWpPMHF4cFBnUk5QeUtsS3VhalZ4U0tRU3hWOWk0YWJ3?oc=5",
+      "date": "Wed, 29 Jul 2026 22:08:16 GMT"
+    },
+    {
+      "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "京都縦貫自動車道のトンネル内でUターンして対向車と衝突 女性1人死亡、男女3人が重軽傷 - kyoto",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54NFlmVEUtdWl4Wjd2cG5HX3VaXzFfWVlEeE1WQnpuOUNwa3VEYzF6M3JDYjZTbXI5VGRKOEFCcFlfSld6WDYxRF82YkdTdVRvVnJrNTAwY3M?oc=5",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府内の交通事故死亡者の半数が二輪車のドライバー 浴衣姿の大学生が交通安全呼びかけ（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sY2JSbDZ0UjNndWp2Y2daZE5pWklFQlJET0RGelNxYUVkUG1fTEJRQ2E4M1dQZkZUaXkxYVhnUXdGb3NpTUNrMFNMZFduNG53UlQ4QjlWVXgwNFV4bXdCV3FNaU1MQ3lyekZ6TVJNOVhxVU8wb1BIdnhWT0wwems?oc=5",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "70代男性作業員が熱中症で死亡 国道で除草作業中 - kyoto",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LWmM1VWRJSXMyNzlKb2J2T285NHhHWFlKZFduYUowT0RzSk1xZURuNVRNSjZ3SXdRalFXNzZzelJacEo4bnY2a2FaaEY2blNNbzVWQWVIRGE?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.125933",
+  "generated_at": "2026-08-02T00:01:00.014124",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.4,
+    "temp_max": 27.7,
+    "temp_min": 22.7,
+    "precip_prob_max": 57,
+    "precip_sum": 3.2,
+    "wind_speed": 1.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
+      },
+      {
+        "time": "21:00",
+        "temp": 22.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 49
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTzVIYWZYOVJxRnV4eGpVdjU2a0RHdGItRlFnTWd3QWU0Q2hoOHJ6dDFzdG1TbDRhNlpNdmZ5Yy0zdnExVGI2QVdBc3Bqc1F4QjhsM3dEZlA1TDdLXzdaV3o3VlRIaGdZdUlGYVJlRGxrWDQ?oc=5",
+      "date": "Fri, 31 Jul 2026 21:34:07 GMT"
+    },
+    {
+      "title": "7月31日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53R1AxNTlKQ3VndkF3aWFfdXBEVjhELThCV3I2ZVp4Xy03WEZEblNYanUwRnI3QkxMYkdLb3pfdHpYWElycUNLMUMzUnhhZDMxMzJlelY2Q2M2LVhjQ2I0RnFTZTdPeHBZQjl3cmxPcno2WkJvcGRYSjhub1B3d9IBdEFVX3lxTE9icWFEWVI0em9ucF80S3U3S0hhU0ZweXNjMkZKRlp4ZmdsY0tON1hpb2RzWmhtQ3NKY0oyQl92ckRCdWNrRXQ2U0xFQ1MyT3BWMzQ5Ump6NWtWSUFlb2pvT3h4YzFmNjFTQWdJdmZLYkpOZk9V?oc=5",
+      "date": "Thu, 30 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "自転車酒気帯び、罰則化1年で摘発114人 茨城県警、スマホ運転も [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kSmFONmNwaTZLQ0xyeHdIV3ZLcU1lZ2UzYTQxSm5fQktQLW5KdmVsdHdPLWJnTTRUYWt6VldNcWlmZDU0ek5yYnp6NXBpU3lLY3lMbVlFRGI0QW5JaTRLUnRqUHRPTWs?oc=5",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラックと軽ワゴン車衝突で3人死傷 茨城・土浦市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pYl93OVRRN09RR3Z2ZmUtdlhfbHRyalA0U0lNbnpGYVJvV1lRa3NwY1RFelhweEpKZ3FZcFdjUnJISUJuSWdaRkVBSVlIVGdTTjlQT3phckI1MmJYT0FmbXZFdEdUNWJTMkY4SktCdFlvZw?oc=5",
+      "date": "Thu, 30 Jul 2026 09:57:49 GMT"
+    },
+    {
+      "title": "交差点で乗用車と衝突 軽ワゴン車の93歳男性死亡 茨城・水戸（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHUHByeEVUM29vOGV4OEVudjFtRWVPV1R6WDFYU2JuMmVRWndrREdhZ0ZNR0dxVGt4TVRLaWhtWEJaTURwYUJPc1JpclZuLUFXYmd4WG9jVkkzM1R4aUZXZGJFMGM1SXpTa0JOWmp5M2NXZ3Y0SWI2aEdCOVFPbXM?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "注意！交通死亡事故多発しています",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVJWZHVKdFo3WlJSV1o5Y0RaN2VkVkczM2pOM3BseTJPdkVUdjNfbk9mdmhvbjJCM1BQekY5a2RIdXJlV2tURWVtSnhMVXpOdDFUNEplUk16TUlVTjhvQWpxcThPRkVERWItdEluV2laak54bmpQUWJ6NkZMVG0zRjVoQVVLbDMwOU1NVXR2bTJwQTdINElubW9xbjNWODBSemRj?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【更新】軽ワゴン車とトラックが正面衝突 軽ワゴン車の男性死亡 茨城・土浦（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bFdfcjJUTEYxejdRRmRYNFN6YkwzOVJudC1wdGZzaU9OdDFDVEhjdDJCRHhoMWZmcEJrVzdCUFZsLUJma00zS3BqUTB5SEpILUpKR2M2RkdrN1h3eHdERmRoRjZJZjV3UndkNXJ5WEE4SV9YRERiRzlqN24xOFk?oc=5",
+      "date": "Thu, 30 Jul 2026 02:38:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",

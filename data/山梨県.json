@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.197761",
+  "generated_at": "2026-08-02T00:01:42.014797",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 26.1,
+    "temp_max": 35.7,
+    "temp_min": 25.2,
+    "precip_prob_max": 100,
+    "precip_sum": 24.8,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.1,
+        "weather": "霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.6,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "15:00",
+        "temp": 35.4,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 28.2,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 26.8,
+        "weather": "霧雨",
+        "precip_prob": 31
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "7月31日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wdl90SGlPcTYtUjVKRUtXSTI3S1dkRk1rdkh2MmpoYW9mM1JrbWtkS1NWM08wUGZ5Q3owb1dMekZNZi1OeXoyVGpYMVNMbnRtM2pULXlwVQ?oc=5",
+      "date": "Thu, 30 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeFRULU5NTXc0SG1EY2toVjFZSlVfeHNwNFM2SW10OG1hand5YUZSU3BEa1laSE5wNjhURGRBdlJ0aU5wSGtqQkZNdHJTLVpvTEVxT0MxZjkwY05hY1FJVEEyS2hhbzVrRFNORVZRZ9IBdEFVX3lxTFBpTWtZNnlxSVhlZzNuX0xEc2dpQWk1cmswTmtoQjBKUnlsTlZkUGRXT0JUdUl3UG1oSWs3TURlSVQzdzk0Sm9JcmdyRDA4dFlVX1hVTkhXYnRYRV8yUHpnVDNZNnJyOG9FM1lfeU5MNWRKZVpE?oc=5",
+      "date": "Fri, 31 Jul 2026 20:16:14 GMT"
+    },
+    {
+      "title": "8月1日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kQU00ZHZ1NGczMU1od3BxbmlzNkU2dHRNUUotRkJIdlROODlzSWtJVjQwSy16XzhUa2d2UG5odF9ORXlnYXpCUjVXODdnVy1ObHZ3QW5xUFZTRFREbTh5anh5QzZnQWJRVGJVMXd4TdIBdEFVX3lxTE5kRl9ZdnU5VkpZZjdhRFlmNmswdDNsZ1ZuNEY1aklZa3piVHpOZ3N5d19tS255Yk1pUC03czBKajg0d2NJR3ZidTBJVzhFbkpxWFBSc3NNUVA2clZnMUlKSGM3Qk9xcWtBX1ItTnh1RERpR3dU?oc=5",
+      "date": "Fri, 31 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "７月２９日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SbE52SkFjMDdPRUt5T3o2N2pIZDYwdlY0UUtPUWp5NDhIaWtqeGpLcDJjR05PQzI4eUtmd0dRa1o3NzRnOU5LZlhzdU0zVTdDNTA5NWpIQQ?oc=5",
+      "date": "Tue, 28 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
+      "date": "Tue, 26 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽乗用車が逆走か 正面衝突の軽トラックの男性が重傷 新山梨環状道路 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sQ1EyS2tSS2pubUpPa2JGakJDdElTUTBfSFFXSUFPeHJDZjljalJnWDJlNHB2bzFmeU9sckE4Tkd2NGhONFNFdTRCT3NyZkQ3UU1jaUZaX0laSGZnOE80Sm1Ic2xUZ0U?oc=5",
+      "date": "Wed, 29 Jul 2026 12:11:00 GMT"
+    },
+    {
+      "title": "交通死亡事故1000日間連続ゼロ達成で市川三郷町が表彰 一方、県内では飲酒運転を伴う死亡事故2件で「飲酒運転事故防止警報」 山梨（UTYテレビ山梨）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVlJ4ZDRHcW1wNXZ4ZV9LV0ZudHpCcDdhb2ZScnNYN2EwSWRZMExHUGdhQXRDb1Zlc2J5d29LYXAtNVFkVFdUM2hrd0NKVEdRMU8tZlpsbzRNU1cxc1pIVTRCRDlMQ05lYWd6OUw5QzJlMG9LWXpBYVpNLWNmS00?oc=5",
+      "date": "Fri, 31 Jul 2026 10:50:29 GMT"
+    },
+    {
+      "title": "交通事故防止へ街頭で呼びかけ 日下部署",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05bVdaSXFCOWtGMjNqYnJ4cktwY0JlSl9QcnRUVGotblQ1QmN4X2VrQzUwZXp4ajliQWNWU0d0cFhzaF9PTVV6RmlIQlpnV2d6Z29kQ05CcVNrU3F6T3RLWHJrWGc5TjBYWVU5MTA3M0hGQzNUZWc?oc=5",
+      "date": "Mon, 27 Jul 2026 22:40:25 GMT"
+    },
+    {
+      "title": "軽乗用車がバイク2台に衝突し2人死傷 酒気帯び運転か 運転の男を現行犯逮捕 山梨",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXAtRGM5SWYzd1k3dU85WHpqNzN4RVNEUlUyNTh0TlJUVmZuaXc1eDUtZWVTcVdYWTNMT0VPMFR0SWJLY08yenB2R2tnNUprRF9pTXQzaS1sU0Z3S1NEUmhmSklXR1o0V0RiYjlhQnJyN1ZZX0ZZdV9VUDNBWGNGV3BFZkJyc0E?oc=5",
+      "date": "Wed, 29 Jul 2026 04:13:00 GMT"
+    },
+    {
+      "title": "山梨県で「飲酒運転事故防止警報」［7/31-8/9］半年弱に死亡事故2件2人",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vbnVUN2dESE9OODJsUktVRUJsclU2OHBjRjRBNlNMWTJXMVRoVGkxUldPU0d0elR4YVdOeTR5WVZwR2JYcEJHR09oMTJRd0I4ZFd5aHVYc2lMbFlPMVhr?oc=5",
+      "date": "Fri, 31 Jul 2026 20:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山梨県警察 公式サイトを検索",

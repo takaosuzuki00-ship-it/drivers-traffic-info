@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.115826",
+  "generated_at": "2026-08-02T00:00:51.017494",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.8,
+    "temp_max": 25.8,
+    "temp_min": 21.0,
+    "precip_prob_max": 100,
+    "precip_sum": 3.6,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 23.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "09:00",
+        "temp": 24.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "曇り",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 21.7,
+        "weather": "曇り",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 43
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeFRULU5NTXc0SG1EY2toVjFZSlVfeHNwNFM2SW10OG1hand5YUZSU3BEa1laSE5wNjhURGRBdlJ0aU5wSGtqQkZNdHJTLVpvTEVxT0MxZjkwY05hY1FJVEEyS2hhbzVrRFNORVZRZ9IBdEFVX3lxTFBpTWtZNnlxSVhlZzNuX0xEc2dpQWk1cmswTmtoQjBKUnlsTlZkUGRXT0JUdUl3UG1oSWs3TURlSVQzdzk0Sm9JcmdyRDA4dFlVX1hVTkhXYnRYRV8yUHpnVDNZNnJyOG9FM1lfeU5MNWRKZVpE?oc=5",
+      "date": "Fri, 31 Jul 2026 20:16:14 GMT"
+    },
+    {
+      "title": "7月31日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53R1AxNTlKQ3VndkF3aWFfdXBEVjhELThCV3I2ZVp4Xy03WEZEblNYanUwRnI3QkxMYkdLb3pfdHpYWElycUNLMUMzUnhhZDMxMzJlelY2Q2M2LVhjQ2I0RnFTZTdPeHBZQjl3cmxPcno2WkJvcGRYSjhub1B3d9IBdEFVX3lxTE9icWFEWVI0em9ucF80S3U3S0hhU0ZweXNjMkZKRlp4ZmdsY0tON1hpb2RzWmhtQ3NKY0oyQl92ckRCdWNrRXQ2U0xFQ1MyT3BWMzQ5Ump6NWtWSUFlb2pvT3h4YzFmNjFTQWdJdmZLYkpOZk9V?oc=5",
+      "date": "Thu, 30 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4U0E5LVhYZGttaEVkZmhXMnJjaEpYOW9Ha01EUWpQSXpJVVdwY1BlcUdRX2VNS01rSkNQMmdHMkZDb0E4NmJnd0RLQXM5amNBQjlxb2oyZHlCZWNMQ1dWUnRUU1RFR1ZCYXl6UC1YZUlQd9IBd0FVX3lxTE12bnZQcXNCVVFKZFlBNGlrbFZvd1VFY096WmdENjh6bl9XUS12UV9ra2VVa21xMVdXbjE1T2ExYTAxSEVBZWVYRW9YUGZWc2ZkMUpoM1NiWEl6REcwMi1hYXc5blhjNm5aUjdrdmtkd0djV3hWYmhF?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53R2dfZEVaYno3NE8xWjRycUdzOHZqam5HTFN2Wk92SzU3U01DbHduZmlNSV9jVnE1dk9IYV9GeVlJMXhIWEZJYlRuQmplUldHemF6MU9EVk11UQ?oc=5",
+      "date": "Thu, 04 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "自宅の太陽光発電による売電で規定違反 50代陸曹長を戒告処分 自衛隊山形地方協力本部 (YBC山形放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHVZUXFPOTQ3cUUwM1RfN192TzZzMzRUbll0djJYOTFpUVJLUWRsQ2F2QS1OZk9BU215T3F0NVBVT2RIdDRBdENOMkI5VXRaV1k2dHdLQ2dpb2JMZmZuV3FBZHhERnRXVVNBOXFraFJnc2FJandhbEZtVi1SLTNpMHJKcGduRXZIOFlKV01B?oc=5",
+      "date": "Fri, 31 Jul 2026 04:45:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽乗用車が道路のり面に衝突、男性1人が死亡 業務中の事故（山形）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FMjN0TS1jUndUal9DOUJGUTl5QlRTVmhYMXZiN1ZsNkM4dFdJOGpYQmp4aUVPcVZTc2tjZ2lPRWdLWFNIX05KVkFwblVhdVRXeWxYb09OWDZBeEM0MHN2NHpTS3hkN3ZiSUVydHJLUldVYWE1MFdTT21OdG9fU2s?oc=5",
+      "date": "Wed, 29 Jul 2026 00:12:17 GMT"
+    },
+    {
+      "title": "視界の悪い\"暗い時間帯\"の交通事故・気を付けるべき身の守り方は？ 山形｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbUVrN2NWNFVucGlrZkdqS0pETFN3MXRPZUYzaVloWVhueUwybjRreWZ3X3BHcTlvdHRYRzJlS1RJNE1mWXpybmxWZnBnYm5QOE5uVzJoQUNqQzJUZ2YwR2RzR01wTTdOUG8xeFhURzRKX1E?oc=5",
+      "date": "Mon, 20 Jul 2026 09:00:00 GMT"
+    },
+    {
+      "title": "交通事故から発覚 酒気帯び運転の疑いで48歳男を逮捕（山形・鶴岡市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tWlRBbFRuQWt4VkFKRW9tWEFJTDR6NjdEX09oWnNXekN4MVNVc3ZUbGt6RG5tNGJtdEdRNUY4OHpkTmdjQkdTMHh1bzYyRk5Vcl9mSUpYU3gxUQ?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】山形県西川町の山形自動車道で観光バスが乗用車２台に追突 ２人けが（2026年7月18日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEVyd0d3N1dqUk1PRTNQWTE3MWhzRTdWMDNYMWlpVXZKTXBveG55YVRTUlRXOXNWSWlEOTgxMUgxT1psb0pSQ3NLQVNFWFowamFiNlItSjA1R0luVjlBRlRrb3JjczVPUjl2YUxuWExGdFBSem9kMXdQLVVsYlZ4UDZsNTI2ZUk?oc=5",
+      "date": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "運転代行業務中の軽乗用車が単独事故 アルバイト従業員の男性死亡 のり面に衝突 山形市の国道",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSE9ISVl6ZVBUZEtibmN4M3dxY3dOWE5mYjl0cFNJVE1lV0tEXzczQmRqR0tmZ3IzT1A4ZVp0azFCQUNGeGdYU18zRUc3QTY5VS14WEduSHBOVjRTRUJ1NGFKNS1GbG1vN1oxTkJKVGFlZHgwNV90RkREMVBQbHM3NjNBZmU0Qmc?oc=5",
+      "date": "Wed, 29 Jul 2026 00:50:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

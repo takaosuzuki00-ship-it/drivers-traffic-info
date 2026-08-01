@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-08-01T21:00:17.395250",
+  "generated_at": "2026-08-02T00:03:16.768480",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.1,
+    "temp_max": 34.6,
+    "temp_min": 26.5,
+    "precip_prob_max": 16,
+    "precip_sum": 0,
+    "wind_speed": 4.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.9,
+        "weather": "快晴",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 34.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 32.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeFRULU5NTXc0SG1EY2toVjFZSlVfeHNwNFM2SW10OG1hand5YUZSU3BEa1laSE5wNjhURGRBdlJ0aU5wSGtqQkZNdHJTLVpvTEVxT0MxZjkwY05hY1FJVEEyS2hhbzVrRFNORVZRZ9IBdEFVX3lxTFBpTWtZNnlxSVhlZzNuX0xEc2dpQWk1cmswTmtoQjBKUnlsTlZkUGRXT0JUdUl3UG1oSWs3TURlSVQzdzk0Sm9JcmdyRDA4dFlVX1hVTkhXYnRYRV8yUHpnVDNZNnJyOG9FM1lfeU5MNWRKZVpE?oc=5",
+      "date": "Fri, 31 Jul 2026 20:16:14 GMT"
+    },
+    {
+      "title": "8月1日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kQU00ZHZ1NGczMU1od3BxbmlzNkU2dHRNUUotRkJIdlROODlzSWtJVjQwSy16XzhUa2d2UG5odF9ORXlnYXpCUjVXODdnVy1ObHZ3QW5xUFZTRFREbTh5anh5QzZnQWJRVGJVMXd4TdIBdEFVX3lxTE5kRl9ZdnU5VkpZZjdhRFlmNmswdDNsZ1ZuNEY1aklZa3piVHpOZ3N5d19tS255Yk1pUC03czBKajg0d2NJR3ZidTBJVzhFbkpxWFBSc3NNUVA2clZnMUlKSGM3Qk9xcWtBX1ItTnh1RERpR3dU?oc=5",
+      "date": "Fri, 31 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月24日（金）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tYnJmUVF3eE95SW5za1RtSnlfVkNpQ3kxUXBhWVd0VERlTTRfQUs0alBvdTlkc2dKc3NnS3lISHowTkZCbGE2cnFJZ1ZHWTA4bW9uRzFOT3NyaG9uMmlfVmFMYnZRaHg3X3E1ZWc5T2RVV2ZDby1mck9ZVEJWWVk?oc=5",
+      "date": "Thu, 23 Jul 2026 20:00:33 GMT"
+    },
+    {
+      "title": "すでに「警告」２件 【長崎県知事選挙】選挙違反取締本部設置 | 長崎のニュース | 天気 | NBC長崎放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlVGprMElZWFpGOVpOZ0p4WjJWSFIxOGtWR2czclEzNkRhZGxpQ09lQWlwY2szN2ZnWjFRdlhZRUxTM202T0h4ZUlRSXE2bzJJaXZoSmVXYnEydw?oc=5",
+      "date": "Tue, 13 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【速報】東彼杵町の国道で車３台が絡む事故 片側交互通行の交通規制 | 長崎のニュース | 天気 | NBC長崎放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcTZDTmJTRVBfRkRMWWo0NXA2QjQ5NDNoY1l4Zm9rTTZsQmg5WGw0VGFpYmlRNDB5OHFBb1d2eDRMSG9mUEMyWUlYaFBacVJIQ2hNRmlLcXF6Zw?oc=5",
+      "date": "Sat, 01 Aug 2026 09:02:00 GMT"
+    },
+    {
+      "title": "【速報】東彼杵町の国道で車3台が絡む事故 片側交互通行の交通規制（NBC長崎放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zSXVnclM3V3NhNS1YRVlTRWl6TTh1RXR5bl9Kc3dSdV9fTTJRNUllLWNtUlI1WVdVQU9RbVRFMS1yOUVxTWtlQlp6OU90UkVuZnNLLW52S3dUYlYtRFk5eW5LZTdfUTRNODJZQWdzaE8tSk4zTk8zZDc2djkwbU0?oc=5",
+      "date": "Sat, 01 Aug 2026 09:04:17 GMT"
+    },
+    {
+      "title": "長崎市西出津町で事故 80代とみられる男性が意識不明の重体｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FdkdOMWJxa1ZMbDZfZ2lBbld3QnlXeG9JWS1tMFdTRUE0YVNtX0g3QmwxRENBMl9sbXp2d2kzR0dXSkpfZG5QMm13emxJMkk5VWRhT1owZTREM0dOa2hydzFB?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ツシマヤマネコの子猫2匹保護 交通事故死？雌の近くで 長崎",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kRW5LRWNPeGN5dmtVcjZnZTM1akpxWkxlU25JVmdmdU9jWFNVUDRnQVFTQkxpQ3NpYU4tdXcxU0EyaEdiQlhCUDJKTGZBZHM2bVNGNW0yRjY3cTZPeXJqNXRrXzdXS0tJ?oc=5",
+      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "三連休の中日 長崎市の高島海水浴場で水難事故 複数人で海水浴 40代くらいの男性が死亡｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wT0lpRTFoeFA1akk1Szh4T2YwZW85SHhYOEtCaGtrLXFUM05Pc2FxRTlpek9pRmtuTFYtMjkxeGFWSGNDa1pjVDhOTFg3UXh2Y3VfMmk0YThsUWIyRldxM1pB?oc=5",
+      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長崎県警察 公式サイトを検索",

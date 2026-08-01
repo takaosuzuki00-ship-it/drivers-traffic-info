@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.098613",
+  "generated_at": "2026-08-02T00:00:36.371451",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.6,
+    "temp_max": 22.6,
+    "temp_min": 20.0,
+    "precip_prob_max": 100,
+    "precip_sum": 1.2,
+    "wind_speed": 1.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 73
+      },
+      {
+        "time": "15:00",
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 45
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0a3VtTTY4RzJMaU9vMERIWGpJNzd1ajZYeEFvYnRGT1pPdGJOM0RQQW54c0tZajNvZC1MTVNBdmRMTU1mQVVNMmRERjlzMFpvamZEUmlpY01SWnpFN2p6VExOLTNVZllBTHBxZGNtZlF3RFhrbjlVME5CYXFMTW8?oc=5",
+      "date": "Fri, 31 Jul 2026 20:08:26 GMT"
+    },
+    {
+      "title": "7月31日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41TDR3TlhQVXBfRGU3eEFieWFteVo1dVhfUmF5Qm5pUzdwTUhLWFFsZFVVaC00b3YyN2UzTVl2QVVKcVo0R1RGTDJPeXZpNk54YjZUMHJHOA?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月31日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHY0Nzl5WnZnVy16QnAwMkJKSTVRdEpNWGFpMDZJWmJnemtMSHpUN0M1Um1XYTdOM28xSUg4ZS00YWJOV3dyUWlfd1ZYWUhWS3prb0xwelliMF95R2kyc2RfZkdBTEtQenlJdWlVM0VxQmhRQ3VacFJ1SHpvOHVjM3Bn0gF0QVVfeXFMTlZuX2FBM3VwOHVaOTc2TFVMemZPNFQyZHR5aktsTjh6eS1qUjRtT2E3clpxZEsxZDJuQkQwTzVCUUktUDB1ckR3dmx5ZVpDSTktWFRsbm1qWmJ3YnFQNzlmTVBweFo4eU0yd0VqdnhtdEYxT00?oc=5",
+      "date": "Thu, 30 Jul 2026 20:04:11 GMT"
+    },
+    {
+      "title": "7月31日（金）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JYUduRkgtM1JhSGEzVVRudGhpdk1PcC1SeDFRaUZacjFPVG9uZ3YwQ2l3LWN0NEY3Y3VpN2FTSERqVE14SVV3aEFSekpmaHZ5MlpMN2VUdjdnMU9zRE9jMXFJZzlZbTgyMjJQdDhwOUs0WmlsMDY3dHVMQkVQcTA?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:46 GMT"
+    },
+    {
+      "title": "7月29日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmcm5nV05IXzE4TzdxOG1fSU41Q3JFSC11UEVFd0xITFViQkpES1FuT2FoRVNBUGtmWmFGMks0dW1mQV9sMUtpWkZLa2JPbDNNUzNreUxtbG56QQ?oc=5",
+      "date": "Tue, 28 Jul 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "中学生が交通事故犠牲者遺族の声を聴く 「命を奪うことも、奪われることもあってはいけない」 岩手・洋野の中野中",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rU0trOFE2YjBIWGFETUVwTGU1Wl9pc1g5SkhicWNaT2c0T0JfZFRyemlVNzNnS0poYXNwWHhZTkpTdXBwRDQwMzlIVGtQUlgzRnNqTGhDY2ZqS21PenFKNg?oc=5",
+      "date": "Sun, 26 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "ダンプカーごと穴に転落 61歳男性死亡 岩手県盛岡市（2026年7月29日掲載）｜TVI NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ1ZOYzVpLUVsOFloM01Hbm1Ib2JFWngwRzFISno1MjIteVBSaGU0VkRjYzY1dEE0SlAtbEpHaWJvOHRnVFlPcGYxbmJETk5TWUtDSlZBaEoyWmFPMUJZMWdjRlB1Y205cUlZM2lUMzUtUmJuQmxGYlBrTUN5UjgzX0c4UUJ5ckk?oc=5",
+      "date": "Thu, 30 Jul 2026 03:37:01 GMT"
+    },
+    {
+      "title": "ダンプカーが穴に転落 61歳男性死亡 盛岡市の作業場 岩手県（岩手めんこいテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aajZ3UTNFLVFUUHZuVGYwOHE5UmgzQ2NGZFJVamhGQnVuemNiVko0VWJ3aGRFVXVtdDBNckx1bFB1eGt5aXI4ZWJtZlhMdXZYdHk3NGFXdzY3aTZ1M2lqY2JiaG04dGF4ejBGcGFXeEJyQnA0NFZFRUFoelIzQXc?oc=5",
+      "date": "Thu, 30 Jul 2026 03:30:01 GMT"
+    },
+    {
+      "title": "バイクや原付きの死亡事故、岩手県内で急増 2026年の死者数7人、前年同期はゼロ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbWNwdVNVMDBfODQ3WVg2ZzVuR2ZfSG1hSzBfYmtINHkyYVRFMmlkeHgyckFmckxOMENVWTNKb3BVRkFBOW5ULUE4eHVlRS11aXVFb0ZrVU84WUxzdkh3bA?oc=5",
+      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車道を歩行の男性が車にはねられ死亡 夏の事故抑止キャンペーン中 初の死亡事故 岩手県釜石市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1La2VDMUJuVlJZM1Q3bVNPM294MmladWpKVXRtRXhWX0ZxaHhXdHNUaGpkajczaldDUWExZlBXTlhQMkJWZXdqUHdmMC11UQ?oc=5",
+      "date": "Fri, 24 Jul 2026 03:20:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岩手県警察 公式サイトを検索",

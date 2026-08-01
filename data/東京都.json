@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-01T21:00:17.153538",
+  "generated_at": "2026-08-02T00:01:19.928704",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 27.1,
+    "temp_max": 34.3,
+    "temp_min": 24.0,
+    "precip_prob_max": 100,
+    "precip_sum": 0.7,
+    "wind_speed": 1.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 34.1,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 31.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4U0E5LVhYZGttaEVkZmhXMnJjaEpYOW9Ha01EUWpQSXpJVVdwY1BlcUdRX2VNS01rSkNQMmdHMkZDb0E4NmJnd0RLQXM5amNBQjlxb2oyZHlCZWNMQ1dWUnRUU1RFR1ZCYXl6UC1YZUlQd9IBd0FVX3lxTE12bnZQcXNCVVFKZFlBNGlrbFZvd1VFY096WmdENjh6bl9XUS12UV9ra2VVa21xMVdXbjE1T2ExYTAxSEVBZWVYRW9YUGZWc2ZkMUpoM1NiWEl6REcwMi1hYXc5blhjNm5aUjdrdmtkd0djV3hWYmhF?oc=5",
+      "date": "Thu, 30 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "7月26日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56dy1EY0VQWlNHdzFUMmRqbG5sUDViaTJxcXNjUGc4aG16UXlzdnY2d25uM2JqbkFwRDdxQ2JLTVJ0SVRjUi1vbWhwZTllOWxnWG9odlRhNA?oc=5",
+      "date": "Sat, 25 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月30日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YWVMzbk5vcG0wVGtPNDlYekVmYWg5ckxPMnhRNDNRemFZWkdPMzczX29GUTZhekpuT3hSb2NBQnNqclRZaFpIRXV0aTg4dVVYd1dzRWkzOE05bk15TGotVlhfQVcyMTdyaWswb0Ric9IBdEFVX3lxTE1wWUdpcTJxaDVmY0VtSi1kV0tndHlvVkJJVGQtdmQ0LTY3LV9UZ0NHeTdHS2hmdUc3RVpPSmg0MDhNSkJXOU9ubG9kUk55T2hoNEtsTm5iWnhGWU1ZVjFnekV0Slgyb1RLMUtDWktYLW1GMWdY?oc=5",
+      "date": "Wed, 29 Jul 2026 20:12:46 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "7月29日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zNVJCNld6Rlg0cUMySndSWjlvLTlEVkZEdWQ5RnNwaHBlbmpOZmNab2o2TXlWc19UVUdwQy1FcmFHakJmRTl5Rk9EbWR1SG5VekNtcWFmWnZsaUM3Yk8yOG9OTkhsWU5aNE9kSDVzQdIBdEFVX3lxTE1vcS03aVpnbEJvd1FFS0NtcW56RlZLdnEwcTk2azJHQXBiX2JXX1RHdVRfa0NKc2FsSG9ZUFltRFBYNU1fbFlmOFQ2aTMzb2hXdldFNHVzaG9CYjhHbTFta195TkVDMkVhUjJxVlQ5aEJrRm5L?oc=5",
+      "date": "Tue, 28 Jul 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "東京・江東区の交通死亡事故で乗用車運転の62歳男を危険運転致死の疑いで逮捕 改正自動車運転処罰法が施行されてから全国初適用 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TWGU1Wm9DSERZZTBJRE1QS0VMTzZCWDMtNHYxRGtmNFVwMl9uNEptYmdUTEwxaVE4aDl2b0VtTU1jYm9wd3NRdE5VSnBERGlJdkJnZHhHdw?oc=5",
+      "date": "Mon, 27 Jul 2026 19:16:00 GMT"
+    },
+    {
+      "title": "交差点で車と衝突、登校中の小学3年生の男児が死亡 青信号で横断中 [東京都]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kckJBeTB4VS1aODRvcmQwU3JUTGp4WmRJVWhTQ3F1UmdMcWl6bTBobGJ4U3RNWU1XV0xhMGFCcWR3RXgwUVRtdGFEazJEVlc1OUNOYjZqdEtjNWFwZHk3Zmt3aFV3eFk?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "近隣住民「ガシャーンって音がした」 横断中の女性が軽乗用車にはねられ死亡 東京・江東区",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83T21MTnpPUXVlOWZRenZhSmYtLTI4REFkVkxWdC1ncTVCdWtFa1lENGxpT3F1WWtpWWRxU2JsWURURlNGaGotMl9WTjRRZGxEMUFHcVhpTQ?oc=5",
+      "date": "Sun, 26 Jul 2026 03:42:26 GMT"
+    },
+    {
+      "title": "横断中の小3男児、右折のワゴン車にはねられ死亡 東京・西東京市",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ud3BNWGxvVngzdjRST29oUVMwUWl6aXBDOHhia1RCbUxfMC01R0paTjZjTHFlaElNMFcwbDFMSUFaTUR0Y2tWMnRDdGpmVDJlYnZRVzZ5blVPUklpemxrSFd4X2QyRG9raWZkOGxkSjZ4WXhzVVE?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交差点で乗用車に巻き込まれ男子小学生（8）が死亡 西東京市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVdBR19CUmJqV0NkQmZSTlhPS1hrWkV0c2J4T3YxS3QxYjJJMFA0OWNsYlY4cWpyZ3RRaVpvZlRlRFdyNmgxZjVNME50SWdFbTExMUtmRHZsY2dlUGVRN2RrSzJ0SXNCM2U5NzhpSjBfZw?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",
