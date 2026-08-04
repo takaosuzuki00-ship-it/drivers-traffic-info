@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-04T09:00:16.119885",
+  "generated_at": "2026-08-04T12:02:27.684779",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.6,
+    "temp_max": 33.4,
+    "temp_min": 25.1,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 27.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 33.2,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 32.2,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:50:53 GMT"
+    },
+    {
+      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "７月３０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sbE16Wkg4MG45QXo4VmN1cnkyelZ1bUxuQ1RNTWRQVjRLeF96WjZSTFpRWlFmbWR6MjF6U0Y0dUszNm16THVGeDYza29pWTZQTlZrejhhM1FZbzNfcERDZ19falFsd2o5TDJqVnozN09BQdIBd0FVX3lxTE5uNnVQVHRxbEItMlJOamhoN3FMdkZCTkE3bXNhQWx0d1FGeldSTXFld09HOHllRHQxY1ZEcjc1MTMwakdBVUhEc1NDWHhOOGJWcXlDNEF1OElhVE8yQjB0N2FqY21rcDNHcWIxR2NDa0JHQ0o5SG5r?oc=5",
+      "date": "Wed, 29 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "大阪府警察本部 竹内広行交通部長 危険運転への交通指導取締を強化 二輪車の交通事故防止に重点",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cTEwTXBWdmdSX29WWTZFRjQtUmlvb183TC16akdNRk5zYi1KRk5iQTlTcEowWEprdWZ2TUdmOGJUdTVEUWJXOWJoUG1PeDlvRkE?oc=5",
+      "date": "Fri, 14 Nov 2025 04:25:40 GMT"
+    },
+    {
+      "title": "「飲んだら乗るな！」危険運転の飲酒・速度超過に数値基準 改正法施行受け飲酒検問 大阪府警",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRNFBwVXVWTC1hbVRrckxsYnRJdWl3eVlwZ040NGpKLVJLWDVuLWd6WVdYMmp1WWJndUZ5T1ZCb19vbUladmZYeXNxbw?oc=5",
+      "date": "Tue, 21 Jul 2026 04:17:53 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "新御堂筋のバイクすり抜け、集中取り締まり 大阪府内で死亡事故も [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVGV6MnZzQmlIVXNTX0tJOS1OZ0tVSkdZZ0VwdWNVNzgtUzJaNU12b2lpdXVaMGJocU9OZFo3TngzV0tRY0F3TjN6UVFnS3ZVTkpaLVdOMThwbVh2LUtJQlg4d1NNaW8?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故状況 - city.osaka",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVdwVjktWDhEZndZNjZWOU92OEtydVFKUmE4emthWkVycEZXbXM1RjVHcmJvYnJUaXc1YWI5N3RaSzZNaXZXYWlYOGIzdjZQMDRMQkRBMEEycHVMdk1XUEwtMHlnQkt2SVVFRld4N1c1bWtnUnY2aTdPUmRvU2hoR2JmWlgzaHVNS2xEdzc5U3BxdmNhTWhQLXRZbVVHVUFPOERDWnlqOEEzR1Rp?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故発生状況",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2VsSFFXZWN2UWZwTEUtUFhRWENFTmNzd2cyUzM1UVRGNnJRN2JtRE5LTGs1bmtkM01uc1V0bkhBeDhjWjVUckRWa3hsM0NZS0kxX01RWDlkVG5NcmtVdC1JMTIyX0xEOVdFdTRReWlwOHUzOXNEWkhDbDh3bzhWa2hTdGJsQ25NZTd4Vk9hZ0JXWDVrM2FiekdkTUtQWWY3?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ヘリコプターも投入！大阪・東淀川警察署が交通違反の「集中取り締まり」を実施 バイクなどからむ死亡事故が府内では去年より大幅増…「すり抜け運転やスピード出しすぎは控えて」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5keVRHWHRPOE96TmUtMEo1b0w4SUlySVVkeTk1NU5qWFJVVGlmQXI0NGxZMzNqdFdSOUVQSnEwaU1jbnpZel92Zm80ZVd6YW91aHc0Y3NtZjFpSVp2aHVjd3hjLW9XNUU?oc=5",
+      "date": "Tue, 21 Jul 2026 09:35:31 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大阪府警察 公式サイトを検索",

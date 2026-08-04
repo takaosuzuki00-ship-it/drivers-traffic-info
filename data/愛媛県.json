@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-04T09:00:16.194390",
+  "generated_at": "2026-08-04T12:03:13.145164",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.8,
+    "temp_max": 31.5,
+    "temp_min": 26.3,
+    "precip_prob_max": 100,
+    "precip_sum": 0.3,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 29
+      },
+      {
+        "time": "03:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "09:00",
+        "temp": 28.7,
+        "weather": "晴れ",
+        "precip_prob": 67
+      },
+      {
+        "time": "12:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 31.3,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 29.4,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 57
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrT184b1hwYTdack1DNHZDTEt1ek9NVmNmeThEbzNoTUZKT2tTXzFUT29QZ3VVdkRLSEdpMV81V1ZlWi1fX0VyNlBiR2Fjd2RWMEpQcmtUem5iX3FCNnNXcTVaak1GS1hnRTlqM1BQWVZPV1g2VEo00gF3QVVfeXFMUGtPXzhvWHBhN1pyTUM0dkNMS3V6T01WY2Z5OERvM2hNRkpPa1NfMVRPb1BndVV2REtIR2kxXzVXVmVaLV9fRXI2UGJHYWN3ZFYwSlBya1R6bmJfcUI2c1dxNVpqTUZLWGdFOWozUFBZVk9XWDZUSjQ?oc=5",
+      "date": "Sat, 01 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "覚せい剤50グラム末端価格265万円相当を所持等 四国中央市の男 覚せい剤取締法違反容疑で逮捕【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xdjJCRExxQWZicWNLWGtSVVdVRkpFZFpPRWVSUy1IbjVjNUE5Y0kzNmlia3ktNU9Sb1JFREhFdEozeHNfMlNTMFUyWQ?oc=5",
+      "date": "Mon, 27 Jul 2026 23:34:41 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "7月29日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zNVJCNld6Rlg0cUMySndSWjlvLTlEVkZEdWQ5RnNwaHBlbmpOZmNab2o2TXlWc19UVUdwQy1FcmFHakJmRTl5Rk9EbWR1SG5VekNtcWFmWnZsaUM3Yk8yOG9OTkhsWU5aNE9kSDVzQdIBdEFVX3lxTE1vcS03aVpnbEJvd1FFS0NtcW56RlZLdnEwcTk2azJHQXBiX2JXX1RHdVRfa0NKc2FsSG9ZUFltRFBYNU1fbFlmOFQ2aTMzb2hXdldFNHVzaG9CYjhHbTFta195TkVDMkVhUjJxVlQ5aEJrRm5L?oc=5",
+      "date": "Tue, 28 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "ダメ飲酒運転！「酒酔い運転」に新しい数値の基準 松山で警察が大規模検問 改正道路交通法施行【愛媛】（テレビ愛媛）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naUpnX3l5bDdZdi1OS2JJXzlaYUt0QWxERE03MmVhNk1DUG1Kck10NDZMNVRSNmZLS1RGWU9qSXBQWlVjbjY5MGRvTWF6S1FIN3RTVmZBWktWLTM5bU9Dblkxc0dYaHl2czNQLWFuYjcyVXpTX1NEQlFFQUdmbGM?oc=5",
+      "date": "Mon, 03 Aug 2026 09:52:02 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "トラック同士が衝突 4人搬送（全員意識あり）愛媛・新居浜（あいテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWbUNvMklIVmlxTFhscDl3Z2dkU3pYUXJMeEFZMkJSdDFWRFd1d3lmd3MxWHRodFgyRUNkNkxkLVh2NG5Bdk9ZNGc2eWZIdnNhSFpOOTN0N2ZaWjJqMGdyQjhOY2FTbW9NdG5IbE9zU01ma2tWMUNISmNTVUozYVE?oc=5",
+      "date": "Fri, 31 Jul 2026 03:41:31 GMT"
+    },
+    {
+      "title": "「ガソリン漏れた」松山市の環状線の陸橋で車３台絡む事故 少なくとも４人搬送 漏れたのはオイル【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yNXZSV2g5OHZVcHZPY0FGVlRnNExjRHl3VzVDNHNOUWNRS1libDVDQ2dtUVVxTjBHUHgybE1adWlLZm1hRndwSHpnbTVEUQ?oc=5",
+      "date": "Sat, 25 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "１台は横転 乗用車など２台絡む事故 愛媛・新居浜市内の県道 「春の全国交通安全運動」はきょうから",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRUpDVVNHZS1rNjRMa05pMXl5MWl0OTc3MURycTRlQjlZSklyRmZfaGUyemxUR3otWDFsTVVHaDFfc29RM1I0a0lQMTVYbmRFLXRhRU92X2ZQWkpHYXBJ?oc=5",
+      "date": "Mon, 27 Jul 2026 08:54:00 GMT"
+    },
+    {
+      "title": "交通事故件数の推移",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16QzBoVVVtZXdFanBhMnlKWWhJQW1OcHlZTEZWRnB1MlZMbWlycDR4VXdMeUhac1RmMTVKUHRvS3hEbmRaWWdFWG5kLTg1eG01X2w5T1RTd21PYl9lbThuOTlTeGE2U3RvZVE?oc=5",
+      "date": "Wed, 01 Apr 2026 05:14:48 GMT"
+    },
+    {
+      "title": "新居浜市 トラックなど３台がからむ事故 男性が死亡【愛媛県】（eat愛媛朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52MWlXdVNiOEc5Zk9uZllJTWh2Z0IxM2I4LXphMG4tbW5PemM2ZkRFeFVTekR6SkRvVGMxUjRYU21lZXFJN2l5WEx4eHh0VTNrSzBXczJ5ZkJLNzZ6c2QwTjJFMVNCNWNHSGg3SG5qSE1HRnN4UDF0ak1FYnV4aVk?oc=5",
+      "date": "Sat, 01 Aug 2026 01:14:06 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛媛県警察 公式サイトを検索",

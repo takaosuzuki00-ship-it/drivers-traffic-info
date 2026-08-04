@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-04T09:00:16.234038",
+  "generated_at": "2026-08-04T12:03:32.630774",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 33.9,
+    "temp_max": 34.6,
+    "temp_min": 26.5,
+    "precip_prob_max": 100,
+    "precip_sum": 0.8,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 33.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "15:00",
+        "temp": 34.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 33.4,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "21:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVmU4aWFCS2trcm5tX2xmampmNmc4Vmx1NC1Hc0lBR2p5SDZTT3NmVVlKUFByZi1RTm5ScHZaQUJOc0xaMXFfMFgxU01yTTJPd1ZhN0dHSQ?oc=5",
+      "date": "Fri, 31 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dWtJY2l3c1MtNHFsWnRycXdFY0dpMkpKd0gtcnd6bjdDSU9WUGNwQ2lzSW4yc1Q5aWtZNGR0LURQQV96YWJTX2Y2SkFJN09peHlQNjk5SVBQUGJ2M0JVV05ld2hJUEJiVEUwV05OdW9kNnZrbUhfdWVWNmt2SUk?oc=5",
+      "date": "Sat, 01 Aug 2026 20:02:14 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80WEppcVQtblFZeUtYdTRxekhfZW8wVjBOb2tfNEhvVkdEUm9YSzVBckVzZENyRnZxMDl0RURQWG5vLUI3VTNfdTdqQ0tONGMzYy0zSHFhSXNoMFo2cUx3TUwwZExJbGtHR2dzNXo4YV9oTzNX0gF0QVVfeXFMTzRYSmlxVC1uUVl5S1h1NHF6SF9lbzBWME5va180SG9WR0RSb1hLNUFyRXNkQ3JGdnEwOXRFRFBYbm8tQjdVM191N2pDS040YzNjLTNIcWFJc2gwWjZxTHdNTDBkTElsa0dHZ3M1ejhhX2hPM1c?oc=5",
+      "date": "Sat, 01 Aug 2026 20:02:00 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZmhnbzZfemJkVVdYUWl0Y2tQaGRuZ3BfQzh5UDQ0MmNpSkg5RkZGTElBWjR4SXlCVHpQcEdzNVU1NU9XUHlLNGl4a3ZIQzh2VlR2VXFvdU05Zw?oc=5",
+      "date": "Sat, 01 Aug 2026 20:02:00 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】 (RKK熊本放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmNFd1RmbHBZa3JvME9CT0xIVllRWnZPaXgzMWF4NW8wVk0yazB0ZXR6cUFhZGNQQzg2UXFtc2Q5MExEVmREZjJ0d3VwY0I3TEh1eVlzWDJNNmJDYmdxMmhsRXhkS0lPRHllcmRrT05WSi1nWGx2MWlXQnd6d2dfYnZaaGhmTG05QVlCRENR?oc=5",
+      "date": "Sat, 01 Aug 2026 20:22:30 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "＜一筆＞脱線事故 ［福島孝一郎 熊本市交通局首席審議員］",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmaWFYdWJyVV9xNHJNenVkeTluZHQ2Nk9UT0Z1a3RESmZaZUVkX0FiaGNRYTI2a1dlWGwwMDc0U0xZamZoM0kxc2J0Q1lQQnM?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【速報】夏休み、塾帰りの中学生が大型トラックに はねられ死亡 熊本・御船町（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yQ1hqVTFBUlNzTUw0bG1BMmMwU2dxcjFLeFU2bjVHRGxlTWVMaTNIVkI4YnJodDZQSkRISTVFVUFTbGV1OWR6cDFxanUxU3pXblQ5YlROeWc4NklqczNCdmE3ek9fcm82TDdyVDNjODFIV0dib0dOMVREb3p5Nkk?oc=5",
+      "date": "Thu, 30 Jul 2026 09:27:00 GMT"
+    },
+    {
+      "title": "熊本に向かう「災害派遣」の自衛隊車両絡む６台事故九州道古賀ＩＣ付近",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xUnJUMkJBb2FjcmdKa3lJSHpGT0dTOEZvNWNJZnozQnRyRWlDQW95QldLai1DamFUZnd0cS1NakxwalAwLXFJckJVTV9IeXh6dUFGeXl2Z18zdHZNWmlqcXlaNTMyVUVWTlJTY2JB?oc=5",
+      "date": "Mon, 03 Aug 2026 03:14:00 GMT"
+    },
+    {
+      "title": "日帰りツアー中に…熊本からの貸切バスなど5台が絡む事故で15人搬送 大分自動車道で現在も通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pREZ3N3ViaFlkOWttWjZxU0NsX09KaFFFSG9YVVJFcnBUWUhGNnVhblZCY2xWWE9pMVNsRzMyVmZvTXdlWDZOZWd6Sy1EV1dfTG5yYnR3?oc=5",
+      "date": "Mon, 27 Jul 2026 10:09:50 GMT"
+    },
+    {
+      "title": "九州道で車6台絡む事故 1台は地震対応で熊本派遣の自衛隊車両か けが人確認されず 福岡・古賀市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ueWM0NXBkVDVpaXpGcTY5b2dDeHlXNWlLdGYyZUtmN29lMW1CaG9TQjZnNTFLeGk5MVQ1SGZJVjBhNUUxSWhCTVl1WkF3UQ?oc=5",
+      "date": "Mon, 03 Aug 2026 10:43:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

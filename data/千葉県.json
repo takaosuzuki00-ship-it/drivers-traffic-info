@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-04T09:00:16.022447",
+  "generated_at": "2026-08-04T12:01:33.222683",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.7,
+    "temp_max": 27.3,
+    "temp_min": 22.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 13.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93bWZHZ3o2SU1tdFU0TkN3OF80czVtODFuVVBWY3haaFVOdkZTTmtyVUVCQWNwaW5faGdycHcyZV9QamZSeXZxU2VRVzlFbTNqWlJ0S0NMVkItd0hLdVlJczFFc1FoRUpweG0tZ0EtNNIBdEFVX3lxTFBvdEMxR0NpNkR6Y05zV1lFSGFBYnJneFdUbC16Szl3OHlORHk2RFZWVFJKajRyMFBsTHIwRGJjQ0FualhiYVQtOUY2YWlpQlVhU3RrckFGQWNuWFlfMWQtLUljRkRVSTVHTmVVWFl6aHMtcUQ1?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２６年４月９日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YMjBabzE1Y0EyZHlJS1lvOUhfSS0zSVFfTTV1M0l1eXp0RE8yMjdJWUZvWmhTdkNwQTNNdmFqQ2hua3hBWUJkZWE5ajVRRU5OUjlKTTZlYjk?oc=5",
+      "date": "Wed, 08 Apr 2026 20:35:07 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１８日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ycEJmY2NYMHFCeVhVMUlJX3RnQl9KRUVMQ2xGT185RHBLZlROSkpCOHAxYkQ0V0d6QXNGWWplc3pkMDNOYU5YTTNybw?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "千葉・柏市で乗用車同士の事故 90代とみられる女性死亡、子ども含む7人けが",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVUE4RzFSUmc5d1B1Q1FWcWF5T3R6b3NIMWtGbFFiNlpGTnMtcTM2UWplcUZVcENwTUtuTDVvVzY1S0l2d0xUTTNYVEtTQ01YeEhUUkF0SjdRRGc3WXZZSHlyTjRGck44TTg0dXhUZ3lSZw?oc=5",
+      "date": "Sun, 02 Aug 2026 10:34:33 GMT"
+    },
+    {
+      "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LMGE3NkZPWUhRaG1vSC1taU1CbG5Kd0pjaldfRUdjeTVNaXQwOEtkZ3dzNWY4RVV2V3JLR0t4R2VOMVAtYlNLZ1M4NVZ2dlZhc2c?oc=5",
+      "date": "Wed, 22 Jul 2026 09:22:32 GMT"
+    },
+    {
+      "title": "車2台が正面衝突 1人死亡2人重体",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XME1IdVF5cEVSSmdfZG9NX1VmaUQtdUJjU3FHQUFlOXpTOG81TWJvMjNnVGNJMEVvdjdOQXZKOWhWaWstVDVkc0N3WjRMbTBt?oc=5",
+      "date": "Sun, 02 Aug 2026 14:27:43 GMT"
+    },
+    {
+      "title": "千葉の国道で軽乗用車と乗用車が正面衝突 軽乗用車運転の75歳の男性死亡 乗用車の親子4人も重軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RczFoM2pMSk1Tb0xNeTFVWFNNR1haczBzblF6dlVNMHFlWkVpTXpBY05fYk1OMGhEX3FwcEptdjVsQmNTcWVUWlUzZzEwMF9JZWpYLWg1UQ?oc=5",
+      "date": "Sun, 26 Jul 2026 21:09:00 GMT"
+    },
+    {
+      "title": "軽自動車と乗用車が正面衝突 軽の75歳運転手が死亡 対向車線はみ出したか 乗用車の家族は命に別条なし 千葉・大多喜町",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPMno1akx6cmQ2czFnLTVCblhGMEExRFBiZXZLVmtJTWFpbXpwNTBOam1tN0JGeGpGWl94bDhDLUI0LWFPd1FwSlFXQXRDZw?oc=5",
+      "date": "Mon, 27 Jul 2026 03:29:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",

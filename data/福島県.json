@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-04T09:00:15.996371",
+  "generated_at": "2026-08-04T12:01:12.508799",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 28.3,
+    "temp_max": 28.9,
+    "temp_min": 19.0,
+    "precip_prob_max": 45,
+    "precip_sum": 0,
+    "wind_speed": 7.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 19.6,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "12:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:50:53 GMT"
+    },
+    {
+      "title": "7月31日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wdl90SGlPcTYtUjVKRUtXSTI3S1dkRk1rdkh2MmpoYW9mM1JrbWtkS1NWM08wUGZ5Q3owb1dMekZNZi1OeXoyVGpYMVNMbnRtM2pULXlwVQ?oc=5",
+      "date": "Thu, 30 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10b1FaSEZYdmRueWhwSnFoOWE5N25UeWVZbnhMRnZfVXBxWnR5MndqSUg2Y0paRk1kT2E5LTNpSWZxLTdHdV9WTFdrWEs4WWJDbGM3SlpYNnVSV1BucTZqbkdCVEkzNHZGSzIxR1Jvd9IBdEFVX3lxTE80WEppcVQtblFZeUtYdTRxekhfZW8wVjBOb2tfNEhvVkdEUm9YSzVBckVzZENyRnZxMDl0RURQWG5vLUI3VTNfdTdqQ0tONGMzYy0zSHFhSXNoMFo2cUx3TUwwZExJbGtHR2dzNXo4YV9oTzNX?oc=5",
+      "date": "Sat, 01 Aug 2026 20:02:00 GMT"
+    },
+    {
+      "title": "7月30日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zMTJsX1JsR3BxamNZMC1MOVdsZDJtSEhVN3Z3QXN1WTlnc2ZXNU5RUG5HSC1SU3NhME90WmVnM0hNZFVUS1MxZDNOOXBPbWw3cGhvOTNySQ?oc=5",
+      "date": "Wed, 29 Jul 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「飲酒運転は絶対に捕まえる」福島県内で一斉に飲酒検問 改正道路交通法の施行に合わせ（福島中央テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40d0dXanJkRl94TklFVUloVWdhQmZtWDhoYXhYVjBlZnJESnhyU054eDhVS2FCcWJETjhHZHRTbkw5ZkxvYkhkRlg2QzRkNkdUMm5WWElIdUpoY2lEU2VJZW0zZWs4OVp4MDJOTjFZeUgwVG43cjU1d200R3JvQ1U?oc=5",
+      "date": "Sat, 01 Aug 2026 08:48:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【交通事故】福島市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mVS1QaUxlRVk3Vlh6aXVEeTVZOU9GU3MzVWluUk95TUdrRmZDbEN5VkNIaFMwbzl0azFzLUplZFpHOVNKaXU5MW54cXE0eGM?oc=5",
+      "date": "Thu, 30 Jul 2026 23:50:00 GMT"
+    },
+    {
+      "title": "＜一筆＞脱線事故 ［福島孝一郎 熊本市交通局首席審議員］",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmaWFYdWJyVV9xNHJNenVkeTluZHQ2Nk9UT0Z1a3RESmZaZUVkX0FiaGNRYTI2a1dlWGwwMDc0U0xZamZoM0kxc2J0Q1lQQnM?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "福島・東北自動車道 車2台絡む事故 1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GWmx4QUZjWENMYi12bGpib0NhUmdGaWtZemRraVZNUjRXaXVVMHpsUGxNVFR1RW1GZ2ttUmhjYlR0UmktU094dXR0cy0tbGMxZjIxWkRlM2Jzajk2QVpxdW1RWnZGVzJQdmwtN1RvdmhWUQ?oc=5",
+      "date": "Sat, 25 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "速報＞東北道で車運転の女性死亡 のり面に乗り上げ横転（福島民報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fLWwyVks2bFFoVFdVRXZ1d1NQbG1haFUzbFpfUW5LLW9aQnNTRUlzbThFeHBzSWlzVS1IX19uSElra0xoTENOZ1FKRFNMejZnYjJFR2tzN2dXUUtRWTJlZTJYWFE4S3B3Vmo5ZXpPOERUR293MlAtUXRhQldCelU?oc=5",
+      "date": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スリップ原因か 東北道上りで車２台絡む事故 男性１人死亡 福島西ＩＣー二本松ＩＣで通行止め",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWppNGtWWFdSQTF3V2VWRU0tc1ZEY3FqZXM0Rjd1SXg5YnNzMWc2Si1nNzZXbXhIOUZFNE5VZjgzdnFMbVNtSEpveEVWdWxKWTFIT0hCTy1OMEhjMDk4MWZsN05ycVNwSkFaV3JDOVFZU0M0YVNXUmlab2lMODlVbFdLVlVVM3M?oc=5",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",
