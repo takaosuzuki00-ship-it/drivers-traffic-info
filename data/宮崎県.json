@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-04T21:03:35.972661",
+  "generated_at": "2026-08-05T00:03:57.458099",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 28.8,
-    "temp_max": 29.6,
-    "temp_min": 28.1,
-    "precip_prob_max": 92,
-    "precip_sum": 27.1,
-    "wind_speed": 12.4,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.2,
+    "temp_max": 29.9,
+    "temp_min": 27.8,
+    "precip_prob_max": 97,
+    "precip_sum": 1.4,
+    "wind_speed": 9.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 28.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 28.2,
-        "weather": "雨",
-        "precip_prob": 92
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 10
       },
       {
         "time": "06:00",
-        "temp": 28.1,
-        "weather": "雨",
-        "precip_prob": 86
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 57
       },
       {
         "time": "09:00",
-        "temp": 28.1,
-        "weather": "弱い雨",
+        "temp": 28.8,
+        "weather": "弱い霧雨",
         "precip_prob": 84
       },
       {
         "time": "12:00",
-        "temp": 29.5,
-        "weather": "弱い雨",
-        "precip_prob": 80
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 73
       },
       {
         "time": "15:00",
-        "temp": 29.4,
+        "temp": 29.8,
         "weather": "弱い霧雨",
         "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 29.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 41
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 59
       },
       {
         "time": "21:00",
         "temp": 28.8,
-        "weather": "晴れ",
-        "precip_prob": 27
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       }
     ]
   },
