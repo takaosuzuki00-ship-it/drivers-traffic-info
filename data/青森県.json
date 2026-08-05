@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-06T00:01:04.944094",
+  "generated_at": "2026-08-06T03:00:54.119385",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 19.8,
+    "temp_max": 30.4,
+    "temp_min": 19.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月1日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
@@ -43,11 +102,6 @@
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "国道で車4台が絡む事故 3人が病院に搬送 青森 - news.tv",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JM1BxRmZuNmZ0R0dPeWZoamEzLW82OXBsdjVYeFpsY1d5WDhhdVN6NXZid3loRGZRczBZTDJ3SGFya2NtUGxPMnBFUElrRDRFMmpiOExnVTB4cUdYWU0xS3lSQ3l0VW5YbG5LTVBlamRHdw?oc=5",
-      "date": "Wed, 05 Aug 2026 10:17:56 GMT"
-    },
-    {
       "title": "0歳児死亡の事故多発交差点、警察が信号機設置「前向きに検討」 [青森県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwOGJoekR5QmlQbUNMc3BVZHVMQnJLVVh3SjhURHB5Wm13WGZmQUZ4dENEWWdVbW1HNktJR0duZmkwVkVuMVUxay1Hdy10NTJUcENSWndPVE5mT1lqeHRSWHRyS0NkMDg?oc=5",
       "date": "Fri, 17 Jul 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "「もう1人、そこにいるはずだって…」衝突事故で0歳乳児が重体、母子も搬送 現場は過去5年で16件発生『事故多発交差点』 青森県三沢市",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xcldTNGNtLXc1NFJGYWpKUGc0S1hFT3JnbWtwQmNScFlVWHFfZGVvNVl1UFJiU0RvQ0xkY3FNX3BjQkd1aXZSd3JGUEFSQ2ZmUkprRlM3bXJySy1mSzJ6Q1hMOEw5QjZQM0ZPaDNQU09lam5UN0dTeVN0ZFo3elE?oc=5",
       "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "十和田市“ポストコーン”設置 事故「青森県内最多」交差点で対策工事（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwTl9TazNDaTV4aGJWY1FFd2pPLV8yV2lxeFdLSzY2WUFMWEJjTmhuSXVMRjdGYUUzSUtIc3o5N01sUEVZWmZEV2YzSUFMLVRySzRXaXpVbUNJbjI5S1hHbFhuOU5QNmVMYTRPbFZjX01pWkJYYTRIdkFEa080akU?oc=5",
+      "date": "Fri, 31 Jul 2026 10:40:26 GMT"
     }
   ],
   "official_links": [
