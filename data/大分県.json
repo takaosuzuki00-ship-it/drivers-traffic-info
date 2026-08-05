@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.316564",
+  "generated_at": "2026-08-06T00:06:22.073876",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.3,
+    "temp_max": 30.7,
+    "temp_min": 26.0,
+    "precip_prob_max": 73,
+    "precip_sum": 0,
+    "wind_speed": 6.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 29.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "15:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 67
+      },
+      {
+        "time": "18:00",
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "21:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 55
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月５日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RU0NOVFhBSVdHZ29wcGJTcndjVUdVcWlXVEhlcHJoU2loT0J5TklkeE50OXlxd2pCcUtvQ2tiT1hrdXRyaTJ3S0Q3YVZrSlFsSGp1MGp4NUpWdDV0RklmcU8zYlFvRC1DdzhDS28zTFBCQdIBd0FVX3lxTE00R29kTlRtU0xFYTkyVTFibWF5YXBZQmF0M1VxRU52X3pVNHJ0WkJtS3BuaFlnOVlxQlNtZTFhRmwzamhOcFltTDdoaWgxZlhTUzVObklCM2JZREVUaWZhTklyRkwyZ2FDbDNOQ25lQVlMQXJ3eFpB?oc=5",
+      "date": "Tue, 04 Aug 2026 20:09:00 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pMnBVRHh2V3BNaXdORC1WRi1jUFBlazFMQ25XYVdHTWM2UzdDczdnYm92RXdLRkZ5dUxIWnY5UzlIWkhqX3ItNjdNZzgwblhxOEMxQW1LTQ?oc=5",
+      "date": "Sat, 01 Aug 2026 20:02:00 GMT"
+    },
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10b1FaSEZYdmRueWhwSnFoOWE5N25UeWVZbnhMRnZfVXBxWnR5MndqSUg2Y0paRk1kT2E5LTNpSWZxLTdHdV9WTFdrWEs4WWJDbGM3SlpYNnVSV1BucTZqbkdCVEkzNHZGSzIxR1Jvd9IBdEFVX3lxTE80WEppcVQtblFZeUtYdTRxekhfZW8wVjBOb2tfNEhvVkdEUm9YSzVBckVzZENyRnZxMDl0RURQWG5vLUI3VTNfdTdqQ0tONGMzYy0zSHFhSXNoMFo2cUx3TUwwZExJbGtHR2dzNXo4YV9oTzNX?oc=5",
+      "date": "Sat, 01 Aug 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "観光バスなど計5台絡む事故 乗客ら10人以上搬送 大分自動車道",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNWpxcWp1YlJqQW1aa1RfeWVCblZkZTV5Q2xuQzdfSVZQS2lLYzlGQnlfd05SR1d5SEF4Y1ZURG5aVU5DejFyVTdZNkR4ZW1hZThUdThVenBqenFKRHFMQ1hOV3dDODQ?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "61歳男をひき逃げの疑いで逮捕 国道で車4台が絡む事故 車はその場から逃走 男は容疑を否認 大分",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBbmZHYkF6UDZJY2dteVFSd3hJejMwRE8tREpCaUxPRUFaMlRJMk1KNUx2TWJaT3Y5OUMtQXhmTWFKeWd6R0lIOGhrSDdidlI5SGVBdVZGMS16WUhw?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "日帰りツアー中に…熊本からの貸切バスなど5台が絡む事故で15人搬送 大分自動車道で現在も通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pREZ3N3ViaFlkOWttWjZxU0NsX09KaFFFSG9YVVJFcnBUWUhGNnVhblZCY2xWWE9pMVNsRzMyVmZvTXdlWDZOZWd6Sy1EV1dfTG5yYnR3?oc=5",
+      "date": "Mon, 27 Jul 2026 10:09:50 GMT"
+    },
+    {
+      "title": "熱中症の疑いで大分・日田市の女性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc0lIdXVJTkFXaUNKVkxUcy0yMjZ1MTVZMUlzM0VTYlRhMVN6amN4c2ptYmtnWU5vcDNSS3ZJZy1Mc0Rxb3dHWTRlRi16S0djVmNNZG1R?oc=5",
+      "date": "Tue, 04 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "電柱に衝突 車を運転していた74歳の男性が死亡 助手席の女性も重傷 3台が絡む事故 大分",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZHdKNjdrOEJJT19faUxjZ3Nsb05mWmFPOXJWdDMzSkpiVVBTTzlEV25PS3Y1UndYTzhuZV9nQjJTSE1sRUFWcHRnSzI1R05mSGJzYU1rUEV4OUFL?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",

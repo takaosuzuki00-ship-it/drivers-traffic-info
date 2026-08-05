@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.294277",
+  "generated_at": "2026-08-06T00:06:03.949741",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 28.2,
+    "temp_max": 36.4,
+    "temp_min": 26.4,
+    "precip_prob_max": 28,
+    "precip_sum": 0,
+    "wind_speed": 5.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 31.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 35.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 36.4,
+        "weather": "快晴",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 33.3,
+        "weather": "快晴",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "唐津くんち特集＞町にあった曳山小屋 花島副総取締「火事を心配する毎日」 | 行政・社会,まちの話題 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Nl9xWFVSRjRSclhxdkkxYkJkQm9Nc3I5bDRJY0pxMElWd01NTVJ6YldPSXpBbHU5U3lZV1ZsZWxkWkVWX3h1S3YwN08yczAwZlpKcVJ3?oc=5",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "検問中に酒の臭い 酒気帯び運転疑い、佐賀市の40歳男を現行犯逮捕 神埼署（佐賀新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BYnk0XzRQR1NqSlVpUDlFSC03WFVMa1Q1ZEtVenJRNDZ5dWlreHFIeUJ1RHdXZUhPYnZnc2s4V3BvSW1wOE5EdTRsTUQ2YkpCQ1g3Nml3VXYtVS12eHU4ZW9kOGtWRy1laU43R3NuenUtOGYteFBnbURYUzFnblE?oc=5",
+      "date": "Wed, 05 Aug 2026 12:09:20 GMT"
+    },
+    {
+      "title": "警察の飲酒検問で発覚 酒気帯び運転の疑いで自称・自営業の男（４０）を逮捕 佐賀・神埼市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQW9QOWVyc3l0UkFkelptY25DLXRjWWZYVkZKNmNxbW9STnJSOGVVWUQ4Q3d4dUxjeGUtQ3dWbWNCbmgzSXg1cHRTZU4zc01zMlB5VUU4N3BYdw?oc=5",
+      "date": "Tue, 04 Aug 2026 22:11:00 GMT"
+    },
+    {
+      "title": "警察の飲酒検問で発覚 酒気帯び運転の疑いで自称・自営業の男（40）を逮捕 佐賀・神埼市（RKB毎日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRYzVSTXNwZTdtd2FfeFNiSUhNVjlWZmJZaEhTZXNNQXZpd3MzTzNxdDFGcFZYNkdSbm1mQjY2YWR0clVkT25WZ1ZFMHZIc212UzBWOGhrUmlxMFN4NldGRXVCdkN6U2dwWndyc05Ec1B1RkQxOTFWUXhZWVhkbU0?oc=5",
+      "date": "Tue, 04 Aug 2026 22:12:18 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "上半期の交通事故死者、１１６２人",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EX3NzU2g3aEdfcWNScjh0dFpCVW9BNXEtcWRMTkFNMy1ucENhdkI1RUVVVFVFT3VMT3ZrVDREZW9HSi1scksza3ktTURleklzTmo3Mlhn?oc=5",
+      "date": "Fri, 31 Jul 2026 07:50:00 GMT"
+    },
+    {
+      "title": "「痛いよ」と泣く声だけが…下校中の小2男児が自宅近くではねられ大けが 母親が事故防止訴え【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42Z2dPMk8wbFpSRXl3ci1STl82d1ZaU2syRmpINkk3Q05fX0w4Mzd6TlZtNXR3cFpqX1RXeEJzX1BQb29MdTVuRjlMdkJod3RGU0ZQcUZ4eXhvb01icTU1YllB?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「笑顔と命、大切にして」交通安全訴え 事故被害者遺族が佐賀大学で講演",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhcnpTSFBUZUZHbE41ak42cVcyY1RTcy0wdXhkdWNaSzhxNE5fc2ZBUWhfSGd6a3ZvbkhHVktpNDFNMDc5TGxyRnI3cw?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀県交通安全計画、交通事故死者数を年間１０人台・人身事故２０００件以下が目標…「ながら運転」対策強化",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BUmszYUNtRk5pMlVCbE9Sd1BFUUN4Q1dYcnR4WTlRNEhsN2w3TXJ4NE5fajVMc0xMZEdZSFZkc0UybHhZSjl6Z3JxMWFiWXg5RnVDbzd3d0VzSjYxUEcxeHIyMkx2amdpbk1PLVdJcHVqdw?oc=5",
+      "date": "Sat, 02 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「笑顔と命、大切にして」交通安全訴え 事故被害者遺族が佐賀大学で講演（Saga Shimbun）",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtVWFLSHl0QS1BR0E4QVpfN2RWOTlhdGljUXFsdTg5UzAtdUtvNmd2a2Z2SUVoYnctbUtSVGZPdE9ta3FQNWF6dFQ5cEVHSWg5d18wY1U2NVVCNW5FS3k4UjdDZnV0MGtfX0tzNW1DWVh4TmlWamNJ?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.331382",
+  "generated_at": "2026-08-06T00:06:37.755563",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.9,
+    "temp_max": 31.5,
+    "temp_min": 28.8,
+    "precip_prob_max": 94,
+    "precip_sum": 1.1,
+    "wind_speed": 18.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 28.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "15:00",
+        "temp": 30.6,
+        "weather": "曇り",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 29.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 29.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月０９日（木）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40YnAyOS1xQ0I3alNFWTRHRzkzWk14bl9zQ1kzRTVsRjdydWJRa2h1VldnbVY2WE84Wm9oVWpqdTZ2WlA4ZVhyYnF6ajJSblkzWTk2RFhFOA?oc=5",
+      "date": "Thu, 09 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月０７日（火）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtNUhWUG5ZWVVPUFctbHVDcUYwVHNiS1EwcDFQbTFfa2xNNTdnVjlkbVJoVmxmUUF4Zy12V1BUS3BwQTI4T2hRRUhKMk1zcVNzbWJlUGRnbw?oc=5",
+      "date": "Tue, 07 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月３０日（月）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VY0M1aVJDakQzelpGX0RIYnFKdGU5eS1LbHRRQkxMSDRsQ1h6Zm5ZR2Vzc1ZoTjRreE1IOUNMWnVxVU53S0I4MVpLSUdMM0NPRnE4dGZWN2FKVEs1NWJrcGYxMXFybTg?oc=5",
+      "date": "Mon, 30 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県下一斉飲酒運転取締りで16件摘発 酒気帯び運転2件、速度違反5件など 県警「取り締り強化していく」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wU2pYbDQzRTBPbnAzbE83Ny1wdC1VU3R2SlFBUmxRYUJOQXc2SFpVTXBWRktaSWRDN212UU1kdHl6SXVTOHpGelNJLVNzMnBscGRzOUItMA?oc=5",
+      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "鹿児島市電と軽乗用車が衝突 軽乗用車の運転手は現場から逃走か 鹿児島市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWmZoUXdETkZQYzVPRV9uN0w5YkZ2MDZkWnl0OV9TSnlsZ0JSNTFUaW0tUVN2LXE5UWZVRzJLVDloazZxVzgtZGRBWU00dGlpMGRDc2NyVUtwTTZ6aGIwVXVnSHpuaG8?oc=5",
+      "date": "Tue, 04 Aug 2026 07:16:00 GMT"
+    },
+    {
+      "title": "市電と衝突した軽乗用車の3人が逃走 車を放置し現場から立ち去る 鹿児島市鴨池の交差点（ＫＹＴ鹿児島読売テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2RVRBd1RIaklMRjJtWUxoZFF6ZTBWX01IQ3V5X0hmNmtUZi1kSUlha2QzOElLbkVzd2xjMVlTR1RFSlRPUXYtdGphdGotUUFlQTF0cXJMMWZiaVJFd3g1Y3lfVnZfM0dZWW1xUU1xWXc1TzMwVFFGODNmVlNjYWc?oc=5",
+      "date": "Tue, 04 Aug 2026 10:19:00 GMT"
+    },
+    {
+      "title": "右折禁止の交差点で鹿児島市電と衝突…軽乗用車の3人、車を放置し逃走――ドラレコに一部始終――当て逃げ事件とみて捜査",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DX0h5OTdEb3NkZElTc01XUF9NNWcwWXhxeUlUcFByZWt1cm85TjM0RVdENlU1ZnpzWDhBMC1jM1Z1ZnUzSy12NFU4cU5Ed19mUkFKeWNROA?oc=5",
+      "date": "Tue, 04 Aug 2026 10:53:00 GMT"
+    },
+    {
+      "title": "令和8年度「夏の交通事故防止運動」の実施について",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fNUk0a0l2VnFwNV9TM0FsUENhNTEzVGhXbXp0czlEbDBaVVdoWHpxdzRTcmREYkFkNDNneTJLeTBwY2l3Nlh2SGFUcU41aGI1STFhdG90dF9GdE54VTdCNjAwRGROS19MaDZ5MHVjS2VvdEE0YV9IcVNGTQ?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【逃走映像公開】軽自動車が市電に衝突し3人が逃走 鹿児島市電ドラレコが捉えた事故の一部始終",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UamZBTXg2TC1zbUdORG9BbzJQZmVmS0F3amx6aWFIa0R0YTdmN1RkeVQ5Y3BXeDY3R1NjbU9KZDlKcnhScEhnelJiVTY4dw?oc=5",
+      "date": "Wed, 05 Aug 2026 09:35:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.114376",
+  "generated_at": "2026-08-06T00:02:54.775678",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.5,
+    "temp_max": 31.9,
+    "temp_min": 24.7,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】 - motor",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "スピード違反が多い都道府県ランキング、3位石川、2位富山、1位は？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBERkpGMWdaXzVRV05WcGVKXzlIRjFOSUtkZnJsMEFDMERFSnZEbUlXal9iRDJvX2lsYW9lTndOS3puUXE4ajVoZUlDVUzSAU9BVV95cUxNa1FuZmpnSDh4TmM4bkVyMFlfRlNHQ2FVQzUwVTFwZU9jc1lZelY4djdLdjBlcHRCWGpXX1RUTlM2QWlhMzd4TnhFMmRHT0Zr?oc=5",
+      "date": "Wed, 07 Apr 2021 07:00:00 GMT"
+    },
+    {
+      "title": "大阪府警が府内6か所で大規模な飲酒検問 阪神高速でバイクに乗っていた男性がはねられ死亡した事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10dDdMaV94b2Z5azR5WHBEcVVMbUJPSU9qMlNFUDlHRUNMYUhnSW1fdVVFNEdxY250X0kzZ3pHckNNa3VtY001VC1oUQ?oc=5",
+      "date": "Wed, 05 Aug 2026 07:10:23 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "芋焼酎とビール飲み代行見つからず運転…富山逆走死亡事故で初公判　6万人署名届かず過失運転致死罪　遺族「最大年数の量刑を」　富山地裁",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iNFJTYk1xaUhQM09EMHJfLTMwcFVWd0MxSnFpbnRxWWpmYWNUYXMxLWk2UmlGNmpiVFM0OE5RT01rWS1MZHVEc213T2NDd3A4NndoUGJKa3Zra205VFFEWHcwaVJBdW5icHgzUkZkNXdna19nLUZTTDl30gF_QVVfeXFMUGpUWEZzV2VyNFpQTU96cmhBVHFTY2VlUUFCTDBpd3pHNnZ2ZWVjNUh4YWlTU2I4X08wYVRsaU04QW1IRVNaVHlUWE53cFJfUzY5MDc1QmRYeHNYRFlEejBkclJwbFFlbzNsbG12NFRORmttVU1Sbi1SaWc1YktTcw?oc=5",
+      "date": "Wed, 05 Aug 2026 10:40:00 GMT"
+    },
+    {
+      "title": "赤信号を140キロで進入か、危険運転致死罪で起訴 親子死亡事故 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTmFuUkNZM2J3QzBTc3hORk5lMmNVZnB0N0Jjb1ROTTlfcW1iR0ozZUVRUkk0T1RMWTNyQndUM09seG1ORkp6NGk1b0xaODRWaUlYQ2xRRm9PN2NKeFI5M2FrazdDRms?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山市の国道41号で死亡事故 大型トラックにはねられた79歳女性が死亡 現場は交通量の多い片側2車線",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VQkFWTkt6dXlCV1FLNVBJX05oRnlubjlxb1I4VkVRVHFVRTY1bnNzN010Y3dTRFZYcE1OMGNVeWpNa0VYVVBOWC1kV2dLTVIwVWg0VjNIWnN3Zw?oc=5",
+      "date": "Sun, 22 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通事故死８人増３０人 昨年県内、件数は４３件増１９０１件｜社会｜富山のニュース｜富山新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11X0ZNeHV5OUVOVS1jM3laRXVWVElFeUVHTkJyT1EyN0ktakl2Wk5FaFJfUWFQWm1QRWNxc2hsb3VnTW5zMmZuRHhZVGVCU2J4bmZTVmJuWQ?oc=5",
+      "date": "Wed, 07 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

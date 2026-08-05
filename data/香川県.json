@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.264325",
+  "generated_at": "2026-08-06T00:05:43.937108",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 28.1,
+    "temp_max": 32.4,
+    "temp_min": 27.3,
+    "precip_prob_max": 31,
+    "precip_sum": 0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.9,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 32.2,
+        "weather": "快晴",
+        "precip_prob": 31
+      },
+      {
+        "time": "18:00",
+        "temp": 31.7,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 29.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "香川県知事選挙 選挙違反取締本部を設置 香川県警",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UaFNOeFlQM2M4eU82OUtXZmRxc1Q3dTMtLUNUX2FRZlBFR2YwM2x2U0hEdUtlZzJUVlQtSmFvYkFWYXFCZk9wT3Vfbw?oc=5",
+      "date": "Tue, 04 Aug 2026 07:03:44 GMT"
+    },
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月の香川県知事選 県警が3日に事前運動取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JNjk5blVONlV3UkFfOEVEUjV4OHRtWHlTTzFQU3FDYVlGN3M4X1pGSlZZV0c2NGxQNGRjOEY3VjJsTUZlZlZKSy1WSHJuTEE4?oc=5",
+      "date": "Fri, 31 Jul 2026 02:02:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】 - motor",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "8月の香川県知事選 県警が3日に事前運動取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13NThLT0M3MlpvX2N5eHpvalpHQ3FEdjJvYjY3R0k2dk5CcDVWV2JCbDhBc0wwaHdabVU5S1BjZ0xGdGkwWlNiWDlxOGtvYkRaMkkzRGVjeG1sTjJFeEU0SEUtYXQtaWZwNlppRXFPbWpTMXU5LTZ2cmFVRQ?oc=5",
+      "date": "Fri, 31 Jul 2026 02:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "酒に酔った状態で車運転し事故か 同乗男性がけが 危険運転致傷の疑いで24歳男を逮捕 法改正後飲酒での「危険運転」適用は香川県初",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yRTZaa3JEVnVqUG50SWo4R0JHOGgzQl9iUFpUUFVndG9OZUdxVG9YMWlreGYyam1naW9kdnpEaXVJV3dSY1NoTl9pZ2Znb19X?oc=5",
+      "date": "Sat, 01 Aug 2026 23:53:00 GMT"
+    },
+    {
+      "title": "国道交差点で車同士の衝突事故 73歳男性が死亡 女性2人けが 香川・丸亀市（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qVzdlNWdmY3dDRFpob0E0S2wxM3RZcmNWS01VYTMwZ2lFR211Um9UOXRkQ2J4VFpCR0doYmlkdHRIR2pNdnFtS1lHWHdKNG85UFFzZWNEUXlVYTFWNXRFQUxTeGo1cXNRT2VKekdJZ1lxTFZPSy1PXzVRWW9aMzA?oc=5",
+      "date": "Sun, 26 Jul 2026 14:20:16 GMT"
+    },
+    {
+      "title": "丸亀警察署が特別取締まり 交通死亡事故が相次ぎ６人死亡 高齢者を中心に安全確認の徹底などを呼びかける【香川】",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRSnY4U21HTFc4b1I5eGhMV2VrV3BtQjRJZTdlWVN2Q2tCUlFIS29uVEtSN0RjcldVeVZUVjhtUHlQeVQwakZCbTJWYlMtZlNlY0lxM3JCd0tLb2Q1c05F?oc=5",
+      "date": "Sun, 26 Jul 2026 10:30:00 GMT"
+    },
+    {
+      "title": "香川 観音寺 海水浴に訪れたベトナム国籍の20代男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83VEJfZXk4RVQwT3NiOHBKVVNGaTN4c3hVQ05qYl9zRVE0LXA0bFplQVRPOEcwQTVZalhkM1lZM0NWLVFsWDFVd3FzR3pqU1pZaThPU1hqWGo0THBXTHRF?oc=5",
+      "date": "Sat, 01 Aug 2026 17:58:22 GMT"
+    },
+    {
+      "title": "「男性1人がおぼれている」海水浴場でベトナム人技能実習生（20）が死亡 友人2人と遊泳中に行方不明に【香川】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSHNfZ21jeG5SNGZJNVFKd1l1WHkxQXBTQlgycGFpODJOQ0lfeldlMXQyVC1kd1Y4R2pxZWw2Ri14YUdhSUhuUjBZdFB1NkhPRS1MX29jXzBOT19uanJBcXRzakQySG1ZYlhCbHhtb2Z4ak0zRnZoam1qQkJfS00?oc=5",
+      "date": "Sat, 01 Aug 2026 14:43:12 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "香川県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.053401",
+  "generated_at": "2026-08-06T00:01:30.925409",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 22.8,
+    "temp_max": 32.6,
+    "temp_min": 21.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 8.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 32.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93bWZHZ3o2SU1tdFU0TkN3OF80czVtODFuVVBWY3haaFVOdkZTTmtyVUVCQWNwaW5faGdycHcyZV9QamZSeXZxU2VRVzlFbTNqWlJ0S0NMVkItd0hLdVlJczFFc1FoRUpweG0tZ0EtNNIBdEFVX3lxTFBvdEMxR0NpNkR6Y05zV1lFSGFBYnJneFdUbC16Szl3OHlORHk2RFZWVFJKajRyMFBsTHIwRGJjQ0FualhiYVQtOUY2YWlpQlVhU3RrckFGQWNuWFlfMWQtLUljRkRVSTVHTmVVWFl6aHMtcUQ1?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "秋田・速度取締りで起訴無効の判決",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSlIxQ2lEVWs0aTNDOWg5MnBCU1Bua2JmNkRCeTN0SFJ3NU5TT3dfWlhid2czQkktOVBlTmhEWnhlZUJXbDVldk91RGZ2dk1weU5jZUpTWVM0ang0T1hQdm13aUYxLWVGRXBsME5BT3l3UkxyZWhyT1hVWEhOdjVKekxraVNKTE9MTHdvaE5ya09IR1EyNVYyUlBXaXFsX1RRZmJXLVNZNUg2ZHVtSjJySklrSUZleEhQNDZORV9IcmdrcVlsLWZST1J1a3Q2SDZNV2NkSVkwU0tYODNRSVN4MzBOcFZfQ2tCT05RWk9hY3ZyaUJ4U1hJb1VMQmltVFFWX1hV?oc=5",
+      "date": "Thu, 16 Mar 2006 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車のドアと柱の間に挟まれた状態で発見 会社役員の男性(80)が死亡 秋田・由利本荘市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFdjUVQ5empSRF9YT3dhZVA3TU9oaGNNbnByN0FsRDdOQlRQZURmWWVPTVZWMk5vcXRDQkVObHZKY2Y0OVI4bFVURko5SHhYY3k4SmkyVHVfVmVlN2Fqc2VGd0hfSnV6SUJGc3JFT2c3amw3am5TRlI2czN0aW94MmdpYjBSa3c?oc=5",
+      "date": "Mon, 03 Aug 2026 02:40:00 GMT"
+    },
+    {
+      "title": "１２日に車同士の衝突事故、８４歳女性死亡 秋田市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40bWZ4Ni01dFpsQTMxeXFrcHVmQ1EwNFJEQ0xIaEdfYnFWSHRsQkxJYmhobHhwbnlkZlZ1c3JJMXZHWTZyaTI4aGRVMA?oc=5",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通事故のない秋田県へ！】協定締結のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucWVHaGFDeENub1JtUTl1VjNDUU9WWnpvNkdHSlI0RDBQVnJJZVl5bjRFM08ycy1aaGpsTDAzeE9mcHdqOUdmSHR4VW5YYllwNUloVEkzeVFJTEw4U2k5Ng?oc=5",
+      "date": "Mon, 25 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "「酒蔵の再生人」が酒蔵で酸欠か 日本酒ブームの陰で相次ぐ死亡事故 [秋田県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EX2J1YXlVTXg3SmJYZm1xWTN5RDVSa1hodWU2NDhDMGNOdk81Vkh5aXJOZm0zeThUb1I3aDUxZEpwX0xJM1pfalNMdjJUbWpFSTVBc21MeE55bDNWQ1pTVEhVN0pFSjQ?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋田市のブレード落下事故で最終報告書「構造上の問題と損傷の未確認が原因と推定」",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1HWHlBak5EZHJ0TW1qSUVEaTVIdzB4VFA0QnU2U0xMVU1xWkxzSnQ1MUJPRmtaMFgzTTZWN0xfS2tlajgt?oc=5",
+      "date": "Wed, 21 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",

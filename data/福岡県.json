@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.287055",
+  "generated_at": "2026-08-06T00:05:59.021247",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 27.6,
+    "temp_max": 34.1,
+    "temp_min": 25.9,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 1.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 34.1,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 32.6,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 30.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "移動オービスは赤く光る？ 白く光る？ 福岡県警も教えてくれた、これがみんなが気になる移動オービスの光り方！【交通取締情報】 - motor",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNei1Pb09kQWdRTkJLSHM4a2ctd0VaR2VCOTNleFFPSWY2RXhoTGJTMEZFTExjTFFhWHlIbUhFa2ExYmdrQTRCTGwwOUpqdw?oc=5",
+      "date": "Wed, 10 Jun 2026 09:37:52 GMT"
+    },
+    {
+      "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZlprejU2MXNnVnBaRE1tVmFZUEVNcExteEFwSHhrVXVKd3FJaXlYWmJmUHRpaEVCeHBnaUNZaDNBemtMNTMyZHlLTG02a2xZODByaHpOWHBjcVN1MklzUGNITDdnY0t2QndTY2FhRG1Wdw?oc=5",
+      "date": "Sun, 26 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NaS1aWHdnUHFSdTFxczEtNUwxTVo2dldlWG85RmgwNTJHY3BHdG9kNkptRndvTTVmaDNLTDB6LXQ5ek1DdGphX05CeUpEZHFTQUFrVE5KQ1B4YzJUNEIzY0RtVlpxZXVobjZ2YlltRWtWd1hTdmFZTFQwUThScGs?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "死亡したのは22歳女性と判明 福岡市のひき逃げ事件、容疑者は否認 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83Nlo4OWVSSHBNd3RIMmtvR3JuRUYxYmYyT04zRUlnRHVYSlQ4eGNlSmo4SzRIdFYyeUVrOWh1dTAwWlVuZzdOSTdreVVJU3RPU1JnYmpqaEZWY3VYZXE3ckctMWNGZTg?oc=5",
+      "date": "Sun, 26 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "橋の上で倒れていた女性が死亡 頭部の損傷激しく ひき逃げの疑いも視野に経緯を捜査 福岡市中央区",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oS2s2MzVPam5TLVl5eGd5bDR4eDFRY3M1RzBjd1JybEV5M2hwTFowT29ERW04MEQ4dTY3QkxoWXlxQUlIT3ZFSEwtNi1tZVBkaWliU2ptVzhRNzlUTjFncTZfMA?oc=5",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "九州道で事故 古賀IC―福岡IC間で8キロ渋滞（8月3日午前10時20分現在）",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IdG5HbW82ajlkUFhXUnZ3eFJnZWwxZHU0Z2gxTFR6OUdyR29LVGxrVjFRdDhwX0FaLXgxMUd0a214ZkQ1cS0yRWRBb3p6S1UwY0dEWjZn?oc=5",
+      "date": "Mon, 03 Aug 2026 01:32:00 GMT"
+    },
+    {
+      "title": "自衛隊車両など6台がからむ事故 九州自動車道の下り線 10キロ超える渋滞に 当時の状況を詳しく調べる 福岡・古賀市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbE1zSHB1Rkl5d0VfS2ptOXFMNHRCT1FSV1dFczJjY191OFZLYVVUdnlFQTRQVmZFc2RHeVQ1Rnh0U01hWkZHM2tOQWFyclhSQjU4N250VjJ0X0pDT3dNcmI3TmRObWpLWllqRUVjUEhXVVBDUzk3UG9ZOEtrQzQ?oc=5",
+      "date": "Mon, 03 Aug 2026 02:12:01 GMT"
+    },
+    {
+      "title": "住宅街でバイクと自転車が衝突する事故 自転車を運転していた男性が意識不明の重体 福岡市南区",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15TjVhWWc0MW1DRkRrZ210aF9NSWg5V1Rzb2J4Y1k3Q25OV1dyalNXWENxdVNiTGxkLS1VYnRnQnA1SDJWdjNyUXB1cDlvMnZid0UxbUVmMA?oc=5",
+      "date": "Fri, 31 Jul 2026 17:53:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

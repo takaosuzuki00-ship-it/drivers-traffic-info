@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-05T21:00:13.068832",
+  "generated_at": "2026-08-06T00:02:11.398060",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.7,
+    "temp_max": 30.0,
+    "temp_min": 23.2,
+    "precip_prob_max": 55,
+    "precip_sum": 0.4,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 23.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 55
+      },
+      {
+        "time": "15:00",
+        "temp": 29.7,
+        "weather": "快晴",
+        "precip_prob": 27
+      },
+      {
+        "time": "18:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HaC1naGRSbzFDa2czWF9QNldjQVdhUDRKYkdFaXpmUkxYWFhkMzNLNHlQVndGb2tqUE9aS3lwOWYwNEdzdkVGQW5FTXhVUzdUZ1c1UlRwOUVoOHpGRzNHVWN0SXd6TF9YQlQzOVdaeTRkOEU?oc=5",
+      "date": "Tue, 04 Aug 2026 21:19:49 GMT"
+    },
+    {
+      "title": "８月５日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RU0NOVFhBSVdHZ29wcGJTcndjVUdVcWlXVEhlcHJoU2loT0J5TklkeE50OXlxd2pCcUtvQ2tiT1hrdXRyaTJ3S0Q3YVZrSlFsSGp1MGp4NUpWdDV0RklmcU8zYlFvRC1DdzhDS28zTFBCQdIBd0FVX3lxTE00R29kTlRtU0xFYTkyVTFibWF5YXBZQmF0M1VxRU52X3pVNHJ0WkJtS3BuaFlnOVlxQlNtZTFhRmwzamhOcFltTDdoaWgxZlhTUzVObklCM2JZREVUaWZhTklyRkwyZ2FDbDNOQ25lQVlMQXJ3eFpB?oc=5",
+      "date": "Tue, 04 Aug 2026 20:09:00 GMT"
+    },
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける - lucky",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QS0tLWnR4ZFUxdUdFY1FONXl4NzJTbnc0bkJsMEFLU2UxangtVzZlU0tvdXlsbFVOcVhMbzh1MzFiVmViRWVnbjNrVkZSbmg5UXdRczNiT0JIRXFLQ2RSeV9Fcjc2eGxoQlFBU2pBZ2RtTjg?oc=5",
+      "date": "Sun, 14 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラックと軽ワゴン車衝突で3人死傷 茨城・土浦市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pYl93OVRRN09RR3Z2ZmUtdlhfbHRyalA0U0lNbnpGYVJvV1lRa3NwY1RFelhweEpKZ3FZcFdjUnJISUJuSWdaRkVBSVlIVGdTTjlQT3phckI1MmJYT0FmbXZFdEdUNWJTMkY4SktCdFlvZw?oc=5",
+      "date": "Thu, 30 Jul 2026 09:57:49 GMT"
+    },
+    {
+      "title": "注意！交通死亡事故多発しています",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVJWZHVKdFo3WlJSV1o5Y0RaN2VkVkczM2pOM3BseTJPdkVUdjNfbk9mdmhvbjJCM1BQekY5a2RIdXJlV2tURWVtSnhMVXpOdDFUNEplUk16TUlVTjhvQWpxcThPRkVERWItdEluV2laak54bmpQUWJ6NkZMVG0zRjVoQVVLbDMwOU1NVXR2bTJwQTdINElubW9xbjNWODBSemRj?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "鉄柵に衝突 軽ワゴン車の男性死亡 茨城・鉾田（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YM0JmdF9wMlhCM2JrRDQwSVhMOWEwVS11a1diS3N4ejBWeXo5elJVY09CNmRsYThBZmNtV0dPeU13cjRTc2w5NktQVEhxUnhVTzNScmR4RWhzOVI1ZGwwZGNwZW9UTzRlbkRnWGFmU3BmNmtRYTJ0MV9XYWpqc2c?oc=5",
+      "date": "Sun, 02 Aug 2026 13:00:00 GMT"
+    },
+    {
+      "title": "深夜の国道でトラックと車が衝突 男性（22）死亡 2人重傷 茨城・那珂市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51aWVBajNvaGVrRkl4SUo3SEJFMjBhZzRodG42M1JaSUMzWHRxWXVOVjhoUjYtRGc5QVdhcjlIU3J1aDlVVnBmeG1laU9DVTJxM2xxSGEwdU5yTWxGd0VmaW9rUEpscHlsQ000M0Y3T01aUQ?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",
