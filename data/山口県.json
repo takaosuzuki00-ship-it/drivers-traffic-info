@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-06T09:02:44.208827",
+  "generated_at": "2026-08-06T12:03:52.814610",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 30.6,
-    "temp_max": 35.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 34.0,
+    "temp_max": 35.8,
     "temp_min": 25.0,
-    "precip_prob_max": 31,
+    "precip_prob_max": 43,
     "precip_sum": 0,
-    "wind_speed": 5.1,
+    "wind_speed": 6.8,
     "hourly": [
       {
         "time": "00:00",
@@ -27,38 +27,38 @@
       },
       {
         "time": "06:00",
-        "temp": 25.2,
+        "temp": 25.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.6,
+        "temp": 30.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 33.9,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 34.0,
+        "weather": "快晴",
+        "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 35.9,
+        "temp": 35.7,
         "weather": "快晴",
-        "precip_prob": 22
+        "precip_prob": 43
       },
       {
         "time": "18:00",
-        "temp": 33.7,
+        "temp": 33.9,
         "weather": "快晴",
         "precip_prob": 31
       },
       {
         "time": "21:00",
-        "temp": 29.9,
-        "weather": "晴れ",
+        "temp": 30.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
