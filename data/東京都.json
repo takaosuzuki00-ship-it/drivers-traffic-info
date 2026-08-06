@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-06T06:02:35.255112",
+  "generated_at": "2026-08-06T09:01:12.155221",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 22.6,
-    "temp_max": 31.5,
+    "temp_now": 25.6,
+    "temp_max": 31.4,
     "temp_min": 22.5,
-    "precip_prob_max": 81,
-    "precip_sum": 2.0,
-    "wind_speed": 3.3,
+    "precip_prob_max": 100,
+    "precip_sum": 1.6,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
         "temp": 23.7,
         "weather": "弱い霧雨",
-        "precip_prob": 10
+        "precip_prob": 27
       },
       {
         "time": "03:00",
-        "temp": 22.8,
+        "temp": 22.7,
         "weather": "弱い霧雨",
-        "precip_prob": 71
+        "precip_prob": 100
       },
       {
         "time": "06:00",
         "temp": 22.6,
-        "weather": "曇り",
-        "precip_prob": 76
+        "weather": "晴れ時々曇",
+        "precip_prob": 86
       },
       {
         "time": "09:00",
-        "temp": 25.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 14
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 22
       },
       {
         "time": "12:00",
-        "temp": 28.7,
+        "temp": 29.1,
         "weather": "晴れ",
-        "precip_prob": 20
+        "precip_prob": 39
       },
       {
         "time": "15:00",
-        "temp": 31.5,
+        "temp": 31.4,
         "weather": "晴れ",
-        "precip_prob": 69
+        "precip_prob": 84
       },
       {
         "time": "18:00",
         "temp": 29.5,
         "weather": "晴れ",
-        "precip_prob": 57
+        "precip_prob": 43
       },
       {
         "time": "21:00",
-        "temp": 27.2,
+        "temp": 27.5,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sSDhnbG1CRWUyYzUzM1htUUJpQ3M3enFqWWhQdFRMc2wzWVdsSXdnZmpubGFIa2czdU5zZC1jZ1B3MXNMM3B4WXBOdjRTZEdldmdWQWdobGw2VnhMdFJjUkFjajBOcDlvS2VvLWtzd1ZxUdIBd0FVX3lxTE1DbFY3U1FSYlYweEIwTUlNS2w3X0MxTkIwLWJLUWN3NnBfSnNSUDRLUGRqa2NhQ3dCQm40dHA5anJ1cWZzSldOcW02TzZ3RjNfaEdwY1FtRm5vS0pJQjU0VXRHb2hER18wUGRpWWhNMWdXOElRSXVZ?oc=5",
+      "date": "Mon, 03 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "７月３１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4U0E5LVhYZGttaEVkZmhXMnJjaEpYOW9Ha01EUWpQSXpJVVdwY1BlcUdRX2VNS01rSkNQMmdHMkZDb0E4NmJnd0RLQXM5amNBQjlxb2oyZHlCZWNMQ1dWUnRUU1RFR1ZCYXl6UC1YZUlQd9IBd0FVX3lxTE12bnZQcXNCVVFKZFlBNGlrbFZvd1VFY096WmdENjh6bl9XUS12UV9ra2VVa21xMVdXbjE1T2ExYTAxSEVBZWVYRW9YUGZWc2ZkMUpoM1NiWEl6REcwMi1hYXc5blhjNm5aUjdrdmtkd0djV3hWYmhF?oc=5",
@@ -73,11 +78,6 @@
       "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
       "date": "Thu, 11 Jun 2026 09:31:18 GMT"
-    },
-    {
-      "title": "7月28日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wT3VLb1Z5dXZuM3VPSDJiRTJ0LU9DdnpHbm5hMkwyc04wbEpvQm9rcXE1T1JlZm0tSTI4cEpVM0l4NW1yeHIwelYwQktwS2s4bTdNV2tGYW1LaXUwY3BGVDRaVnBJcXlWc1J4TVlxd9IBdEFVX3lxTE5lWGFMX2tiRjFrODR2VXpmRVBUVzVUbDRxOHFPdXFhWXBxNzQ1VVRGSTFscnZhM3luT3FOZzdFSWI4a0VRZnU3d3FlUUt1aEhrTXVWb3ZOSVlqazA1Y0JQOGppVTBLNHFhVS04LWxDX0IxYloy?oc=5",
-      "date": "Mon, 27 Jul 2026 20:00:00 GMT"
     },
     {
       "title": "関東地域連絡協議会／「首都圏大規模同時合同取締」全20カ所で違反車両27台に行政指導",
@@ -107,7 +107,7 @@
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "交差点で乗用車に巻き込まれ男子小学生（8）が死亡 西東京市 - news.tv",
+      "title": "交差点で乗用車に巻き込まれ男子小学生（8）が死亡 西東京市",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQVdBR19CUmJqV0NkQmZSTlhPS1hrWkV0c2J4T3YxS3QxYjJJMFA0OWNsYlY4cWpyZ3RRaVpvZlRlRFdyNmgxZjVNME50SWdFbTExMUtmRHZsY2dlUGVRN2RrSzJ0SXNCM2U5NzhpSjBfZw?oc=5",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },

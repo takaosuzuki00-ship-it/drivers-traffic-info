@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-06T06:04:26.564863",
+  "generated_at": "2026-08-06T09:02:36.085131",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 25.4,
-    "temp_max": 33.8,
+    "temp_now": 29.3,
+    "temp_max": 33.7,
     "temp_min": 25.4,
-    "precip_prob_max": 8,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 4.7,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
@@ -21,19 +21,19 @@
       },
       {
         "time": "03:00",
-        "temp": 26.6,
-        "weather": "快晴",
-        "precip_prob": 2
-      },
-      {
-        "time": "06:00",
-        "temp": 25.4,
+        "temp": 26.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "09:00",
-        "temp": 29.7,
+        "temp": 29.3,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -41,23 +41,23 @@
         "time": "12:00",
         "temp": 32.2,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 33.8,
+        "temp": 33.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 32.5,
+        "temp": 32.3,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 29.9,
+        "temp": 29.8,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -65,8 +65,18 @@
   },
   "enforcement_news": [
     {
+      "title": "８月６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcUd6ajZMRXN1aERZUVd4X29XeW9jaFNrOFZFLU9KbzNJRUdwTDBLWUdpeWNWREZpd293aDl3bGNFRjJxZW1YVW5tdFZnbnE2UjFSeUJSR0RRV1kwc3RtWFYwZU9INGJQaXhoSk9yVXpHZ9IBd0FVX3lxTFB5Y052cjU5T2JBWEJBMENya3J5REZMYk9qRVplN3BYVjUtdzBzdzBZUFloMTlxNzYzNk5sYmxKZVlibnRZYVZIbG4wQ21VSnlUMk9vbGl1TVVLdm9mR1VtM2xsUTBwekNEZEhVRE94WVZWTEQ3OFJZ?oc=5",
+      "date": "Wed, 05 Aug 2026 20:06:41 GMT"
+    },
+    {
       "title": "8月2日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42SVA4QmdJbllMb3hDOUpSdTRtMkEyOUhmU2YzNmJmUnREbjdtbVZYOWhEejEwejJHMXlIc0NmZk8xR1k0eTFncVROR3NjYlE1WUUzM2NCMA?oc=5",
+      "date": "Sat, 01 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtUWlGZU5USU1VNzFrOEEyMEEtVVhOODhwaTdpRFY5VFdBTWJGSVI3djFlbHp1YTFNbGZYRUJHN2NPS2dLd1c4QkxUS3NtQ3pOVk1iQzN5VS1IODBObDdTM0lWd1Q4SW5R?oc=5",
       "date": "Sat, 01 Aug 2026 20:00:00 GMT"
     },
     {
@@ -75,19 +85,9 @@
       "date": "Mon, 03 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "８月２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtUWlGZU5USU1VNzFrOEEyMEEtVVhOODhwaTdpRFY5VFdBTWJGSVI3djFlbHp1YTFNbGZYRUJHN2NPS2dLd1c4QkxUS3NtQ3pOVk1iQzN5VS1IODBObDdTM0lWd1Q4SW5R?oc=5",
-      "date": "Sat, 01 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "８月５日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RU0NOVFhBSVdHZ29wcGJTcndjVUdVcWlXVEhlcHJoU2loT0J5TklkeE50OXlxd2pCcUtvQ2tiT1hrdXRyaTJ3S0Q3YVZrSlFsSGp1MGp4NUpWdDV0RklmcU8zYlFvRC1DdzhDS28zTFBCQdIBd0FVX3lxTE00R29kTlRtU0xFYTkyVTFibWF5YXBZQmF0M1VxRU52X3pVNHJ0WkJtS3BuaFlnOVlxQlNtZTFhRmwzamhOcFltTDdoaWgxZlhTUzVObklCM2JZREVUaWZhTklyRkwyZ2FDbDNOQ25lQVlMQXJ3eFpB?oc=5",
-      "date": "Tue, 04 Aug 2026 20:09:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbkNvMDJ5c0RxcTFpSUlmT1ZwTjAzR2dvbmp0RFg4YUVlTnp3R0lra0d4X3NZQlIwNUg2Qmwtdk52NExieTdRczFCcmVoUzk2SFJEVVR5MmdNRWItc0kyUGhGWmtIRkE1aHgzdU5uOVdONGd0eWN4YXR6TWpmb3c?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
