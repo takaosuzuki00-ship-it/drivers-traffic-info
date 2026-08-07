@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-07T12:02:56.963907",
+  "generated_at": "2026-08-07T15:02:44.034568",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 34.0,
-    "temp_max": 35.2,
+    "temp_now": 34.4,
+    "temp_max": 34.4,
     "temp_min": 26.2,
-    "precip_prob_max": 47,
+    "precip_prob_max": 53,
     "precip_sum": 0,
-    "wind_speed": 9.7,
+    "wind_speed": 7.8,
     "hourly": [
       {
         "time": "00:00",
@@ -33,33 +33,33 @@
       },
       {
         "time": "09:00",
-        "temp": 30.5,
+        "temp": 30.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.0,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 33.0,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 35.1,
-        "weather": "快晴",
-        "precip_prob": 35
+        "temp": 34.4,
+        "weather": "晴れ",
+        "precip_prob": 39
       },
       {
         "time": "18:00",
         "temp": 32.3,
         "weather": "快晴",
-        "precip_prob": 47
+        "precip_prob": 53
       },
       {
         "time": "21:00",
         "temp": 28.9,
-        "weather": "快晴",
-        "precip_prob": 12
+        "weather": "晴れ",
+        "precip_prob": 10
       }
     ]
   },
