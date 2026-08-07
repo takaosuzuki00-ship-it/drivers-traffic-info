@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-07T09:02:28.093803",
+  "generated_at": "2026-08-07T12:01:56.640461",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 31.2,
+    "temp_max": 31.6,
+    "temp_min": 25.5,
+    "precip_prob_max": 82,
+    "precip_sum": 0,
+    "wind_speed": 9.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.2,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 30.2,
+        "weather": "快晴",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 65
+      },
+      {
+        "time": "21:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 27
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "８月４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
