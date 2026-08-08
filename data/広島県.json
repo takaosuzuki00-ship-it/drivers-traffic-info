@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-08-08T21:02:51.418805",
+  "generated_at": "2026-08-09T00:02:30.877384",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 29.2,
-    "temp_max": 33.9,
-    "temp_min": 25.8,
-    "precip_prob_max": 43,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.9,
+    "temp_max": 31.0,
+    "temp_min": 25.1,
+    "precip_prob_max": 34,
     "precip_sum": 0,
-    "wind_speed": 1.4,
+    "wind_speed": 1.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 28.2,
+        "temp": 26.9,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 26.7,
-        "weather": "晴れ",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.8,
-        "weather": "快晴",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.2,
+        "temp": 27.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 30.0,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 33.1,
-        "weather": "晴れ",
-        "precip_prob": 24
+        "temp": 31.0,
+        "weather": "曇り",
+        "precip_prob": 29
       },
       {
         "time": "18:00",
-        "temp": 31.8,
-        "weather": "晴れ",
-        "precip_prob": 43
+        "temp": 30.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
       },
       {
         "time": "21:00",
-        "temp": 29.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "８月８日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81REpxZGlhOVZQQlQ1TzlXOUQtVkxfNGIxdHJrZmxWRDdQVUp5andnc3pxN3F1b2QtbW5DaXJRcU9XWXZDMXBPR2x3Y2otY1NkVHZuMURpZUNZR1E?oc=5",
-      "date": "Fri, 07 Aug 2026 20:00:00 GMT"
-    },
     {
       "title": "８月８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aams0MWFyNkJqOUc3UkU0WFdSUU82VVRyNERzeUlnekxwM0wzV3NiMlN0ay1iNHF2YzJwSGxjSkZZMDV1M3RvVXloQ0ZiVkNoTGkwamRDbWQ3WGkxSUFham5BYngwSG5SeFRwcG5yWi1md9IBd0FVX3lxTE05QXRvcFhPODBQeWJTbHo1X2pwdmpMTURNUHRMdzYzb2hrVXRFQ3laUmp2ZGJjQWgyek5LRFBYNHNMa3l4aVBqdjROOEFZN3dQUkxRZjYtYUFwUkZJSG9RUlZJdXZvVTZlaXNZOWEteGtPbGxHT2E4?oc=5",
@@ -88,6 +83,11 @@
       "title": "広島県警が選挙違反取締本部を設置 3710人態勢",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMU5sb0xqcXMweUhUamwtTEJjbkdfSVlUSjFaWVVOdUZqTlRKeGRCMmpfRzZxVFFpWHJmbGgwS3k4cjlqMVY1NzB4aW1mTy00dThQSUhwVHJVZw?oc=5",
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "８月５日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RU0NOVFhBSVdHZ29wcGJTcndjVUdVcWlXVEhlcHJoU2loT0J5TklkeE50OXlxd2pCcUtvQ2tiT1hrdXRyaTJ3S0Q3YVZrSlFsSGp1MGp4NUpWdDV0RklmcU8zYlFvRC1DdzhDS28zTFBCQdIBd0FVX3lxTE00R29kTlRtU0xFYTkyVTFibWF5YXBZQmF0M1VxRU52X3pVNHJ0WkJtS3BuaFlnOVlxQlNtZTFhRmwzamhOcFltTDdoaWgxZlhTUzVObklCM2JZREVUaWZhTklyRkwyZ2FDbDNOQ25lQVlMQXJ3eFpB?oc=5",
+      "date": "Tue, 04 Aug 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Tue, 04 Aug 2026 23:35:00 GMT"
     },
     {
-      "title": "午前2時のバイパスで一人歩き 9歳児事故 意識不明の重体 広島・福山市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zSU9ocXNpV0JJdVJaVk9TbEFGRjkxSGJpaVllcGlpVlI1cnQ5OGZKTUNybzdsV1FhNnNxcC0zbWRaa09ZRS1yYWh6ckZWVkw4TV9ENnBiR1NyWGU3ZTgtOGI3TXdpLVNVZXZnYkZRa1ZpUQ?oc=5",
-      "date": "Sun, 02 Aug 2026 00:22:24 GMT"
-    },
-    {
       "title": "交通事故データ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
       "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "午前2時のバイパスで一人歩き 9歳児事故 意識不明の重体 広島・福山市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zSU9ocXNpV0JJdVJaVk9TbEFGRjkxSGJpaVllcGlpVlI1cnQ5OGZKTUNybzdsV1FhNnNxcC0zbWRaa09ZRS1yYWh6ckZWVkw4TV9ENnBiR1NyWGU3ZTgtOGI3TXdpLVNVZXZnYkZRa1ZpUQ?oc=5",
+      "date": "Sun, 02 Aug 2026 00:22:24 GMT"
     }
   ],
   "official_links": [
