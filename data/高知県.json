@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-08T06:04:47.339571",
+  "generated_at": "2026-08-08T09:03:17.420366",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 25.6,
-    "temp_max": 31.4,
-    "temp_min": 25.6,
-    "precip_prob_max": 92,
-    "precip_sum": 0.3,
-    "wind_speed": 4.3,
+    "temp_now": 29.1,
+    "temp_max": 30.7,
+    "temp_min": 25.1,
+    "precip_prob_max": 86,
+    "precip_sum": 0.2,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
         "temp": 26.0,
         "weather": "弱い霧雨",
-        "precip_prob": 92
+        "precip_prob": 86
       },
       {
         "time": "03:00",
-        "temp": 25.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 41
-      },
-      {
-        "time": "06:00",
-        "temp": 25.6,
+        "temp": 25.1,
         "weather": "晴れ",
         "precip_prob": 37
       },
       {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
         "time": "09:00",
-        "temp": 29.6,
+        "temp": 29.1,
         "weather": "晴れ",
         "precip_prob": 43
       },
       {
         "time": "12:00",
-        "temp": 29.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 30.0,
+        "weather": "曇り",
+        "precip_prob": 29
       },
       {
         "time": "15:00",
-        "temp": 31.0,
+        "temp": 30.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
-        "time": "18:00",
-        "temp": 29.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
         "time": "21:00",
-        "temp": 27.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "8月8日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53UnNVODIyWHBUQTBFcDdPc29Nbmd0bV9SRGgtaVNUM1dEcEN0M28xN0x2eVEzeDJzOGVyR0pXamN5S0t3R1dXZzlJRF9zVnEzX2lxRXYtMF83a29WbjBHU0ljdDF6MUF2QjM3aWNPUUxxajAwbU1ua0hIZ2g4bGs?oc=5",
+      "date": "Fri, 07 Aug 2026 20:14:23 GMT"
+    },
     {
       "title": "８月６日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54T1BaWmVkaUdKb3hoQUZIOUFGNDJsNnR5SUR2X1NiOTQ1VHJRSGZKTzhxanlJNlJUVy15QThfRkRpSTY0bEpLRmRjb242UTMyWC1YYmNxRnZJT3htaGFSWVFZc2pENnVr?oc=5",
@@ -83,11 +88,6 @@
       "title": "8月7日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEk1Wl81bGFvSzFnMW9ZR21MYWVOOW1tcHpLVVJUQWhPODl3TnJ4c0ZoVFNLa2Q4NE42a2JTdEI5XzZCckdHZEY1QkVrODlzZjRGbGpibE1ibVlZV2xfSUxKem9qNnc1YWpKdnI2UktkdVBjWHVPaUM1akZUZDA3YlVBb2dGMm8yQmJsYkJn?oc=5",
       "date": "Thu, 06 Aug 2026 21:14:18 GMT"
-    },
-    {
-      "title": "８月３日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOWDFqMHJfdFQyM0JnQnJoMTk3R29WY0hLX3RYNHFJdGhESUIxZXRxd045VENtNk5Gb3J0Y0w1ckFjczRNNG00X2NlX3A5TC1QSC1XdHJxcVlpclk?oc=5",
-      "date": "Sun, 02 Aug 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,9 +107,9 @@
       "date": "Thu, 16 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "10万人あたりの死者は全国ワーストに 死亡・重体事故相次ぎ高知県警が9日緊急交通対策実施 （テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QLUJQTWVNd3lhWmpCNnFnZy0zcDQ5NUVLeFNVNWtzUXZkSGlvV1ZqejA5MVNZUnFJd191Wm10bmNtYmRaaktvZzFnZ3FvZ0RVc3RHellZejlzV0dzTFpTdGY3aFE0ek1EMlU0bldYY0dpbURhYmo2akk3NzZ2cWM?oc=5",
-      "date": "Wed, 08 Jul 2026 07:00:00 GMT"
+      "title": "死亡事故多発場所で現場診断【高知】（2026年7月14日掲載）｜RKC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zUHRzQ0NHcXpPS1hobEotX2c5bExJbVZOd0c1Yndhblp3cUI3QXhzOWdHNlpvUlI0ZmhCTDdwQ0N6ZFF5emdsRDhxMXJNMTE2VU1YR1RMX1RDVFd6cXJfSnBjTFhZUUFScElaOUg1VllEU1Mzb1g4SkV5VHVEQjQ?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "高知市の鏡川で男子中学生がおぼれる 川底から救助されるも死亡確認 [高知県]",

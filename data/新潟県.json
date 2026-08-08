@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-08T06:02:22.376111",
+  "generated_at": "2026-08-08T09:01:43.017501",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 25.7,
-    "temp_max": 30.1,
-    "temp_min": 25.5,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 28.6,
+    "temp_max": 30.5,
+    "temp_min": 25.8,
     "precip_prob_max": 100,
     "precip_sum": 0,
-    "wind_speed": 6.5,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
         "temp": 26.8,
         "weather": "晴れ",
-        "precip_prob": 35
+        "precip_prob": 51
       },
       {
         "time": "03:00",
         "temp": 26.0,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 18
       },
       {
         "time": "06:00",
-        "temp": 25.7,
+        "temp": 25.8,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 25
       },
       {
         "time": "09:00",
-        "temp": 28.9,
-        "weather": "快晴",
-        "precip_prob": 22
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "12:00",
-        "temp": 29.8,
-        "weather": "晴れ",
-        "precip_prob": 78
+        "temp": 30.0,
+        "weather": "快晴",
+        "precip_prob": 69
       },
       {
         "time": "15:00",
-        "temp": 29.7,
+        "temp": 29.8,
         "weather": "快晴",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 27.5,
-        "weather": "晴れ",
-        "precip_prob": 94
+        "temp": 28.0,
+        "weather": "快晴",
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 27.5,
+        "temp": 27.7,
         "weather": "晴れ",
-        "precip_prob": 45
+        "precip_prob": 55
       }
     ]
   },

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-08T06:05:04.788468",
+  "generated_at": "2026-08-08T09:03:22.023109",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 30.5,
+    "temp_max": 34.4,
+    "temp_min": 26.7,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 12.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 34.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 31.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 29.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
@@ -43,9 +102,9 @@
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "トラックと自転車が衝突する事故 自転車運転の91歳男性が死亡 横断歩道がない場所を渡っていたか 福岡・北九州市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41eXNBWS1XSUVYV0Qxd1drSVNKcW90ZTVGRVhwdmxlMzFIS1pza1BWWkFHb1dlNEZGQ0FfOVhmS3Y5Z2paZ0VFRGVVU2p5bWRCZDhaalhhRTZlVHRGbjQ5b3V6ZDByOW5PNklUXzJZbHlmWUpnSWY4RXU3aGFScUk?oc=5",
-      "date": "Mon, 03 Aug 2026 03:37:02 GMT"
+      "title": "「飲酒運転は必ず摘発される」…福岡の３児死亡飲酒運転事故から２０年、九州・沖縄の８県警が初の一斉取り締まりへ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XU0xjMXpxa094WmRCN1FYSlRKdXMyOGM1X1d2c0kybkptX2RESFhxTXFBaDlQaXdzeGxlOXlNLXl3VV9vVGNUMFdPQzZyWVZ4eU10YzV0T0ZuVmwtUldlV3g5Tm5SSks5S08tajBQdVpUZ0czbW9VS3dpUXpqb1k?oc=5",
+      "date": "Fri, 07 Aug 2026 10:02:00 GMT"
     },
     {
       "title": "住宅街でバイクと自転車が衝突する事故 自転車を運転していた男性が意識不明の重体 福岡市南区",
@@ -53,9 +112,9 @@
       "date": "Fri, 31 Jul 2026 17:53:00 GMT"
     },
     {
-      "title": "福岡・宗像市の交差点で車と接触、自転車に乗った73歳男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZUdmbXF4MDlFSlFKVzYtOFBfU25mMUZRY3pKS0RoQl91emdjQUlPOVZ5aGMxZWhrSTQ1OUZwTlpIYXRvVE1LQUQ1WVNtR1gyZmk5UEZ3?oc=5",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+      "title": "福岡・大野城市で建物近くで男性が死亡、エアコン設置中か",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tOVZlQVdRV2xDS3J0c0psWFhISy15RWpHaVd0Q2FucW5qUlRLRXlIS3BLYUdSc0JBTTE4Y3RPTlgtczRPWlpzeVNMaE4xN2VyUUNrNG5B?oc=5",
+      "date": "Fri, 07 Aug 2026 07:59:00 GMT"
     }
   ],
   "official_links": [

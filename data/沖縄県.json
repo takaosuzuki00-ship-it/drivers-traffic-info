@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-08T06:05:57.916755",
+  "generated_at": "2026-08-08T09:03:47.889424",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
     "code": 95,
     "weather": "雷雨",
-    "temp_now": 27.6,
+    "temp_now": 28.3,
     "temp_max": 29.3,
     "temp_min": 27.4,
     "precip_prob_max": 100,
     "precip_sum": 34.9,
-    "wind_speed": 55.3,
+    "wind_speed": 60.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 27.9,
         "weather": "強い霧雨",
-        "precip_prob": 100
+        "precip_prob": 98
       },
       {
         "time": "03:00",
         "temp": 27.6,
         "weather": "強いにわか雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "06:00",
@@ -53,13 +53,13 @@
         "time": "18:00",
         "temp": 28.4,
         "weather": "にわか雨",
-        "precip_prob": 98
+        "precip_prob": 84
       },
       {
         "time": "21:00",
         "temp": 29.0,
         "weather": "曇り",
-        "precip_prob": 88
+        "precip_prob": 84
       }
     ]
   },
