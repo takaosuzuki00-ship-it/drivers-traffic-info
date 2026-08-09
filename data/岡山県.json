@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-08-09T03:03:45.248395",
+  "generated_at": "2026-08-10T08:54:58.103091",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.5,
-    "temp_max": 30.7,
-    "temp_min": 24.8,
-    "precip_prob_max": 63,
-    "precip_sum": 0.2,
-    "wind_speed": 4.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.7,
+    "temp_max": 32.8,
+    "temp_min": 24.2,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 5.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.6,
-        "weather": "晴れ",
-        "precip_prob": 16
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
       },
       {
         "time": "03:00",
         "temp": 25.5,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 24.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 28.1,
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 31.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 32.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "18:00",
+        "temp": 31.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "12:00",
-        "temp": 29.6,
-        "weather": "曇り",
-        "precip_prob": 16
-      },
-      {
-        "time": "15:00",
-        "temp": 30.6,
-        "weather": "晴れ",
-        "precip_prob": 47
-      },
-      {
-        "time": "18:00",
-        "temp": 30.1,
-        "weather": "晴れ",
-        "precip_prob": 63
-      },
-      {
         "time": "21:00",
-        "temp": 27.5,
-        "weather": "曇り",
-        "precip_prob": 55
+        "temp": 25.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "８月９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mcHN3X2JpOUxtVkdrelpUbkxwRkxILVBQd1lDTDl0RGRQRkY2ZWhDVU1QYmlTLU9ramxWWHUtVF9rcGUwN1B6c2dKUjcyTmE3V0NNcVRseC1OaDRHWXgwNXBRajZpUEgxam5qV0tRSlF6Z9IBd0FVX3lxTE9hWWJULTMzNnpEZ2plcl9EWkpnUTBUVlRoVFVsa1ZJRUE1dW9jMTlGSmZIQWNfNUk4YVZJNzVibmtKOWpWQlFJbzh5bFZUUlFJS29XYk9hVmY4YlB0cWJ4OWVtN3lQQk91UFlQcVVRQjIyb2g1MXNz?oc=5",
+      "date": "Sat, 08 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "８月８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aams0MWFyNkJqOUc3UkU0WFdSUU82VVRyNERzeUlnekxwM0wzV3NiMlN0ay1iNHF2YzJwSGxjSkZZMDV1M3RvVXloQ0ZiVkNoTGkwamRDbWQ3WGkxSUFham5BYngwSG5SeFRwcG5yWi1md9IBd0FVX3lxTE05QXRvcFhPODBQeWJTbHo1X2pwdmpMTURNUHRMdzYzb2hrVXRFQ3laUmp2ZGJjQWgyek5LRFBYNHNMa3l4aVBqdjROOEFZN3dQUkxRZjYtYUFwUkZJSG9RUlZJdXZvVTZlaXNZOWEteGtPbGxHT2E4?oc=5",
       "date": "Fri, 07 Aug 2026 22:20:36 GMT"
-    },
-    {
-      "title": "８月２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtUWlGZU5USU1VNzFrOEEyMEEtVVhOODhwaTdpRFY5VFdBTWJGSVI3djFlbHp1YTFNbGZYRUJHN2NPS2dLd1c4QkxUS3NtQ3pOVk1iQzN5VS1IODBObDdTM0lWd1Q4SW5R?oc=5",
-      "date": "Sat, 01 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "８月６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcUd6ajZMRXN1aERZUVd4X29XeW9jaFNrOFZFLU9KbzNJRUdwTDBLWUdpeWNWREZpd293aDl3bGNFRjJxZW1YVW5tdFZnbnE2UjFSeUJSR0RRV1kwc3RtWFYwZU9INGJQaXhoSk9yVXpHZ9IBd0FVX3lxTFB5Y052cjU5T2JBWEJBMENya3J5REZMYk9qRVplN3BYVjUtdzBzdzBZUFloMTlxNzYzNk5sYmxKZVlibnRZYVZIbG4wQ21VSnlUMk9vbGl1TVVLdm9mR1VtM2xsUTBwekNEZEhVRE94WVZWTEQ3OFJZ?oc=5",
-      "date": "Wed, 05 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -85,9 +80,14 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反（KSB瀬戸内海放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbkNvMDJ5c0RxcTFpSUlmT1ZwTjAzR2dvbmp0RFg4YUVlTnp3R0lra0d4X3NZQlIwNUg2Qmwtdk52NExieTdRczFCcmVoUzk2SFJEVVR5MmdNRWItc0kyUGhGWmtIRkE1aHgzdU5uOVdONGd0eWN4YXR6TWpmb3c?oc=5",
-      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+      "title": "衆院選 選挙違反取締本部を設置 選挙違反に目を光らせる 岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13STJrbXViX1V1ZUZSQlVid3NHZkt3T3cwZFBhYW4zNzdEQjJyRkN2RHI3VGFlSnc4SFJoWTRwaHhMUUFzU1g3bVY1NjdtUk5OaHc?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     }
   ],
   "accident_news": [
@@ -99,22 +99,22 @@
     {
       "title": "県道を歩いていた男性が軽自動車にはねられ重体 岡山市",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90UG9ldjJ6SXlqYUZVYVBPa1cwXzhVSm0taDFXMmg0R3NfZEk5aWcySW1kSkV6VjlsY1lmYkxhb1J3LS1EWUNMbkN6QzhmZEF6?oc=5",
-      "date": "Sat, 01 Aug 2026 05:40:00 GMT"
-    },
-    {
-      "title": "岡山ブルーラインでスポーツカーとSUVが衝突 2人死亡 2人軽傷 備前市（KSB瀬戸内海放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdmhaTzMzX005RndWSi1tbG9iOGtiY0tQbVhpWnA1MElQRmctSlFPN29mYnhtbW1FY19zLV9TVk4tRlBnLWg1OWpjSVBVYmpweDB4Z01DNG1Lck90U3VQVXNjQXRwVjlOcF9IZTZWV1Z5N2hlUzVOZXZkM2lQUU0?oc=5",
-      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+      "date": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "岡山市で交通事故相次ぐ 男性1人死亡",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRVUctdzF2UF91M1NOMTBFSlhWczFsRWRNNTRvWDJDZ1cwOGRaVkdkSTB1TlpoSVFxZUpMXzk1YTBLOVhMTGRidFJUZw?oc=5",
-      "date": "Thu, 23 Jul 2026 02:41:00 GMT"
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "岡山市で「岡山広告賞」贈呈式 ”魔の７歳”とも呼ばれる子供の交通事故撲滅啓発ＣＭが金賞【岡山】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oZ2pvaVFONkRkZ0Y5TzRSYUJTQnJxeVZSZ211NEEwb2J1OW01ZUFvMExBNXFmNnVKcElNYWNFdkw4Y0RJb0xDVnJEanV2U2Y1Tloza3lNMUdwX0loV1BQOXR1NHA?oc=5",
-      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+      "title": "【国道2号】大型トラックと乗用車が関係する事故 東区百間川橋付近（上り）が通行止め【岡山】（RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSGY5M2hvS2htWlZqNnRJMnNiVnNXWVBSb3ZYOGtIUEEzcFk3WENLQ3VGODR0MkMxQ1pJN3FDT1MtZUVfckRZMlNiVUNPRGJtaGU0WWc5Q0J6bG9vT2xwQ3lmdVc0WkVoN0p3ODYtb1dpeTZpVE80ajlqdVE3SVk?oc=5",
+      "date": "Sat, 01 Aug 2026 02:27:20 GMT"
+    },
+    {
+      "title": "岡山市南区の国道交差点で乗用車と大型トラックが正面衝突 乗用車の男性（39）が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ERlcwX1JVZjJZUjNDa25pY3hzOTlXb2VPVnplcy1nMVl3NnJuVnJ0bkN1Mmw1czlMYUZMaDByYlNwRFgwZkliSTBpMGdLTFJ2TXQzeURjU2pYSWF4SVE?oc=5",
+      "date": "Sun, 02 Aug 2026 08:35:00 GMT"
     }
   ],
   "official_links": [

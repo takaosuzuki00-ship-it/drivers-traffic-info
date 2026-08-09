@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-09T03:03:08.741080",
+  "generated_at": "2026-08-10T08:54:22.858141",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 25.6,
-    "temp_max": 31.4,
-    "temp_min": 25.2,
-    "precip_prob_max": 86,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.0,
+    "temp_max": 33.4,
+    "temp_min": 24.7,
+    "precip_prob_max": 24,
     "precip_sum": 0,
-    "wind_speed": 3.1,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.4,
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 25.6,
-        "weather": "晴れ",
-        "precip_prob": 4
-      },
-      {
-        "time": "06:00",
-        "temp": 25.2,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
         "time": "09:00",
-        "temp": 26.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.5,
+        "temp": 31.9,
         "weather": "晴れ",
-        "precip_prob": 25
+        "precip_prob": 16
       },
       {
         "time": "15:00",
-        "temp": 31.4,
-        "weather": "晴れ",
-        "precip_prob": 57
+        "temp": 33.4,
+        "weather": "快晴",
+        "precip_prob": 24
       },
       {
         "time": "18:00",
-        "temp": 29.6,
-        "weather": "晴れ",
-        "precip_prob": 86
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "temp": 25.4,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月１１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
     {
       "title": "滋賀県知事選に向けて選挙違反取締本部設置 捜査員300人態勢で違反行為に目を光らせる",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92bllKN2dwdk9jMi1XOXgzemVBelBKQTNfYTg5azZMTTBncm85SGhOYUNxRmhtQmFZU19OZjUzdU5XaFNwSnhOTzhRWkN1ZjV0QXhPQXpWYkM?oc=5",
@@ -80,14 +85,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "【衆院選】滋賀県警が選挙違反取締本部を設置 「厳正、公平に取り締まる」",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QT28wQ2VVd0R3aVNMQlNhcHB5Yzh2ZmF1WWhpQ1Q0X2dKVG1lcnM4NTh1ZE15QTZxUll0MWVYMEJYTW5RQTJiU196bWJGa1N1LUpWclNnS2U?oc=5",
-      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ４月１１日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdEs5bmk3Q3NJRUpOU0hUaFRYX19JYU9vRmlPdmdELUVkMFFIN0dMMnQwYjRvOWNBSHJNS1Z2WlQzZ256YlpXS0lodXM4elJJVTVWc1BwTDBKWFZmS3c?oc=5",
-      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+      "title": "移民捜査で車両検問停止",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRkMxMUtUSG9fTUZ1NGEtMDdfVFd2ZGN3Y3lqSDZjTUpNUmN1VWZPRWRPOG02b2ZXR0V1YkFlc1l3dGhkX1ZUZG9qalA5TkVqSG9yWGdSTW8?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,9 +97,9 @@
       "date": "Tue, 14 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "滋賀県の新名神で中央分離帯にトラックが衝突、運転の男性死亡 同乗の男性も軽傷",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YNEVhaHZwSzRBclA5bWYyTl9MQkYxTS1pXzVQZzlySUpTZjZhSnNzSEY4TU1jLU5pdkFMbExCLUZSQXA0MzkwaFAtdlBMa1Jhdkd3ZElXNkE?oc=5",
-      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
+      "title": "交通事故撲滅を掲げて琵琶湖を一周！ 参加費無料のイベント「第4回バイクの日 in Shiga」を8月15日、16日に開催",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckdKdHlISTFoM3RNd0QwSlljeDN0WVQ0ZnNYQ2ttUm02b1pDSmM1THBudG4wWWd1X09xQUVMdWhzSlFOdzJkdXBta3lsOXRTSmx5Unk3UTNfZW9GTzVTVDI2VVZWanZPZVBmYUJxLThuX3VieGhOWFFySVBSVEk3LThVWUpwME5R?oc=5",
+      "date": "Sun, 09 Aug 2026 23:00:00 GMT"
     },
     {
       "title": "交通事故の死者数の増加率で全国ワーストになった滋賀県、高齢者の道路横断や後部座席のシートベルトに課題…県警「非常に深刻な事態」",
@@ -107,14 +107,14 @@
       "date": "Thu, 15 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "道路横断中の死亡事故、歩行者はどちらからが多い？ 思い込み影響か [滋賀県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SRHdTUGlUTEpxSm1CLXZWZElhSzFfYzFhanUzRHItRjZ6cHNqUHR0bTE2dWNpczRCSmxpN1VjM1IwbDRCZExZbzdHaW9vVG1ma3hoZ1JFV2hlWEpEdGtNMlcxVTloSEU?oc=5",
-      "date": "Tue, 05 May 2026 07:00:00 GMT"
+      "title": "滋賀県の新名神で中央分離帯にトラックが衝突、運転の男性死亡 同乗の男性も軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YNEVhaHZwSzRBclA5bWYyTl9MQkYxTS1pXzVQZzlySUpTZjZhSnNzSEY4TU1jLU5pdkFMbExCLUZSQXA0MzkwaFAtdlBMa1Jhdkd3ZElXNkE?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "滋賀の15階建てマンションから37歳男性が転落して死亡 窓ガラスの清掃作業中（京都新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmU3JFRmVnQ2ZGYVRodTBTWmhUbC1hcF8tZTZ3Q2xQLWRoWV9HRW1oRmNtbXdQWXBGS21pQjlzVHlhV2N1OXB3S3pDaGxVZElsS292emhqNWYyQ0I5UC1MeEFxNTdGdnk2OGMxNlY2dWdhdGRUc3V1V1dGRTdSYmM?oc=5",
-      "date": "Mon, 03 Aug 2026 10:12:18 GMT"
+      "title": "交通死亡事故ゼロ1000日達成、滋賀・竜王町で啓発活動 次の目標は2000日",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbk1zZkRZS25LdzRYYVRUQzdBWWx5Z0N6UUdwOHlwcFlMa0owUTlRVGlTeG90bHY3NXlhWnE1ZzV5YVZ0dS1Lb3R0c2tONWZFRTNPNlNoandhbWxTY0hEdi1JclZsaUcwS013S1JBRWlmWURwUXc?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
