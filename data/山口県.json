@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-08-10T09:03:46.879059",
+  "generated_at": "2026-08-10T12:02:41.998024",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 27.4,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 30.7,
     "temp_max": 30.7,
-    "temp_min": 25.0,
-    "precip_prob_max": 100,
-    "precip_sum": 0.7,
-    "wind_speed": 2.1,
+    "temp_min": 24.8,
+    "precip_prob_max": 99,
+    "precip_sum": 1.2,
+    "wind_speed": 0.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.3,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "03:00",
         "temp": 25.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 25.0,
+        "temp": 24.8,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 27.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
         "temp": 30.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 67
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 29.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 28.3,
+        "weather": "霧雨",
+        "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 28.3,
+        "temp": 28.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 51
+        "precip_prob": 39
       },
       {
         "time": "21:00",
-        "temp": 26.4,
+        "temp": 26.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "８月６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcUd6ajZMRXN1aERZUVd4X29XeW9jaFNrOFZFLU9KbzNJRUdwTDBLWUdpeWNWREZpd293aDl3bGNFRjJxZW1YVW5tdFZnbnE2UjFSeUJSR0RRV1kwc3RtWFYwZU9INGJQaXhoSk9yVXpHZ9IBd0FVX3lxTFB5Y052cjU5T2JBWEJBMENya3J5REZMYk9qRVplN3BYVjUtdzBzdzBZUFloMTlxNzYzNk5sYmxKZVlibnRZYVZIbG4wQ21VSnlUMk9vbGl1TVVLdm9mR1VtM2xsUTBwekNEZEhVRE94WVZWTEQ3OFJZ?oc=5",
-      "date": "Wed, 05 Aug 2026 20:00:00 GMT"
-    },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
@@ -78,6 +73,11 @@
       "title": "2027年春に就役予定 漁業取締船の船名を募集 締め切り 来年1月15日 ／山口",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNdTlrb0VpaWZ6b3N6aUJRMVJiaVRDZWI5NWtMRXV0Mjc3cTFIZ3lILVpmY3NoQXhfM0lVZUp1MnFJODIxQmJMOUJtOUFLOUVoUlEzdWpzeDdaaEFQT1cyYXp6djE2NE1s?oc=5",
       "date": "Thu, 18 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【山口県知事選挙】山口県警が選挙違反取締本部設置",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KelVVUkJfSi1oeXR6cDJVNENRUVU5b2ZXY2dvaXl1eDFNa0gtTkRJel9zcUFsNkg3QjVIc2xsdlFlQlpKa3h1OHQwYWI5dmxzMGNCSVZZQzl0encxSG1FV09iMkp2cXhO?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "山口：飲酒運転６５５件大幅増 自転車４割、摘発相次ぐ １１月末時点 年末年始注意呼びかけ：地域ニュース",
@@ -91,6 +91,11 @@
     }
   ],
   "accident_news": [
+    {
+      "title": "山口県内の交通事故発生状況2026年8月9日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Kd3BWU3RON1JEN3ZEb0xRczl6U013Z3JPZTZpY1dXRVZQMHFiQmwxQjdCdlloVnZYdTBZQ1dITzVydlhGWmtKaWlDVQ?oc=5",
+      "date": "Mon, 10 Aug 2026 01:10:00 GMT"
+    },
     {
       "title": "国道2号で大型トラックや軽乗用車など3台が絡む玉突き事故 女性1人が骨折の疑いで救急搬送 山口・山陽小野田",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iMDBrWFozTlRGd3NFTHVFOUUtWHUxV3dyTDEwUTJRU0d0bW8tc3hnVEkzR1lURGtDODUtNThrNlNMeno1dmpmOTdwQTVJeUgxZzI3Vkh2MA?oc=5",
@@ -107,14 +112,9 @@
       "date": "Wed, 05 Aug 2026 01:10:00 GMT"
     },
     {
-      "title": "山口県内の交通事故発生状況2026年8月6日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WUTk3Z3RyY2dBOFBEYmpWQThJM0F6S0taMHAzZTI5dXFfbkowbG9qczRDNUxNX1I1Nm0tTUs2dUdWTXlkZ3VfSDVNNA?oc=5",
-      "date": "Fri, 07 Aug 2026 01:10:00 GMT"
-    },
-    {
       "title": "海水浴中の女性3人溺れ1人死亡 茨城「ヘッドランド」周辺で事故相次ぐ（テレビ朝日系（ANN））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54M0pFZjNUZ1B4bTA5MzBSM3YxUFBaZ21laTMxV1h6aG5jNzJ3Vk5DcVl3cEtmY3haNURWU3lDR0hIM2tGdDE1NmJ5SlVNV3NKenFSdHJOU2c2MVVHa29yUGZiQ0ZTcEtQbHVOa1lQMXc0UXphRXg5OVZlWlZGVDg?oc=5",
-      "date": "Sun, 09 Aug 2026 21:47:30 GMT"
+      "date": "Sun, 09 Aug 2026 20:57:43 GMT"
     }
   ],
   "official_links": [
