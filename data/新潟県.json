@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T09:02:02.948493",
+  "generated_at": "2026-08-11T12:01:51.872008",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.8,
-    "temp_max": 27.3,
-    "temp_min": 24.0,
-    "precip_prob_max": 54,
-    "precip_sum": 0.2,
-    "wind_speed": 12.1,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.2,
+    "temp_max": 27.2,
+    "temp_min": 23.9,
+    "precip_prob_max": 60,
+    "precip_sum": 1.3,
+    "wind_speed": 24.9,
     "hourly": [
       {
         "time": "00:00",
@@ -27,47 +27,52 @@
       },
       {
         "time": "06:00",
-        "temp": 24.7,
+        "temp": 23.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 8
-      },
-      {
-        "time": "09:00",
-        "temp": 25.8,
-        "weather": "晴れ",
         "precip_prob": 14
       },
       {
+        "time": "09:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
         "time": "12:00",
-        "temp": 25.6,
+        "temp": 25.2,
         "weather": "曇り",
-        "precip_prob": 49
+        "precip_prob": 57
       },
       {
         "time": "15:00",
-        "temp": 25.8,
+        "temp": 25.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 47
+        "precip_prob": 55
       },
       {
         "time": "18:00",
-        "temp": 27.1,
+        "temp": 26.4,
         "weather": "晴れ",
-        "precip_prob": 53
+        "precip_prob": 41
       },
       {
         "time": "21:00",
         "temp": 27.2,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "８月７日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4T2RTSGJxeEliR1Axc2dpREFKTDdQcVoycDBja3pLenZxUlFtLTN6b0JfMDBHbDlvbjZzNF8zVm9JUDU1MkJ1OF9EZGxraGdwUThnMkFYUzdpTnhrNVYxWVctRjJ5bzdhcnl4bWRvRThxZ9IBd0FVX3lxTE5HMUtDdmx1X3Y5MkQ2T2xpbUI3MjJtLVNpMHlLV3lCMXBzMUt0bDJiOVhQb296bDlhcnZhcEpJQXppYzFLNmR4UVdzQmRaQWpkeFYzcWFBSjJvVEZBNnRxUzhnbzhfNXJ6MDhLcGpEbS1jNnljNHZr?oc=5",
-      "date": "Thu, 06 Aug 2026 20:00:00 GMT"
+      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
+      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月５日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wM0llc0NLTy1iNTk4MVNoX1VmdkVfcnE5TVdPeUVFeWpZQU5od0pVMk1BaWlWZFpObnN1T3U2UmNaR0RDTjlxeWRyd1dIbWtQcUYtalViWERDMmlQT1VobWFDZUFZVHVB?oc=5",
+      "date": "Tue, 04 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】 (UX新潟テレビ21)",
@@ -83,11 +88,6 @@
       "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
       "date": "Mon, 27 Jul 2026 03:15:30 GMT"
-    },
-    {
-      "title": "８月６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcUd6ajZMRXN1aERZUVd4X29XeW9jaFNrOFZFLU9KbzNJRUdwTDBLWUdpeWNWREZpd293aDl3bGNFRjJxZW1YVW5tdFZnbnE2UjFSeUJSR0RRV1kwc3RtWFYwZU9INGJQaXhoSk9yVXpHZ9IBd0FVX3lxTFB5Y052cjU5T2JBWEJBMENya3J5REZMYk9qRVplN3BYVjUtdzBzdzBZUFloMTlxNzYzNk5sYmxKZVlibnRZYVZIbG4wQ21VSnlUMk9vbGl1TVVLdm9mR1VtM2xsUTBwekNEZEhVRE94WVZWTEQ3OFJZ?oc=5",
-      "date": "Wed, 05 Aug 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,9 +107,9 @@
       "date": "Sun, 09 Aug 2026 00:25:00 GMT"
     },
     {
-      "title": "「車が川に落ち 天井とみられる部分が見えている」軽乗用車運転の72歳女性が死亡　新潟県内で死亡交通事故相次ぐ　新潟・西蒲区",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HbzB6Vnh0UDk3M0d5c3pqS1FLSWFTendFbG9mQlR5NjVSdVhlYVZNZ0ZiOUNEZjlEbFdKSTNmdi1veE9laEpQa3hGcEo3MlpZQTlwV1BLQXJ1Ui1USndKWUVNNEE0MHRtTEd0dkhGMXAtakRY0gF0QVVfeXFMTkdvMHpWeHRQOTczR3lzempLUUtJYVN6d0Vsb2ZCVHk2NVJ1WGVhVk1nRmI5Q0RmOURsV0pJM2Z2LW94T2VoSlBreEZwSjcyWllBOXBXUEtBcnVSLVRKd0pZRU00QTQwdG1MR3R2SEYxcC1qRFg?oc=5",
-      "date": "Mon, 10 Aug 2026 03:05:00 GMT"
+      "title": "【続報】中学1年生の姉と小学3年生の弟の死亡確認 37歳の父親は意識あり 3人とも救命胴衣の着用なしと判明 新潟市の角田浜海水浴場で海難事故",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUX0NGX2dDaVNBT2JMVWY3bWU0UGYtY1pzc3pRYl90dmNqbG01cUJiZGZ4RHdPQmJsQlY0YlJrS3B5UFdmX2VpcFBTMEtaMFhkdHgzVVdnUVg4S3VTVVNr?oc=5",
+      "date": "Mon, 10 Aug 2026 13:06:19 GMT"
     },
     {
       "title": "交通事故死者1162人・警察庁上半期 新潟県内は前年比2人減の22人、高齢者が6割占める",
