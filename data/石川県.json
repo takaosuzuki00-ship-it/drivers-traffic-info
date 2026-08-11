@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-08-12T00:01:52.728392",
+  "generated_at": "2026-08-12T03:01:51.422501",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 24.8,
-    "temp_max": 29.2,
-    "temp_min": 24.2,
-    "precip_prob_max": 100,
-    "precip_sum": 0.8,
-    "wind_speed": 14.7,
+    "temp_now": 24.4,
+    "temp_max": 29.8,
+    "temp_min": 24.0,
+    "precip_prob_max": 98,
+    "precip_sum": 0.3,
+    "wind_speed": 11.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.8,
+        "temp": 24.0,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 98
       },
       {
         "time": "03:00",
-        "temp": 25.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 55
       },
       {
         "time": "06:00",
         "temp": 24.2,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 26.4,
-        "weather": "晴れ",
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.1,
+        "temp": 29.3,
         "weather": "晴れ",
-        "precip_prob": 65
+        "precip_prob": 67
       },
       {
         "time": "15:00",
-        "temp": 29.1,
+        "temp": 29.7,
         "weather": "晴れ",
-        "precip_prob": 90
+        "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 28.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 80
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 82
       },
       {
         "time": "21:00",
-        "temp": 26.6,
-        "weather": "晴れ",
-        "precip_prob": 18
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
+      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
       "title": "８月８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aams0MWFyNkJqOUc3UkU0WFdSUU82VVRyNERzeUlnekxwM0wzV3NiMlN0ay1iNHF2YzJwSGxjSkZZMDV1M3RvVXloQ0ZiVkNoTGkwamRDbWQ3WGkxSUFham5BYngwSG5SeFRwcG5yWi1md9IBd0FVX3lxTE05QXRvcFhPODBQeWJTbHo1X2pwdmpMTURNUHRMdzYzb2hrVXRFQ3laUmp2ZGJjQWgyek5LRFBYNHNMa3l4aVBqdjROOEFZN3dQUkxRZjYtYUFwUkZJSG9RUlZJdXZvVTZlaXNZOWEteGtPbGxHT2E4?oc=5",
-      "date": "Fri, 07 Aug 2026 22:20:36 GMT"
+      "date": "Fri, 07 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１日",
@@ -75,31 +85,16 @@
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "８月６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcUd6ajZMRXN1aERZUVd4X29XeW9jaFNrOFZFLU9KbzNJRUdwTDBLWUdpeWNWREZpd293aDl3bGNFRjJxZW1YVW5tdFZnbnE2UjFSeUJSR0RRV1kwc3RtWFYwZU9INGJQaXhoSk9yVXpHZ9IBd0FVX3lxTFB5Y052cjU5T2JBWEJBMENya3J5REZMYk9qRVplN3BYVjUtdzBzdzBZUFloMTlxNzYzNk5sYmxKZVlibnRZYVZIbG4wQ21VSnlUMk9vbGl1TVVLdm9mR1VtM2xsUTBwekNEZEhVRE94WVZWTEQ3OFJZ?oc=5",
-      "date": "Wed, 05 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
-      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
-    },
-    {
       "title": "未解決のまま18年 金沢市久安で会社員の男性が何者かに殺された事件 遺族と警察が現場周辺で検問し情報提供求める",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZmZnVlBRcmFOZEQ0M3RDSnVzUkZ0dHNSczlMbjlBU3JLUzZIX2hKUDF1RC1pUGdYbUw3NUFZSWZSWmJ2OWVHRTdJSnRWclZTVmZ0Uk5ZYzVtUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFanduWFNzR3ZGbkZrY3h3eS1iZVFCWU9feXZQQTBoUlo0dzJLWWVkSDJFZWlRaEtuMEwzN3RrYmRwZ3dMQjR5c2VPZFdQVm5HanRVN1NSTVI1X2NfMFZUOGhqMnF2WE0?oc=5",
       "date": "Sun, 28 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "石川県内ことし上半期の交通事故発生件数 前年より増加（テレビ金沢）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RWkltSVhwUm5zWXl6MjFrLW1qeWE0SkJRM1VvVWM2dXM0UEpNR0ZKMmt2cXhMdExvOXpFNk94QndzbGx5WmJjQWRNUmFXalQxZDR2Rzg5YnF2ZTVGdlhUN09UUUVSTk1kMFdrQlJPRk55OE8tWEd6dkZZSG14cXc?oc=5",
-      "date": "Sat, 01 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "石川県警40代警部補免職 薬過量で追突事故、上司暴行疑い 反省の言葉なく 駐車場で放尿も｜社会｜石川のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82SjlfYXdQNHBERXF2QkgxdEVGM2ZzLVhZd2FycW5wSkVOTVVXV3lVNVNXMm9JQURfSnh0WnBxSWU0X3ZYOTNMYzJjTXZzbDFmWUhrQXVaYw?oc=5",
-      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
+      "title": "石川県内ことし上半期の交通事故発生件数 前年より増加（2026年7月31日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnJPZkQ5Y0t1QXlhU2JCeklOT095NVB3TnVPTzRINTFPVnlHQk1jN0o5d0VVX1ExNkY0VnRqb1NPOWJINXNWNFo5VG1QcEtrejE3Uy1na2ppM2JuX2JmemJkdTJTY3V2b05FdTVMRVFzcmhTRXdmUXlTZXd0SmFvNy1JRlhfOFk?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "石川県の北陸道自動車道、事故のため通行止め 7月20日午後",
@@ -107,14 +102,19 @@
       "date": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "石川県警40代警部補免職 薬過量で追突事故、上司暴行疑い 反省の言葉なく 駐車場で放尿も｜社会｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82SjlfYXdQNHBERXF2QkgxdEVGM2ZzLVhZd2FycW5wSkVOTVVXV3lVNVNXMm9JQURfSnh0WnBxSWU0X3ZYOTNMYzJjTXZzbDFmWUhrQXVaYw?oc=5",
+      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "石川県内ことし上半期の交通事故発生件数 前年より増加",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jTlBqTV9TUmU2T3BqUTcxdVJSWldFc04wY21tWjZBRHdsem1SenFibmpFOXBzenpEakFEUXBXTFZSZWYzS2dka2dvTQ?oc=5",
       "date": "Sat, 01 Aug 2026 03:39:59 GMT"
     },
     {
-      "title": "石川県の北陸道自動車道、事故のため通行止め 7月20日午後",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84R1BOYTFPeWZtdldnenFSY0tsY3U3ZGdWbW1XX3FmUjVSanh2dFlPdmFRYnM4N0xuUzhYTGN3N3FmbmRCNDFOVWY3UQ?oc=5",
-      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+      "title": "特別支援学校で10歳男の子が行方不明となり死亡した事故 発生前にPTAから“教師の人手不足”の指摘（石川テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWTZmZU5SUUZybjh4TUNzQ2MwUzFzRjRBV0ZrVzd6ZHBVOWZITkxpTGZ4RjhEbXdSWk9jeXpLQ0Q4Q1JHQWFqWWpneVExOXRNUVBOZHQ2aEhReDNxSkdvczdqRWFJVW1XZTNXcVFDV01YRGZ0WkxieDh1Q2oyclk?oc=5",
+      "date": "Mon, 10 Aug 2026 09:37:02 GMT"
     }
   ],
   "official_links": [
