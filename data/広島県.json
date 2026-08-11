@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-08-12T03:03:09.874651",
+  "generated_at": "2026-08-12T07:11:15.408193",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 23.2,
-    "temp_max": 30.4,
-    "temp_min": 22.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 24.2,
+    "temp_max": 29.8,
+    "temp_min": 23.0,
     "precip_prob_max": 86,
-    "precip_sum": 1.6,
-    "wind_speed": 6.8,
+    "precip_sum": 3.6,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.9,
+        "temp": 23.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 23.2,
-        "weather": "晴れ",
+        "temp": 23.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 23.2,
-        "weather": "晴れ",
+        "temp": 23.3,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.5,
+        "temp": 26.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 28.5,
-        "weather": "晴れ時々曇",
+        "temp": 28.3,
+        "weather": "曇り",
         "precip_prob": 78
       },
       {
         "time": "15:00",
-        "temp": 30.2,
-        "weather": "晴れ",
+        "temp": 29.5,
+        "weather": "弱い霧雨",
         "precip_prob": 82
       },
       {
         "time": "18:00",
-        "temp": 27.8,
-        "weather": "弱い霧雨",
+        "temp": 26.9,
+        "weather": "弱い雨",
         "precip_prob": 63
       },
       {
         "time": "21:00",
-        "temp": 26.5,
-        "weather": "快晴",
+        "temp": 25.5,
+        "weather": "晴れ",
         "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
-      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
+      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
+      "date": "Tue, 11 Aug 2026 20:18:45 GMT"
+    },
+    {
+      "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DQjFjamJWU3BwNi0wdmc0c0RRdzBzalNhblFNYUQ3VTBJLXAwVWRKaDlyMVpTM0NfZE9fVHNEWHhyODNHTllaVWcwYi1NM29Sa0hHNGFMQk1oTHptYV82c1lkUUNnY0JxdmptaEJLSdIBdEFVX3lxTFBkUkdhY0JENUFHOW8xLUFBaTEwXzV0MkZiVTRZLU5kM0hIMjIzdzdMUmI1elhQRzZObUVDZURkaFJUNVNuaDZ1SGRPSzNrR3Y4cFBsdWxiMUdlbHZySHlHczUzS2l3bHhaMG5yNEFqdVJUYXk5?oc=5",
+      "date": "Tue, 11 Aug 2026 20:10:49 GMT"
     },
     {
       "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
@@ -80,22 +85,12 @@
       "date": "Sat, 01 Aug 2026 20:02:00 GMT"
     },
     {
-      "title": "8月11日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTXVDaFRkM2RWRmYyNk1MQTlmMllyRllyTVRFa2dXMERROElBZS1NZU9wODh0NXlETjBucVZVS2RRSDBEY3BhcEJVa2J2RldfWm9lR1Fselp3VmN3X21qbWRiYkZ1b1JqWjdBT2M0Z9IBdEFVX3lxTE5yRjR2bEp6aFlwbXI2T2NVVW5CY2oyUEg5cXI4YVFuSnB1QUxRel9HcHIyTllXX3NUN1ZQY3ZEQi00cTBGYnZVN1phUXppU1lBYmUzSVgwX09XWEdnRzcwZWNCMExURFAxMWFvV2d3WFBWbXVZ?oc=5",
-      "date": "Mon, 10 Aug 2026 20:56:05 GMT"
-    },
-    {
       "title": "広島県警が選挙違反取締本部を設置 3710人態勢",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMU5sb0xqcXMweUhUamwtTEJjbkdfSVlUSjFaWVVOdUZqTlRKeGRCMmpfRzZxVFFpWHJmbGgwS3k4cjlqMVY1NzB4aW1mTy00dThQSUhwVHJVZw?oc=5",
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "【速報】「軽乗用車2台の衝突事故　人が閉じ込められている」　広島市中区の中心街で交通事故　２人けがも軽傷",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZm9IYkdHNXVvMjVXOWV2ZzNQX0RxdTVTSjVJMHR6MTdhVjJfcTdlQjVXLWZKWVMwWjVDakRZRHVZZHp6TkdBNE1ZMTRjYjNsTmx5dThINWM2T2NzOTl4cFBKRHhMNnlNUkQ4b3Yxc9IBdEFVX3lxTE9heWdXRnpUb1Z5X08xeHZqbXc0aDZfVDdxMFA3dHM4aUlyWnV2Z1FaOUlvR1BQcTlBRmFaMHNXSUQ2QXRiWUFGcVpKcmN0V1RjUFpoUkVUU1k4U21OWE56Nzg4MXFNMDc4R3FTYnlPWWxGeW9m?oc=5",
-      "date": "Tue, 11 Aug 2026 00:50:00 GMT"
-    },
     {
       "title": "令和８年 広島県内市区町別交通事故発生状況（毎月更新）",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oOERoaVctamlNZnhHTVFEaEtFNUd0UlVpRmNnSkxrbS1TVVJGYnZWb0EycVBMVFdRMUNYRkdwQm9ZOU1FTDFwOHlCcEI2azZWUWthSEUyUVBBOWZleFI1OUZOZzF5dDJNRU5LMkdxbw?oc=5",
@@ -105,6 +100,11 @@
       "title": "「車が建物内に突っ込んでいて運転手が閉じ込められている」JR広島駅前で事故 60代男性が搬送も歩行者にけがなし 体調不良でハンドル操作誤ったか 広島",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rQUptZXNuMlRESjdERUdJS2dieEUtM0xRTjh3T0xyeEhvekdrUzBiOTUzNzNSVkdzcldsUnVseEZvUEgyVFkxNkxILUVtUGtVUWxrT1FWNA?oc=5",
       "date": "Tue, 11 Aug 2026 08:51:00 GMT"
+    },
+    {
+      "title": "【速報】「軽乗用車2台の衝突事故　人が閉じ込められている」　広島市中区の中心街で交通事故　２人けがも軽傷",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZm9IYkdHNXVvMjVXOWV2ZzNQX0RxdTVTSjVJMHR6MTdhVjJfcTdlQjVXLWZKWVMwWjVDakRZRHVZZHp6TkdBNE1ZMTRjYjNsTmx5dThINWM2T2NzOTl4cFBKRHhMNnlNUkQ4b3Yxc9IBdEFVX3lxTE9heWdXRnpUb1Z5X08xeHZqbXc0aDZfVDdxMFA3dHM4aUlyWnV2Z1FaOUlvR1BQcTlBRmFaMHNXSUQ2QXRiWUFGcVpKcmN0V1RjUFpoUkVUU1k4U21OWE56Nzg4MXFNMDc4R3FTYnlPWWxGeW9m?oc=5",
+      "date": "Tue, 11 Aug 2026 00:50:00 GMT"
     },
     {
       "title": "交通事故データ",

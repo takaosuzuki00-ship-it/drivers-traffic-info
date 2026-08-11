@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-12T03:02:10.153977",
+  "generated_at": "2026-08-12T06:45:45.702109",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 24.8,
-    "temp_max": 25.3,
-    "temp_min": 22.8,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.9,
+    "temp_max": 25.1,
+    "temp_min": 22.9,
     "precip_prob_max": 92,
-    "precip_sum": 10.2,
-    "wind_speed": 5.9,
+    "precip_sum": 2.0,
+    "wind_speed": 5.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.3,
+        "temp": 25.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.8,
+        "temp": 24.5,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 23.5,
-        "weather": "弱い霧雨",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 12
       },
       {
         "time": "09:00",
-        "temp": 23.2,
-        "weather": "弱い霧雨",
+        "temp": 24.3,
+        "weather": "曇り",
         "precip_prob": 37
       },
       {
         "time": "12:00",
-        "temp": 23.2,
-        "weather": "弱い雨",
+        "temp": 24.4,
+        "weather": "弱い霧雨",
         "precip_prob": 92
       },
       {
         "time": "15:00",
-        "temp": 24.7,
-        "weather": "弱い雨",
+        "temp": 23.9,
+        "weather": "弱い霧雨",
         "precip_prob": 61
       },
       {
         "time": "18:00",
         "temp": 23.7,
-        "weather": "弱い雨",
+        "weather": "弱い霧雨",
         "precip_prob": 35
       },
       {
         "time": "21:00",
-        "temp": 23.0,
-        "weather": "晴れ",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 35
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
+      "date": "Tue, 11 Aug 2026 20:18:45 GMT"
+    },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
@@ -75,7 +80,7 @@
       "date": "Mon, 10 Nov 2025 05:20:33 GMT"
     },
     {
-      "title": "移動オービスは赤く光る？ 白く光る？ 福岡県警も教えてくれた、これがみんなが気になる移動オービスの光り方！【交通取締情報】 - motor",
+      "title": "移動オービスは赤く光る？ 白く光る？ 福岡県警も教えてくれた、これがみんなが気になる移動オービスの光り方！【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNei1Pb09kQWdRTkJLSHM4a2ctd0VaR2VCOTNleFFPSWY2RXhoTGJTMEZFTExjTFFhWHlIbUhFa2ExYmdrQTRCTGwwOUpqdw?oc=5",
       "date": "Wed, 10 Jun 2026 09:37:52 GMT"
     },
@@ -83,38 +88,33 @@
       "title": "岐阜県中津川署が可搬式速度違反自動取締装置で初めて速度取締り",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96elFnRThOYnFJc1JlN0ViOUJON1lnalYzY0JKQ0x4em1mNGpfQ2g1NWpBRTNrNDVxZ3JWbkJsRVJCS1VYZlRtcGpRcmhrVHVjd1JOclpDTWd4bVE?oc=5",
       "date": "Fri, 12 Jun 2020 07:00:00 GMT"
-    },
-    {
-      "title": "麻薬及び向精神薬取締法違反被疑者の逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uYm1ISEZvM2VOQTcyQTZBVUtKcmxSRkx3cmVDZnNSUGs4NUR0bndnSlV1ZWZXYXhXZ0tXVGJHeV9uR1gwQncxT1Ywd2s1My00VjNNMDc1MDlIbVNBZEJXMzR3WQ?oc=5",
-      "date": "Tue, 30 Sep 2025 05:54:23 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "羽島で交通死亡事故 93歳女性が搬送先で死亡",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YMEJkcFdiZnVPTEV5QThMamNzOGk4cXZjaGdya2JjY2taZlRwMldYZmJiUTQ1Vk5uNUJCWldqeW1RZ3N1TGtMT3R2STdZNzJ4ZUxZOQ?oc=5",
-      "date": "Mon, 10 Aug 2026 13:09:26 GMT"
-    },
     {
       "title": "交通事故発生状況（7月末現在）",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vR2xwM3pnUVJlcDdIRG1VUmRrejlFSUM0a0NvZ1dfUjh0d1l1NDB2MkItd1lYeG53am9uVkJoYTBhSVN2aTllSkhldFB6b05qTEgtOHpET3R0dUhxbzRaaC1MRQ?oc=5",
       "date": "Fri, 07 Aug 2026 09:22:15 GMT"
     },
     {
-      "title": "国道２１号、速度超過で交通事故多く 岐阜県警などが一斉取り締まり",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdGZ4RjBOYjJSZnQ2OXNXdFVwUTdHSU9fMkk4ZTRsRlpJQ1ZIaUREMFRndTJ1aDR0R3lKSzVOTXhteklPd1lRYU1nN25JZWNwMkNQdzFB?oc=5",
-      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+      "title": "羽島で交通死亡事故 93歳女性が搬送先で死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YMEJkcFdiZnVPTEV5QThMamNzOGk4cXZjaGdya2JjY2taZlRwMldYZmJiUTQ1Vk5uNUJCWldqeW1RZ3N1TGtMT3R2STdZNzJ4ZUxZOQ?oc=5",
+      "date": "Mon, 10 Aug 2026 13:09:26 GMT"
     },
     {
-      "title": "【交通事故死者2026】岐阜県で多発傾向［8/10］9日間に4件4人",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vbU9YSmNkb0FLTi1DNUcyWldVOFRpNWZwYjZ3N1NEcGRpT0tDSThLTTU5akREN3JQYWZjMHE4dTVkUmVQMVJoaWNqZ3VPMy0zTHpPQTJhYjlwb1pHVEU0?oc=5",
-      "date": "Tue, 11 Aug 2026 01:00:00 GMT"
+      "title": "岐阜・瑞穂市の国道２１号で車同士衝突、炎上 酒気帯び容疑で男逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBaHRaMjNEYTVTWkl3UlBkNDc3Y0kzX0dZMzVuSjl4YjkxZTBmQ2Y4dTYwbGhQSTFvczRqd08zYkp1U2VJS2hLRUYtSDNFWHFkam1PSUpn?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "三重と岐阜で水難事故相次ぎ 男性2人死亡（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10eDMxU3I5Q3hDYkNMclJPbU9oR0F4enE5QkxhckZGMGFqRk9fNGluQktJVU5pV2EtcmFrN1BidFR3czFmMEVBRE1xVk9sbjFGdFVNLXRzbm9HMVpHa29vUkx1eG1SZUpJSGdDcVZQU05EQjFheGk0dnZxaXg3LVk?oc=5",
-      "date": "Tue, 11 Aug 2026 16:09:48 GMT"
+      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【大垣警察署】交通死亡事故発生について",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ma194MW9MVFVMOFBvd3ZERGNsZms2NjVfb3NBZldCenViZXRZa1I4VzFYMm52Ymt1RkE4OWZxV3I0QjdWME9rQnF3UllfWmZySTM3d3VyNnZHMGhFemtLc0tCc0s?oc=5",
+      "date": "Wed, 05 Aug 2026 09:47:00 GMT"
     }
   ],
   "official_links": [
