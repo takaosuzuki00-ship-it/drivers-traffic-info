@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-12T07:10:07.975642",
+  "generated_at": "2026-08-12T09:55:34.566504",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 22.2,
-    "temp_max": 28.9,
-    "temp_min": 22.2,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 26.5,
+    "temp_max": 29.2,
+    "temp_min": 22.1,
     "precip_prob_max": 100,
-    "precip_sum": 4.1,
+    "precip_sum": 7.5,
     "wind_speed": 6.0,
     "hourly": [
       {
@@ -21,58 +21,63 @@
       },
       {
         "time": "03:00",
-        "temp": 23.4,
+        "temp": 23.1,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 22.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 0
+        "temp": 22.1,
+        "weather": "霧雨",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 24.5,
+        "temp": 25.2,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 6
       },
       {
         "time": "12:00",
-        "temp": 28.9,
-        "weather": "晴れ",
-        "precip_prob": 71
+        "temp": 28.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 28.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 29.2,
+        "weather": "晴れ",
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 27.2,
+        "temp": 27.4,
         "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
         "temp": 24.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "weather": "霧雨",
+        "precip_prob": 96
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
-      "date": "Tue, 11 Aug 2026 20:18:45 GMT"
+      "title": "８月９日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mcHN3X2JpOUxtVkdrelpUbkxwRkxILVBQd1lDTDl0RGRQRkY2ZWhDVU1QYmlTLU9ramxWWHUtVF9rcGUwN1B6c2dKUjcyTmE3V0NNcVRseC1OaDRHWXgwNXBRajZpUEgxam5qV0tRSlF6Z9IBd0FVX3lxTE9hWWJULTMzNnpEZ2plcl9EWkpnUTBUVlRoVFVsa1ZJRUE1dW9jMTlGSmZIQWNfNUk4YVZJNzVibmtKOWpWQlFJbzh5bFZUUlFJS29XYk9hVmY4YlB0cWJ4OWVtN3lQQk91UFlQcVVRQjIyb2g1MXNz?oc=5",
+      "date": "Sat, 08 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
-      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
+      "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15YUFCOHFDNmhEOHhYeWF4aGUwemkwMmRSczhUZENEYndyTUdEQ09heEwtVjN5TmgxYmtDbFYwb0xOU016NFlGbGV0a0k2RkNDdDBwX3U2YW90Q00tTUJwQkVLdVJOUVFuZk5xdlV2Zk5sSEMzWGRz?oc=5",
+      "date": "Tue, 11 Aug 2026 05:08:31 GMT"
+    },
+    {
+      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNGNTMlBCZ3lORF9yZ0pMdmVtX2ktV1JrU3JTZ3pFMW1LR3JwUkJISVMtNU5IRlktRVlhNVRzbUlaNmdnaWpVNEFLQUZQTkEwSk9tYXl0Q1c3WmZqZEJ0RkpsdDc3VzNwS2dRVGhoNkJyS1l3eTNnZnJIYVJqZWs?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -80,14 +85,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "衆院選 選挙違反取締本部を設置 選挙違反に目を光らせる 岡山県警",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13STJrbXViX1V1ZUZSQlVid3NHZkt3T3cwZFBhYW4zNzdEQjJyRkN2RHI3VGFlSnc4SFJoWTRwaHhMUUFzU1g3bVY1NjdtUk5OaHc?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
-      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+      "title": "指名競争入札の予定価格を漏えいか 岡山県新見市職員の男ら２人逮捕 官製談合防止法違反と公契約関係競売入札妨害の疑い",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNY1loMks3SmdxVkI1ZnJER0tiUnhUVDNCTmtmblBpdk9GeXRzS0UwazB6UldubjJ4amxqV2g4YTYyQVAweWNmcjBSVl8yODBzemtYd294SkVTRDNrVExGWGxmemV2VWxzNmV5RzNqMDnSAXZBVV95cUxQQ1c4ZXJyUWFBb25qMnUwQktwV0YybVFTejczbjFUbzJKYW1LWnlkT1RUUHhTTkVVeTk0NWJ1V1dZRExSTms2TnFIaTFidDVKbFhzR3VVS2lrOV9wS2FnQmdGRTFmZUN6TGwwSDRhSDhTUzJJdU1B?oc=5",
+      "date": "Thu, 06 Aug 2026 00:43:00 GMT"
     }
   ],
   "accident_news": [
