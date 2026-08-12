@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T03:10:24.653648",
+  "generated_at": "2026-08-13T06:02:01.666500",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 21.7,
+    "temp_now": 21.3,
     "temp_max": 29.7,
     "temp_min": 21.2,
     "precip_prob_max": 100,
-    "precip_sum": 1.2,
-    "wind_speed": 1.1,
+    "precip_sum": 1.0,
+    "wind_speed": 2.2,
     "hourly": [
       {
         "time": "00:00",
@@ -21,26 +21,26 @@
       },
       {
         "time": "03:00",
-        "temp": 21.7,
+        "temp": 21.5,
         "weather": "晴れ",
         "precip_prob": 49
       },
       {
         "time": "06:00",
-        "temp": 21.6,
-        "weather": "快晴",
+        "temp": 21.3,
+        "weather": "晴れ",
         "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 25.4,
-        "weather": "快晴",
+        "temp": 24.8,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.3,
-        "weather": "弱い霧雨",
+        "temp": 28.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 75
       },
       {
@@ -51,7 +51,7 @@
       },
       {
         "time": "18:00",
-        "temp": 27.3,
+        "temp": 27.4,
         "weather": "晴れ",
         "precip_prob": 100
       },
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
-      "date": "Tue, 11 Aug 2026 20:18:45 GMT"
-    },
-    {
       "title": "8月9日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IS1c2S0pRX082T2h0QWhUajFUYW5IVllDOV9XY0FHeE1zcU96MVhQS0c4OEU2VmFvQVZSTWFLanhwLTNRSmJVN3ptby1oakFJdzNlY2w5QQ?oc=5",
       "date": "Sat, 08 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
+      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
@@ -80,9 +80,9 @@
       "date": "Tue, 26 May 2026 07:00:00 GMT"
     },
     {
-      "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DQjFjamJWU3BwNi0wdmc0c0RRdzBzalNhblFNYUQ3VTBJLXAwVWRKaDlyMVpTM0NfZE9fVHNEWHhyODNHTllaVWcwYi1NM29Sa0hHNGFMQk1oTHptYV82c1lkUUNnY0JxdmptaEJLSdIBdEFVX3lxTFBkUkdhY0JENUFHOW8xLUFBaTEwXzV0MkZiVTRZLU5kM0hIMjIzdzdMUmI1elhQRzZObUVDZURkaFJUNVNuaDZ1SGRPSzNrR3Y4cFBsdWxiMUdlbHZySHlHczUzS2l3bHhaMG5yNEFqdVJUYXk5?oc=5",
-      "date": "Tue, 11 Aug 2026 20:10:49 GMT"
+      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
+      "date": "Tue, 11 Aug 2026 20:18:45 GMT"
     },
     {
       "title": "8月5日（水）【岩手県】 日中・夜間の交通取締情報",
