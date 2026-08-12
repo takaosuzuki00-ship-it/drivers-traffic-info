@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-08-12T21:20:35.097382",
+  "generated_at": "2026-08-13T00:21:26.127889",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 22.7,
-    "temp_max": 25.7,
-    "temp_min": 21.6,
-    "precip_prob_max": 100,
-    "precip_sum": 12.7,
-    "wind_speed": 2.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.0,
+    "temp_max": 27.9,
+    "temp_min": 21.4,
+    "precip_prob_max": 43,
+    "precip_sum": 0.9,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.3,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 22.1,
+        "weather": "快晴",
+        "precip_prob": 8
       },
       {
         "time": "03:00",
-        "temp": 21.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 96
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "06:00",
-        "temp": 22.3,
+        "temp": 22.0,
         "weather": "弱い霧雨",
-        "precip_prob": 94
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 25.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 96
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 24
       },
       {
         "time": "12:00",
-        "temp": 25.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "15:00",
-        "temp": 23.5,
-        "weather": "強い霧雨",
-        "precip_prob": 82
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 27
       },
       {
         "time": "18:00",
-        "temp": 23.4,
-        "weather": "霧雨",
-        "precip_prob": 25
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
       },
       {
         "time": "21:00",
-        "temp": 22.7,
-        "weather": "霧雨",
-        "precip_prob": 16
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DQjFjamJWU3BwNi0wdmc0c0RRdzBzalNhblFNYUQ3VTBJLXAwVWRKaDlyMVpTM0NfZE9fVHNEWHhyODNHTllaVWcwYi1NM29Sa0hHNGFMQk1oTHptYV82c1lkUUNnY0JxdmptaEJLSdIBdEFVX3lxTFBkUkdhY0JENUFHOW8xLUFBaTEwXzV0MkZiVTRZLU5kM0hIMjIzdzdMUmI1elhQRzZObUVDZURkaFJUNVNuaDZ1SGRPSzNrR3Y4cFBsdWxiMUdlbHZySHlHczUzS2l3bHhaMG5yNEFqdVJUYXk5?oc=5",
-      "date": "Tue, 11 Aug 2026 20:10:49 GMT"
+      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MdTRSWVQwTmticTFZWmhhNmI5WHh5cVlqSkh6VUtWSjJUR2IyWGJkY3c4T0RlbC1XY1hMWWFQTzBIbFNPYUpHS1lKZUNxemxwWDhVSk1Od0dtd0Rpb2RSSFhRZUFleUFQQ2owSHg0dERGUdIBd0FVX3lxTE9fMmtqM19MMktfWDQ1RXdMV3VuRkdiQ3luamlwc01QRHZWWXlzQ01ScFRVTk1JLVhqcl9VRmhZQ3BQZGI5WXUyZ25nRF9ra2JCdFNZdEpvRjY5TDFmT1pNeHU1VXBzbGktVUhoRTNGbllKcGdjVllr?oc=5",
+      "date": "Wed, 12 Aug 2026 00:26:40 GMT"
     },
     {
-      "title": "8月11日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTXVDaFRkM2RWRmYyNk1MQTlmMllyRllyTVRFa2dXMERROElBZS1NZU9wODh0NXlETjBucVZVS2RRSDBEY3BhcEJVa2J2RldfWm9lR1Fselp3VmN3X21qbWRiYkZ1b1JqWjdBT2M0Z9IBdEFVX3lxTE5yRjR2bEp6aFlwbXI2T2NVVW5CY2oyUEg5cXI4YVFuSnB1QUxRel9HcHIyTllXX3NUN1ZQY3ZEQi00cTBGYnZVN1phUXppU1lBYmUzSVgwX09XWEdnRzcwZWNCMExURFAxMWFvV2d3WFBWbXVZ?oc=5",
-      "date": "Mon, 10 Aug 2026 20:56:05 GMT"
-    },
-    {
-      "title": "交通違反の取り締まり→無免許が発覚 24歳の男を現行犯逮捕（山形市）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlV2tUc1NuUHRDOHVCY29lMHJ6QXRGUG5ETTVzWU9xQlhfZWlSSzlpWmpTQ0wzc19fZUp6UTJHaVNTY2dmbHFuYnhjQk5kNURaTlNVN0g2V1cycW42R2lWZnBoZjM5bVE?oc=5",
-      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
+      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月２２日",
@@ -85,9 +80,14 @@
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1lsT1lnQlZ5MkNlSHNvLXNwcjJ3bmNqT2s3UTRPOTZob1RrZkpzaTQycm42U25rSzdLRnJLQW1oVy1CRkNSTG1ObWZvcDZKQnVaTm43WUgyNk5lMl9uQ1l0YnprRWlweXc3REV0MXU2VGcxUEYtdlVUam1LdEZwcWRHSWNHR3h3MTZjWTZ1QXF0aEdhendtaDBNVVhVOFpDUzB5X05qZV9fOEtMQzhPOW1HWmlFbXRzMXA4a3V1d0xuUFRLd3lz0gF3QVVfeXFMUHJqRjNjbjdMNWJYUmdkMVAxakpMRHF0aXBDZ00tUEpkNWRvdnRRWFlFR1plSkF0a0JfUmdYWlQ5aVBJcVE0MTdBX3lkb2FiVkJyaUlfYlR6ZkdzMjhReXJMUUxYUjVGd2NVM2NCLUlRSzhKLVA3ajg?oc=5",
-      "date": "Mon, 10 Aug 2026 20:09:38 GMT"
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "犯人が逃走中・山形県上山市で発生の強盗事件、警察が検問も（2025年12月2日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTUxVlJScmtCeUZKV2lWWmozSXZoRW5xbVo1Nm11UXRUOC1NUmM0cXNpbE5NaV9vcXhvRFZibnhDTDFVZzlfc3lhMy1jTmtFdU5fYkhhQVRqRld2akxsRFp1VDllNWs4VkNkUURIb1FLMFE1MFE3UEFwczVJQUlzR19xODlPeFU?oc=5",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,9 +97,9 @@
       "date": "Fri, 07 Aug 2026 11:44:00 GMT"
     },
     {
-      "title": "山形道・笹谷トンネル内で4トントラック同士が追突 現場一帯で約6時間通行止め（2026年8月5日掲載）｜YBC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOamdNZUtSQkFEYXNkLWl6SE1EN1ZGY3Y3U0dpWjk4V1NPWGl5bmVMa3hNVWFPTUVTZk9mX1QyZTlNRVpLbUNqTHFhLXpZR2dfbFZBYnB5a1AycHNpU2dodUxCejN1Wk5PdnVseUd0M215ZzBNQzVCdnIxT3ZVdkxHTEp0TFNJbm8?oc=5",
-      "date": "Thu, 06 Aug 2026 02:15:00 GMT"
+      "title": "子どもたちの交通事故防止を支援 自動車保険会社が山形市に100万円を寄付（2026年8月3日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3p0S1VJV0xRcWwza2w2WXFXbXNHNVdVc2J6Z0Y1YVplelljaUVMR25FNHVzS01PWkFBZEd4eGdlXzB2UXNJeEtjaUdYWUpOU3NIa2pZVzRjYllmdVJvQXpfQzd3UUktY2xJcEhBT2tFVWRZQWJaOUY4TmJZQW5OYjIxa2lVZjQ?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "山形が新加入選手の交通事故を報告…双方に怪我はなし (ゲキサカ)",
@@ -112,9 +112,9 @@
       "date": "Sun, 09 Aug 2026 08:35:00 GMT"
     },
     {
-      "title": "「人が浮かんでいる」山辺町の沼で70代男性が死亡 公園の沼、海水浴場、川...県内で水に関わる死亡事故相次ぐ（山形）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrVkMzc3RLWXlXWHIxRVZzb1gwU3ZuVm1wQ2FWdkFRN0tXWUJoN25teUpNU2txZTBETTJlYlljMzFuVjhlVkVKYjFhVVBfZ2ljcEFhQTU1ZmdHSWlfRlJHN2t3RV9UNVE?oc=5",
-      "date": "Mon, 10 Aug 2026 10:25:00 GMT"
+      "title": "相次ぐ水難死亡事故 海水浴場で74歳男性が死亡 池や川でも高齢男性2人死亡 山形県内で3件発生",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzk3M1BjVDNVemtKYmxnVnlrOTR5VDhVLVNhak16eTctSFJmWFFMUS1uc1ZHZ3RDc2pEV2x2RnVXRjhsRTNuUm1sWW5xNVh2b3hLMlUxWVBHLUJyMW0tRmY5WjNEUFhaYm1RRXpwel9pMmRsdzBscl9jRk1PMG1LZFNfRWtjQU0?oc=5",
+      "date": "Mon, 10 Aug 2026 08:44:00 GMT"
     }
   ],
   "official_links": [

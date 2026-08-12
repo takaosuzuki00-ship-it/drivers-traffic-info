@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-12T22:32:46.531238",
+  "generated_at": "2026-08-13T01:33:32.975234",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.7,
+    "temp_max": 29.0,
+    "temp_min": 24.7,
+    "precip_prob_max": 63,
+    "precip_sum": 0,
+    "wind_speed": 3.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 35
+      },
+      {
+        "time": "15:00",
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "18:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "21:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 31
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報",
@@ -21,14 +80,14 @@
       "date": "Mon, 10 Aug 2026 20:56:05 GMT"
     },
     {
+      "title": "自転車の「青切符制度」 宮崎県内で初摘発 違反行為は\"スマホのながら運転\"反則金は1万2000円",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVV3Nobk1LRUpTbkFtNmtsdzNkdWFGa2ZmYXJkUThHM2lZS0VJczQ5X1lfNFpGQWxEc3FNNk95QVFBcTBKSlhyS0g1cDRZLXg3YTBFNFBscDlkaWZINnluclJTSjRsM00?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
       "date": "Fri, 03 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -49,7 +108,7 @@
     },
     {
       "title": "所属スタッフの交通事故について",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUc2hqM2NSYURwaEJqa2F0enBlWjZRaHhNV0xjcjZCYWdPZ2p1VkVkd2cyTjREdmZZS3ZYampKVUgzWVdzNjF0SFFxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd1QwdnpMeUgtbFdZN0Y2TTBmSl9oVEh3RmpTd3RVc2lmZHo3UHRpWjJTWTVONnN1MXVlbXRJZnFFVnJtVkE?oc=5",
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {

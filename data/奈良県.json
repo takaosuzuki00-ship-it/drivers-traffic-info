@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-12T22:00:42.079147",
+  "generated_at": "2026-08-13T01:01:47.808869",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
-    "code": 63,
-    "weather": "雨",
+    "code": 55,
+    "weather": "強い霧雨",
     "temp_now": 22.5,
-    "temp_max": 26.1,
-    "temp_min": 21.9,
-    "precip_prob_max": 99,
-    "precip_sum": 17.4,
-    "wind_speed": 3.3,
+    "temp_max": 26.8,
+    "temp_min": 22.0,
+    "precip_prob_max": 90,
+    "precip_sum": 6.3,
+    "wind_speed": 4.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 22.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
       },
       {
         "time": "03:00",
-        "temp": 22.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 0
+        "temp": 22.0,
+        "weather": "霧雨",
+        "precip_prob": 76
       },
       {
         "time": "06:00",
-        "temp": 22.0,
+        "temp": 22.2,
         "weather": "弱い霧雨",
-        "precip_prob": 57
+        "precip_prob": 59
       },
       {
         "time": "09:00",
-        "temp": 22.9,
-        "weather": "弱い雨",
-        "precip_prob": 78
+        "temp": 24.4,
+        "weather": "曇り",
+        "precip_prob": 24
       },
       {
         "time": "12:00",
-        "temp": 26.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
       },
       {
         "time": "15:00",
-        "temp": 25.2,
-        "weather": "強い霧雨",
-        "precip_prob": 98
+        "temp": 25.3,
+        "weather": "霧雨",
+        "precip_prob": 84
       },
       {
         "time": "18:00",
-        "temp": 23.3,
+        "temp": 24.2,
         "weather": "弱い霧雨",
-        "precip_prob": 98
+        "precip_prob": 80
       },
       {
         "time": "21:00",
-        "temp": 22.5,
-        "weather": "弱い雨",
-        "precip_prob": 84
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
       }
     ]
   },
