@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T15:03:20.477981",
+  "generated_at": "2026-08-13T18:03:42.559386",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 27.4,
-    "temp_max": 29.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.9,
+    "temp_max": 29.5,
     "temp_min": 24.1,
     "precip_prob_max": 100,
-    "precip_sum": 1.0,
-    "wind_speed": 2.1,
+    "precip_sum": 0.8,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
@@ -45,8 +45,8 @@
       },
       {
         "time": "15:00",
-        "temp": 27.4,
-        "weather": "霧雨",
+        "temp": 29.1,
+        "weather": "弱い霧雨",
         "precip_prob": 98
       },
       {
@@ -57,8 +57,8 @@
       },
       {
         "time": "21:00",
-        "temp": 25.8,
-        "weather": "晴れ",
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 18
       }
     ]
@@ -92,9 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "松山道・横転事故で子供２人含む３人重軽傷 伊予ＩＣ～大洲北ＩＣの上下線で一時通行止め【愛媛】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sdTVVVF9vb3d2Q00yNFY0blg0Y0dyNE43RHpXTjk2NWNiZU0ydlBJSS02MWZRcFFGTlY5VUtPUTNqd204UnlFWnptaWRsdw?oc=5",
-      "date": "Sun, 09 Aug 2026 09:08:00 GMT"
+      "title": "新居浜で横断歩道渡っていた高齢女性はねられ意識不明の重体 軽ワゴン車を運転していた男を逮捕【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nODNmaXk3Q1NjZFBhcFJuMVo2WGlaRGN2VnY5MDNZeHkwRzhIcEQ5M2hrWUZ2SHp2WTZiZHRKaFBuN0pTNGFyeGRoekwzdw?oc=5",
+      "date": "Thu, 13 Aug 2026 07:18:00 GMT"
+    },
+    {
+      "title": "新居浜で横断歩道渡っていた高齢女性はねられ重体　軽ワゴン車を運転していた男を現行犯逮捕【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WN0x3Ym1BVXdGUzVFNllqQ2tFdDBmZmc2VUw3WEJzYjdwUHRDTHZJYjJxSG5PVEJlU1J4QW1IMmhGaDJDWWhUV0ZRUU5ULVpoaG5Wa1lqWDByZjVQTkFsTDJ6aE1PQ0FVQ3VLUWVER0hmSHN2TURzRHQwenrSAXxBVV95cUxPVjdMd2JtQVV3RlM1RTZZakNrRXQwZmZnNlVMN1hCc2I3cFB0Q0x2SWIycUhuT1RCZVNSeEFtSDJoRmgyQ1loVFdGUVFOVC1aaGhuVmtZalgwcmY1UE5BbEwyemhNT0NBVUN1S1FlREdIZkhzdk1Ec0R0MHp6?oc=5",
+      "date": "Thu, 13 Aug 2026 07:18:00 GMT"
     },
     {
       "title": "【速報】松山市でバイクと車の事故 １人意識不明【愛媛県】（eat愛媛朝日テレビ）",
@@ -105,11 +110,6 @@
       "title": "中日嶋ヘッドコーチが交通事故",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VRTJ6Ymp3NHl2RkZvTGhRQXV3VG9qWWZ6dVpoYXo3NzRLcS01QWtSTmVCS3V2TmlmLTZFM1ZJVmJfUXdfUUpGTlNNeFlzSjhib2pCRERzVlRqdVJCdTN6Wl94dUlHZw?oc=5",
       "date": "Mon, 10 Aug 2026 14:27:11 GMT"
-    },
-    {
-      "title": "【交通情報】松山自動車道、事故のため大洲IC−伊予IC間が上下線とも通行止め　※午後14時10分現在",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HaEo5S0ZBU3NzZmx0VE5aTEpPWXNaaDB5cXZocWNsaXBJbkc2MWJzaUpWOWxncklWRktvZF9CX0RRLUVDZm9LTDZObWtQOVo1U0U2eTZ5VzIyMEZkeXFvckN4TWcxQlhOV0REYk00cGdkdDZPLWRxLUpXY9IBgAFBVV95cUxPdENvN0l2bFJZT0tUZjJjcUhENkNnVTNZTmpGTHFqTmwyUFp3WU00ZE9iRGhBdk5BdDVBdzdOWHBPc2xYa3hDQmF5U05PbVpIcHZicEVWRG5BRGtsdVVaMEZ0VWRIVUhuSlRRT0cxSElTQ2RQUHd6emZ3VHYweHdlRQ?oc=5",
-      "date": "Sun, 09 Aug 2026 05:27:00 GMT"
     },
     {
       "title": "エンジンかかったままギアはニュートラル…ミカン畑でトラックと木に挟まれ69歳農家男性が死亡 愛媛・宇和島市（あいテレビ）",
