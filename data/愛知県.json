@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T09:02:53.560472",
+  "generated_at": "2026-08-13T12:02:10.844727",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 24.0,
-    "temp_max": 29.7,
-    "temp_min": 22.9,
-    "precip_prob_max": 100,
-    "precip_sum": 15.0,
-    "wind_speed": 1.3,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 28.3,
+    "temp_max": 29.0,
+    "temp_min": 22.6,
+    "precip_prob_max": 96,
+    "precip_sum": 4.9,
+    "wind_speed": 5.8,
     "hourly": [
       {
         "time": "00:00",
@@ -27,52 +27,52 @@
       },
       {
         "time": "06:00",
-        "temp": 23.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 80
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 88
       },
       {
         "time": "09:00",
-        "temp": 24.0,
+        "temp": 24.6,
         "weather": "弱い霧雨",
-        "precip_prob": 61
+        "precip_prob": 45
       },
       {
         "time": "12:00",
-        "temp": 27.3,
-        "weather": "曇り",
-        "precip_prob": 55
+        "temp": 28.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 43
       },
       {
         "time": "15:00",
-        "temp": 29.7,
-        "weather": "曇り",
-        "precip_prob": 92
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 88
       },
       {
         "time": "18:00",
-        "temp": 26.6,
-        "weather": "弱い雨",
-        "precip_prob": 98
+        "temp": 27.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 25.0,
-        "weather": "霧雨",
-        "precip_prob": 65
+        "temp": 25.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "8月13日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtLWxLZ3N6cGFPMk9JalBxRDZsWUNqQzQ4ak9GOVBMc24tZUE1RnBKNjJzOTlIQnlsNEtPOXR5SDVuT0NmdUVRLXFlVVdRdXZxM2NwQUtUU2l3RzY1WDg1STBqMUk4NnNabUpSS3FrWdIBdEFVX3lxTE1ROE94TVhEM1VIazFFRGtZTEhLanZHWWV6YWlnS2Z2NUZWMWFvdWc2emtnTTE3U1c4cC0wdjdEeTR5bTdidS1MZzkyZHVmU3E0dUJRSS1VRlhHdGRRTFlIMW5PRHRRNVhuWG1wQTdjN3Vacm5Q?oc=5",
+      "date": "Wed, 12 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
       "date": "Tue, 11 Aug 2026 20:18:45 GMT"
-    },
-    {
-      "title": "８月８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aams0MWFyNkJqOUc3UkU0WFdSUU82VVRyNERzeUlnekxwM0wzV3NiMlN0ay1iNHF2YzJwSGxjSkZZMDV1M3RvVXloQ0ZiVkNoTGkwamRDbWQ3WGkxSUFham5BYngwSG5SeFRwcG5yWi1md9IBd0FVX3lxTE05QXRvcFhPODBQeWJTbHo1X2pwdmpMTURNUHRMdzYzb2hrVXRFQ3laUmp2ZGJjQWgyek5LRFBYNHNMa3l4aVBqdjROOEFZN3dQUkxRZjYtYUFwUkZJSG9RUlZJdXZvVTZlaXNZOWEteGtPbGxHT2E4?oc=5",
-      "date": "Fri, 07 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "〈社説〉交通取締の不正 法執行の原点に立ち返れ",
@@ -107,14 +107,14 @@
       "date": "Wed, 12 Aug 2026 02:54:00 GMT"
     },
     {
-      "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "11歳女子児童がはねられ意識不明の重体 愛知・新城市で軽自動車と衝突（メ〜テレ（名古屋テレビ））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMUVTVUZHUUZoZFRaakdYSHNic2EwZUh2dzdQOU5hMjdEb2lnR1BIdi1CSXpRRXNKbmZMcnNVSkFydVIzZlBaYjFMcHZsQWIzMEFlZ1dXRnpDNDgwUmYtaTM5czliQzFOV25iaU1aWmltNmxMYkxEUXMxdS1mVjg?oc=5",
       "date": "Sun, 26 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
