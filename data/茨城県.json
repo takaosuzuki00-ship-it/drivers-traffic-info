@@ -1,83 +1,83 @@
 {
-  "generated_at": "2026-08-14T00:01:32.225414",
+  "generated_at": "2026-08-14T03:01:02.763788",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
+    "code": 63,
+    "weather": "雨",
     "temp_now": 24.1,
-    "temp_max": 25.6,
-    "temp_min": 23.3,
-    "precip_prob_max": 84,
-    "precip_sum": 17.9,
-    "wind_speed": 7.0,
+    "temp_max": 24.9,
+    "temp_min": 23.4,
+    "precip_prob_max": 94,
+    "precip_sum": 36.8,
+    "wind_speed": 6.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.1,
+        "temp": 23.9,
         "weather": "弱い霧雨",
-        "precip_prob": 80
+        "precip_prob": 94
       },
       {
         "time": "03:00",
-        "temp": 23.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 24.1,
+        "weather": "強い霧雨",
+        "precip_prob": 80
       },
       {
         "time": "06:00",
         "temp": 24.0,
-        "weather": "霧雨",
-        "precip_prob": 76
-      },
-      {
-        "time": "09:00",
-        "temp": 24.9,
-        "weather": "強い霧雨",
+        "weather": "雨",
         "precip_prob": 82
       },
       {
-        "time": "12:00",
-        "temp": 25.5,
+        "time": "09:00",
+        "temp": 24.6,
         "weather": "弱い雨",
-        "precip_prob": 78
+        "precip_prob": 84
+      },
+      {
+        "time": "12:00",
+        "temp": 24.9,
+        "weather": "弱い雨",
+        "precip_prob": 71
       },
       {
         "time": "15:00",
-        "temp": 25.0,
-        "weather": "弱い雨",
-        "precip_prob": 59
+        "temp": 24.7,
+        "weather": "雨",
+        "precip_prob": 47
       },
       {
         "time": "18:00",
-        "temp": 24.4,
+        "temp": 24.3,
         "weather": "弱い霧雨",
-        "precip_prob": 27
+        "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 23.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 16
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 41
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib1hEdXdBSTJteV9PMkhOQjhfdW5ZR2UzS3pZMnpLTmhscmZXMTBrR2NmbzNRWGg0cGtvYjVadjNzSkNQWjJwRVBFcVVOWmZYM29PenZvMnVoZFU?oc=5",
+      "date": "Tue, 11 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "きょうの交通取締",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XamNhNGZ0Y1h5VFhDV1lfUG1XYUJ6bHlNUlBJWkxvNFpiSGlUQjZaNjNnZjVQQ1BHZ2VPT09Kd1VfV1d1WXZVSGVORzc5RnNNSVVJZ1hVYzlIT3VIS0tiU251Xy16NVJkWXlfNE9lLW1tdkE?oc=5",
-      "date": "Sat, 08 Aug 2026 21:11:41 GMT"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Zb3lvUUVVcXJKRDNDX1pHMlJianN3M19QMndKdnREUFB3dHdqQ0VBcXVGa0U4NFo4a0NIWGx6Q3F3aGpCU2NEMExWbGhGUC1WWXpNTGk2OWpZNG5QVFVqNnFmT0M2UmxTX21QSFNqQkZ3OXc?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "８月１２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGJPNmI0NHpEbDZzLWtWdnE4bWh4UlR6TlRoTVd3bm5IT1U4T3hzNXp2RTdXRU8zR0FqQU45UVNKdEtyWTRSZWZleFYwbUZLN2FSdXJTVXpNTDVSaXV0anUwaWNaMzdIZFQxQUk0cnpqS1o5YVJEZHc5Y1d6TkpheU5sbWh6ZXR1WGcyUVBwYjA5M1hHVWNZSTNQWjJqdmZsV2xwTHNwWV9pSW1nX1BTN1pQb1MyOTBORGJDM1lYT2EwRVBNSW5B0gF3QVVfeXFMT18ya2ozX0wyS19YNDVFd0xXdW5GR2JDeW5qaXBzTVBEdlZZeXNDTVJwVFVOTUktWGpyX1VGaFlDcFBkYjlZdTJnbmdEX2trYkJ0U1l0Sm9GNjlMMWZPWk14dTVVcHNsaS1VSGhFM0ZuWUpwZ2NWWWs?oc=5",
       "date": "Tue, 11 Aug 2026 20:18:45 GMT"
-    },
-    {
-      "title": "８月１１日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMlc5Z2EyTmozLVFvTUF1Ykpnc2lOZUQ1SWtZdkFpelZuczY4WElQbnA3UGcwcXZHQThUUTRXRDVxc3dhd2w1LWVTaER0Wm9vVmI5LW1WMEdGdXhZSE1aeUNQS0s2MWU1dUxRV2VWaW1nZ9IBd0FVX3lxTFByakYzY243TDViWFJnZDFQMWpKTERxdGlwQ2dNLVBKZDVkb3Z0UVhZRUdaZUpBdGtCX1JnWFpUOWlQSXFRNDE3QV95ZG9hYlZCcmlJX2JUemZHczI4UXlyTFFMWFI1RndjVTNjQi1JUUs4Si1QN2o4?oc=5",
-      "date": "Mon, 10 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "茨城県警が夜間の大規模検問 悪質危険な運転者の取締り",
