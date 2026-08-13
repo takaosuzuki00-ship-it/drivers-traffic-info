@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T06:00:38.316683",
+  "generated_at": "2026-08-13T09:00:37.750717",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 23.8,
-    "temp_max": 29.3,
+    "temp_now": 27.5,
+    "temp_max": 29.4,
     "temp_min": 23.1,
-    "precip_prob_max": 29,
+    "precip_prob_max": 31,
     "precip_sum": 0,
-    "wind_speed": 7.4,
+    "wind_speed": 7.0,
     "hourly": [
       {
         "time": "00:00",
@@ -21,45 +21,45 @@
       },
       {
         "time": "03:00",
-        "temp": 23.1,
+        "temp": 23.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 8
       },
       {
         "time": "06:00",
         "temp": 23.8,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 27.4,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 29.3,
+        "temp": 27.5,
         "weather": "晴れ",
         "precip_prob": 4
       },
       {
-        "time": "15:00",
-        "temp": 28.6,
+        "time": "12:00",
+        "temp": 29.4,
         "weather": "晴れ",
-        "precip_prob": 20
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 31
       },
       {
         "time": "18:00",
-        "temp": 26.3,
+        "temp": 26.1,
         "weather": "晴れ",
-        "precip_prob": 29
+        "precip_prob": 10
       },
       {
         "time": "21:00",
-        "temp": 25.1,
+        "temp": 24.9,
         "weather": "晴れ",
-        "precip_prob": 10
+        "precip_prob": 14
       }
     ]
   },
