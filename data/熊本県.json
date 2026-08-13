@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:03:27.732892",
+  "generated_at": "2026-08-13T15:03:44.455399",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
@@ -7,11 +7,11 @@
     "code": 51,
     "weather": "弱い霧雨",
     "temp_now": 31.8,
-    "temp_max": 32.3,
+    "temp_max": 32.1,
     "temp_min": 24.0,
     "precip_prob_max": 65,
-    "precip_sum": 0.4,
-    "wind_speed": 4.3,
+    "precip_sum": 0.5,
+    "wind_speed": 9.9,
     "hourly": [
       {
         "time": "00:00",
@@ -33,42 +33,37 @@
       },
       {
         "time": "09:00",
-        "temp": 27.5,
+        "temp": 27.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 31.8,
+        "temp": 31.6,
         "weather": "快晴",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 31.9,
-        "weather": "晴れ",
+        "temp": 31.8,
+        "weather": "快晴",
         "precip_prob": 16
       },
       {
         "time": "18:00",
-        "temp": 29.4,
+        "temp": 29.3,
         "weather": "晴れ",
         "precip_prob": 65
       },
       {
         "time": "21:00",
         "temp": 27.3,
-        "weather": "晴れ",
+        "weather": "晴れ時々曇",
         "precip_prob": 47
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "8月2日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZmhnbzZfemJkVVdYUWl0Y2tQaGRuZ3BfQzh5UDQ0MmNpSkg5RkZGTElBWjR4SXlCVHpQcEdzNVU1NU9XUHlLNGl4a3ZIQzh2VlR2VXFvdU05Zw?oc=5",
-      "date": "Sat, 01 Aug 2026 20:02:00 GMT"
-    },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
@@ -85,6 +80,11 @@
       "date": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "飲酒運転の取り締まりを強化 阪神高速で飲酒検問 先月の飲酒運転による死亡事故を受けて 大阪府警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MbGhjZlA5SXptUmttTWRpcEFqcG5LbUtJNTl2bGI3dFVOYWM3eVE1WnpxenZTN2tmcFk1bERoTERiUVpuOFZrdXdrWV96alVsaVlyMDVqUXl6M0xWQXE1X1RZTEZrcnlLNmk1UjZURUd3b05YV2UxdA?oc=5",
+      "date": "Wed, 05 Aug 2026 06:15:51 GMT"
+    },
+    {
       "title": "【とぴっく・宇城市】 夏の行楽期を前に飲酒検問",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PU1VZNGRJZWxGelV0N2txM2ZJWGFwM0dUVVd4VVZuRF9YU1A3LTB2QVNLV2hUY0FqNUhNU1RqdHYtR2pVLXNsRkJQMTlNWGs?oc=5",
       "date": "Sun, 19 Jul 2026 07:00:00 GMT"
@@ -92,14 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "南九州自動車道で自損事故の男性　車外に出たところ後続車にはねられ死亡　熊本・芦北町",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVNIYmNHZFJ0VnotbmZjbmJrdkVnSlJjenQzYjJmS3hLcG9KZlF5aS1JVkdSUDI2QTV3aHc2ZXpCcmxwRjM4Z1cwajlHbGZBWlVvUGZDOTllS2s2bHpSaUZ1TF9OM1dRNUwxZ0VLQWVyYjY0WTNvbW00ZkkzWWhBQkx5ZzVRRkEtN3hiNms0NjVtN01vR29sUF9PNlFZMXpaRG40VEV2d0dZQmx5enEwdWpKdEtkclVPRGF0ZUFxVjRLNUZm0gF0QVVfeXFMTzNmaXlqM0JIUzZWU2s2eTZjVEN3WFBvQXZnMTROV190WUV3cnJJYWlqeTRmbG91bkhlcmcxOWU0cklxYWM0VjJtTTBHMnJCeFR2NnpiT1VrMEhKcUt1ZGtqODVFXzBfNVF0djZ4YXY5MkR3bUg?oc=5",
-      "date": "Thu, 13 Aug 2026 01:14:00 GMT"
+      "title": "南九州道で男性はねられ死亡 自損事故後に車外に 熊本・芦北町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qa3pzdU5meUxvRFJVUmdidzVNRndqczdEMHdEdnBadkFOZkJ6Q0l5ZFRGQ1dCYlRaYWpBd1dlREx3Q1FMTXE1MjNOMFdYQjQ?oc=5",
+      "date": "Wed, 12 Aug 2026 22:47:07 GMT"
     },
     {
       "title": "九州道の迂回路、事故・通行止め相次ぐ 物流業者「拘束時間超過」 [宮崎県] [2026年熊本地震]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUmVGVkJBTU9NMmNYa3JKdWQ3Yk1qUFN5dzZlNHZId0RkdWdGemFha0I2d0FqREE3ZkVTY1dIUGp6WTFaOHM1ekhYVjZVUUcxSzVsWWc0bm9yS3Y1NjVCQW53azRlM2s?oc=5",
       "date": "Sun, 09 Aug 2026 09:00:00 GMT"
+    },
+    {
+      "title": "南九州自動車道で自損事故の男性　車外に出たところ後続車にはねられ死亡　熊本・芦北町",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XRXZoTkJyQ01yYTFKWmU0U3JGRWJ1UndIQlM4ZFdZVjhlNG5rTkhrQTA2Qzk5a0Y1SW8ybGNtMlBFNUFlNEF1V3psMUpuRURDTjBTeUZKdV9ya3ZUMlBtTlNScmlDVGQyQ3poR20zd9IBdEFVX3lxTE8zZml5ajNCSFM2VlNrNnk2Y1RDd1hQb0F2ZzE0TldfdFlFd3JySWFpank0ZmxvdW5IZXJnMTllNHJJcWFjNFYybU0wRzJyQnhUdjZ6Yk9VazBISnFLdWRrajg1RV8wXzVRdHY2eGF2OTJEd21I?oc=5",
+      "date": "Thu, 13 Aug 2026 01:14:00 GMT"
     },
     {
       "title": "熊本地震 う回路の東九州道で事故増加 警察が注意呼びかけ",
@@ -110,11 +115,6 @@
       "title": "熊本地震後の事故件数は1.6倍 東九州道での事故が増加 警察「いつも以上に緊張感を持った安全運転を」",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4UlNPRVZuY0dSQU9TNUg0NjIzVTJJWVR0RDV1YjR5elRKSTNPRXpOenNOS3hwZGgyMUVLQXNCVUs0TnhmenBraXJvRXBvWnlLVjFmTk0xMHhQeV80cjdPQk1uaTVhTG8?oc=5",
       "date": "Mon, 10 Aug 2026 10:25:00 GMT"
-    },
-    {
-      "title": "【速報】塾からの帰宅途中か…横断歩道で大型トラックにはねられ自転車の男子中学生が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNkxNeFJIaFhCRWRabnNVbTJqeHlKRUNXczJ5RUlQOGVrSVVMNU5nOW51MGxRbjRDaGpNcXEwYmFiVHRsTTA2bl9TV2YyWjYyM2hRS1V3?oc=5",
-      "date": "Tue, 28 Jul 2026 07:01:45 GMT"
     }
   ],
   "official_links": [
