@@ -1,29 +1,88 @@
 {
-  "generated_at": "2026-08-15T03:01:08.324448",
+  "generated_at": "2026-08-15T06:00:58.121193",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 22.0,
+    "temp_max": 29.7,
+    "temp_min": 21.2,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 29.7,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTFE5Qm9IY0N1emM4UUVKZmVmT0p4cXJ1aVJDVmtWVjZ5WDQyOTNLZTgySlpsR2RKOUpRdnRZMVdOTlNRdGRfM2wwWGJkbUpUZkIyTjh4Rmcza0d1WnJJQVFMOGtlLU1CYkZIY19mNNIBdEFVX3lxTE9MYmJZNUh3MldWalh5aFpSNmRVRlRkdzN5eFFtelBYU3FwMFZMbUpfZG9sMkZDemJpalhwWk11WlEtX2tpdGJIZExoZFdwOFU2ajdhd1hyYUQtUEVkYVUxZUNkRlA2UG45UUFHVXZoWnIwYnlh?oc=5",
+      "date": "Fri, 14 Aug 2026 20:10:59 GMT"
+    },
     {
       "title": "8月13日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iLW1uUHhDYzd1SDFaV0tvZkZQeXZod2FCMmI1NXlPMkxnYVAySmVFSTVrTGVBd21PTUMzTk9ScWpyT292Z1FmTGthRlR1bjU4eDJXbXFWcUt1QQ?oc=5",
       "date": "Wed, 12 Aug 2026 20:00:00 GMT"
     },
     {
+      "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkYxTm9tZ29sRXFja3lKbi05UVhzUXBHTDkyeV9fNi1EakF4WUVhU1dwNUNULTlXUG5rNHFEQ0R5X1daLUtCNk11c21FR1hOQmNENUZyb0pya0wySk1rWWNZNVFWNFp6aDlRR29DVW9LWl9SN2RHYWpZY1kxa3MxeTZjNlZuTjVRaE1MV193?oc=5",
+      "date": "Tue, 11 Aug 2026 23:42:58 GMT"
+    },
+    {
       "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IS29RcHNUa2ZGYzZwWmNIMEd1R3lha3d3UWZQZ0hwcnVEdllFWnNOQWlyLTd0UHlGMk1XdzFrYmNhdkswSEx4MU1xYmVLVkIxeC1lWVhIQ29xQQ?oc=5",
       "date": "Tue, 11 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "8月10日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GTjNmRHBlN1h6YjJ5OVZuUDl0a2RKN1NWXzg2QmI5NTFMREktX0J6M2FUTTB2a3BtekFMdC1zZGo2VmplU3ZIUzY0X1RPOVdsc01ZY1o3OC1Mdw?oc=5",
-      "date": "Sun, 09 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "8月13日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtLWxLZ3N6cGFPMk9JalBxRDZsWUNqQzQ4ak9GOVBMc24tZUE1RnBKNjJzOTlIQnlsNEtPOXR5SDVuT0NmdUVRLXFlVVdRdXZxM2NwQUtUU2l3RzY1WDg1STBqMUk4NnNabUpSS3FrWdIBdEFVX3lxTE1ROE94TVhEM1VIazFFRGtZTEhLanZHWWV6YWlnS2Z2NUZWMWFvdWc2emtnTTE3U1c4cC0wdjdEeTR5bTdidS1MZzkyZHVmU3E0dUJRSS1VRlhHdGRRTFlIMW5PRHRRNVhuWG1wQTdjN3Vacm5Q?oc=5",
-      "date": "Wed, 12 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "8月14日（金）【岩手県】 日中・夜間の交通取締情報",
@@ -43,19 +102,19 @@
       "date": "Thu, 13 Aug 2026 01:57:00 GMT"
     },
     {
-      "title": "村上市の国道で岩手県の男性が自損事故、同乗の女性が死亡",
+      "title": "村上市の国道で岩手県の男性が自損事故、同乗の女性が死亡 - niigata",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsU3U2RWJRN0xOM1FFQ054ckhzSDBYdkItT2lwUlA5RmFCUS13YVFXTnNLWEtmaC1WY1dxNGo5YnRjbWtaN3FFWmpuaXl0Y1hUN2RoZC1mSmczMmFUUFE?oc=5",
       "date": "Thu, 13 Aug 2026 14:35:00 GMT"
-    },
-    {
-      "title": "「乗用車が側溝にはまっている」　国道で乗用車が側溝に落ちるなどの自損事故　乗っていた岩手県の59歳女性が外傷性大動脈損傷で死亡《新潟》",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOUGFMa1NVUDk3NkNPdVlmZEhlaVQ1WnVoVHl3NldwNGdHYThZUnZDUUZfVzN6TW9Gam40M3EtOGh3a0djVHdTOHV2bjRqSWVFNFI1VnMxWUt4V3VZOTJPYzRaVEt1cnVDcHBlM3pFSFd6S0pCd0p3V0NGeTNxQdIBgwFBVV95cUxPVlBnUTRGeEVfNmJGaVVrQVJsN0tqdFV6a3lfZklKVjVQWlRXS2lxQnYxdHc5RnVvMmc3RWhHUXhJbjhveWVvbWN5YWo2SjNKZW93X081X2xQUThIOVYyNXczaEpQVWNqT0hoSVhPSGxCQ3BFbmJkLVdTbENnR3czcFJLVQ?oc=5",
-      "date": "Fri, 14 Aug 2026 02:57:00 GMT"
     },
     {
       "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZkhIeXRydzFaSzlXZUFSN1RDaVozNDAyU2RiazB2Wi14bzBoUU9OaVJ0TWNsV3J4dGpOYThfdXlocjBJX2p1SllvaFFRMDZEdGRMdlpZcHJBM2dOYnVyVXR2NXpBcERvNkh5Q25wVU8zWWtDdHR3MTk3ME9rTkk?oc=5",
       "date": "Fri, 14 Aug 2026 03:50:26 GMT"
+    },
+    {
+      "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdnEtUWpQem1zOXNiZl9ZZDVrVHFsblM0Z2YtQkc5OVoxSUpOR09uOEgzNlVELWJwY0JsaE5yNS1NUzBfWWFIQzY5YU9tcS1CaDJSLUlkLWNKVzg2R21lOFY0V2oxeHM?oc=5",
+      "date": "Fri, 14 Aug 2026 03:49:00 GMT"
     }
   ],
   "official_links": [

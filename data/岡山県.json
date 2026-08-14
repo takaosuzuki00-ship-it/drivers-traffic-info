@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-08-15T03:04:38.215126",
+  "generated_at": "2026-08-15T06:03:56.276350",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 23.9,
+    "temp_max": 31.4,
+    "temp_min": 23.9,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "15:00",
+        "temp": 31.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "8月14日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93SzdaUU04RVlpU3JSazhIeUVkSkNzYUlIcU1FTDZYNFVSNHpyaHBJR2JEc1RkcHNjalVEdDRBSnRubXNBQmQzYTdIeEVxNjhHQ0FLeUJocG1lMkxvU0VtN3B5ZDBuVGhCbkZ5anViVdIBdEFVX3lxTE8wNVNBSFlUYjJqa19kZ2ZUUEw1Y3l5d29jLXJ6UHZGaVVVMW9aVmdsSGpwY0p2a3FIQ3BFVDBrc3NteEFjUkE0eDg3S29EWHJ4N21uOVlCMzBmYV9zWnFMWGhmNk9oVUxzbE84eWpkbmp0ZkNY?oc=5",
-      "date": "Thu, 13 Aug 2026 20:05:20 GMT"
+      "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTFE5Qm9IY0N1emM4UUVKZmVmT0p4cXJ1aVJDVmtWVjZ5WDQyOTNLZTgySlpsR2RKOUpRdnRZMVdOTlNRdGRfM2wwWGJkbUpUZkIyTjh4Rmcza0d1WnJJQVFMOGtlLU1CYkZIY19mNNIBdEFVX3lxTE9MYmJZNUh3MldWalh5aFpSNmRVRlRkdzN5eFFtelBYU3FwMFZMbUpfZG9sMkZDemJpalhwWk11WlEtX2tpdGJIZExoZFdwOFU2ajdhd1hyYUQtUEVkYVUxZUNkRlA2UG45UUFHVXZoWnIwYnlh?oc=5",
+      "date": "Fri, 14 Aug 2026 20:10:59 GMT"
+    },
+    {
+      "title": "８月１５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUTIyRmFzZ3RaY2lFMGVyM0tWZDBzcUlOYWNsV1Fvc0pxaXduaVJYYmh2OTVaQ25CM1dHR1FicDdyN0VqTk5lV0NEZXNqZ2lmdDhNNWtHVWNsRGRjdzdocVg3NnMwS0J1RC1aOEhFbVlvbzF1UWR6MERyNlUtcFJXdEVLRnJnckpFejZray1DVW9OdnR2OGttZ1YtaDNnV3RaaXZibTgzLWZPRXYyNk83Y3dDZzA4SUpMMmpENVVvVnItOVJhVjZ30gF3QVVfeXFMUGNSbGlQTjBZMWszbENpR216WDZYV1BrSVd1V0VHZ05xN0MyWm5kVDJIVTllOUROR2dPUnZyQmxTc1o5OUhrTE9ac1VkcnVMeTdOWDVOTmpKYjVBLTNTanV6cDBhLUVNbDUxUmJ2OF9aVlFmRGZXNGM?oc=5",
+      "date": "Fri, 14 Aug 2026 20:14:57 GMT"
     },
     {
       "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
@@ -16,19 +80,14 @@
       "date": "Tue, 11 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件（OHK岡山放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNGNTMlBCZ3lORF9yZ0pMdmVtX2ktV1JrU3JTZ3pFMW1LR3JwUkJISVMtNU5IRlktRVlhNVRzbUlaNmdnaWpVNEFLQUZQTkEwSk9tYXl0Q1c3WmZqZEJ0RkpsdDc3VzNwS2dRVGhoNkJyS1l3eTNnZnJIYVJqZWs?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "国交省が「すぐに車を直せ」\"命令\"！ 「爆音」「シャコタン」「ハミタイ」の\"大迷惑車両13台\"を一斉摘発！ 「旧車イベント」参加の\"不正改造車\"を一網打尽 岡山",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82QndxZjJXRDJaRXFoSWRpbUVoa1BFMUdWZHA1TkIzNUpkS3BKMzZQTXUzY2VJYUlmQ1RGdDl1Z1YyMEtEeFUyYWphYw?oc=5",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbkNvMDJ5c0RxcTFpSUlmT1ZwTjAzR2dvbmp0RFg4YUVlTnp3R0lra0d4X3NZQlIwNUg2Qmwtdk52NExieTdRczFCcmVoUzk2SFJEVVR5MmdNRWItc0kyUGhGWmtIRkE1aHgzdU5uOVdONGd0eWN4YXR6TWpmb3c?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -53,9 +112,9 @@
       "date": "Thu, 13 Aug 2026 15:56:07 GMT"
     },
     {
-      "title": "岡山市で歩行者が軽自動車にはねられる　19歳の大学生とみられる男性が重体",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zNzhnV0lDMG5hV09Ka0g1UFZjTXNtZnpEYnVSeE5pcURubDNaVnFiY0h4bUpfbEZPXzluSENTLUZ1bnhMWXl0UDlNbWNhU01QZHNyOWN2UmZJWkFSaUpBZTFuWXU5ZU15OEJ1MGRseU3SAXZBVV95cUxNQ01BdE5vTTk3b0kwNGtpWnNRUlVYampOZWFQbEQ1aklfZEwxTk9hSW1nZnpmeVMteE0tYXlJNmVRb0pVU3JTTm9Hc1FmOS1STWZYWUp1MFNXTzFJU2M5dTFwOUV6Z3ZMdDdLZzY5T3NNU0lSQWZ3?oc=5",
-      "date": "Thu, 13 Aug 2026 23:29:00 GMT"
+      "title": "岡山市で交通事故相次ぐ 男性1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRVUctdzF2UF91M1NOMTBFSlhWczFsRWRNNTRvWDJDZ1cwOGRaVkdkSTB1TlpoSVFxZUpMXzk1YTBLOVhMTGRidFJUZw?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
