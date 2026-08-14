@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T00:03:16.582282",
+  "generated_at": "2026-08-15T03:04:25.246747",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 25.2,
+    "temp_now": 24.7,
     "temp_max": 30.9,
     "temp_min": 24.2,
-    "precip_prob_max": 90,
+    "precip_prob_max": 60,
     "precip_sum": 0.3,
-    "wind_speed": 3.8,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 30.1,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 8
       },
       {
         "time": "15:00",
         "temp": 30.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "precip_prob": 57
       },
       {
         "time": "18:00",
         "temp": 27.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 55
+        "precip_prob": 53
       },
       {
         "time": "21:00",
         "temp": 25.9,
         "weather": "弱い霧雨",
-        "precip_prob": 25
+        "precip_prob": 33
       }
     ]
   },
