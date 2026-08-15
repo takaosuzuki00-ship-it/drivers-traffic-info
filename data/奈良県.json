@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-15T21:04:43.239462",
+  "generated_at": "2026-08-16T00:03:42.492966",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 26.1,
-    "temp_max": 29.7,
-    "temp_min": 23.0,
-    "precip_prob_max": 96,
-    "precip_sum": 0,
-    "wind_speed": 6.5,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.7,
+    "temp_max": 27.6,
+    "temp_min": 24.1,
+    "precip_prob_max": 24,
+    "precip_sum": 0.1,
+    "wind_speed": 5.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.3,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "03:00",
-        "temp": 23.3,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 23.0,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 27.2,
+        "temp": 25.7,
         "weather": "晴れ",
         "precip_prob": 4
       },
       {
-        "time": "12:00",
-        "temp": 29.6,
+        "time": "03:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 86
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 10
       },
       {
         "time": "15:00",
-        "temp": 29.6,
-        "weather": "晴れ",
-        "precip_prob": 90
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 27.8,
-        "weather": "晴れ",
-        "precip_prob": 39
+        "temp": 26.6,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 26.1,
-        "weather": "晴れ時々曇",
+        "temp": 24.9,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "８月１３日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93TTRzRmRUNFh4UVByTlZ5Q3ZKTXFFWk1OV3JEcmJSR3JxbGtZUjFCWUw5U1lYWklJMkpYZ0d5b1RLTkpXX3lJbkhyeEliR1F2Y3NuREFIVzV3a3dmMnhKZlQ3NUd3Yzhh?oc=5",
+      "date": "Wed, 12 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "８月１５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUTIyRmFzZ3RaY2lFMGVyM0tWZDBzcUlOYWNsV1Fvc0pxaXduaVJYYmh2OTVaQ25CM1dHR1FicDdyN0VqTk5lV0NEZXNqZ2lmdDhNNWtHVWNsRGRjdzdocVg3NnMwS0J1RC1aOEhFbVlvbzF1UWR6MERyNlUtcFJXdEVLRnJnckpFejZray1DVW9OdnR2OGttZ1YtaDNnV3RaaXZibTgzLWZPRXYyNk83Y3dDZzA4SUpMMmpENVVvVnItOVJhVjZ30gF3QVVfeXFMUGNSbGlQTjBZMWszbENpR216WDZYV1BrSVd1V0VHZ05xN0MyWm5kVDJIVTllOUROR2dPUnZyQmxTc1o5OUhrTE9ac1VkcnVMeTdOWDVOTmpKYjVBLTNTanV6cDBhLUVNbDUxUmJ2OF9aVlFmRGZXNGM?oc=5",
@@ -78,11 +83,6 @@
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 ３月３０日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
-      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "急カーブ続く峠道「関西の走り屋の聖地」で暴走行為 ローリング族38人を摘発 大阪府警（産経新聞）",

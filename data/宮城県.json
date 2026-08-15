@@ -1,12 +1,71 @@
 {
-  "generated_at": "2026-08-15T21:01:12.827623",
+  "generated_at": "2026-08-16T00:01:04.168714",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.5,
+    "temp_max": 25.6,
+    "temp_min": 20.4,
+    "precip_prob_max": 81,
+    "precip_sum": 0,
+    "wind_speed": 1.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "12:00",
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "21:00",
+        "temp": 22.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町 - khb",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
     },
@@ -38,7 +97,7 @@
       "date": "Tue, 11 Aug 2026 06:15:00 GMT"
     },
     {
-      "title": "夏は疲れによる交通事故が増加 夏の交通事故防止運動が始まる",
+      "title": "夏は疲れによる交通事故が増加 夏の交通事故防止運動が始まる - khb",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMnVnY2FaQUp0VFUzQXVoNU1qbjhNbndDRkVnN2E3VFNELW9TZkFmcWtLbTBwT09JejlHM2dpN1NzSEh5d2hyMW04NmZEclU?oc=5",
       "date": "Tue, 21 Jul 2026 07:00:00 GMT"
     },

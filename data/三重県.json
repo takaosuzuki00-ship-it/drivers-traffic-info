@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T21:04:06.114282",
+  "generated_at": "2026-08-16T00:03:13.081686",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.8,
+    "temp_max": 27.2,
+    "temp_min": 25.8,
+    "precip_prob_max": 77,
+    "precip_sum": 0.1,
+    "wind_speed": 15.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "03:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "06:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "09:00",
+        "temp": 26.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "12:00",
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "15:00",
+        "temp": 26.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
@@ -53,9 +112,9 @@
       "date": "Fri, 20 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "車がのり面に衝突 後部座席の女性1人死亡、運転手と助手席の男性2人重傷 三重・志摩市（メ〜テレ（名古屋テレビ））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5bDl4WnVRWFo2ZnM3c1RHWVRoaEc2ZHVEMFZUYWJPSThScW16M2gwS1VTcUtVU2tsVjBfMWtZbVFObjhnNFRjS0VIUVcxTnVKSmpmOUdENlVIbEF2WFpPUGhwenJoNDUtREQtTGNJd0ZmR2tFZDJJeDlkZFIwTzg?oc=5",
-      "date": "Fri, 14 Aug 2026 03:24:02 GMT"
+      "title": "子どもも高齢者も交通事故から守りたい 三重県の松阪・多気・明和で活動「とまとーず」が教室6000回",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtaVFmTGtWM05GVWZVa2hmcVhXN0drODdGOEhqdHFkbkMzT1VTVm1fT253VGNwSlRJQnpibnYwRlJmMHFsTXZYSVNGTFJEMTQxN3BIbA?oc=5",
+      "date": "Tue, 14 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
