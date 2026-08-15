@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T09:05:09.070232",
+  "generated_at": "2026-08-15T12:03:28.319416",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 29.8,
+    "temp_max": 29.8,
+    "temp_min": 24.1,
+    "precip_prob_max": 94,
+    "precip_sum": 0,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "03:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 28.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 27.0,
+        "weather": "曇り",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜南海放送NEWS NNN",

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T09:01:02.571277",
+  "generated_at": "2026-08-15T12:00:56.405515",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.1,
+    "temp_max": 30.8,
+    "temp_min": 24.0,
+    "precip_prob_max": 76,
+    "precip_sum": 0,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.9,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "18:00",
+        "temp": 28.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "21:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -38,11 +97,6 @@
       "date": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "車同士が衝突し男児など2人が大けが　由利本荘市岩城の国道7号　13日　秋田",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWl5ZkJiRWJyc1FPR2dwN1ZQbHU3ZUVxdXNVYnNpVHAxUno3VXhwUE1wU3ViWFdwX0hUNGZrUU01UUR5X29pRWRjNjN1dEIyN09nYXhFRmhhZXlLLUdJYy1RRXpTUkczRDRacnpPWG5McDdPcXRHdTdNS2JJcWd3cF9Ya19UQzdrZlpOY0VGUzRWb2ozWjdBWEV6NmxfMEwyalhUcktUVzVPeWk4NEVUOVh3d2djUEtYbTBDUzZrTk9FRDREazZ5WDIxTm5lZ1Bp0gGAAUFVX3lxTE9JVFBsZldES2pNdGc5TVFueFB6REtHOEtiUUEyaWQ1Z0poOXMxSXRFNndXdXdnc2V0b1ViTTJwQ3NmYllPZWN6b0Y1Z3ZmZFhfTG5oVWxYUE81RWkzazJ6UzZJaTJzWVVUZFBtd2VzdEFYWXYwN3N5LTI2NVRNVlRD?oc=5",
-      "date": "Fri, 14 Aug 2026 01:00:00 GMT"
-    },
-    {
       "title": "由利本荘市の日本海沿岸東北自動車道 大型バイクが普通乗用車に衝突 大型バイクの男性が大けが 9日 秋田（ABS秋田放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMbm9CVlI5V2ZfR0xNaHpieFRVQUZBRXItRi10WnFuRlZKdElGeGRNVUFLdjFXNldrMm1tamFmZ0U2QkNQQ2tYczRJXzE0RHBYbmhYejhyT3c5X2Ixa05nOFFSdlR2UjVMeHVHN0ZDS0M2VExMSUJ5SjZUc1BkY0E?oc=5",
       "date": "Mon, 10 Aug 2026 03:15:00 GMT"
@@ -51,6 +105,11 @@
       "title": "６月の大仙市の交通事故、意識不明・重体の男性が死亡",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1na0ZfSVVSY3VrTUVJRzYtRHdITk1OcF81NF9lNEprWjBRWHoydnRzUGhEWnRZN0tJYTBrR1FNenNXYmRCbHJHZEpOMA?oc=5",
       "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋田北―秋田中央ＩＣの上下線 事故捜査のため２８日に通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFMXA2RXU3TTlhSEJ5ZGpoUXdIYWVyazlOcTUxOHNwVzJBbkJhWTFqS1YyZ0JfWkdFeEU3YWhBaEo0UmtZMTBYbFN0UE8zbnkzc1ZnbU9IZjdvTjdCaVhjSGFn?oc=5",
+      "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
       "title": "アユ釣りで転倒し流され 70歳死亡",

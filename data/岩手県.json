@@ -1,24 +1,83 @@
 {
-  "generated_at": "2026-08-15T09:00:48.235103",
+  "generated_at": "2026-08-15T12:00:44.267151",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.7,
+    "temp_max": 29.1,
+    "temp_min": 21.0,
+    "precip_prob_max": 11,
+    "precip_sum": 0,
+    "wind_speed": 8.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTFE5Qm9IY0N1emM4UUVKZmVmT0p4cXJ1aVJDVmtWVjZ5WDQyOTNLZTgySlpsR2RKOUpRdnRZMVdOTlNRdGRfM2wwWGJkbUpUZkIyTjh4Rmcza0d1WnJJQVFMOGtlLU1CYkZIY19mNNIBdEFVX3lxTE9MYmJZNUh3MldWalh5aFpSNmRVRlRkdzN5eFFtelBYU3FwMFZMbUpfZG9sMkZDemJpalhwWk11WlEtX2tpdGJIZExoZFdwOFU2ajdhd1hyYUQtUEVkYVUxZUNkRlA2UG45UUFHVXZoWnIwYnlh?oc=5",
-      "date": "Fri, 14 Aug 2026 20:10:59 GMT"
+      "date": "Fri, 14 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2NhVWJLelJZNEhjcUhpeF9CMXVZbzQyS0lQWTZuSTBNdE8ySHpuQUlZcWZJQ1FJS0JXQjFfVzRqUUR5U1VjNFFTVjJ3aWVkZmZMUEVQOVRmSGw2MXpHaHdvRm9wNHloN2Z5WlFuYS1NQzlCUjlMd1UxNV91RGt2SWtjcHVkdjdzZUxvWGx3?oc=5",
+      "date": "Fri, 14 Aug 2026 20:41:05 GMT"
     },
     {
       "title": "8月14日（金）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96MFRhdkJoRFBrVkZ4ZTk3dngtTFo2M1lpY3FTTTl2dHluSXRuUHpfamY4cy02Z0JZMzh4TDRSNmZqU1ZMcFo4a0F2QlVJNVItcDdZVnFzMXFSQQ?oc=5",
       "date": "Thu, 13 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "8月12日（水）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkYxTm9tZ29sRXFja3lKbi05UVhzUXBHTDkyeV9fNi1EakF4WUVhU1dwNUNULTlXUG5rNHFEQ0R5X1daLUtCNk11c21FR1hOQmNENUZyb0pya0wySk1rWWNZNVFWNFp6aDlRR29DVW9LWl9SN2RHYWpZY1kxa3MxeTZjNlZuTjVRaE1MV193?oc=5",
-      "date": "Tue, 11 Aug 2026 20:00:35 GMT"
     },
     {
       "title": "8月13日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -48,14 +107,14 @@
       "date": "Thu, 13 Aug 2026 14:35:00 GMT"
     },
     {
-      "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZkhIeXRydzFaSzlXZUFSN1RDaVozNDAyU2RiazB2Wi14bzBoUU9OaVJ0TWNsV3J4dGpOYThfdXlocjBJX2p1SllvaFFRMDZEdGRMdlpZcHJBM2dOYnVyVXR2NXpBcERvNkh5Q25wVU8zWWtDdHR3MTk3ME9rTkk?oc=5",
-      "date": "Fri, 14 Aug 2026 03:50:26 GMT"
-    },
-    {
       "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡 | IBC NEWS | IBC岩手放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdnEtUWpQem1zOXNiZl9ZZDVrVHFsblM0Z2YtQkc5OVoxSUpOR09uOEgzNlVELWJwY0JsaE5yNS1NUzBfWWFIQzY5YU9tcS1CaDJSLUlkLWNKVzg2R21lOFY0V2oxeHM?oc=5",
       "date": "Fri, 14 Aug 2026 03:49:00 GMT"
+    },
+    {
+      "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZkhIeXRydzFaSzlXZUFSN1RDaVozNDAyU2RiazB2Wi14bzBoUU9OaVJ0TWNsV3J4dGpOYThfdXlocjBJX2p1SllvaFFRMDZEdGRMdlpZcHJBM2dOYnVyVXR2NXpBcERvNkh5Q25wVU8zWWtDdHR3MTk3ME9rTkk?oc=5",
+      "date": "Fri, 14 Aug 2026 03:50:26 GMT"
     }
   ],
   "official_links": [

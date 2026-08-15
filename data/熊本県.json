@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T09:05:52.348012",
+  "generated_at": "2026-08-15T12:03:50.653266",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 27.6,
-    "temp_max": 31.9,
-    "temp_min": 24.3,
-    "precip_prob_max": 65,
-    "precip_sum": 0.3,
-    "wind_speed": 1.3,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 31.3,
+    "temp_max": 32.1,
+    "temp_min": 24.4,
+    "precip_prob_max": 43,
+    "precip_sum": 0,
+    "wind_speed": 4.3,
     "hourly": [
       {
         "time": "00:00",
@@ -27,52 +27,52 @@
       },
       {
         "time": "06:00",
-        "temp": 24.3,
+        "temp": 24.4,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.6,
-        "weather": "快晴",
+        "temp": 27.5,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 31.1,
+        "temp": 31.3,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 31.9,
+        "temp": 32.1,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 25
       },
       {
         "time": "18:00",
-        "temp": 28.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 47
+        "temp": 30.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 26.6,
+        "temp": 27.7,
         "weather": "晴れ",
-        "precip_prob": 65
+        "precip_prob": 43
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTFE5Qm9IY0N1emM4UUVKZmVmT0p4cXJ1aVJDVmtWVjZ5WDQyOTNLZTgySlpsR2RKOUpRdnRZMVdOTlNRdGRfM2wwWGJkbUpUZkIyTjh4Rmcza0d1WnJJQVFMOGtlLU1CYkZIY19mNNIBdEFVX3lxTE9MYmJZNUh3MldWalh5aFpSNmRVRlRkdzN5eFFtelBYU3FwMFZMbUpfZG9sMkZDemJpalhwWk11WlEtX2tpdGJIZExoZFdwOFU2ajdhd1hyYUQtUEVkYVUxZUNkRlA2UG45UUFHVXZoWnIwYnlh?oc=5",
+      "date": "Fri, 14 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "８月１２日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib1hEdXdBSTJteV9PMkhOQjhfdW5ZR2UzS3pZMnpLTmhscmZXMTBrR2NmbzNRWGg0cGtvYjVadjNzSkNQWjJwRVBFcVVOWmZYM29PenZvMnVoZFU?oc=5",
       "date": "Tue, 11 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "８月８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aams0MWFyNkJqOUc3UkU0WFdSUU82VVRyNERzeUlnekxwM0wzV3NiMlN0ay1iNHF2YzJwSGxjSkZZMDV1M3RvVXloQ0ZiVkNoTGkwamRDbWQ3WGkxSUFham5BYngwSG5SeFRwcG5yWi1md9IBd0FVX3lxTE05QXRvcFhPODBQeWJTbHo1X2pwdmpMTURNUHRMdzYzb2hrVXRFQ3laUmp2ZGJjQWgyek5LRFBYNHNMa3l4aVBqdjROOEFZN3dQUkxRZjYtYUFwUkZJSG9RUlZJdXZvVTZlaXNZOWEteGtPbGxHT2E4?oc=5",
-      "date": "Fri, 07 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "8月10日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -80,9 +80,9 @@
       "date": "Sun, 09 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "８月６日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcUd6ajZMRXN1aERZUVd4X29XeW9jaFNrOFZFLU9KbzNJRUdwTDBLWUdpeWNWREZpd293aDl3bGNFRjJxZW1YVW5tdFZnbnE2UjFSeUJSR0RRV1kwc3RtWFYwZU9INGJQaXhoSk9yVXpHZ9IBd0FVX3lxTFB5Y052cjU5T2JBWEJBMENya3J5REZMYk9qRVplN3BYVjUtdzBzdzBZUFloMTlxNzYzNk5sYmxKZVlibnRZYVZIbG4wQ21VSnlUMk9vbGl1TVVLdm9mR1VtM2xsUTBwekNEZEhVRE94WVZWTEQ3OFJZ?oc=5",
-      "date": "Wed, 05 Aug 2026 20:00:00 GMT"
+      "title": "８月８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aams0MWFyNkJqOUc3UkU0WFdSUU82VVRyNERzeUlnekxwM0wzV3NiMlN0ay1iNHF2YzJwSGxjSkZZMDV1M3RvVXloQ0ZiVkNoTGkwamRDbWQ3WGkxSUFham5BYngwSG5SeFRwcG5yWi1md9IBd0FVX3lxTE05QXRvcFhPODBQeWJTbHo1X2pwdmpMTURNUHRMdzYzb2hrVXRFQ3laUmp2ZGJjQWgyek5LRFBYNHNMa3l4aVBqdjROOEFZN3dQUkxRZjYtYUFwUkZJSG9RUlZJdXZvVTZlaXNZOWEteGtPbGxHT2E4?oc=5",
+      "date": "Fri, 07 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "警視庁 交通機動隊など120人を熊本に派遣 被災地で高速道路入口での検問や信号機停止場所などで交通整理 10日まで",

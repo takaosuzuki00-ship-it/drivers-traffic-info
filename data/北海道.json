@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T09:00:34.679272",
+  "generated_at": "2026-08-15T12:00:33.549335",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.2,
+    "temp_max": 27.6,
+    "temp_min": 21.3,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 18.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月13日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -43,14 +102,14 @@
       "date": "Tue, 28 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "乗用車が札樽道を支える橋脚に衝突、運転していた男性が搬送も意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNnhsS2I0Vno4TFY2SDdSYndrLVRGU0JfTzJzSGgyZUY3SEVMQ0hIVmdiTnpSSmRtYTB4MHluRnZFU1dlVXhmQjdRVGV0SnNCVUd4REh4VlJRQQ?oc=5",
+      "date": "Fri, 07 Aug 2026 02:44:00 GMT"
+    },
+    {
       "title": "夏の北海道でレンタカーの事故相次ぐ 旭川で子ども含む6人搬送 富良野では香港から来た女性が死亡",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LYzlZaFprRnJEN1h0aU1fRjc2YWpNVHFBSEx6dHhiR2g5bjRETkJiakdCaVY0WGdVdE5QWnhxeEIxM3dCTTZ4TmR3anZJdw?oc=5",
       "date": "Thu, 23 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "北海道、交通死亡事故多発警報を発表 22日まで 3日間に5人死亡受け",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96ZzE1a3pjMW9Bd1NQX0UzQzRYREliLUV1MGROU21oWktJTnJ2cEZXT2N4NUVLNEhqQ042dl9NeWUwLXFOcy00SUdVVQ?oc=5",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "１２時間の飲酒で危険運転 小樽・大学院生死亡事故の一審判決が確定 検察・弁護側ともに控訴せず",
