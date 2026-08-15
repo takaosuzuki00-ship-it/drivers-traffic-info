@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-15T06:02:31.345978",
+  "generated_at": "2026-08-15T09:02:54.885211",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 23.8,
-    "temp_max": 31.2,
-    "temp_min": 23.6,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 27.7,
+    "temp_max": 31.1,
+    "temp_min": 23.4,
     "precip_prob_max": 100,
-    "precip_sum": 20.2,
-    "wind_speed": 3.3,
+    "precip_sum": 3.6,
+    "wind_speed": 1.4,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 23.8,
+        "temp": 24.0,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -29,37 +29,37 @@
         "time": "06:00",
         "temp": 23.8,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 0
       },
       {
         "time": "09:00",
         "temp": 27.7,
         "weather": "晴れ",
-        "precip_prob": 35
+        "precip_prob": 16
       },
       {
         "time": "12:00",
-        "temp": 31.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 71
       },
       {
         "time": "15:00",
-        "temp": 29.6,
-        "weather": "晴れ",
+        "temp": 29.1,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 26.6,
-        "weather": "雨",
-        "precip_prob": 88
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 80
       },
       {
         "time": "21:00",
-        "temp": 25.4,
+        "temp": 25.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 18
+        "precip_prob": 16
       }
     ]
   },
