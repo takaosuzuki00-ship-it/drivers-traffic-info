@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T18:06:00.792929",
+  "generated_at": "2026-08-15T21:06:54.136867",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.1,
+    "temp_max": 29.6,
+    "temp_min": 24.8,
+    "precip_prob_max": 33,
+    "precip_sum": 0.5,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.8,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 27.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "８月１５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -24,6 +83,11 @@
       "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNNzNLWEJDNFhYTkJvSDNmX2h3N0dLalZCUm1HQmZNZERsa0xpdVhwWXZBYWx3eVJLSnRRRXItZGgtU0RsYkxQODZiUnFIYzVjMkhkZ2dmY2F4eTNCMjk1YU53SERGUmZLNl9UVUxGMjZUWTgxNUN2aw?oc=5",
       "date": "Mon, 10 Aug 2026 11:59:37 GMT"
+    },
+    {
+      "title": "「精霊流し」長崎市中心部で交通規制 路面電車は部分運休、路線バスはダイヤ変更 検問で花火をチェック",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pdlRIM3JGaWRESGNLeEZRY09xeGx5aW52Z01BN01MOXhWX2lJLTJOUnRVODljTVRfaDlGcjh6bUV5NXMwbHZydGFiZUdPM2o1VmZEVkZnNnM?oc=5",
+      "date": "Thu, 14 Aug 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [

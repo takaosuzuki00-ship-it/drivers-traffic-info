@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T18:03:13.720039",
+  "generated_at": "2026-08-15T21:03:33.606917",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.7,
+    "temp_max": 30.8,
+    "temp_min": 23.7,
+    "precip_prob_max": 100,
+    "precip_sum": 0.5,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "03:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "06:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "12:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "15:00",
+        "temp": 30.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 61
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -48,14 +107,14 @@
       "date": "Wed, 12 Aug 2026 07:00:00 GMT"
     },
     {
+      "title": "岐阜県美濃市の長良川で水難事故 川遊びに来ていた23歳男性が溺れて意識不明の重体（メ〜テレ（名古屋テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41ejd1TWVUQk1PUEVpV19Gb1ZZWWU5ajhYbVkzMXRYQzFLVFRJZmNYOTV5YXZKM192SkwtUHZhSFpSQ09uUGVNeHlEZGd3TzFVSTRyQ3NFazJhTmFYcnR1SURuUzVyZ0tYM002ZjRsV3RsRkxtQ1pfZzdWdlB4T0E?oc=5",
+      "date": "Sat, 15 Aug 2026 09:14:01 GMT"
+    },
+    {
       "title": "【垂井警察署】交通死亡事故多発！速度取締り強化中！！",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44ZVpLaTA0NC1NMUFCY1dtM3RpVWcydEtZSVg3ZGsxblBjN3RmbkhSYmtKR2pJLWYyRkx6azAzWnJVZHpZWTVybVE3TmtGVzRzLUY2VnEyZ1h1bkRYeG1mSg?oc=5",
       "date": "Fri, 14 Aug 2026 08:16:04 GMT"
-    },
-    {
-      "title": "三重と岐阜で水難事故相次ぎ 男性2人死亡（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10eDMxU3I5Q3hDYkNMclJPbU9oR0F4enE5QkxhckZGMGFqRk9fNGluQktJVU5pV2EtcmFrN1BidFR3czFmMEVBRE1xVk9sbjFGdFVNLXRzbm9HMVpHa29vUkx1eG1SZUpJSGdDcVZQU05EQjFheGk0dnZxaXg3LVk?oc=5",
-      "date": "Tue, 11 Aug 2026 16:06:00 GMT"
     }
   ],
   "official_links": [

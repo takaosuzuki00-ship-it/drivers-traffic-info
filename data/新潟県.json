@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-15T18:02:26.410648",
+  "generated_at": "2026-08-15T21:02:56.867377",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.1,
+    "temp_max": 29.8,
+    "temp_min": 26.1,
+    "precip_prob_max": 98,
+    "precip_sum": 0,
+    "wind_speed": 15.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 27.5,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 28.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 29.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 28.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
@@ -16,6 +75,11 @@
       "date": "Wed, 12 Aug 2026 20:00:00 GMT"
     },
     {
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
+      "date": "Mon, 27 Jul 2026 03:15:30 GMT"
+    },
+    {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
@@ -24,11 +88,6 @@
       "title": "8月11日（火）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OTXVDaFRkM2RWRmYyNk1MQTlmMllyRllyTVRFa2dXMERROElBZS1NZU9wODh0NXlETjBucVZVS2RRSDBEY3BhcEJVa2J2RldfWm9lR1Fselp3VmN3X21qbWRiYkZ1b1JqWjdBT2M0Z9IBdEFVX3lxTE5yRjR2bEp6aFlwbXI2T2NVVW5CY2oyUEg5cXI4YVFuSnB1QUxRel9HcHIyTllXX3NUN1ZQY3ZEQi00cTBGYnZVN1phUXppU1lBYmUzSVgwX09XWEdnRzcwZWNCMExURFAxMWFvV2d3WFBWbXVZ?oc=5",
       "date": "Mon, 10 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "8月10日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GTjNmRHBlN1h6YjJ5OVZuUDl0a2RKN1NWXzg2QmI5NTFMREktX0J6M2FUTTB2a3BtekFMdC1zZGo2VmplU3ZIUzY0X1RPOVdsc01ZY1o3OC1Mdw?oc=5",
-      "date": "Sun, 09 Aug 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
