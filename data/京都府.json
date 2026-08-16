@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-16T21:03:53.217439",
+  "generated_at": "2026-08-17T00:02:25.037414",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 26.1,
-    "temp_max": 30.2,
-    "temp_min": 23.7,
-    "precip_prob_max": 59,
-    "precip_sum": 0.4,
-    "wind_speed": 4.4,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.2,
+    "temp_max": 30.0,
+    "temp_min": 24.5,
+    "precip_prob_max": 62,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.5,
-        "weather": "晴れ",
-        "precip_prob": 33
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.0,
-        "weather": "曇り",
-        "precip_prob": 53
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 24.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 59
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 26.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 51
-      },
-      {
-        "time": "12:00",
-        "temp": 28.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 31
-      },
-      {
-        "time": "15:00",
-        "temp": 30.2,
+        "temp": 27.5,
         "weather": "晴れ",
-        "precip_prob": 25
-      },
-      {
-        "time": "18:00",
-        "temp": 28.3,
-        "weather": "晴れ時々曇",
         "precip_prob": 4
       },
       {
+        "time": "12:00",
+        "temp": 29.7,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "15:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 57
+      },
+      {
+        "time": "18:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 59
+      },
+      {
         "time": "21:00",
-        "temp": 26.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "8月16日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyY1poLURuUmhvY3VwcVBlUFpBb2g0X01MSzVfeFhjX2hVcXNGY1RkcHFzTzBRRDhCX0Y3NHhfb05nMk5NdUctUlhLT3B5a3EtbkkwQVMyU2tzdlAyZ2ZYN3FfTlpOQmlCcWJWYlBzY9IBdEFVX3lxTFB1M19zQVpLQVBMTzNDY3NfVEc1MVNhemFHVWRtUWdCNFlzUUh0NjBINW1kaUstSTZyLWlDWUY4WEtKNlEzZHFzUVduR2NkWE5FMWxsZFRUYVJNd2Jxa29XaktkRzdKTUVpVlNqU2ZCVlRHQWF1?oc=5",
-      "date": "Sat, 15 Aug 2026 20:00:00 GMT"
-    },
-    {
       "title": "８月１６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XUXc0UG5LZVhqdUM2QllyZnZJcm16UGp3bU40Qmx1bWJvNVc4eXFZZnJZazVNUmJHYThpazN0cTBWVENDR3d5MmY4aXV6RV9uUkFIWUh5MkV1V0VneFUweUFHcWtaczlIUHlKcHNBeDBad9IBd0FVX3lxTE42X0FSdGtOSmlBa05jQjFSc3U2VVpmQUtnSl9kcllCdGtnNWxwQmZnTXpWS2d6dGpYS2dJS0ZBRjFqUFQtVDVjVG1wYjFTcURNelRJbmZpX3Qwc2tjR3lVN0RKX0g4QlNfRHlnZkZ1d2RUNjZJZHcw?oc=5",
       "date": "Sat, 15 Aug 2026 20:08:45 GMT"
+    },
+    {
+      "title": "8月16日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyY1poLURuUmhvY3VwcVBlUFpBb2g0X01MSzVfeFhjX2hVcXNGY1RkcHFzTzBRRDhCX0Y3NHhfb05nMk5NdUctUlhLT3B5a3EtbkkwQVMyU2tzdlAyZ2ZYN3FfTlpOQmlCcWJWYlBzY9IBdEFVX3lxTFB1M19zQVpLQVBMTzNDY3NfVEc1MVNhemFHVWRtUWdCNFlzUUh0NjBINW1kaUstSTZyLWlDWUY4WEtKNlEzZHFzUVduR2NkWE5FMWxsZFRUYVJNd2Jxa29XaktkRzdKTUVpVlNqU2ZCVlRHQWF1?oc=5",
+      "date": "Sat, 15 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "京都府警でモビリティ対策室と自転車取締小隊が発足",
@@ -97,6 +97,11 @@
       "date": "Wed, 29 Jul 2026 22:08:16 GMT"
     },
     {
+      "title": "乗用車が複数の店舗に衝突する事故 ガス管破損で住民が一時避難 京都・北区",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LaVBzNDJGdHBlYWF3VXo3YTRaNXRSSG1xU1BYZlV3MF9HWG5URFp6RHBOVjAxRVZuNHZ2b043VmJZLThGZnlPaHJ3NmUzUmNBMXotcUVsQjZ6WWxLelJWUlRyVkpaaWs?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
       "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
       "date": "Thu, 19 Feb 2026 08:00:00 GMT"
@@ -105,11 +110,6 @@
       "title": "京都府内の交通事故死亡者の半数が二輪車のドライバー 浴衣姿の大学生が交通安全呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xT3ROZGlKSmlZYjltSFRqRHVERC1kQy1rYkVYa2wyblIzLXVpMlJOWGJFVGdjX2QtRVRKclNqU1k3VkkxZjJiTHBzQVk0cGpaUGo3dWdmLW9sdkhzQm5XOTlJS2FPdndzZy1KQjdZUDJkbHQzTWc?oc=5",
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "京都府亀岡市で交通安全運動のスタート式 「二輪車の事故、昨年より10％増加」注意呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFMGVfQ3hGUW8ta1puWDJ5bHF1N0ZBN2tTYmVDSEd5ZWxSanZjNUNnS1N2Vm1PQmNIcEFwc0s4RlBRbzJxMkRHSEZYbzVRZXFFTnF2QmtaOHI?oc=5",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "きょうだい2人が亡くなった水難事故 原因は“離岸流ではない沖への流れ”か 専門家が指摘する“河口流” 新潟市西蒲区",
