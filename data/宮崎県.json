@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-08-16T06:03:50.637216",
+  "generated_at": "2026-08-16T09:04:00.927901",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.8,
+    "temp_max": 28.1,
+    "temp_min": 24.8,
+    "precip_prob_max": 42,
+    "precip_sum": 0,
+    "wind_speed": 2.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 25.8,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 27.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "15:00",
+        "temp": 27.9,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "18:00",
+        "temp": 27.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "８月１６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XUXc0UG5LZVhqdUM2QllyZnZJcm16UGp3bU40Qmx1bWJvNVc4eXFZZnJZazVNUmJHYThpazN0cTBWVENDR3d5MmY4aXV6RV9uUkFIWUh5MkV1V0VneFUweUFHcWtaczlIUHlKcHNBeDBad9IBd0FVX3lxTE42X0FSdGtOSmlBa05jQjFSc3U2VVpmQUtnSl9kcllCdGtnNWxwQmZnTXpWS2d6dGpYS2dJS0ZBRjFqUFQtVDVjVG1wYjFTcURNelRJbmZpX3Qwc2tjR3lVN0RKX0g4QlNfRHlnZkZ1d2RUNjZJZHcw?oc=5",
-      "date": "Sat, 15 Aug 2026 20:08:45 GMT"
+      "title": "8月16日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyY1poLURuUmhvY3VwcVBlUFpBb2g0X01MSzVfeFhjX2hVcXNGY1RkcHFzTzBRRDhCX0Y3NHhfb05nMk5NdUctUlhLT3B5a3EtbkkwQVMyU2tzdlAyZ2ZYN3FfTlpOQmlCcWJWYlBzY9IBdEFVX3lxTFB1M19zQVpLQVBMTzNDY3NfVEc1MVNhemFHVWRtUWdCNFlzUUh0NjBINW1kaUstSTZyLWlDWUY4WEtKNlEzZHFzUVduR2NkWE5FMWxsZFRUYVJNd2Jxa29XaktkRzdKTUVpVlNqU2ZCVlRHQWF1?oc=5",
+      "date": "Sat, 15 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "８月１０日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -16,12 +75,12 @@
       "date": "Sun, 09 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "８月１５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1USjBiMlNKQXc4YndHLVh3a3IxQkI4SXYzb2UxZXo3VXM3dDNVa0ViLW55cXU2ekVVc1BMTThuVU9JMFZwbU9EMl94SElkQmRNLWl1NFRjQ0FmWUxQZERfZ2U1SmpPWkcwYkd5MTAxQ0ttd9IBd0FVX3lxTFBjUmxpUE4wWTFrM2xDaUdtelg2WFdQa0lXdVdFR2dOcTdDMlpuZFQySFU5ZTlETkdnT1J2ckJsU3NaOTlIa0xPWnNVZHJ1THk3Tlg1Tk5qSmI1QS0zU2p1enAwYS1FTWw1MVJidjhfWlZRZkRmVzRj?oc=5",
-      "date": "Fri, 14 Aug 2026 22:53:14 GMT"
+      "title": "８月１６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XUXc0UG5LZVhqdUM2QllyZnZJcm16UGp3bU40Qmx1bWJvNVc4eXFZZnJZazVNUmJHYThpazN0cTBWVENDR3d5MmY4aXV6RV9uUkFIWUh5MkV1V0VneFUweUFHcWtaczlIUHlKcHNBeDBad9IBd0FVX3lxTE42X0FSdGtOSmlBa05jQjFSc3U2VVpmQUtnSl9kcllCdGtnNWxwQmZnTXpWS2d6dGpYS2dJS0ZBRjFqUFQtVDVjVG1wYjFTcURNelRJbmZpX3Qwc2tjR3lVN0RKX0g4QlNfRHlnZkZ1d2RUNjZJZHcw?oc=5",
+      "date": "Sat, 15 Aug 2026 20:08:45 GMT"
     },
     {
-      "title": "連休中事故防止 県警が合同検問を実施 - the",
+      "title": "連休中事故防止 県警が合同検問を実施",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mN2Q3R0FJYl83OTdlWXdvZ01GWGstVDRQVXFlb01uUFN2NEs0bl9XTVk0aXE1c1p4WDkwSGJvZFVBYldVMmNSYm9HOWlaNXk4WERCblNHa1dWTlEtM3dzY2ZzU3E2R2puckNRRTRB?oc=5",
       "date": "Mon, 01 May 2023 07:00:00 GMT"
     },
@@ -53,9 +112,9 @@
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "川南町の直売所駐車場で歩いていた81歳の女性が軽乗用車にはねられる事故 女性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6RFJrQ1hWYUFUc2Exc3VwenMzQzVzck8wVU81RXVWWFV1Rm5pUk9NQ3BzcllGZzhGVmhISFg5YWNwUF9oOGVXZzZ6WGYxUi1fTTRkcEdpaVNCZw?oc=5",
-      "date": "Sun, 09 Aug 2026 09:06:00 GMT"
+      "title": "「対向車を避けようとして…」宮崎市でトラクターが転落し83歳男性が死亡｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FMllpX2V4TUpVdmdtMW9KZlRLUy1nQllNVG5WS1otNDNmdkFLaVpXUzQtY3BfTEllaHdBVUtfaTdnYU5maWFEa2s5UmZlVE9aRWZrdmZUOHZwQmNmSWsw?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
