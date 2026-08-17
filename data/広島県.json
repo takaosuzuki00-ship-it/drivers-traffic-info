@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-08-18T00:02:39.012082",
+  "generated_at": "2026-08-18T03:02:52.853540",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 26.0,
-    "temp_max": 31.2,
-    "temp_min": 25.5,
-    "precip_prob_max": 22,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.5,
+    "temp_max": 30.0,
+    "temp_min": 25.3,
+    "precip_prob_max": 8,
     "precip_sum": 0,
-    "wind_speed": 4.0,
+    "wind_speed": 3.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 22
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 8
       },
       {
         "time": "03:00",
-        "temp": 25.8,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "06:00",
         "temp": 25.5,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "09:00",
-        "temp": 26.6,
+        "time": "06:00",
+        "temp": 25.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.6,
+        "temp": 28.8,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 31.2,
+        "temp": 30.0,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 29.2,
+        "temp": 28.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.3,
-        "weather": "晴れ",
+        "temp": 27.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "8月17日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWQUxYYzlIOHN5REtnc1MtX0dMbGZXMVRpMDdEWUpSVjExcnFQaGlpZDgzTEtxcGFLcnhwOF9ZNTRTaldPZ2tEZnctOEVNaG9xTjNjNXI0SG1xcmRERWduSW9UdWdCbjNWUGlRYzVzTdIBdEFVX3lxTE5NQlg2bEY0aVZULWozb3kzSVlzVXZTVGQ4NS12eXk4c0lvb1U1OFNxaWEtOUdIQjlTZUw5YjhSOUdpeUdCS0ZuR1BWM05RaVJfaUxmcDVnRF82OEUtZFlmbWg3SmJRcXFPc2NkQk1zT2pvSEUw?oc=5",
+      "date": "Mon, 17 Aug 2026 00:03:05 GMT"
+    },
+    {
       "title": "８月１７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveENVQVlrRjBWOHB1TDVYdjBNNHp6d050SDNRdk1ETFhZOEVkcXRIUm9JaWdaNmFOTjhRWXMtTE9tMXpuZU1JLTFWeHl6VzB0ZE90RmZ5TjN4ajJmM1VRd0ZlR2JTclg4cERyN2p0Vnd1Z9IBd0FVX3lxTE0zOVZWVWpKTC1sN2tXNE4zR2g0UDZtSDhtWGlzTW8zYUw2UzdWR2hWQXNBQTFDMEZlOThrRF9xY3AydEp1Vk9YbE5UeE1YVHg3TjdFUFR2aXN2MU9nX09sYzlwVDZIZm5DR2s4RnM4UzlhbGlPQUtZ?oc=5",
       "date": "Sun, 16 Aug 2026 22:43:58 GMT"
     },
     {
-      "title": "8月17日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWQUxYYzlIOHN5REtnc1MtX0dMbGZXMVRpMDdEWUpSVjExcnFQaGlpZDgzTEtxcGFLcnhwOF9ZNTRTaldPZ2tEZnctOEVNaG9xTjNjNXI0SG1xcmRERWduSW9UdWdCbjNWUGlRYzVzTdIBdEFVX3lxTE5NQlg2bEY0aVZULWozb3kzSVlzVXZTVGQ4NS12eXk4c0lvb1U1OFNxaWEtOUdIQjlTZUw5YjhSOUdpeUdCS0ZuR1BWM05RaVJfaUxmcDVnRF82OEUtZFlmbWg3SmJRcXFPc2NkQk1zT2pvSEUw?oc=5",
-      "date": "Mon, 17 Aug 2026 00:03:05 GMT"
+      "title": "【交通取締情報】福井県警 ３月２４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83VndZdkcwcndPU2xtZEphRUtnTDNpVThlYm9MZHVaTGhNX1FsNWtsRnlrMTI0TVhKT2VJSkdpQVpmQUJSQUVJSm5Ccw?oc=5",
+      "date": "Mon, 23 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "８月１６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -80,14 +85,9 @@
       "date": "Sat, 15 Aug 2026 20:08:45 GMT"
     },
     {
-      "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】 - motor",
+      "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MUXVfYmtnOVRlRzlyM2dyUzVIWkNvaUM3em1BRVdkdlB5TllMeWhDUEhIVmFaQXdCQnRqUmZYd0lvTGpsT0s5ZV91dHFGUQ?oc=5",
       "date": "Fri, 10 Jul 2026 06:56:26 GMT"
-    },
-    {
-      "title": "広島・羽月隆太郎容疑者の逮捕容疑は「医薬品医療機器法違反」、「麻薬取締法」との違いは…エトミデートは『指定薬物』",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5QzR0V3k1Z1FxY05BUjJEcTBNckZ2eTM3cG9KYkZIdzlQV2VUR0ctcGpGQjU2ZmpCWlJiVTZ4bUdEU21DUFJKQ1QxYWs1bjkwWnVfTw?oc=5",
-      "date": "Tue, 27 Jan 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
