@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T06:01:11.676160",
+  "generated_at": "2026-08-17T09:00:54.488635",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 21.6,
-    "temp_max": 26.7,
-    "temp_min": 20.9,
-    "precip_prob_max": 2,
+    "temp_now": 23.5,
+    "temp_max": 27.2,
+    "temp_min": 21.2,
+    "precip_prob_max": 16,
     "precip_sum": 0,
-    "wind_speed": 2.7,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
@@ -21,43 +21,43 @@
       },
       {
         "time": "03:00",
-        "temp": 21.3,
+        "temp": 21.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 21.6,
+        "temp": 21.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.9,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 23.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.0,
+        "temp": 26.3,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 26.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 26.5,
+        "weather": "曇り",
+        "precip_prob": 16
       },
       {
         "time": "18:00",
-        "temp": 25.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "21:00",
-        "temp": 23.8,
+        "temp": 23.7,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
+      "title": "８月１７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveENVQVlrRjBWOHB1TDVYdjBNNHp6d050SDNRdk1ETFhZOEVkcXRIUm9JaWdaNmFOTjhRWXMtTE9tMXpuZU1JLTFWeHl6VzB0ZE90RmZ5TjN4ajJmM1VRd0ZlR2JTclg4cERyN2p0Vnd1Z9IBd0FVX3lxTE0zOVZWVWpKTC1sN2tXNE4zR2g0UDZtSDhtWGlzTW8zYUw2UzdWR2hWQXNBQTFDMEZlOThrRF9xY3AydEp1Vk9YbE5UeE1YVHg3TjdFUFR2aXN2MU9nX09sYzlwVDZIZm5DR2s4RnM4UzlhbGlPQUtZ?oc=5",
+      "date": "Sun, 16 Aug 2026 22:43:58 GMT"
+    },
+    {
       "title": "８月１６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XUXc0UG5LZVhqdUM2QllyZnZJcm16UGp3bU40Qmx1bWJvNVc4eXFZZnJZazVNUmJHYThpazN0cTBWVENDR3d5MmY4aXV6RV9uUkFIWUh5MkV1V0VneFUweUFHcWtaczlIUHlKcHNBeDBad9IBd0FVX3lxTE42X0FSdGtOSmlBa05jQjFSc3U2VVpmQUtnSl9kcllCdGtnNWxwQmZnTXpWS2d6dGpYS2dJS0ZBRjFqUFQtVDVjVG1wYjFTcURNelRJbmZpX3Qwc2tjR3lVN0RKX0g4QlNfRHlnZkZ1d2RUNjZJZHcw?oc=5",
       "date": "Sat, 15 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "8月15日（土）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTFE5Qm9IY0N1emM4UUVKZmVmT0p4cXJ1aVJDVmtWVjZ5WDQyOTNLZTgySlpsR2RKOUpRdnRZMVdOTlNRdGRfM2wwWGJkbUpUZkIyTjh4Rmcza0d1WnJJQVFMOGtlLU1CYkZIY19mNNIBdEFVX3lxTE9MYmJZNUh3MldWalh5aFpSNmRVRlRkdzN5eFFtelBYU3FwMFZMbUpfZG9sMkZDemJpalhwWk11WlEtX2tpdGJIZExoZFdwOFU2ajdhd1hyYUQtUEVkYVUxZUNkRlA2UG45UUFHVXZoWnIwYnlh?oc=5",
-      "date": "Fri, 14 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月２２日",
@@ -80,17 +80,22 @@
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfTzU0SWxrbUdyTTlqcXpKZGFTNTBCTDNMbzlnYThUVUNINldGTDZXbUVvZFNaUFY5azNsdlV6ZlRfOGM2aTN4ZTZsR0FDV0pCbFlkemQxN0xxcFhzUHA1bm9NWEhvNUE?oc=5",
+      "date": "Thu, 04 Sep 2025 07:00:00 GMT"
+    },
+    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "犯人が逃走中・山形県上山市で発生の強盗事件、警察が検問も（2025年12月2日掲載）｜YBC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTUxVlJScmtCeUZKV2lWWmozSXZoRW5xbVo1Nm11UXRUOC1NUmM0cXNpbE5NaV9vcXhvRFZibnhDTDFVZzlfc3lhMy1jTmtFdU5fYkhhQVRqRld2akxsRFp1VDllNWs4VkNkUURIb1FLMFE1MFE3UEFwczVJQUlzR19xODlPeFU?oc=5",
-      "date": "Tue, 02 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "出会い頭の事故 車同士が信号機のある交差点で衝突 57歳女性が大けが（山形・長井市）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wekJoeldYdVNYN0ZJd3hsUU43bEJuRWp2eE1vREdJTV85U0t6dV9fWjZ2bXVXSDBlOEVnb21va2hEdGZONVBxUHRUNzN2YmNHLW9vcnV1U0lKaHNXVHJ3WGx3YzRrUDVXU1lieEd3a3BfbmV2SDUxc0hvdTdVQVU?oc=5",
+      "date": "Thu, 13 Aug 2026 01:54:19 GMT"
+    },
     {
       "title": "交通事故の防止・青少年の健全育成に加え特殊詐欺にも注意を 夏の安全県民運動始まる・8/20まで 山形｜ニュース",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZjQ5LVUyZDJWSXNjR2ZYU3VVUkhnOGRpY2lXWC0taXh1X3h6RUJmS0lvNTNfakF3TmlvUnNpVVBNSU9aTENKUmIyeFl5MmQwMzdoTmFBc212RTAzQ2JIa0NwZXA1OTZ0YnpvZ1MyYW9UdGc?oc=5",
@@ -110,11 +115,6 @@
       "title": "山形県水産研究所職員 潜水死亡事故で遺族 捜査結果公表訴え",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtNEZWSmFkSnlPbUhCUkF0YzlqME53ODBwczVWLVBTZlhkSDNSZ1RYdjZ0M2dab3dZSVhCS1ZXX2g3amtOMFlldENCaUl5S1VCQVFZeVg5bUQ?oc=5",
       "date": "Thu, 13 Aug 2026 06:51:00 GMT"
-    },
-    {
-      "title": "【現場動画】国道286号で代行業務中の事故 74歳男性が頸椎損傷で死亡 軽乗用車がのり面に衝突もブレーキ痕はなし（山形市）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MREdHYjdBd1pSUjlFbEgxYl9lajM5N1kyTzJSTE5nOTdOTFoxRkFVdldaU01NSUliU2xpWHJ4aTJoMmo1bGVVRkZUa0pGUVVmaFN0Q0lnYkpacmJmREE5ajFNcVVXU3c?oc=5",
-      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
