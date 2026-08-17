@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-08-17T21:01:55.843819",
+  "generated_at": "2026-08-18T00:01:33.933415",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 27.0,
-    "temp_max": 30.1,
-    "temp_min": 25.1,
-    "precip_prob_max": 90,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.7,
+    "temp_max": 29.9,
+    "temp_min": 24.3,
+    "precip_prob_max": 57,
     "precip_sum": 0,
-    "wind_speed": 5.6,
+    "wind_speed": 2.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.1,
-        "weather": "曇り",
-        "precip_prob": 33
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.7,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 24.6,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.6,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 29.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 35
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 29.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
-      },
-      {
-        "time": "18:00",
-        "temp": 29.2,
+        "temp": 29.7,
         "weather": "晴れ",
         "precip_prob": 57
       },
       {
+        "time": "18:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 35
+      },
+      {
         "time": "21:00",
-        "temp": 27.0,
-        "weather": "晴れ時々曇",
+        "temp": 27.6,
+        "weather": "晴れ",
         "precip_prob": 4
       }
     ]
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "オートバイに乗っていた石川県の23歳男性が死亡 福井県あわら市の国道8号交差点で乗用車と正面衝突（福井テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWXZoempXNGpvQlZNYkVTQ25MUWt1MDRieHhTSXd4VS14SHJaTENYdXBHNjhENkMtNGczMDRjbEdqZzNOeE83azU3SXVJcFBsN2N0V19keF91S05mSXRfRDFadXFGVWJJQXpIYzJQaGVnZXNUNjdzYlJVcjZfWms?oc=5",
-      "date": "Mon, 17 Aug 2026 10:12:01 GMT"
-    },
-    {
       "title": "オートバイの石川県23歳男性が死亡 福井県あわら市の国道8号交差点で乗用車と正面衝突｜ニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENGhNcWh1Vm9PcHMxX3NOc0xTWWlyX1hBZjdweVRGanlmZ1c0dGxwdFJIUHJ2dW5kVlJlMENReUtjZHREcnhmNVVqamozVW55WnJ6cUhLM2szSkNKWE14RC1UTVNaa2F0?oc=5",
       "date": "Mon, 17 Aug 2026 00:55:00 GMT"
@@ -110,6 +105,11 @@
       "title": "深夜の国道8号で石川県人運転のオートバイと乗用車が正面衝突　バイクの男性死亡",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYjBFdUlldTRMU2p4LW9ZU0V5RWtmT25BbEdjSWZXbDJ3TTRweDhBdS1IdTZ1SUR6bC1XLUhTWExGNFBkYVlvdExVSzVPczhweWlGMTl6Q3pFLU9YTjZNbWpoVnJEckhwLXk3QVlMR1Y1TVE0SzVHaHV1LVpjcFltb0xpZmlPbVhWNDBHODZsUmxnZnM3MldpdkJCR2tyLVRVSzZsVjU3b3c1SlE0NUdvTFBkbUxRcW9mR1NvUDJsYlpGc3d2TjlMNFJUZ21qVEV6bkpENHkwRzZtV0Zfbld0VV9XTkxqaF8yYl800gGbAUFVX3lxTE1STUVCZ0FxTE90ZzRYM1ZrNXN3UUtHUHpNX3hZSFNOcDRobE9lVXBNTTBoYlpzeUtNRDBVYXViekFDMW5WVVV0ZXp4SGUydmU4QlRwd1dPZTVaa2s1YXVSazB3ZWpmZzdIT2JTb1BfTnJkeVJ0Z3FGTDY0Ymt5eExQTHpvYklJU3ZGRFl3U3pDNHJ1X25hUzhZSFRF?oc=5",
       "date": "Mon, 17 Aug 2026 01:58:00 GMT"
+    },
+    {
+      "title": "オートバイに乗っていた石川県の23歳男性が死亡 福井県あわら市の国道8号交差点で乗用車と正面衝突",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MMktZbU9nVlMtRXA1QTYzWnBZa2RjWGxvMEZOdE44b3ktSk8zaE1hTEl6dmxZZjExN3ZyXzF3UFYzZzE0SUloMU9WVjdtQQ?oc=5",
+      "date": "Mon, 17 Aug 2026 00:55:00 GMT"
     },
     {
       "title": "石川県内ことし上半期の交通事故発生件数 前年より増加（2026年7月31日掲載）｜テレ金NEWS NNN",
