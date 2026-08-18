@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-08-18T21:03:56.796551",
+  "generated_at": "2026-08-19T00:03:14.618389",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 26.5,
-    "temp_max": 30.1,
-    "temp_min": 24.5,
-    "precip_prob_max": 90,
-    "precip_sum": 2.2,
-    "wind_speed": 5.5,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.1,
+    "temp_max": 31.2,
+    "temp_min": 25.0,
+    "precip_prob_max": 39,
+    "precip_sum": 0.3,
+    "wind_speed": 6.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 73
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 90
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 16
       },
       {
         "time": "06:00",
-        "temp": 24.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 75
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 39
       },
       {
         "time": "09:00",
-        "temp": 26.7,
+        "temp": 27.2,
         "weather": "弱い霧雨",
-        "precip_prob": 47
+        "precip_prob": 31
       },
       {
         "time": "12:00",
-        "temp": 27.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 55
+        "temp": 29.7,
+        "weather": "晴れ",
+        "precip_prob": 22
       },
       {
         "time": "15:00",
-        "temp": 30.1,
+        "temp": 31.2,
         "weather": "快晴",
-        "precip_prob": 6
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 28.4,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 28.6,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 26.5,
+        "temp": 25.8,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "乗用車と軽乗用車が正面衝突 軽乗用車運転の男性（70代）が骨を折る重傷のもよう 山口・下松",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZGVyaDlNS1AtYkYxbXNHaXVXZ3JPbzVzSzZITzJyenRFYmZFaWpRVTg2RWZndUxNMlowY3ZRR3prOC1qY2pGZ0lOal9RZmhPN1ZCbXB2WVdnQWRKQllJMFI2UllvUlE?oc=5",
-      "date": "Tue, 18 Aug 2026 02:36:00 GMT"
-    },
-    {
       "title": "山口県内の交通事故発生状況2026年8月17日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CRVAwQzVORGpUVHgtWUgzYTRqbEdaVkZuN3U4TnA2d091SGdnQWNwWE56MnNUZk14NWNfcWNPUkhPZnd1MTZfS2Vmaw?oc=5",
       "date": "Tue, 18 Aug 2026 01:10:00 GMT"
@@ -107,14 +102,19 @@
       "date": "Mon, 17 Aug 2026 01:00:00 GMT"
     },
     {
+      "title": "乗用車と軽乗用車が正面衝突 軽乗用車運転の男性（70代）が骨を折る重傷のもよう 山口・下松（ｔｙｓテレビ山口）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4teC1fcXViTWNsMXhqRUxWREcwb1l5ZXFDNlZoSXptXy0zZlQwNWZHZk9CVVNITmRONGprc1VJVTkyR3JibE94U3BtYnpCT1hVQXR3SWJjeldmYmd4MlByTU1PTjZiaHRWX1hkcmgyVlJhX2dRRmhkdnEzNVlHM1U?oc=5",
+      "date": "Tue, 18 Aug 2026 02:41:13 GMT"
+    },
+    {
+      "title": "【交通情報】宇部市山中の国道2号で大型トラックと乗用車が正面衝突　上下線で通行止め→午後１時１６分解除　山口",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tbzAtQjI2V281ZC1TcXJkRFNnSlhncVpzY3FMa21pLUVBd2RjSnZsdGVPNVI0NjQyY05feFRRWTFKOUtiVF80bmpvWkhYcFNKVUt2MEw0cllhUEt5TGNFMk9EeUNBekpMeVllSEtxd9IBdEFVX3lxTE9CVGFydlFPc2lfSGJTNjljOHVweUxlY1AxRVNJdEN3NzdLMlhpN3pVU1dRQlYyRUsxRGxQLUlVNnRSOVlMTTlZNmhYSERMSm1IcTltYWFwZ0dxaXpVYVJkVzdYOXVnaHdzdW5XZldhd1NOQmFL?oc=5",
+      "date": "Tue, 18 Aug 2026 02:56:00 GMT"
+    },
+    {
       "title": "【山口】２０２６年上半期 交通事故で２１人死亡（yab山口朝日放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UV3pkejd6eEFLWWduNjJORkhCd3hnekpkcWZOUDl3REFNalFZbmlnaGRMeHA3WVlRNHJqZDRYQ19ZOHM3SGo4dkttUGFROGo2NThkWnI3Sy1pRHd5NlZiZmtMR0lYbkxnNnRfYlpaTVFFNXFXVWp2UnZFbjkzams?oc=5",
       "date": "Thu, 13 Aug 2026 03:06:19 GMT"
-    },
-    {
-      "title": "【山口】下関市で水難事故 ４０代男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hNkZxM1hDN29XNmJ5cHJPNUJoRDRyNnIzWlh4VGEySEdrYkJKd3JxYW5JSTB0ZmpLeDZZRTJmR284b21DLWthY1RWVXRVb1R1MWxPd0xuYw?oc=5",
-      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
