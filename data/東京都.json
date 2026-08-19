@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-19T18:04:07.078633",
+  "generated_at": "2026-08-19T21:02:13.299640",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 27.9,
-    "temp_max": 31.9,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.1,
+    "temp_max": 31.5,
     "temp_min": 22.5,
-    "precip_prob_max": 27,
+    "precip_prob_max": 20,
     "precip_sum": 0,
-    "wind_speed": 7.0,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
@@ -41,24 +41,24 @@
         "time": "12:00",
         "temp": 30.6,
         "weather": "快晴",
-        "precip_prob": 27
-      },
-      {
-        "time": "15:00",
-        "temp": 31.9,
-        "weather": "快晴",
         "precip_prob": 4
       },
       {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "18:00",
-        "temp": 27.9,
+        "temp": 27.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 26.3,
-        "weather": "晴れ時々曇",
+        "temp": 26.1,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
@@ -92,29 +92,29 @@
   ],
   "accident_news": [
     {
+      "title": "【速報】都営バスとトラックの事故 7人けがか程度不明 JR新木場駅や東京ヘリポート近く 東京・江東区",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EOWlOb3Bva3VQRFlPMXhsNi1ROVg4cmE3c3NGTDhLRjltMVVZdHhlWlJvVEY4MzBxVTUteXBHOGttbEFxVXRRTVd0bWRfUQ?oc=5",
+      "date": "Wed, 19 Aug 2026 09:55:00 GMT"
+    },
+    {
+      "title": "【速報】トレーラーと都営バスの事故 ７人ケガ バスが中央分離帯に… 東京・江東区（2026年8月19日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Lam50a2JCRFEzUHVjVWkzd3ZDZjhLNTlFSXZSOThTRGVBMzRzV3ZlUExVaVdveGFSLUJiazY5cnpNVUw4SllEZWxuX204R1J4WEo1NzZHUGFUdUhmblJrb0l0QzFkeHl4cGFwRlExdEdLb2dCYkk3eGhKSUQ?oc=5",
+      "date": "Wed, 19 Aug 2026 09:59:01 GMT"
+    },
+    {
       "title": "東京海上日動、自動車保険DAPに「スマホながら運転警告」など事故防止AI機能追加…12月から",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OS21uakVYMnk4VzZQSFZXQ1JySnc1Q0hLck53T19wU3VQeHZtZUxnWWU5b3JuYV9PalhWR011QlNwMW5XMkdPNUNqdmhLWjVQR3VtWC14WExYRTRzVWtJ?oc=5",
       "date": "Wed, 19 Aug 2026 08:30:03 GMT"
     },
     {
+      "title": "【速報】都営バスとトラックの事故 7人けがか程度不明 JR新木場駅や東京ヘリポート近く 東京・江東区",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9la3ozMUpDYkpVeFVDLW1KczRlY1BRb0pUMW1RY1d0QklGWHdBZnlYd1ExSW5kQjlPcTMtYm44X2xZNjJ6V281eVNZQS1aREFySFc2THpOUzNaNmU3dWpxWkQ5Xy1FaTBLZzd3ZHlHYVVpbWZpNTFuZUljSy1PcmM?oc=5",
+      "date": "Wed, 19 Aug 2026 09:56:21 GMT"
+    },
+    {
       "title": "東京海上日動調査サービスにて、ダイナミックマッププラットフォームの3Dmapspocket®が採用 交通事故調査における現場確認の高度化・効率化を支援",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTlh2Y2hHWE9IY29HRDNhYUZGMUt0bFN6UlNRcUt6TkZueDJnQkpTOERVUTRjN2hUWXc0UzhuVDR2dHJha2NMaG5YMG5ZV1ZFenZkYzJKU2ptRnNwWXhrVUFhMlM5ell3RGc?oc=5",
       "date": "Mon, 17 Aug 2026 23:30:01 GMT"
-    },
-    {
-      "title": "【速報】トレーラーなど3台が事故 3人けが 東京・大田区",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80dURQYlpVVVdTSTc5S09qUlhRNWxjMTA4bVVHazBIekJvMUUtTXUxcWJsaldXakEwX2NpcXlNMzlhN3JoSHVfUlc3a3cyVTFpT0xMOWJBZ0hZcG9xdjAxUUxzeE1hN0VnYkNpTHB4cVZZZw?oc=5",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "スクーターの高校生ら2人が死傷、衝突した車の運転手を逮捕 東京（朝日新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RMTFOTjlBZGpFODBfcVp3a3g1T0c0aE1tUGhOV1BmQUw0NHBKZUVMOU8tMzUtNFY0SDdRdkU1anhxbzlUbHptTk55ZEhqSUtPUnR3dVhfU3FXT3kwVTJDVWxFZkRGZ2pYUkxUcXZLS1piUHg2eDI4bllWbnZwZUE?oc=5",
-      "date": "Fri, 07 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "夜道に寝転んではねられる…夏場に急増「路上横臥」事故 悲劇を防ぐタクシードライバーの取り組みとは",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zb0FGQjlnVVpiTzJVX2FXR0YzQ2VwOWpoNFo0dy1McHFJeTBtZmk4UmFTbVFob243ZjNFZkV6RW5rZzQ0YTVwSUNmWG9jSE5BaE5J?oc=5",
-      "date": "Sat, 04 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

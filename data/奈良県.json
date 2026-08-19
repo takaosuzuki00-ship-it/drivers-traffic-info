@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-19T18:07:25.866710",
+  "generated_at": "2026-08-19T21:04:29.494854",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 30.6,
-    "temp_max": 31.7,
+    "temp_now": 27.3,
+    "temp_max": 31.8,
     "temp_min": 23.4,
-    "precip_prob_max": 16,
+    "precip_prob_max": 33,
     "precip_sum": 0,
-    "wind_speed": 2.1,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 30.7,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 8
       },
       {
         "time": "15:00",
         "temp": 31.7,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 33
       },
       {
         "time": "18:00",
-        "temp": 30.6,
+        "temp": 30.5,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 16
       },
       {
         "time": "21:00",
         "temp": 27.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       }
     ]
   },
