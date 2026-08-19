@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-08-19T09:05:14.403670",
+  "generated_at": "2026-08-19T12:03:29.038948",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 28.0,
-    "temp_max": 31.6,
-    "temp_min": 25.1,
-    "precip_prob_max": 78,
-    "precip_sum": 0,
-    "wind_speed": 3.7,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.2,
+    "temp_max": 31.2,
+    "temp_min": 25.2,
+    "precip_prob_max": 99,
+    "precip_sum": 0.1,
+    "wind_speed": 6.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 26.2,
         "weather": "晴れ",
-        "precip_prob": 29
+        "precip_prob": 90
       },
       {
         "time": "03:00",
         "temp": 25.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 39
+        "precip_prob": 94
       },
       {
         "time": "06:00",
-        "temp": 25.1,
+        "temp": 25.3,
         "weather": "晴れ",
-        "precip_prob": 24
+        "precip_prob": 67
       },
       {
         "time": "09:00",
@@ -39,21 +39,21 @@
       },
       {
         "time": "12:00",
-        "temp": 31.2,
-        "weather": "快晴",
-        "precip_prob": 20
+        "temp": 30.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
       },
       {
         "time": "15:00",
-        "temp": 31.5,
-        "weather": "晴れ",
-        "precip_prob": 78
+        "temp": 31.1,
+        "weather": "快晴",
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 30.9,
-        "weather": "快晴",
-        "precip_prob": 57
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "21:00",
@@ -65,14 +65,19 @@
   },
   "enforcement_news": [
     {
-      "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dWotVGJqbFZocGU0Q1pVMk1ISUtnYVlQcHcxSHRvbWotZE05YmI0UXp0Z0pHZkpQYkMzVkVwOUg1ZDlqSUlIelRmTmlFWG8yeVFXNWZLLXNIanJtMXFRLUlSekExM2haTlY0YTRCTdIBdEFVX3lxTE5SeVZ2VU15TDhpTHp1T1lHMGNxcmhERW1sSk95eDhpN0FBdFE2QThOMmFtV2RjQktMZlg0TllhMi15VUpFanVIa00wX09PQ0JoZGdjbzJxYXFQbnJkaU1HTzBvZ0FNbjdHV2VqZlV3bmtlekRo?oc=5",
-      "date": "Tue, 18 Aug 2026 20:10:00 GMT"
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTMXl4S05wdHJld1NFNDFXazZNQ1F2TkxmR0I5YlV5ZjJYOFdFOFRVUDJOVVRLeGhuWmZKdHEzWHd1NGFJbmNVcjIxdlhCbDJPcXhkcVlmQmVzY29WSEtab0I4VTN2eElac3ZXR2o5Q3RxZ9IBd0FVX3lxTFBUc0ZJVnd3Sm9xUEJkNWNFa1BWekxySG4ybDl4SUJqYjBBNFJMLXhtcHdhMHZpRjRIZDZDdWxqLTczbWVXLTYzUkotVHdtVzY1Umxrb3ZBeWlWblVPR2R1b2FoaTA3RnNrRGU4T1BMY0hhcHc3ODdr?oc=5",
+      "date": "Tue, 18 Aug 2026 23:08:37 GMT"
     },
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dWotVGJqbFZocGU0Q1pVMk1ISUtnYVlQcHcxSHRvbWotZE05YmI0UXp0Z0pHZkpQYkMzVkVwOUg1ZDlqSUlIelRmTmlFWG8yeVFXNWZLLXNIanJtMXFRLUlSekExM2haTlY0YTRCTdIBdEFVX3lxTE5SeVZ2VU15TDhpTHp1T1lHMGNxcmhERW1sSk95eDhpN0FBdFE2QThOMmFtV2RjQktMZlg0TllhMi15VUpFanVIa00wX09PQ0JoZGdjbzJxYXFQbnJkaU1HTzBvZ0FNbjdHV2VqZlV3bmtlekRo?oc=5",
+      "date": "Tue, 18 Aug 2026 20:10:00 GMT"
     },
     {
       "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も",
@@ -83,11 +88,6 @@
       "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「2つの事故を風化させない」 飲酒運転撲滅へ福岡県警が合同検問（2026年3月27日掲載）｜日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NaS1aWHdnUHFSdTFxczEtNUwxTVo2dldlWG85RmgwNTJHY3BHdG9kNkptRndvTTVmaDNLTDB6LXQ5ek1DdGphX05CeUpEZHFTQUFrVE5KQ1B4YzJUNEIzY0RtVlpxZXVobjZ2YlltRWtWd1hTdmFZTFQwUThScGs?oc=5",
-      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Sun, 16 Aug 2026 23:54:09 GMT"
     },
     {
-      "title": "福岡市、公用車10台に飲酒検知機器 海の中道大橋3児死亡事故、20年の節目に運用開始",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qeDQyc0NDVXltUks3a1dmakJ6c1N6c1BHQlV5SlZzOXk5cVR4b05DVG56RC1HQWZqaERKeFdoeFBKOEQxcU9HTVZVMEduZ0doc0M2b0lR?oc=5",
-      "date": "Tue, 18 Aug 2026 09:56:00 GMT"
+      "title": "「人が浮いている」天神の川で発見 女性の死亡を確認 額に傷 事件と事故の両面で調べる 福岡",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZklETkhRWnNXY1pGQktSNTNyR3dHYU1VZEpfbkw1am9tSXI0am92Z3NPZU81dFlwUGVVTGZPQTJUd3pSQksyQ2Uxd0hXREYtVmd5cFpNNWNTb3drLW1JVURXZGZlNWJ0SkZNWmRHeE5pZXVJZ1dDc0RaYVYycGNFZ2NVVDFDWk0?oc=5",
+      "date": "Wed, 19 Aug 2026 01:56:00 GMT"
     }
   ],
   "official_links": [

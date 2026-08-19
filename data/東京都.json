@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-19T09:02:14.694536",
+  "generated_at": "2026-08-19T12:01:31.439314",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 27.6,
-    "temp_max": 31.5,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 30.4,
+    "temp_max": 31.8,
     "temp_min": 22.5,
-    "precip_prob_max": 10,
+    "precip_prob_max": 15,
     "precip_sum": 0,
-    "wind_speed": 1.8,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 24.4,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 10
       },
       {
         "time": "03:00",
@@ -27,62 +27,62 @@
       },
       {
         "time": "06:00",
-        "temp": 22.9,
-        "weather": "快晴",
+        "temp": 23.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.6,
+        "temp": 27.8,
         "weather": "快晴",
-        "precip_prob": 6
+        "precip_prob": 12
       },
       {
         "time": "12:00",
-        "temp": 30.2,
+        "temp": 30.4,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 31.5,
+        "temp": 31.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 28.1,
-        "weather": "晴れ",
+        "temp": 28.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 25.8,
-        "weather": "晴れ",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "８月１６日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56VWdqOGs0VUcyOEI5bFRJYkJ0bHpEM3ZaQTBiQWZjRW9oM1lSYnpJMS11eUFMaE9jcE9ncmJnQS1nU09NTG51QURDeWxHSXB2RXVqR1Z2NA?oc=5",
-      "date": "Sat, 15 Aug 2026 20:00:00 GMT"
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
+      "date": "Tue, 18 Aug 2026 22:53:06 GMT"
     },
     {
-      "title": "8月18日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CX21FMDU3emc5aUF4VW9KMnpDaF9xcE1uNjIwSmZqYl9DX2ZUTHc2bC1Pd3JUV0hTRE5DWE9ackxNTTF0U3JfaVpfNGdhNldlSG15WVhEMWFKMXlvWEpzLUctYUdvTmRDbnBBOWo5NNIBdEFVX3lxTE5DM0VPTEl1cXZMbWVsVkktUjhoQm1KYnBVYkFKZGZNSVh1SW5HaDZWSnJxV3Vib1J2YXduUmN3bFJ3ZEM3YTV2Unh0Mjc4OEhEaTIzZ1FYSjhfUm4zWUZ1WXAybkdTRHNTZXNuREdtVWFzUTFR?oc=5",
-      "date": "Mon, 17 Aug 2026 20:49:06 GMT"
-    },
-    {
-      "title": "８月１７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveENVQVlrRjBWOHB1TDVYdjBNNHp6d050SDNRdk1ETFhZOEVkcXRIUm9JaWdaNmFOTjhRWXMtTE9tMXpuZU1JLTFWeHl6VzB0ZE90RmZ5TjN4ajJmM1VRd0ZlR2JTclg4cERyN2p0Vnd1Z9IBd0FVX3lxTE0zOVZWVWpKTC1sN2tXNE4zR2g0UDZtSDhtWGlzTW8zYUw2UzdWR2hWQXNBQTFDMEZlOThrRF9xY3AydEp1Vk9YbE5UeE1YVHg3TjdFUFR2aXN2MU9nX09sYzlwVDZIZm5DR2s4RnM4UzlhbGlPQUtZ?oc=5",
-      "date": "Sun, 16 Aug 2026 20:00:00 GMT"
+      "title": "８月１８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PeGN1bFUwOTNsSlV6cjRyeWx2V25NcG1Bd3pwYlRqZXE4WWlZTjBTRklua3hXZVlYVUI4ZmRRaWp4Z2dtb2l2Q1pPY3duNGlIcmdKVndZQnNFbjB6VGNFWFN2VHFMdVJVbjNIdWFicGNPZ9IBd0FVX3lxTE1zTk1UUlFOYVBHYW1pZTBoTF9obnFtN1NLMjZaYVNHSDk5MDNWRTlkZXlTeXhvY1czRXF6Z29ELUpnclc2S3RYdXdENU5pUENNLTJvemt0cFRYaFFzdEJQeVh4aUVxVlRaTkw5RXlYZVZHR3gzOVNB?oc=5",
+      "date": "Mon, 17 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
       "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "8月18日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CX21FMDU3emc5aUF4VW9KMnpDaF9xcE1uNjIwSmZqYl9DX2ZUTHc2bC1Pd3JUV0hTRE5DWE9ackxNTTF0U3JfaVpfNGdhNldlSG15WVhEMWFKMXlvWEpzLUctYUdvTmRDbnBBOWo5NNIBdEFVX3lxTE5DM0VPTEl1cXZMbWVsVkktUjhoQm1KYnBVYkFKZGZNSVh1SW5HaDZWSnJxV3Vib1J2YXduUmN3bFJ3ZEM3YTV2Unh0Mjc4OEhEaTIzZ1FYSjhfUm4zWUZ1WXAybkdTRHNTZXNuREdtVWFzUTFR?oc=5",
+      "date": "Mon, 17 Aug 2026 20:49:06 GMT"
     },
     {
       "title": "東京都江東区で「不正改造車」一斉取締り実施 スポーツカーなど9台に整備命令",
