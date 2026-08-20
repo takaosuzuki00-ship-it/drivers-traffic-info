@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T06:23:05.295598",
+  "generated_at": "2026-08-20T09:01:33.390547",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.5,
+    "temp_max": 29.2,
+    "temp_min": 22.6,
+    "precip_prob_max": 99,
+    "precip_sum": 0.1,
+    "wind_speed": 0.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
+      },
+      {
+        "time": "03:00",
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "06:00",
+        "temp": 22.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 28.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 26.2,
+        "weather": "晴れ",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
+    },
+    {
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【デマや誹謗中傷の取締強化】宮城県警が衆議院選挙違反取締本部を設置（2026年1月24日掲載）｜ミヤテレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDkwZ1JjZzFCaHo4TDZzc1lrZko1VFNFQk8tbjRKbmlIamVVU2lHRlN4dWVJUlFEWngta1VtTlRkWk1KaGhVMV9pU2I5VjFmMDZXT2R2OGVhSlUteEhjazlnUkFtbExJTjhjeTlERlROZ3oxZUN3WlhmLVZEenR0NnNjeXRfNmM?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車1台が横転する衝突事故で2人搬送 命に別条なし（宮城・仙台）（ミヤギテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyc0U0SUhKZTVTSTZ1N2hBX09fVmcxdlhIUHlWV21DUURmZHA3Y1dJY2lVOG5UZzR2ckhCcWtXaXY1Qk40ZHBlQVhwNXNfQjIwaS1lSXd6bFBWOUpzU296Q1JiLUFJNW1qTTRYS0FsekJrMTh5ejkySlAwTVJrN2c?oc=5",
+      "date": "Tue, 11 Aug 2026 06:15:00 GMT"
+    },
+    {
+      "title": "太白区富沢で車3台の接触事故か 2人けが＜宮城・仙台市＞（2026年8月5日掲載）｜ミヤテレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmw2OVlBT1FBZGpnUml5cHFEaWtWSGJQRjVrem13elNtdW9PQkJ6MDBydmFiUzYwZ3lVbnNwUXB0OWRoOXJvUUtVQ0ZhX0h5cGpHUEhQcVlEWXhJVUhYM0hlYlRhNERXejhlZjhXdWhkenQtalRRZzNXRmFhWF9JNkN2QWMzVFk?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "詐欺・交通事故防止へ 宮城県気仙沼署が割り箸袋で「ばしっと」啓発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdE02UGFJN3dXVXFpMktDT2Z2WmIyZGxPQnVRMzRHb3lFX0ZnWV95OXg4enpwRXJhLWttTkJ1RkZMSnliOXYtV0dEd21SNF96aDFRbkRSX1lNdzg?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡の作業員は宮城県の33歳男性と判明 泊原発構内で約9メートル転落 搬送先で死亡確認 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMElzSTM3YVFhYlhTZlJHVEtiT2ZPdFYxTHRXSUgtdV9GOFdkaVFYeUYxdldmSG0wY2VhUHNHeFFGdnJlalNXbU9kWXdxdkc2ZU9QdTcwNlZaSGxzbm12azRkR3BMUG04cVFwa1h3UXZyNGZlM0g1NWN0N2dCZ1k?oc=5",
+      "date": "Wed, 19 Aug 2026 10:43:12 GMT"
+    },
+    {
+      "title": "ＪＲ石巻線の列車に８０代男性はねられ死亡 小牛田～石巻駅で約１時間２０分運転見合わせに〈宮城〉（仙台放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVlo2VHdLb094T3hhV2VCc2NiZVhJVkd4Sl9GcFdnUkVBM1BMQ3l6MTBCeC02Vno0WnN6bWx2M2RzME45WlRsdTdMMWdGQTFpb0JITVRCZXVCZ3JSUWZOMU5zRGljWlYtU0pCXzFwR3JFcTZycTJZZDB4TnV6ajA?oc=5",
+      "date": "Sun, 16 Aug 2026 09:08:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T07:32:06.284359",
+  "generated_at": "2026-08-20T09:04:13.382040",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.9,
+    "temp_max": 31.5,
+    "temp_min": 25.0,
+    "precip_prob_max": 43,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 30.0,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 31.5,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 43
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大阪府警が飲酒運転の一斉検問 阪神高速で７月に起きた死亡事故を受け ４日までに２件の飲酒運転を検挙",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0SUtZU2hWbEpIOVVUSDZUMEJmSk1vdmUyRkIxaWhwVzZpRVM4NmIwc3BFM3FJZEItdVJna2duV1NIbE54Z3MwcC1CV3d2TVdybDdoT0J2ZmNud2tydy1rY0Jn?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "改正道交法周知 府内で一斉検問 酒酔いなど7件検挙 ／大阪",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoVjNkOTI0aFFocldfM3JiV1JvYTQ0RjJYVmo4Q29vNHR4VmMtMFVYRUpYZmhQY1NydFAzRDMxV2RoTEl5OU50UkFab2JLSGVaYUQxU09Fem12My1vemxkajlSMU9yb2Vf?oc=5",
+      "date": "Tue, 11 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "吉川友梨さん行方不明から23年、現場で検問 情報提供呼びかける [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qbVlYOVF3OC1zOUx0V00xTWJicmx0TGZPMW43NjZpOF9VM1VCYV9VZU9YZkFqbkRBT3ptNy0xUVhiVjlpLVV1ZFM4bU9WOWkzSUxEWUxoeEZ5N1YwcEVQUEJtcXp2R0k?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大阪府警が府内6か所で大規模な飲酒検問 阪神高速でバイクに乗っていた男性がはねられ死亡した事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10dDdMaV94b2Z5azR5WHBEcVVMbUJPSU9qMlNFUDlHRUNMYUhnSW1fdVVFNEdxY250X0kzZ3pHckNNa3VtY001VC1oUQ?oc=5",
+      "date": "Wed, 05 Aug 2026 07:10:23 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "阪神高速160キロ走行で死亡事故、危険運転罪 新基準を適用し起訴 [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05b2JjbWRIM1hpbnBrMlA2YkctTC1HYXduRG1GQnNfRlFIVk4tdTBjUmRSUVdMRkRESEhjbkpaNkZybWItZHpTWlhuVXo1ZWVtMmFuZ1ZCT0N6V1QtUUExU3JiUE1IWkU?oc=5",
+      "date": "Fri, 14 Aug 2026 09:04:00 GMT"
+    },
+    {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "大阪・生野区で6日発生の重傷ひき逃げ 車で逃走していた23歳建設作業員の男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oSXRKempSVUxiVS1ESml5RWFRUkd2RE5lTTd4ekdoNnZxUm5mYUpjcWYwaC1vdXFnMnVZNmRwaXB6RnpMajRHU014U3BLR0lXZGRXYXQ5WEszM3lvM3pYVE5ReHdQVFVpX21nT2YzVEZEY3BrSDJONl9mR0xpUkU?oc=5",
+      "date": "Tue, 18 Aug 2026 05:48:11 GMT"
+    },
+    {
+      "title": "【速報】お盆休み最終日 乗用車9台絡む事故で3人軽傷 大阪・近畿自動車道（2026年8月16日掲載）｜YTV NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHpRRnM0ZHQzS01idVBwRHQ1aGxZNlN1TTVJY1dmN1VfSzk5V09uOW9vNDZPZ3hOemdaRkJYTVRTcGM4SEJvZ2ZqYy1ySmpsT0dXNks1RmJEd2F0S2ZSN3JGMUxTRWVMOU1wSWlwdUJrNGh0ZmVlaFlhQXByb1lLSnFDYjBnX28?oc=5",
+      "date": "Sun, 16 Aug 2026 07:32:01 GMT"
+    },
+    {
+      "title": "「返事もあり、大したことはないだろうと思った」ひき逃げ死亡事故の容疑者を逮捕…はねられた男性は搬送後に亡くなる",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53RTlRNEtXSDdoZDQ1UTU2ejNWUE00OVhxV3k1dlktQkxKMHY2TkdrZF9nQXFDOHp6MktIOWthQUpBUHIzVmJKVklxbEk1aDYyZHQ0YnZ3OHNXMlp6SnNQUFBIdEZteEI0YjBMTFAtenoyUQ?oc=5",
+      "date": "Wed, 19 Aug 2026 06:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大阪府警察 公式サイトを検索",

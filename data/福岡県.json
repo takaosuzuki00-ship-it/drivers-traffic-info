@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T08:11:07.390006",
+  "generated_at": "2026-08-20T09:05:37.262964",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.9,
+    "temp_max": 30.7,
+    "temp_min": 25.9,
+    "precip_prob_max": 100,
+    "precip_sum": 0.1,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 28.9,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 12
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTMXl4S05wdHJld1NFNDFXazZNQ1F2TkxmR0I5YlV5ZjJYOFdFOFRVUDJOVVRLeGhuWmZKdHEzWHd1NGFJbmNVcjIxdlhCbDJPcXhkcVlmQmVzY29WSEtab0I4VTN2eElac3ZXR2o5Q3RxZ9IBd0FVX3lxTFBUc0ZJVnd3Sm9xUEJkNWNFa1BWekxySG4ybDl4SUJqYjBBNFJMLXhtcHdhMHZpRjRIZDZDdWxqLTczbWVXLTYzUkotVHdtVzY1Umxrb3ZBeWlWblVPR2R1b2FoaTA3RnNrRGU4T1BMY0hhcHc3ODdr?oc=5",
+      "date": "Tue, 18 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒検問で「赤切符」 検挙された男性が語ったこと 飲酒運転ゼロへ②（FBS福岡放送）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1Q1bmVXcUNKNVptdEZIbFdLVzZxQk5hUExXYlJobFV6dFJmUEVPVjVKM2VBNERBY2JseG5vdWdTbVoyc203Y2E5Q01Iak01NkdXeDdFbU1NOFJrNlhlVmNzVzlPMVljSVAteHhtQV95dFdzdXBnMl9MNTRSSTlkTmgzMGhnLVRkcmM4dURB?oc=5",
+      "date": "Wed, 19 Aug 2026 22:41:21 GMT"
+    },
+    {
+      "title": "二つの飲酒運転死亡事故「風化させない」 撲滅へ、福岡県警が検問 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbHRzQnVYWVBkYlkyUWdza0xLaEpsWnlxVXFPd3gyM3gwVFcxLTlyUVNEdXJueFNPemk4VVM4UWF6bVk1ODNNRzRhZWIyeTdTYUI2RHA1VjlhZGtUbHBHY3Y0cnZRUHM?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福岡県警が特別取り締まり、酒気帯び運転など１２２件摘発…基準値５倍超のアルコール分検出で現行犯逮捕も",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ZlprejU2MXNnVnBaRE1tVmFZUEVNcExteEFwSHhrVXVKd3FJaXlYWmJmUHRpaEVCeHBnaUNZaDNBemtMNTMyZHlLTG02a2xZODByaHpOWHBjcVN1MklzUGNITDdnY0t2QndTY2FhRG1Wdw?oc=5",
+      "date": "Sun, 26 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "福岡市３児死亡飲酒運転事故２０年、公用車に「アルコール検知でロック」装置…基準値は法定より厳しく設定",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iQUdlRkNqZi0tOUh6UzlWZ3diMHcwWFcydjEwbGNYVHk4SDRHb0xlSElNTGkxQ0IxaWM0UkdzTjFOYWU3eHozaEgxZHdoaDZfVTQ5TnZ0T1NBcEYyUDgyMGkyaGpadWhrSmJmajAtMkIzY2tuaUZibVRLNFhYLTg?oc=5",
+      "date": "Wed, 19 Aug 2026 02:51:51 GMT"
+    },
+    {
+      "title": "自衛隊車両など6台がからむ事故 九州自動車道の下り線 10キロ超える渋滞に 当時の状況を詳しく調べる 福岡・古賀市",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qY3B1eFZhdFp6WXNCQmxhS2FCeHpPdzVEX09KNGF1cmJ2eXE0Q0VZd3BFVDdGTnh5T3NQNzVhbmZnMU5saWR5Rm16TE13R0lYV1JXdXlrVjJQZlhxQmU5UU9RYw?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車に利用者を乗せたまま“酒酔い運転”　デイサービス従業員の男を逮捕　追突事故で発覚「酒は抜けていると思った」と否認　福岡",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUG45SWZXMVBqVDJBVGhXSDN4TFk5VjJNMTNFZGE4N3RJdEdzbUFBYVZNdUkxS1B2MzZwVnJ1R3g4TFVpQk9XVWc5MU1fQW1LenZwZTNab19DajE5V2IxRWhCb1VyQnBuQnM2SnVnRm9wX1VjVnQ4enpVR21iN3lhSEgxSUdRRWctcGNBLTJGNzFwQVBtOXJKaEExeHlnRXAxMWxGbEk3bnRFcVZTRWxFS0x6b1hDRUU1cVZVUU5NQVFCS3R10gF0QVVfeXFMT05KNzFhTEhhTHhSWlo0eXRfUEJoaXAwVmFOYy01dGk1ZFZMVEFhV3RrMWJwVHFSZ1JPSjZlLU5abXlBMG1CaWt4Z2NSdTBabDhQOVBvdVY1dG5hMVBRelhtbmx1SFVQWVI5VDJBdmZHYmY0Sng?oc=5",
+      "date": "Wed, 19 Aug 2026 10:20:00 GMT"
+    },
+    {
+      "title": "橋で女性倒れ死亡 正座の体勢で前かがみ、ひき逃げか 福岡・中央区 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoYzlsdGthQm55YkFSZWFHMlUzSWl1U1JfUmJiTWViSjVvc2RZX3BWOU53Y3VKXzJDU282Tml0VjduTkhVTmwzajNLeEIzLTIwUlhyTGNrQUY0SWNmLVNUbUpWZHRoSEU?oc=5",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「人が浮いている」早朝の天神の川で発見 女性の死亡を確認 額に傷 事件と事故の両面で調べる 福岡（FBS福岡放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTnZvNkUzRzkxNWM3cFptVjNBR0NRQ0N1UE5qY0ItdFlITk1JcnBqTnl2ckNKbjFDX2hDYktQM09tUXJZbUdpT1I0VDJKWDVjQlAwY0p4eGhlR0xrYlpYazNIb2szbm9LRXBLZmlvNS1Vck4xb1BoZlZ1QlNfb0U?oc=5",
+      "date": "Wed, 19 Aug 2026 01:59:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

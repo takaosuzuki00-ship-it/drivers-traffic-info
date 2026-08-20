@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T08:26:07.836045",
+  "generated_at": "2026-08-20T09:06:08.247608",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 28.0,
+    "temp_max": 29.9,
+    "temp_min": 26.3,
+    "precip_prob_max": 100,
+    "precip_sum": 11.4,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.8,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 26.9,
+        "weather": "霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "06:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 28.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 29.9,
+        "weather": "快晴",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 29.6,
+        "weather": "快晴",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 28.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 27.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月20日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcEc2bDlOcDY5WXpWdzFaVzFUZFJ1c0kzMnlZMkF6SGZadjdrZUN0U1BVMUZhXzdsbVlPR0RyOE5DbzNXZHI2T3hLZVgxdTZkM0NUTUQ3TE00b3FBWjRURjMwQVIwOVRPY19RTmJwONIBdEFVX3lxTE9Pdk9ZZERvaTRXWG5VQ1VVLUlwcGVTb0dGSXdWWFZTeTd3eC1jSXVycjE0QWxnUzhYMEZqLWI0UjdlckxtU2ZiVm14S2VBSnp3Snk3Q3JyTTNiOWhMNEJRV0RvV2ZMQ3FiMm1HcU44Vks2azNS?oc=5",
+      "date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
+    },
+    {
+      "title": "８月１０日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RMGNvMlF1dUZTc19SdWdXTTRzbHhsclVIQ1ROcE1TU0JSZ1QxWHl2UHlUVVJBazBZWUUzSFluSnJzWHVGRjVIWjBRVU9qS3d2Rno0eUxfTWx2Z2hibll3VmdjOG02ZDkt?oc=5",
+      "date": "Sun, 09 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "れいわ山本太郎氏は大分で「149キロスピード違反」を起こした5日後、宮崎でもサーフィンを“おかわり”していた レンタカー代はちゃっかり党費精算（デイリー新潮）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLVNGMzhrSWtKTWc5OERwLXRGZEluT251bmVLbnZVNXNTSWFUNmtwcGhmSFlMNXFSaWUyS1MyT1drNXN1WHFpYTBCSVE3blRIbmJnQU5Sc3FwMXlvekpaejNTR3NBV09XcHdjMV9IeTlQQ08zZkFzTkdGdGtwSlU?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "九州道の迂回路、事故・通行止め相次ぐ 物流業者「拘束時間超過」 [宮崎県] [2026年熊本地震]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUmVGVkJBTU9NMmNYa3JKdWQ3Yk1qUFN5dzZlNHZId0RkdWdGemFha0I2d0FqREE3ZkVTY1dIUGp6WTFaOHM1ekhYVjZVUUcxSzVsWWc0bm9yS3Y1NjVCQW53azRlM2s?oc=5",
+      "date": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "お盆期間中の事故、渋滞に注意 熊本地震 広域迂回路の東九州道で交通量２倍（宮崎日日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnT01nZVNlQVlza2FZdFZJbzRreV9udVFPZGxXdTVteXd0VHctMW81TE5XY20wRnFDS0ZkT2hRQ250cHNmUm45MmJfcmlkelRPazNXdmpkTjdQcmVYQWpreWZ6LWUtNFZjOXBtM2xEMGlIN0FfUFJRZk0yY0RydDA?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東九州自動車道　熊本地震の影響で迂回車両が増加　交通事故は去年同時期と比べ2.4倍に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xTy0wbTJFRHA3MmhWOUJmTERWOHVlM3hSNngtbFZPZWpNV2xvSHhqMnpIaFNpUVo4M3ZOdzJmTVVicGNPNkJ2TjNSalZEZmhabTB2VUZ3VmJoeV9jM2gyOUl3eWJpSTJvRHdteNIBckFVX3lxTE1URzdWRG5oMml1b2tQY0MzcDczc0sydE02bnJBbXBpYy1TNUdEcFFlYXdpSWFrVGhxNnZELUhWQnJLNDlyX3JyWUhUTTU1azMxVzNsMmZoRmtJUjg0R1ZrbHVyaEpyaUUtaExyRUR0czJZZw?oc=5",
+      "date": "Thu, 13 Aug 2026 09:20:00 GMT"
+    },
+    {
+      "title": "宮崎市の国道でバイク転倒 新富町の男性自衛官が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3ak84UTU5Uk81TFRybmRaRlFwQVI5SGJ6Sk9OWF9yQW8yck11eERzT3JfYUpjUXNwQ1lSNnRzMTU4VnZKeVFic1djYzJsZUEtWXI3RVhhY2pqQQ?oc=5",
+      "date": "Sat, 16 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "所属スタッフの交通事故について",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd1QwdnpMeUgtbFdZN0Y2TTBmSl9oVEh3RmpTd3RVc2lmZHo3UHRpWjJTWTVONnN1MXVlbXRJZnFFVnJtVkE?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮崎県警察 公式サイトを検索",

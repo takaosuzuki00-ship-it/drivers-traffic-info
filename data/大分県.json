@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T08:23:07.792257",
+  "generated_at": "2026-08-20T09:05:59.288711",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.4,
+    "temp_max": 29.9,
+    "temp_min": 25.6,
+    "precip_prob_max": 98,
+    "precip_sum": 0.3,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "09:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 29.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 28.8,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
+    },
+    {
+      "title": "8月18日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CX21FMDU3emc5aUF4VW9KMnpDaF9xcE1uNjIwSmZqYl9DX2ZUTHc2bC1Pd3JUV0hTRE5DWE9ackxNTTF0U3JfaVpfNGdhNldlSG15WVhEMWFKMXlvWEpzLUctYUdvTmRDbnBBOWo5NNIBdEFVX3lxTE5DM0VPTEl1cXZMbWVsVkktUjhoQm1KYnBVYkFKZGZNSVh1SW5HaDZWSnJxV3Vib1J2YXduUmN3bFJ3ZEM3YTV2Unh0Mjc4OEhEaTIzZ1FYSjhfUm4zWUZ1WXAybkdTRHNTZXNuREdtVWFzUTFR?oc=5",
+      "date": "Mon, 17 Aug 2026 20:49:06 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
+      "date": "Tue, 18 Aug 2026 22:53:06 GMT"
+    },
+    {
+      "title": "８月１８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PeGN1bFUwOTNsSlV6cjRyeWx2V25NcG1Bd3pwYlRqZXE4WWlZTjBTRklua3hXZVlYVUI4ZmRRaWp4Z2dtb2l2Q1pPY3duNGlIcmdKVndZQnNFbjB6VGNFWFN2VHFMdVJVbjNIdWFicGNPZ9IBd0FVX3lxTE1zTk1UUlFOYVBHYW1pZTBoTF9obnFtN1NLMjZaYVNHSDk5MDNWRTlkZXlTeXhvY1czRXF6Z29ELUpnclc2S3RYdXdENU5pUENNLTJvemt0cFRYaFFzdEJQeVh4aUVxVlRaTkw5RXlYZVZHR3gzOVNB?oc=5",
+      "date": "Mon, 17 Aug 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "観光バスなど計5台絡む事故 乗客ら10人以上搬送 大分自動車道",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNWpxcWp1YlJqQW1aa1RfeWVCblZkZTV5Q2xuQzdfSVZQS2lLYzlGQnlfd05SR1d5SEF4Y1ZURG5aVU5DejFyVTdZNkR4ZW1hZThUdThVenBqenFKRHFMQ1hOV3dDODQ?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「ガチャーンという衝突音とキャーという叫び声」軽乗用車が別の車に追突され横転 周囲騒然 大分",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03eF9qbThaNFc5Si1VbTVSZ1N6clFZSGphcEg1cy1PU3l2Wkw4cExUV2x5S3lVZEJPby1VNlgxb3VPVUtvYjg3Wkc0YjZsa00yNkVhNjNGSTBMaVBi?oc=5",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中日嶋ヘッドコーチが交通事故 - oita",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fU18xdnhiazBGdEFDalMxS0lERDhBSlNMdFNwWlhnX3JiTFRYa3dQeV8yUHhWQjV3d3hnencxdUpyS0ZYY2ZJSzVSUWJnXzJWZWlrNExQeEo4N1MzdzlvcU53QWpGMHNLTmdERzYwRDZFRnJaS3piZNIBhAFBVV95cUxNNkZ0LU84NXF0ZlVhV1ZCbGZBUVlJZ2RPdFJIR0N2a3FxVUxUOFh0RFh1Ym9YeHBzV0hpQW1zUzRQVl9feWlaU1l2dTNfYlRSVXoxSERhUzJRMGQ1b2hjV0IwN0xYM1BCYnhfYVFoZ3FVd1V1c0RYcUJCTWVubG5pdWkzQks?oc=5",
+      "date": "Mon, 10 Aug 2026 14:28:00 GMT"
+    },
+    {
+      "title": "自転車の交通事故、大分県内は去年290件 過去10年で最少 最多は「出合い頭」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSNmtUNEdHUnNKb2NpRmFPemdYVjJVX1FMV3cxU09vbTNGRkdwbFZXUUxlWmktTEt5ODZiMExnMXViR0ZmV0V1Wnk4SlJ1U2xmMVdZR0YtTQ?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ツーリング中の事故多発 死亡事故の半数近くがバイク絡み “バイクの日”に安全運転を呼びかけ（OBS大分放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STVgtUW5lMVAtczgza0RqeDMwc1pwOXhCcFBhMy1oZ0RLT0xFU0tpRlhTNHlBemVnaUYzQkxsY2ZaX1VjelpraExkcUl4eExJTHY1a0x1RUpkVDJ0cHBTbTFELXRHUlNBSjNmQkVnSWJabTU0V0F1TlRfMGRTeHc?oc=5",
+      "date": "Wed, 19 Aug 2026 08:57:17 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",

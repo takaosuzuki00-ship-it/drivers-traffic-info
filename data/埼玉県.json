@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T06:44:05.592411",
+  "generated_at": "2026-08-20T09:02:28.169124",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.7,
+    "temp_max": 31.2,
+    "temp_min": 23.5,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "速度違反取締装置窃盗の疑いで逮捕 配送業の男性（58）不起訴処分 埼玉・加須市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pTGdHUmV3U09ZamFyYXpTU0YxYmJxb3BCY09Ub0l1WFYzdnI0X2RERWs5MWF1VmlBZHF5QlZTcktVdGFpT281cjhZVFVDU0pYYVFvWjN4WGZySVlFQ08wMjd3bkZGdzFfMnJYRlhFT0tBanNQUDVVcEp5Vmw2OXc?oc=5",
+      "date": "Mon, 17 Aug 2026 06:01:01 GMT"
+    },
+    {
+      "title": "速度違反取締装置窃盗の疑いで逮捕 配送業の男性（58）不起訴処分 埼玉・加須市",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaDNjYWtCYlg4MUhVVkJIQXZpM0E2WnNZeTB5ZWNTQlU4cGN6MWV5U0ROUUl4ZC1lVVEtN1BqdGtjLTNJS2Q5em15Q0kyWE1yTXhXVzJDc1ROMzJpV1hNRFVPOF9jLTFSbHM0TGxBbjhKTkt4Y2dmcw?oc=5",
+      "date": "Mon, 17 Aug 2026 06:06:20 GMT"
+    },
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の取り締まり中に「可搬式オービス」どこかに消えた 900万円 前代未聞 埼玉県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUFBTXzVJSEstYW5ucW9IY1hLU1Q2WHhndTVtNTFrcTdVeHZEZFZkRDNJNGRjazltV3Y2S1lQN3pEcWY4VmFLN3VYcEI5RUtIam9N?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "令和8年夏の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "バイクの20歳男性が死亡…出勤途中の軽トラックと出合い頭に衝突 深夜2時過ぎの県道交差点 いずれかが信号無視した可能性 軽トラックの運転手も全身打撲 衝突音を聞いた男性が110番｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xNG13N3g1VEpzRUtwUEczSTNmZ1QtWmN4cnRuZGhMODY4amZuWEs0S0x3ZTdfdUUzUXJxai01aEFqazBPVkxfQ1A4dklvWHV4NG1NMFY1RQ?oc=5",
+      "date": "Mon, 17 Aug 2026 23:50:00 GMT"
+    },
+    {
+      "title": "ホームセンターの駐車場で高齢女性がひかれ死亡／埼玉県（テレ玉）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsb0NrcTdBbGQtTmxWRVVzRDRsajY0aXU3SkExelVvdVl3NmREQkZMT0tZQlNUSlRZdktTdVlGR25ISjh2alV1UmtLOS0tVTVYQ0o0RlgyNHVtdGI0QTktQ05ObWpRWURkQWpLZ3JibzJ5R2d6WkpNZ0xuaGJVVjQ?oc=5",
+      "date": "Tue, 11 Aug 2026 12:54:08 GMT"
+    },
+    {
+      "title": "独自＞外国人運転者の人身事故、埼玉で急増 年間558件、5年で3倍 高い外国人比率 「移民」と日本人",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cnNQMUQzSFd5cjlfRmR6V2FtaUp2czRsdnVjOUZHWmNyeDJoYl9UVDlzUXF4Q25GdHMzelhNNDJYVzVERmdhQzZDSm5zckxFZlpfa1RaZzhDQ1Y0TUE3Z0F0SjN3cEVDSW9OZThNQVhpZTV3ZGc?oc=5",
+      "date": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "軽乗用車とトラックが衝突し男子大学生死亡 いずれか車線はみ出したか 埼玉・杉戸町",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rUG9sR1NMajdTRjJ0Z3d3Q19nZXBvMkpMY3htOTM2dDBqLV9lbmF0UHQyZ1hSWHdMY2NYbmV5bDZOU095dVhYYzBEMDZlQnh4WDRZLTNEeEZqYjZXdWF6RVZDQlFmN2lDYUxDd2pFNzJfQQ?oc=5",
+      "date": "Sat, 15 Aug 2026 07:02:32 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

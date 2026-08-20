@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T08:05:07.141290",
+  "generated_at": "2026-08-20T09:05:23.885504",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.8,
+    "temp_max": 31.1,
+    "temp_min": 24.0,
+    "precip_prob_max": 31,
+    "precip_sum": 0,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 30.3,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "18:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月16日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyY1poLURuUmhvY3VwcVBlUFpBb2g0X01MSzVfeFhjX2hVcXNGY1RkcHFzTzBRRDhCX0Y3NHhfb05nMk5NdUctUlhLT3B5a3EtbkkwQVMyU2tzdlAyZ2ZYN3FfTlpOQmlCcWJWYlBzY9IBdEFVX3lxTFB1M19zQVpLQVBMTzNDY3NfVEc1MVNhemFHVWRtUWdCNFlzUUh0NjBINW1kaUstSTZyLWlDWUY4WEtKNlEzZHFzUVduR2NkWE5FMWxsZFRUYVJNd2Jxa29XaktkRzdKTUVpVlNqU2ZCVlRHQWF1?oc=5",
+      "date": "Sat, 15 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜南海放送NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGREaWZjbmx2NFRLVWxDMEt5Q1d6bGFBalk5aFJlWHBRWk5WeTBnTFlkV1Y3WUhsQTFDaVplTDNHeVNIQ2dlRE16UWRoaUdUOU0yZV9rS0J3SWlSX05GZmVNbFdqNTNQcExGeElkNUU3YUZNaUlwQ1VMU2tFM3VjOG40OGFmcUk?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "酒酔い運転の「数値基準」導入を受け大規模飲酒検問 酒気帯び運転で2人摘発",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abkJjV1Z2NHV1cW1WZmtrVC1RMlFMX3NLWFlpN3hLQUVrWUxBRHJ2Y3FreXowMUtnYTJlRFRRbTFldlYzWWZuc2dUMHZOOFM5ZE5WdUthelhHWkJqd1ZVTk5zS1ZTNXM?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 愛媛県警が合同検問【愛媛県】（eat愛媛朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40d2lYb0gwZjRrUFhrTzVzUkVva3R5ODA0VjE5d3BtTlM1Q2FvcDEtUXZHQVFBZV9ja05ILVBQY294XzIxTXNHZmUxZ1h4aVJtbFV6VzlsMmFzaVRaZXFhTjd4LTdZREZwNUh1aU5GeHBhdUtZXzU5cnZYa0pyUlU?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【速報】松山市でバイクと車の事故 １人意識不明【愛媛県】（eat愛媛朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSUp3bldMQnliUlRBcXlwNDhacGpFWXJ5cHVBMDBEbHNaMWktbFB5TGNsLVB5QzFFOTM4dk1CU3dINFozcDVIRXZqNEJzamE0Y3Y4RXV0azFEUmhvQU0yZ0J0WEdFMGdLQ1FDWVFfTnIwU0VpbmdVVE9VbC1xSFE?oc=5",
+      "date": "Fri, 07 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "歩道を約１００ｍ走行 松前で縁石越え自転車に追突後に壁に衝突 軽乗用車を運転の女性死亡【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15c1ZpYndCd3F4RnREVm9qVmttYjRWMUNUMjVVTWhtTWJySmdlcDY0Slk2RFhVZWw4Zld5RWFGa2Y4NHM5MkMwMmFKdFBUQQ?oc=5",
+      "date": "Fri, 14 Aug 2026 01:41:13 GMT"
+    },
+    {
+      "title": "１台は横転 乗用車など２台絡む事故 愛媛・新居浜市内の県道 「春の全国交通安全運動」はきょうから",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRUpDVVNHZS1rNjRMa05pMXl5MWl0OTc3MURycTRlQjlZSklyRmZfaGUyemxUR3otWDFsTVVHaDFfc29RM1I0a0lQMTVYbmRFLXRhRU92X2ZQWkpHYXBJ?oc=5",
+      "date": "Mon, 10 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "愛媛 松前町で軽自動車が建物に衝突 運転の６０代女性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbm0ySkgtSlVSMW1qS1R2MUNMQXZHZDNISUxSbm85SlVpSE5peW14eEdUaG8yTm00NHo3Njg5clpYaGdzMkphQXRBaGJucGF0cEwwUVUwYlE?oc=5",
+      "date": "Fri, 14 Aug 2026 02:23:00 GMT"
+    },
+    {
+      "title": "エンジンかかったままギアはニュートラル…ミカン畑でトラックと木に挟まれ69歳農家男性が死亡 愛媛・宇和島市（あいテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldklvbm1RRk9CNk04ZzBkUEFiVGR4VnZZLVBia0hqTE9aT01RNmwyX3REdnEyV3VZVVV2UWIzc09RU25lQndoWWk1dW52ZFRJUmlIOXI5Y2w2UXhnRXJNVDliVVJEdGE0Vl93eUFZcFdXaVRZdTh2N0VxbmdfUkk?oc=5",
+      "date": "Wed, 12 Aug 2026 02:13:21 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛媛県警察 公式サイトを検索",

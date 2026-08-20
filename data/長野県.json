@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T07:11:05.951322",
+  "generated_at": "2026-08-20T09:03:30.230356",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.3,
+    "temp_max": 29.3,
+    "temp_min": 22.9,
+    "precip_prob_max": 96,
+    "precip_sum": 0.9,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 23.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "06:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 57
+      },
+      {
+        "time": "09:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 53
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 28.4,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "18:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 73
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "参院選へ 長野県警が選挙違反取締本部を設置 「特に悪質な違反行為に対しては、事前検挙も辞さない」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxYjAwS2ltWjM0a08tYkVXR0Z4QmZjYllrdUpHbTg3eC1JZmlTQ1dHUm1mQlNnRkVqS2dzU0lsajQ1OHRjNF9CQ1RpUWFaVi0zVm1qS1E4Wnh2QQ?oc=5",
+      "date": "Mon, 23 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "大阪府警が飲酒運転の一斉検問 阪神高速で７月に起きた死亡事故を受け ４日までに２件の飲酒運転を検挙",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0SUtZU2hWbEpIOVVUSDZUMEJmSk1vdmUyRkIxaWhwVzZpRVM4NmIwc3BFM3FJZEItdVJna2duV1NIbE54Z3MwcC1CV3d2TVdybDdoT0J2ZmNud2tydy1rY0Jn?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "最長で15年余りにわたって不法滞在 下高井郡内の住宅で共同生活か 36歳から64歳までのタイ国籍の男女4人を摘発 「不法滞在とみられる外国人がいる」一般から通報 長野",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uRWIzS0Fha3pSVHZLVFhvYTVPX29tSkVLTkc2N3VSbXpKdFk3ODlxMnN2RE1TQTRPVXdqWTM4ZTBvVDF2LWZrNlJrMXhMN0VPNDJKZk5zMElydw?oc=5",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "トラック同士が衝突 一方の普通貨物車が対向車線にはみ出したか 双方の男女3人が重軽傷 松本市安曇の県道 現場付近で約1時間半にわたって通行止めに（ＳＢＣ信越放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04TDFYVGFoS0Vkemdvejk1VGhjNVBQdC1RNHgxa3RlWl9oMThPU2NrOHp4alg4clFOVmlRUHh6bG9SdlpRbnBmYV9fX3hCd2tDVWJZZTRuaC1nTS1HeEVUTTVCTFpjQjNjUEV0cUx0RWdKbG5ZQnY3WS02NmxSWXc?oc=5",
+      "date": "Mon, 17 Aug 2026 09:29:13 GMT"
+    },
+    {
+      "title": "【緊迫する現場】夜の中心市街地に大勢の警察官が…何があった？？長野市の現場は一時、騒然…交通事故巡って当事者間でトラブルか…警察を取材すると「発表する案件ではないので、理由は言えません…」 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10b25hM09GNzJyNlBfNGcyNmpJZUVoa2s3SGVBU2hqdVhZLWY2Y3BYYUNEdWVCUVlvd0JhUVp2QWljeGc4dFZtcEtWWkxOTmNqWW1BUGhWR01mV2NCZUdlN1lmZk1PTjA?oc=5",
+      "date": "Thu, 13 Aug 2026 09:12:00 GMT"
+    },
+    {
+      "title": "長野県南箕輪村長が交通事故 帰宅途中、信号のない交差点で",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdkNKLU1leVZoVUJKSmZHemc5MW95VnkwQXJyd1p6MkFOcW5uZlpwclM3QnpnSzVJYkpBTWlMb0cya3YtMWppcUtGNXNYcDctWnMwVg?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "8月19日はバイクの日 啓発活動でライダーに事故防止を呼び掛け 「バイクは急に止まれませんので、キュウリです」 長野県内では今年133件の二輪車事故発生 無理な追い越しや急な車線変更は控えて【長野】（2026年8月19日掲載）｜テレビ信州NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXBPemJVR0lYMmhoWmI1eGV5ZEZuNUg2cjl0WEJyd29RbnZ3Ym5sdkFMWTBLd0JtVWp3dmhtazRaSkZsVWRBdkptVGpRMmdfWURlckdPMkE3NzYyeWdxMXNHb2haTHhfbTQ2aE8tSC1NTW1rZnRnVUdiZzlydGszQ20yclUyd1k?oc=5",
+      "date": "Wed, 19 Aug 2026 09:53:01 GMT"
+    },
+    {
+      "title": "長野・飯山の池で釣りをしていた男性が死亡、「釣りざおを取りに池に入った」と通報があり捜索",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocV9JRE9VQUZIRjhKWXFsSGJqWmc0MWVueHpHNUdldUN2SDdtSkk4em9JU3NnWWk4ZnlleFQ2Qno5Zkp1dVNRX0FReDZISi1GeVd0bW0yQmxlM1Y3MW9OLVRHTS1wZw?oc=5",
+      "date": "Mon, 17 Aug 2026 02:11:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

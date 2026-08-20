@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T06:56:05.752602",
+  "generated_at": "2026-08-20T09:02:54.775725",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 27.4,
+    "temp_max": 29.2,
+    "temp_min": 25.0,
+    "precip_prob_max": 94,
+    "precip_sum": 4.3,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 28.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "15:00",
+        "temp": 29.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "18:00",
+        "temp": 27.5,
+        "weather": "霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 26.5,
+        "weather": "弱い雨",
+        "precip_prob": 82
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月20日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcEc2bDlOcDY5WXpWdzFaVzFUZFJ1c0kzMnlZMkF6SGZadjdrZUN0U1BVMUZhXzdsbVlPR0RyOE5DbzNXZHI2T3hLZVgxdTZkM0NUTUQ3TE00b3FBWjRURjMwQVIwOVRPY19RTmJwONIBdEFVX3lxTE9Pdk9ZZERvaTRXWG5VQ1VVLUlwcGVTb0dGSXdWWFZTeTd3eC1jSXVycjE0QWxnUzhYMEZqLWI0UjdlckxtU2ZiVm14S2VBSnp3Snk3Q3JyTTNiOWhMNEJRV0RvV2ZMQ3FiMm1HcU44Vks2azNS?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:49 GMT"
+    },
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "8月16日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyY1poLURuUmhvY3VwcVBlUFpBb2g0X01MSzVfeFhjX2hVcXNGY1RkcHFzTzBRRDhCX0Y3NHhfb05nMk5NdUctUlhLT3B5a3EtbkkwQVMyU2tzdlAyZ2ZYN3FfTlpOQmlCcWJWYlBzY9IBdEFVX3lxTFB1M19zQVpLQVBMTzNDY3NfVEc1MVNhemFHVWRtUWdCNFlzUUh0NjBINW1kaUstSTZyLWlDWUY4WEtKNlEzZHFzUVduR2NkWE5FMWxsZFRUYVJNd2Jxa29XaktkRzdKTUVpVlNqU2ZCVlRHQWF1?oc=5",
+      "date": "Sat, 15 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２４日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83VndZdkcwcndPU2xtZEphRUtnTDNpVThlYm9MZHVaTGhNX1FsNWtsRnlrMTI0TVhKT2VJSkdpQVpmQUJSQUVJSm5Ccw?oc=5",
+      "date": "Mon, 23 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "村上市の国道で乗用車の自損事故 同乗の岩手県の女性が死亡【新潟・村上市】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNEpWZFBUUlR5elVaQ2lVZXhEQWkyeHBQaW5FeWpMOFBwcTlPcmwydU9rSzNBOXBLTjU0aVVodVBPYWVaYzY0Q0p0SzlGSC1IWXp0eWtlVjRpNzJ6QThialJITjkyMTFvbkVhRUNfV1I4MjNWLUZkYWYxRUdtRXc?oc=5",
+      "date": "Fri, 14 Aug 2026 00:17:01 GMT"
+    },
+    {
+      "title": "ヨガスタジオに86歳男性が運転する車突っ込む「ブレーキとアクセル踏み間違えた」　事故当時はヨガのレッスン中「バーンと爆発のような音した」新潟・中央区",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vdWVqZHl5eS1zSEJ1Q1RzSmlmbUJlRlYzalVjRDN6MzFFQTN2ZnE3M2M5TGxSSENOUkhzV1V5U0RJUEhObnI4UV9FMWpOOEt6dHJiOTVRWk9YV3ByOFRKTHBNMmRIQlN1bGlBUHltZHBrd9IBd0FVX3lxTE9kQmMydktrOF9QVmZYQUF1YXY5c1F4VGVvRUxMaGU0TTdBcmM5dDRGM0V2QUU2V0VNTGNzNXBBYVdPR2RRQWRTZ243NnlUSFlrQTFQU2dYX1lRWTRoVUNpUjZrRnpfalpISUFBYi00SHFoaGp5WEZv?oc=5",
+      "date": "Wed, 19 Aug 2026 09:20:00 GMT"
+    },
+    {
+      "title": "【続報】男性の死亡を確認、新潟市西区の重体事故",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9mT1JUd1ZOejlOZDd1RlpTb1dLX0VHNGhlWVdyMTN6Wm1EcnN5M3NBaWFfSl9Bazlnb0VHR3Y3LU5mbDRC?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通死亡事故】7日間で6人死亡 県が「交通死亡事故多発警報」を発令 発令は2019年以来《新潟》",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGxpSEt2QklwbEMzXzJQcXg2Z1pXaG5XblhPQlh0RlEwWDV1U3JILTFGcUlUeWZhc3BHTEl4UEY3MFRRUDduSUI4U1ZnNXA4dnNSa0tZQkcwQ1poV0FCckVXcWVuOWt0OFFSUEhFTm5rak1DWHVLR0pwU19lOGVWN0pGZTRTRzV1?oc=5",
+      "date": "Fri, 14 Aug 2026 07:26:00 GMT"
+    },
+    {
+      "title": "新潟市で11歳男児がおぼれて死亡 漁港の防波堤付近で3人で遊ぶ [新潟県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lU3BnS2VmaktLV2VyUzZLeno3U0NjSTVqVF9KVGhkY0NlMFpYMDVWX05EWUlrc09LSFJpNXoxU2haMnB3YUU0RnZqSk9wbTZjT00zem5laW1qZm1uTVBKakV2clprcGs?oc=5",
+      "date": "Mon, 17 Aug 2026 08:16:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

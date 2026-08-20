@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T08:32:07.927460",
+  "generated_at": "2026-08-20T09:06:31.750550",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 96,
+    "weather": "雷雨と雹",
+    "temp_now": 28.1,
+    "temp_max": 29.2,
+    "temp_min": 25.6,
+    "precip_prob_max": 98,
+    "precip_sum": 17.6,
+    "wind_speed": 20.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.8,
+        "weather": "曇り",
+        "precip_prob": 53
+      },
+      {
+        "time": "03:00",
+        "temp": 27.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "06:00",
+        "temp": 26.1,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 28.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 28.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 26.8,
+        "weather": "雷雨と雹",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 26.2,
+        "weather": "霧雨",
+        "precip_prob": 94
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "麻薬取締法違反の容疑、19歳男を逮捕 路上で含有液体所持 沖縄・嘉手納署",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Q2xuN1kwMVJ3eWpTVnYtTWZWcDJvSUpTWHVSaTVFdTl6TmVTUzB6SkpEUlp6RTNVWFFfdzVBQ3ZRN01wMEg1Q3NES3huLXZSUG9uZDZjNk9zSXdlX0xlSA?oc=5",
+      "date": "Wed, 12 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "麻薬取締法違反の容疑、19歳男を逮捕 路上で含有液体所持 沖縄・嘉手納署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PN0MweFVGNVg5T1l0NTJQRmhXTUFRc1lXZU44SUlCSnFhM2s3SkZ0RHlXY0hFb3g4aGkzc0xfbUZFN3VlNjdXU0xqdw?oc=5",
+      "date": "Thu, 13 Aug 2026 09:31:23 GMT"
+    },
+    {
+      "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uN3dlclhOTkN4Y1ZUTkc4VUxWREEtTEhpMDNvbjZEb3BYRkZ0Rks2RWNrSEZnWmFodTlsRkpPMDZtaWNWb1lYRF9SM3NYekpiOUV1bDhVQXptdmRUTGc?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "県知事選を前に沖縄県警が取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUIwN0t0UjR2RTBXalJEM3lDNzEwWUVweVM1czEzRnQ2RUdHN1Q0YTRDNG9idDRSbF9Ra3UxbTlYaXdoOUVWY2pwbVhuV0Y5VGx4aFY2eGpwTnlsSXJWdFptN045cjNEME5EaDcyTkRJclA1X3pFUVdyb3VZekEzR9IBhgFBVV95cUxPWERkVVUtTU5iTHBKSnZGajRPa25Rc1dMSEw3dVVKLXh4TV9salZlbzZ1R21TNjNIck01UFhfb3NxQkI5TGxkSDdiRHJYZTJDUVdhZS1zMUc1bzNhdjZvbUdCQmx3aUdFSW5heGJKVVJpcDdpNEFBTzZsdmx6QnNESUpEX2F4dw?oc=5",
+      "date": "Thu, 13 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZF81SzZQdUgtd1VWQzlwdGpFUVRHRkdQblk2YURwVXZFUjBnMEhwbEVmaHBFTVdDY016QWxXLUxTTlZGMGNrQWlIV3d0T0l0TWNVb1Z3ckU2akh0NnpYRg?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "県内で交通事故相次ぐ 男性2人が意識不明（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlbjFkMmNrX25mX3ZCTFZRVV9YTk1JVU5uTFg3NDdsMndmNnh1ZkNFWUV3Z3B5RnlKdGFtQk9Na2ZIdG9vNU94dVBlbGRZbUFuRVhrWFluTDBOQ0NtandPUVQybExyRHpPMW1qX042eEFjem1MZkdoUFhyOFRpU2M?oc=5",
+      "date": "Mon, 17 Aug 2026 03:03:01 GMT"
+    },
+    {
+      "title": "沖縄ゆいまーるプロジェクト、交通事故削減・希少動物保護で成果…トヨタ・モビリティ基金が報告",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoa1ZQQ3pILXpvVGMycUlIaDVzNnpvQVBhdTlIdEliRFdvUUxLTjZMNy14cWE0Z1NfTFdyS2ZLWXV3YUl1RDJscEJEQmlaU0k3T1RlN0tCR0pRVGtwTTJF?oc=5",
+      "date": "Tue, 18 Aug 2026 07:30:03 GMT"
+    },
+    {
+      "title": "【辺野古転覆事故】沖縄県議会の特別委員会が現地視察",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJVlJmZ3hKb09mTkpJbThWZ0o0Sjd6dFdUVmV2OWdoVF9qU2pJWlk4aE9qNkRJaUdmZkw3TWlFTGZ1RjByMEJDUTFjYi1FY3dYWmIyWExLRWJsS0EtQVFzMWFmTVB5SWlWWW9BLW8zS3g3Q0poNEpocmI3Y9IBgAFBVV95cUxPeXM3SW9mUGY2SWFRbk9BVE81czl0WUZYTjF6QnFPSHNlSlYtb0RsM1o1R0cxU05pbXJXR3BQSUlHNXhabXJMenlqTENOYUFpOHJReWZmVUxqcWVSMkU2ZXV5cmkwUXNkTnVaOENnOW54NDN6S1ltWF9VNTRQZVEydA?oc=5",
+      "date": "Wed, 19 Aug 2026 09:09:00 GMT"
+    },
+    {
+      "title": "軽自動車が対向車線のバイクと正面衝突 1人死亡1人意識不明 沖縄・南城市の国道331号",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13S1lsMG9ybzBQX21RRmV4WDZFZ3ZjSjFhcFJvbmdQenJIZnBDTGkxRDd4UEV3Y1BZNHZlbkpGNWMxN2NGVVpxWVVqVWRXOWxGcjNUeWQxSWViX21EVWc?oc=5",
+      "date": "Sun, 26 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "南城で衝突事故 バイク男性死亡 沖縄の国道331号",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tanNKMnBNOVVSUklYQ1JiLThzc3VlSjRUVHRlN19nM0FaeGdfMWpIekl3UHhXZ0pnSUVzY2dpdW85R1JtZG5mSnRpUUV5SWI2bkFpSUtNTTFia3lrTEhEag?oc=5",
+      "date": "Sun, 26 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "沖縄県警察 公式サイトを検索",

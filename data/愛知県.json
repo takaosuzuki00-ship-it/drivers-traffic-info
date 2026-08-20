@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T07:20:06.067219",
+  "generated_at": "2026-08-20T09:03:53.142925",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.8,
+    "temp_max": 31.1,
+    "temp_min": 24.1,
+    "precip_prob_max": 49,
+    "precip_sum": 0,
+    "wind_speed": 1.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.1,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "18:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 10
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFVyc1lQdTJWRjRXNnhTQkxobTZnV214eGdqdDBaWFkwdnVybEt6WThjV2trTk85bmR5aDdZSVJKdlhrRjFjSnVVOA?oc=5",
+      "date": "Fri, 20 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
+    },
+    {
+      "title": "“ケーブルカッター”を正当な理由なく所持か…金属盗対策法違反の疑いで愛知初の逮捕者 カンボジア人の男",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNmFnNGgtNmhYT1VZN3p6dVNLR3IwQlNVRjBfSGh4R1AxM3FORF9SNmF1M00zbmNBNTlaS2F5bmNzdmVsMnRnOVJQOGtfOVpwLVV4T1g3V3hkazBZQmhwRG5LNlYzUnBSWUpkOUgwVFNNLVRVdWR0Wl8zdDYyM09MdFlBMmp1a0FoNGJfeEdkQ1VteXd2amdUWGNlSDZ2aHJZTkhBNVhXdVpxanprMnozSmJKWkFJbzhFcGpJQy1PT0pnOEgySnA0dlNDV2QyVlZVUW1icHE0bEk0ekhLQjhz0gGPAUFVX3lxTE0tUVVYSE5KS1dZZDVObHZRdVFzdGI1aGI2VEd4WFdwdnNPSTB3Ry1RaWhxb2drRDhkUlFSY2FJT1lYRThoLTRLUi1JMW5iNjc1Z3RhTk90QjJ0OFFwTkp1N3FzU25jWkt5dF9FeUk5NGhKd3pCYlNWSE43RkVlOTR2WmNFZW82bUE2SlhCdnpj?oc=5",
+      "date": "Wed, 19 Aug 2026 10:47:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "自転車で横断中に車にはねられる... 女性(86)が死亡 愛知・長久手市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EYVZEOUJSNHpMSHhUVFNFM2NDNTFKb0R3WGM4X2R1RWdadTdDWE80dFBpWkowTHl4Vk9ZSlJ3OXRFbk44al9SSjlHYkc2d0RXeDh6R0sxamoyMGpwY0kza2htZFhOUms?oc=5",
+      "date": "Wed, 19 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "title": "【交通死亡事故】愛知県内で近年最長20日間ゼロ継続 2023年の19日間を更新",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5Y04zMDE3LWZXZVlWTE04clR5Tlh1RG5MelR4SDhsYlVPSWIxTS1fRFFjRWFwZlNMOFFLNTZXYkg1NUtyZE41ZWg4Nnl2MzVTSS03ZnlqbkpFaGpTSmlv?oc=5",
+      "date": "Wed, 19 Aug 2026 12:00:00 GMT"
+    },
+    {
+      "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「連休中の交通事故にご注意ください」 交通事故専門の弁護士法人しまかぜ法律事務所がコラムを公開",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaUVFUWlBJblJxQlY0Y1h0R2I0VHFUTlBPak9zd0U0UnBsU3FEOGhyZWRHS0lUY3pqdmRBVERscXkybkZZd2xtRGdZZHB0dw?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "愛知・岡崎市の交差点で衝突事故 バイクの23歳女性が意識不明の重体（2026年8月11日掲載）｜中京テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHZzeGc5OGplUFBwTHBBdHFCZ3pSYlBvNndfR0RqMV9LRHZLSUdraVZDMTBUQjBmSnBzS2ZyTkJMMDlaMDJid2ZabnZKelU2aFA1bU5VcVBtdnFhRW9MZUlQM2lXQlNRVGlyV0N0ZlFBUVV3NWU3clJ0c25WZjJaSi1xYmlmdmM?oc=5",
+      "date": "Tue, 11 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",

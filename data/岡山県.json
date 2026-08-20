@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T07:50:06.586871",
+  "generated_at": "2026-08-20T09:04:48.191046",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.3,
+    "temp_max": 32.6,
+    "temp_min": 24.2,
+    "precip_prob_max": 59,
+    "precip_sum": 0,
+    "wind_speed": 1.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 32.6,
+        "weather": "快晴",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "21:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 22
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
+    },
+    {
+      "title": "８月１２日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cWVFRjRxejFTakFLZEV6SE9FMXB0djA1V280WmZLMUltbFp1MjhOcldVbmg0di03c3Rxd1dOUWxyLUU2alphYWRwRW1ZMTNHYmJWVE5ieGZ1MHR3b0xDSVNXU2RoQ0JS?oc=5",
+      "date": "Tue, 11 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "オービスを探せ、第2弾！ 岡山ブルーラインの自動速度取締機、Hシステムが、警告板を残して雲隠れ！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42Y0JrWXhBZV90djhWRGEzN2ZBUXZ3NnNveHFCTlotYjRHTndGLW84ZEpKSUNoUm95UkVMTzcxcUQ3WTgyUl9TNmotZTdBQQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:27:37 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "ＡＶ救済法違反容疑 ３４歳の男性 書類送検 岡山県内初の摘発 倉敷署",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hckliWDRGZTRFb3BqNl90dy11dHo1YUZYR1Q0QlBVSlV3bHB5dVN0SzZ5VmtKOURLSDU1c3FRcDB4b2hoQnJjVmdBZDdqZXR4ZWc?oc=5",
+      "date": "Mon, 17 Aug 2026 07:47:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "岡山県１～６月 交通事故死者２５人 車両の一方的な過失目立つ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TV3RJZnFXZlhLS0ZEb1RQakEta3p5OEJsX3dNcUp5S1lnVXJqbUlJZGZWbllxY0RLTThOcVFsSldJVTJjZTRtWUh5LTg4QWc0Z0E?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山市で歩行者が軽自動車にはねられる 19歳の男子大学生が重体",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iWmNDeWU5bXZYejZMMmNSaVRINnBiZ2tLSEo5ZGJ5RkQ2c2FPUE9tYVhKVGhtLUplNmsyODJyMk5RYWRsakFJMWNiXzI5REpU?oc=5",
+      "date": "Thu, 13 Aug 2026 23:29:00 GMT"
+    },
+    {
+      "title": "岡山県１～６月 交通事故死者２５人 車両の一方的な過失目立つ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93M0VlM0hxbkZCOG5RakJJZEYtWmZrem9HYmxSdERBNGwyWl94bl9PT0ZaNXVjSXoxZWN2aVZpdlczektUbjJ0VF9HNA?oc=5",
+      "date": "Sun, 16 Aug 2026 07:03:59 GMT"
+    },
+    {
+      "title": "19歳の男子大学生が軽乗用車にはねられ意識不明の重体 国道180号の交差点付近【岡山】 （RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZFJWWXhSaUE0Y3FCajFUTlp0cDV1VXMtV2xmRkM0RWcyaEtCMjNZeFUzNl8xOFJfcERsMjF1TUk5bjc1N3I2bFFTX3ExWEd2NkVyNkxWYmpuRjhIdkVna21ILWwzWjI2dEhvdEpKTm11bFdxR041UW9FXzRRckU?oc=5",
+      "date": "Fri, 14 Aug 2026 01:50:23 GMT"
+    },
+    {
+      "title": "工場の昇降装置に頭を挟まれ27歳男性死亡 木材を移動する作業中／岡山・真庭市（津山朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VY29pMjhBTm9aTHpnV1ZLenNWZkduV2l6ei03bndSUFFTejJuOVk5bWpyWkNzYmdMUnlFY25ZaEcyNTdBVUZid3hyWFp1UjdOOS12WTN1RnpiV0FmVTZ6OU5PbU9VS1lNcFhaLXZfbGpvRjVIQmNaQUMtOE9iUDA?oc=5",
+      "date": "Wed, 19 Aug 2026 08:30:29 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",
