@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-20T12:13:37.735801",
+  "generated_at": "2026-08-20T15:03:57.386544",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 34.5,
+    "temp_max": 34.5,
+    "temp_min": 25.8,
+    "precip_prob_max": 78,
+    "precip_sum": 1.1,
+    "wind_speed": 3.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 26.2,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "09:00",
+        "temp": 28.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 32.5,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "15:00",
+        "temp": 34.5,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 31.0,
+        "weather": "霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 18
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
+      "date": "Tue, 18 Aug 2026 22:53:06 GMT"
+    },
+    {
+      "title": "8月18日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CX21FMDU3emc5aUF4VW9KMnpDaF9xcE1uNjIwSmZqYl9DX2ZUTHc2bC1Pd3JUV0hTRE5DWE9ackxNTTF0U3JfaVpfNGdhNldlSG15WVhEMWFKMXlvWEpzLUctYUdvTmRDbnBBOWo5NNIBdEFVX3lxTE5DM0VPTEl1cXZMbWVsVkktUjhoQm1KYnBVYkFKZGZNSVh1SW5HaDZWSnJxV3Vib1J2YXduUmN3bFJ3ZEM3YTV2Unh0Mjc4OEhEaTIzZ1FYSjhfUm4zWUZ1WXAybkdTRHNTZXNuREdtVWFzUTFR?oc=5",
+      "date": "Mon, 17 Aug 2026 20:49:06 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "検問中に酒の臭い 酒気帯び運転疑い、佐賀市の40歳男を現行犯逮捕 神埼署 | 事件・事故 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZnJKVlFVRXpaYnBzeG83TkI5YlU1X0VGZXgxYU5EZmxMUlhkYjRzc3ZBZ1JPQVJUbWZqdTR2ckhTNzhPNW5jSzF4dVBzV3hoVWZpb3BR?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒検問で「赤切符」　検挙された男性が語ったこと　飲酒運転ゼロへ②",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ21wd2dadk9CQ1Y3WWJWckwzdlh1TmNvbERBd3cxdWJoMTNSSE5wRTI1NU1FZXJhN2lfRTZKSHZVOGtPZXFyQ3hUZUNtdjdnaHZTM0RGYkw5d000OHRockExVU9OVlU3QlUzSmVZaFhTcko0ejd1Zi1wZmQxQTBRTGVJZ3p6b2lfcjA00gGLAUFVX3lxTE9nbXB3Z1p2T0JDVjdZYlZyTDN2WHVOY29sREF3dzF1YmgxM1JITnBFMjU1TUVlcmE3aV9FNkpIdlU4a09lcXJDeFRlQ212N2dodlMzREZiTDl3TTQ4dGhyQTFVT05WVTdCVTNKZVloWFNySjR6N3VmLXBmZDFBMFFMZUlnenpvaV9yMDQ?oc=5",
+      "date": "Wed, 19 Aug 2026 22:10:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "佐賀県内 半年間の交通事故死者は１３人 高齢者が約７割",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XUTdQNTdxaFVISXJkdk11dThRU2kxLXZCX2NRMWJDNklkanhNNWxtdVJCUGdVTG9sT0Fkbkc2RGZNZXNWdG1lSXBuN09XSVV4a3FmUGZOR00?oc=5",
+      "date": "Tue, 18 Aug 2026 02:40:00 GMT"
+    },
+    {
+      "title": "交通事故後に救護せず 佐賀・唐津市職員を懲戒処分",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHMk0xWVc4TExERWh4eHo2ejNtTW5ISFQtbDhyQ3FZTkRNZEttTWNaUkJfUHlDY1p2SjgwU1RTRVZEdUt2RFNhM29UZ1NqYjZvWDVMT0tB?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故後に救護措置せず 唐津市男性係長を停職3カ月の懲戒処分 | 行政・社会 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rTl81aENxQTd6dWRjVmttZkZiY3JTd0Y1ZzI0NHBnTlg0ZFJLcWZKMnRGNGVXOGFNSi1QUGlheUpxUTRjYzExRTdYMWh2UDZjWjcxQzRR?oc=5",
+      "date": "Fri, 07 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故後に救護せず 佐賀・唐津市職員を懲戒処分 (西日本新聞me)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ19pQ09iWHc1eWNSX0RtS1VQdGdRb0tob0ZIeHZoZHRrbTlOc0FCdDBsUXo1ZmZjaGc4cHJYLXlZSjJfR2RPVi1FVjNqVzdjdmlWN09WN2ppekY5NnBWQTRHSXh0RzFpSms4aElsMlB4T1hMVmRZYi1Tc0xuNjdoZ2JKTTNOWjllQTZNT3V3?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故後に救護せず 佐賀・唐津市職員を懲戒処分",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zV2JROWdGa05jOGdWc2RrWEJyeFkwWW9UWnRpNWJPdGRSTVlnQU9hVDhyQUJYZ2RpMGJjc05IbUx4SGRoWHVDX2pYSQ?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",
