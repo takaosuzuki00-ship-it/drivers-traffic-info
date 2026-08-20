@@ -1,68 +1,9 @@
 {
-  "generated_at": "2026-08-20T09:06:08.247608",
+  "generated_at": "2026-08-20T12:14:12.260395",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 28.0,
-    "temp_max": 29.9,
-    "temp_min": 26.3,
-    "precip_prob_max": 100,
-    "precip_sum": 11.4,
-    "wind_speed": 2.5,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 26.8,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "03:00",
-        "temp": 26.9,
-        "weather": "霧雨",
-        "precip_prob": 78
-      },
-      {
-        "time": "06:00",
-        "temp": 26.3,
-        "weather": "晴れ",
-        "precip_prob": 53
-      },
-      {
-        "time": "09:00",
-        "temp": 28.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
-      },
-      {
-        "time": "12:00",
-        "temp": 29.9,
-        "weather": "快晴",
-        "precip_prob": 67
-      },
-      {
-        "time": "15:00",
-        "temp": 29.6,
-        "weather": "快晴",
-        "precip_prob": 65
-      },
-      {
-        "time": "18:00",
-        "temp": 28.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 51
-      },
-      {
-        "time": "21:00",
-        "temp": 27.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 71
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
       "title": "8月20日（木）【岩手県】 日中・夜間の交通取締情報",
@@ -80,17 +21,22 @@
       "date": "Sun, 09 Aug 2026 20:00:00 GMT"
     },
     {
+      "title": "連休中事故防止 県警が合同検問を実施",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mN2Q3R0FJYl83OTdlWXdvZ01GWGstVDRQVXFlb01uUFN2NEs0bl9XTVk0aXE1c1p4WDkwSGJvZFVBYldVMmNSYm9HOWlaNXk4WERCblNHa1dWTlEtM3dzY2ZzU3E2R2puckNRRTRB?oc=5",
+      "date": "Mon, 01 May 2023 07:00:00 GMT"
+    },
+    {
       "title": "れいわ山本太郎氏は大分で「149キロスピード違反」を起こした5日後、宮崎でもサーフィンを“おかわり”していた レンタカー代はちゃっかり党費精算（デイリー新潮）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLVNGMzhrSWtKTWc5OERwLXRGZEluT251bmVLbnZVNXNTSWFUNmtwcGhmSFlMNXFSaWUyS1MyT1drNXN1WHFpYTBCSVE3blRIbmJnQU5Sc3FwMXlvekpaejNTR3NBV09XcHdjMV9IeTlQQ08zZkFzTkdGdGtwSlU?oc=5",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "約20人の列に車突っ込む 70代女性がはねられ死亡 小林市の病院駐車場｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95dnlFM2ZzVElfWFJTdXh5cGVWVnhFNnlaTDNCYVhWU0tXU21QS0dpSWYyV2ZnUmZYQUVLUnRiLU9Bckt6UjdiV1REZ05ZNmNGWGlKWXlicUpRaEZHNmpn?oc=5",
+      "date": "Wed, 19 Aug 2026 09:20:00 GMT"
+    },
     {
       "title": "九州道の迂回路、事故・通行止め相次ぐ 物流業者「拘束時間超過」 [宮崎県] [2026年熊本地震]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUmVGVkJBTU9NMmNYa3JKdWQ3Yk1qUFN5dzZlNHZId0RkdWdGemFha0I2d0FqREE3ZkVTY1dIUGp6WTFaOHM1ekhYVjZVUUcxSzVsWWc0bm9yS3Y1NjVCQW53azRlM2s?oc=5",
@@ -110,11 +56,6 @@
       "title": "宮崎市の国道でバイク転倒 新富町の男性自衛官が死亡",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3ak84UTU5Uk81TFRybmRaRlFwQVI5SGJ6Sk9OWF9yQW8yck11eERzT3JfYUpjUXNwQ1lSNnRzMTU4VnZKeVFic1djYzJsZUEtWXI3RVhhY2pqQQ?oc=5",
       "date": "Sat, 16 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "所属スタッフの交通事故について",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd1QwdnpMeUgtbFdZN0Y2TTBmSl9oVEh3RmpTd3RVc2lmZHo3UHRpWjJTWTVONnN1MXVlbXRJZnFFVnJtVkE?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
