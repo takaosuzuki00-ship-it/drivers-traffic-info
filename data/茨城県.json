@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-20T21:01:33.522001",
+  "generated_at": "2026-08-21T00:00:56.510922",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 26.2,
-    "temp_max": 30.4,
-    "temp_min": 22.2,
-    "precip_prob_max": 25,
-    "precip_sum": 0,
-    "wind_speed": 5.2,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.4,
+    "temp_max": 28.4,
+    "temp_min": 23.5,
+    "precip_prob_max": 100,
+    "precip_sum": 3.3,
+    "wind_speed": 4.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.5,
+        "temp": 25.4,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 10
       },
       {
         "time": "03:00",
-        "temp": 22.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 24.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 16
       },
       {
         "time": "06:00",
-        "temp": 22.4,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "09:00",
-        "temp": 27.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 25.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
       },
       {
         "time": "12:00",
-        "temp": 30.2,
+        "temp": 28.1,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 78
       },
       {
         "time": "15:00",
-        "temp": 30.0,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 26.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 27.9,
+        "temp": 24.7,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 26.2,
+        "temp": 23.7,
         "weather": "晴れ",
-        "precip_prob": 25
+        "precip_prob": 94
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "8月20日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcEc2bDlOcDY5WXpWdzFaVzFUZFJ1c0kzMnlZMkF6SGZadjdrZUN0U1BVMUZhXzdsbVlPR0RyOE5DbzNXZHI2T3hLZVgxdTZkM0NUTUQ3TE00b3FBWjRURjMwQVIwOVRPY19RTmJwONIBdEFVX3lxTE9Pdk9ZZERvaTRXWG5VQ1VVLUlwcGVTb0dGSXdWWFZTeTd3eC1jSXVycjE0QWxnUzhYMEZqLWI0UjdlckxtU2ZiVm14S2VBSnp3Snk3Q3JyTTNiOWhMNEJRV0RvV2ZMQ3FiMm1HcU44Vks2azNS?oc=5",
+      "date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "きょうの交通取締",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hb0p4M1lERG1sUmt3LWpmZ2lmNk5Pa2QtcVNIbVhUNFFKQXJrbFpCY0ZjWGtFYnpweTNrSUlfRGpZOHRSLU9JYkZnX01YWmhIV0VVU0Z1M0QtcXlnLUJEbWJVQW5IaHNmbUUxNEJ6blpkTEk?oc=5",
@@ -73,11 +78,6 @@
       "title": "8月18日（火）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CX21FMDU3emc5aUF4VW9KMnpDaF9xcE1uNjIwSmZqYl9DX2ZUTHc2bC1Pd3JUV0hTRE5DWE9ackxNTTF0U3JfaVpfNGdhNldlSG15WVhEMWFKMXlvWEpzLUctYUdvTmRDbnBBOWo5NNIBdEFVX3lxTE5DM0VPTEl1cXZMbWVsVkktUjhoQm1KYnBVYkFKZGZNSVh1SW5HaDZWSnJxV3Vib1J2YXduUmN3bFJ3ZEM3YTV2Unh0Mjc4OEhEaTIzZ1FYSjhfUm4zWUZ1WXAybkdTRHNTZXNuREdtVWFzUTFR?oc=5",
       "date": "Mon, 17 Aug 2026 20:49:06 GMT"
-    },
-    {
-      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
-      "date": "Tue, 18 Aug 2026 22:53:06 GMT"
     },
     {
       "title": "茨城県警が夜間の大規模検問 悪質危険な運転者の取締り",
