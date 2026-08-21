@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-22T00:01:32.083992",
+  "generated_at": "2026-08-22T03:01:05.517777",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.6,
+    "temp_max": 26.6,
+    "temp_min": 22.2,
+    "precip_prob_max": 94,
+    "precip_sum": 0.8,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 49
+      },
+      {
+        "time": "12:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 23.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -16,14 +75,14 @@
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "８月１７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveENVQVlrRjBWOHB1TDVYdjBNNHp6d050SDNRdk1ETFhZOEVkcXRIUm9JaWdaNmFOTjhRWXMtTE9tMXpuZU1JLTFWeHl6VzB0ZE90RmZ5TjN4ajJmM1VRd0ZlR2JTclg4cERyN2p0Vnd1Z9IBd0FVX3lxTE0zOVZWVWpKTC1sN2tXNE4zR2g0UDZtSDhtWGlzTW8zYUw2UzdWR2hWQXNBQTFDMEZlOThrRF9xY3AydEp1Vk9YbE5UeE1YVHg3TjdFUFR2aXN2MU9nX09sYzlwVDZIZm5DR2s4RnM4UzlhbGlPQUtZ?oc=5",
-      "date": "Sun, 16 Aug 2026 20:00:00 GMT"
-    },
-    {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "８月１４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGd0cycUo5d0hBWENCNjNmNXloR1pnU0NrZDQzTVRpZXpyLWd5WjZhOWIyZ3Q1a1JERHg3bFg4eTJ0Z284cmtlLVZ2Rkh1dmttNzRUa1g4WlVWWWZ2aGJ2bmtPZ0ZrN1dkeHpWMGtKMkVQZ9IBd0FVX3lxTE91TUdjZnItVG1DTFZzOUJobzV5eV9ZQWU4cTdqYmVQTzhhd1BWLU5BZ2VEbHlHM2MtNmZfbHNVbE12N2pCMVpTS0F4ZU5zdFpyVG1xWHVPcG4xT0hzQ01SU05Tak8tSER4aktESWpHenNoWnpKVnRZ?oc=5",
+      "date": "Thu, 13 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "衆院選へ 選挙違反取締本部を設置 宮城県警",

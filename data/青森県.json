@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-22T00:01:11.430075",
+  "generated_at": "2026-08-22T03:00:54.261036",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 20.4,
+    "temp_max": 29.0,
+    "temp_min": 19.5,
+    "precip_prob_max": 47,
+    "precip_sum": 0,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 27.7,
+        "weather": "快晴",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 28.8,
+        "weather": "快晴",
+        "precip_prob": 39
+      },
+      {
+        "time": "18:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月21日（金）【岩手県】 日中・夜間の交通取締情報",

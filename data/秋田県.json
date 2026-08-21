@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-08-22T00:01:45.333799",
+  "generated_at": "2026-08-22T03:01:13.116294",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.4,
+    "temp_max": 28.6,
+    "temp_min": 20.9,
+    "precip_prob_max": 18,
+    "precip_sum": 0,
+    "wind_speed": 4.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.4,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 28.6,
+        "weather": "快晴",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 26.3,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 23.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "8月17日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkQktyV0l6amoxSzN2TWxGOGFocFQtMXloTzJBYTVJbmJoS1ZVQ3R6c2J1cF9mWGFTYThGcG5KYlNfQl9yY01PWTg4MFI5YWdRcDU4MDlkZlJLRFRIVHJIc1lXU2tGU1JGdWRJbU51Ynp3SU1sMHIzNnFrSUJfZ9IBdEFVX3lxTE5NQlg2bEY0aVZULWozb3kzSVlzVXZTVGQ4NS12eXk4c0lvb1U1OFNxaWEtOUdIQjlTZUw5YjhSOUdpeUdCS0ZuR1BWM05RaVJfaUxmcDVnRF82OEUtZFlmbWg3SmJRcXFPc2NkQk1zT2pvSEUw?oc=5",
-      "date": "Sun, 16 Aug 2026 23:46:41 GMT"
+      "title": "8月17日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XT3d1VDR1VjY0c0xUY3dNb2tEUE1hZGszNE1sZDJwc1ExeExIRWRaZDVGLVlXeldQZmQtbWdZN0hOT3BqekJmRnBkTjV2dmdsNlh2b0FmWWpTbHhjR2NRNnpodUI1bEU?oc=5",
+      "date": "Sun, 16 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -21,14 +80,14 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
-      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
-    },
-    {
       "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rWEJlSDlHMUIyQXAtNDJPTlRpUkhwQ1JoVzFsaVljZzZLMUpwbXp3RmFQUWg3WHltVmxnWUtwMm9BY0w3M29NcV96U2QwM2h5M28tUWhQZnRzWlRzVXhGdlRn?oc=5",
       "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "違反取り消し対象の４割と連絡 神奈川県警、交通不正で",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrb0g0UjBWcU1BTmRxd201VmR3YVk2dS1DcGc5V3ZWZko4TG54ZWhrbWlTRm9fOVhkekhXWkxTVnFTVHJqVFpoZkpYQTdtMVVBTU1TQVVqN041TlpvU1BfQkxR?oc=5",
+      "date": "Mon, 23 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
