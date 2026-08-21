@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-21T06:03:05.941264",
+  "generated_at": "2026-08-21T09:03:00.385978",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.8,
+    "temp_max": 31.5,
+    "temp_min": 24.9,
+    "precip_prob_max": 97,
+    "precip_sum": 0,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "快晴",
+        "precip_prob": 86
+      },
+      {
+        "time": "15:00",
+        "temp": 31.5,
+        "weather": "快晴",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "21:00",
+        "temp": 27.0,
+        "weather": "快晴",
+        "precip_prob": 24
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
@@ -21,14 +80,14 @@
       "date": "Wed, 04 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "麻薬取締法違反で男に実刑 徳島地裁",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRkt2SWlfTHlRd2JUeTNqVDlKcWZqZ2Ztc0pFRVZqejNtNXg4dmN1TE5pS2RtSm16MnhqdG1KZU9qcF81ZGZjY2F0ejhPd3N0bFNjZlFB?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
-    },
-    {
       "title": "【徳島県】5日は飲酒運転取締り強化日など6月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1RCUkpoNGE3REw2cUtvRm9NUXVPS3FaSWpKOHg4Um9JRC1YWHA3Y1kwand6ZTJWNHZpQ0dFVm5CZTFvcFNjVlV4cmlBZU1EZHlxSnVDdDY2M3FVTnR2ZTdGaFRucWwwdlp4UFJvRF9LbWI4WDNQcjZFeDJGU0JrTE43QzNGVXFFYVhnek5YeFNtRXNvZExmUkVIYUs?oc=5",
       "date": "Thu, 04 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "徳島県警、勤務中のスピード違反で男性巡査部長を処分 情報公開請求で判明",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0Q1NPZ0FURnpaRFkwWlNhX1gtZEpGaTg4RmdtVDk2UXpwQVZlMmRXRXdUNzZiRHBhT2tiaHJZR0FTR3U5RF9Vb1p2eUN5aDhCbVBQc2hn?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
