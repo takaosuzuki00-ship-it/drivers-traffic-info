@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-08-22T03:05:13.700419",
+  "generated_at": "2026-08-22T06:04:38.115950",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 25.0,
+    "temp_max": 36.3,
+    "temp_min": 25.0,
+    "precip_prob_max": 8,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.0,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 36.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 32.1,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 29.4,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "８月２２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOandkM25ncTZYSXdlcTZ5RnkyQkJXSGRWS0NLSTBRRnpIdU5BYUIzbGYxRVVFQWJKU05zdmI2NkRETmw5OGYteGZHZi1HbWRSQWw3c3RweHJuMHNCVFd1UFJHeFNmMmIxelB1aGJZbjFFMmx2SzZTQ1FqZVM3LUUybHg0RUpSeEZ6d09TZ3lfc1E0M2xyWWxGVjNKelFXZk5ORkNhRGpLVkZpUFEyMDZDdWNsbWUzNjdOLTdYVG9zUDN1ZlhlOFZv0gF3QVVfeXFMUDdmUTdEUUtDdjl2d0ZXMno2SzFMc0JjX09YYXQwSWhJTE1qX0t1aHBmVzYtS2ExcnBIbzczcndtRG5KRmNyMlk5bFVzQXhGT3pMOHpXTmFfbDZoSkFaR1NpWUhxYTh4RVo5c2FlS3FpR3hBOUZGTDA?oc=5",
+      "date": "Fri, 21 Aug 2026 20:06:51 GMT"
+    },
     {
       "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
@@ -24,23 +88,18 @@
       "title": "飲酒検問で「赤切符」　検挙された男性が語ったこと　飲酒運転ゼロへ②",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ21wd2dadk9CQ1Y3WWJWckwzdlh1TmNvbERBd3cxdWJoMTNSSE5wRTI1NU1FZXJhN2lfRTZKSHZVOGtPZXFyQ3hUZUNtdjdnaHZTM0RGYkw5d000OHRockExVU9OVlU3QlUzSmVZaFhTcko0ejd1Zi1wZmQxQTBRTGVJZ3p6b2lfcjA00gGLAUFVX3lxTE9nbXB3Z1p2T0JDVjdZYlZyTDN2WHVOY29sREF3dzF1YmgxM1JITnBFMjU1TUVlcmE3aV9FNkpIdlU4a09lcXJDeFRlQ212N2dodlMzREZiTDl3TTQ4dGhyQTFVT05WVTdCVTNKZVloWFNySjR6N3VmLXBmZDFBMFFMZUlnenpvaV9yMDQ?oc=5",
       "date": "Wed, 19 Aug 2026 22:10:00 GMT"
-    },
-    {
-      "title": "検問中に酒の臭い 酒気帯び運転疑い、佐賀市の40歳男を現行犯逮捕 神埼署 (佐賀新聞)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0FOc09ERE9NQWFFTVpPM1FzSjF6dTY2aFowLUlnRUdTM0RfeDVJdUdFaVNOVnpWelhzVF9ST1NMV04ybkJTSnl6ZENSeGxBUWVyU3g4V1JyMVdsNGVhVUFQMmN1NVJjakdVaEpqRjZ2Rk0wU1lub0hwMkFJMFhaSGNTTVFVYVVFTm9fdjZ3?oc=5",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "佐賀・鳥栖IC付近で多重事故 高校のバスに乗っていた11人搬送 [佐賀県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rbnFzczJaVEl0TTlaNjc1RDV3b0lTYlppZHVqdnVtZFhkZkZ4cXlHUGtsaENvOGdZMW1vc2xiYnE1dDItb3JHTHdTX21pekota190eFM5TVhpWGRIODgyeGdNdGx2cmc?oc=5",
-      "date": "Fri, 21 Aug 2026 12:13:04 GMT"
+      "date": "Fri, 21 Aug 2026 10:25:00 GMT"
     },
     {
       "title": "【速報】鳥栖IC付近でバス含む玉突き事故、10人を救急搬送 佐賀県鳥栖市 東脊振ICー鳥栖IC間で約7キロの渋滞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVUFBOFVWemJmblFuX0NpcjRXNWtsNHBkT0RRakxrbDRhaEREOUFhQkNMalY5ejlRWlBYdmthVUI3TmdfZS1sM3dkWGlIVFcxTjJkUXRn?oc=5",
-      "date": "Fri, 21 Aug 2026 12:08:39 GMT"
+      "date": "Fri, 21 Aug 2026 17:32:08 GMT"
     },
     {
       "title": "佐賀 長崎道鳥栖IC付近 部活バス含む車6台関係の事故 10人搬送",
@@ -48,14 +107,14 @@
       "date": "Fri, 21 Aug 2026 09:35:05 GMT"
     },
     {
-      "title": "【続報】スクールバス乗車の11人けが 樟南高校剣道部が試合帰り高速で事故に巻き込まれ【佐賀県】｜佐賀のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GdzF4ajZJdjRFMUNKMWZVbHRTWm9BRDJBbEotYWJtUVlZbzc0a0VlVVJ4T2t0d0ZXYTFTU1JfbXBDNmpZeU0zYkptcU5jZlc3V2l2dFN5TUpBMDNfYXZiNlNn?oc=5",
-      "date": "Fri, 21 Aug 2026 11:08:00 GMT"
+      "title": "【速報】長崎道鳥栖JCT付近で事故 少なくとも3人搬送【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haTJyZ2ZtLUl3dzhuN09wWUFRN1pTMVVCajhiaDdnRG15NXh6a1o0NG5VNzMxcENZZ1l0UjctOHpWWDZxRmk0YVlKU0E0QTdGaGI0Z2JraVZTQWVqNFY0M29n?oc=5",
+      "date": "Fri, 21 Aug 2026 09:33:00 GMT"
     },
     {
-      "title": "【続報】高校のスクールバスなど6台の事故 搬送は11人 女子高校生が重傷 長崎道（2026年8月21日掲載）｜FBS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04bVhmbEd1eG9HRmVadnF1emxDcktWc2c4RTEtdFc2TlFvMm9FNF80S1dtU2hmcTFMX242TDU0Q2NPWUJETlBCTEFtYjEtcDVSWGxhSjlDSkowRWYwX19hSmlVZXhuQnFMSFBVUHNwcUtXcWlTTVJiNS1FZkJQdVE?oc=5",
-      "date": "Fri, 21 Aug 2026 09:52:01 GMT"
+      "title": "【続報】スクールバス乗車の11人けが 樟南高校剣道部が試合帰り高速で事故に巻き込まれ【佐賀県】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84WE1nT0lBa3VKNVdHNnRqQXdVbmZBbjBVTi0wTmJqQU8tZlZUYzNkTmpETU8tZ0VuZmxXdjVUQjdPck5kMnNXaG9oQ29QdGJ0NUYwaExkOEtFSXB6eFFuUzlOUExhbmVMQWplc2NtdEh1TVVHNW1OVHEtbFZ4VDg?oc=5",
+      "date": "Fri, 21 Aug 2026 11:22:01 GMT"
     }
   ],
   "official_links": [

@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-08-22T03:03:31.740418",
+  "generated_at": "2026-08-22T06:03:03.330180",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 24.8,
+    "temp_max": 33.0,
+    "temp_min": 24.8,
+    "precip_prob_max": 69,
+    "precip_sum": 0.6,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 31.8,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 33.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "18:00",
+        "temp": 30.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 12
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "８月２２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOandkM25ncTZYSXdlcTZ5RnkyQkJXSGRWS0NLSTBRRnpIdU5BYUIzbGYxRVVFQWJKU05zdmI2NkRETmw5OGYteGZHZi1HbWRSQWw3c3RweHJuMHNCVFd1UFJHeFNmMmIxelB1aGJZbjFFMmx2SzZTQ1FqZVM3LUUybHg0RUpSeEZ6d09TZ3lfc1E0M2xyWWxGVjNKelFXZk5ORkNhRGpLVkZpUFEyMDZDdWNsbWUzNjdOLTdYVG9zUDN1ZlhlOFZv0gF3QVVfeXFMUDdmUTdEUUtDdjl2d0ZXMno2SzFMc0JjX09YYXQwSWhJTE1qX0t1aHBmVzYtS2ExcnBIbzczcndtRG5KRmNyMlk5bFVzQXhGT3pMOHpXTmFfbDZoSkFaR1NpWUhxYTh4RVo5c2FlS3FpR3hBOUZGTDA?oc=5",
+      "date": "Fri, 21 Aug 2026 20:06:51 GMT"
+    },
     {
       "title": "８月２１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXbnZhVkE2SzhhTURQem52TmpNNmtFakpMLVZiVHUyTEpJenRZdmNtX095Znh1SXFXT1R2U0JUb2RycHZaR282UGo2OHBLS2FvS3dQdXZjNWdMUWhEeXROakd1X1Q1ams2aHJjN1lRcmh4Z9IBd0FVX3lxTE8yRURQYk1BUWRLR2RNbkIwR2hvbUhLRGp0SUdiUS1VQXN5SVo1SFpKTWxpWVhYM0VLeUo4dHN0cEdfcXIzLUlMUTUySkZpWnI1Zm8wTkxja0wxS0REY1pZRmhKSHBqeWxUbnZlMUk4alJydmVCQXhF?oc=5",
       "date": "Thu, 20 Aug 2026 20:08:35 GMT"
-    },
-    {
-      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
-      "date": "Tue, 18 Aug 2026 22:53:06 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ３月２０日",
@@ -21,9 +80,9 @@
       "date": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "８月１８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PeGN1bFUwOTNsSlV6cjRyeWx2V25NcG1Bd3pwYlRqZXE4WWlZTjBTRklua3hXZVlYVUI4ZmRRaWp4Z2dtb2l2Q1pPY3duNGlIcmdKVndZQnNFbjB6VGNFWFN2VHFMdVJVbjNIdWFicGNPZ9IBd0FVX3lxTE1zTk1UUlFOYVBHYW1pZTBoTF9obnFtN1NLMjZaYVNHSDk5MDNWRTlkZXlTeXhvY1czRXF6Z29ELUpnclc2S3RYdXdENU5pUENNLTJvemt0cFRYaFFzdEJQeVh4aUVxVlRaTkw5RXlYZVZHR3gzOVNB?oc=5",
-      "date": "Mon, 17 Aug 2026 20:00:00 GMT"
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2w2cXB3TWs3NDdUSXFITVpZTldrLWhqYmhuZHJQaTY2ZzBOd2dYUmJHa2w5elgxdXhWdjdQcU9uNUdGMlNabGlmQUtlSDVqMGxRWk5vRzJUUkpITVpQVlRCRWpGN19pZkVzWF9kalc1MEpJUFpVLXBvcFd1blFvd2szbWvSAXdBVV95cUxQVHNGSVZ3d0pvcVBCZDVjRWtQVnpMckhuMmw5eElCamIwQTRSTC14bXB3YTB2aUY0SGQ2Q3Vsai03M21lVy02M1JKLVR3bVc2NVJsa292QXlpVm5VT0dkdW9haGkwN0Zza0RlOE9QTGNIYXB3Nzg3aw?oc=5",
+      "date": "Tue, 18 Aug 2026 22:53:06 GMT"
     },
     {
       "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜南海放送NEWS NNN",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "京都のひき逃げ事件で無職男を殺人罪などで起訴 73歳女性190メートル引きずられて死亡",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGaU9NVjZ1ZGhlQWpyeEo1alVxTEFCUVV1cjhNOXVUTG9WM1VYQ3E4YnFOUlN3SDBma0JSejdkaXVXelJRZVUwSXNWdzZNQjhJbmRrRVB4OHo?oc=5",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "京都）交通事故防げ 空手家・植草さんも呼びかけ [京都府]",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUptajNIQUVwRUV1MnB5RUJVdkdqdWYxOUJTRnY2YVdMZ0tDck8wQ1ZaeTlRZlhpSVFDU3pYSjJzNUlEcUpBVlpPTDd5RmpYVy12Z1BncjlaUldlNExwcHpPN0dtMW1USVh6bldZMEdQZTNLRW9Ob1BuYnFyZFVlNEVBYjJBOTJzTHhfUy1B?oc=5",
       "date": "Wed, 29 Jul 2026 23:00:58 GMT"
+    },
+    {
+      "title": "京都のひき逃げ事件で無職男を殺人罪などで起訴 73歳女性190メートル引きずられて死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGaU9NVjZ1ZGhlQWpyeEo1alVxTEFCUVV1cjhNOXVUTG9WM1VYQ3E4YnFOUlN3SDBma0JSejdkaXVXelJRZVUwSXNWdzZNQjhJbmRrRVB4OHo?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
@@ -53,9 +112,9 @@
       "date": "Tue, 26 May 2026 20:14:17 GMT"
     },
     {
-      "title": "横浜・神奈川区の京急線踏切で男性ひかれ死亡 ２万６８００人に影響",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Q19nTVJnN0FPdlBDMTJtVVNFWXZ6ZDZSUzUwbEdxeE5RQWloNUlybFlNclUzc0dTOTdMU3BpelkxV3ZzV1RueG5IMExPY3Q5YUxqZnNacVlQMV93d0VYaUtHVWdYam1Yb0htSTZn?oc=5",
-      "date": "Tue, 24 Mar 2026 07:00:00 GMT"
+      "title": "大分の１９４キロ衝突死亡事故、きょう控訴審判決…遺族「高速度による事故の抑止になる判決を」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTGN2LVdraFJpQW14dmNRczRIZHA4ZDRfYWQ0Ti0wR3I0SXFoYjcxX1psQzF6NUZmaGd1N2M4ZElYR2k2MTVmTmVkWHpuN3lfcmR5X1BpeTBhUksyWTc0TUpvVmk5Zw?oc=5",
+      "date": "Thu, 22 Jan 2026 08:00:00 GMT"
     }
   ],
   "official_links": [
