@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-21T21:04:45.104195",
+  "generated_at": "2026-08-22T00:06:00.365618",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 27.6,
-    "temp_max": 32.3,
-    "temp_min": 26.3,
-    "precip_prob_max": 92,
-    "precip_sum": 4.4,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.9,
+    "temp_max": 32.1,
+    "temp_min": 25.3,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
     "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.4,
-        "weather": "晴れ",
-        "precip_prob": 14
+        "temp": 26.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
       },
       {
         "time": "03:00",
-        "temp": 26.8,
-        "weather": "晴れ",
-        "precip_prob": 18
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 10
       },
       {
         "time": "06:00",
-        "temp": 26.3,
-        "weather": "晴れ",
-        "precip_prob": 20
+        "temp": 25.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.6,
+        "temp": 28.4,
         "weather": "快晴",
-        "precip_prob": 45
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.1,
+        "temp": 31.4,
         "weather": "快晴",
-        "precip_prob": 35
+        "precip_prob": 0
       },
       {
         "time": "15:00",
         "temp": 32.1,
         "weather": "快晴",
-        "precip_prob": 53
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 29.8,
-        "weather": "晴れ",
-        "precip_prob": 92
+        "temp": 29.7,
+        "weather": "快晴",
+        "precip_prob": 25
       },
       {
         "time": "21:00",
-        "temp": 27.6,
-        "weather": "弱い雨",
-        "precip_prob": 65
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 16
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90dWotVGJqbFZocGU0Q1pVMk1ISUtnYVlQcHcxSHRvbWotZE05YmI0UXp0Z0pHZkpQYkMzVkVwOUg1ZDlqSUlIelRmTmlFWG8yeVFXNWZLLXNIanJtMXFRLUlSekExM2haTlY0YTRCTdIBdEFVX3lxTE5SeVZ2VU15TDhpTHp1T1lHMGNxcmhERW1sSk95eDhpN0FBdFE2QThOMmFtV2RjQktMZlg0TllhMi15VUpFanVIa00wX09PQ0JoZGdjbzJxYXFQbnJkaU1HTzBvZ0FNbjdHV2VqZlV3bmtlekRo?oc=5",
+      "date": "Tue, 18 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "衆議院議員選挙違反取締本部を設置 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWQ2c1bm1UcXdVWXRNdVk2Z2pwNnhybVZWME9sUzk1d09ReFVqT0VMZ1Q0dXcydW5DcG0wcEwzZjRKMll3ekJXYlNxVU9LT2NRVmM2NS1NVXgxU0Y2RnhTaFEwYk1zb3c?oc=5",
@@ -82,29 +87,29 @@
   ],
   "accident_news": [
     {
-      "title": "佐賀 長崎道鳥栖IC付近 部活バスを含む多重事故 3人重傷か",
+      "title": "佐賀 長崎道鳥栖IC付近 部活バス含む車6台関係の事故 10人搬送",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncWo0NjcxTl81cWlESzI4aXROWXNmd1hiNG84OW14ajBoanF1Sm5SX1JOVU5TbTVFUHpPRGlwclFZU2ZoWFpHc1JxQ0N0SVhHTUtITE5kOU1tc3ZuUEMw?oc=5",
       "date": "Fri, 21 Aug 2026 09:35:05 GMT"
     },
     {
-      "title": "【続報】高校のスクールバスなど6台の事故 搬送は11人 女子高校生が重傷 長崎道（2026年8月21日掲載）｜FBS NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04bVhmbEd1eG9HRmVadnF1emxDcktWc2c4RTEtdFc2TlFvMm9FNF80S1dtU2hmcTFMX242TDU0Q2NPWUJETlBCTEFtYjEtcDVSWGxhSjlDSkowRWYwX19hSmlVZXhuQnFMSFBVUHNwcUtXcWlTTVJiNS1FZkJQdVE?oc=5",
-      "date": "Fri, 21 Aug 2026 11:05:00 GMT"
-    },
-    {
-      "title": "長崎道で樟南高校のマイクロバスやトラック6台が絡む事故 高校3人がけが（KBC九州朝日放送）",
+      "title": "長崎道で樟南高校のマイクロバスやトラック6台が絡む事故 高校生3人がけが（KBC九州朝日放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mQkdqcDlhMzZWbHJ6eWpXSk16bFlwM0ZIX1FfYUF3Z25qQzZ6UElyUW9KNm9qTkZXRDFrZEVKSk9Vc1BCM1d2M2hXRzlPNDExcVViMmZqNjc1dkNiandKNG1xQlNHVzFCOFFHR3NVRi0yMzdlOTZRNDFCdnFycmc?oc=5",
-      "date": "Fri, 21 Aug 2026 09:57:36 GMT"
+      "date": "Fri, 21 Aug 2026 13:24:47 GMT"
     },
     {
-      "title": "【速報】長崎道鳥栖JCT付近で事故 少なくとも3人搬送【佐賀県】｜佐賀のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haTJyZ2ZtLUl3dzhuN09wWUFRN1pTMVVCajhiaDdnRG15NXh6a1o0NG5VNzMxcENZZ1l0UjctOHpWWDZxRmk0YVlKU0E0QTdGaGI0Z2JraVZTQWVqNFY0M29n?oc=5",
-      "date": "Fri, 21 Aug 2026 09:33:00 GMT"
+      "title": "長崎道で6台多重事故 樟南高剣道部員ら10人搬送 スクールバスにトレーラー突っ込む",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pT2w3R3NCSFFhc3RqOTZhelE0Y29PVjJHbERIdmdzdW9rU2VjSTFFc2FpekNHTDJmd3QweVJKMy03Sk5TNWNablZOUXp3c2t4NUhya19n?oc=5",
+      "date": "Fri, 21 Aug 2026 10:16:00 GMT"
     },
     {
-      "title": "長崎市の国道を横断中に車にはねられる 80代女性が死亡の交通事故｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tU0RaeGlRNzNsSkx6Ti1TX2g1RS1MLThUcXNreXBPVGdQRm1yZmQ2S3JVT2pPNHY3VTEyYUNRTS1vUWJ3R0lFM0NLdXdJaHByTFJldW9CZVQ2WS1YZWpxa1VR?oc=5",
-      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+      "title": "長崎自動車道で車6台絡む事故 樟南高校のマイクロバスが追突され生徒ら11人搬送（視聴者提供）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tUENrZkNVZXMxSVBfa3NfamlMVnVUWmRiT1RKVElRemdZTGIyV1BIaHZ0VlZvdmowWkhCWnl0QkRROTFZYVVMWkJYUmZOUkhUYVM4LWJnQmZOUQ?oc=5",
+      "date": "Fri, 21 Aug 2026 13:27:56 GMT"
+    },
+    {
+      "title": "【続報】高校のスクールバスなど6台の事故 搬送は11人 女子高校生が重傷 長崎道（2026年8月21日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3J4UmF5clFjbWlGaVBUZlV6VUYzWFVjV0hSamJoWHdxVTFGWXdiQk5aTE93NzBab0FaTTJpbjlyM3c3YnN3aVdsNUU4TFV4WGRWT1c3U0ZsU2R0SlR0UVF1d3R6NmZoencxaWRHRnVTbENjWWdxdGkydkhrR2ZwVWg1T0pGdlE?oc=5",
+      "date": "Fri, 21 Aug 2026 09:52:01 GMT"
     }
   ],
   "official_links": [

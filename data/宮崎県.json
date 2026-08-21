@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-08-21T21:05:19.356369",
+  "generated_at": "2026-08-22T00:06:15.601040",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.8,
+    "temp_max": 29.3,
+    "temp_min": 25.1,
+    "precip_prob_max": 39,
+    "precip_sum": 0,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 29.1,
+        "weather": "快晴",
+        "precip_prob": 29
+      },
+      {
+        "time": "15:00",
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 29
+      },
+      {
+        "time": "18:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "21:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 12
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ガザ南部検問所、限定再開 イスラエル、運用緩和焦点",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PR3dXN0dHQnBJRlpibjJaSlpnM3Q3cVJZanBTcXBZSERJd2IxQ3RsVGVGVmUzaXdpUnhlRE9aazlSX2dxRTFlSkFXcWxQYVhqNENhd044eFlRblBzVEloMUJ2aE1rcERSMEo2U2ppUDJhSjg?oc=5",
+      "date": "Sun, 01 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "自転車の「青切符制度」 宮崎県内で初摘発 違反行為は\"スマホのながら運転\"反則金は1万2000円",
