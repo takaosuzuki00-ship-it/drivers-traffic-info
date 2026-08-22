@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-22T09:01:56.369662",
+  "generated_at": "2026-08-22T12:02:01.669308",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 26.5,
-    "temp_max": 29.9,
-    "temp_min": 23.9,
-    "precip_prob_max": 35,
-    "precip_sum": 0.6,
-    "wind_speed": 3.9,
+    "temp_now": 30.2,
+    "temp_max": 30.2,
+    "temp_min": 24.0,
+    "precip_prob_max": 53,
+    "precip_sum": 2.2,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
@@ -27,37 +27,37 @@
       },
       {
         "time": "06:00",
-        "temp": 23.9,
+        "temp": 24.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 16
-      },
-      {
-        "time": "09:00",
-        "temp": 26.5,
-        "weather": "晴れ",
         "precip_prob": 4
       },
       {
-        "time": "12:00",
-        "temp": 29.9,
+        "time": "09:00",
+        "temp": 26.3,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 30.2,
+        "weather": "晴れ",
+        "precip_prob": 18
       },
       {
         "time": "15:00",
-        "temp": 28.0,
+        "temp": 27.8,
         "weather": "霧雨",
-        "precip_prob": 35
+        "precip_prob": 53
       },
       {
         "time": "18:00",
-        "temp": 27.1,
+        "temp": 27.0,
         "weather": "晴れ",
-        "precip_prob": 12
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 25.8,
+        "temp": 25.5,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -92,19 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "昨夜の氷見市ひき逃げ ７０歳女を逮捕 富山県氷見市（北日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UQzE0YzhGVUxQS3RJMndFSmdTVkc4NUx0WDQ1YVo4YXh6VS1DMHY4R1k2VFJtUldRZHBIVkxjWG5rRG41bUc5U3Y2YXExOWltajl3ZlNJd25Ud3dselFtM2VhRE9iUy1nU1JkcURaT1Vqd3pRSHdwbDN3VF9ycHM?oc=5",
+      "date": "Fri, 21 Aug 2026 09:48:00 GMT"
+    },
+    {
       "title": "富山県警の警察官を過失運転致死の疑いで書類送検 今年３月の交通死亡事故（2026年8月20日掲載）｜KNB NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGdBbkY1UUV5eG1QRGhPdVExUFo3a01rOWRTN1gxS2hkYlZ0bDNLcUZwclBJaDBlMDZGQXVPREUxSGVTSnV6MFU3T2dmdXBvY19HSEtDS2FCMUNaZ0pEaG1vOTFJX1pDT0p3bjhUNlZBWC1ZWGRHeFlfYzNrVWZvZFlPalVGbGs?oc=5",
       "date": "Thu, 20 Aug 2026 10:53:00 GMT"
-    },
-    {
-      "title": "呼気アルコール0.5mg超で富山県内初の危険運転罪適用へ 富山市八尾町の飲酒死亡事故を受け街頭で呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fZVRXeElEbXBDbzl6N0ZLdU9mWmtiQm9DMFp2a3Y3YndpRDdHbmtDX3ZidkFveHpHeTdjZmMtUmhMcl9UNmhyXzFVU3dIWkhyTjBtUkJxR0VaZjNZZ3ZhZkdmamx1MGN6Ukt4TGlpcXdtUGx1TWtrTFhZa1F3ODQ?oc=5",
-      "date": "Fri, 14 Aug 2026 11:30:32 GMT"
-    },
-    {
-      "title": "軽トラックと軽乗用車が衝突 軽トラックの７８歳女性が死亡 富山市（2026年8月14日掲載）｜KNB NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDJ0TlAwVzlXcHE3WG1FSXI5YTFpOWdFLWNBS0Jidld5OVJjMHRISUxJZXlGZ1N6RnJEWW93aFBjaEhCRVdvbjh1elREa3RzdWlIYjdwczJTVUpzRVo1amJOZzhEeDBTT3lxRlFIMUNmTW1GbUZmMnZLVEFRd1p5TGJ6QldrbXc?oc=5",
-      "date": "Fri, 14 Aug 2026 11:04:00 GMT"
     },
     {
       "title": "赤信号を140キロで進入か、危険運転致死罪で起訴 親子死亡事故 [富山県]",
@@ -112,9 +107,14 @@
       "date": "Fri, 27 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "富山市の国道41号で死亡事故 大型トラックにはねられた79歳女性が死亡 現場は交通量の多い片側2車線",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13eWtVZHI4SU0tWnppYm1QV2JMZkx2bHVjNHBoeC1CYmktckNYaS1sYjQ2U01DTjE0Y0RoSW9kbE1EQ3RKUk9Kc1l0R1VFbWFBbTNCQm0zZnNrM0diSS1B?oc=5",
-      "date": "Fri, 21 Aug 2026 08:07:37 GMT"
+      "title": "軽トラックと軽乗用車が衝突 軽トラックの７８歳女性が死亡 富山市（2026年8月14日掲載）｜KNB NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDJ0TlAwVzlXcHE3WG1FSXI5YTFpOWdFLWNBS0Jidld5OVJjMHRISUxJZXlGZ1N6RnJEWW93aFBjaEhCRVdvbjh1elREa3RzdWlIYjdwczJTVUpzRVo1amJOZzhEeDBTT3lxRlFIMUNmTW1GbUZmMnZLVEFRd1p5TGJ6QldrbXc?oc=5",
+      "date": "Fri, 14 Aug 2026 11:04:00 GMT"
+    },
+    {
+      "title": "富山の親子死亡事故で実況見分 当時の状況確認 容疑者立ち会い、手を合わせる場面も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzWlJfVnpyLVgxVmVEMEpmVm5WX2t6R2E4cUliek9DUDl1dl9uVmdvRmZINkxvLUN1XzVRWUhsZjVodHpLXzQwZlFWTkxXLWZFMmV1UXIzZ1F2aGYxSVRzQkx4Mlc0M2lLRk9XbFN2RElRclFrUEE?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
