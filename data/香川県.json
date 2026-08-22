@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-23T00:04:39.978769",
+  "generated_at": "2026-08-23T03:03:39.131743",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.8,
+    "temp_max": 31.9,
+    "temp_min": 26.1,
+    "precip_prob_max": 88,
+    "precip_sum": 0,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 27
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "快晴",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 30.2,
+        "weather": "快晴",
+        "precip_prob": 29
+      },
+      {
+        "time": "21:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "８月２２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",

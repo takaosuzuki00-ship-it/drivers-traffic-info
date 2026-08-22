@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-23T00:03:09.099931",
+  "generated_at": "2026-08-23T03:02:46.023122",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 24.8,
+    "temp_max": 34.1,
+    "temp_min": 24.3,
+    "precip_prob_max": 82,
+    "precip_sum": 1.1,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.4,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 33.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "18:00",
+        "temp": 32.3,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 16
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "８月２２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -21,9 +80,9 @@
       "date": "Thu, 19 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "８月１８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PeGN1bFUwOTNsSlV6cjRyeWx2V25NcG1Bd3pwYlRqZXE4WWlZTjBTRklua3hXZVlYVUI4ZmRRaWp4Z2dtb2l2Q1pPY3duNGlIcmdKVndZQnNFbjB6VGNFWFN2VHFMdVJVbjNIdWFicGNPZ9IBd0FVX3lxTE1zTk1UUlFOYVBHYW1pZTBoTF9obnFtN1NLMjZaYVNHSDk5MDNWRTlkZXlTeXhvY1czRXF6Z29ELUpnclc2S3RYdXdENU5pUENNLTJvemt0cFRYaFFzdEJQeVh4aUVxVlRaTkw5RXlYZVZHR3gzOVNB?oc=5",
-      "date": "Mon, 17 Aug 2026 20:00:00 GMT"
+      "title": "京都府知事選へ選挙違反取締本部を設置 府議補選、与謝野町長選、井手町議選も取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMk4zY1ZUaGJxekdDOEtVcThKeUFqZEl2clR1YkNaZW8zRTVFTW9hNlc0VnlEYk1GQWpKTURMUnU5NGwxZUdJOUcxQnlPbGtBWHdYbWJIbXA?oc=5",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（2026年7月1日掲載）｜南海放送NEWS NNN",
@@ -33,29 +92,29 @@
   ],
   "accident_news": [
     {
-      "title": "京都のひき逃げ事件で無職男を殺人罪などで起訴 73歳女性190メートル引きずられて死亡",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGaU9NVjZ1ZGhlQWpyeEo1alVxTEFCUVV1cjhNOXVUTG9WM1VYQ3E4YnFOUlN3SDBma0JSejdkaXVXelJRZVUwSXNWdzZNQjhJbmRrRVB4OHo?oc=5",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "京都）交通事故防げ 空手家・植草さんも呼びかけ [京都府]",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUptajNIQUVwRUV1MnB5RUJVdkdqdWYxOUJTRnY2YVdMZ0tDck8wQ1ZaeTlRZlhpSVFDU3pYSjJzNUlEcUpBVlpPTDd5RmpYVy12Z1BncjlaUldlNExwcHpPN0dtMW1USVh6bldZMEdQZTNLRW9Ob1BuYnFyZFVlNEVBYjJBOTJzTHhfUy1B?oc=5",
       "date": "Wed, 29 Jul 2026 23:00:58 GMT"
     },
     {
-      "title": "▽こえきく 嵐山・道幅狭い生活道路の交通事故を防げ!",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXlFYmNPMEZzWWtBZ3J2UGhPNkV6dlVIdk1xa05waHlLRVczT3RfYkRJR05ueUhtVWFaTFdjUHJqM2laUktoTlEyN0ZGbHVYX0o5dTVKWTFvNmFiRTZxeEJvelNmR04zZHRJc2RVeWItakhjdDAyc3V2WnhONjVsZlh1Zw?oc=5",
-      "date": "Tue, 26 May 2026 20:14:17 GMT"
+      "title": "京都のひき逃げ事件で無職男を殺人罪などで起訴 73歳女性190メートル引きずられて死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGaU9NVjZ1ZGhlQWpyeEo1alVxTEFCUVV1cjhNOXVUTG9WM1VYQ3E4YnFOUlN3SDBma0JSejdkaXVXelJRZVUwSXNWdzZNQjhJbmRrRVB4OHo?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "京都・嵐山の生活道路で事故相次ぐ、混み合う観光地で「抜け道」走る車が増えたか…京都府警と関連企業がタッグで対策に本腰",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xUjZJQnNuMEFNaUJVUkZFN3BBN3RkWGd6T1U3SDg4Mnc5NGJwenpPZWQyY2tZNHlNbzdFQy1UN1M1YWdlcXRmaHJsQnVOaEU0OE9HMHJQeXlJMWtVVlFUQlU3SVZSRERWaXh4enYycTltUQ?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "大分の１９４キロ衝突死亡事故、きょう控訴審判決…遺族「高速度による事故の抑止になる判決を」",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTGN2LVdraFJpQW14dmNRczRIZHA4ZDRfYWQ0Ti0wR3I0SXFoYjcxX1psQzF6NUZmaGd1N2M4ZElYR2k2MTVmTmVkWHpuN3lfcmR5X1BpeTBhUksyWTc0TUpvVmk5Zw?oc=5",
       "date": "Thu, 22 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "横浜・神奈川区の京急線踏切で男性ひかれ死亡 ２万６８００人に影響",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Q19nTVJnN0FPdlBDMTJtVVNFWXZ6ZDZSUzUwbEdxeE5RQWloNUlybFlNclUzc0dTOTdMU3BpelkxV3ZzV1RueG5IMExPY3Q5YUxqZnNacVlQMV93d0VYaUtHVWdYam1Yb0htSTZn?oc=5",
-      "date": "Tue, 24 Mar 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
