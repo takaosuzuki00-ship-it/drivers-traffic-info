@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-23T18:01:28.848333",
+  "generated_at": "2026-08-23T21:01:04.274409",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.5,
+    "temp_max": 26.2,
+    "temp_min": 22.0,
+    "precip_prob_max": 100,
+    "precip_sum": 0.5,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "09:00",
+        "temp": 24.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 26.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 16
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月23日（日）【岩手県】 日中・夜間の交通取締情報",
@@ -53,9 +112,9 @@
       "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "宮城県大和町が死亡事故ゼロ6カ月 県警が祝詞",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUWlrWVY4c09YVWN0bi0wWlZhRHlUdHZvR1RXYzhhS1EzQTZveUJTSFpnOTZOVFBBS3EtczBQOU81QmdULXg4NVl0aFVXLUFNS2lLbVdUTTNIaGZkWnNsaQ?oc=5",
-      "date": "Fri, 21 Aug 2026 20:00:00 GMT"
+      "title": "死亡の作業員は宮城県の33歳男性と判明 泊原発構内で約9メートル転落 搬送先で死亡確認 北海道",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNjBkTnJBaEhTYUhGTW96VkZCT3JaQ1F2alRkNTNDS0ZEN2ZTbUVGcllPZ1gyRWl6QTdJVUFoOWZuaV9iNFN2Z1owV3l3dmRuV0x3eUpBeHpGak9rd21vcWRGLTZvX0F4NDNsNXFTMkNJaU5OYnpmbEN3YmFERGs?oc=5",
+      "date": "Wed, 19 Aug 2026 10:43:12 GMT"
     }
   ],
   "official_links": [
