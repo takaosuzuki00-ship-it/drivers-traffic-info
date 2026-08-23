@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-23T12:02:19.113879",
+  "generated_at": "2026-08-23T15:06:26.266950",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 27.2,
+    "temp_now": 27.1,
     "temp_max": 27.6,
     "temp_min": 23.9,
-    "precip_prob_max": 24,
-    "precip_sum": 1.5,
-    "wind_speed": 2.3,
+    "precip_prob_max": 22,
+    "precip_sum": 1.3,
+    "wind_speed": 4.4,
     "hourly": [
       {
         "time": "00:00",
@@ -29,7 +29,7 @@
         "time": "06:00",
         "temp": 23.9,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "09:00",
@@ -39,27 +39,27 @@
       },
       {
         "time": "12:00",
-        "temp": 27.2,
+        "temp": 27.5,
         "weather": "曇り",
-        "precip_prob": 4
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 27.3,
+        "temp": 27.1,
         "weather": "弱い霧雨",
-        "precip_prob": 24
+        "precip_prob": 22
       },
       {
         "time": "18:00",
         "temp": 26.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 6
+        "weather": "霧雨",
+        "precip_prob": 10
       },
       {
         "time": "21:00",
         "temp": 26.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 2
       }
     ]
   },

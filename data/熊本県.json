@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-23T12:04:22.740193",
+  "generated_at": "2026-08-23T15:08:57.668019",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 34.4,
-    "temp_max": 35.0,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 34.9,
+    "temp_max": 35.7,
     "temp_min": 25.0,
-    "precip_prob_max": 78,
+    "precip_prob_max": 73,
     "precip_sum": 0,
-    "wind_speed": 3.8,
+    "wind_speed": 8.8,
     "hourly": [
       {
         "time": "00:00",
@@ -29,41 +29,46 @@
         "time": "06:00",
         "temp": 25.0,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 29.3,
+        "temp": 29.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.4,
+        "temp": 34.5,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 34.3,
+        "temp": 34.9,
         "weather": "晴れ",
-        "precip_prob": 51
+        "precip_prob": 53
       },
       {
         "time": "18:00",
-        "temp": 31.7,
-        "weather": "晴れ",
-        "precip_prob": 78
+        "temp": 32.5,
+        "weather": "快晴",
+        "precip_prob": 73
       },
       {
         "time": "21:00",
-        "temp": 28.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 24
+        "temp": 29.1,
+        "weather": "晴れ",
+        "precip_prob": 31
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "8月21日（金）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kc1FWWXZKUTZBeTYzZkpocDh6Zm9WY3J3SGFDMEkyTVlheXFyTzA5dUlacXhoZ3pjSTh2NWhIZjlmaU5HbHQ4U1ZHRzlfQXZFSktXRGprVlNGdU5UalJGUnZtMnpPQmZkeEJtV3U2VdIBdEFVX3lxTFBUN19xcGhxZ1g1dEVxMTB5NzAwNlVTVDNCUEpQN2R4bDh1QTRfQzh2eGt1WkJTRXdTbTNoWUFZVVQ2OE9qLUVVYktpWGU5ZkZZUDk4ZEdnTjhBUjNad0drZ01oM1VRVVdnSlZXU0QxMFRlQmJF?oc=5",
@@ -75,14 +80,9 @@
       "date": "Tue, 18 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ４月２１日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tMm5lTTFrbEwwTzlQamhPTUlKU3BJY09fbDJISnJ2S3JzTF9jWEpwNmRHakQ3Q2pZYk5UVTh2MFBqVURSdk15aXpLMA?oc=5",
-      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "８月１８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PeGN1bFUwOTNsSlV6cjRyeWx2V25NcG1Bd3pwYlRqZXE4WWlZTjBTRklua3hXZVlYVUI4ZmRRaWp4Z2dtb2l2Q1pPY3duNGlIcmdKVndZQnNFbjB6VGNFWFN2VHFMdVJVbjNIdWFicGNPZ9IBd0FVX3lxTE1zTk1UUlFOYVBHYW1pZTBoTF9obnFtN1NLMjZaYVNHSDk5MDNWRTlkZXlTeXhvY1czRXF6Z29ELUpnclc2S3RYdXdENU5pUENNLTJvemt0cFRYaFFzdEJQeVh4aUVxVlRaTkw5RXlYZVZHR3gzOVNB?oc=5",
-      "date": "Mon, 17 Aug 2026 20:00:00 GMT"
+      "title": "「人に優しい運転を」高知県庁で交通取締隊の出発式 「春の全国交通安全運動」始まる",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPcGswUzNKWWhCQnNZOVBmMGJfTUZzZGU2NTFzSVAzazhXaUNWM0ZWVk5fd1d3NlZ3OUEyTmY2NGw2eXdoQTJkVTNMMndzQXFQNEpfTFdkVzRXc3R5ek1jeW5kU1dHMTJM?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",

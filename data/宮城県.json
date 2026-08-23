@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-23T12:01:04.667374",
+  "generated_at": "2026-08-23T15:04:55.474285",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 26.1,
-    "temp_max": 26.1,
+    "temp_now": 25.5,
+    "temp_max": 25.6,
     "temp_min": 22.0,
-    "precip_prob_max": 95,
+    "precip_prob_max": 100,
     "precip_sum": 0.5,
-    "wind_speed": 5.6,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
@@ -29,50 +29,55 @@
         "time": "06:00",
         "temp": 22.9,
         "weather": "晴れ",
-        "precip_prob": 57
-      },
-      {
-        "time": "09:00",
-        "temp": 25.4,
-        "weather": "晴れ",
-        "precip_prob": 94
-      },
-      {
-        "time": "12:00",
-        "temp": 26.1,
-        "weather": "晴れ時々曇",
         "precip_prob": 88
       },
       {
+        "time": "09:00",
+        "temp": 24.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
+      },
+      {
         "time": "15:00",
-        "temp": 25.2,
+        "temp": 25.5,
         "weather": "晴れ時々曇",
         "precip_prob": 82
       },
       {
         "time": "18:00",
-        "temp": 24.1,
+        "temp": 24.2,
         "weather": "晴れ",
-        "precip_prob": 43
+        "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 23.1,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
-      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
+      "title": "8月23日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVjBtbFNQRFhDMGdBVjhmOW04RmpENFNnZnBtZFdyM01TM05QSnBtMlFHa1FJRk16YTgwVGVJVmw5Q2lUWGZjUXphUW9hVU5GMU11T3NIZHFiU3R6cS1DbEJDaUppTnJLZVNEM0FkSdIBdEFVX3lxTE44SlFWdS1ILTRUamh2WDhFdHJtS3ZxbE5pWTg3VzhsTWE5YUR3VTlfb0ZZODdmRkJDeUczc0R5bWI4VzB5MWY2enpaZXR3c2NPTkR6dVE0M2JZUEFlTWd3MXFGVkZKdTI0SkZKZWprZ3ZwazdW?oc=5",
+      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:11:48 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -83,14 +88,14 @@
       "title": "衆院選へ 選挙違反取締本部を設置 宮城県警",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xRlVOUzJwUFpWYkJEMjY5b2VYcUxQaHBtQ3NnUW1XdzNHdGgxRE9GZ2hFRzJLVzZyQ0lGRW5Xbm1tWl9FUGFsajFPVXdHR1U?oc=5",
       "date": "Sat, 24 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
-      "date": "Fri, 22 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "高齢者の交通事故と睡眠時無呼吸症候群 東北大が宮城で関連調査スタート",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HLWprRFBxejMzZnFVcUk4cTFQTUtnSGJHcjRlanpqSEpjb2wydndfMDZseTREVGx6WGxnV08zR21jU2I4U1Ftb2ZKb3c3bndEREx4ZnE4TDNoRmtzVXZCRQ?oc=5",
+      "date": "Sun, 23 Aug 2026 01:00:00 GMT"
+    },
     {
       "title": "夏は疲れによる交通事故が増加 夏の交通事故防止運動が始まる",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMnVnY2FaQUp0VFUzQXVoNU1qbjhNbndDRkVnN2E3VFNELW9TZkFmcWtLbTBwT09JejlHM2dpN1NzSEh5d2hyMW04NmZEclU?oc=5",
@@ -105,11 +110,6 @@
       "title": "詐欺・交通事故防止へ 宮城県気仙沼署が割り箸袋で「ばしっと」啓発",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdE02UGFJN3dXVXFpMktDT2Z2WmIyZGxPQnVRMzRHb3lFX0ZnWV95OXg4enpwRXJhLWttTkJ1RkZMSnliOXYtV0dEd21SNF96aDFRbkRSX1lNdzg?oc=5",
       "date": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通死亡事故ゼロ12年達成 宮城県が南三陸町に褒状贈呈",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MS2JockFzQnBWbDBDUFd5SjFMamJLZUZaa2VUTXVGbFNRaDVxckRwOVhPR2ZZR1c4V0lpUVJWOGpUVzNDNVZ1TmRCUTh2MWZHMkJ6MU5FZlFCYVJJOFl6Wg?oc=5",
-      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "死亡の作業員は宮城県の33歳男性と判明 泊原発構内で約9メートル転落 搬送先で死亡確認 北海道",
