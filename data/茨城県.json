@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-23T09:01:25.620616",
+  "generated_at": "2026-08-23T12:01:22.490879",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.6,
+    "temp_max": 28.0,
+    "temp_min": 22.5,
+    "precip_prob_max": 17,
+    "precip_sum": 0,
+    "wind_speed": 6.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 27.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "18:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "きょうの交通取締",
@@ -11,31 +70,31 @@
       "date": "Fri, 14 Aug 2026 21:01:17 GMT"
     },
     {
-      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNUdCUHdLOWVDLVVyUzVYZ3U5cVkxZXpNSjZiTGhkSVk0dnVsVjZSUnFwZmQ5WUp4M3hJelRGY2NTVnVacXNHNUNYOS1EWWM1STNFM1dEX3lOR1g1M2J1ZTk5dVhucVRIajdkQ1dhT2x0d9IBd0FVX3lxTE54ZEo3amk2b3IxdkQxUmxud1oyaXNQTnl6UDFrQkV4ZnFvby16RGRPZGl5VGlfejg5VVA0di0ya1ByQXBTNGNLY2UwT01nVkQzbVljeHdCYnVwN0p3dGozZ3dkNjhnc2lTS1NybEY2OGwyTG9WdExz?oc=5",
-      "date": "Sat, 22 Aug 2026 21:45:00 GMT"
-    },
-    {
       "title": "8月23日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ0ZhMjJmNHpCZFZiVGI4WC1KMy1HZzZvUy11bGFJZmFpT0RXdkZjYmpHLUxkd2hWUkdGM2JldVQ0dF81SUNidzJxS1NyTVRXR0tieThyNkZHdWFRZVhwTUxZTHdzSWdYa1A2a2JiRS1ka0dGMklvT0RoTUZFQ0M1aUFB0gF0QVVfeXFMTjhKUVZ1LUgtNFRqaHZYOEV0cm1LdnFsTmlZODdXOGxNYTlhRHdVOV9vRlk4N2ZGQkN5RzNzRHltYjhXMHkxZjZ6elpldHdzY09ORHp1UTQzYllQQWVNZ3cxcUZWRkp1MjRKRkplamtndnBrN1Y?oc=5",
-      "date": "Sat, 22 Aug 2026 20:26:30 GMT"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVjBtbFNQRFhDMGdBVjhmOW04RmpENFNnZnBtZFdyM01TM05QSnBtMlFHa1FJRk16YTgwVGVJVmw5Q2lUWGZjUXphUW9hVU5GMU11T3NIZHFiU3R6cS1DbEJDaUppTnJLZVNEM0FkSdIBdEFVX3lxTE44SlFWdS1ILTRUamh2WDhFdHJtS3ZxbE5pWTg3VzhsTWE5YUR3VTlfb0ZZODdmRkJDeUczc0R5bWI4VzB5MWY2enpaZXR3c2NPTkR6dVE0M2JZUEFlTWd3MXFGVkZKdTI0SkZKZWprZ3ZwazdW?oc=5",
+      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "お盆休み期間に飲酒運転一斉取り締まり 3人が摘発される 7月に法改正で厳罰化 検問とパトロール実施 岩手県警",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VGhvNnVhTlgwWWNCQ3dkQlJuNVQtX3BLTkhwSXBlVnJWREJSVTNLWng5Szl3R3VCSTZiUEVkNTlCU1h4UGd6NnNDa1J2YTM3ZzRrc2l2QQ?oc=5",
-      "date": "Sun, 16 Aug 2026 01:49:00 GMT"
+      "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbXYwUHVuNkQtUUxjVC1LSGV5S3g1N3dPY1BSN1dXc2hWZXlJSi1ZZEJib29wM2VTMkFyTFB6OTkwVkxkTHM3NlVJdzh5WWhlVHVMV21uQ0VJR005bHktMUViM01mcmM?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "酒酔い運転の「数値基準」導入を受け大規模飲酒検問 酒気帯び運転で2人摘発",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MUEdrR2NPRzJTNnZKMmM2Mzg2TXNtVGwzQmUxblBGeW5NbkNHMmlvczBaei0xalRzRGRZeHlWcS04c0NVTEloTWplcnhNUkt0bVYxZi1LV2EyZw?oc=5",
-      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "【９月から】生活道路の法定速度30キロに引き下げへ60キロ走行で“一発免停”違反点数6点で30日間",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sdHhxYkNvN3ZjNmNWd0hDVTdIbnQ1Y3prUVlXdXlmMzlPTklnRm1CSkVqN2ZoMEQtdVZ6SmNYSTBfdFc5ajFaajJDdU0xLWZqMGNKQVpxSHN1OHYyYlg1NA?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒気帯びで消防司令停職　4軒で10杯超飲酒、交差点で寝込み摘発　土浦消防署　茨城",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelZpYzA2RFVncmR2WkxLOWNVTEIycU9GZERncWRDZ3lRdE9HN2E2cVFxcWwwZ0JfMklRcnY5TkRaZW1RekRpYU9sR1kxcUw3bzJoWG9RMm5acE91Z283NG03UWEwbS1kT1NRWFJKTTlGUS02UE1RY2JWY3JlN1FScjdhc9IBiAFBVV95cUxPODd0d2FsYzUwRTNROXpjVkVYLW9YOXV0a19TUHdUV0hXQnpscTc3WDdjZlRLR3VwQ3k0SkNOeV9EME9Zdm5mQlFTREpDcU04QzFlWjlIc0NUNXVqckRWdDM1Z0JvZEE3WXVPYVJtTFVFbmplaGJSSnN6d3hGZVQ2ZHhDRkdqcy14?oc=5",
+      "date": "Fri, 21 Aug 2026 11:33:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割（茨城新聞クロスアイ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZFdiZnBDbHVrRThxSzVrN0IxUUM1c25iUFFVUjVuOHBtaWtyZG9oZmlXRXZhcVdHMGx5VW53U1cya2ZERlRpblFpQWFSemNIVDF3ZlBtZTFpRUhuU3FuLXhUU1k5OG5tWlhHaTVCc1dXQXpGemZKZzNWQ1lrZk0?oc=5",
-      "date": "Sat, 22 Aug 2026 22:11:39 GMT"
+      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BUGgwVXhsX25YNTVlMjc4N2xub3lSZ3V5dXBDY2dKaVRIMUprUzlaVHRuZ0Q5LUZtQW1RSk1hQk02QnhBVTlaRmRaRkpTZ0FDOHZxNlA2WlJMYUcyNHMtNmhqMlk3TlM1cUFDOEtPMVBxZUU?oc=5",
+      "date": "Sat, 22 Aug 2026 22:04:14 GMT"
     },
     {
       "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割",
@@ -53,9 +112,9 @@
       "date": "Thu, 20 Aug 2026 02:53:00 GMT"
     },
     {
-      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQkhiVVRDc0dSQ1pzT2FVd3c0VlRkcl9Ta0JTSTZFc3FPYVh2S1NXeUhVSG12RXEyQ2pOQzhEZUFCYnJsWFBvZXVIUkhibGlTbjc2aEtTX285VkR4U0FR?oc=5",
-      "date": "Sat, 22 Aug 2026 22:20:34 GMT"
+      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZFdiZnBDbHVrRThxSzVrN0IxUUM1c25iUFFVUjVuOHBtaWtyZG9oZmlXRXZhcVdHMGx5VW53U1cya2ZERlRpblFpQWFSemNIVDF3ZlBtZTFpRUhuU3FuLXhUU1k5OG5tWlhHaTVCc1dXQXpGemZKZzNWQ1lrZk0?oc=5",
+      "date": "Sat, 22 Aug 2026 22:00:00 GMT"
     }
   ],
   "official_links": [

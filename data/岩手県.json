@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-08-23T09:00:51.171792",
+  "generated_at": "2026-08-23T12:01:00.233238",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.7,
+    "temp_max": 28.5,
+    "temp_min": 21.0,
+    "precip_prob_max": 43,
+    "precip_sum": 0,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "21:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 10
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "8月23日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ0ZhMjJmNHpCZFZiVGI4WC1KMy1HZzZvUy11bGFJZmFpT0RXdkZjYmpHLUxkd2hWUkdGM2JldVQ0dF81SUNidzJxS1NyTVRXR0tieThyNkZHdWFRZVhwTUxZTHdzSWdYa1A2a2JiRS1ka0dGMklvT0RoTUZFQ0M1aUFB0gF0QVVfeXFMTjhKUVZ1LUgtNFRqaHZYOEV0cm1LdnFsTmlZODdXOGxNYTlhRHdVOV9vRlk4N2ZGQkN5RzNzRHltYjhXMHkxZjZ6elpldHdzY09ORHp1UTQzYllQQWVNZ3cxcUZWRkp1MjRKRkplamtndnBrN1Y?oc=5",
-      "date": "Sat, 22 Aug 2026 20:26:30 GMT"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVjBtbFNQRFhDMGdBVjhmOW04RmpENFNnZnBtZFdyM01TM05QSnBtMlFHa1FJRk16YTgwVGVJVmw5Q2lUWGZjUXphUW9hVU5GMU11T3NIZHFiU3R6cS1DbEJDaUppTnJLZVNEM0FkSdIBdEFVX3lxTE44SlFWdS1ILTRUamh2WDhFdHJtS3ZxbE5pWTg3VzhsTWE5YUR3VTlfb0ZZODdmRkJDeUczc0R5bWI4VzB5MWY2enpaZXR3c2NPTkR6dVE0M2JZUEFlTWd3MXFGVkZKdTI0SkZKZWprZ3ZwazdW?oc=5",
+      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "8月22日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
