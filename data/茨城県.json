@@ -1,78 +1,19 @@
 {
-  "generated_at": "2026-08-23T06:01:00.538310",
+  "generated_at": "2026-08-23T09:01:25.620616",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 22.8,
-    "temp_max": 27.3,
-    "temp_min": 22.6,
-    "precip_prob_max": 8,
-    "precip_sum": 0,
-    "wind_speed": 4.6,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 23.2,
-        "weather": "晴れ",
-        "precip_prob": 4
-      },
-      {
-        "time": "03:00",
-        "temp": 22.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
-      },
-      {
-        "time": "06:00",
-        "temp": 22.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 25.5,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 27.2,
-        "weather": "晴れ",
-        "precip_prob": 6
-      },
-      {
-        "time": "15:00",
-        "temp": 26.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
-      },
-      {
-        "time": "18:00",
-        "temp": 24.8,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "21:00",
-        "temp": 23.6,
-        "weather": "晴れ",
-        "precip_prob": 4
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
-    {
-      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdndMa3Y0Qk1mUk9taklYY0paRlQzV180QnZVT29SSlkxZkJzdjFRR1ZlNDNzc1kxT09RU0JCZWZfSmNoQnBzaUNyejhsamdYQW1iQWRqaUQxck1GY3BOTFU1eTNpeDlKZmU4ZDRHZ2xDYllMZHRucURYU1ZXTUJ4NzRObEJpMVg4YTJBYnBDNkVray1VenR2bEFWQzRIUXNPdkR6eXlJZ2tpX1FYTTRMN25WWk9RRElIVXpRTko0Z3pXV2RSQi1R0gF3QVVfeXFMTnhkSjdqaTZvcjF2RDFSbG53WjJpc1BOeXpQMWtCRXhmcW9vLXpEZE9kaXlUaV96ODlVUDR2LTJrUHJBcFM0Y0tjZTBPTWdWRDNtWWN4d0JidXA3Snd0ajNnd2Q2OGdzaVNLU3JsRjY4bDJMb1Z0THM?oc=5",
-      "date": "Sat, 22 Aug 2026 20:08:29 GMT"
-    },
     {
       "title": "きょうの交通取締",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XX3RTdno5ZU10dmZOWWgyX0FOall4eXl2c1FjZml6c3JHYnp5M1JGUkVqT1lpc2t0enZpbGNvSXpYTnhvTWZ0eXB6MUw2OWZRTzRpQ2haOU5veGE5VWVFQnBDYm9uS0JNcTlZWWZRN3AxVFE?oc=5",
       "date": "Fri, 14 Aug 2026 21:01:17 GMT"
+    },
+    {
+      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNUdCUHdLOWVDLVVyUzVYZ3U5cVkxZXpNSjZiTGhkSVk0dnVsVjZSUnFwZmQ5WUp4M3hJelRGY2NTVnVacXNHNUNYOS1EWWM1STNFM1dEX3lOR1g1M2J1ZTk5dVhucVRIajdkQ1dhT2x0d9IBd0FVX3lxTE54ZEo3amk2b3IxdkQxUmxud1oyaXNQTnl6UDFrQkV4ZnFvby16RGRPZGl5VGlfejg5VVA0di0ya1ByQXBTNGNLY2UwT01nVkQzbVljeHdCYnVwN0p3dGozZ3dkNjhnc2lTS1NybEY2OGwyTG9WdExz?oc=5",
+      "date": "Sat, 22 Aug 2026 21:45:00 GMT"
     },
     {
       "title": "8月23日（日）【岩手県】 日中・夜間の交通取締情報",
@@ -80,17 +21,27 @@
       "date": "Sat, 22 Aug 2026 20:26:30 GMT"
     },
     {
-      "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbXYwUHVuNkQtUUxjVC1LSGV5S3g1N3dPY1BSN1dXc2hWZXlJSi1ZZEJib29wM2VTMkFyTFB6OTkwVkxkTHM3NlVJdzh5WWhlVHVMV21uQ0VJR005bHktMUViM01mcmM?oc=5",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+      "title": "お盆休み期間に飲酒運転一斉取り締まり 3人が摘発される 7月に法改正で厳罰化 検問とパトロール実施 岩手県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4VGhvNnVhTlgwWWNCQ3dkQlJuNVQtX3BLTkhwSXBlVnJWREJSVTNLWng5Szl3R3VCSTZiUEVkNTlCU1h4UGd6NnNDa1J2YTM3ZzRrc2l2QQ?oc=5",
+      "date": "Sun, 16 Aug 2026 01:49:00 GMT"
     },
     {
-      "title": "酒気帯びで消防司令停職　4軒で10杯超飲酒、交差点で寝込み摘発　土浦消防署　茨城",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelZpYzA2RFVncmR2WkxLOWNVTEIycU9GZERncWRDZ3lRdE9HN2E2cVFxcWwwZ0JfMklRcnY5TkRaZW1RekRpYU9sR1kxcUw3bzJoWG9RMm5acE91Z283NG03UWEwbS1kT1NRWFJKTTlGUS02UE1RY2JWY3JlN1FScjdhc9IBiAFBVV95cUxPODd0d2FsYzUwRTNROXpjVkVYLW9YOXV0a19TUHdUV0hXQnpscTc3WDdjZlRLR3VwQ3k0SkNOeV9EME9Zdm5mQlFTREpDcU04QzFlWjlIc0NUNXVqckRWdDM1Z0JvZEE3WXVPYVJtTFVFbmplaGJSSnN6d3hGZVQ2ZHhDRkdqcy14?oc=5",
-      "date": "Fri, 21 Aug 2026 11:33:00 GMT"
+      "title": "酒酔い運転の「数値基準」導入を受け大規模飲酒検問 酒気帯び運転で2人摘発",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MUEdrR2NPRzJTNnZKMmM2Mzg2TXNtVGwzQmUxblBGeW5NbkNHMmlvczBaei0xalRzRGRZeHlWcS04c0NVTEloTWplcnhNUkt0bVYxZi1LV2EyZw?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZFdiZnBDbHVrRThxSzVrN0IxUUM1c25iUFFVUjVuOHBtaWtyZG9oZmlXRXZhcVdHMGx5VW53U1cya2ZERlRpblFpQWFSemNIVDF3ZlBtZTFpRUhuU3FuLXhUU1k5OG5tWlhHaTVCc1dXQXpGemZKZzNWQ1lrZk0?oc=5",
+      "date": "Sat, 22 Aug 2026 22:11:39 GMT"
+    },
+    {
+      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDVTIxdHB1d1l5LXRpMmJOQ1JickxETzhlVEJERG12OTB3eVI3WDhxV0xmZkQwajNfWThvSndXVURxcmtDTDNoVXlpTQ?oc=5",
+      "date": "Sat, 22 Aug 2026 22:22:31 GMT"
+    },
     {
       "title": "茨城県内で交通死亡事故が増加しています。",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWtJREhRNTdXeHpXRmZYSzl1czV4UDFqT3FUa1B0WHF3OGRldWRIY293RWVsbzhKUV9xQkM3TTNXaE1PQWlNZ1BWM1BmSG50ek9DV2ZLa0JtaWMydTB0eHozdHVaUlVpclBfRlZoUmdPYm1JMjhRdzNScWlJUVJKQVIzSGdKbmM5ZjdWZDBLOFVlSWY0MFpHZWsyOV9fNmlTNV9iZmd3?oc=5",
@@ -102,19 +53,9 @@
       "date": "Thu, 20 Aug 2026 02:53:00 GMT"
     },
     {
-      "title": "飲酒運転で衝突事故、男性1人重傷　危険運転致傷容疑で29歳男逮捕　茨城県警土浦署",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEtWd3pwVnVKM3M1UW1vdlk3Rm1MQWFzWF9yS2RUQUVMMHFlNk1YUFZoNEpFbUVJa2FQb0hsVXdscTA2WDl5LTFmbG92VVlOQUF2N3BfcEszZ0RRNEswRW80UXAwemd3c25BUmkwM2UwWXY0c3RmeTlLNmZmU000TC1PONIBiAFBVV95cUxOZ21idlFDejQwYndQaG9iOWRkQnk0VndvSm92THk0c1ZOWS1ZeGtMWVEzS3lCcnhGbV9rR19qbHRmMFZvRWplSlZHa0JabmNOMDFmUU9YZmlZNUFieEJVQUUtTnN4azU1dU03S0EzZUN0NFNDYXltT3Bvalo2LW83UEpCd2tXU2h5?oc=5",
-      "date": "Sat, 22 Aug 2026 14:25:00 GMT"
-    },
-    {
-      "title": "【独自】水戸女児死亡事故 「歩車分離式信号導入を」 母親、1万7091筆署名提出 茨城（茨城新聞クロスアイ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZEhLd25DRGhfenpYRTA1Rk1CS0lzWGYyZm8tSU83U3RWMFAwU1NzRklZSjVNSXllUFYydV94RkJtZEZoRjUzenE0SHVWNVBob2pySy1mRmYwb3A1Ml9sTlNjMm1reWhhN081TjRjQkhaUlZ4ZlZiOGowZGFNMzg?oc=5",
-      "date": "Tue, 18 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【更新】軽乗用車にはねられ 87歳女性死亡 茨城・古河（茨城新聞クロスアイ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80U0loaFAxcjVOV0t1YlN2M2M5UWxQMmFsWW1iUVRRaDJWTW14RHdZekNUUHJzRWxETklGLUJlV2VtRVJqNTJqX25fVlh6WEFTXzNVa1g1NnE2NVFycmtzalgxQW9yWDJnX3RyVUdRSlozaEt3QklKcExCcjBtTzA?oc=5",
-      "date": "Mon, 17 Aug 2026 12:49:00 GMT"
+      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQkhiVVRDc0dSQ1pzT2FVd3c0VlRkcl9Ta0JTSTZFc3FPYVh2S1NXeUhVSG12RXEyQ2pOQzhEZUFCYnJsWFBvZXVIUkhibGlTbjc2aEtTX285VkR4U0FR?oc=5",
+      "date": "Sat, 22 Aug 2026 22:20:34 GMT"
     }
   ],
   "official_links": [
