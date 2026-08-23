@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-08-23T21:02:10.280892",
+  "generated_at": "2026-08-24T00:03:08.889793",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 28.2,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.7,
     "temp_max": 30.5,
-    "temp_min": 25.0,
-    "precip_prob_max": 71,
+    "temp_min": 25.1,
+    "precip_prob_max": 65,
     "precip_sum": 0,
-    "wind_speed": 1.3,
+    "wind_speed": 4.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 25.9,
+        "temp": 26.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "06:00",
-        "temp": 25.0,
+        "temp": 25.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.0,
+        "temp": 29.1,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 30.2,
-        "weather": "快晴",
+        "temp": 30.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 27
       },
       {
         "time": "15:00",
-        "temp": 30.1,
-        "weather": "晴れ",
-        "precip_prob": 71
+        "temp": 30.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
       },
       {
         "time": "18:00",
-        "temp": 29.8,
+        "temp": 28.9,
         "weather": "晴れ",
-        "precip_prob": 27
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 28.2,
-        "weather": "晴れ",
+        "temp": 27.3,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
@@ -92,14 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "石川・白山警察署で警察の仕事体験 職務質問や交通事故の車両見分を体験（テレビ金沢）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TN1VVQ1NaYnlJVmRpcXo1TWwxVW44R0ZBY1pOX0VhQUZub3NBc25FeS1qUmpBM0dpZU5QaGgxYWdyVUp5U0ZLZ3Btcnp4RVh1UFlZLW1WWjl5WHRqZThwQ0RWUE5oem1ud29WYTktdTFoN0hsYjE2NEhsZHZzN28?oc=5",
+      "title": "石川・白山警察署で警察の仕事体験 職務質問や交通事故の車両見分を体験（2026年8月23日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVlCcmRPY1hTaUYycHJLVnh0akltQUoyUGs4Ti1aZGItbnZnenJZcTVubWpKdXgtSy1wZWdOb0c2ejlHcDRhM2YtdWpJd2NDUnFDYmlYcHZoeUxsTW1CQjZpTVRvUXFDUkpBV2wyaGo4OGluYWNTSFFtbWstblk3Zk1Wbw?oc=5",
       "date": "Sun, 23 Aug 2026 10:00:00 GMT"
-    },
-    {
-      "title": "民家にトラックが衝突した事故現場 警察などが再発防止策を確認 石川・金沢市（2026年8月19日掲載）｜テレ金NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUNkWjhkTWpFTTR2NXpNSmRwd0dfMXRNeDN2TFNMOTlPc1lEMHd0QmZsbTdGQ3IxRXZxb1pPcml5VTIzaHE4MkR6WUJ6SzVkRWZqUlh1UEtQcnVZSUZNc0VzTEVwNVZjZWFBODRhX25CWDhVaFlJQzVaeHJNdGZkVTZlQ1dYWFU?oc=5",
-      "date": "Wed, 19 Aug 2026 10:04:00 GMT"
     },
     {
       "title": "交通事故防止！交通安全こども自転車石川県大会に48人の児童が参加「一人一人がしっかりルールを守ることが大切」",
@@ -107,14 +102,19 @@
       "date": "Sun, 16 Aug 2026 07:53:00 GMT"
     },
     {
+      "title": "オートバイに乗っていた石川県の23歳男性が死亡 福井県あわら市の国道8号交差点で乗用車と正面衝突（福井テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWXZoempXNGpvQlZNYkVTQ25MUWt1MDRieHhTSXd4VS14SHJaTENYdXBHNjhENkMtNGczMDRjbEdqZzNOeE83azU3SXVJcFBsN2N0V19keF91S05mSXRfRDFadXFGVWJJQXpIYzJQaGVnZXNUNjdzYlJVcjZfWms?oc=5",
+      "date": "Mon, 17 Aug 2026 00:58:02 GMT"
+    },
+    {
       "title": "石川県内ことし上半期の交通事故発生件数 前年より増加",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jTlBqTV9TUmU2T3BqUTcxdVJSWldFc04wY21tWjZBRHdsem1SenFibmpFOXBzenpEakFEUXBXTFZSZWYzS2dka2dvTQ?oc=5",
       "date": "Sat, 01 Aug 2026 03:39:59 GMT"
     },
     {
-      "title": "加賀の国道８号で死亡事故 オートバイと軽自動車衝突｜社会｜石川のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWDlDSFZUZFloLVZIaXI5eUZGT2VBdzgwUW9aYnhSUmZQSVF4c2FrQVNOV3RxdmxsZ0Fidmd1anQ2dGdIQk45bmJPa0k5RFVTbXdaMlN5UQ?oc=5",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
+      "title": "石川県金沢市の国道8号、交通事故で車線規制 4月25日朝、金沢河川国道事務所発表",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEUDk5aTd1Y0JyY1V1TUs0eWhxaWVPcUZEdFp5Znh3dlhRM29VMVpackFsUFBUeW1sZkFvUHVhUl9EakdwV2szZTRVVWt6QnZoQ0Z5QVRNRGhTSkM1S2c?oc=5",
+      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
