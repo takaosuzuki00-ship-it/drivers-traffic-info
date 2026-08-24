@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-24T09:03:41.557370",
+  "generated_at": "2026-08-24T12:03:54.244335",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 28.1,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 29.1,
     "temp_max": 29.5,
-    "temp_min": 25.2,
-    "precip_prob_max": 91,
-    "precip_sum": 0,
-    "wind_speed": 7.0,
+    "temp_min": 25.5,
+    "precip_prob_max": 90,
+    "precip_sum": 2.3,
+    "wind_speed": 11.2,
     "hourly": [
       {
         "time": "00:00",
         "temp": 27.0,
         "weather": "晴れ",
-        "precip_prob": 16
+        "precip_prob": 33
       },
       {
         "time": "03:00",
         "temp": 26.3,
         "weather": "晴れ",
-        "precip_prob": 24
+        "precip_prob": 45
       },
       {
         "time": "06:00",
-        "temp": 25.2,
-        "weather": "晴れ",
-        "precip_prob": 49
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 55
       },
       {
         "time": "09:00",
-        "temp": 28.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 82
+        "temp": 27.0,
+        "weather": "強い霧雨",
+        "precip_prob": 71
       },
       {
         "time": "12:00",
-        "temp": 29.3,
+        "temp": 29.1,
         "weather": "晴れ",
-        "precip_prob": 88
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 29.1,
+        "temp": 29.5,
         "weather": "晴れ",
-        "precip_prob": 43
+        "precip_prob": 59
       },
       {
         "time": "18:00",
         "temp": 28.3,
-        "weather": "快晴",
-        "precip_prob": 10
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "21:00",
@@ -64,6 +64,16 @@
     ]
   },
   "enforcement_news": [
+    {
+      "title": "８月２４日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2tSOF9RTDdPLTQ2cGRDdEFTVG96UlJRdjM1ZUpZMkM0QnZXSmJWSzRiWnRtSHZkcWRIVWJsWFloOVdxcmpkV2FBWTh2dXhKVUJFUTc5cUxGeVZaSFBONElvaU4xUk1Wa2xadkpYYjJWSXVUVFFTRkpZVjdfR1Nja1lwUmXSAXdBVV95cUxNUTNpNFNEelJ5djZZUDNTNTVIOHp4SThLd1hCT3d2VW9RNDJDaTl0S3p3TDUxRHE0S281dGYyaS0zRlRFQ1hsSTJYNkFpYmZQa0U4M21QaFUxbzJaZE9yZ25tNjY5V2xGV2ptRUsxUjB1OUoyV1c3Yw?oc=5",
+      "date": "Sun, 23 Aug 2026 22:41:15 GMT"
+    },
+    {
+      "title": "8月24日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBralF2VWg1QldnRkQxcl9vUDBYQzVaZ1FyV0ZXY05IbjNlUjlrZDRQU0RnT1dhVFFIODFlTFpwbGlRWV8wSzJ3dWFXWWtRZ1ZDZm0wY2JFNWJpdVBpU1lIQ2ZMaFh5a0VPVFZGdFdCRdIBdEFVX3lxTE9iTkxVcUhQeTNHenVYcDh2SDBMMVBBbmQ3cHhRY09yQy1hY1hLUFFORW1OcjRJNWxDSi10YjZ3NllRVUJyTUU4Y1NUbG41S0hpaDhuVnFicndlN1Fsa1hkNGY4SFZ0RXY0YkZoQXNTUGFzWW9F?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
@@ -78,16 +88,6 @@
       "title": "連休中事故防止 県警が合同検問を実施",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mN2Q3R0FJYl83OTdlWXdvZ01GWGstVDRQVXFlb01uUFN2NEs0bl9XTVk0aXE1c1p4WDkwSGJvZFVBYldVMmNSYm9HOWlaNXk4WERCblNHa1dWTlEtM3dzY2ZzU3E2R2puckNRRTRB?oc=5",
       "date": "Mon, 01 May 2023 07:00:00 GMT"
-    },
-    {
-      "title": "自転車の「青切符制度」 宮崎県内で初摘発 違反行為は\"スマホのながら運転\"反則金は1万2000円",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVV3Nobk1LRUpTbkFtNmtsdzNkdWFGa2ZmYXJkUThHM2lZS0VJczQ5X1lfNFpGQWxEc3FNNk95QVFBcTBKSlhyS0g1cDRZLXg3YTBFNFBscDlkaWZINnluclJTSjRsM00?oc=5",
-      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "れいわ山本太郎氏は大分で「149キロスピード違反」を起こした5日後、宮崎でもサーフィンを“おかわり”していた レンタカー代はちゃっかり党費精算（デイリー新潮）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLVNGMzhrSWtKTWc5OERwLXRGZEluT251bmVLbnZVNXNTSWFUNmtwcGhmSFlMNXFSaWUyS1MyT1drNXN1WHFpYTBCSVE3blRIbmJnQU5Sc3FwMXlvekpaejNTR3NBV09XcHdjMV9IeTlQQ08zZkFzTkdGdGtwSlU?oc=5",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
