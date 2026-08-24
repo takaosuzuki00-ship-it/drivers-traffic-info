@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T06:03:56.959498",
+  "generated_at": "2026-08-24T09:03:41.557370",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.1,
-    "temp_max": 29.3,
-    "temp_min": 25.1,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 28.1,
+    "temp_max": 29.5,
+    "temp_min": 25.2,
     "precip_prob_max": 91,
-    "precip_sum": 0.1,
-    "wind_speed": 3.8,
+    "precip_sum": 0,
+    "wind_speed": 7.0,
     "hourly": [
       {
         "time": "00:00",
@@ -21,31 +21,31 @@
       },
       {
         "time": "03:00",
-        "temp": 26.0,
+        "temp": 26.3,
         "weather": "晴れ",
         "precip_prob": 24
       },
       {
         "time": "06:00",
-        "temp": 25.1,
-        "weather": "晴れ時々曇",
+        "temp": 25.2,
+        "weather": "晴れ",
         "precip_prob": 49
       },
       {
         "time": "09:00",
-        "temp": 27.6,
+        "temp": 28.1,
         "weather": "晴れ時々曇",
         "precip_prob": 82
       },
       {
         "time": "12:00",
-        "temp": 29.1,
+        "temp": 29.3,
         "weather": "晴れ",
         "precip_prob": 88
       },
       {
         "time": "15:00",
-        "temp": 29.3,
+        "temp": 29.1,
         "weather": "晴れ",
         "precip_prob": 43
       },
@@ -57,7 +57,7 @@
       },
       {
         "time": "21:00",
-        "temp": 27.8,
+        "temp": 27.9,
         "weather": "晴れ",
         "precip_prob": 0
       }
