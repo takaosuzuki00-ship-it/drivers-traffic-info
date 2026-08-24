@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:03:27.734848",
+  "generated_at": "2026-08-24T15:03:32.384536",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
@@ -7,11 +7,11 @@
     "code": 2,
     "weather": "晴れ時々曇",
     "temp_now": 30.7,
-    "temp_max": 31.6,
+    "temp_max": 31.5,
     "temp_min": 25.0,
-    "precip_prob_max": 13,
+    "precip_prob_max": 28,
     "precip_sum": 0,
-    "wind_speed": 7.1,
+    "wind_speed": 6.6,
     "hourly": [
       {
         "time": "00:00",
@@ -39,27 +39,27 @@
       },
       {
         "time": "12:00",
-        "temp": 30.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 31.5,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 31.3,
-        "weather": "快晴",
+        "temp": 30.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
         "temp": 28.9,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "21:00",
         "temp": 27.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 4
       }
     ]
   },
