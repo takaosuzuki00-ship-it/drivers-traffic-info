@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-24T21:02:37.060065",
+  "generated_at": "2026-08-25T00:02:11.131447",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 28.1,
-    "temp_max": 35.2,
-    "temp_min": 25.5,
-    "precip_prob_max": 96,
-    "precip_sum": 0.2,
-    "wind_speed": 4.4,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.0,
+    "temp_max": 36.2,
+    "temp_min": 25.9,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 7.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.2,
+        "temp": 27.0,
         "weather": "晴れ",
-        "precip_prob": 12
-      },
-      {
-        "time": "03:00",
-        "temp": 25.7,
-        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
-        "temp": 25.5,
+        "time": "03:00",
+        "temp": 26.5,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "09:00",
-        "temp": 28.0,
+        "temp": 28.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 33.6,
+        "temp": 34.2,
         "weather": "快晴",
-        "precip_prob": 24
+        "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 35.2,
+        "temp": 36.2,
         "weather": "快晴",
-        "precip_prob": 49
+        "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 30.5,
+        "temp": 31.1,
         "weather": "快晴",
-        "precip_prob": 96
+        "precip_prob": 14
       },
       {
         "time": "21:00",
-        "temp": 28.1,
+        "temp": 27.5,
         "weather": "快晴",
-        "precip_prob": 20
+        "precip_prob": 0
       }
     ]
   },
