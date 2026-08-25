@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-25T03:01:11.095617",
+  "generated_at": "2026-08-25T15:01:05.856989",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 0,
-    "weather": "快晴",
-    "temp_now": 26.8,
-    "temp_max": 32.0,
-    "temp_min": 26.3,
-    "precip_prob_max": 0,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 31.4,
+    "temp_max": 31.8,
+    "temp_min": 26.2,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 12.6,
+    "wind_speed": 9.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.3,
+        "temp": 26.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 26.8,
+        "temp": 26.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 27.0,
-        "weather": "快晴",
+        "temp": 26.8,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.8,
+        "temp": 29.5,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -41,33 +41,43 @@
         "time": "12:00",
         "temp": 31.8,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 31.8,
-        "weather": "快晴",
+        "temp": 31.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 29.3,
+        "temp": 29.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 27.8,
-        "weather": "快晴",
+        "temp": 27.9,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "８月２４日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZjNvNWhQTEFJT3U5aElYT3JUOE9yWkdtZnp6cG1vTko0QUxEZF85WDQxS3JiS0lOZjE4UHA5eUxTT3BCeVJQX2xpeDRlZkNkeEpOM3hDVDYzZXVjOVRCMUlrLU50a2Zs?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "8月24日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02NjNkN3V1UGdvU3FvYzJoRzN0T0lDcHhCOERQTTgyQnhIcTUzQVlDRF9rU0JoNkhZSzVHVEJFMGNTZU1HOE13STRUTWV0dlVOcTFrUW5nSEN4WG1PaUdkMmZFUk1aUFU?oc=5",
       "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "8月23日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -75,26 +85,16 @@
       "date": "Sat, 22 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50S3ZyS0pqQW0wZENtQU9VTEJsNHV6RUVheHlENVJhVFpOMGw1NGxCRjNFTldzRUZtRmd6X01uQk03LVljSVdraThJX2dqRUZYYXVwR1p0MHNpODQ?oc=5",
-      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "公開交通指導取締（２０２６年７月２３日）",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84ZlFHQ1lHOEl1RWR0eS1nTFNSdnVkNGs1NE1mdWpjSzN4VHNJbDdYT1dZNW5iZTJubzBtY3M2MkZtT2tCazc3NG9lQThXYy1iZ0tEOWRaVDc?oc=5",
-      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZU96aURxTnkwRXAwblZhX2prVVZXMmR2Wl81NlhodHJmQ0FxaTVXSDl6ZzhZbjlzWVFhLXJkQ3hQeVc2bEYtTFRzNjZqR2s3bTFzUXNjYTFEQQ?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "千葉・柏で乗用車同士が衝突 高齢女性が死亡、子どもら計7人負傷 [千葉県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neGFLbmNrcDNzU3Vwd1hGZXhZc3BRVjBzbDNHRlJfdm0tREl6eTYxMWFYOXdvZVRLQklfOUFjRUEyN1M5V3JUUGs5a2hlaGgyVjVham5sS0hVRUlRZ3poOXJUc185X3c?oc=5",
-      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "「事故の状況は全く覚えていません」飲酒運転で車3台に衝突 6人ケガさせた疑いで47歳男を現行犯逮捕 自ら通報し謝罪の言葉も 千葉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZFY3OFJDSjdFNkNYZkVyd3BwRzJkcUNfclNlTnBVTllGT0NFUzhJazdORG5DcWZOcUpXODZ5Um5qai1DblVmTGo4Ty1ndw?oc=5",
+      "date": "Mon, 24 Aug 2026 01:19:00 GMT"
     },
     {
       "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
@@ -102,8 +102,8 @@
       "date": "Wed, 22 Jul 2026 09:22:32 GMT"
     },
     {
-      "title": "千葉・柏市で乗用車同士の事故 90代とみられる女性死亡、子ども含む7人けが",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVUE4RzFSUmc5d1B1Q1FWcWF5T3R6b3NIMWtGbFFiNlpGTnMtcTM2UWplcUZVcENwTUtuTDVvVzY1S0l2d0xUTTNYVEtTQ01YeEhUUkF0SjdRRGc3WXZZSHlyTjRGck44TTg0dXhUZ3lSZw?oc=5",
+      "title": "千葉・柏で乗用車同士が衝突 高齢女性が死亡、子どもら計7人負傷 [千葉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neGFLbmNrcDNzU3Vwd1hGZXhZc3BRVjBzbDNHRlJfdm0tREl6eTYxMWFYOXdvZVRLQklfOUFjRUEyN1M5V3JUUGs5a2hlaGgyVjVham5sS0hVRUlRZ3poOXJUc185X3c?oc=5",
       "date": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
@@ -112,9 +112,9 @@
       "date": "Sun, 28 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "千葉豪雨で放置車両2700台超か 「道通れない」 事故も続発",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91clJsbTBsUDlTWmNQNnEzVnFKZEJMQVNhMUMyWFRvckw1UHllN3owRWdMRjZUQVVKc3Q3NUw5cFZ5SmUwc1JlNkVFLUkzWUR6Z19WVUtMa1NyNFZyMUt2b3VRMnVVRnNI?oc=5",
-      "date": "Sun, 16 Aug 2026 07:00:00 GMT"
+      "title": "千葉・柏市で乗用車同士の事故 90代とみられる女性死亡、子ども含む7人けが",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVUE4RzFSUmc5d1B1Q1FWcWF5T3R6b3NIMWtGbFFiNlpGTnMtcTM2UWplcUZVcENwTUtuTDVvVzY1S0l2d0xUTTNYVEtTQ01YeEhUUkF0SjdRRGc3WXZZSHlyTjRGck44TTg0dXhUZ3lSZw?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
