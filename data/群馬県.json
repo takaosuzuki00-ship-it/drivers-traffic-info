@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-25T21:01:12.914467",
+  "generated_at": "2026-08-26T08:35:10.823193",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 30.1,
-    "temp_max": 36.3,
-    "temp_min": 23.8,
-    "precip_prob_max": 100,
-    "precip_sum": 0,
-    "wind_speed": 8.7,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 30.3,
+    "temp_max": 36.6,
+    "temp_min": 25.2,
+    "precip_prob_max": 76,
+    "precip_sum": 16.6,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.1,
+        "temp": 27.8,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.9,
+        "temp": 26.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 24.5,
+        "temp": 25.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.9,
-        "weather": "快晴",
+        "temp": 31.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 35.3,
-        "weather": "快晴",
-        "precip_prob": 4
+        "temp": 35.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 35.9,
+        "temp": 36.6,
         "weather": "快晴",
-        "precip_prob": 100
+        "precip_prob": 67
       },
       {
         "time": "18:00",
-        "temp": 32.8,
-        "weather": "晴れ",
-        "precip_prob": 18
+        "temp": 33.0,
+        "weather": "曇り",
+        "precip_prob": 73
       },
       {
         "time": "21:00",
-        "temp": 30.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 27.1,
+        "weather": "弱い雨",
+        "precip_prob": 73
       }
     ]
   },
@@ -92,19 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "軽乗用車と衝突、自転車の男子中学生が重傷 群馬・みどり市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44UWFtLUgwUWs1TmdtS0JUVUJCSDlYb1lyamlobnlNS2tST3dxOURidVFZU0FoYjBJejE1TEtrbEVWWnJJWGpZVzZoYklXeEtyNXpRbHlJQW9KQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 00:12:00 GMT"
+    },
+    {
       "title": "トラックと衝突、自転車の女性が重傷 群馬・前橋市",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fa1U2NmNTQWtUYkNDMGc1RTMwZmNSUE9NOHY3czIzNDFib3ZOUkhDd3J2UkRyTXhkTEEwWkw2VEpPdjNhN1R1UW1ucWhhc29jYnRrN2htS3J3Zw?oc=5",
       "date": "Fri, 21 Aug 2026 08:00:00 GMT"
     },
     {
-      "title": "群馬・高崎市女性死亡 現場から逃走した車が埼玉で事故…運転の男性死亡 警察が関連を捜査",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpMEhSaVpjSjhTSldiaWVjNk1IWExBR3FyT2o4WGNuVTVENGlKeHZ0OG1VcjM4SmxWZVd6N0I1Sm5abDNiN1dNeWtpLTBETHhmbUtDVG1ldWEtck9LNEFYU1BYc3lONnBZVkZ0Nk5YN0lhdXdVQ3JwT1hrNVA?oc=5",
-      "date": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "群馬：交通事故死３年ぶり減 昨年 人身事故は３６件増：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVzNpS1pLTklhLUJqVWtud3hOTHM2U0NTS3lab2lhbElMZm4wLWp0aVFHZ0pQZTdpM2dza3daTGR1MHNpeFgzNUpZYUgtejJELUphazNvSDUzYnRSZXFiVmEyeFZmRjdkWlNXOFFzbTM?oc=5",
-      "date": "Fri, 06 Mar 2026 08:00:00 GMT"
+      "title": "群馬3人死亡、会社の指導不十分 調査報告書で指摘（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNGtOOE0yZmljUGF5Tmt3ZEdfTVdlZVByb2tOOXhPV1ByWF9DU2k1WVNOSTczYmJZY3ZQWjlhclpqOGlaQVNzT091ZGZGSksxZkpnN0RCd1Q4Um9ieERzcWV3LUNXTmJ3cXlDVjV2OGw3RmJaZmV0clQ4b01UV2s?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "3人死亡事故、危険運転を認める 被告に懲役20年 前橋地裁判決 [群馬県]",

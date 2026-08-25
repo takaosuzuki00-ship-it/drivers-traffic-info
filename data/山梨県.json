@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-08-25T21:01:53.065604",
+  "generated_at": "2026-08-26T08:35:56.059532",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 27.5,
-    "temp_max": 33.9,
-    "temp_min": 23.8,
-    "precip_prob_max": 88,
-    "precip_sum": 0,
-    "wind_speed": 2.2,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.8,
+    "temp_max": 36.1,
+    "temp_min": 23.2,
+    "precip_prob_max": 24,
+    "precip_sum": 0.2,
+    "wind_speed": 1.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.2,
-        "weather": "晴れ",
+        "temp": 25.8,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.5,
-        "weather": "晴れ",
+        "temp": 24.3,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 23.8,
-        "weather": "晴れ",
+        "temp": 23.3,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 27.4,
+        "temp": 27.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.7,
+        "temp": 34.0,
         "weather": "快晴",
-        "precip_prob": 59
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 33.8,
+        "temp": 35.0,
         "weather": "快晴",
-        "precip_prob": 88
+        "precip_prob": 24
       },
       {
         "time": "18:00",
-        "temp": 30.9,
-        "weather": "快晴",
-        "precip_prob": 22
+        "temp": 31.1,
+        "weather": "曇り",
+        "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 27.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 28.4,
+        "weather": "曇り",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "8月25日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQzhHYWtsdkRoYTVMVlNMc1V3a0ZCaGI2M3B3T0tpNGQtQXVqbjZWamI3UXRwSDlZQUVtbTlPRHFoQVFWb3g4RWRFMHA4NHNsbDctazNTeWdUdEdKSnJiU0JSM2ZyYUN1ODA1dUdHc9IBdEFVX3lxTE11T2FQU1RwMXpKc2VHejdycUZmRGJzcU10LWdhbTMwRWpfLTQ4WmJ3c2IyeEhoakhKUEtxTUtoZWc4X2IxNVdxWVNHN01aYldGbmhqMmlheWl0bFNXQ3pCbzJkNlpTRGRRNnpaR3Q5QkpkTC1j?oc=5",
-      "date": "Mon, 24 Aug 2026 20:14:07 GMT"
-    },
     {
       "title": "８月２０日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VbFhkZ0Z0RDE2VHB1bGFJa0RhZnRCOVRwZTZpM1kyOWFzRmU4X3d6YlB5VXBQR0Z3NmlGd3hXZ1p0MVJ6aDZralFEZURKdVF1VVhZbzBhOEpRMFE?oc=5",
@@ -80,26 +75,36 @@
       "date": "Mon, 24 Aug 2026 20:08:04 GMT"
     },
     {
+      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNUdCUHdLOWVDLVVyUzVYZ3U5cVkxZXpNSjZiTGhkSVk0dnVsVjZSUnFwZmQ5WUp4M3hJelRGY2NTVnVacXNHNUNYOS1EWWM1STNFM1dEX3lOR1g1M2J1ZTk5dVhucVRIajdkQ1dhT2x0d9IBd0FVX3lxTE54ZEo3amk2b3IxdkQxUmxud1oyaXNQTnl6UDFrQkV4ZnFvby16RGRPZGl5VGlfejg5VVA0di0ya1ByQXBTNGNLY2UwT01nVkQzbVljeHdCYnVwN0p3dGozZ3dkNjhnc2lTS1NybEY2OGwyTG9WdExz?oc=5",
+      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
       "date": "Tue, 26 May 2026 07:00:00 GMT"
     },
     {
-      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNUdCUHdLOWVDLVVyUzVYZ3U5cVkxZXpNSjZiTGhkSVk0dnVsVjZSUnFwZmQ5WUp4M3hJelRGY2NTVnVacXNHNUNYOS1EWWM1STNFM1dEX3lOR1g1M2J1ZTk5dVhucVRIajdkQ1dhT2x0d9IBd0FVX3lxTE54ZEo3amk2b3IxdkQxUmxud1oyaXNQTnl6UDFrQkV4ZnFvby16RGRPZGl5VGlfejg5VVA0di0ya1ByQXBTNGNLY2UwT01nVkQzbVljeHdCYnVwN0p3dGozZ3dkNjhnc2lTS1NybEY2OGwyTG9WdExz?oc=5",
-      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
+      "title": "８月１９日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WM0tKVzlZUGN6QXQxa3F6VkwyQURPaUYwUDEwNHpQRkZoUUYtaEwwV2VFeGs0NzA0alpZYTlvY2FYbWwyekl6M3JpZUN2S094SzJCdTRXZVRMQWM?oc=5",
+      "date": "Tue, 18 Aug 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "甲州で車両４台絡む事故 ４人軽傷か",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQ2JKOFBDeExDMWdMdmY1ZndpR2FTTW5ZX0g4ZllCa3VCYVd4dllKd1BZR2w3RlQybTZLSDMyeFNlbmhvNjFHbzVVTm4tMGpVWGFtNEdTRTIxZGYxcUpEckFuNnI?oc=5",
+      "date": "Mon, 24 Aug 2026 11:06:50 GMT"
+    },
     {
       "title": "40年以上にわたって啓発活動 交通事故防止に貢献した78歳の男性 関東管区警察局長から感謝状 山梨",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZZlRGeERmNlowbWV6eF9jR3k3cTVyTFM1cTQxckRMdElmMGtqVC1QaUxLcThiNlNKZ3I4TlQ4VUZOdU5KR0hKcUJxenVfdmVrZEY2Y3VwVEdrZw?oc=5",
       "date": "Thu, 20 Aug 2026 02:59:00 GMT"
     },
     {
-      "title": "甲州で車両４台絡む事故 ４人軽傷か",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQ2JKOFBDeExDMWdMdmY1ZndpR2FTTW5ZX0g4ZllCa3VCYVd4dllKd1BZR2w3RlQybTZLSDMyeFNlbmhvNjFHbzVVTm4tMGpVWGFtNEdTRTIxZGYxcUpEckFuNnI?oc=5",
-      "date": "Mon, 24 Aug 2026 11:06:50 GMT"
+      "title": "交通死亡事故1,000日間連続ゼロ達成！／山梨県中央市公式ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWXc2ZXJWc19zZnNZaGhLYkpMNEt4OHI4RkUzSldKbzJLRkwzZGxTYnlRRU5oTGxwVGF4VUtlcWl4Z3JuODFMYm1OWkxLQTVwSlRwTWhQWVloT1NNY1FyazdyS3BCOXJDdDdXWVZ5dzNaX2I2dGhwWmNDTQ?oc=5",
+      "date": "Fri, 07 Aug 2026 19:35:14 GMT"
     },
     {
       "title": "40年以上にわたって啓発活動 交通事故防止に貢献した78歳の男性 関東管区警察局長から感謝状 山梨（UTYテレビ山梨）",
@@ -107,14 +112,9 @@
       "date": "Thu, 20 Aug 2026 03:23:13 GMT"
     },
     {
-      "title": "交通死亡事故1,000日間連続ゼロ達成！",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWXc2ZXJWc19zZnNZaGhLYkpMNEt4OHI4RkUzSldKbzJLRkwzZGxTYnlRRU5oTGxwVGF4VUtlcWl4Z3JuODFMYm1OWkxLQTVwSlRwTWhQWVloT1NNY1FyazdyS3BCOXJDdDdXWVZ5dzNaX2I2dGhwWmNDTQ?oc=5",
-      "date": "Fri, 07 Aug 2026 19:35:14 GMT"
-    },
-    {
-      "title": "「酒を飲んだあとに車を運転した」交差点で車と2台のオートバイが事故 バイクの52歳男性が死亡 車の運転手から基準値を超えるアルコール 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HM2JKMC1hcjNyaHRkeW9oOFpMY3hNRGZ3dWZXdDhMdlV2U0h1Y3hrcVdUY3RybnBtRFVtVkZVVXZkZThOVF9sYk5KVDUweU1Rb3VvUTVOSkhZUQ?oc=5",
-      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
+      "title": "【訃報】 望月大輔県議(44)が死去 7月に車を運転中に急病、事故 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeE1USzcydnZaZnhNcDhMWTNidFgyVDVKTk5QRGl5TUdiSUpRcDFqb1dIdTlFejlCMVRRM0djZVNTc2M3T0ttRmtwdEJkY0VabXlwaXRuQzNqQQ?oc=5",
+      "date": "Mon, 24 Aug 2026 12:05:00 GMT"
     }
   ],
   "official_links": [

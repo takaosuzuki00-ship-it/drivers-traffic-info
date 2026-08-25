@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-08-25T21:00:59.243332",
+  "generated_at": "2026-08-26T08:34:58.778829",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 28.5,
-    "temp_max": 36.8,
-    "temp_min": 22.1,
-    "precip_prob_max": 92,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 28.2,
+    "temp_max": 32.2,
+    "temp_min": 23.5,
+    "precip_prob_max": 76,
     "precip_sum": 0,
-    "wind_speed": 4.0,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.2,
+        "temp": 25.6,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 22.8,
-        "weather": "晴れ",
+        "temp": 24.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 22.7,
-        "weather": "晴れ時々曇",
+        "temp": 23.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 35.1,
-        "weather": "快晴",
-        "precip_prob": 73
+        "temp": 31.4,
+        "weather": "曇り",
+        "precip_prob": 61
       },
       {
         "time": "15:00",
-        "temp": 35.7,
-        "weather": "快晴",
-        "precip_prob": 88
+        "temp": 31.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
       },
       {
         "time": "18:00",
-        "temp": 31.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 28.7,
+        "weather": "晴れ",
+        "precip_prob": 43
       },
       {
         "time": "21:00",
-        "temp": 28.5,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 26.1,
+        "weather": "曇り",
+        "precip_prob": 14
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "８月２５日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VDVfblFiZGp1bGQ0cjM2NkhXVFVVM3VSNXBrc3MyRThPVnlBc05LcXpzdWR4N1ZkLVJzRlRUZklNODFHN1l2TlRONDJ4MkRUOHVIRFNrQ3NhN0dZbDhIeV9MM1RsS2MwUVBzdVRVc1YzUdIBd0FVX3lxTFBZWW5jSVpCTHF5UV9aVG9HSlhlc3NvM041WU5sYmwxcFotTEpzYzVKVXdFcVhiZHlZRDQtNlVhRU9SbmJob01yMWFTT3JObkpZRURZUVpLdXlWNUxXSGZOSlJMbmdXd0RPdVcyemRXN3cwUDFYM01N?oc=5",
-      "date": "Mon, 24 Aug 2026 20:08:04 GMT"
-    },
-    {
-      "title": "8月25日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQzhHYWtsdkRoYTVMVlNMc1V3a0ZCaGI2M3B3T0tpNGQtQXVqbjZWamI3UXRwSDlZQUVtbTlPRHFoQVFWb3g4RWRFMHA4NHNsbDctazNTeWdUdEdKSnJiU0JSM2ZyYUN1ODA1dUdHc9IBdEFVX3lxTE11T2FQU1RwMXpKc2VHejdycUZmRGJzcU10LWdhbTMwRWpfLTQ4WmJ3c2IyeEhoakhKUEtxTUtoZWc4X2IxNVdxWVNHN01aYldGbmhqMmlheWl0bFNXQ3pCbzJkNlpTRGRRNnpaR3Q5QkpkTC1j?oc=5",
-      "date": "Mon, 24 Aug 2026 20:14:07 GMT"
+      "title": "８月２６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOE9FQmlkdTd5Y05DbC1PNHM3aGlRMkpBOWdWQ0hnOC1kcHBTTmRxbGlfZnRvakFxdUVIS0pDSnEwSHNkRE01Tm9JWkhPbE1ncGtJVWdrY0JVOXVaR2Z2bHpuR1VTSC1WankxN0tsU3lNNW5nZmI0Q3FraWc2YjFSQ0NaLTlqTWNkMUhYZnJURmxTaDBYU0p3RUI1eEZYSmRtMGtWLTNZdEItZml4RHZlSHVUUWY2TkZPMzZiTFpkcmNUd1czZUFJ0gF3QVVfeXFMTTJBTUx3el81VGdaMW5FMUx6ZlhsM0UtSVVqV3phWVMtVUFYRGRDWmRoRC1CY1dSRE9iQmZubFJlZlJ6RU12c0kwU01PSmR1UUp4OGUtYUhRNjRIUkYySWkxX1N4RWJsV3NSZlBVc1Fnd0NYU3Z1VU0?oc=5",
+      "date": "Tue, 25 Aug 2026 20:14:14 GMT"
     },
     {
       "title": "8月3日（月）【岩手県】 日中・夜間の交通取締情報",
@@ -85,6 +80,11 @@
       "date": "Sun, 23 Aug 2026 20:00:00 GMT"
     },
     {
+      "title": "【交通取締情報】福井県警 ３月３０日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdlBJVGdrMWZlMm04OVQ5N25saVQ0b2xCWG5US2RKQWREVWw0MTZ5WV95WGZRazNnM3FoR2s1N0ZrTjZoTENfdkFkMA?oc=5",
+      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
+    },
+    {
       "title": "飲酒運転根絶へ保原で夜間検問 伊達署",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sLTJETzV6dXZMRGMwbVM3aVRmMzV2S1VHQ1NIZHE3QmQwNWdmd0pOa0JxWGV4R21HWEN3akhRbVE2czFXaVd5SE1MaTR2dEE?oc=5",
       "date": "Fri, 21 Aug 2026 18:48:00 GMT"
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "臨港道路で乗用車とバイクが衝突 18歳高校生が死亡＜福島県いわき市＞（福島テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FOWMyX0doRWRpeHVrU3dfUGxyYWE3SEpmbkVXTTlkYjRkVGZjMWE4WTZVYVRDU1VtWXRGTW9GWUxvc3piTjVXaEFaQ0VGQUxkSWJ4b0ZscmJ1TmJMd3VmLWpkQTBYOUllbjhWdjgzRTczTldCTWRyWWl6bC1rVE0?oc=5",
-      "date": "Sun, 23 Aug 2026 12:41:01 GMT"
+      "title": "車とバイク衝突、男子高校生（18）死亡 いわき市小名浜の臨港道路 福島（TUFテレビユー福島）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnZFpsaUIwMXY5ZlR4MWg2a21yaXJINERqeTJpSm1NUlNYaGc5UWZtNW44dXg1MXZnRUZNNlV0alpEVV80ZE41a3VUUExIYjFUTmFoQmFCWEtuVl9PUEloWTVUc241TGdvd3hnTW1BUE9TeHMwc2FsTzdKNkFDUzQ?oc=5",
+      "date": "Mon, 24 Aug 2026 01:50:26 GMT"
     },
     {
       "title": "【交通事故】福島市",

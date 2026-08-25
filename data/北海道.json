@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-25T21:00:31.538829",
+  "generated_at": "2026-08-26T08:34:26.440564",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 82,
-    "weather": "激しいにわか雨",
-    "temp_now": 20.6,
-    "temp_max": 24.0,
-    "temp_min": 19.7,
-    "precip_prob_max": 100,
-    "precip_sum": 29.9,
-    "wind_speed": 9.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 22.3,
+    "temp_max": 23.1,
+    "temp_min": 18.5,
+    "precip_prob_max": 77,
+    "precip_sum": 2.0,
+    "wind_speed": 6.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.4,
+        "temp": 18.6,
         "weather": "曇り",
-        "precip_prob": 98
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 22.9,
-        "weather": "曇り",
-        "precip_prob": 29
+        "temp": 18.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 21.8,
-        "weather": "にわか雨",
-        "precip_prob": 92
+        "temp": 19.5,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.3,
-        "weather": "にわか雨",
-        "precip_prob": 100
+        "temp": 22.8,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 20.8,
-        "weather": "強いにわか雨",
-        "precip_prob": 100
+        "temp": 22.8,
+        "weather": "曇り",
+        "precip_prob": 61
       },
       {
         "time": "15:00",
-        "temp": 23.5,
+        "temp": 22.2,
         "weather": "曇り",
-        "precip_prob": 96
+        "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 21.9,
-        "weather": "快晴",
-        "precip_prob": 59
+        "temp": 20.4,
+        "weather": "曇り",
+        "precip_prob": 53
       },
       {
         "time": "21:00",
-        "temp": 20.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 18.9,
+        "weather": "霧雨",
+        "precip_prob": 69
       }
     ]
   },
@@ -92,14 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "【夕暮れの交通事故に注意】『通学中の高校生』の被害割合が高まる危険な時期…苫小牧市で警察が自転車の左側通行や交差点の安全確認を呼びかけ＜北海道",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wcDNicTlqWVhLQlVGS05nZS1aWmo5UUdWWU1qcXUxTjNZcTBOZ2dwMERzNmJjbkRSMTFMMDBOUVRCNmNOMzFpdHNEX1lkUQ?oc=5",
-      "date": "Tue, 25 Aug 2026 11:10:00 GMT"
-    },
-    {
       "title": "【夕暮れの交通事故に注意】『通学中の高校生』の被害割合が高まる危険な時期…苫小牧市で警察が自転車の左側通行や交差点の安全確認を呼びかけ＜北海道＞",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iTG5rVEVVNFNaWklsVTRIZHhwTWx1VTBycEEwWEY3eXNLMlBKWUZFMWtVTGFhaVRhR2laRGkxR1hfSm5QMGtUZ0FfMDJJRU9NX0dkVFFfQQ?oc=5",
-      "date": "Tue, 25 Aug 2026 11:24:16 GMT"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OQnNCSzZrcFZiQUJERUd1eE1iTXJvZDN4S1AwUTBKMlBncXlHWFZ5NUsySmUyeTg1VXBnZll5UjMxRUxvZGdTWi1uRmhnd25wakZCVl9tQnhUcDFwRnZGdmJsbExuM1BxNUF4cHE0UTlaQlZrTk9VRnAyUTB0Mms?oc=5",
+      "date": "Tue, 25 Aug 2026 11:10:02 GMT"
     },
     {
       "title": "【北海道】交通事故相次ぐ 札幌で軽トラが歩道に乗り上げ男性はね骨盤骨折疑い 根室では車横転、男性死亡",
@@ -112,9 +107,14 @@
       "date": "Mon, 24 Aug 2026 20:43:00 GMT"
     },
     {
-      "title": "【北海道】交通事故相次ぐ 札幌で軽トラが歩道に乗り上げ男性はね骨盤骨折疑い 根室では車横転、男性死亡",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HVDhPVVBvdG5rZV8tQ3JPTEZnTFBlYWc4LVM1Yl9ILTZWdHJEWXZGU01hRmNuYURpczgybzZURlFaUElsaWRva0h6b3lyNzd6ZnUyVldQRFJtRmdLblgzX1RRUXpHcjJaeXRhR3VKb2Z2S1ZnQnFDZg?oc=5",
-      "date": "Mon, 24 Aug 2026 16:09:13 GMT"
+      "title": "北海道、交通死亡事故多発警報を発表 22日まで 3日間に5人死亡受け",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RWloV3gycGstZ2x2MDRTaWpGLWY4VkFvRHdCczVzOERxb0w4VTJyVVprbUFwN2pqcWktMkxUbHdBTlY3b2Z3U0I5V196aVBJTnhLM0hZNmZ5UQ?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "『これは殺人』12時間以上酒飲み死亡事故を起こした\"危険運転致死\"被告に懲役4年6か月…遺族の怒りと悲しみ『これだけの事件を起こしても、そんなものなのか。息子は2回殺された』残された唯一の\"願い\"とは（北海道ニュースUHB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vRVRkRl9kTFVGS21JclN6WXpoVVVsSktQQnBYSHZncXNBT3hVdmI2eDRPTHVSekxSazl6S09JdjdCb0VFYXFXSE43UXNFS004dXRISkdKV3laXzRHTDFjTnIxRjg1cFhYUFVsSi1aTXZXcUJ5aElfb1lyMkc0QVU?oc=5",
+      "date": "Sun, 23 Aug 2026 23:14:00 GMT"
     }
   ],
   "official_links": [
