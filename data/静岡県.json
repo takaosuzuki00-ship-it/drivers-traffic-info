@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T12:01:53.135528",
+  "generated_at": "2026-08-26T15:02:09.577858",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 32.0,
-    "temp_max": 34.8,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 33.7,
+    "temp_max": 33.9,
     "temp_min": 24.4,
     "precip_prob_max": 9,
-    "precip_sum": 0.1,
-    "wind_speed": 8.7,
+    "precip_sum": 0,
+    "wind_speed": 11.7,
     "hourly": [
       {
         "time": "00:00",
@@ -33,31 +33,31 @@
       },
       {
         "time": "09:00",
-        "temp": 29.4,
-        "weather": "晴れ",
+        "temp": 29.9,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 32.0,
-        "weather": "晴れ",
+        "temp": 31.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 34.0,
-        "weather": "晴れ時々曇",
+        "temp": 33.7,
+        "weather": "晴れ",
         "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 30.8,
+        "temp": 30.9,
         "weather": "晴れ",
         "precip_prob": 8
       },
       {
         "time": "21:00",
-        "temp": 28.1,
+        "temp": 28.6,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
@@ -92,19 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "静岡 葵区 店舗前の柱に衝突し走り去ったか 会社役員 逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLbll5QllDbXljejM4RjZ0RUpUSEVQZmQzczB2NWluVnJKa0RqSTFGVVBkYlkxb3ZsOFdacHcyVGUyT2w1cm05bHRwNmU4NWFGek43NlJLZVU?oc=5",
+      "date": "Wed, 26 Aug 2026 03:05:00 GMT"
+    },
+    {
+      "title": "通称・北街道で歩道上のアーケード柱に乗用車が衝突 そのまま逃走か 74歳会社役員の男逮捕=静岡市葵区（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVm1CVUJfYjdtM2tuS3BKU2ljaDZPak1NRUFjTm5tb0tGUDlVRWZOcjNIaU01SklmRDFlMU4zY21hZ1IxN0pmcV9rMEtVOFFleVB3N1BBUTJaRHhVRTdLRlkxSjNJZVhRb1hLWkdPaTVCa3ZRLUwyVXJxX2poelE?oc=5",
+      "date": "Wed, 26 Aug 2026 00:08:14 GMT"
+    },
+    {
       "title": "“相撲兄弟”が高齢ドライバーの交通事故に「待った」 静岡",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iLTg0M1N6NEU5VndhMThTMWN5bjRiYTRKUENCd2pHb3V2dTBuSDVUdW1rWERrem1GU1JqMjg3dUNnZGVNcmlMeHNkLUM0ejVKQTdQSXp6MEs?oc=5",
       "date": "Tue, 25 Aug 2026 20:26:00 GMT"
-    },
-    {
-      "title": "トラック含む4台が関係する事故 少なくとも2人けが 焼津市内の県道の南進車線が一時通行止め=静岡（静岡放送（SBS））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZzh5eTdOZUo3b1JtaXlEZ1hPN3NPX1pOY1RqLV8xbGZKWFBSMXpoc2d1MnN0V0J0TFc1RkVHVFpaTlVma0dXNTVNN2hLdTkxSkVDbXdFWHZ0WnNYc0R4RTRBMHNsSVZPSWhYaG9aVDlGbGxrTlljbVJaY3VXQzQ?oc=5",
-      "date": "Mon, 24 Aug 2026 01:38:13 GMT"
-    },
-    {
-      "title": "めざせ！交通事故ゼロのまち",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG9xamtQZlU3MnM2c2M3OWxoRnBodDlodUl6LUFxY3NaUV9UZ21LUU1NdVd1SUNFOUNyRkczN0NfdWt0QVRwUWIya2tZZUEtcjBMdmotVjRDdjVLakdGNy1HSkJSQkh5LXBldS1NNTRFaTRoYWNKREpYem5hSkgtNTBWTUVlT0Q3S2c?oc=5",
-      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "乗用車と軽自動車が正面衝突 乗用車を運転の静岡県浜松市の22歳が重傷 軽自動車を運転の長野県松本市の48歳女性が軽傷 乗用車がセンターラインを越えたか 長野県松本市の国道",
@@ -112,9 +112,9 @@
       "date": "Sun, 23 Aug 2026 06:32:00 GMT"
     },
     {
-      "title": "【密着】法外な積み込みが招く大事故や路面損傷…危険な｢過積載車両｣その取り締まり現場を取材（静岡）",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWlJVemx5eFVNeHMydk9CNmpIMU1ZblZmRnFUbFRPeXZkQ2xqUC1OM0JBTGZIVjV0UmE5RzNlRnEtY1F0WFBqNkVzVzlkbENRMUp3VlpscVo4RzIxRktTcFJIbHd2Ml82WG00V2VCamcxTFFoc0pTQUFCdU5xVHFqamNDNFpLUk0?oc=5",
-      "date": "Tue, 25 Aug 2026 08:11:01 GMT"
+      "title": "海水浴の親子流され…水難事故相次ぎ2人死亡 静岡",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lVEczSW1Ub2dDYk5uN3FYUE1MTk5XeTg0bHNUMmhwUy11LTUweXNyWVYxR2ZpM0JCNzU3US1IYjhwN3VaZXZVN2E4RWh3OXZtT0Z1cXdPbDdkUU9zQVZwVk5tSDNuUzVPWXpRMjEzcmNjUQ?oc=5",
+      "date": "Wed, 26 Aug 2026 03:23:24 GMT"
     }
   ],
   "official_links": [
