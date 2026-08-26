@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-08-26T21:01:11.973041",
+  "generated_at": "2026-08-27T00:00:57.611032",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 23.6,
-    "temp_max": 27.6,
-    "temp_min": 22.5,
-    "precip_prob_max": 96,
-    "precip_sum": 0.2,
-    "wind_speed": 2.6,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 22.1,
+    "temp_max": 27.0,
+    "temp_min": 20.7,
+    "precip_prob_max": 97,
+    "precip_sum": 49.8,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.2,
-        "weather": "晴れ",
-        "precip_prob": 96
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 43
       },
       {
         "time": "03:00",
-        "temp": 23.5,
-        "weather": "晴れ",
-        "precip_prob": 41
+        "temp": 21.1,
+        "weather": "強い雨",
+        "precip_prob": 76
       },
       {
         "time": "06:00",
-        "temp": 22.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 37
       },
       {
         "time": "09:00",
-        "temp": 25.4,
+        "temp": 23.6,
         "weather": "曇り",
-        "precip_prob": 8
+        "precip_prob": 39
       },
       {
         "time": "12:00",
-        "temp": 27.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 26.5,
+        "weather": "曇り",
+        "precip_prob": 78
       },
       {
         "time": "15:00",
-        "temp": 27.1,
-        "weather": "晴れ",
-        "precip_prob": 8
+        "temp": 26.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "18:00",
-        "temp": 25.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 24.0,
+        "weather": "雨",
+        "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 23.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 24.8,
+        "weather": "強い霧雨",
+        "precip_prob": 94
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "8月17日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XT3d1VDR1VjY0c0xUY3dNb2tEUE1hZGszNE1sZDJwc1ExeExIRWRaZDVGLVlXeldQZmQtbWdZN0hOT3BqekJmRnBkTjV2dmdsNlh2b0FmWWpTbHhjR2NRNnpodUI1bEU?oc=5",
-      "date": "Sun, 16 Aug 2026 20:00:00 GMT"
-    },
     {
       "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
@@ -78,6 +73,11 @@
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     },
     {
       "title": "秋田・速度取締りで起訴無効の判決",
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "大仙市の国道13号で車同士が正面衝突 子ども含む5人がけが うち2人が大けが 23日 秋田",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnYzeWZKdG0zNFVqNFREM1p0N0tCZ0dETDVualQ2cEh1bGljVVhaVmJZN2cwYU04R3JpVURCRlQweF8weTNKM3RSV01GbnB4LWdmUzEyUmt0VE5ZeG5Ra2hJakVOVDhQclU2R08zc3FWcHFBU0ptUDVGVEdGZ2JfQm95d054NDA?oc=5",
-      "date": "Mon, 24 Aug 2026 03:05:00 GMT"
-    },
-    {
       "title": "乗用車と軽ワゴンが正面衝突、5人重軽傷 女子児童は頭の骨折る大けが 秋田・大仙市の国道13号",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FZ3kwTVQzODZQaGo0QmNqcWRKeU9XNUUtNllaS19ZTkQxREY0cHB2SjlKcVp2TFYyV0k4ZUZQcGcyRHRHVEFNWV9pOGJVYWRuaFJUUFhyU09oNndSM2VwZ1RQWkQ?oc=5",
       "date": "Mon, 24 Aug 2026 04:39:31 GMT"
@@ -105,6 +100,11 @@
       "title": "乗用車と軽ワゴンが正面衝突、5人重軽傷 女子児童は頭の骨折る大けが 秋田・大仙市の国道13号",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5WFRaYXgyUXRwNXM3andlV0w4dFhHYmt3UE9pQmRqenhDc1didGJWQ2Rsc2dzN3dwRnVSaS1tM2lKOWFmcTM1TjBiNGxKUQ?oc=5",
       "date": "Mon, 24 Aug 2026 03:00:00 GMT"
+    },
+    {
+      "title": "大仙市の国道13号で車同士が正面衝突 子ども含む5人がけが うち2人が大けが 23日 秋田",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnYzeWZKdG0zNFVqNFREM1p0N0tCZ0dETDVualQ2cEh1bGljVVhaVmJZN2cwYU04R3JpVURCRlQweF8weTNKM3RSV01GbnB4LWdmUzEyUmt0VE5ZeG5Ra2hJakVOVDhQclU2R08zc3FWcHFBU0ptUDVGVEdGZ2JfQm95d054NDA?oc=5",
+      "date": "Mon, 24 Aug 2026 03:05:00 GMT"
     },
     {
       "title": "高速道路で中央部のワイヤロープに接触する事故、防ぐには「右座席を緑線上に」 秋田大教授が考案",

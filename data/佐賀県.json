@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-08-26T21:03:58.349419",
+  "generated_at": "2026-08-27T00:03:32.494630",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 29.2,
-    "temp_max": 36.2,
-    "temp_min": 26.0,
-    "precip_prob_max": 95,
-    "precip_sum": 2.0,
-    "wind_speed": 3.1,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.5,
+    "temp_max": 33.9,
+    "temp_min": 25.9,
+    "precip_prob_max": 86,
+    "precip_sum": 0.6,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 28.6,
-        "weather": "快晴",
+        "temp": 27.5,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 27.0,
+        "temp": 26.5,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 26.0,
+        "temp": 25.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 30.2,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 35.4,
+        "temp": 32.9,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 10
       },
       {
         "time": "15:00",
-        "temp": 36.2,
+        "temp": 33.8,
         "weather": "晴れ",
-        "precip_prob": 88
+        "precip_prob": 67
       },
       {
         "time": "18:00",
-        "temp": 33.4,
-        "weather": "晴れ",
-        "precip_prob": 84
+        "temp": 30.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
       },
       {
         "time": "21:00",
-        "temp": 29.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 47
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 41
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "佐賀県庁 - 佐賀県薬務課が拳銃と弾薬の使用記録不記載 麻薬取締員用、定期監査で判明 - 写真・画像(1/1)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zb203bFI4Tk9NZ0t5cXE5WHdSTk9GMmtZdmFYdDM5Yzk1X1BnakVJOXZIZ1JnNmRlNENtMGU4RmhrVEMtNlRTOGk1VHZuNkNmbnJFSTVFUQ?oc=5",
+      "date": "Wed, 26 Aug 2026 11:06:28 GMT"
+    },
     {
       "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
@@ -83,11 +88,6 @@
       "title": "検問で酒の臭い、車内にこもって飲酒検知を５０分拒否…助手席側の窓ガラス割って２２歳女の容疑者逮捕",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52TXZES0NONWlXQUJwWEpaX3dIWkc1RVU1Z185RG4tc2U0czJTa3ZUOGoteW1MUU5Na0pUdktPbzBrazRUZ1Q4czJEWnROUjZVSE5uYmdlT3duRk5za1kzR2lYTHlDbXpIWUI5TVpkclVHQQ?oc=5",
       "date": "Tue, 25 Aug 2026 02:43:00 GMT"
-    },
-    {
-      "title": "飲酒検問中の呼気検査を拒否 車に閉じこもり50分…警察官が窓ガラス割りドア開ける 22歳女を現行犯逮捕 伊万里署",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZi1kNERFYU5nZmZ3dDZBalZQQUs0V1BSX1hjVWdkaGxuSlg3ejROem4xdlNEM3lhTVZrR3hzeHRrSFRRNWxHSkFpaWNJTDJhNnA2Q0hSNTBQbGtTaGdodGkwTm5ZeFJuZ2hxMHV3aEJHQnpSdWxWRkFKOWFabG5GT2xZZWhEVEpQVy1BQXlR?oc=5",
-      "date": "Mon, 24 Aug 2026 11:48:22 GMT"
     }
   ],
   "accident_news": [

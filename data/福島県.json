@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-26T21:01:21.932833",
+  "generated_at": "2026-08-27T00:01:06.245734",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 26.4,
-    "temp_max": 33.4,
-    "temp_min": 23.5,
-    "precip_prob_max": 98,
-    "precip_sum": 0.2,
-    "wind_speed": 0.5,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 24.8,
+    "temp_max": 27.0,
+    "temp_min": 21.1,
+    "precip_prob_max": 100,
+    "precip_sum": 6.8,
+    "wind_speed": 1.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.6,
-        "weather": "快晴",
-        "precip_prob": 2
+        "temp": 24.8,
+        "weather": "弱い雨",
+        "precip_prob": 4
       },
       {
         "time": "03:00",
-        "temp": 24.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 24.3,
+        "weather": "霧雨",
+        "precip_prob": 71
       },
       {
         "time": "06:00",
-        "temp": 23.9,
+        "temp": 23.8,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 96
       },
       {
         "time": "09:00",
-        "temp": 28.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 25.3,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 32.2,
+        "temp": 26.1,
         "weather": "曇り",
-        "precip_prob": 92
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 33.0,
-        "weather": "晴れ",
-        "precip_prob": 82
+        "temp": 25.5,
+        "weather": "霧雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 28.9,
+        "temp": 23.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 25
+        "precip_prob": 90
       },
       {
         "time": "21:00",
-        "temp": 26.4,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
       }
     ]
   },
@@ -70,14 +70,14 @@
       "date": "Tue, 25 Aug 2026 22:17:09 GMT"
     },
     {
-      "title": "8月26日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rbUxSS0FnNmhCZmJFTUNkcDNWVVNYRDBhNTBYeEJyZXZ3bE9hX2pWZWtoeXhpNDhMdDNkSGt1YWhVT0V5cC1WYmhPU0tjMFhwSkVZbXVUVDZ2U1VERzUwS1dfYlJ3SUJhX1A5a0ItMNIBdEFVX3lxTE9YM1pfa05nX0ZfMGdpamJBZkE2WFR0NGYxN0pLejYzbE55TDZOM3o5VHEtU2dSdmNpblF4OW93cldZU1c3TkZQY3ZzaUQzT1k1RWdydVZfZTZ6dmRFWTJLdzRMRmp2ZmhHY1EybGk4S2R2a2k0?oc=5",
-      "date": "Tue, 25 Aug 2026 20:08:27 GMT"
-    },
-    {
       "title": "8月3日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9INDVEQXpIbllfay1WMUJ4QVFVZURZdnhxWjRjRElGWWxCd0hJWVZRWkhkQ2dTQXpLYlFiR294emJNRi1wZlE4TlhBcVdTQ0M3cEZySEVVUQ?oc=5",
       "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "8月26日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rbUxSS0FnNmhCZmJFTUNkcDNWVVNYRDBhNTBYeEJyZXZ3bE9hX2pWZWtoeXhpNDhMdDNkSGt1YWhVT0V5cC1WYmhPU0tjMFhwSkVZbXVUVDZ2U1VERzUwS1dfYlJ3SUJhX1A5a0ItMNIBdEFVX3lxTE9YM1pfa05nX0ZfMGdpamJBZkE2WFR0NGYxN0pLejYzbE55TDZOM3o5VHEtU2dSdmNpblF4OW93cldZU1c3TkZQY3ZzaUQzT1k1RWdydVZfZTZ6dmRFWTJLdzRMRmp2ZmhHY1EybGk4S2R2a2k0?oc=5",
+      "date": "Tue, 25 Aug 2026 20:08:27 GMT"
     },
     {
       "title": "8月24日（月）【岩手県】 日中・夜間の交通取締情報",
@@ -92,14 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "重体事故相次ぐ 郡山市で歩行者はねられ 南相馬市では自転車の81歳女性が意識不明＜福島県＞：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhWGFPYThweFZLMmNzbXZDbTlCSndIamZoNU51akdYeXVNV3NPbHcxX1I3dXlqWE9Fbzcyb2Rhci14TjBFTWQ2RzI1YzlkY1hpSlFrU1U4bEc5X2lsQkV4emlDaVNOTkEzZkRPYnhxTk5Cclk0Y0dhcjVR?oc=5",
+      "date": "Wed, 26 Aug 2026 12:07:00 GMT"
+    },
+    {
+      "title": "事故相次ぐ 郡山市で歩行者はねられ重体 南相馬市では自転車の81歳女性が死亡＜福島県＞（福島テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ERWlCV3hVby1DR1p5Yk1yZE1Oa0dwajdOamJmUFpsUFNYTDFMYUc3ZUFOQmh4SkhsLVh6bGZodlpwMlp6V0ZkV3VheG43SloycVpjTk00eWppc29PcWdONlBBT1RFdENoQmhzOXdKeTkyV25oSWMtcVAzbzM3Zm8?oc=5",
+      "date": "Wed, 26 Aug 2026 12:08:01 GMT"
+    },
+    {
       "title": "【交通事故】 相馬市",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qTHU0RXZlSWh4SHRJUEo4cGZ6bndBMnhmRFFfR0ZGaEpXSXYwZjZncm1VamRhRmVZdVdjMDktNTlUWnpDSW1FSUl5RlpuQVU?oc=5",
       "date": "Wed, 26 Aug 2026 00:15:00 GMT"
-    },
-    {
-      "title": "昼過ぎの県道で“酒酔い運転”か…38歳会社員の男を現行犯逮捕 逮捕前にガードレールに衝突する自損事故 福島",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJOTl4cUI0QUthZDZFVmt0eFcwZkxUN2dRWTBxZTBaMWdQYmFDWXFxY1Rqc1lNUE02eU5fRnRlekVlaXB6VjBEYUQtRzJhdFZTdDFUcl8zRndoZF96NWJrNXJHc1RtX3ZRMHI1YXhjS0lvM0gzN0N2SXAtNmNUVjQ?oc=5",
-      "date": "Mon, 24 Aug 2026 05:45:00 GMT"
     },
     {
       "title": "福島・東北自動車道 車2台絡む事故 1人死亡",
@@ -110,11 +115,6 @@
       "title": "小名浜の臨港道路で事故 バイク運転の高校生が死亡 | ふくしまNEWS - KFBデジタル -",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91bTBGYmcxOERBdHVGbHhfT25TQzlYM2xLODNGNGxnU1JNR1lWZ3VwR1lhcnRFQTF0TzBhZTVFR3p6STlmZTBCdjROdTB6X2djWkU0MWZn?oc=5",
       "date": "Mon, 24 Aug 2026 02:28:00 GMT"
-    },
-    {
-      "title": "繁華街で交通事故…駆けつけた警察官が捜査し覚醒剤所持の疑いで22歳建設作業員の男を現行犯逮捕 福島",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0QyaWhodDNERkdqLWU1NWs1Y0dNa3hFOE1GMXRxX281bi1EOHRhNzAtc183MHhzT2xreVhCRzI4NVdzM0Y0TEpBTGZjT1NWTVRGV3lxV0Q4TFRQQ1Q3TF9iMVVZckxYcS10cTJTVmZ1OE1FWUNpZUZEMVVxQkh1ZDVHd1JReXc?oc=5",
-      "date": "Mon, 24 Aug 2026 02:12:00 GMT"
     }
   ],
   "official_links": [
