@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-26T18:02:59.114953",
+  "generated_at": "2026-08-26T21:02:39.922891",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 30.7,
+    "temp_now": 28.4,
     "temp_max": 33.8,
     "temp_min": 24.4,
-    "precip_prob_max": 9,
+    "precip_prob_max": 10,
     "precip_sum": 0,
-    "wind_speed": 9.2,
+    "wind_speed": 4.9,
     "hourly": [
       {
         "time": "00:00",
@@ -45,25 +45,51 @@
       },
       {
         "time": "15:00",
-        "temp": 33.8,
+        "temp": 33.7,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 30.7,
-        "weather": "曇り",
-        "precip_prob": 8
+        "temp": 30.6,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 28.5,
+        "temp": 28.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 10
       }
     ]
   },
-  "enforcement_news": [],
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNUdCUHdLOWVDLVVyUzVYZ3U5cVkxZXpNSjZiTGhkSVk0dnVsVjZSUnFwZmQ5WUp4M3hJelRGY2NTVnVacXNHNUNYOS1EWWM1STNFM1dEX3lOR1g1M2J1ZTk5dVhucVRIajdkQ1dhT2x0d9IBd0FVX3lxTE54ZEo3amk2b3IxdkQxUmxud1oyaXNQTnl6UDFrQkV4ZnFvby16RGRPZGl5VGlfejg5VVA0di0ya1ByQXBTNGNLY2UwT01nVkQzbVljeHdCYnVwN0p3dGozZ3dkNjhnc2lTS1NybEY2OGwyTG9WdExz?oc=5",
+      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "本当にレーザー＆レーダーパトカーにはお手上げなの？ 2019年交通取り締まりの傾向と対策！ Part2【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MUXVfYmtnOVRlRzlyM2dyUzVIWkNvaUM3em1BRVdkdlB5TllMeWhDUEhIVmFaQXdCQnRqUmZYd0lvTGpsT0s5ZV91dHFGUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 06:56:26 GMT"
+    },
+    {
+      "title": "8月22日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gd0FrR1RESXFDWHZYUHVwOEZpQzlnVGJ1NXJOT0hBZnVuNWN1SWthUDNueVByZlJSVGZaS2ZGOXpUenZnUkhQUF9VSzAzMkVTcTRNb0lrdXQtVTdVVGpmYTdvQVJEYmlaTVJIMGstNNIBdEFVX3lxTE5LWmpfc1hWRThYbWkya2dseGlpZlZUWFplOHRYc0hXZkVkYmx6QjNUa2ZYZ1pNWFNyUGN5aGdoOHRqc2VwVk5yY2h6RTBCb0U3c0NUVTZvYTBNSDgwQ0ZZYzlMZTRXTFAzdEZsZF9qWHR4TGZ4?oc=5",
+      "date": "Fri, 21 Aug 2026 20:00:00 GMT"
+    }
+  ],
   "accident_news": [
     {
       "title": "静岡 葵区 店舗前の柱に衝突し走り去ったか 会社役員 逮捕",

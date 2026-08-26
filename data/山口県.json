@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-26T18:03:55.396963",
+  "generated_at": "2026-08-26T21:03:33.835039",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 28.7,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.6,
     "temp_max": 31.5,
     "temp_min": 25.0,
-    "precip_prob_max": 24,
-    "precip_sum": 0,
+    "precip_prob_max": 13,
+    "precip_sum": 0.2,
     "wind_speed": 6.4,
     "hourly": [
       {
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 31.0,
         "weather": "快晴",
-        "precip_prob": 8
-      },
-      {
-        "time": "15:00",
-        "temp": 31.0,
-        "weather": "快晴",
-        "precip_prob": 24
-      },
-      {
-        "time": "18:00",
-        "temp": 28.7,
-        "weather": "晴れ",
         "precip_prob": 2
       },
       {
+        "time": "15:00",
+        "temp": 31.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
         "time": "21:00",
-        "temp": 27.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 12
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "乗用車と軽乗用車が正面衝突 軽乗用車運転の男性が死亡 山口",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKU0s1NllVYXBjclFfSVYxQUQwejV0TGdESzFsOFdmWEhtYmJleTVmQ3I1cVpaMlh3OGd3X0F4UDE2Nzkwd0dkTTYtbzlaQzFsaTRfOG5mWmN6Qy1tTFdwUS1KbGNkaEU?oc=5",
+      "date": "Mon, 24 Aug 2026 08:05:00 GMT"
+    },
+    {
       "title": "【事故】山口市の国道315号で正面衝突、軽乗用車の56歳男性死亡",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uU1FrUThRRVMwMnhRbnhfT1lFYzVNSkl4NHN1RXdQQlUxeVFGRFNkYlJQNloxSFY1SWxTVU9HZ0trWm5nX1czcTFhWXd4bXVKdmo4dXVmSTRRZw?oc=5",
       "date": "Mon, 24 Aug 2026 09:26:31 GMT"
@@ -102,19 +107,14 @@
       "date": "Mon, 24 Aug 2026 10:04:01 GMT"
     },
     {
-      "title": "乗用車と軽乗用車が正面衝突 軽乗用車運転の男性が死亡 山口",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKU0s1NllVYXBjclFfSVYxQUQwejV0TGdESzFsOFdmWEhtYmJleTVmQ3I1cVpaMlh3OGd3X0F4UDE2Nzkwd0dkTTYtbzlaQzFsaTRfOG5mWmN6Qy1tTFdwUS1KbGNkaEU?oc=5",
-      "date": "Mon, 24 Aug 2026 08:05:00 GMT"
+      "title": "【事故】車２台正面衝突５６歳男性死亡 山口市の国道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYUTV3aXliYWc2N1FUSmJ0QXg0OFEzRXd5MFRYQmsxeTQzcG9rbEVoT0Z3UldzcmtXQ2lDRGVBd2trSUlpbUtySElXNWxjSjM2QVhXQXI1UE14UXRhVXdoQUw4aWEwMHZXVFE?oc=5",
+      "date": "Mon, 24 Aug 2026 21:00:00 GMT"
     },
     {
       "title": "山口市阿東徳佐下の国道で車両同士が正面衝突 2人が死傷（2026年8月24日掲載）｜KRY NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTY0bG5uU0Roa2ZyS3Fndms5dng5OC1UcFBHR2UxX0JTeG9qRk1CTmQxS3ZHYWg0QWVvelZaazZqUExwRjhqWm1VN0NxcS15c1QyamZDR2hiT2NQOEhCUUx0MldqZURnZE9SbnQzWTZ3SFNnVVlZMU9BRWhtSmZsYkZVZGdRTUk?oc=5",
       "date": "Mon, 24 Aug 2026 08:40:01 GMT"
-    },
-    {
-      "title": "【事故】車２台正面衝突５６歳男性死亡 山口市の国道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYUTV3aXliYWc2N1FUSmJ0QXg0OFEzRXd5MFRYQmsxeTQzcG9rbEVoT0Z3UldzcmtXQ2lDRGVBd2trSUlpbUtySElXNWxjSjM2QVhXQXI1UE14UXRhVXdoQUw4aWEwMHZXVFE?oc=5",
-      "date": "Mon, 24 Aug 2026 21:00:00 GMT"
     }
   ],
   "official_links": [
