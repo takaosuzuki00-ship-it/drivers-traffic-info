@@ -1,69 +1,79 @@
 {
-  "generated_at": "2026-08-27T00:03:46.816445",
+  "generated_at": "2026-08-27T12:57:08.655325",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 28.1,
-    "temp_max": 34.0,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 33.9,
+    "temp_max": 33.9,
     "temp_min": 26.6,
     "precip_prob_max": 100,
-    "precip_sum": 0.7,
-    "wind_speed": 4.6,
+    "precip_sum": 1.4,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 28.1,
+        "temp": 27.7,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 27.3,
+        "temp": 26.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 26.6,
+        "temp": 27.0,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 30.8,
+        "temp": 31.0,
         "weather": "快晴",
         "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 33.8,
+        "temp": 33.5,
         "weather": "晴れ",
-        "precip_prob": 47
+        "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 32.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 33.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 31.6,
+        "temp": 32.2,
         "weather": "晴れ",
-        "precip_prob": 90
+        "precip_prob": 73
       },
       {
         "time": "21:00",
-        "temp": 28.9,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 28.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "8月24日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBralF2VWg1QldnRkQxcl9vUDBYQzVaZ1FyV0ZXY05IbjNlUjlrZDRQU0RnT1dhVFFIODFlTFpwbGlRWV8wSzJ3dWFXWWtRZ1ZDZm0wY2JFNWJpdVBpU1lIQ2ZMaFh5a0VPVFZGdFdCRdIBdEFVX3lxTE9iTkxVcUhQeTNHenVYcDh2SDBMMVBBbmQ3cHhRY09yQy1hY1hLUFFORW1OcjRJNWxDSi10YjZ3NllRVUJyTUU4Y1NUbG41S0hpaDhuVnFicndlN1Fsa1hkNGY4SFZ0RXY0YkZoQXNTUGFzWW9F?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月22日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gd0FrR1RESXFDWHZYUHVwOEZpQzlnVGJ1NXJOT0hBZnVuNWN1SWthUDNueVByZlJSVGZaS2ZGOXpUenZnUkhQUF9VSzAzMkVTcTRNb0lrdXQtVTdVVGpmYTdvQVJEYmlaTVJIMGstNNIBdEFVX3lxTE5LWmpfc1hWRThYbWkya2dseGlpZlZUWFplOHRYc0hXZkVkYmx6QjNUa2ZYZ1pNWFNyUGN5aGdoOHRqc2VwVk5yY2h6RTBCb0U3c0NUVTZvYTBNSDgwQ0ZZYzlMZTRXTFAzdEZsZF9qWHR4TGZ4?oc=5",
+      "date": "Fri, 21 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "【交通取締情報】福井県警 ４月２１日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tMm5lTTFrbEwwTzlQamhPTUlKU3BJY09fbDJISnJ2S3JzTF9jWEpwNmRHakQ3Q2pZYk5UVTh2MFBqVURSdk15aXpLMA?oc=5",
@@ -78,23 +88,13 @@
       "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15cXFwV0JYRkM3dGN0X1cwbGpDaVZ1Qmd3NmlYZkI3NjEtc1VhX2ZvVXp2Q1g4UXBKcVFWX2NEbUdzOTBYQVFxM3UzOV9YeWg3eERPU3BNVC1lOWdicmdaZERrdDlvMzA?oc=5",
       "date": "Sat, 13 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "熊本：熊本死傷事故２年 県警 飲酒運転根絶へ検問 ：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KRTZnU2pqdjc1OG9jMUxaSE5ubHpFTnhFbmRnUDdoa2RobWdJRi1TdnRJLWlUYVB3Rmx0X1cwVFNCOEtNREljeEpuQllfcjFaQVVSVlhrLXZ0Uk5XU2Y3QXYwbFVTWHRBeWRHbDhFZEkxRDhl?oc=5",
-      "date": "Sun, 14 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "市長が高速道152kmでスピード違反 熊本県八代市の小野泰輔氏",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aYlp0X3FteURBcFlmMkh3bURTX3BnbWcxaFViQjI2bXRyS3ZWclk0aVJwMm9vLUJrRDljenM1R0xJT2tka0tOejZXOXZxOWx2VzRsdm5Rak1YMTBKcGFWcTI4eUZqMk0?oc=5",
-      "date": "Fri, 13 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "軽自動車が道路脇のり面から転落 熊本市の女性（43）死亡 死因は腹部圧迫による窒息死【熊本】",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXbW9tZE1QUEVYUmoyNnlsSDhGLWkwQ1prYURzWE9mbWFvd0JZQW9Tc1FacW1HNmtweEJZTXN3ck5vNFI0SmVidHROTzFvd2FwRXJjZ3BEQ2JENXVWdk9QQWRNZw?oc=5",
-      "date": "Fri, 21 Aug 2026 03:05:26 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45aGFpVnZuQ19SZUh5Ml9uWlJFWmNXc0dtNzNoeDc5S2ZNdzBRM2lEdm9jUEZBYnR6dXU0aFZiVnZQS1hQbkZpZnk3S0hrUQ?oc=5",
+      "date": "Fri, 21 Aug 2026 03:00:00 GMT"
     },
     {
       "title": "【速報】県道で車3台が衝突 男女7人が病院に搬送 熊本市西区・小島",
@@ -112,9 +112,9 @@
       "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "熊本地震後の爆発事故で従業員死亡 テナント会社が売上金保管を巡り事実と異なる報告を認め謝罪 遺族「怒りは消えることはない」（1）",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50bmdyV25KZU5vZllraUVqNDBMTUZKbktUNmlsRjhkLXhUZzJKNGpHZ3NqOUVueVFIUkFTMDBjcUJ0QlA3OGEtUUFFbzgyeUN1WWNTUnVZYUV5XzB1d2kwVTZB?oc=5",
-      "date": "Wed, 26 Aug 2026 06:56:54 GMT"
+      "title": "熊本地震 イオンモール爆発事故で雑貨店運営会社が遺族に事実と異なる説明 | NHKニュース | 令和8年熊本地震、熊本県",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94aEFoM1d1LV9oNzNTOE4xTFFjcVhsQW5hNnE2S2ZBcDNKUUxpLTRCNFE5Nm1FdTc4T1UydzlkaHJIU3o3Vm1iUENLWVJqMG51ZWZzendHMGtvRUVKQmFV?oc=5",
+      "date": "Mon, 24 Aug 2026 16:01:44 GMT"
     }
   ],
   "official_links": [
