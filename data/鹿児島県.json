@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T02:30:00.018705",
+  "generated_at": "2026-08-28T03:29:01.877205",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 28.2,
+    "temp_max": 30.3,
+    "temp_min": 28.0,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 15.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 29.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 30.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 30.3,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 29.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 28.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月０７日（土）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTd3habmVFV2dzRjZILWF5ckFxTFhEN0xpcnAyejZjS01RMnVrZ05hTzRNUjZMdXMtbGZjaEFzbVRaSlZnUWVLdmlpOFk0OVRibjFHYkN3OTA0WDRzbmtVNUJndFpwakU?oc=5",
+      "date": "Sat, 07 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月０９日（木）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40YnAyOS1xQ0I3alNFWTRHRzkzWk14bl9zQ1kzRTVsRjdydWJRa2h1VldnbVY2WE84Wm9oVWpqdTZ2WlA4ZVhyYnF6ajJSblkzWTk2RFhFOA?oc=5",
+      "date": "Thu, 09 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月０７日（火）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtNUhWUG5ZWVVPUFctbHVDcUYwVHNiS1EwcDFQbTFfa2xNNTdnVjlkbVJoVmxmUUF4Zy12V1BUS3BwQTI4T2hRRUhKMk1zcVNzbWJlUGRnbw?oc=5",
+      "date": "Tue, 07 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年５月２６日（日）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rX2MzSWpTLXozNWFkak0tN28yTkl3V2kxYU9BZ0NGUmpZd3NuQ25mY1ZwY0MtY1o1TDJSMmM1NHk3cHd5ZnBRdm1sWDI2eGUxWDJFb1cyX0FWQWtRUENjVWoxS01WODg?oc=5",
+      "date": "Sun, 26 May 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "令和8年度「夏の交通事故防止運動」の実施について",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fNUk0a0l2VnFwNV9TM0FsUENhNTEzVGhXbXp0czlEbDBaVVdoWHpxdzRTcmREYkFkNDNneTJLeTBwY2l3Nlh2SGFUcU41aGI1STFhdG90dF9GdE54VTdCNjAwRGROS19MaDZ5MHVjS2VvdEE0YV9IcVNGTQ?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "市電と事故後に逃走 道交法違反容疑で運転の男を逮捕 鹿児島（MBC南日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GZEUzZVBJaGh5STk0SUtEWnYzVjJQSjRYOXJIV3p0SEpwTXF6bXRKRDdpZmR3SlQ3enRELTFGS0JCSUZ0d284bWIwLWs4WkFkNXBkY0VadXdxUEhKMXNxT3gxZnZxOW9BWVRSMGZjekFiQUJ1cm1tYjAzU01wUzA?oc=5",
+      "date": "Wed, 26 Aug 2026 07:50:26 GMT"
+    },
+    {
+      "title": "市電に衝突し“逃走” 自ら警察に「出頭する」と電話…運転手逮捕 鹿児島市（2026年8月26日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ETEtGNXZiOUVTZUpxYUgyTnhIOFhwT210N2RGXy1uZll0QTZ5eXNLRGUzcFhXdnFJdVdNSzF1dW5QYmtxaWNOZnhhU3R3SlJKS0FDSzFlYWVJZjI4dUpTVEdQSHpEMEtZZWsxM3JsWnlidHNfVWpnY25pVU8?oc=5",
+      "date": "Wed, 26 Aug 2026 10:15:01 GMT"
+    },
+    {
+      "title": "スクールバス事故防げ 教職員対象の交通安全講習会 鹿児島県指宿市",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0E4VG9VMkNWWFJkNDBfOTRLcHczNUlkVmRtQWFlT0JYZFcyQzZqYWRjU2tjWkJ6Y2I1dG9WTU1IZk8xVFJzQXRFWXJtczlCUjdVRE1kY1dOQkNDXzBLVXA5d1d6MHg3VFhDTnZwNzRuc0hEbENoal9NdEFDamswRHBR0gGCAUFVX3lxTE1jQThUb1UyQ1ZYUmQ0MF85NEtwdzM1SWRWZG1BYWVPQlhkVzJDNmphZGNTa2NaQnpjYjV0b1ZNTUhmTzFUUnNBdEVZcm1zOUJSN1VETWRjV05CQ0NfMEtVcDl3V3oweDdUWENOdnA3NG5zSERsQ2hqX010QUNqazBEcFE?oc=5",
+      "date": "Wed, 26 Aug 2026 10:42:00 GMT"
+    },
+    {
+      "title": "「右折禁止」無視で市電に突っ込み逃走 3人の行方いまだ分からず 軽自動車の所有者に任意聴取 鹿児島市電衝突事故",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00ZVd6QngtUlN2b21zakdOcEFBYVdSczI3ZF9zUHpWTUFLYUxmYWI2T2Q2SFY3MVFvaVdvbzNQa2gySzhaa21yUHFHVVFPdw?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",

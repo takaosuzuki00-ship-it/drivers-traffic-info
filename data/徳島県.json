@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T01:59:58.256751",
+  "generated_at": "2026-08-28T03:28:21.642485",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.2,
+    "temp_max": 30.0,
+    "temp_min": 26.4,
+    "precip_prob_max": 100,
+    "precip_sum": 0.2,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 27.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 29.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 75
+      },
+      {
+        "time": "15:00",
+        "temp": 29.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1hQ1l4UWUyZHBURk9vR0pJVmh6bmdBU1hBcDRiZGVpQjlOVFQ1NjY5bC0wSHVtVmQ3akYxOC0wYjRqQk9NRTZUQjJXNDU5ZnNERU9yLXVCTjVCTDA2U01NTk8yUURmVWFvZTlWY2JhZVFIY1h5Y085b2k5Ylp3dDRpWQ?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "麻薬取締法違反の疑いで男を逮捕 鳴門署",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvcVlSTmRzampLRUhtM01YMGVHTVNtVFJELXZicWdENjByWldhSTlhTGNCdFJTQ1hsRU96d2NSbjlXV3dHX2o0eHd5N1VPcTNkbDBGemxR?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】2月はスピードの取り締まりにも十分注意！「交通取締計画」をチェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjFfWWJWTlFpZ0VJQ0ZtWkl0alk3WjRDeDBuUkotdmpUaFI5M2FPR1l1SmtuVkVjYVkxNFAya3BNc2ZIUnZWcFlaTWx0ZWl6QzhCdDljTHZYeU5yM2p2bDlMcng2dHFSMjA1SmNqUmtCZ1JEaVRCbm9fbWxKblZhVQ?oc=5",
+      "date": "Wed, 04 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【白バイの交通取締】速度取締りで狙われるのは単独で飛ばしてくクルマ！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MOXlycWkwdEphcDlxb0h1dHFKY0JHdUJJbENlY1Zmc003bzYybXlxV2V6LWotbUFfM2VIMVpuYkEzZWRKYkR3aXlUaGZJT3J4by15ZlVhMlFQdG9X?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "徳島県内の交通事故死者13人、前年同期と同数 10人が高齢者",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MV2RDMjVEWEdES2dnaTZvNkd3SGlaSUYxbEQyWFRZM2VTakFFczRXZmRMeFVQX25lT0g4QUhMcEMySHJJZ0RtUVNORXFTaGRqTVJqNENn?oc=5",
+      "date": "Thu, 27 Aug 2026 04:00:00 GMT"
+    },
+    {
+      "title": "吉野川市の国道で車と正面衝突 原付バイクの男性が死亡【徳島】（JRT四国放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmVHZhNkNqLWpOVmZ0aE5XYTNaVlV6b2pJRm9aUEJmdGkwbG5aRVBiSS00enNORFlGbnRGMnN5ZUVyMzBhTnlJMzJ0WmtyY2lCNmdoeEFwamg2cWRodWtONzZHVmxENDhnNmpHREUtcEk2UnNnRVNBSVdHV0R0SUE?oc=5",
+      "date": "Tue, 25 Aug 2026 09:00:00 GMT"
+    },
+    {
+      "title": "自転車の男性、負傷程度が判明 徳島市内の交通事故",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02ZFUwN3hwNGpaaTMxZ3pwdGk0YnJuWEJFRjJ3ZFIwT1FCOExpQ0oyOERLRVZNZFFEVXdoQ0dGbVZLb19Ld3VYTnQxSXNmODN6TkJhYXR3?oc=5",
+      "date": "Thu, 27 Aug 2026 00:20:00 GMT"
+    },
+    {
+      "title": "25年の交通事故死は最少の19人 徳島県警、過去の事故分析し対策 [徳島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03enVhYlFLcGQ0czJ6QjYxVkw1eUhYVUJiREVVeS13RVZnY2lzMkpfbGltRmJhUk1MY1ZmLUpxRDN4b3c4WEFSNll4cFhWVEotOGYyV01jZk16ZDJUYUstaUV1MGFidEE?oc=5",
+      "date": "Sat, 10 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "吉野川市の国道で車と正面衝突 原付バイクの男性が死亡【徳島】（2026年8月25日掲載）｜JRT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGVaODNNaFFpQlhxWFRZZnVfdHBQRmQ3d3F0aHBaX24xWlZKeVNTWVJwRXJFbFMwTWthcUlyaURqbGpNbmhFRE1qUW4yVS1UVWs3alFGaUxXMlVqS1JMOVFwR2djcjZ6UVlsdjcyWkNFSHNwOUpYdXBXWjhkYjBWX3FKZUFvWUU?oc=5",
+      "date": "Tue, 25 Aug 2026 09:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "徳島県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T01:32:56.768076",
+  "generated_at": "2026-08-28T03:27:50.593111",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 27.3,
+    "temp_max": 29.6,
+    "temp_min": 25.4,
+    "precip_prob_max": 100,
+    "precip_sum": 10.8,
+    "wind_speed": 9.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.2,
+        "weather": "霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "03:00",
+        "temp": 27.1,
+        "weather": "強い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 27.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "09:00",
+        "temp": 27.7,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 29.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 28.3,
+        "weather": "霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "18:00",
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 25.9,
+        "weather": "曇り",
+        "precip_prob": 57
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56c24tVzZCTDJsN0xqdlBnc0pzMUp5SmQ0RWNZbk1hT1VuclBmSGl0MzJ0cjJSbF9fYVUtRE83dGpzc3dvdXJtVk9aNDg3dEQ5SkIzNUNWdVN2MzRMZ0J0WXc3RFBVb2FfNE9RQ2lOTG5uZ9IBd0FVX3lxTE1aQ3dkMHF3eGRKWTdaZmZZQkF1UGUtalRId3lkTGM1VUlTY25POXVtZnMyQnFob2tkNEM3MDVuTGpNamlsRGZsY2JlT2tQUjk2bnRtbUU4RDR1SjFYalVTanFpMHViYTRXV3hoLUgwQlFMY2pLS01J?oc=5",
+      "date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月21日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kc1FWWXZKUTZBeTYzZkpocDh6Zm9WY3J3SGFDMEkyTVlheXFyTzA5dUlacXhoZ3pjSTh2NWhIZjlmaU5HbHQ4U1ZHRzlfQXZFSktXRGprVlNGdU5UalJGUnZtMnpPQmZkeEJtV3U2VdIBdEFVX3lxTFBUN19xcGhxZ1g1dEVxMTB5NzAwNlVTVDNCUEpQN2R4bDh1QTRfQzh2eGt1WkJTRXdTbTNoWUFZVVQ2OE9qLUVVYktpWGU5ZkZZUDk4ZEdnTjhBUjNad0drZ01oM1VRVVdnSlZXU0QxMFRlQmJF?oc=5",
+      "date": "Thu, 20 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
+      "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【写真・画像】友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」 | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVanVSUWVPelNPTXFCSS1RU1VfcURoa3hEelliX3lTd1FNa3pjTFhMSmxVYnFpcnNpbjc4WHF0M3JpeGxtXzdJSEdYczBfdUhWQmVzZDRaaFBxTHphTVE?oc=5",
+      "date": "Sat, 22 Aug 2026 20:50:25 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "大阪中央環状線でトラックとバイクの事故 バイクを運転していた16歳少年が死亡 大阪・東大阪市 (読売テレビ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUlBLWhralFrbmVPQjhGWnpjOERFNjdDUWduSXZaeXhBazRsS2xMdkxydlZqaGdqbXVxanB4VWlxWVhXcmp6NlhOb09GMHQyYjctME9ZODNURk9oWWtXOVF2UnNXbWh6T2FxYUR6aENWampHb2Q5Z1ZzaWxGSXlaQWtfOTNna1UwOE5UeERR?oc=5",
+      "date": "Sun, 23 Aug 2026 00:35:00 GMT"
+    },
+    {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "阪神高速160キロ走行で死亡事故、危険運転罪 新基準を適用し起訴 [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05b2JjbWRIM1hpbnBrMlA2YkctTC1HYXduRG1GQnNfRlFIVk4tdTBjUmRSUVdMRkRESEhjbkpaNkZybWItZHpTWlhuVXo1ZWVtMmFuZ1ZCT0N6V1QtUUExU3JiUE1IWkU?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2年連続交通事故”大阪府下ワースト1”で…地域住民ら50人以上が参加し「交通安全パレード」実施 大阪府警茨木署",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFI3VTBYTVdtUWJXMlpqdzZIamZnUDRoYmJkSVB5cU5GdTFYX1lsVkNtM2dDRjdhQV8yVWlhWlBCbDVZWDB3dDdaUFlJRHRkOHg2X1pkbFZBT2gwcEpEY0ItR3FobHQta0w2d3JWaDFZa3dpYzJ4Q2ZLTDdDSzJha0hjY2c5R00?oc=5",
+      "date": "Thu, 20 Aug 2026 10:21:01 GMT"
+    },
+    {
+      "title": "大阪中央環状線でトラックとバイクの事故　バイクを運転していた16歳少年が死亡　大阪・東大阪市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Nm1OSlpGV25OY1k4SDZSRHYyQVp6bmhLbTZzS0ZDcE5jN2VQRjBibG4zZ0tseFJTTS1jbldiNlpFWUJOZXlkZVRkOW5UcFhWU0pQUEdQQnhTRmdob0hXZkFZRVpNak1vQUVPWldxOUNvT09VMkFNS0U3UdIBgAFBVV95cUxNZTlhcDFlWEJEMkF5UC1yQ2llYnFMcHN4R2lPc2l4c0tucEhPNG5xeVpSRkJOOUt6ZnFjS3RYU1Q5QXBUQ3ZvWjU2UGhUX3paUEtBelNtVkR1aGIwWGU1YU05dkNnWmVQTEJnSm5tU2lwLTRXT1FIQkhVQzFwQXRYNg?oc=5",
+      "date": "Sun, 23 Aug 2026 00:35:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大阪府警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T01:14:55.631362",
+  "generated_at": "2026-08-28T03:27:30.397913",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.2,
+    "temp_max": 27.6,
+    "temp_min": 23.0,
+    "precip_prob_max": 100,
+    "precip_sum": 15.4,
+    "wind_speed": 1.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "03:00",
+        "temp": 23.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 23.0,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 23.7,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "曇り",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 25.9,
+        "weather": "霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "21:00",
+        "temp": 25.2,
+        "weather": "曇り",
+        "precip_prob": 69
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「総会屋」ら警戒 岐阜県警、株主総会特別警戒取締本部を設置：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55RWZMVGhOVUVGNHloLVZJZ212MHotNERwWXZrZ0ZuYWFvU2ZCRjVONEhwNVZMUThmUEtCcDRCNlZHU0xsMnViRXl2czJJbVNWSHJuekszblVGZGhvbmxEZnJESDdPbHZBWDJvVzl2ajc?oc=5",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "覚醒剤取締法違反の被疑者を逮捕しました！",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RQ3hhbkp2a3dKYkNpcnd1WDk4MDl3eEstcXFGamRIb2k4ZXZ0dE9nV0ltN1hueXBZdjhLLUN2TkQwUmxCV29FMjhMeklTU1loRnRQdFFReEdMSWRTWm1BYnFseGxfQmVt?oc=5",
+      "date": "Mon, 10 Nov 2025 05:20:33 GMT"
+    },
+    {
+      "title": "移動オービスは赤く光る？ 白く光る？ 福岡県警も教えてくれた、これがみんなが気になる移動オービスの光り方！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNei1Pb09kQWdRTkJLSHM4a2ctd0VaR2VCOTNleFFPSWY2RXhoTGJTMEZFTExjTFFhWHlIbUhFa2ExYmdrQTRCTGwwOUpqdw?oc=5",
+      "date": "Wed, 10 Jun 2026 09:37:52 GMT"
+    },
+    {
+      "title": "岐阜県中津川署が可搬式速度違反自動取締装置で初めて速度取締り",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96elFnRThOYnFJc1JlN0ViOUJON1lnalYzY0JKQ0x4em1mNGpfQ2g1NWpBRTNrNDVxZ3JWbkJsRVJCS1VYZlRtcGpRcmhrVHVjd1JOclpDTWd4bVE?oc=5",
+      "date": "Fri, 12 Jun 2020 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "1カ月以内の県内交通事故死者が10人に…87歳男性が死亡した岐阜市の国道157号で合同現場点検 再発防止策を検討",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWFd6Nm5SZWVEOW13R3B1ZmxnbVAwM3pqZnNXbVlhSnF4MDhVSnVkNzQ4ZGcyZlNGUGlkMFdYbEMydVhtSF80ZkhLdUtLRE9vRU1pZkRwMHFwOXFaNzRvNHlZSDZSYkdTcWg4bDk5TG9JOWt3YmpUQ3J3ZTZKVzg?oc=5",
+      "date": "Tue, 25 Aug 2026 02:57:52 GMT"
+    },
+    {
+      "title": "岐阜・北方町で交通事故、男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4RXJTaDBxZENuazBsWlNTNlV1VzRNVXBEV00tQjRScXM2Rl83TG45UjVRcjNzN1BDenY4T3RpZC1RQ19EV2VyLUdPV0JiaGEtZEdoU2xR?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故発生状況（7月末現在）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vR2xwM3pnUVJlcDdIRG1VUmRrejlFSUM0a0NvZ1dfUjh0d1l1NDB2MkItd1lYeG53am9uVkJoYTBhSVN2aTllSkhldFB6b05qTEgtOHpET3R0dUhxbzRaaC1MRQ?oc=5",
+      "date": "Fri, 07 Aug 2026 09:22:15 GMT"
+    },
+    {
+      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】のり面から滑落した男性死亡 道路の点検作業中に… 岐阜･八百津町の国道41号",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0YUhBVm1hNzJiMkppa245Y0t3NDVKR3BXMjExVUIxOVhjNGp2TzIzY1FhWGN5NVZKVHBNbUg3YzNUallyR21YTWtJMEdORDJPcnVSZlRvTDBGUQ?oc=5",
+      "date": "Tue, 25 Aug 2026 09:49:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T02:08:58.680264",
+  "generated_at": "2026-08-28T03:28:32.243699",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.5,
+    "temp_max": 30.2,
+    "temp_min": 25.2,
+    "precip_prob_max": 89,
+    "precip_sum": 1.8,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 86
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "06:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 30.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 29.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 28.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 27.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 39
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月26日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82TEVHd0VLYVNtS01heGYyaHpUdjJLYjAzT05id3l5aWRDMnVjUncxZnpvLWdLcXRaMUxaYm80RzliY2Y5LUhwU3p5eEYybDJzcmg0VFZ1bEhVUk9HOVlQY1E1ZkdoUS1UdG0yVFBmWnpnVHpuLTlyMXNQaGhSODQ?oc=5",
+      "date": "Tue, 25 Aug 2026 20:00:36 GMT"
+    },
+    {
+      "title": "８月２７日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrYXY0S2NoRmgxUEtoZnpFeVlrSUgzcWRRUDhZUVZYYXBsandHcVRVeEpkTWQ2ZmhldlE0MUg2aEZCc2c4bVBaUkNDbGJGQm5zRzRpVE1nN1llMFlPS0pQWjVEcW92NGdLUG9DQ0Y5WjdmYzNiYkE40gF3QVVfeXFMUGthdjRLY2hGaDFQS2hmekV5WWtJSDNxZFFQOFlRVlhhcGxqd0dxVFV4SmRNZDZmaGV2UTQxSDZoRkJzZzhtUFpSQ0NsYkZCbnNHNGlUTWc3WWUwWU9LSlBaNURxb3Y0Z0tQb0NDRjlaN2ZjM2JiQTg?oc=5",
+      "date": "Wed, 26 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月１７日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTks0cVNZdnpoeUdhbzZrQ2g0RkVpdmQtUENWT2lVTkZfUFFsSkdZTlFlcjlqdC15WUEzb3ZPSkVWLS1oSFBodXg5VklENXlXMUY2ckhWOHdDQm9YQ0V4dW1jOWVVbjg2?oc=5",
+      "date": "Sun, 16 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月27日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rS195TC1lSTE4RkdpYThLbzNwcWtZaWJHMWh2TXFxRTdySUxOVUJwZGdkcGxuUXBMb2hXNWZ0RGpiMXFDekhjWnk5TEVNRktpUHdESXh5TklReDkwVzhERGVla2JvVi1WLVJUQ3J2VVgyNFJQeklqdXB5amlocmc?oc=5",
+      "date": "Wed, 26 Aug 2026 20:00:37 GMT"
+    },
+    {
+      "title": "８月２５日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZWW5jSVpCTHF5UV9aVG9HSlhlc3NvM041WU5sYmwxcFotTEpzYzVKVXdFcVhiZHlZRDQtNlVhRU9SbmJob01yMWFTT3JObkpZRURZUVpLdXlWNUxXSGZOSlJMbmdXd0RPdVcyemRXN3cwUDFYM01N0gF3QVVfeXFMUFlZbmNJWkJMcXlRX1pUb0dKWGVzc28zTjVZTmxibDFwWi1MSnNjNUpVd0VxWGJkeVlENC02VWFFT1JuYmhvTXIxYVNPck5uSllFRFlRWkt1eVY1TFdIZk5KUkxuZ1d3RE91VzJ6ZFc3dzBQMVgzTU0?oc=5",
+      "date": "Mon, 24 Aug 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「どうやったら7年に…」法廷に響いた遺族の怒号、究極の“ながら運転”男児死亡事故、被告に予想外の「軽い判決」(1/4)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOW9LR0xwaVFTb3lwR3hpei1IYU5wLXpfeXlIZGU4TXYxS0hCczdONlZiUDh5WVllM21yZXhuYjlvcGc0VUVTUDl4dU42eE02VTBDMUF3?oc=5",
+      "date": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高知東部自動車道 旅行中の高速事故で１歳煌瑛ちゃん死亡、運転中サンダルに履き替えようとした被告に 高知地裁 禁錮4年判決…両親は「何一つ納得できる内容ない」と控訴へ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WTW1lZkFxZjJXTU5na1hYaEpmYTF6M3lYZzFNZFQtX1MzWVpIMGxZaFZlYlJuVlphN3poeTV5VG1Bc1ZES2E5aTJCdWk5aUhzZkZINGEyMEhBUGtoV0tienozcU5rSjlvU2xfRUZySnNLUQ?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "衝突で車横転、女性３人救急搬送 高知市春野町の県道",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBITGZHdWJ5dmgzUWk3eEpsNWhlMGdpSE4xYi14OGZ2d3ltTG1saGlMZVF2d3Q2ZEMyZ1BSOHJ4dTlOdzFzQUJTc3hON01ldHhfTWh1LVJUbGsxX2x1REZr?oc=5",
+      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「こんな馬鹿げた運転中に靴履き替えようとする奴が出てくるなんて想定が法律もできない」高知東部自動車道死亡事故被告に実刑判決…男児亡くした遺族が心境語る 過失運転致死傷罪の量刑厳重化を目指す会も立ち上げへ | 高知のニュース・天気｜KUTV NEWS | KUTVテレ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jQnZOb1kwNGZxREZVS2hzNnpzQlh3QzAzN0hSemtYV0hDUk9hLVA3eXpFUnVGeWRLZjFucVpCaEhJTmZJME45R2ZMZkxtYlBHX3BOc2lfemw2YUtvM0tkWFBUYnFsX2lW?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車道を歩いていた高齢女性 車にはねられ死亡【高知】（2026年8月8日掲載）｜RKC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFBfYlp5S0tDSEdkbU0ycG94eTgyNERydDBKNzZyWW9mRW5OZGxOQ0c2VUxqVzBVRVpRcDI4OWNwdGhvSVRxNmtjdFZGRHVfN1Q5MnBfT0xrRXJWRk9kYS03NW9EOGkyTi1lNW5TM24yaTlneHFaLTRieTlMZXFhM0F0UHVRZlk?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "高知県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T00:38:53.753164",
+  "generated_at": "2026-08-28T03:26:43.300405",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.2,
+    "temp_max": 31.4,
+    "temp_min": 20.5,
+    "precip_prob_max": 61,
+    "precip_sum": 0,
+    "wind_speed": 2.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "06:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "09:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "12:00",
+        "temp": 29.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 31.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 28.7,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "21:00",
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 37
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選栃木 県警取締本部、文書掲示違反３件に警告",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13S0EzRF94SDNYRERzSGFnODN5eXQwSllrTm5hSjVkZk53UXhhUUhEc2stVE1xS3V2MURhd21Wa3pCWGYxZlRzLTZ4ZDZ6NkxzNGJzaHFITU9xYjA?oc=5",
+      "date": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "関東地域連絡協議会／「首都圏大規模同時合同取締」全20カ所で違反車両27台に行政指導",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFN1FnUEt5VnE3bjJveGtkanI0TzlXSklOcG4zRmJoNzg4SnNIbWFJLWdmUDNCbEpKc2g5d2xoVWladmhzSTFJSnVrSkFkVnJfcXBYbg?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "栃木・日光の走り屋スポット「いろは坂」で“無料車検”こと「不正改造車取締り」実施 5台を検挙",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVTFJWG1IYkNCb2hSa1QtQVpMekdzNjRaYXhwTEVHZFgxM1RuOElGRllLTllzVnlEVERkUlh5R2ZIV2JBWVJtUlB2UDBWUF9ZdG1DMW95TWl6MjR0eHl6T3Z1ZG5jT0VQM2pRSDdkMWEyTXYza0czZjMwRzRzMDMtQ2djVVI1ckVK?oc=5",
+      "date": "Wed, 26 Aug 2026 05:20:00 GMT"
+    },
+    {
+      "title": "栃木県警、12日夜「一斉警戒」 2366台を検問 年末控え「見せる警戒」強化",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fd3ZvOHM4VGdYTFNOaGhsY1NlQ0p5YTBQcW9Ccy1LT1FHSnlSTGR6LWhHUlpJRjJveXJSa3NIcXlKZWkxTUdoWDNVY3QxbF9NdWVVVU5PVDdONGM?oc=5",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "亡くなった男性は新聞配達中、宇都宮の交通死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51ZFZ0QVg2MzlvcnJGVzRuYnotZlM3UDBnUWhfaU5PWVhJd0dEcVJFSU1UajFGUmJ0RW5Ib2lBb0NBaVByV0Mzc0N0VQ?oc=5",
+      "date": "Sun, 23 Aug 2026 06:43:00 GMT"
+    },
+    {
+      "title": "栃木県内、2026年上半期の自転車事故死者ゼロ 平成以降で初、背景は",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51dGMwamVmNmhqd08ycEYweGpkcWpxWTNaakltNmdZU095VG1WX05BcDIwVlNwVFNfeDh4REZBY050dzVRbWdfY3VEQW56cGY5VHdSOENCaTdkV00?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "栃木Cがアカデミーバスによる交通事故を報告…負傷者はなし",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51TjZ2ck0ta2ppeFpEV1NvcUdweW9abUQ5VHVhY3dRZk9GZExtNmgyLVlUaUZoWHBDcWNpNXBwa0x2cTRZbFVfQnVrWFBXaFQzYUV0WDB4OXBMWkVJWm9lNGRXMTFZcEIxbnVWNk9n?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラック同士の事故で1人死亡 路肩の停止車両に衝突 栃木・北関東道",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVM3ZRdHkxS2xDcTFlakgzYlVJbHRUVkQzemhVWWxjMkVubWVwblB0dEd4NkM0MmxxRG04S2dDZUF6bHlUSGl0Y0lZQVp6RklwLUtsLW5ma0lZVkdhVFEyZ1QtN2hKZ2xMN1BXLWVmZW5jZw?oc=5",
+      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "栃木4人死亡列車事故 中継見張員 配置前に作業か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEZtUUcybnJJeEQ0MzhHSVh0dm4wb2xRZGhpUGRaNFI2Tlh5b0NnWnJJbmxhYkpQT3NJR0ZJYjllQzBfX0UwRlhtX0VQUEJ4cmRfb05hbmdObE4xVGRN?oc=5",
+      "date": "Thu, 27 Aug 2026 09:58:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "栃木県警察 公式サイトを検索",

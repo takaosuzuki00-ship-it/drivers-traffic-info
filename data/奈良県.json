@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T01:38:57.148246",
+  "generated_at": "2026-08-28T03:27:56.794341",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.3,
+    "temp_max": 27.9,
+    "temp_min": 24.6,
+    "precip_prob_max": 98,
+    "precip_sum": 7.3,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "03:00",
+        "temp": 25.3,
+        "weather": "曇り",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 25.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 26.2,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 27.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 27.5,
+        "weather": "霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 25.2,
+        "weather": "曇り",
+        "precip_prob": 55
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２７日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxazQyaFFHel9EalFySzdhVk91cGxDUGx6VjFOZ2IzY2ZER1c4c3VXMUVHUHFGTy1aZF9BWS1lNGI1b1ZGVGstbWlMRW1SM0ZhNlVweVUyX0FUenBiZnZrUzlFWUJnSGx6cmprMTlpRXIxUdIBd0FVX3lxTFBrYXY0S2NoRmgxUEtoZnpFeVlrSUgzcWRRUDhZUVZYYXBsandHcVRVeEpkTWQ2ZmhldlE0MUg2aEZCc2c4bVBaUkNDbGJGQm5zRzRpVE1nN1llMFlPS0pQWjVEcW92NGdLUG9DQ0Y5WjdmYzNiYkE4?oc=5",
+      "date": "Wed, 26 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOE9FQmlkdTd5Y05DbC1PNHM3aGlRMkpBOWdWQ0hnOC1kcHBTTmRxbGlfZnRvakFxdUVIS0pDSnEwSHNkRE01Tm9JWkhPbE1ncGtJVWdrY0JVOXVaR2Z2bHpuR1VTSC1WankxN0tsU3lNNW5nZmI0Q3FraWc2YjFSQ0NaLTlqTWNkMUhYZnJURmxTaDBYU0p3RUI1eEZYSmRtMGtWLTNZdEItZml4RHZlSHVUUWY2TkZPMzZiTFpkcmNUd1czZUFJ0gF3QVVfeXFMTTJBTUx3el81VGdaMW5FMUx6ZlhsM0UtSVVqV3phWVMtVUFYRGRDWmRoRC1CY1dSRE9iQmZubFJlZlJ6RU12c0kwU01PSmR1UUp4OGUtYUhRNjRIUkYySWkxX1N4RWJsV3NSZlBVc1Fnd0NYU3Z1VU0?oc=5",
+      "date": "Tue, 25 Aug 2026 20:14:14 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "８月２４日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2tSOF9RTDdPLTQ2cGRDdEFTVG96UlJRdjM1ZUpZMkM0QnZXSmJWSzRiWnRtSHZkcWRIVWJsWFloOVdxcmpkV2FBWTh2dXhKVUJFUTc5cUxGeVZaSFBONElvaU4xUk1Wa2xadkpYYjJWSXVUVFFTRkpZVjdfR1Nja1lwUmXSAXdBVV95cUxNUTNpNFNEelJ5djZZUDNTNTVIOHp4SThLd1hCT3d2VW9RNDJDaTl0S3p3TDUxRHE0S281dGYyaS0zRlRFQ1hsSTJYNkFpYmZQa0U4M21QaFUxbzJaZE9yZ25tNjY5V2xGV2ptRUsxUjB1OUoyV1c3Yw?oc=5",
+      "date": "Sun, 23 Aug 2026 22:41:15 GMT"
+    },
+    {
+      "title": "8月25日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQzhHYWtsdkRoYTVMVlNMc1V3a0ZCaGI2M3B3T0tpNGQtQXVqbjZWamI3UXRwSDlZQUVtbTlPRHFoQVFWb3g4RWRFMHA4NHNsbDctazNTeWdUdEdKSnJiU0JSM2ZyYUN1ODA1dUdHc9IBdEFVX3lxTE11T2FQU1RwMXpKc2VHejdycUZmRGJzcU10LWdhbTMwRWpfLTQ4WmJ3c2IyeEhoakhKUEtxTUtoZWc4X2IxNVdxWVNHN01aYldGbmhqMmlheWl0bFNXQ3pCbzJkNlpTRGRRNnpaR3Q5QkpkTC1j?oc=5",
+      "date": "Mon, 24 Aug 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車2台の正面衝突事故で2人死亡、1人重傷 どちらかが逆走か 奈良 [奈良県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV1pyOEQxN005Sl94UzJzb0FEYllhNkVuUWQ3QXVTaC1Oc1hnNE9BYVJ3dEQ0X3JlcF9vaFAtM3VFTzJXQXQ1Q3VtN2pMVkZ6VDdHYVpJd2NsRXhQeVpQb05ZWHlTdjg?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良県内の令和7年の交通事故死者は25人 過去2番目に少なく半数超が高齢者",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub1BVNmRLSjM2b2w4UUdJc3dIZmFhMThuRmlFdWs4OWI0Y2QtZU11NlVYSFpPZFRJT3JuMC16ZzE1ZWFZNU9ZdkZ2V0ZyZ0pZOEpzSXMyekdJRnBZSmREQ0E2N2N0UmVxbElyckVYWUgwMzFJeUE?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良県、高齢者の交通事故防止に運転診断ツール導入へ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQ05pWEtvdXcydlhMc3gydHBuOGZGQXlMVkFGYUFBdVh2aXp2MFNtX1o3dXBuUGVacDBjRnYtNnJpVGdJVFlQVWpFdHFtamRYX1VnSFYxQ0FZYS00OE9Z?oc=5",
+      "date": "Sun, 08 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "北陸自動車道で4台絡む事故、奈良の大学生ら5人重軽傷 福井県敦賀市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RGRYQmtCUklBazFYRVJKdmhXaDZ6Wlp4Vl9LaDRLY2ZIbWhHRVFxMnB1Q1QySHZTMzR3REJ1M3hoUFAtSngwVUE2dy1iYVhBV2ttRHVCZWNnU1p2N1E?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "近畿大学附属小学校が1年生を対象に「交通安全教室」を実施 道路に潜む危険性を見抜く力を育み、交通事故を未然に防ぐ",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83SzFNbUg2ZnlXUzJKS2k0SmtDM0NfWmJzbkplaWdPMXdoTS0yYzBQWFk2aFdsOXU4MFF2NXpnWEZDa21vclNV?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

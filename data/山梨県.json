@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T01:08:55.295795",
+  "generated_at": "2026-08-28T03:27:23.426472",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.5,
+    "temp_max": 29.3,
+    "temp_min": 22.2,
+    "precip_prob_max": 100,
+    "precip_sum": 22.2,
+    "wind_speed": 1.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "03:00",
+        "temp": 22.6,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 22.2,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "12:00",
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 29.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 57
+      },
+      {
+        "time": "18:00",
+        "temp": 27.7,
+        "weather": "曇り",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 57
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２７日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxazQyaFFHel9EalFySzdhVk91cGxDUGx6VjFOZ2IzY2ZER1c4c3VXMUVHUHFGTy1aZF9BWS1lNGI1b1ZGVGstbWlMRW1SM0ZhNlVweVUyX0FUenBiZnZrUzlFWUJnSGx6cmprMTlpRXIxUdIBd0FVX3lxTFBrYXY0S2NoRmgxUEtoZnpFeVlrSUgzcWRRUDhZUVZYYXBsandHcVRVeEpkTWQ2ZmhldlE0MUg2aEZCc2c4bVBaUkNDbGJGQm5zRzRpVE1nN1llMFlPS0pQWjVEcW92NGdLUG9DQ0Y5WjdmYzNiYkE4?oc=5",
+      "date": "Wed, 26 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２０日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VbFhkZ0Z0RDE2VHB1bGFJa0RhZnRCOVRwZTZpM1kyOWFzRmU4X3d6YlB5VXBQR0Z3NmlGd3hXZ1p0MVJ6aDZralFEZURKdVF1VVhZbzBhOEpRMFE?oc=5",
+      "date": "Wed, 19 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
+      "date": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "包囲型の飲酒検問 中心街から移動する全ての一般車両を停める 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zbkN2dnppLWRhblp5RFk1QjFFMjZ6N0ZDeVlYNFB0SW9VWU0tNFBNczNGQUpEMmE5Q3JUZlVha25xRWxRbEhWNXFmVUFXcm5BQlRSMVJvTQ?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転取り締まり場所を公表 8月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83ZjVwUDNNYjJpZmtvVGRBLTNRT3hzWVhfWGoyNTNPTUo4RGJHYm1kWlFLSHFOM2NzLUZfSEJjSEFQajItX1BmdG9KN3V5ZlNCeDRoSjZvQQ?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「必要ないと誤認」公用車事故で議決経ずに賠償 保険で848万円支払い 山梨・甲州市（YBS山梨放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90Z3lhbURFS09zUTdLaE95ZVZ1NlRGVnFwRmt6aU1qckJJRjF2MDJ4dXg4QnFzTlp4MjBYcjFmWVU3R1dBaTVWOHBkQ3BYZ2w1NnM4ZjZrVk5yRHdWZWhjZG9oeUtrZXhPOTlMWm5WWklJTDdRTnAzQ0RLeFNqa1U?oc=5",
+      "date": "Thu, 27 Aug 2026 09:52:00 GMT"
+    },
+    {
+      "title": "交通事故で３等陸曹を戒告 北富士駐屯地",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56X3VGajE3aFAwWE9GU2RmeEtXdW5JZzNid1cwUU1ReVV5dGFQaDlEa0FSQ2c3eTFmT2U3ODB2ekU2enMyN3FUVXZDNUxZWUs0akR4eTZZanJCSEVnWUZtUGNvczA?oc=5",
+      "date": "Wed, 26 Aug 2026 13:04:58 GMT"
+    },
+    {
+      "title": "交通死亡事故1,000日間連続ゼロ達成！",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWXc2ZXJWc19zZnNZaGhLYkpMNEt4OHI4RkUzSldKbzJLRkwzZGxTYnlRRU5oTGxwVGF4VUtlcWl4Z3JuODFMYm1OWkxLQTVwSlRwTWhQWVloT1NNY1FyazdyS3BCOXJDdDdXWVZ5dzNaX2I2dGhwWmNDTQ?oc=5",
+      "date": "Fri, 07 Aug 2026 19:35:14 GMT"
+    },
+    {
+      "title": "【訃報】 望月大輔県議(44)が死去 7月に車を運転中に急病、事故 山梨 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVOGY4Y3FwaFhEY09IYlNEajRCSEpBLW8ydGl4bF9qMFFSdlF2bHJuUUFzUldwSzRnMk1YMUZ6TGVseFBqejh4ZVRvRU4zbmE2TjlKek1PVHpvWWx3U216a3JmajdLbk0?oc=5",
+      "date": "Mon, 24 Aug 2026 12:05:00 GMT"
+    },
+    {
+      "title": "【訃報】 望月大輔県議(44)が死去 7月に車を運転中に急病、事故 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeE1USzcydnZaZnhNcDhMWTNidFgyVDVKTk5QRGl5TUdiSUpRcDFqb1dIdTlFejlCMVRRM0djZVNTc2M3T0ttRmtwdEJkY0VabXlwaXRuQzNqQQ?oc=5",
+      "date": "Mon, 24 Aug 2026 12:05:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山梨県警察 公式サイトを検索",
