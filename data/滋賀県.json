@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-27T18:07:14.976424",
+  "generated_at": "2026-08-27T21:05:17.823279",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 28.9,
-    "temp_max": 31.7,
-    "temp_min": 26.2,
-    "precip_prob_max": 63,
-    "precip_sum": 0,
-    "wind_speed": 7.2,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 26.4,
+    "temp_max": 31.8,
+    "temp_min": 26.1,
+    "precip_prob_max": 71,
+    "precip_sum": 1.5,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 31.3,
         "weather": "曇り",
-        "precip_prob": 14
+        "precip_prob": 20
       },
       {
         "time": "15:00",
-        "temp": 31.7,
+        "temp": 31.8,
         "weather": "晴れ",
-        "precip_prob": 49
+        "precip_prob": 41
       },
       {
         "time": "18:00",
-        "temp": 28.9,
-        "weather": "曇り",
-        "precip_prob": 63
+        "temp": 28.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
       },
       {
         "time": "21:00",
-        "temp": 27.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 25
+        "temp": 26.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
       }
     ]
   },

@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-27T18:07:46.128922",
+  "generated_at": "2026-08-27T21:05:31.950782",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 27.7,
+    "temp_max": 29.9,
+    "temp_min": 27.4,
+    "precip_prob_max": 85,
+    "precip_sum": 4.6,
+    "wind_speed": 11.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 27.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "06:00",
+        "temp": 27.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "09:00",
+        "temp": 28.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "12:00",
+        "temp": 29.5,
+        "weather": "曇り",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 29.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 65
+      },
+      {
+        "time": "21:00",
+        "temp": 27.7,
+        "weather": "霧雨",
+        "precip_prob": 65
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
@@ -24,6 +83,11 @@
       "title": "三田市内、飲酒運転事故多発で警戒 6月だけで死亡含め3件 主要な道路で定期的に検問予定|三田",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zdEpoSk5DdlRVZTJPcWV5RXlDUlIyUTJsanhIbDZEMC1WQmdOMmZpbzN3QWtMVmlBclJjQkRieHBnV2hpUlJPY3UtUmFmVzhDQ3I5azQyOG44RnRua2pEM3F6X3BzS3JfV2tV?oc=5",
       "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「六甲山」で不正改造車を取締り 10台に整備命令 兵庫陸運部による街頭検査で",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fb1hrR2VqTVU0NFF0VVBONkd6cWJqSjM0TkRSNGxUNGpGcXM3OVY1ZF9vRGtyUjRnN2E3blV6SzBJRFB3NUF0V00yb0pvR2JYcFFMVVF4MDBFcWxLOE0tQ1lXOFR1RUFLckdON09YbmRKTlBxN0xha01hS3JBUzQ?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,19 +102,19 @@
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "神戸淡路鳴門道のトンネル内で単車が壁にぶつかり転倒 さらにトラックと衝突 神戸の会社員死亡|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwYU0wSjh2ZE42ZE5NSVhyUy01cWZLaTRFbjkxY3NRQWRmVW1LT2ktdndWWGpEUFdvamp3dUNDTTI0dU1aTEF5bU0ybVZ0NUJrNjNQT0FVUUJmamszNElTaWJIbEJxWEc4QnNBVTlja3RuMDRQakhiR2gzMA?oc=5",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "JAF兵庫、7月の交通事故防止運動期間に合わせイベントに協力 夏休み前に「安全」を訴求",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qck55TkdMRF9fWDlzLTFHUzFQT0MyR2RKNnAwSUJNU0s1RnNBZXRWOHdiX1lvQ2tIWDdUd0syWVN2X2NPV0VSLUxoNGg4NmtFbEE?oc=5",
       "date": "Tue, 25 Aug 2026 20:00:00 GMT"
     },
     {
-      "title": "兵庫県の交通事故で６０人死亡・全国ワーストの増加率…目立つ「速度超過」原因、バイクで緩いカーブ曲がりきれず",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYT3ZXZkRLdE5faVVkazhZTjZsblZzNnllSER4UHJXUzYxZlF6NHN0bE9zVDRvUHNmR1dFU0Z0Y1o1bV9BM2gxZnNRX2xjZ2t2ZFZFUGw4WHI1VHVlR2lCZ0NSU1lRNEhUNmUzaUk2Z0Qwdw?oc=5",
-      "date": "Wed, 08 Jul 2026 07:00:00 GMT"
+      "title": "神戸淡路鳴門道のトンネル内で単車が壁にぶつかり転倒 さらにトラックと衝突 神戸の会社員死亡|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwYU0wSjh2ZE42ZE5NSVhyUy01cWZLaTRFbjkxY3NRQWRmVW1LT2ktdndWWGpEUFdvamp3dUNDTTI0dU1aTEF5bU0ybVZ0NUJrNjNQT0FVUUJmamszNElTaWJIbEJxWEc4QnNBVTlja3RuMDRQakhiR2gzMA?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "兵庫県宝塚署が高校生と交通事故防止啓発イベント",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2MkFzRktseDJKVVp6ZXhEc3JtZGxDQnpMeGtfVHExMTZZMFJkYmNuRXhyanJpb3J6Z1d2eUhCNVJSY1RGOE10YXBkOXltMV9iZmZJY21QNU45Z2c?oc=5",
+      "date": "Tue, 18 Aug 2026 01:30:17 GMT"
     }
   ],
   "official_links": [

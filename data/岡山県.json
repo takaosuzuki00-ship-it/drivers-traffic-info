@@ -1,29 +1,93 @@
 {
-  "generated_at": "2026-08-27T18:08:36.355593",
+  "generated_at": "2026-08-27T21:05:57.480947",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 27.7,
+    "temp_max": 33.3,
+    "temp_min": 25.4,
+    "precip_prob_max": 57,
+    "precip_sum": 0.8,
+    "wind_speed": 2.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.6,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 28.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 32.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 32.9,
+        "weather": "曇り",
+        "precip_prob": 41
+      },
+      {
+        "time": "18:00",
+        "temp": 29.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 57
+      },
+      {
+        "time": "21:00",
+        "temp": 27.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "AV出演被害防止・救済法違反容疑で34歳の男性を書類送検 岡山県内初の摘発 倉敷署（山陽新聞デジタル）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sb05qR0tiVzhQeXhFZWlFS1lZUDd5cXhvNGFqNGhrbEhNakdpNDloblVmODh5ZnQyZGp0VEhERmFMS3pGN0hkLUR5YU1XMHJXR0d2TXlTS0l1NjZSdFZVVm9DSGZqQlZpckFOc0hWNlhwNUVzbERtZFN5bnRrOTA?oc=5",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+      "title": "８月２６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOE9FQmlkdTd5Y05DbC1PNHM3aGlRMkpBOWdWQ0hnOC1kcHBTTmRxbGlfZnRvakFxdUVIS0pDSnEwSHNkRE01Tm9JWkhPbE1ncGtJVWdrY0JVOXVaR2Z2bHpuR1VTSC1WankxN0tsU3lNNW5nZmI0Q3FraWc2YjFSQ0NaLTlqTWNkMUhYZnJURmxTaDBYU0p3RUI1eEZYSmRtMGtWLTNZdEItZml4RHZlSHVUUWY2TkZPMzZiTFpkcmNUd1czZUFJ0gF3QVVfeXFMTTJBTUx3el81VGdaMW5FMUx6ZlhsM0UtSVVqV3phWVMtVUFYRGRDWmRoRC1CY1dSRE9iQmZubFJlZlJ6RU12c0kwU01PSmR1UUp4OGUtYUhRNjRIUkYySWkxX1N4RWJsV3NSZlBVc1Fnd0NYU3Z1VU0?oc=5",
+      "date": "Tue, 25 Aug 2026 20:14:14 GMT"
     },
     {
-      "title": "ＡＶ救済法違反容疑 ３４歳の男性 書類送検　岡山県内初の摘発 倉敷署",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tdjdlaDBIVzhiX1dYQzZCYkxITEthcTN0b0JLaTZxWnFqSTlVaUpDaG5FM1VqcUFMbGtZYWJ0LVZ4aVFXRFVhU2FrSVIzaW1zWEQxTU4yX1NfSGJWZU82SXBhQzJYcXZzWkNUQ2xidHJIVnNMNHpxUUc4STNhUdIBgwFBVV95cUxPVnhmejI2RGRTcTYwOGNEREV3TWdjTE02cHhHTGNpb1Ywb3dYX1RwcU92MXh0XzRpSE9Fek1mWUlBSXVnOGpmYjNyaHR0eXZya3dVTGJHUk5vcWN1UEw2VWlST2h1dUw3TnNOT0luNlp3TXRBUHFnb0RUbVVUczc2RlFiMA?oc=5",
-      "date": "Mon, 17 Aug 2026 07:47:00 GMT"
+      "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa3laaTVoT3ZFcF82MllIeXUzU3FVaEg4OHdJVXh1RzdXZ3RabnJkU1R1OWRpLUs5eW1jWG5OLUV2SVhQMTFGYm82NTJuSXFwWExjY2o1NzY2ZGg3Z2s2QmxMX0tNZG9PeGw4Mk9GSGlaRkFvendV?oc=5",
+      "date": "Sat, 22 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車「青切符」制度導入から１カ月 県内で相次ぐ摘発…県民の意識は向上したか？制度の周知は？【岡山】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xVC12SGxramdubkJlNDZiUUdGZDBfNnlielVra0tJd0ZZU3JLdEkxY09HWFNLVm9kTWJxMGJZc0JieVR0eFJtRjktTmJzSWFQeEJaMFVUXzVBdEVKa1B3NVdTS2E?oc=5",
-      "date": "Fri, 01 May 2026 07:00:00 GMT"
+      "title": "8月3日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01MjZzRHVhWG5nbDNnalVEM2x0cmQ2b0VIV3JCRmNnOGxtdlJkWmxReG11TWlZamhiazBMTGdETTloMTNGY0UweVc1LXVOT2RDVFhXZ3pURm9ucXFtbVNjeURCSnlZSlE?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RlRzWkQ3Z2VMbEZxX3RTc29MbllkbWt4MndhM3RVek5GeGRXNmFLSUFPd2s4dVVLeDRuX2hISUxRdVF1b2k3bVFCVUhfY3N2VUVVaS1JeDZaWGcxS2R1T0l1Y0s?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+      "title": "8月26日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rbUxSS0FnNmhCZmJFTUNkcDNWVVNYRDBhNTBYeEJyZXZ3bE9hX2pWZWtoeXhpNDhMdDNkSGt1YWhVT0V5cC1WYmhPU0tjMFhwSkVZbXVUVDZ2U1VERzUwS1dfYlJ3SUJhX1A5a0ItMNIBdEFVX3lxTE9YM1pfa05nX0ZfMGdpamJBZkE2WFR0NGYxN0pLejYzbE55TDZOM3o5VHEtU2dSdmNpblF4OW93cldZU1c3TkZQY3ZzaUQzT1k1RWdydVZfZTZ6dmRFWTJLdzRMRmp2ZmhHY1EybGk4S2R2a2k0?oc=5",
+      "date": "Tue, 25 Aug 2026 20:08:27 GMT"
+    },
+    {
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbkNvMDJ5c0RxcTFpSUlmT1ZwTjAzR2dvbmp0RFg4YUVlTnp3R0lra0d4X3NZQlIwNUg2Qmwtdk52NExieTdRczFCcmVoUzk2SFJEVVR5MmdNRWItc0kyUGhGWmtIRkE1aHgzdU5uOVdONGd0eWN4YXR6TWpmb3c?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,9 +102,9 @@
       "date": "Mon, 24 Aug 2026 08:52:00 GMT"
     },
     {
-      "title": "岡山市の車両整備工場 男性がトラック2台に挟まれて死亡",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kbjctN0VmQkZyZXhOSVdWbFNtbGpEb0tiTWtDMkhMaVhNQjJVM3FWQWhNUGttSkJNRnBMdXVBaFVHY3ppdWhsMnVsd0xnV1Iw?oc=5",
-      "date": "Wed, 26 Aug 2026 09:53:00 GMT"
+      "title": "自転車の女子中学生(12)がトラックにはねられ意識不明の重体 トラック運転の会社員の男(50)を現行犯逮捕 岡山・津山市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KMmtSeS1mdFZqWDNURXNWLUVHa1d1WGFmMXFCQjBqQ2lhSGUycFo1Z2lqVlJRekd3Z0xGS3ZMa1kwT0VJemJYZERrVkJPVFFZ?oc=5",
+      "date": "Wed, 26 Aug 2026 04:37:00 GMT"
     },
     {
       "title": "岡山の運輸労災17％増、交通事故対策呼びかけ",
