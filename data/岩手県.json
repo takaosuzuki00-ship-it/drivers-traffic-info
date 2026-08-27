@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-28T03:20:02.206593",
+  "generated_at": "2026-08-28T06:01:21.557643",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.1,
+    "temp_max": 28.7,
+    "temp_min": 19.6,
+    "precip_prob_max": 69,
+    "precip_sum": 0.1,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "03:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "06:00",
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 28.2,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 24.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月28日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkZuX2JXZ080aHFxb1FhNWFjZlEwS0NsZGVDc3BzR2o4R3owUFRLYWZYOW5WandXdXVZcmJqNE1ybzdKYlJUZzZ5MTJfQndoeERvTmlyNENWS3diYWtNbF9DTGNsbGFJYVR5cE11RlN2cG42dmhFMkFxSnZRX1VtWFZPbUNNWk1rU1hkTHRBanBLMk9Sb0psV0pnVXFUdFZ0a3N4ekpaNE50ekZaWVdjSTlIM3dhejdRQnZsaFZZUnBOZWt20gF0QVVfeXFMT09scWJoTjVtdHQxR2RlNjc5bUNEcm8wTjhsdS1pVElCTktMeGxFZnlwTTE0Z29OZld3SFFwMDFma1U4dGpOeTBZcjFBeVJWc2hOdG1nN0ZIMEpSUFJNeU9lOVZ6LTJYWnJBTEtZWFhDQXdjM2w?oc=5",
+      "date": "Thu, 27 Aug 2026 20:16:15 GMT"
+    },
+    {
+      "title": "8月26日（水）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0cwQ1JOYXBiekRlWVJkMi0waWNNTzlFTW0xd2k1SkZkQms1a2Q4WjdxdjliRmNna3p5QjBWSjZwTjZQZEcxcnJxeEJRVHAtUzJLQm9IbnpOTWQ2Qm9EZ0hTTTVha3pVT0JqczAyZFB3cm82MjBYOFV2Z1ZnY3dYQ01HT3hIMGpDVnlVaWNR?oc=5",
+      "date": "Thu, 27 Aug 2026 08:52:55 GMT"
+    },
+    {
+      "title": "8月25日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mcWQ4SDBkZFBuZ2pkckh5VlNSNjJUdGEtUHdZUF84Z0RzOEF1WWhmeGZjWUo1eVUtOGdoRm1tM3ZoeTl5ZzZ4dXRQWnhZWXJVRlFsUC0zSEtwUQ?oc=5",
+      "date": "Mon, 24 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月26日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMXlRODB3RGZ2LVdyUUdFZVJJVk85OU5sWFd0WTlHYjZ4MnJyYzRjT3lhQmV3ZnhZZWpFWkdQcnhRSU9wZ3B4azZBZzk4RlVNYkNXdGJDY0pyUQ?oc=5",
+      "date": "Tue, 25 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月27日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YbVBjRWF0bGZkakJnLVBmMGk5UmhSbFVQenp0OEFfZlk4QWRTamNDck1RRUhDbkZ0bHQzbXhoalJhN1dOR1hyNmNXQ0Uwdkl1OGNDdTNiQmhXYkFvUW42WW8zblNBc2J6SXIyc1lfONIBdEFVX3lxTE5GRTJVQ0VJVjY4bXd1anVZT2xGemFaQTQ2Rm44R1llWmg3dldQM1BBeFM3bzBydHpabTJjTmxCN25DbHMxQW5SNTZxWkZOYlVvdTBxNXhZdS1YRWZJSjUzdHk1NVVNT0I0MklHT1N0d1UtUmI3?oc=5",
+      "date": "Wed, 26 Aug 2026 20:07:57 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "秋田道、交通事故のため通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkYVNDZGc4QXpabV9JQVZLd2ZsOTJoRzhtSUhVUUxDSGt6V3RuS2tTM1N2N2xxbGFqazA4YUZtYUJNQTUzNVMtN2kwcS1oM3NKLWRxVElzQmxjM1g3ZzlHVw?oc=5",
+      "date": "Thu, 27 Aug 2026 07:27:00 GMT"
+    },
+    {
+      "title": "【交通事故】奥州市水沢の国道 79歳女性はねられ死亡 岩手県（2026年8月24日掲載）｜TVI NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGZOR1RQRHFqLVJwUUMwUEZpYkszU3FOb1ZYaUlPLXZWc0x2Q2kwdXJ5ZFRKTmZwTnoxUUlEc3pEMlp1QXFyTGFiQzZDaE1uMUg4cUVmM2kwRm9rbDRpdUo4bzA3WFBHaWpPWG9jWktMV3c5ejhHamhoODhiTHFTN2lDcGRGaGs?oc=5",
+      "date": "Tue, 25 Aug 2026 03:24:01 GMT"
+    },
+    {
+      "title": "７０代女性が死亡 奥州市の国道で交通事故【岩手】（IAT岩手朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5R3hES1ptcm5zdXMyUDVPa05xLW85amgzd1J2LWdSVWJ3RXlmWWxlZnotVGktWk1HU3pZbGxlUF9vc1duWVlHSFU5NnBSZm9JU1lRSmo4Yi11NDNaZ1hjd0lGaUNtUjdPSU1SSmNvQjBGWk5paFJhQTNTWGd2bUE?oc=5",
+      "date": "Tue, 25 Aug 2026 10:19:49 GMT"
+    },
+    {
+      "title": "奥州市の国道で交通事故　７０代女性が死亡【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByeFJkMW5jSGJ1NUpXaGJnY2d2SFN5eXMzYk9GbWxtRk5sOUx4MkJ1bGZNR2Vmb1V5YVUySHpPYWdHTXN0eXdQXzFIdUV3U0F4X3pSTFhNc2JLTzFKYXJCMHVRa2c0cTNUVm5jOTlGa9IBdEFVX3lxTE11YnRuckw5SU52Njd2MWlaZjBkUmFrUGwxT2Fwc1FaVTVsaXhFLTk1YnBIM0NQN0lrbjNKcU1kY1h1YVNkUHlBVjBoRjhXR3VZQThPZWRidTl0VmNPcFNESjZsdTBIZG9aMHpkYnhIblN2aWx5?oc=5",
+      "date": "Tue, 25 Aug 2026 01:09:00 GMT"
+    },
+    {
+      "title": "奥州市の国道で交通事故 ７０代女性が死亡【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10VWJkb19DNG9IY3REWnp0VW1ZV1REdW0yTkxOU0VhY19NME5PaHUxWUpIc3pwd2J6S2tHMnphSjlkTUxKcllIMXB1NFpJdmhrcWdTcUxJcw?oc=5",
+      "date": "Tue, 25 Aug 2026 02:38:43 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岩手県警察 公式サイトを検索",
