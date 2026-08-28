@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-29T00:01:57.819750",
+  "generated_at": "2026-08-29T03:01:22.038855",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 25.9,
-    "temp_max": 25.9,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.7,
+    "temp_max": 27.1,
     "temp_min": 21.1,
-    "precip_prob_max": 100,
-    "precip_sum": 8.5,
-    "wind_speed": 4.7,
+    "precip_prob_max": 96,
+    "precip_sum": 8.0,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 41
       },
       {
         "time": "03:00",
-        "temp": 24.7,
-        "weather": "弱い雨",
-        "precip_prob": 55
+        "temp": 25.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
       },
       {
         "time": "06:00",
-        "temp": 22.9,
-        "weather": "霧雨",
-        "precip_prob": 61
+        "temp": 23.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 22
       },
       {
         "time": "09:00",
-        "temp": 22.4,
+        "temp": 23.1,
         "weather": "弱い霧雨",
-        "precip_prob": 98
+        "precip_prob": 84
       },
       {
         "time": "12:00",
-        "temp": 22.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 24.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 22.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 24.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 21.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 80
+        "temp": 22.7,
+        "weather": "弱い雨",
+        "precip_prob": 73
       },
       {
         "time": "21:00",
-        "temp": 21.4,
+        "temp": 21.3,
         "weather": "曇り",
-        "precip_prob": 31
+        "precip_prob": 25
       }
     ]
   },
@@ -92,14 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "群馬・関越道の６７台絡む２人死亡事故、男女２６人を書類送検…速度調整など安全走行を怠った疑い（読売新聞オンライン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaXNuaWMwUG5OaVhaQUhmdXViVFBDdnRvSXhHcjdLMVJvRW00T1AtblZfN3dQS18tdEZadmtEQlE1WGZHYzBleWNadm1zVFNJbzgtN2hKajJRaGxTUFBxOWxJNzdBQ1NsekJoLTRocVVhdFY2UkJWRGFmTDNva1U?oc=5",
-      "date": "Fri, 28 Aug 2026 07:14:34 GMT"
-    },
-    {
-      "title": "車から降りた2人が死亡した高校生と友人にそれぞれ暴行か 面識ない2人に襲われた可能性 神奈川・相模原市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54NXBIVnY0a3dUeDlEWHFPZURoSFRwN2wwQjI3Tzh1ODd4dmU1Tkc5Tm1lb3NXTElKWThPZjZPOEFZUVp0RVBPaU40NEFhQQ?oc=5",
-      "date": "Thu, 27 Aug 2026 00:52:00 GMT"
+      "title": "時速70キロで走る車に追われたか 鑑定人が映像を解析 相模原市の17歳男子高校生死亡",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVThFSHB6cXp5SXJuR3NaazVjZmlVZlAzb3N0aGEwVnhjd2ZnZE1ucmhkTnNuT0x3ZzZRaE5pQXdwcTBhc0VMSGIxUV9jTWVnSE5tdkxQN1RyWHZaUVdqSWRHdkUwVUNRVzRrR3pIZ2Y5dw?oc=5",
+      "date": "Wed, 26 Aug 2026 02:41:00 GMT"
     },
     {
       "title": "２５年の交通事故死者 神奈川が１３９人で全国ワースト 前年比３０人増",
@@ -112,9 +107,14 @@
       "date": "Thu, 30 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "神奈川県藤沢市の交差点で事故 歩行者も巻き込まれ3人けが",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVF9sZzNlVGZxemR0Nk5FMHJLRWFsN29QTWpIVlFvV1hmcDNNMncyMUNveXRrUkVHaUVYS0pkcGNNX254NU4zYU1tRkJ6X0lsakxhWl9QbnZkUnY0aDJieC1sV0M3N2lCdEhQUE5PZHVYQQ?oc=5",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+      "title": "ひき逃げの容疑で神奈川県に住む地方公務員の男を逮捕 背景に交通トラブルか...車から降りた男性にワンボックス車を衝突させ逃走した疑い=静岡・小山町（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDQ0J1TU9xNW5KT2R0b0pqOVEtV0JVUGYzZllXTWlDaWlYQkR0NlBiRDJiazJkZ2RXaVFhaFlLaGd6YlkwZWp1NGE4Ynd3RWJsR3JOZVNGa2RkdTQtNkwzM0x5VGtKM0ZvRnJvQUQwb2FZVWRPS3VLSUpRTWtLRzQ?oc=5",
+      "date": "Tue, 25 Aug 2026 14:30:34 GMT"
+    },
+    {
+      "title": "【速報】神奈川県相模原市の路上で高2男子生徒倒れているのが見つかる その後死亡 事件に巻き込まれたか",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pN1BvdFplbXFaMnNIa09qb0V4UWx3UDItYnhCVUNud3dFbDNJeWFUR0JrVF9PU0sxeC11M2pnMG15SWVTaDB1cWVuMlY3ZTFCMlY2cFJlVGg0aVlITGpDZGtFbUx6MkFELVllbEpJMXk4dnN5RWt1cW1OT3F6c28?oc=5",
+      "date": "Mon, 24 Aug 2026 00:49:01 GMT"
     }
   ],
   "official_links": [
