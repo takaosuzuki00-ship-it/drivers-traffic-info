@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-28T12:06:04.411632",
+  "generated_at": "2026-08-28T15:04:21.337975",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 34.2,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 34.1,
     "temp_max": 34.7,
     "temp_min": 25.4,
-    "precip_prob_max": 78,
-    "precip_sum": 3.6,
-    "wind_speed": 4.1,
+    "precip_prob_max": 90,
+    "precip_sum": 2.2,
+    "wind_speed": 9.2,
     "hourly": [
       {
         "time": "00:00",
@@ -33,37 +33,42 @@
       },
       {
         "time": "09:00",
-        "temp": 29.5,
+        "temp": 29.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 34.2,
+        "temp": 34.0,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 18
       },
       {
         "time": "15:00",
-        "temp": 34.0,
+        "temp": 34.1,
         "weather": "晴れ",
-        "precip_prob": 61
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 31.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 78
+        "temp": 31.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
       },
       {
         "time": "21:00",
-        "temp": 28.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 53
+        "temp": 28.9,
+        "weather": "霧雨",
+        "precip_prob": 63
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "８月２８日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PNkkxOVczQVlQX0prMWR0RjJPQ3ptdUlEczZKYTNrc2xubWhvVE5uckJHR3p2cjg5NWdDYTR4Ync1RXpUM195ZWRfNlNqRl9mdUpndHNoZ21pVHBVMkhzME1mNmRUdWtfTy1ELUEyempPUdIBd0FVX3lxTE1sZUUtOVJONUM2N2lJWTV4Z1F3NGxUTldtdHBILV9OV3AyNnB2SENuRmd2TjNkLW1GQThfWUM3ZUlxeW9ENS1fMTZ3X2M5ZEY4TjF0MlJLR2R4RFJON1JXblFVMmpKLVlFNzU3RG9FMFpuUVQzdUlr?oc=5",
+      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
+    },
     {
       "title": "８月２４日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RRGZFN0VVRkNMQVg0Nm13SmZ0TzNTTEl1dmlaN1lMLXgwYnBfMFdiLVQtV1VGVlVpZ1o4Snl5TjFUVTFPUnQtMFhMZlZtOWNiQWY3MklMWXlSMTZrY1hsN1VFamljVk9UcTNNY2syckFpUdIBd0FVX3lxTE1RM2k0U0R6Unl2NllQM1M1NUg4enhJOEt3WEJPd3ZVb1E0MkNpOXRLendMNTFEcTRLbzV0ZjJpLTNGVEVDWGxJMlg2QWliZlBrRTgzbVBoVTFvMlpkT3Jnbm02NjlXbEZXam1FSzFSMHU5SjJXVzdj?oc=5",
@@ -83,11 +88,6 @@
       "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByV1ZSVkZPMVZGUVN0XzZORzZpRE1GUDB6bGZsZmJCS0F4bHlFNEdBYzJTVzJBY2E3N3hGeFdkWGxFNlJBOFU2cHpsQWljZUc4SDBvakVuQmtpUQ?oc=5",
       "date": "Sat, 13 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "熊本：熊本死傷事故２年 県警 飲酒運転根絶へ検問 ：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KRTZnU2pqdjc1OG9jMUxaSE5ubHpFTnhFbmRnUDdoa2RobWdJRi1TdnRJLWlUYVB3Rmx0X1cwVFNCOEtNREljeEpuQllfcjFaQVVSVlhrLXZ0Uk5XU2Y3QXYwbFVTWHRBeWRHbDhFZEkxRDhl?oc=5",
-      "date": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "【速報】県道で車3台が衝突 男女7人が病院に搬送 熊本市西区・小島",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZ1ZQczdQZmJyQ2ZELWFwR1lsbENwOXRhekhlVGdubmx5NkVzNEo4LVdjNkdiUU9RdURFSmxkdHBHc3pRZDllbWxtNFdTUU1KOER2QUdlVUZ3Nk9RLXNz?oc=5",
-      "date": "Mon, 17 Aug 2026 13:07:00 GMT"
-    },
-    {
       "title": "【速報】塾からの帰宅途中か…横断歩道で大型トラックにはねられ自転車の男子中学生が死亡",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNkxNeFJIaFhCRWRabnNVbTJqeHlKRUNXczJ5RUlQOGVrSVVMNU5nOW51MGxRbjRDaGpNcXEwYmFiVHRsTTA2bl9TV2YyWjYyM2hRS1V3?oc=5",
       "date": "Tue, 28 Jul 2026 07:01:45 GMT"
+    },
+    {
+      "title": "【速報】県道で車3台が衝突 男女7人が病院に搬送 熊本市西区・小島",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZ1ZQczdQZmJyQ2ZELWFwR1lsbENwOXRhekhlVGdubmx5NkVzNEo4LVdjNkdiUU9RdURFSmxkdHBHc3pRZDllbWxtNFdTUU1KOER2QUdlVUZ3Nk9RLXNz?oc=5",
+      "date": "Mon, 17 Aug 2026 13:07:00 GMT"
     }
   ],
   "official_links": [
