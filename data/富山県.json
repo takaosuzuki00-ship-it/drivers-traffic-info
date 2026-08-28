@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-29T03:01:27.754085",
+  "generated_at": "2026-08-29T06:01:27.202300",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 22.5,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.0,
     "temp_max": 23.6,
-    "temp_min": 21.4,
+    "temp_min": 21.6,
     "precip_prob_max": 100,
-    "precip_sum": 68.9,
-    "wind_speed": 1.5,
+    "precip_sum": 48.8,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
@@ -21,44 +21,44 @@
       },
       {
         "time": "03:00",
-        "temp": 22.5,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "06:00",
-        "temp": 21.4,
-        "weather": "強い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 22.0,
+        "temp": 22.8,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
+        "time": "06:00",
+        "temp": 22.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
         "time": "12:00",
-        "temp": 22.2,
+        "temp": 22.8,
         "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 22.6,
+        "temp": 22.9,
         "weather": "雨",
         "precip_prob": 84
       },
       {
         "time": "18:00",
-        "temp": 22.8,
+        "temp": 22.7,
         "weather": "弱い霧雨",
         "precip_prob": 37
       },
       {
         "time": "21:00",
-        "temp": 22.4,
-        "weather": "晴れ時々曇",
+        "temp": 22.3,
+        "weather": "晴れ",
         "precip_prob": 27
       }
     ]

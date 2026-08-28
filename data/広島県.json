@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-29T03:02:27.274870",
+  "generated_at": "2026-08-29T06:02:23.766936",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 26.8,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 26.0,
     "temp_max": 30.7,
-    "temp_min": 26.3,
+    "temp_min": 26.0,
     "precip_prob_max": 95,
-    "precip_sum": 5.6,
-    "wind_speed": 7.9,
+    "precip_sum": 2.1,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
@@ -21,31 +21,31 @@
       },
       {
         "time": "03:00",
-        "temp": 26.8,
-        "weather": "弱い雨",
+        "temp": 26.5,
+        "weather": "霧雨",
         "precip_prob": 61
       },
       {
         "time": "06:00",
-        "temp": 26.3,
-        "weather": "弱い霧雨",
+        "temp": 26.0,
+        "weather": "晴れ",
         "precip_prob": 39
       },
       {
         "time": "09:00",
-        "temp": 28.6,
-        "weather": "晴れ時々曇",
+        "temp": 28.2,
+        "weather": "晴れ",
         "precip_prob": 14
       },
       {
         "time": "12:00",
-        "temp": 30.4,
-        "weather": "晴れ",
+        "temp": 30.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 84
       },
       {
         "time": "15:00",
-        "temp": 30.5,
+        "temp": 30.7,
         "weather": "晴れ",
         "precip_prob": 94
       },
@@ -57,7 +57,7 @@
       },
       {
         "time": "21:00",
-        "temp": 27.9,
+        "temp": 27.8,
         "weather": "晴れ",
         "precip_prob": 4
       }
@@ -65,14 +65,19 @@
   },
   "enforcement_news": [
     {
-      "title": "8月28日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92ajZZY0dfLXBsNjllck15RkVrOTZxc1ZvMTR4bGpvb21Va1RaakQyWXJhWGRNdTBaYmZ4b0Jfcm9NeHBHU0U0MEotWTBjQVNGYVh6QTQ2RWhDT2lzbnltSl91dHNma0ZZbkgydzN6NNIBdEFVX3lxTE9PbHFiaE41bXR0MUdkZTY3OW1DRHJvME44bHUtaVRJQk5LTHhsRWZ5cE0xNGdvTmZXd0hRcDAxZmtVOHRqTnkwWXIxQXlSVnNoTnRtZzdGSDBKUlBSTXlPZTlWei0yWFpyQUxLWVhYQ0F3YzNs?oc=5",
-      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
+      "title": "８月２９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmxwSGFBSG5uUEFXLWJqVWJ6N1ZSTlVCa3k0ajcyd3g0cG1scFV2U3lDYkhQOEhPemxsYndFY0dNTkJPdl9na3I3bTlBRlhlRjNrX0V4SlZmNVN6dGktTFZyejZwWi14eG5oMjMtRHU2cGMwcUZBNUp6M0NKWWtzUmJiTXJjcmQtR1pkeTBSODdFOWx2dTVaY3JDc0Y3UjNQcjVnc3h1QWhmRWNMTUhfYkdDODNyZTdsQ1FQWEZmeDFlZWxZLTNR0gF3QVVfeXFMTjJrU1NOQkFiNHJYOTdDWWNINE10aVl4MXhFNl9hZkRsQk1aQ1FVWml4czRfN2FHNVMxaFBCQVE5TzFVenhvTW9LYWZBZThYdGdIeGUteHpoMXUtOFJzbldNeGQ2dGlUb0o4THJ0bDZtbHFaVmNGNEE?oc=5",
+      "date": "Fri, 28 Aug 2026 20:10:10 GMT"
     },
     {
       "title": "【事件】広島の男を覚醒剤取締法違反の疑いで逮捕 路上で職務質問",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90cTE3REtkQ3NFQV9EVGN6V1M1MV9qeUFsaTNwVTVPcV9UeEVJYkVBWWZNa3FBT2R0TUdXdGpjMXFUV0F2bnFzX205X2hfNkpZSjRoam1ZWGx2QQ?oc=5",
       "date": "Wed, 26 Aug 2026 04:37:52 GMT"
+    },
+    {
+      "title": "8月29日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZXdsS1BVZDZJem5fRWJYNDhVX2xGblI5Ti0tLTdfdFFDMWJSWjJyU1pvZlhZS3l5MXg4VUlRSmdrV1VjdXl3WFNWeDNzclhFR05OOHpXWUx3b2FHTnNkRFdYZTNua2dPeFJkTjJwMNIBdEFVX3lxTE5KbGcwU2w3Mm4zOE4yNG9rWHV3eXN2YXhkdjJxNS1wNEtpdmJCbWdMbjUtTWxTTHF0Y2lZc0ZRTm5pWWtPUVU5RTgwTHhPLVFfZHo0TWFxZWJlVmc1SFA2TVcyQ3gzQnFJSkYwRnQ1eURJeUFD?oc=5",
+      "date": "Fri, 28 Aug 2026 20:04:04 GMT"
     },
     {
       "title": "【事件】広島の男を覚醒剤取締法違反の疑いで逮捕 路上で職務質問",
@@ -83,11 +88,6 @@
       "title": "風、薫る【生田絵梨花】有言実行！多江さん「看護婦取締」に出世→今度は広島の陸軍病院へ",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNmtXb2VfcDNDdFhmOHdLaldDclktWWtza2hOelhmc3hGRWI3Y3UySGdiX2hWTUhBUnp5clJXY0NnQWRJMXJiWDdwOUU0Z0pRVlZNRkJGWDgySXBYU0dDeTdnQm9wb1ZyWE9kRDdNZENIMnVl0gGIAUFVX3lxTE5IeEtMNk8tSlpWckZlaVRDbG11T1p1QzFwcGVPOXluU3BWdmhhNlZlWTJ0dEVrS1VMOEpTSUtUY25JTVQ0M0JQbmVTbV9GVkxvRGpCX1dtbmFVYlYtRnhSTFpTOHlsc1d1ZkU0NDVCNGVWMjR5dTRmVlhsT0syWmlURWNsZlJVRFE?oc=5",
       "date": "Fri, 21 Aug 2026 00:07:00 GMT"
-    },
-    {
-      "title": "８月２５日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VDVfblFiZGp1bGQ0cjM2NkhXVFVVM3VSNXBrc3MyRThPVnlBc05LcXpzdWR4N1ZkLVJzRlRUZklNODFHN1l2TlRONDJ4MkRUOHVIRFNrQ3NhN0dZbDhIeV9MM1RsS2MwUVBzdVRVc1YzUdIBd0FVX3lxTFBZWW5jSVpCTHF5UV9aVG9HSlhlc3NvM041WU5sYmwxcFotTEpzYzVKVXdFcVhiZHlZRDQtNlVhRU9SbmJob01yMWFTT3JObkpZRURZUVpLdXlWNUxXSGZOSlJMbmdXd0RPdVcyemRXN3cwUDFYM01N?oc=5",
-      "date": "Mon, 24 Aug 2026 20:08:04 GMT"
     }
   ],
   "accident_news": [
