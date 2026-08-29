@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-29T06:02:18.873257",
+  "generated_at": "2026-08-29T12:57:46.900378",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 25.4,
-    "temp_max": 29.2,
-    "temp_min": 25.0,
+    "temp_now": 30.4,
+    "temp_max": 30.7,
+    "temp_min": 25.2,
     "precip_prob_max": 100,
-    "precip_sum": 16.3,
-    "wind_speed": 8.4,
+    "precip_sum": 9.1,
+    "wind_speed": 15.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.9,
         "weather": "雨",
-        "precip_prob": 82
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 25.0,
+        "temp": 25.9,
         "weather": "霧雨",
-        "precip_prob": 82
-      },
-      {
-        "time": "06:00",
-        "temp": 25.4,
-        "weather": "弱い雨",
-        "precip_prob": 75
-      },
-      {
-        "time": "09:00",
-        "temp": 26.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "12:00",
-        "temp": 29.2,
-        "weather": "曇り",
-        "precip_prob": 98
-      },
-      {
-        "time": "15:00",
-        "temp": 27.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
-      },
-      {
-        "time": "18:00",
-        "temp": 27.4,
-        "weather": "弱い霧雨",
         "precip_prob": 71
       },
       {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "09:00",
+        "temp": 28.7,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "12:00",
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 30.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 28.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
         "time": "21:00",
-        "temp": 26.6,
-        "weather": "霧雨",
-        "precip_prob": 67
+        "temp": 26.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
       }
     ]
   },

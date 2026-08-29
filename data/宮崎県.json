@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-29T06:03:02.823271",
+  "generated_at": "2026-08-29T12:59:21.590991",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 25.4,
-    "temp_max": 32.1,
-    "temp_min": 25.4,
-    "precip_prob_max": 33,
-    "precip_sum": 0,
-    "wind_speed": 3.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.4,
+    "temp_max": 31.0,
+    "temp_min": 25.6,
+    "precip_prob_max": 27,
+    "precip_sum": 0.1,
+    "wind_speed": 12.6,
     "hourly": [
       {
         "time": "00:00",
@@ -22,12 +22,12 @@
       {
         "time": "03:00",
         "temp": 25.8,
-        "weather": "晴れ",
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.4,
+        "temp": 25.6,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -39,31 +39,36 @@
       },
       {
         "time": "12:00",
-        "temp": 31.1,
+        "temp": 30.5,
         "weather": "晴れ",
-        "precip_prob": 33
+        "precip_prob": 27
       },
       {
         "time": "15:00",
-        "temp": 31.8,
-        "weather": "快晴",
-        "precip_prob": 4
+        "temp": 30.7,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 30.9,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 30.3,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 28.7,
+        "temp": 28.3,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "8月29日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZXdsS1BVZDZJem5fRWJYNDhVX2xGblI5Ti0tLTdfdFFDMWJSWjJyU1pvZlhZS3l5MXg4VUlRSmdrV1VjdXl3WFNWeDNzclhFR05OOHpXWUx3b2FHTnNkRFdYZTNua2dPeFJkTjJwMNIBdEFVX3lxTE5KbGcwU2w3Mm4zOE4yNG9rWHV3eXN2YXhkdjJxNS1wNEtpdmJCbWdMbjUtTWxTTHF0Y2lZc0ZRTm5pWWtPUVU5RTgwTHhPLVFfZHo0TWFxZWJlVmc1SFA2TVcyQ3gzQnFJSkYwRnQ1eURJeUFD?oc=5",
+      "date": "Fri, 28 Aug 2026 20:04:04 GMT"
+    },
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
@@ -102,14 +107,14 @@
       "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "約20人の列に車突っ込む 70代女性がはねられ死亡 小林市の病院駐車場｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95dnlFM2ZzVElfWFJTdXh5cGVWVnhFNnlaTDNCYVhWU0tXU21QS0dpSWYyV2ZnUmZYQUVLUnRiLU9Bckt6UjdiV1REZ05ZNmNGWGlKWXlicUpRaEZHNmpn?oc=5",
+      "title": "患者の列に車が突っ込み、74歳の看護師女性が死亡 宮崎の眼科医院駐車場",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WWHhESlNzbFZIZXNEQzZBUDFkZ2pxSzk1b0t1SUhCRXNzX3BNMU1laGVMSmwyS0VTWkFPQ2dYQ1hrVXFzQzdpVXJrd2k5bDhVVFJSYkQySG1xOU9VV21ULVFGbVVaazZDRzdMTTdvTVdfTEV2OUE?oc=5",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "宮崎 小林 眼科医院の駐車場で車突っ込む 女性死亡",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82VzRjcjRDcEJ0SGN6VzRvWGcwaThzVFZlazJzdkItQlZzUjBUMnVYbmdmVnB2MldER3lkdkY3MndaVXBKcmRNY1g1M0lNQXRXZFNXd2hNWGtFWENSUU40?oc=5",
-      "date": "Wed, 19 Aug 2026 09:18:46 GMT"
+      "title": "眼科医院駐車場で患者の列に車、女性死亡（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CS3RuUkdzZl95bS15UGswdDdUeFFXOXA3WFN0Nm5DVDktVXBxcnBFLTVtYjMwYk5FYVlWTnB1MGpwVlZUelZmVVdLU2VhNnk5VlFQZUktdnYtVnRHcEpBQnN2ekd2Nk5nb3J5QmVfVjdkbjhLUFdROEMtQlVOV2c?oc=5",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
