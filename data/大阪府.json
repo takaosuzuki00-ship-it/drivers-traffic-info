@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-29T12:57:25.425534",
+  "generated_at": "2026-08-29T15:02:39.905752",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 30.4,
+    "temp_max": 30.4,
+    "temp_min": 25.4,
+    "precip_prob_max": 100,
+    "precip_sum": 10.9,
+    "wind_speed": 8.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
+      },
+      {
+        "time": "03:00",
+        "temp": 25.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 26.5,
+        "weather": "弱い雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 29.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "15:00",
+        "temp": 30.4,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "18:00",
+        "temp": 29.1,
+        "weather": "曇り",
+        "precip_prob": 73
+      },
+      {
+        "time": "21:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 41
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "府警フォトニュース（速度違反特別取締隊出発式）",
@@ -53,9 +112,9 @@
       "date": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "阪神高速160キロ走行で死亡事故、危険運転罪 新基準を適用し起訴 [大阪府]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05b2JjbWRIM1hpbnBrMlA2YkctTC1HYXduRG1GQnNfRlFIVk4tdTBjUmRSUVdMRkRESEhjbkpaNkZybWItZHpTWlhuVXo1ZWVtMmFuZ1ZCT0N6V1QtUUExU3JiUE1IWkU?oc=5",
-      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+      "title": "大阪中央環状線でトラックとバイクの事故 バイクを運転していた16歳少年が死亡 大阪・東大阪市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3dfcFRtSnk0ekxUOWVVUnJPbHBhMDJCM1RURFFKYjVka0JkZUVtMDF5amhGOXFlVExuUU9lTGh3b3pZb1FsMk1SQWtFYTlkZEhJVGRTLWdOVGVfLVdTeHJFRldnRWNoYUlXMjI3bXp6Y0R5dmpSR1lZeVZTYVpjOFJ3VkVjanc?oc=5",
+      "date": "Sun, 23 Aug 2026 00:35:00 GMT"
     }
   ],
   "official_links": [

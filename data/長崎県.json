@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-08-29T12:59:02.496468",
+  "generated_at": "2026-08-29T15:03:42.262899",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 30.9,
+    "temp_max": 31.3,
+    "temp_min": 26.8,
+    "precip_prob_max": 25,
+    "precip_sum": 0.1,
+    "wind_speed": 8.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "03:00",
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 28.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 30.8,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 30.9,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 29.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 27.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "８月２２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "長崎市 田中町で乗用車が歩行者をはねる 道路横断中の高齢女性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiX2tsbDhGMDBsb3pRTkxHZ0ctWnhSNmQxUEdCV0hNc2xBMWdHbDhMc2QzX2djTlhHWTVXWHFrOFhlVmdRU0hHM253OEFtUVNFOVZQd1gtRGk?oc=5",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "長崎市の国道を横断中に車にはねられる 80代女性が死亡の交通事故",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5McG41dHhFV0pUbmxKOWR0dzZQc3VnaTVBeUQ2bnM2c1dFQ1FhMThuVmx6ZDByUDZiVmNpNG9neW1ROUhFdk95bWEzTTFXQQ?oc=5",
       "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "長崎市 田中町で乗用車が歩行者をはねる 道路横断中の高齢女性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiX2tsbDhGMDBsb3pRTkxHZ0ctWnhSNmQxUEdCV0hNc2xBMWdHbDhMc2QzX2djTlhHWTVXWHFrOFhlVmdRU0hHM253OEFtUVNFOVZQd1gtRGk?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "長崎道で樟南高校のバスに乗っていた11人全員搬送、うち生徒1人重傷 鳥栖IC付近で6台絡む事故（MBC南日本放送）",
