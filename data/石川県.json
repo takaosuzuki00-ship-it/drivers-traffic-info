@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-30T23:31:58.826132",
+  "generated_at": "2026-08-31T00:01:48.097211",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 24.9,
-    "temp_max": 29.5,
-    "temp_min": 25.1,
-    "precip_prob_max": 100,
-    "precip_sum": 28.2,
-    "wind_speed": 5.5,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 24.8,
+    "temp_max": 32.2,
+    "temp_min": 23.8,
+    "precip_prob_max": 86,
+    "precip_sum": 0,
+    "wind_speed": 5.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 27.6,
+        "temp": 24.8,
         "weather": "晴れ",
-        "precip_prob": 90
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.8,
-        "weather": "霧雨",
-        "precip_prob": 75
+        "temp": 24.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.7,
-        "weather": "雨",
-        "precip_prob": 78
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 26.1,
-        "weather": "霧雨",
-        "precip_prob": 82
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 28.6,
+        "temp": 30.7,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 28.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 86
       },
       {
         "time": "18:00",
-        "temp": 27.3,
-        "weather": "晴れ",
-        "precip_prob": 98
+        "temp": 29.2,
+        "weather": "快晴",
+        "precip_prob": 31
       },
       {
         "time": "21:00",
-        "temp": 25.8,
+        "temp": 26.9,
         "weather": "晴れ",
-        "precip_prob": 24
+        "precip_prob": 4
       }
     ]
   },

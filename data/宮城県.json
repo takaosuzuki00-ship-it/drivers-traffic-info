@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-30T23:31:02.018225",
+  "generated_at": "2026-08-31T00:00:52.584611",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 19.5,
-    "temp_max": 21.0,
-    "temp_min": 19.1,
-    "precip_prob_max": 100,
-    "precip_sum": 19.1,
-    "wind_speed": 6.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 19.4,
+    "temp_max": 24.5,
+    "temp_min": 19.3,
+    "precip_prob_max": 94,
+    "precip_sum": 0.3,
+    "wind_speed": 7.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.0,
-        "weather": "霧雨",
-        "precip_prob": 76
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 65
       },
       {
         "time": "03:00",
-        "temp": 19.6,
+        "temp": 19.5,
+        "weather": "曇り",
+        "precip_prob": 57
+      },
+      {
+        "time": "06:00",
+        "temp": 19.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
+      },
+      {
+        "time": "15:00",
+        "temp": 23.9,
         "weather": "弱い霧雨",
         "precip_prob": 94
       },
       {
-        "time": "06:00",
-        "temp": 19.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "09:00",
-        "temp": 19.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "12:00",
-        "temp": 20.9,
-        "weather": "曇り",
-        "precip_prob": 78
-      },
-      {
-        "time": "15:00",
-        "temp": 20.9,
-        "weather": "霧雨",
-        "precip_prob": 100
-      },
-      {
         "time": "18:00",
-        "temp": 20.0,
-        "weather": "弱い雨",
-        "precip_prob": 98
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
       },
       {
         "time": "21:00",
-        "temp": 19.7,
-        "weather": "強い霧雨",
-        "precip_prob": 98
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
       }
     ]
   },
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "仙台市若林区が死亡事故ゼロ１年 宮城県と県警が表彰",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ba3ZLR3NfV0tENkJsT0kwRjJmbUVGVHljeUFrVmZ2V2llellsZFkxUmlPUXpNQWJBMkRORUktb24ybVZZeXNDMXZtb0tIZ2J1Tnp0X05HZjV4TW5JUDBfQQ?oc=5",
-      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "夏は疲れによる交通事故が増加 夏の交通事故防止運動が始まる",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMnVnY2FaQUp0VFUzQXVoNU1qbjhNbndDRkVnN2E3VFNELW9TZkFmcWtLbTBwT09JejlHM2dpN1NzSEh5d2hyMW04NmZEclU?oc=5",
       "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "仙台市若林区が死亡事故ゼロ１年 宮城県と県警が表彰",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ba3ZLR3NfV0tENkJsT0kwRjJmbUVGVHljeUFrVmZ2V2llellsZFkxUmlPUXpNQWJBMkRORUktb24ybVZZeXNDMXZtb0tIZ2J1Tnp0X05HZjV4TW5JUDBfQQ?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "東北6県の交通事故死者は昨年213人 「交通安全のための行動を」",
