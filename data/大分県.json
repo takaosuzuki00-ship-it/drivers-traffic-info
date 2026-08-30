@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T11:23:11.271093",
+  "generated_at": "2026-08-30T23:30:06.984266",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.8,
+    "temp_max": 30.5,
+    "temp_min": 25.5,
+    "precip_prob_max": 100,
+    "precip_sum": 0.1,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "09:00",
+        "temp": 28.5,
+        "weather": "快晴",
+        "precip_prob": 43
+      },
+      {
+        "time": "12:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 29.5,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 28.4,
+        "weather": "晴れ",
+        "precip_prob": 51
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月３０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BcDc5OEJKSzZoOW9WZjJfVGJRc1dFMnpMMGNJdXcwSVlSYmk3WlZHMnJVY2dxcGpqc0VwemF6N1ZXN3JBa29OVzhGX0dBeWxoajBvaS11V1lGVktnS0E4cWg4ZVF2T0I3U3lqemlkSDJCd9IBd0FVX3lxTE9YRmhlWUg1amdJSjR5dnk4eGE0LURCZzRPSTY1NDNuWWNndkNSY18tNWoza25PTzNqWkZEQ05sZTVuTWVKa1lrajY3LVNpVkpwWGNNanZ6ZjV2bGQ0YWl3RG1DRzR1X0RwV0J4aEVHUS11dnhmZHU0?oc=5",
+      "date": "Sat, 29 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月28日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92ajZZY0dfLXBsNjllck15RkVrOTZxc1ZvMTR4bGpvb21Va1RaakQyWXJhWGRNdTBaYmZ4b0Jfcm9NeHBHU0U0MEotWTBjQVNGYVh6QTQ2RWhDT2lzbnltSl91dHNma0ZZbkgydzN6NNIBdEFVX3lxTE9PbHFiaE41bXR0MUdkZTY3OW1DRHJvME44bHUtaVRJQk5LTHhsRWZ5cE0xNGdvTmZXd0hRcDAxZmtVOHRqTnkwWXIxQXlSVnNoTnRtZzdGSDBKUlBSTXlPZTlWei0yWFpyQUxLWVhYQ0F3YzNs?oc=5",
+      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "８月２９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxMHhsSWhxbi0yVHNvSXlIb2Zma19QSjRXNGpyRl9nRUxwR3QtWFR4RGJ3RWFmWmNtNkVkc0hnbG1lNFh2eGFYNU5ieDdUckpkaFVCN0xLdzhJaDFZUC13NF9oX0RkRlZ6U2oxaFVSQXRHd9IBd0FVX3lxTE4ya1NTTkJBYjRyWDk3Q1ljSDRNdGlZeDF4RTZfYWZEbEJNWkNRVVppeHM0XzdhRzVTMWhQQkFROU8xVXp4b01vS2FmQWU4WHRnSHhlLXh6aDF1LThSc25XTXhkNnRpVG9KOExydGw2bWxxWlZjRjRB?oc=5",
+      "date": "Fri, 28 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "“4カ月逃亡”の末とうとう発表 れいわ山本太郎代表のオービス・スピード違反は「人命軽視の69キロオーバー」サーフボードを載せたアルファードで大分の高速を大爆走（デイリー新潮）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ockFYUk5kcXJhTTBMSlhXSWUwdTVXRUs5Y1ZtOHhVMlRGcHQ4S2Etc1pQSmJ3bjdqam5OZFI2a2c4Ul85OE9USEJLSmt5Q0twOVpJQVpzLUI2dEw3RTEtNzRUTjVlajNkZkNqc3gwM2RzeDFqcU9fTEx6UE5QYjg?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "高齢者運転者の交通事故防止について(大分県警)",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNYWVscWpjdzJNZUZISmNpUVdsdUFSUFRxM2tSUzgxbEFoM1d1VHRQRC1HY0J4cDVRRGVqVE1TY2dKTG5SbHRBdHFfbmVFNERScTdiYkxKRnB3cWF1NmxWYjNpWUZOem1sN2NkQVpPODNYa1N3RlEySnZ2VkVVSGZpdUpHV3QwTmVZeHNwNThKMWxSOXJidGFrRjR2WWlsaGN4WHV6TzdZOFk3NVJ2QmJtQ0xjUGE3WHN4SUpzS1VXNE9kRkY3d2YwSVpremg3OVBLZ0FTME9WLVhVcDgxTWtVUHBCSnZ0N2JPWkhfdHFEQzhCTTlLLXptblZheXRCQWxackt6eVU0T1lNc2E2WEJhWGNxanQ1MWNJTUJXY3JUb3VBcF9iQ05POXl3blVMTTJpWnNvTm9fR0YxcFp4d3Z0NEQ2VktFbE5MM2c4cGNMTDNUQkE?oc=5",
+      "date": "Thu, 27 Aug 2026 02:26:04 GMT"
+    },
+    {
+      "title": "観光バスなど計5台絡む事故 乗客ら10人以上搬送 大分自動車道",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNWpxcWp1YlJqQW1aa1RfeWVCblZkZTV5Q2xuQzdfSVZQS2lLYzlGQnlfd05SR1d5SEF4Y1ZURG5aVU5DejFyVTdZNkR4ZW1hZThUdThVenBqenFKRHFMQ1hOV3dDODQ?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "運転の79歳男性が死亡 軽乗用車が民家の塀とガードパイプに衝突、カーブで対向車線はみ出す 大分（OBS大分放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSE8wWm9WLTJyek9ncnJGTnBNVC1iTWpMOUJ1UU45UlNpZF9PSkVmUXJMdGZzMHFjdmhhQ2ZYYU4wM0IwMVF1OHZHWnFITGVnS1BPUzNJTmtaRXdxbW1FbzBfZGx5SnVReW9fSG9XU0JidFpmZGRWNWtXUWV4dFE?oc=5",
+      "date": "Tue, 25 Aug 2026 09:24:19 GMT"
+    },
+    {
+      "title": "防犯カメラに事故の瞬間 軽乗用車が住宅の塀やガードパイプに衝突 79歳男性が死亡 大分県佐伯市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdVozN3YzRG9MalBrazdZcnV1dHFDU3JOU3NhdTVxcVN3N3lDclYwY2c3UHRjZmZVTEdNS3JUX1dGcnJQVlZNVGRBSjEwQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 09:20:00 GMT"
+    },
+    {
+      "title": "チェーンソーで切り倒した17メートルのスギの下敷きに…作業していた男性（53）が死亡 大分（OBS大分放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94YXN0R2JvbmZsNUNJMUxHdktadUZfaUlUeFd1cy01Yms1OERiNmtUN25BbjlPam01Z3I2ZjNScEVmUmdRZ2FTX2RBbld4SkhtZ3V2cERJM1h3U09XZVJPUnhXenhPcXpfbmN5bjFpS0txYmVNZjh5MGRzZ19vblk?oc=5",
+      "date": "Fri, 28 Aug 2026 10:20:27 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大分県警察 公式サイトを検索",
