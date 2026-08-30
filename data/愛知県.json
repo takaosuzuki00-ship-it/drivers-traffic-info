@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T13:20:06.323487",
+  "generated_at": "2026-08-30T23:32:22.910860",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.4,
+    "temp_max": 32.6,
+    "temp_min": 25.4,
+    "precip_prob_max": 84,
+    "precip_sum": 0.4,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "03:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "12:00",
+        "temp": 30.9,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "15:00",
+        "temp": 32.4,
+        "weather": "晴れ",
+        "precip_prob": 29
+      },
+      {
+        "time": "18:00",
+        "temp": 31.0,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月28日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92ajZZY0dfLXBsNjllck15RkVrOTZxc1ZvMTR4bGpvb21Va1RaakQyWXJhWGRNdTBaYmZ4b0Jfcm9NeHBHU0U0MEotWTBjQVNGYVh6QTQ2RWhDT2lzbnltSl91dHNma0ZZbkgydzN6NNIBdEFVX3lxTE9PbHFiaE41bXR0MUdkZTY3OW1DRHJvME44bHUtaVRJQk5LTHhsRWZ5cE0xNGdvTmZXd0hRcDAxZmtVOHRqTnkwWXIxQXlSVnNoTnRtZzdGSDBKUlBSTXlPZTlWei0yWFpyQUxLWVhYQ0F3YzNs?oc=5",
+      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
+    },
+    {
+      "title": "８月２５日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VDVfblFiZGp1bGQ0cjM2NkhXVFVVM3VSNXBrc3MyRThPVnlBc05LcXpzdWR4N1ZkLVJzRlRUZklNODFHN1l2TlRONDJ4MkRUOHVIRFNrQ3NhN0dZbDhIeV9MM1RsS2MwUVBzdVRVc1YzUdIBd0FVX3lxTFBZWW5jSVpCTHF5UV9aVG9HSlhlc3NvM041WU5sYmwxcFotTEpzYzVKVXdFcVhiZHlZRDQtNlVhRU9SbmJob01yMWFTT3JObkpZRURZUVpLdXlWNUxXSGZOSlJMbmdXd0RPdVcyemRXN3cwUDFYM01N?oc=5",
+      "date": "Mon, 24 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "愛知県８警察署 合同検問を実施：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWHYyemZrX2NxWGJlNl9VMVdsNEJjd2tFcXhmdmZCdG9xM2lORm1fTGZyQndNOE1BRXBPRVlpbDBpRmFTN0VPbXQzN01lRmRCTnJDOUU1SDBramxMMUg4MERtSTNhNDFuRi1zbFZSNHM?oc=5",
+      "date": "Tue, 05 Aug 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "スピードワゴン･井戸田潤さんが交通安全呼びかけ 七夕の短冊には… 愛知県内の交通事故死者数は全国ワースト2位 名古屋・中川区",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZjFvVEdaTVJNdGQ0dVhjVk9BNF9leDA1NjdudktVM2c3UUdaVm52anJTMGRGWXh0aTBmRDFNME9UQ05XQVlxcFNmMlpDMFFYTl9VODhfS0dwVTQ5NFZN?oc=5",
+      "date": "Fri, 28 Aug 2026 23:30:00 GMT"
+    },
+    {
+      "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
+      "date": "Thu, 18 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「連休中の交通事故にご注意ください」 交通事故専門の弁護士法人しまかぜ法律事務所がコラムを公開",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaUVFUWlBJblJxQlY0Y1h0R2I0VHFUTlBPak9zd0U0UnBsU3FEOGhyZWRHS0lUY3pqdmRBVERscXkybkZZd2xtRGdZZHB0dw?oc=5",
+      "date": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒に酔って運転し信号無視で事故か 女性がけが 58歳男を逮捕 愛知・阿久比町",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWV2QlY2Z2VJOTNBNzVEbUFITi02TU1rTlY1b0l4SmI1cWlJUnRic2F0VnNYMnAzM3FoV1VWeWNMRFY4eHlESnNlSi04bWVCMU9xNE9hajhweXNxbUxSMjJHRWhwTnVFZnpHaTZwY1g1dG40dXdmY3Y5bHdsTHctanBXMV92UUk?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
+      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",

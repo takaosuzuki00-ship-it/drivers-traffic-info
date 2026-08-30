@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T12:26:04.367364",
+  "generated_at": "2026-08-30T23:31:06.545372",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.0,
+    "temp_max": 22.1,
+    "temp_min": 19.2,
+    "precip_prob_max": 100,
+    "precip_sum": 7.4,
+    "wind_speed": 12.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "03:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "06:00",
+        "temp": 19.2,
+        "weather": "霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "09:00",
+        "temp": 19.3,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 19.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "21:00",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "衆院選に向け県警察本部が選挙違反取締本部を設置（2026年1月24日掲載）｜ABS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVVCTzFCS3BtWUs1RFJfY3BSWldndE14dm52WjRIMDYwUFh5YzQ2SmxWMktEd3VLNVRfdUQ3YTB1RENDYzI4UDYxUmRWa0Y5MVY3cV9ESWdHMlM4Um1CRUFIQzIwcGxsZnpXUkFQclhoRlRxN05XWjBKX0xBaWZ5Nk9GbU5zVWM?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKeHFteFh3STNnTWQ5Uk5QOTRnVXJPekZhSEhzaEQ3eUZzSFllMzBRSzVTYU4xU3dXbXpUZUo0MWVXcG1ZMl80OFhhZHpDcVZ5TDF5c1RDYlF3VFcxMUNZMkNn?oc=5",
+      "date": "Sat, 29 Aug 2026 06:26:53 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "秋田道、交通事故のため通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkYVNDZGc4QXpabV9JQVZLd2ZsOTJoRzhtSUhVUUxDSGt6V3RuS2tTM1N2N2xxbGFqazA4YUZtYUJNQTUzNVMtN2kwcS1oM3NKLWRxVElzQmxjM1g3ZzlHVw?oc=5",
+      "date": "Thu, 27 Aug 2026 07:27:00 GMT"
+    },
+    {
+      "title": "車同士が衝突し男児など2人が大けが 由利本荘市岩城の国道7号 13日 秋田",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS25UREw5UGFkLXpYdDg3UkxEc19LZ09BczY5SHhfQWRxYW1icXRyLVZ5amZBWEdvWHVteW0tU1RYWVhGRWQ1QS1xSmUtdEVkMUlJbHhFOXA0UG1mZHJJdlY2aUxXRUw1ZmRnYVBWU0dRbnBxZG9JYmF5cDdzYnVRUGhvUlBpbFU?oc=5",
+      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "乗用車と軽ワゴンが正面衝突、5人重軽傷 女子児童は頭の骨折る大けが 秋田・大仙市の国道13号",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5WFRaYXgyUXRwNXM3andlV0w4dFhHYmt3UE9pQmRqenhDc1didGJWQ2Rsc2dzN3dwRnVSaS1tM2lKOWFmcTM1TjBiNGxKUQ?oc=5",
+      "date": "Mon, 24 Aug 2026 03:00:00 GMT"
+    },
+    {
+      "title": "交通事故防止に貢献 秋田市の桑原さんに「警察協力章」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuQWlEcm44Z1RYZm8taWVJcTdiT2JUYUp3MjVWcHkxZUpTRGJqRFN3VE1zMUpHZUNzaEZoejZwcDJrRE5VYWpNcHZUUHM5bU1kY1pmLUxpMFpvZlBEWDctd0lR?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "風車事故、立件見送りへ 秋田、羽根落下し男性死亡（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSXZfUHBySFY5TVdwMzdKVE5rMllCM1J2S09SbnFfbTg4eE93d3JNN2htNkN0akdoU1duT3d5bm11UlRVUDR3ZTdHVkJvVlhQbnJtU0pfRVFGTWRQdi1DYXgtbGNOeTgzUG5uUU5YeUNvcWdTZHZ1a0gyUTRXVk0?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",

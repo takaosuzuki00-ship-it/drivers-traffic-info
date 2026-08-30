@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T13:44:07.612155",
+  "generated_at": "2026-08-30T23:32:57.860571",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.5,
+    "temp_max": 30.7,
+    "temp_min": 25.6,
+    "precip_prob_max": 94,
+    "precip_sum": 1.0,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "快晴",
+        "precip_prob": 63
+      },
+      {
+        "time": "03:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "09:00",
+        "temp": 29.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 30.3,
+        "weather": "晴れ",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 28.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 26.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 27
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "夏の交通安全県民運動期間中 交通事故は前年より3件多く16件 速度超過の取締は前年より25件増えて282件 鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzNVQktSdGNLbWh4SFJLSVhhNjd5czlueUFsbkwwSG5ocjZGSDhFQWdJeHd2MDA5S0tRSzFJRDF5c2RydTNaLXQzZ2VfRmpTbWNpeVBrWTE5SzlmZm9fMFdwV3dHdVlIV0RBNFNTUUpoaWpDdURGQUdxZVZNM1dSYUQ4S3ZCdGs?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋の交通安全運動 期間中の交通事故や取り締まり状況を県警が発表 交通指導取締状況は前年度より265件増加 鳥取県",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdE9JTWd2UkJCVE80b3lpVEdOd2p5ajRJUnhkdmVNTEZndW90alEzN2UyazROLS1KZ3RaU2tFZVNvMTVhUW5Dc0hHSVZTcmd5a2twX0R0M3M5MUdvUms4ZUJRd2xtWF9Rd2FUaVZnNTBYM1ZiZ1E2ZDdXV2VTWjNDdnJjTm9XeW8?oc=5",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県（2026年6月19日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbDI5X09lWFhqVGE3dDlPN0RlU21Jb1RXMmVYQkc2NFFNSXVkOTFLdVZzNXFzYzhsdmJ3c25qeFlTclpyOEI5U0luLWY2ZndDWEVjaUNRdi1KSEhXWGVlVTR1ZFRuRVFSSmo2Vjg4LW9XaktaUnVfbmFMV1d4djg?oc=5",
+      "date": "Fri, 19 Jun 2026 10:09:27 GMT"
+    },
+    {
+      "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FDM3A4NXpBa2REdlFER3l3Z19uRUNTN1otY2l5WEpqVzVYMlFiaWE4bXJIQ1RBbFpMMGpUNVdJMzR6TzdJZ1JFM1c0bHJxOXZPQkRlWFhPWVBYcml1V18xckwxbkxSaVVlR0tKM010cVJ3b0diVUhRSDdyaDMwT2NLZWxtb2s?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "時速17kmオーバーで「逮捕」!? 速度違反で\"住所\"と\"氏名\"隠した84歳男はなぜ「青切符」で済まなかったのか？ 元警察官が解説",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BQWlUV3daUWVHeWFBalNDaVlqbWRxSzJHWTZWaTYxSFdIUEFyMzZWX2dRVHhBdDNseGdvc3hsVzZUVjBOb0FmY2N6cw?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除（BSS山陰放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Uno1ZEFQLTBBbERPbTlYNDFpWU5LTVU2c0oxd2dFNnA2NkYxMGJFVnpEeHVHZno4M1A5RDl4NmwzVUE5SUEyT1JBcnk0WktrcF9JU0tIZHJvY0VCNlNiRW9SU0xPclFRSDNjbDBveENhT3IwNjEzYmozNUk2azg?oc=5",
+      "date": "Sun, 30 Aug 2026 08:34:12 GMT"
+    },
+    {
+      "title": "鳥取道で事故 河原ＩＣ―用瀬ＩＣ間、通行止めは解除",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VbW5nSHhLUVg3ajNuNDFWTzI5cEdhZjV0Tjh6UU9pREhyeVJSckFvZ2lXWFZPTk90Z3B1aklscVN5eXZDTkR4Q1NEVklOUG1Z?oc=5",
+      "date": "Sun, 30 Aug 2026 04:55:00 GMT"
+    },
+    {
+      "title": "5人救急搬送もいずれも意識あり 鳥取市の県道で車3台が絡む事故 | BSSニュース | BSS山陰放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kN2IzSWZlbTZzMWJGZlZHeFpKT0hqbk56dFdaazlyUGVFa3d1d0tiX09uMndYZzVXVFBWcDVMOFlOQ21aUVdVMGsxR1JiTkgxWlhsVmNlMXYzNmw3em5QekVwaTFFTHc?oc=5",
+      "date": "Thu, 20 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夏の交通安全県民運動期間中 交通事故は前年より3件多く16件 速度超過の取締は前年より25件増えて282件 鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzNVQktSdGNLbWh4SFJLSVhhNjd5czlueUFsbkwwSG5ocjZGSDhFQWdJeHd2MDA5S0tRSzFJRDF5c2RydTNaLXQzZ2VfRmpTbWNpeVBrWTE5SzlmZm9fMFdwV3dHdVlIV0RBNFNTUUpoaWpDdURGQUdxZVZNM1dSYUQ4S3ZCdGs?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夏の交通事故防止啓発 鳥取県民運動スタート、米子で推進式",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15NkMwcVJEWUZzc3Iyb3RZeHNZVGZVYkhuZ1IwQV82a3JiazAyX1U2NUdXcGdobHk0MjFNa2tEdm56OUFxaGxrWXN5Zw?oc=5",
+      "date": "Mon, 24 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鳥取県警察 公式サイトを検索",

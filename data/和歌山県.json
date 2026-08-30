@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T13:41:07.535346",
+  "generated_at": "2026-08-30T23:32:52.822540",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.0,
+    "temp_max": 33.2,
+    "temp_min": 26.0,
+    "precip_prob_max": 65,
+    "precip_sum": 0,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 32.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "15:00",
+        "temp": 33.2,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 6
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "和歌山県 漁業取締船「みさき」就役披露式",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZ2pMMC12cmMydG83aXktX1ZBbzRubzJpa0NaOFdXSll2ckJKMlllV1pzRk1pZTUweUhSaHd3bkM3b0U?oc=5",
+      "date": "Fri, 31 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の酒気帯び運転疑いで摘発された和歌山・湯浅町議、議会が辞職許可…議長「こんな大ごとに」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWa1lVU1p4cC1PU1hUX1FuaU5Nd3ljS0ZDVmJuNmR4emVEVnJEalV5V1lYOVo5am5NZ3cyUjdORVJEaTBSSDdCZ1JkZTJTZG9STjlZMzAySmtTR3RtMXdtVlMwOXA3dw?oc=5",
+      "date": "Tue, 10 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "正体判明！最新のレーザー式速度測定機LSM-200はオービスではなくネズミ捕り用だった!!",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15UjJ3SWlGdlhEVTNsZkkzSWdkanFZQ0t5d245YVB3UUpGX20zQ3NjbmVUcXpMd1phekxDNkVqT0pzN01fMXltUGt2T0hOWkVf?oc=5",
+      "date": "Wed, 11 Mar 2020 07:00:00 GMT"
+    },
+    {
+      "title": "京都で「新しいオービス」設置！ まさかの“長いトンネル出口”でパシャリ!? 全国で続々導入の「“半固定式”オービス」どんな特徴がある？",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1USlBqVGpIZmtZNnRGTTYxSXdIcTZrNjNXdklsUHJHamJ3TXZEZ1F1eU5kMmpvaXhNcmNxN0pmS2J5N2ZVdlB2RzB3Q0lIbTMyTG43ZUlkSnpkdnluRFFR?oc=5",
+      "date": "Wed, 02 Apr 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "水位低下した九頭竜湖から一部白骨化した遺体 和歌山ナンバーの軽自動車の中から見つかる 警察が転落事故とみて捜査",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQN3N6RDNWT2RVejhlTFJGWGlhd1ZNYU1tbkZoWXZIdHNsV0xSS0RoNVN6a0FYOGdUcVlRbkk4bDItSll4V2JDeFRqdXpMa3ludlJSSGpLMXJYNTdiV0x3bmQ0Ti00dHZpbVpRXzU1YWtmcHdnWnllZk9jYXR2NktpYUZSUHJqU0dvMzZqdXNENm1Pd01MeVoydjd4b2xLMGZaV1hYRkl0dTJLeWFWU2Fta1pGV0VndldNSG9QTnJTQ0pFM1RyRmdZdVZ3Yi02ajlxOVh3M0NOUE04cEp4SDJkamlEd2VEZXZFQlRkZU96R21jc3dUYjV5bDJqdmExUThSQjkzN0k3TDMxeFlCX2lIRFdnaHZlSkRDY05LRVN6NEhPVVNEeHpMdGFBdzhiSnVLMGNFVUV6ODdyR1ZZNTZmWHQ2VlB2UWZGVTVBMUdVMjBDOGR6RlZZbQ?oc=5",
+      "date": "Wed, 26 Aug 2026 14:10:00 GMT"
+    },
+    {
+      "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOTlHRmt4VExKVE00OTNqZTQ0NmhFUFlIOE8yZERlbGtURDA4ZmZXNU91Sjdhc3BPUDVqM3pGWG1Yb2FvN1FJTlNKU2tQQXByVGNHcFZHVmloRmNheHN1cndLRnoxakhk?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【多重死傷事故】女が無罪主張 「てんかん」でない可能性を主張 死亡女性遺族が申し立て再捜査を経て起訴 事故5年目の初公判で 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQmNLU0hMaDdzRE1XVUpFb0pGb3ZmX2VmWmtRWFhHRVFhUTQyV081X3E0X0toWm5icFRtWEdqa2FCTDh5b3ZyVDUxcDAyNGpnN05GeVhiVUVMTHZUWGhHQWRKTEtJUGo5bFJqR0lCWVJPSnZqaFB0Z3M2Rjk0RTA?oc=5",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「1台が横転 中に人が…」6台絡む事故で4人を救急搬送 和歌山",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3RzFwUVJYTFB2bTVTV01XZDhPM0RNMlZQelRDNGpsS282SEtDUFJnTVMta3ZReWZWaElwaVZnMkx3NmFlNnpnSUtlMldsdGJoYVVGazFPSEVrWmlNN01FRW0zeHBWLUFUTnVxQ3VqeVdzUQ?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高知・和歌山・福井・ボディーボード中に流された母親を泳いで助けようとした男子大学生が行方不明…各地で水難事故相次ぐ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zdS1MTnBmVjY3RXlKbWhYMllyZWNMeWFjU1BZLVdVOERUdW90di04Z1Bpd1BsV1kxQzA4VTEwSU83d2IxcGlfVzlCeS1NSGZuMnRWMGpoS2VhWEh4RVQyMEhyVWdVb1B4eUJYZU1hd2FwUQ?oc=5",
+      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "和歌山県警察 公式サイトを検索",

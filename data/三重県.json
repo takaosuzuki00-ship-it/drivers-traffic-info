@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T13:23:06.482297",
+  "generated_at": "2026-08-30T23:32:25.884084",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 26.8,
+    "temp_max": 33.7,
+    "temp_min": 26.2,
+    "precip_prob_max": 94,
+    "precip_sum": 0.8,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 30.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 33.1,
+        "weather": "晴れ",
+        "precip_prob": 65
+      },
+      {
+        "time": "15:00",
+        "temp": 32.2,
+        "weather": "晴れ",
+        "precip_prob": 78
+      },
+      {
+        "time": "18:00",
+        "temp": 29.4,
+        "weather": "晴れ",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 27.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 37
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月３０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BcDc5OEJKSzZoOW9WZjJfVGJRc1dFMnpMMGNJdXcwSVlSYmk3WlZHMnJVY2dxcGpqc0VwemF6N1ZXN3JBa29OVzhGX0dBeWxoajBvaS11V1lGVktnS0E4cWg4ZVF2T0I3U3lqemlkSDJCd9IBd0FVX3lxTE9YRmhlWUg1amdJSjR5dnk4eGE0LURCZzRPSTY1NDNuWWNndkNSY18tNWoza25PTzNqWkZEQ05sZTVuTWVKa1lrajY3LVNpVkpwWGNNanZ6ZjV2bGQ0YWl3RG1DRzR1X0RwV0J4aEVHUS11dnhmZHU0?oc=5",
+      "date": "Sat, 29 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月29日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZXdsS1BVZDZJem5fRWJYNDhVX2xGblI5Ti0tLTdfdFFDMWJSWjJyU1pvZlhZS3l5MXg4VUlRSmdrV1VjdXl3WFNWeDNzclhFR05OOHpXWUx3b2FHTnNkRFdYZTNua2dPeFJkTjJwMNIBdEFVX3lxTE5KbGcwU2w3Mm4zOE4yNG9rWHV3eXN2YXhkdjJxNS1wNEtpdmJCbWdMbjUtTWxTTHF0Y2lZc0ZRTm5pWWtPUVU5RTgwTHhPLVFfZHo0TWFxZWJlVmc1SFA2TVcyQ3gzQnFJSkYwRnQ1eURJeUFD?oc=5",
+      "date": "Fri, 28 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "8月28日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92ajZZY0dfLXBsNjllck15RkVrOTZxc1ZvMTR4bGpvb21Va1RaakQyWXJhWGRNdTBaYmZ4b0Jfcm9NeHBHU0U0MEotWTBjQVNGYVh6QTQ2RWhDT2lzbnltSl91dHNma0ZZbkgydzN6NNIBdEFVX3lxTE9PbHFiaE41bXR0MUdkZTY3OW1DRHJvME44bHUtaVRJQk5LTHhsRWZ5cE0xNGdvTmZXd0hRcDAxZmtVOHRqTnkwWXIxQXlSVnNoTnRtZzdGSDBKUlBSTXlPZTlWei0yWFpyQUxLWVhYQ0F3YzNs?oc=5",
+      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月25日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQzhHYWtsdkRoYTVMVlNMc1V3a0ZCaGI2M3B3T0tpNGQtQXVqbjZWamI3UXRwSDlZQUVtbTlPRHFoQVFWb3g4RWRFMHA4NHNsbDctazNTeWdUdEdKSnJiU0JSM2ZyYUN1ODA1dUdHc9IBdEFVX3lxTE11T2FQU1RwMXpKc2VHejdycUZmRGJzcU10LWdhbTMwRWpfLTQ4WmJ3c2IyeEhoakhKUEtxTUtoZWc4X2IxNVdxWVNHN01aYldGbmhqMmlheWl0bFNXQ3pCbzJkNlpTRGRRNnpaR3Q5QkpkTC1j?oc=5",
+      "date": "Mon, 24 Aug 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "三重県で交通死亡事故が急増…県警が出した答えは「赤色灯フル回転」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rampWVllYaVN0dnBsZy1OOTdMOFdiSXFhNDduU0dRRjFSYkEtRnBvak91ZFRyU1dDMnYzeGo1VUZodnhRc0xGX2R5MlZydzJyZEVwQWcyenpsOU9lOVBTM3VYdnFOSVU?oc=5",
+      "date": "Sun, 16 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "三重･志摩市で3人死傷の事故 車を運転していた59歳男を危険運転致死傷の疑いで逮捕 速度超過などの新基準 法改正後県内で初の適用（CBCテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MM21idUFTVkFPYkZSU0xlbmoteEdFbXY2ejgwbktWYlQxeVBpM0VMQ0ktR3JXb3lvTU1HcFZyNjUxVXNSR3lpcE42WklrNGNFWnBZTHM2Wm5QdnZWZUpPNHp3dnlhYTFGS2IteFhYS3NKc1dvVWZBLWxpNGNQd1U?oc=5",
+      "date": "Fri, 28 Aug 2026 03:12:16 GMT"
+    },
+    {
+      "title": "三重･志摩市で3人死傷の事故 車を運転していた59歳男を危険運転致死傷の疑いで逮捕 速度超過などの新基準 法改正後県内で初の適用 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLWJzWlJiU3d3TVVzdi1FcGtNZnpFOTJ5VmR2V2JoUFZLRGxUYU5jSkNyWDFfZE9sTzUtVkU2SWJxRUdCaGcyNWNWclNLREN5bGFlX2w1ckxZQQ?oc=5",
+      "date": "Fri, 28 Aug 2026 03:11:00 GMT"
+    },
+    {
+      "title": "損保ジャパン、三重県警と包括連携協定…サイバー犯罪、交通事故防止に向け：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zWDh3MDZKZHNKWDg1cHhzQzZYNUlEaUpraXFGRmU1REhXLUtHcDN0dFZKeGQ2aWNsSzhqU09JNW1IZnFJS2tXZnRuTjBLSFRDQTRLUkU3SS1Pd3lDRU9EeDJSM0JMMWpZcGhmWjJzaDg?oc=5",
+      "date": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "松阪署管内で交通死亡事故多発、「異常な多さ」 三重県内でワースト、飲酒運転防止へ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHWGFWdkhzbmxya2prQmtkd0h4cjNDbmJEdkpKekttaW9wZ3pSV0RBUjl3TTl0SUszOEpqZkNBLURmWld3cFkwc3phUQ?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "三重県警察 公式サイトを検索",

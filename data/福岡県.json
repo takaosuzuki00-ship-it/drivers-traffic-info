@@ -1,30 +1,115 @@
 {
-  "generated_at": "2026-08-30T23:29:18.616959",
+  "generated_at": "2026-08-30T23:33:35.694373",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 27.0,
+    "temp_max": 31.5,
+    "temp_min": 25.5,
+    "precip_prob_max": 98,
+    "precip_sum": 0,
+    "wind_speed": 3.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 29.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 30.8,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 31.1,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 29.8,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 28.1,
+        "weather": "晴れ",
+        "precip_prob": 75
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警部補が交通違反摘発で虚偽書類、１６００件取り消し・返金へ…「仕事出来ると思われたく」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAteXBHTzhtcWtkQ3VlbWtPNHhjNTd3aEhnV0RnU0pfclI4M1pBSGZRc2owUEFOU2xqZUtQamlMa0NSb1pTWlBKNmZ4MzhiUE4wMHRJWGt6OU92SHhYb1NwcWMtak5HZw?oc=5",
+      "date": "Sat, 15 Jul 2023 07:00:00 GMT"
+    },
+    {
+      "title": "県内およそ60か所で飲酒運転の特別取締り 23人を検挙 海の中道大橋の事故から20年 福岡（FBS福岡放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6VUYxNVRzbEdNRjBWd2FLZU1CejA2OU1IRXplQ2tLQ3hSVEFDNDNaUm03Z1dxRldvcXJEM1VCcUo3Y0h2TF9mdnVuVjBib2VoOEhlWWpuX0JweGVrcmc0amVYMFEwOFIxbDBKN0plakpCd25QR2NpMU1GSnlaTU0?oc=5",
+      "date": "Wed, 26 Aug 2026 02:50:01 GMT"
+    },
+    {
+      "title": "一晩で23件の飲酒運転を検挙 県内約60カ所で“飲酒検問” 海の中道大橋の飲酒運転事故から20年 県警本部長が現場で黙とう 福岡",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSXpqNTFwUnV5c3FUd2F0OG5vNXM1eU1wQ190a2NLcFhBcXZacHZ5Y2VYWDNWN000TF9ieVZ1dWtlRzdLNWVlNldNVXg1UVlxY3dUVWxIWm9Cem1HYklSR0RnQQ?oc=5",
+      "date": "Wed, 26 Aug 2026 03:00:00 GMT"
+    }
+  ],
   "accident_news": [
     {
-      "title": "福岡県事故ゼロプラン",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02RWViTi1pdXlVX0M3R0ZRUWpwWkpxM2d4LU1pV2pSSGNGemZudUhqelRPaXFJU05oY2haak1vM25mcFoxOFdEVUt4a21Yb1ljY2FuQThjOVEyZWZ2UmE2VVNYdXFvaVJ2OWRvamhtbVoyWjFxdWc?oc=5",
-      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+      "title": "「一緒にナンパへ」の重い代償 3児死亡、飲酒運転には同乗者がいた [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUldLamx3SGdOcFFEQmU2ZjlWejBBQ0NFZEZLSUEtUGpmTEtOZUFtU19HUUJGcFlJLTMwYWxUWG9JQ1BzSDdONjJsSTN1SHB6QlVWLVZ1cE9ZNGVZNklIU1lDTHQ0ZG8?oc=5",
+      "date": "Mon, 24 Aug 2026 23:00:00 GMT"
+    },
+    {
+      "title": "3児死亡の飲酒運転事故から20年 事件を追った2人が今は同じ署の署長・副署長に…「絶対に許さない」（西日本新聞me）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iek1ZMmtMMUhfckRVanFucDBxNVZZVWtvcFNtUlJnaHRyZzluT21RZmhkSnZadEF5TklEcTl1ZHcyZldMM093T3UtTW5GSlpkSGpjOGI0WHgzR2ZqVjBIVXhrblY3SXBJRzRacV9NS0c4a3lSMjFIVC0walBCQm8?oc=5",
+      "date": "Tue, 25 Aug 2026 12:01:48 GMT"
+    },
+    {
+      "title": "福岡 海の中道大橋飲酒運転事故から20年 現場で追悼する人も",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9odG9IQmNITHdwaWxLVGxZeHJKWjlKTVJqdnY5R2N2RDhJRlVmNkJ3OG5oTWRZQXAyRXFxY1FXRnFxNXFDMnp4SnlISUJ3V3A5ZXZJMXNkbGxTc0pDY3lF?oc=5",
+      "date": "Tue, 25 Aug 2026 05:55:00 GMT"
     },
     {
       "title": "国道で軽自動車と普通乗用車が“正面衝突” 女性1人が意識不明 軽自動車が中央線はみだしたか 福岡・朝倉市",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqcGkzWkhsRHlaRDVSS09rNTI1YnB1V2swYlpvNGI3Ui1oQWNUcGpPYXVaZ2duNVdjelNlbzZWVElVZXd0SUg1RE1YV0lteU1TcHRSQUgwWHRYbXZ5WTkxNXVIaw?oc=5",
       "date": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMHFUc0dMdkNNTUNJb3k0VHNLVWozZjNmOUpweFpkb2diaURDdmtKeHdTNUxlRG0zOTAwcEdVd0JYYzdncGpzaEozQlVaSFBaYkhKX3d3eVc4VnpXaWJZR3ZPTjFLOGtyNEpPMTdCckdKWUc4TDA3VHdIdDJJWXM?oc=5",
-      "date": "Sat, 29 Aug 2026 06:57:44 GMT"
-    },
-    {
-      "title": "福岡の幼い3人が奪われた飲酒運転事故から20年…鹿児島県警が九州一斉取り締まり 酒気帯び2件含む14件摘発",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yYTNZcUtfNzZfRWlHdHhWYXYxNGFmcGtSQTFldTYzTGVCS2s2TnZXQUZSajJuOW1RcjlwU2lsNWhmN3VxbU5jYXdUbmtSWTlwS1JrRUpCSQ?oc=5",
-      "date": "Wed, 26 Aug 2026 12:17:00 GMT"
     },
     {
       "title": "飲酒運転、いまだ減らない「同乗罪」 福岡・3児死亡事故から20年 [福岡県]",

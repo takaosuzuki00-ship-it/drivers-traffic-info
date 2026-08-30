@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T13:02:05.323226",
+  "generated_at": "2026-08-30T23:31:58.826132",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 24.9,
+    "temp_max": 29.5,
+    "temp_min": 25.1,
+    "precip_prob_max": 100,
+    "precip_sum": 28.2,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "03:00",
+        "temp": 25.8,
+        "weather": "霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "09:00",
+        "temp": 26.1,
+        "weather": "霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "12:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 28.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 24
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２８日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUVlHdGQzOGp5MWIwNmlYWlhVWjZHVUlQWklLaTBYZlh3WkFfbGpzTVZ1U1pNX0tQaGRGX3ZtbV9HUFRSZ0FGajFrMDY1Mnd4aGNIMzE3aC1uUnBVazZNV1Z6ZHpyelpX?oc=5",
+      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEYlJESHNIQ01kQWpndEJfVnJQR29aNmVseXNhVGFQMmJFQXQ0Uk5OdHVZVkNGTWZCV2sxcVV4VXROSUJ6b3pUOWs1WEtabjZDQ2VDSWpzc2h4Zng0enZIZkt5R0ZWcWRsMVN4bkNLRXIwd9IBd0FVX3lxTE0yQU1Md3pfNVRnWjFuRTFMemZYbDNFLUlVald6YVlTLVVBWERkQ1pkaEQtQmNXUkRPYkJmbmxSZWZSekVNdnNJMFNNT0pkdVFKeDhlLWFIUTY0SFJGMklpMV9TeEVibFdzUmZQVXNRZ3dDWFN2dVVN?oc=5",
+      "date": "Tue, 25 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSUpJOFEycXpiQ1d2eUVwUkVNQkZrcXd4M0g2Y2MzTFpPSGJxUngtd2k4bWVGNklUbndyckszSDNVcmlhZldnMy1WNFdpdlVGcWZBSXEtbVA5UHdiNlE?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止！交通安全こども自転車石川県大会に48人の児童が参加「一人一人がしっかりルールを守ることが大切」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZYUtOeUdOZ0lHRnlMQUstTGJVZnBfTHROS3lzNXdteC12THhSNjg2ek1KWDJsX0hTY05uLUdpd1ZRelBsdm1zcjZPVHRzQTdVVU5SSlA4NjhoSmtOZ293?oc=5",
+      "date": "Sun, 16 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "民家にトラックが衝突した事故現場 警察などが再発防止策を確認 石川・金沢市（テレビ金沢）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFcm5qbXA1V3FaWHpjeFV1Z3M2ajZJUUdSVVVkdDZGS1VrQzQzMWhtTldVZzBmeVhTb05OSXVsbTJMUG5TbDhFS0lLb2pCNGtZOGZaeGpnc0tRcDItZW03dzQ2bS1rX28yWXR5bWdlaXlaQkpCWDRQZW44N0JSR2s?oc=5",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "10トントラックと出会い頭に衝突 ライトバン同乗の76歳男性が死亡 石川・能登町（2026年7月3日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNTUNYYUFVOS1URkJtN3UzYWhqbjEwRWNOSm1VdkxHMU5CaFdxQ1FVRV84VG5OdjhZVVBwckY3R3JRMnhqNXd2QjZsRUF0N2RDSjFhMnRsd3R5SDUybHVrQm53bExOOHNZQzVCNnYzX01Rek1QeG9TRUNVQmx2V0k?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "春の交通安全運動期間、事故４２件、死者ゼロ 石川県内｜社会｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbFlvRWNzSks1NE16dkRtWTd0dkpLd1UtSHVMYXhranpabXl0d0xYOHBRSkJIeFhGMnVsMHZ2WkRSVEZhVmdyOWtoQ24wdXNhUG1zRkx5MA?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "石川県金沢市の国道8号、交通事故で車線規制 4月25日朝、金沢河川国道事務所発表",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEUDk5aTd1Y0JyY1V1TUs0eWhxaWVPcUZEdFp5Znh3dlhRM29VMVpackFsUFBUeW1sZkFvUHVhUl9EakdwV2szZTRVVWt6QnZoQ0Z5QVRNRGhTSkM1S2c?oc=5",
+      "date": "Sat, 25 Apr 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "石川県警察 公式サイトを検索",

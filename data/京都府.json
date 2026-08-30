@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-30T13:29:06.809335",
+  "generated_at": "2026-08-30T23:32:35.364693",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.8,
+    "temp_max": 32.3,
+    "temp_min": 25.1,
+    "precip_prob_max": 100,
+    "precip_sum": 2.3,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "03:00",
+        "temp": 25.4,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "06:00",
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 31.3,
+        "weather": "曇り",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 32.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "18:00",
+        "temp": 28.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 55
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "８月２３日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mNUdCUHdLOWVDLVVyUzVYZ3U5cVkxZXpNSjZiTGhkSVk0dnVsVjZSUnFwZmQ5WUp4M3hJelRGY2NTVnVacXNHNUNYOS1EWWM1STNFM1dEX3lOR1g1M2J1ZTk5dVhucVRIajdkQ1dhT2x0d9IBd0FVX3lxTE54ZEo3amk2b3IxdkQxUmxud1oyaXNQTnl6UDFrQkV4ZnFvby16RGRPZGl5VGlfejg5VVA0di0ya1ByQXBTNGNLY2UwT01nVkQzbVljeHdCYnVwN0p3dGozZ3dkNjhnc2lTS1NybEY2OGwyTG9WdExz?oc=5",
+      "date": "Sat, 22 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府知事選へ選挙違反取締本部を設置 府議補選、与謝野町長選、井手町議選も取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMk4zY1ZUaGJxekdDOEtVcThKeUFqZEl2clR1YkNaZW8zRTVFTW9hNlc0VnlEYk1GQWpKTURMUnU5NGwxZUdJOUcxQnlPbGtBWHdYbWJIbXA?oc=5",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "アメリカ・イラン停戦協議きょう開催 「必ず履行されなければならない」合意違反と反発 核開発の放棄、ホルムズ海峡の管理で対立 協議開催は予断ゆるさず",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlRUt2ekJUZXE3SGM0cjVsVWRHUDNkUE15bS02cHNaeHZrMVhBUFJtMmQ5N2dFYWhfczQ4ZVpmejhYZW1Gel9BV2gxU195RkxFTmFDT1BkalZPdFpJQ1JvT09qaDlsVHRNcWpZcE40SGpkckJt?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ラファ検問所、きょう開通見込み 支援物資トラックが待機",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5N0g0dzd2TWFFZkpud25wM1FpcWh5QWxBdWVqY3dMaXNUeDF6dU5od0VGWnp4cW55YUdWcndCRTFiUnRQNHhPRGtUUVZ0bG5ZcWZV?oc=5",
+      "date": "Fri, 20 Oct 2023 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "京都・左京区で横断歩道のない府道を横断していた中学生が車にひかれ意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6ZEo0eXlCYlhja3QwYnhmdWplb09IOE4teWEwTkFVUjR0M0R1cXZYQ3hyWUxWLXVTRFZHR0hTcUlDTWE0Q3JxLXJ5VlV2SWJTWFVNSktzNlBHcE5lZTFtSFhPeVBiSUVVQ2p5cWg3X3B5NGlxeDZUOXd2MzdOdjg?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都で乗用車3台絡む事故 はねられた歩行者ら2人搬送",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Sm9CTkl5Qk5MMU1IdVhqZmNTUU9KTGE1MXB4OUFWRkk3ZW5nVUxKZmpPMHRkZU5rbGJub2FRWWVxaWVhR1plSFRQaVlMLTl1OXdGSzVlU05Mby1qM1RnRERzRGR4VjVH?oc=5",
+      "date": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "大分の１９４キロ衝突死亡事故、きょう控訴審判決…遺族「高速度による事故の抑止になる判決を」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTGN2LVdraFJpQW14dmNRczRIZHA4ZDRfYWQ0Ti0wR3I0SXFoYjcxX1psQzF6NUZmaGd1N2M4ZElYR2k2MTVmTmVkWHpuN3lfcmR5X1BpeTBhUksyWTc0TUpvVmk5Zw?oc=5",
+      "date": "Thu, 22 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "ベテラン医師執刀も“慢心”か 患者は自ら呼吸できず…京大病院「想定外の医療事故」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zOVU4Wm5EdFFZcHFkb2dzRzFaNF9HMFN6bzVtNkZaRTBtNnc3TjhqTXhhVEJ5cWVLdndrYUUxaHRNVktmYWV2ZVIwNTN4aFhQcEJiX1JBOGdhY0dnaXBCSC1VRExHaDVWbU05M2p4UEFMQQ?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",
