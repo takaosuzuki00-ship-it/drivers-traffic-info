@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-31T09:03:00.087770",
+  "generated_at": "2026-08-31T12:02:45.760073",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 29.5,
-    "temp_max": 33.3,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 33.9,
+    "temp_max": 34.5,
     "temp_min": 24.2,
-    "precip_prob_max": 94,
-    "precip_sum": 8.1,
-    "wind_speed": 3.3,
+    "precip_prob_max": 99,
+    "precip_sum": 1.9,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.7,
         "weather": "晴れ",
-        "precip_prob": 24
+        "precip_prob": 14
       },
       {
         "time": "03:00",
         "temp": 24.9,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 24.2,
+        "temp": 24.3,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 29.5,
-        "weather": "晴れ",
+        "temp": 30.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 33.1,
-        "weather": "晴れ",
-        "precip_prob": 8
+        "temp": 33.9,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 32.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
+        "temp": 31.7,
+        "weather": "霧雨",
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 29.2,
-        "weather": "雨",
-        "precip_prob": 92
+        "temp": 29.7,
+        "weather": "晴れ",
+        "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 26.7,
+        "temp": 27.0,
         "weather": "晴れ",
-        "precip_prob": 31
+        "precip_prob": 65
       }
     ]
   },
