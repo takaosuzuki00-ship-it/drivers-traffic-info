@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-31T15:14:03.517855",
+  "generated_at": "2026-08-31T18:01:30.612267",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.0,
+    "temp_max": 23.3,
+    "temp_min": 16.8,
+    "precip_prob_max": 8,
+    "precip_sum": 0.1,
+    "wind_speed": 11.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 17.2,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 17.1,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 18.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【画像】一般道183キロで爆走 北海道で“最速の違反” 外国製の車運転の男「釣りのため早く帰って寝たかった」",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1dGb2lpX3g3RnNhbE1PT1RmYzlBclJyNy1zS0VySVJKV3ZTZFFnVEwzcWttSUJoYzI3eXJpMEhFWk94cHdtR2t1QnNKV1hraGRvRWdjR1E2bjdCdWY5RXEtV1BCb3dqS2E3VE9KREMteUpVYW9OUkRPNEVOcUQ4Q0JuTVF6VkU?oc=5",
+      "date": "Tue, 23 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "GO TO警察はまっぴらごめん! 北海道警の「3密(秘密/隠密/綿密)」な交通取り締まりを回避せよ! 【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmUnBJUFpnQmpXMHFfaXBLSnpScFp2UXdkb3FibXlaZlR2eWxhaUdHcm84dU15QUNfay16NXJiZmE2TGdOSFJtLVFtOEZWQQ?oc=5",
+      "date": "Sun, 01 Oct 2017 07:00:00 GMT"
+    },
+    {
+      "title": "速度違反を捏造、有罪判決 元道警警部補に札幌地裁",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53d3ZUWG1sWldYZHBGQi1Xd0RRcjdUN1BWMWFaUkRnYXZiQVFGOTI1WHNLTE8wUUZCUHpYeTAzZ0lwdUpsMFhRam5JSjdnSmhVM01NdXp0eTkxR1RveHR4YTZmSkMtUW1pbVdBMTU2Sy1pc01sVUE?oc=5",
+      "date": "Wed, 13 Jan 2021 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転の取り締まりを北海道警が強化－札幌の検問では酒気帯び運転の疑いで男1人を現行犯逮捕…2014年7月13日小樽市で飲酒運転の車が4人死傷させる“ひき逃げ”事件発生－13日は「飲酒運転根絶の日」（北海道ニュースUHB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Q1RySElCSklST1hsc1dZZ0I2aTFDNnJjdlc3aXVGWTAzRC16TmIxRjNvaVEwRm5fRnNQMVplazd2eGVwSnFHMU1WMXNGNmtnS2pNZEFoZGZJaTJSOWcweFZrUTE3bE5Kc19FcEliRU9xZjl6VC1ndk5FbFkxU3c?oc=5",
+      "date": "Sat, 11 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【北海道】交通事故相次ぐ 札幌で軽トラが歩道に乗り上げ男性はね骨盤骨折疑い 根室では車横転、男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hQkstUUdENXRjT1FSVUZpRWlMYTJITldta2tSWERNd2t5TEVXdENxUG9HekdibEswbklERXMwNXBteWpNTkx2MDR2cks1RUxSa3g4N3F3eE1NZw?oc=5",
+      "date": "Mon, 24 Aug 2026 09:05:00 GMT"
+    },
+    {
+      "title": "トヨタ・モビリティ基金、冬の北海道 交通事故削減",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5POTBIVjNobnllOWFlTEhoX0ctdTVUTTAtYVU2NnNXb29vODlsY1VWSHJOYy0yX1kzNFBTZzM3WElhWUFRYWl5RTNEVGQ5a3dQN2l6Vzc3S1VPOFAzbTB2WUlsc3VZVXNpMlhpcjZrYw?oc=5",
+      "date": "Wed, 26 Aug 2026 18:17:35 GMT"
+    },
+    {
+      "title": "【夕暮れの交通事故に注意】『通学中の高校生』の被害割合が高まる危険な時期…苫小牧市で警察が自転車の左側通行や交差点の安全確認を呼びかけ＜北海道＞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iTG5rVEVVNFNaWklsVTRIZHhwTWx1VTBycEEwWEY3eXNLMlBKWUZFMWtVTGFhaVRhR2laRGkxR1hfSm5QMGtUZ0FfMDJJRU9NX0dkVFFfQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 11:24:16 GMT"
+    },
+    {
+      "title": "基準値2倍以上のアルコール検出…昼過ぎに酒気帯び運転で衝突事故、男女2人けが 60歳団体職員の男を現行犯逮捕「食事に行くため運転」 北海道千歳市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54NmtpOUN3b3ptVjZJUkVpU05aZFlSeU45Z29uTUNONUxlWDFLaHZSWVNSaE9CWGI0dm9KQ1MzUVE1X253OTZwQzlZZENfbjlEMDZSVWhfNDlMZw?oc=5",
+      "date": "Wed, 26 Aug 2026 22:00:00 GMT"
+    },
+    {
+      "title": "【乗用車の男女2人死亡】トレーラーと正面衝突で全焼～乗用車運転の男性と後部座席の女性死亡…同乗の女児は重傷＿どちらかが対向車線にはみ出したか〈北海道苫小牧市〉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16eFh5QWJpb3hoOV90U2pLeXFLQUlxV1o0cjc0bU5ybENDRHpaVTRqdWVGODlpZVFzaVVnNkdpSG04R0tNeGJjellGRFZiQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 02:55:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "北海道警察 公式サイトを検索",

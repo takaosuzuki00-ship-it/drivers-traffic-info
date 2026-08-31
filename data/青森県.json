@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-08-31T15:17:03.565251",
+  "generated_at": "2026-08-31T18:01:39.840297",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 23.5,
+    "temp_max": 25.6,
+    "temp_min": 19.5,
+    "precip_prob_max": 43,
+    "precip_sum": 0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 19.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "18:00",
+        "temp": 23.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "容疑者の男は日本原燃の協力会社員 青森・六ケ所の死亡ひき逃げ事故 [青森県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBaE1kdTNWOGVVdkRXVTl6aGJPSFJ1WlhDeVVyLXVCeUtRZHpWaFNNZXY3SFdUQ2hpUEVqZ2o5WWdhWEt6YVVINHZXMGt4d19TMldpTlVDdTRGTFgwVDliVk8zQjhKSW8?oc=5",
+      "date": "Mon, 24 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "生活道路の事故 青森県内7％／法定速度9月から30キロ｜行政・政治,青森県｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uRndFa0lCUDk0U09KU29wS1RPbi10d0JHLUl3WlpocUxDVjR0UjcyRlp5YUQ0OHhYWGVYV2hON0Jkd0hsb2EwMmJmYnh2NU9hOXdRcFhaVGE?oc=5",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT"
+    },
+    {
+      "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
+      "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "防雪柵に衝突 女性死亡 警察が事故の原因を調べる つがる市（2026年8月18日掲載）｜青森放送NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME1haEVQOXV6RXVEUkRnaE1kZFpKSFF1NVAzd0V2M1dyUFY3QjVYSkFORl9YZERzUGNHdjMzTkpFcHlFc3NzdDR4OUpWUUlJTmdyYUlJcGtvY3ktMG1fWjd3RTBSanVudVNWSkZRZlNrQkdSdDk5MkVWWTB4b1U5eG1oTzVyLXM?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青森 三沢市沖の４人死亡事故受け 漁業者が安全操業の講習会",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIQ05tMVBnN2ZCbDU1OXZoeFl1NHFSVkhNUjRDT2dMbmg1MkxuYUdfeVB6cUdXT19ORVBEekJTYUgwRVl3QXpGVE0weDNCLUd6LWRLTFg5Rm8?oc=5",
+      "date": "Thu, 27 Aug 2026 09:53:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",
