@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-09-01T21:04:34.253707",
+  "generated_at": "2026-09-02T00:03:35.356655",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 28.4,
-    "temp_max": 31.3,
-    "temp_min": 27.3,
-    "precip_prob_max": 10,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 27.7,
+    "temp_max": 31.2,
+    "temp_min": 27.6,
+    "precip_prob_max": 27,
     "precip_sum": 0,
-    "wind_speed": 14.4,
+    "wind_speed": 12.0,
     "hourly": [
       {
         "time": "00:00",
         "temp": 27.7,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 27.5,
-        "weather": "晴れ",
-        "precip_prob": 10
+        "temp": 27.9,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 27.4,
+        "temp": 27.6,
         "weather": "晴れ",
         "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 29.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 29.6,
+        "weather": "快晴",
+        "precip_prob": 10
       },
       {
         "time": "12:00",
-        "temp": 31.1,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "15:00",
-        "temp": 29.7,
-        "weather": "晴れ",
-        "precip_prob": 6
-      },
-      {
-        "time": "18:00",
-        "temp": 29.4,
+        "temp": 31.0,
         "weather": "晴れ",
         "precip_prob": 2
       },
       {
-        "time": "21:00",
-        "temp": 28.4,
+        "time": "15:00",
+        "temp": 30.9,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 22
+      },
+      {
+        "time": "18:00",
+        "temp": 30.2,
+        "weather": "快晴",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "鹿児島県交通取締り情報２０２４年１２月２２日（日）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00aW1aMDFGR0g4UlFNOEJqeDVzY2h5eG43d2NfdExBZDhCTmFOeFRTVVRka3dBZW9ra0lQZlZRemNDYzh2N2tlMEJMYldtQm12UFh0c2t2SUJHdldvRWN1ZzFjdDRYY28?oc=5",
-      "date": "Sun, 22 Dec 2024 08:00:00 GMT"
-    },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
@@ -80,9 +75,14 @@
       "date": "Sat, 07 Dec 2024 08:00:00 GMT"
     },
     {
-      "title": "鹿児島県交通取締り情報２０２４年７月０７日（日） | 鹿児島のニュース｜MBC NEWS｜南日本放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LYVBpbzNUTG1xQXJnVzBUWEdTYXRvVzFfbUl5cGFpQnNWX0RnVXpEUjVVMTNqd2UwRDdHVWZTZ3NLVDhIS1hjOXAtZmxNb3Z5cXZEdGI1QjBLOUNqVTRwaEk2Mlg3MU0?oc=5",
-      "date": "Sun, 07 Jul 2024 07:00:00 GMT"
+      "title": "鹿児島県交通取締り情報２０２４年６月０６日（木）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcEFVUzRjYk5HLTNhdjA0QlZON2NqUUIyZkd5eDhtTjU0Ynp4VlJvMF9pT013OWIxVmxENHNqVVRWQmRoN2dyYmpRSG92Z25VZmhHSjdjVTFNUQ?oc=5",
+      "date": "Thu, 06 Jun 2024 07:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２５年０１月１０日（金）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14a1k3ZTIyYVNqeTgwUmFabURhZWRQREtVN3U5TDZ5NnVJVEFRdkZwLVRiNERMYXpEa3NzTTVGeU0tREhEM09VczI1WkdiVWJBOHFybVVhSmtoSUJwMjM2YWt5QkFJVXc?oc=5",
+      "date": "Fri, 10 Jan 2025 08:00:00 GMT"
     },
     {
       "title": "【写真】土石流、中国の救助活動難航 国境検問所は跡形もなく",

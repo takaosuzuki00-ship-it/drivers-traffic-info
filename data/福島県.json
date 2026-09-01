@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-01T21:01:42.169727",
+  "generated_at": "2026-09-02T00:01:01.900516",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 22.9,
-    "temp_max": 25.8,
-    "temp_min": 20.4,
-    "precip_prob_max": 71,
-    "precip_sum": 0.9,
-    "wind_speed": 1.5,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.1,
+    "temp_max": 31.9,
+    "temp_min": 22.1,
+    "precip_prob_max": 90,
+    "precip_sum": 0.5,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.4,
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 22.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 20.7,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
         "time": "06:00",
-        "temp": 20.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 22.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 25.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 55
+        "temp": 31.4,
+        "weather": "晴れ",
+        "precip_prob": 37
       },
       {
         "time": "15:00",
-        "temp": 25.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 43
+        "temp": 31.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 23.8,
-        "weather": "曇り",
-        "precip_prob": 69
+        "temp": 28.3,
+        "weather": "晴れ",
+        "precip_prob": 65
       },
       {
         "time": "21:00",
-        "temp": 22.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 63
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "８月３１日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQnJaQS1XS19Kc1c4S2pCTDdXaE01TjctdGhmVU8tVDh6OXBOZ2V1dlVsMC1Zd3B6TmhXTlVGNlZERXg0X1NFVXhQOUVPakFjVmF4dmhVbjk1ckQ0QjFWUUFBQ0h3dzZYQXY0SXNyZHhRUdIBd0FVX3lxTE1ETjJPSWZNRXY2cXVhS3lQS0xlUXpDVmxaZlVNUlJjeVpONjZ6ZElseW5IM1pXWjBxTy0zVzI0MHdlV0p3SnhrSWt4M0pHN09oQTI3VUtHSF8zVllqbkU4SXUtWlJXSThzalFTWWRJMkY3MU5kX3Y0?oc=5",
+      "date": "Sun, 30 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "８月３０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BcDc5OEJKSzZoOW9WZjJfVGJRc1dFMnpMMGNJdXcwSVlSYmk3WlZHMnJVY2dxcGpqc0VwemF6N1ZXN3JBa29OVzhGX0dBeWxoajBvaS11V1lGVktnS0E4cWg4ZVF2T0I3U3lqemlkSDJCd9IBd0FVX3lxTE9YRmhlWUg1amdJSjR5dnk4eGE0LURCZzRPSTY1NDNuWWNndkNSY18tNWoza25PTzNqWkZEQ05sZTVuTWVKa1lrajY3LVNpVkpwWGNNanZ6ZjV2bGQ0YWl3RG1DRzR1X0RwV0J4aEVHUS11dnhmZHU0?oc=5",
       "date": "Sat, 29 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "８月２９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxMHhsSWhxbi0yVHNvSXlIb2Zma19QSjRXNGpyRl9nRUxwR3QtWFR4RGJ3RWFmWmNtNkVkc0hnbG1lNFh2eGFYNU5ieDdUckpkaFVCN0xLdzhJaDFZUC13NF9oX0RkRlZ6U2oxaFVSQXRHd9IBd0FVX3lxTE4ya1NTTkJBYjRyWDk3Q1ljSDRNdGlZeDF4RTZfYWZEbEJNWkNRVVppeHM0XzdhRzVTMWhQQkFROU8xVXp4b01vS2FmQWU4WHRnSHhlLXh6aDF1LThSc25XTXhkNnRpVG9KOExydGw2bWxxWlZjRjRB?oc=5",
-      "date": "Fri, 28 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月６日",
@@ -97,6 +97,11 @@
       "date": "Tue, 01 Sep 2026 02:46:00 GMT"
     },
     {
+      "title": "二本松市の41歳女性職員が失職 歩行者に重傷負わせる交通事故 執行猶予付き判決が確定 福島（福島テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rVmJpYTNNX1NSdG5GNTVyWlFkSFRPTWNsWDlTaElmSTJDSkt6REdMNVVlaXprdHlVNVpmREpwT2V3VGRsM1NwMXJ1YTV2YTBBOGk1V0V6OGlBQ2d3a1RfOWJJRkI3SVh3ZFdDTFF1Z2c4ejdHakxQeWpzMVo3bU0?oc=5",
+      "date": "Tue, 01 Sep 2026 10:20:02 GMT"
+    },
+    {
       "title": "物損事故で車炎上、福島の国道4号 ４時間通行止め:福島ニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vdmRWelVlaGhuVXg2SEJYc2JjTmFZSkZZVjlJVUJteThmY3NFOTRDM3hKeVVRS3hrTHYxRjZJNGRFQUU4RjhuUC0xWVJPUmlLcEt5eGgySTFOWHltcHFxSXBsQk95LWJX?oc=5",
       "date": "Sun, 30 Aug 2026 22:37:00 GMT"
@@ -105,11 +110,6 @@
       "title": "【交通事故】福島市",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEczU1dFV6NlJMOW82X0xfQzR1RDBPSXhlZnRwbjAtZlBldmxLeU5HUmluMjFKVm1RMGhoXzRDUFZLZFhwRU1TajFzQk9nOU0?oc=5",
       "date": "Fri, 28 Aug 2026 23:00:00 GMT"
-    },
-    {
-      "title": "二本松市の41歳女性職員が失職 歩行者に重傷負わせる交通事故 執行猶予付き判決が確定 福島（福島テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rVmJpYTNNX1NSdG5GNTVyWlFkSFRPTWNsWDlTaElmSTJDSkt6REdMNVVlaXprdHlVNVpmREpwT2V3VGRsM1NwMXJ1YTV2YTBBOGk1V0V6OGlBQ2d3a1RfOWJJRkI3SVh3ZFdDTFF1Z2c4ejdHakxQeWpzMVo3bU0?oc=5",
-      "date": "Tue, 01 Sep 2026 10:20:02 GMT"
     },
     {
       "title": "福島県内全域に交通死亡事故多発注意報発令 期間は27日の1日間:福島ニュース",
