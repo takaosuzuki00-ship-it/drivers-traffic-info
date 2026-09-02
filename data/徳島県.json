@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-09-02T15:04:24.467872",
+  "generated_at": "2026-09-02T18:03:14.447176",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 28.0,
+    "temp_max": 30.5,
+    "temp_min": 25.0,
+    "precip_prob_max": 81,
+    "precip_sum": 2.8,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 25.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 29.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 30.5,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "18:00",
+        "temp": 28.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 26.9,
+        "weather": "強い霧雨",
+        "precip_prob": 16
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1hQ1l4UWUyZHBURk9vR0pJVmh6bmdBU1hBcDRiZGVpQjlOVFQ1NjY5bC0wSHVtVmQ3akYxOC0wYjRqQk9NRTZUQjJXNDU5ZnNERU9yLXVCTjVCTDA2U01NTk8yUURmVWFvZTlWY2JhZVFIY1h5Y085b2k5Ylp3dDRpWQ?oc=5",
       "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】5日は飲酒運転取締り強化日など6月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1RCUkpoNGE3REw2cUtvRm9NUXVPS3FaSWpKOHg4Um9JRC1YWHA3Y1kwand6ZTJWNHZpQ0dFVm5CZTFvcFNjVlV4cmlBZU1EZHlxSnVDdDY2M3FVTnR2ZTdGaFRucWwwdlp4UFJvRF9LbWI4WDNQcjZFeDJGU0JrTE43QzNGVXFFYVhnek5YeFNtRXNvZExmUkVIYUs?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -24,11 +88,6 @@
       "title": "【徳島県】2月はスピードの取り締まりにも十分注意！「交通取締計画」をチェック＆把握して安全運転につなげてください。",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjFfWWJWTlFpZ0VJQ0ZtWkl0alk3WjRDeDBuUkotdmpUaFI5M2FPR1l1SmtuVkVjYVkxNFAya3BNc2ZIUnZWcFlaTWx0ZWl6QzhCdDljTHZYeU5yM2p2bDlMcng2dHFSMjA1SmNqUmtCZ1JEaVRCbm9fbWxKblZhVQ?oc=5",
       "date": "Wed, 04 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "徳島県警が、持ち運びできる速度違反自動取締装置「可搬式オービス」による取り締まりを強化しています🚥 2023年の摘発件数は1631件で、前年の3倍以上に！道幅が狭い通学路などで使える利点を生かし、交通事故防止を図ります🚙 ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ 徳島新聞デ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OWGhQUEhUYjF4b3kxdTRkanZxVmNZN20zY3JldUFWcWhYTFdRS1U2OGVSRm1TMnJKRGZyRWxFZW5yNHNrdHhScjR3TDJNQ1lka1E?oc=5",
-      "date": "Wed, 17 Apr 2024 07:00:00 GMT"
     }
   ],
   "accident_news": [
