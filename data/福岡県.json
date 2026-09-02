@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-02T18:03:28.344600",
+  "generated_at": "2026-09-02T21:03:42.110499",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 30.8,
+    "temp_now": 27.5,
     "temp_max": 32.0,
     "temp_min": 25.6,
     "precip_prob_max": 100,
-    "precip_sum": 0.1,
-    "wind_speed": 3.4,
+    "precip_sum": 0.2,
+    "wind_speed": 3.7,
     "hourly": [
       {
         "time": "00:00",
@@ -41,34 +41,29 @@
         "time": "12:00",
         "temp": 32.0,
         "weather": "快晴",
-        "precip_prob": 35
+        "precip_prob": 43
       },
       {
         "time": "15:00",
-        "temp": 31.7,
+        "temp": 31.3,
         "weather": "晴れ",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 30.8,
+        "temp": 30.4,
         "weather": "晴れ",
-        "precip_prob": 92
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 28.4,
-        "weather": "快晴",
-        "precip_prob": 8
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 45
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
     {
       "title": "８月３１日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQnJaQS1XS19Kc1c4S2pCTDdXaE01TjctdGhmVU8tVDh6OXBOZ2V1dlVsMC1Zd3B6TmhXTlVGNlZERXg0X1NFVXhQOUVPakFjVmF4dmhVbjk1ckQ0QjFWUUFBQ0h3dzZYQXY0SXNyZHhRUdIBd0FVX3lxTE1ETjJPSWZNRXY2cXVhS3lQS0xlUXpDVmxaZlVNUlJjeVpONjZ6ZElseW5IM1pXWjBxTy0zVzI0MHdlV0p3SnhrSWt4M0pHN09oQTI3VUtHSF8zVllqbkU4SXUtWlJXSThzalFTWWRJMkY3MU5kX3Y0?oc=5",
@@ -80,41 +75,46 @@
       "date": "Sat, 29 Aug 2026 20:00:00 GMT"
     },
     {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "8月29日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZXdsS1BVZDZJem5fRWJYNDhVX2xGblI5Ti0tLTdfdFFDMWJSWjJyU1pvZlhZS3l5MXg4VUlRSmdrV1VjdXl3WFNWeDNzclhFR05OOHpXWUx3b2FHTnNkRFdYZTNua2dPeFJkTjJwMNIBdEFVX3lxTE5KbGcwU2w3Mm4zOE4yNG9rWHV3eXN2YXhkdjJxNS1wNEtpdmJCbWdMbjUtTWxTTHF0Y2lZc0ZRTm5pWWtPUVU5RTgwTHhPLVFfZHo0TWFxZWJlVmc1SFA2TVcyQ3gzQnFJSkYwRnQ1eURJeUFD?oc=5",
+      "date": "Fri, 28 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMHFUc0dMdkNNTUNJb3k0VHNLVWozZjNmOUpweFpkb2diaURDdmtKeHdTNUxlRG0zOTAwcEdVd0JYYzdncGpzaEozQlVaSFBaYkhKX3d3eVc4VnpXaWJZR3ZPTjFLOGtyNEpPMTdCckdKWUc4TDA3VHdIdDJJWXM?oc=5",
       "date": "Sat, 29 Aug 2026 06:57:44 GMT"
-    },
-    {
-      "title": "一晩で23件の飲酒運転を検挙 県内約60カ所で“飲酒検問” 海の中道大橋の飲酒運転事故から20年 県警本部長が現場で黙とう 福岡",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSXpqNTFwUnV5c3FUd2F0OG5vNXM1eU1wQ190a2NLcFhBcXZacHZ5Y2VYWDNWN000TF9ieVZ1dWtlRzdLNWVlNldNVXg1UVlxY3dUVWxIWm9Cem1HYklSR0RnQQ?oc=5",
-      "date": "Wed, 26 Aug 2026 03:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "「一緒にナンパへ」の重い代償 3児死亡、飲酒運転には同乗者がいた [福岡県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUldLamx3SGdOcFFEQmU2ZjlWejBBQ0NFZEZLSUEtUGpmTEtOZUFtU19HUUJGcFlJLTMwYWxUWG9JQ1BzSDdONjJsSTN1SHB6QlVWLVZ1cE9ZNGVZNklIU1lDTHQ0ZG8?oc=5",
-      "date": "Mon, 24 Aug 2026 23:00:00 GMT"
+      "title": "「交通死亡事故ゼロ作戦」取締りを強化 特別対策部隊の出動式 福岡県警（2026年9月2日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzJKUl9nbjNRUEVtLWVXTUJOQWJJM0lDa0luakc1TGNELUJ0ZFFiV2VxSmhoT1J3N0tJek9qQnVZZEYxYkZKYzRXazZTR1QxeGlremZrZWpEeGVublBnNmJINldlWlBFaDlId2hPLUFMWjlUQ25FU1FmUENUa2oydGtkR1huLWM?oc=5",
+      "date": "Wed, 02 Sep 2026 09:54:00 GMT"
     },
     {
-      "title": "福岡県事故ゼロプラン",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02RWViTi1pdXlVX0M3R0ZRUWpwWkpxM2d4LU1pV2pSSGNGemZudUhqelRPaXFJU05oY2haak1vM25mcFoxOFdEVUt4a21Yb1ljY2FuQThjOVEyZWZ2UmE2VVNYdXFvaVJ2OWRvamhtbVoyWjFxdWc?oc=5",
-      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+      "title": "福岡県警 交通死亡事故多発で特別対策部隊が取締りなど強化へ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pZnV4cG5iT2pJbW5wd3JfeWFwQmFQaTNudkRBVXQ0ZkpxeXo0aWt2Tm11WUpWenNoR1hUVnZsMFg4bXJFUURxb0wyMzNrbkxmUnFmcG9ISEo?oc=5",
+      "date": "Wed, 02 Sep 2026 09:18:00 GMT"
     },
     {
-      "title": "福岡飲酒運転死亡事故から20年 「3人の生きた証し伝える」と母（共同通信）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXRmdYNHl1MVJ0YTQ5dFlPLWo4SkY5NFpld2FWQ1d4bUQwTElSTVRJSk96cUNtdGV1R0dvSG9NNjZIT3RmMzlCMnR6V2FDWm1WRWFjWUtIZ3FZVmlldHV2aHF6TGdtM0lwUG1IVS12dktyWHE1d2pld19LZUtHZ0U?oc=5",
-      "date": "Tue, 25 Aug 2026 08:07:44 GMT"
+      "title": "「今一度、安全意識を高めて」交通死亡事故が大幅増加の福岡県で警察が特別対策部隊の取り締まりを開始",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xMWZaV1E1UU0zSzFIcFlCOEVCbHpjSWxReEJRRUZyY3RPY3dEeUZ3MVZlc2dvMDhtczR4QXpSN3pkTzhSY042TXFicDExajdvdWdubUJpVkx5aDJSU3E0NjlQN3k?oc=5",
+      "date": "Wed, 02 Sep 2026 09:16:00 GMT"
     },
     {
-      "title": "ドーム近くで衝突事故 軽自動車が横転 運転手２人が軽傷 福岡市",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94OGpOVmJ0S0h2MTJza3YzZnVSdGlzMTMxYUdCUjNPZEM5LW5jNlVpTkg4MmptaEhicXU0cmVYQkVSRlJKZlcwWjVzZjRBWkZzSk5yNVFLSXpUVEROenRXRzFtMA?oc=5",
-      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
+      "title": "「今一度、安全意識を高めて」交通死亡事故が大幅増加の福岡県で警察が特別対策部隊の取り締まりを開始",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NZUwwZTVCQzBZNEJjYW5rM05QZGtQUXM5cWVhblU5eEdmaW5pQ255ZU13TzdUam40S2wzV1N2UTVXTGZhVjlvNTZkeFE3OFcwemVsbVRjcHNtc0U3Rl9IM0xvMTFBZlRyN2VFQmJ3SWpLV2hK0gF0QVVfeXFMT01lTDBlNUJDMFk0QmNhbmszTlBka1BRczlxZWFuVTl4R2ZpbmlDbnllTXdPN1RqbjRLbDNXU3ZRNVdMZmFWOW81NmR4UTc4VzB6ZWxtVGNwc21zRTdGX0gzTG8xMUFmVHI3ZUVCYndJaktXaEo?oc=5",
+      "date": "Wed, 02 Sep 2026 09:16:00 GMT"
     },
     {
-      "title": "幼児3人死亡 海の中道大橋での飲酒運転事故から20年 現場で市民らが黙とう 福岡市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfZVc3N3RjSDFVNlRfWGhVVmdTbzBqZF9BZm1NaVBHTEthREl2SkpXS1U2eXdzTXFNTjhhNko3VXdiUzE0WHpIWVVad0hPVFJsVTgxY2pfdw?oc=5",
-      "date": "Tue, 25 Aug 2026 03:58:20 GMT"
+      "title": "「今一度、安全意識を高めて」交通死亡事故が大幅増加の福岡県で警察が特別対策部隊の取り締まりを開始（RKB毎日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uQTNYVWNGU3dSREV3UEU0ZWpfZUNpcUV2bEZzMEREZDBoMlp5NE5JcExPT0QwcFV2VlpmZ2tXdGRVQWpVc3B4SFRHcnlSRVRFTklWZUx4U3I3ZTdnZjFOVGljMjdtSUxxbU9pMjVHdG1SU3VJZG1fSXJLNTdSWVE?oc=5",
+      "date": "Wed, 02 Sep 2026 09:17:13 GMT"
     }
   ],
   "official_links": [
