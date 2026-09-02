@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-02T12:23:59.490665",
+  "generated_at": "2026-09-02T15:04:54.423006",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 33.0,
-    "temp_max": 33.6,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 33.4,
+    "temp_max": 33.5,
     "temp_min": 25.3,
-    "precip_prob_max": 69,
-    "precip_sum": 0,
-    "wind_speed": 3.6,
+    "precip_prob_max": 76,
+    "precip_sum": 0.1,
+    "wind_speed": 0.8,
     "hourly": [
       {
         "time": "00:00",
@@ -29,45 +29,45 @@
         "time": "06:00",
         "temp": 25.3,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 10
       },
       {
         "time": "09:00",
-        "temp": 29.0,
+        "temp": 28.8,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 22
       },
       {
         "time": "12:00",
-        "temp": 32.7,
+        "temp": 32.6,
         "weather": "快晴",
-        "precip_prob": 25
+        "precip_prob": 37
       },
       {
         "time": "15:00",
-        "temp": 32.9,
+        "temp": 33.4,
         "weather": "晴れ",
-        "precip_prob": 49
+        "precip_prob": 53
       },
       {
         "time": "18:00",
-        "temp": 30.8,
-        "weather": "晴れ",
-        "precip_prob": 69
+        "temp": 31.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
       },
       {
         "time": "21:00",
-        "temp": 28.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 22
+        "temp": 28.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 35
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "衆議院議員選挙違反取締本部を設置 | 長崎のニュース | 天気 | NBC長崎放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkU2hvbWhXempGU0NaS2xnNlVDNEtRVGd3czlGZWo5TlFSOUh5cG5uZ0o0N0xjY1Yyd3N6QVFmY1FwWDVNUDJPOG4yS1hzWDlDa0V2Y3M1VHQwdw?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+      "title": "すでに「警告」２件 【長崎県知事選挙】選挙違反取締本部設置 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUTRQSG05S3hLSnI1TEtCZTdTR2FtUWkxRWIwazRTMm9mVVJMUHlicjZHSFR1N1Y2cGtod2hXd2s0eVBSbEV1dTBNdWhjUWh5Sm4zYS1YTE8yZ3R4MGcxd1pITnV3cTg?oc=5",
+      "date": "Tue, 13 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -75,9 +75,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "福岡の飲酒運転3人死亡事故から20年 撲滅に向け九州一斉の取締り 長崎県佐世保市でも検問（KTNテレビ長崎）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hYlU5TUs3QWVBVm1kQ0tkeERvc1lSS1BYRDdEaEl0MzlwbTI4THZtTWtINl8xdDJrTXBTUXkySUZzaEhwT2w3blVteUMxcktjZTFRWkxPSUczM0NQaXB3YXBaaWlfaWl3ZWZiWm9PcFFYTEtmWTMycmpHVER3VWs?oc=5",
-      "date": "Wed, 26 Aug 2026 03:53:01 GMT"
+      "title": "衆議院議員選挙違反取締本部を設置 | 長崎のニュース | 天気 | NBC長崎放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkU2hvbWhXempGU0NaS2xnNlVDNEtRVGd3czlGZWo5TlFSOUh5cG5uZ0o0N0xjY1Yyd3N6QVFmY1FwWDVNUDJPOG4yS1hzWDlDa0V2Y3M1VHQwdw?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "福岡の飲酒運転3人死亡事故から20年　撲滅に向け九州一斉の取締り　長崎県佐世保市でも検問",
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "長崎市の国道を横断中に車にはねられる 80代女性が死亡の交通事故｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tU0RaeGlRNzNsSkx6Ti1TX2g1RS1MLThUcXNreXBPVGdQRm1yZmQ2S3JVT2pPNHY3VTEyYUNRTS1vUWJ3R0lFM0NLdXdJaHByTFJldW9CZVQ2WS1YZWpxa1VR?oc=5",
-      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "アクアラインで事故 上り・下りともに通行止め",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISFdFdHFrZVprclV6ZUNucGo5dzFtdFRWazg1RVhLZTFaMUQwZngtZ1piSHpkRE5icGdyZXE2dERubzBUZ1pnMDItWUVhNEFUSFhqT0czMnc?oc=5",
       "date": "Tue, 01 Sep 2026 21:20:10 GMT"
@@ -107,9 +102,14 @@
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "ツシマヤマネコの子猫2匹保護 交通事故死？雌の近くで 長崎",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kRW5LRWNPeGN5dmtVcjZnZTM1akpxWkxlU25JVmdmdU9jWFNVUDRnQVFTQkxpQ3NpYU4tdXcxU0EyaEdiQlhCUDJKTGZBZHM2bVNGNW0yRjY3cTZPeXJqNXRrXzdXS0tJ?oc=5",
-      "date": "Wed, 17 Jun 2026 07:00:00 GMT"
+      "title": "バス運転の教諭“トラックがすごいスピードで…” 高校が会見、当時の様子明らかに 佐賀・長崎道で車6台絡む事故、生徒ら11人搬送",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vaGVPeVlFZmtXaUxPZzRkWUNUZU9nd0hpbDlNaVQtdV8yeUZEMDdMZUJWZ0RNVnZlcnJaOUhlY2JvMDVPckFNcEgwZzFYVWxwZ2hWNXpqeE9LNnQtM2V3WmhhN3lwVWM0WFFKTU00eFUzVWp6MTFGd2VLbWg?oc=5",
+      "date": "Sat, 22 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】長崎道鳥栖JCT付近で事故 少なくとも3人搬送【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haTJyZ2ZtLUl3dzhuN09wWUFRN1pTMVVCajhiaDdnRG15NXh6a1o0NG5VNzMxcENZZ1l0UjctOHpWWDZxRmk0YVlKU0E0QTdGaGI0Z2JraVZTQWVqNFY0M29n?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "素潜り中の事故？70代男性が死亡、沖合2〜3メートルの海中に沈んでいるのが見つかる 前日から帰宅せず【長崎】",
