@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-03T12:01:28.044705",
+  "generated_at": "2026-09-03T15:01:17.068429",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 29.0,
-    "temp_max": 29.1,
-    "temp_min": 23.4,
-    "precip_prob_max": 76,
-    "precip_sum": 0.7,
-    "wind_speed": 3.3,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.1,
+    "temp_max": 27.6,
+    "temp_min": 23.7,
+    "precip_prob_max": 53,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
@@ -29,45 +29,55 @@
         "time": "06:00",
         "temp": 24.2,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 16
       },
       {
         "time": "09:00",
-        "temp": 26.5,
+        "temp": 25.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 10
       },
       {
         "time": "12:00",
-        "temp": 29.0,
-        "weather": "曇り",
-        "precip_prob": 4
+        "temp": 27.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "15:00",
-        "temp": 28.9,
-        "weather": "曇り",
-        "precip_prob": 25
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
       },
       {
         "time": "18:00",
-        "temp": 25.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 51
       },
       {
         "time": "21:00",
-        "temp": 24.0,
-        "weather": "曇り",
-        "precip_prob": 47
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 49
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "埼玉の国道で持ち運び可能なオービス盗まれる 速度取り締まり中",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bnpQSzhaZUlGOFNpcmhudFZ1UGJwbjVxTTFQYXJGV3RDMGZMbEpGM2RzWTBTNjhpRjVJT2NNNVJIQ3FjU29pWThuekhFNlEtU0lTaFpNU3pfbFNEOUp5SktVN0VWbmZG?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "８月２４日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05MmxCYlNKcU5qRnlxVUp5eEZSQk5hLXIzdlUzZXZZMjNoOVZkZmlLaWMwdDdIZGpPdmdhcnl2TUtsU05KZjgyV1prdFdNdTFnQWxCYjBXQQ?oc=5",
       "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "“重量超過は悪だ”という意識を…大事故の原因にも 東北道・浦和料金所で違反車の取り締まり、ネクスコ東日本が公開 タイヤの沈み具合などから疑われる車両を測定…基準の1・9倍の超過も（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNkoxYjVzelZkNDVIOUJQak5VNjNMTkUzcU5wSFVQSWtYTVBwQzA1T0kyTVNzWmhGX01rNFI0ZDZuaXlGSU8yQUIyT21yNTNmRnlkT1FWdWFLSWZyQjVHb2Nyd1dIbE5Rd3pBeTFxeGNQZ1NiQ2pKZEVuNk1ENVU?oc=5",
+      "date": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -78,43 +88,33 @@
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "8月3日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9INDVEQXpIbllfay1WMUJ4QVFVZURZdnhxWjRjRElGWWxCd0hJWVZRWkhkQ2dTQXpLYlFiR294emJNRi1wZlE4TlhBcVdTQ0M3cEZySEVVUQ?oc=5",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警 | 山梨のニュース | ＵＴＹテレビ山梨",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZU96aURxTnkwRXAwblZhX2prVVZXMmR2Wl81NlhodHJmQ0FxaTVXSDl6ZzhZbjlzWVFhLXJkQ3hQeVc2bEYtTFRzNjZqR2s3bTFzUXNjYTFEQQ?oc=5",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "埼玉栄高校で男子生徒死亡 両親が損害賠償を求め提訴 事故直前の車内の様子",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qUlhzV1NQRnM2SlR5XzhCbVpuUkZuVXhQUEVPYVhUaFdxNFMwOVBPT1JVRHcxY2dVeDVMNTRZTFBTQVp5Ri1qZWFOR1BPZzJWY21leGdkVFNuSS0zSjRyNXRkSXVTcm0wbUZOWEZkSURoUQ?oc=5",
-      "date": "Wed, 02 Sep 2026 09:51:09 GMT"
+      "title": "ドライバーに梨を配ってPR “交通事故なし作戦”／埼玉県（テレ玉）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fdlVLQUpZcG1xbzFTZ1pYX0RFdG1ITF82UE9CdzJLcUthVVZ6Um1SMHRRMzNYb2t2WVhpWFBlakZ5VUJQcVppTHlLMC1PdXp2V1ZnNjdUVGhKdnVvLWh2LXlMRlFMM2dMeC1fRmhWTmhENG9NYkZBTUEwOHRlTXc?oc=5",
+      "date": "Thu, 03 Sep 2026 03:13:17 GMT"
     },
     {
-      "title": "「真実を知りたくて」埼玉栄高校グラウンドで整備用の車横転し生徒死亡 両親が学校側に1億3600万円の損害賠償求め提訴 さいたま市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yb1BfRy16YUNKWnFodU11YTJfMFFQcDN2LWk3SjlHSlNaaGNPTWU0cko0cVdGTlZzWlg2S0JVa0dqWWd2T29iSDUzZEFaZw?oc=5",
-      "date": "Wed, 02 Sep 2026 09:30:00 GMT"
+      "title": "「謝罪一切ない」埼玉栄高校生徒死亡事故で遺族会見 学校法人など相手取り損害賠償請｜Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GUUxtd21vQTc0eU5DaEtsZ0pVQlZVNEhEbGJFQk1ZeTZHZmVCRDJrWF9ULS14alJiWGxNS2tnZkZGQUl3MjVPWV91amtaaDVZOGRocXljZEs?oc=5",
+      "date": "Wed, 02 Sep 2026 22:50:21 GMT"
     },
     {
-      "title": "埼玉栄死亡事故で学校提訴 17歳生徒の遺族、1億円超請求",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zQ1lMdVlENW8tVVBkTmVCY0pGaEhFVkJ5RnNsUEg1TXNHRFB2aldkUFVJUUFlNThXa1FtTnhmUkhQM1d5WXNrQUV0RQ?oc=5",
-      "date": "Tue, 01 Sep 2026 08:37:34 GMT"
+      "title": "男子高校生が死亡 死亡した生徒の両親が提訴へ…学園、教諭、運転・同乗した生徒と親らに損害賠償を求める",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42emVhWEZtUUpaTGZFU0c1S2VYbFNsVGE4d1UzLTZmbDdFZjFzbkE0djVFcHZCZXFYMndwTDhQZGlhM21fdXFzSHJ1ZjN1RVliQ21kYnBpNlhfTmRQeDZoX1lpUHdyZw?oc=5",
+      "date": "Mon, 31 Aug 2026 23:10:00 GMT"
     },
     {
-      "title": "生活道路規制の先駆け「ゾーン30」は川口発祥 きっかけは20年前の園児21人死傷事故",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oNjQ4Si1na0Q1cVl2ZHh0MjN1SjQtdG5iRXJHWThkZVRpaTNBMEtfMWVQNnpyTWRIbS1WZl9PRkNEOE9QNzRibk9vTlk2Vjh0V2M2aGMwQ0Nzby1oUkNTaXF6cFJEV2FiZEo5SDVXeFV5dzNmZmc?oc=5",
-      "date": "Tue, 01 Sep 2026 01:30:00 GMT"
+      "title": "「本当に優しい息子だった。真実を知りたい」17歳死亡の埼玉栄高事故、両親が初会見…学校法人など提訴",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PRG0zR0VvVmVuQ0tfMUIzXzI2bmM3S283alVrbjktcm1NMExHbnc4Y0lBOXJJRHI0RjZlNEJqYW5oeV9MYUFVRzBLTDZOSHoxRVdhVTB6em1UMkdsY2c?oc=5",
+      "date": "Wed, 02 Sep 2026 09:17:00 GMT"
     },
     {
-      "title": "埼玉栄の生徒死亡事故、遺族が学校側提訴 安全対策不十分と主張",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45eVM3c2V6akhOeXlKRUdMZGRuMUFTcEVRTVNIaHZPYkw3cnRVZTZvY2hRT2pveVIyVjNTdkNBaktuamVndWstcHFWZTA2MVd0UlVHaThmRWRZYTUtQW1PRjNibDVVZkNV?oc=5",
-      "date": "Wed, 02 Sep 2026 04:30:00 GMT"
+      "title": "埼玉栄高校での男子生徒死亡事故 両親が学校法人などに損害賠償を求め提訴",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDZnQ2WHJLdHRXa1pEQkNoUEFCRzRMcFdhaVV3czRNX3RnSFk0cVE3TF9NbnMtSHpCcmpPRS1nYzJmTHY0MHpoWDRPei0xQ1JzZjc4MEpNajFtZ3JXMGF3encxZ0ZTejRELUtvb0wtY3doUQ?oc=5",
+      "date": "Tue, 01 Sep 2026 11:25:43 GMT"
     }
   ],
   "official_links": [
