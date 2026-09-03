@@ -1,115 +1,120 @@
 {
-  "generated_at": "2026-09-04T00:01:26.630879",
+  "generated_at": "2026-09-04T03:01:41.282220",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 21.7,
-    "temp_max": 25.8,
-    "temp_min": 21.0,
-    "precip_prob_max": 73,
-    "precip_sum": 1.5,
-    "wind_speed": 3.1,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.1,
+    "temp_max": 26.1,
+    "temp_min": 20.9,
+    "precip_prob_max": 69,
+    "precip_sum": 0.5,
+    "wind_speed": 3.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.7,
+        "temp": 21.2,
         "weather": "弱い霧雨",
-        "precip_prob": 39
+        "precip_prob": 51
       },
       {
         "time": "03:00",
-        "temp": 21.4,
-        "weather": "霧雨",
-        "precip_prob": 61
+        "temp": 21.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 43
       },
       {
         "time": "06:00",
-        "temp": 21.0,
-        "weather": "曇り",
-        "precip_prob": 73
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
       },
       {
         "time": "09:00",
-        "temp": 23.2,
+        "temp": 23.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "precip_prob": 24
       },
       {
         "time": "12:00",
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      },
+      {
+        "time": "15:00",
         "temp": 25.7,
         "weather": "曇り",
         "precip_prob": 53
       },
       {
-        "time": "15:00",
-        "temp": 25.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 49
-      },
-      {
         "time": "18:00",
-        "temp": 23.8,
+        "temp": 23.9,
         "weather": "曇り",
-        "precip_prob": 53
+        "precip_prob": 65
       },
       {
         "time": "21:00",
         "temp": 22.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 59
+        "precip_prob": 69
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QdEc5ZEFHUk9xZWdER0YydDA3VkZiU1FMbVlhRGdGcWp4UEVSc1E0c0FXN1M3STJPaHBRUjM5ZXNBRFRkOTFOV2VnMEhWS0ZCbGd6eDMtdWpYcnBzcXZES0VpUFZyVWhhX1oxUEtYN2tSU0E?oc=5",
+      "date": "Sat, 29 Aug 2026 19:55:23 GMT"
+    },
+    {
+      "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdHhKek9CUHNoVXpJaDZaUVdLeHlsanNFNW9zcGZWM3h1ajFLZm51cDJobG1jQnVkeEpLSHpiZ3ZabG14T0M2OXpZRDVQZDd2alJGMXJUVDNYZw?oc=5",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "筑波山「ドリフト族」摘発 無免許など9件、車両6台に整備命令 茨城県警と運輸支局",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ldC1vNFl3Q0Q4RDRQR1ZtTUhJTV83WFNwdXhEQnBDXzhlVXFsdXd1NTJrR09uWUpZS2VBZHM4NE5sNVZvZDI2Q3Z1RDF5N3FrQkt5MlF6UTJUeDdSUmozbHRaMm90U3NfWFJrblFHVExYNDg?oc=5",
+      "date": "Mon, 31 Aug 2026 09:58:28 GMT"
+    },
+    {
+      "title": "8月3日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9INDVEQXpIbllfay1WMUJ4QVFVZURZdnhxWjRjRElGWWxCd0hJWVZRWkhkQ2dTQXpLYlFiR294emJNRi1wZlE4TlhBcVdTQ0M3cEZySEVVUQ?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
       "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警 | 山梨のニュース | ＵＴＹテレビ山梨",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZU96aURxTnkwRXAwblZhX2prVVZXMmR2Wl81NlhodHJmQ0FxaTVXSDl6ZzhZbjlzWVFhLXJkQ3hQeVc2bEYtTFRzNjZqR2s3bTFzUXNjYTFEQQ?oc=5",
       "date": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "茨城県警が夜間の大規模検問 悪質危険な運転者の取締り",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZlVHaGFEenNzZlBRUURJTGotTnFQMkhJenRyWDRHNkw3RGx4b1RMd19GSDJtVENoS253TnZxcE9KOGZwbXBXX0RmcURwaVZVckdMd2hlOE53OVU?oc=5",
-      "date": "Fri, 17 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "鹿児島県下一斉飲酒運転取締りで16件摘発 酒気帯び運転2件、速度違反5件など 県警「取り締り強化していく」",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wU2pYbDQzRTBPbnAzbE83Ny1wdC1VU3R2SlFBUmxRYUJOQXc2SFpVTXBWRktaSWRDN212UU1kdHl6SXVTOHpGelNJLVNzMnBscGRzOUItMA?oc=5",
-      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転、警戒を強化 茨城県警、年末へ一斉検問 死者8人、全国ワースト",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QS0tLWnR4ZFUxdUdFY1FONXl4NzJTbnc0bkJsMEFLU2UxangtVzZlU0tvdXlsbFVOcVhMbzh1MzFiVmViRWVnbjNrVkZSbmg5UXdRczNiT0JIRXFLQ2RSeV9Fcjc2eGxoQlFBU2pBZ2RtTjg?oc=5",
-      "date": "Sun, 14 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
-      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "ヘルメットや反射材着用を 野球試合で交通事故防止啓発 茨城県警",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85UHRSVVMtMVVZVmlzOUxDN2hPNWE2QkVPU2JBNVduX1JVRWpBRWpRQUYzeTNWQkgyWDRzd29qSEpDZ0JGX0FWQWZqaw?oc=5",
-      "date": "Mon, 31 Aug 2026 01:21:44 GMT"
-    },
-    {
-      "title": "ヘルメットや反射材着用を 野球試合で交通事故防止啓発 茨城県警 (茨城新聞クロスアイ)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2xmcGxJSG4zMlA2bzZNZDFTbkFXV2toeFdEeC1ram5OcTJMVmlzSkEwTHpFUUROdG56RUlvZzJJa2ctWkxXMlZOUVlsSTdreTRZaGM3MUFOQU11MzJWTWY2VjM4MTVKZXh5dXdUQ2FwT1RLVnVtcUpXVjhRVEhXN0hGRzJYd2VNMlM2RFVB?oc=5",
-      "date": "Mon, 31 Aug 2026 02:52:24 GMT"
-    },
-    {
-      "title": "ヘルメットや反射材着用を　野球試合で交通事故防止啓発　茨城県警",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamxISnBCelV6QmRCNFVxX0RYOXlTcTc2SDA2MVQwbmJ4dV9BbS1uRTJCRXJnbDI0SE1YdFJfQTE5bklCX3lyLXY2WGFYMlRQc1plNERUWEpFWTExWDlIV0MzbDVxUWNqWlM3OExaVThUS1BvQVJCdXNpMFBQcTlKR095ONIBiAFBVV95cUxNUkpsWGc5Uk4xaWNRd2V0eGQzMi1XTTZrTng4akptMHVDQm1hX0hsVWVhbmtfaVFkeTdzdkJ6dmdMeXI1dy1jc09COS16aGRYWE1DS2xpRUpjX0ctUDJmZjg1a0paT1g1eGVYcXlDQnAyUmlsY2tEcUxFdy1INERTMEdKQmNTMEtI?oc=5",
-      "date": "Mon, 31 Aug 2026 01:00:00 GMT"
+      "title": "「交通事故より死者少ない」 核ごみ調査めぐり茨城・常陸大宮市長（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tZnZsVDB6MkJmSGx3UTF0N0RNTnFuaTR4SmctcExTeUh2dlR2dTVGaVRvc0VWLWRZXzIyeEZfdVZBRFk3OTJuZ0JFOGlYNTc1OHBtbmJ0TTMxWnRpNXJfXzN6cWlRTGRySzg1WXhveGVrdnRiM1BVUURMakZra1U?oc=5",
+      "date": "Mon, 31 Aug 2026 11:50:00 GMT"
     },
     {
       "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
       "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故死急増72人 茨城県内、前年比1.5倍 65歳以上が6割",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDVTIxdHB1d1l5LXRpMmJOQ1JickxETzhlVEJERG12OTB3eVI3WDhxV0xmZkQwajNfWThvSndXVURxcmtDTDNoVXlpTQ?oc=5",
+      "date": "Sat, 22 Aug 2026 22:00:00 GMT"
+    },
+    {
+      "title": "【続報】JR常磐線の人身死亡事故 身元は中2男子生徒 茨城県警牛久署",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JaFY1ZFBRSFF4OWxUOTBVMkMwTV9TRGhiYVRqU3ZmS05MQUZSVUV6SjJtR040NWdDM3J6UVcyU0ZQd1g0UWRDUDFOZWRMOWNhZnZhT05FRWd0SnI5aVNqbmVLZ0QxblNUT1JFcW5pLXFyLWM?oc=5",
+      "date": "Tue, 01 Sep 2026 10:49:58 GMT"
+    },
+    {
+      "title": "【続報】JR常磐線の人身死亡事故 身元は中2男子生徒 茨城県警牛久署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vRTZqZjhJUTN5bDZOT2tEZU1GdFhkVGJnTkNpZ3FaX2RLbHR3b3BYeUhkQUJDNFhZSnlLa04yakZIaC1QbnhscTlIQQ?oc=5",
+      "date": "Tue, 01 Sep 2026 05:38:00 GMT"
     }
   ],
   "official_links": [
