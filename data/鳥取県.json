@@ -1,79 +1,69 @@
 {
-  "generated_at": "2026-09-03T21:03:22.229164",
+  "generated_at": "2026-09-04T00:03:49.718235",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 22.5,
-    "temp_max": 26.3,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 22.7,
+    "temp_max": 25.4,
     "temp_min": 22.2,
-    "precip_prob_max": 100,
-    "precip_sum": 21.0,
-    "wind_speed": 5.5,
+    "precip_prob_max": 94,
+    "precip_sum": 2.5,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.9,
+        "temp": 22.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 80
+        "precip_prob": 94
       },
       {
         "time": "03:00",
-        "temp": 25.3,
+        "temp": 22.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "precip_prob": 82
       },
       {
         "time": "06:00",
-        "temp": 25.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "09:00",
-        "temp": 25.6,
+        "temp": 23.6,
         "weather": "弱い霧雨",
-        "precip_prob": 65
-      },
-      {
-        "time": "12:00",
-        "temp": 26.1,
-        "weather": "強い霧雨",
         "precip_prob": 84
       },
       {
+        "time": "12:00",
+        "temp": 24.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
         "time": "15:00",
-        "temp": 24.8,
-        "weather": "雨",
-        "precip_prob": 98
+        "temp": 25.4,
+        "weather": "曇り",
+        "precip_prob": 71
       },
       {
         "time": "18:00",
-        "temp": 23.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 24.7,
+        "weather": "曇り",
+        "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 22.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 24.7,
+        "weather": "曇り",
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "別件の捜索で自宅から大麻 22歳の男を麻薬取締法違反の疑いで再逮捕 愛知県警",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVdHcWJCX3htSnVrbnIzQTh0clVxbnFTWXJ2Y01lNm1mdjVZY3VXRjFBUkxQVEt3U1VGV0xhRi1UdmZKdHVGa2F1TDlIRlMwNURKa3Bad1UzUnNmdTV3bkhfWjczcHZhcXZ1bjVrWUk2cllzaXhpaHdFOHFMbzA1bm9RRVFPR2s?oc=5",
-      "date": "Tue, 01 Sep 2026 09:40:00 GMT"
-    },
-    {
-      "title": "夏の交通安全県民運動期間中 交通事故は前年より3件多く16件 速度超過の取締は前年より25件増えて282件 鳥取県警",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnMjVicWRncFNaekRSemtnMnp0dTZvMWlneDRoZmlsbVBZRnVGQ1BYLXZNM1RvMXpzVnBDaURvMGZOWW1CMDJHdUZOUDJsR2xqWVV2dzdsNnlKTml2SHJXSTI2LXk3cHZpTnZHR2xpM1FzVXNmdEJZZTV1OC1qUGs?oc=5",
-      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
-    },
     {
       "title": "島根県の園児たちが「一日おまわりさん」就任 春の全国交通安全運動の一環として広報検問 交通安全マスコットのグッズやお菓子袋を渡しながらドライバーに声かけ 島根県出雲市",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FDM3A4NXpBa2REdlFER3l3Z19uRUNTN1otY2l5WEpqVzVYMlFiaWE4bXJIQ1RBbFpMMGpUNVdJMzR6TzdJZ1JFM1c0bHJxOXZPQkRlWFhPWVBYcml1V18xckwxbkxSaVVlR0tKM010cVJ3b0diVUhRSDdyaDMwT2NLZWxtb2s?oc=5",
@@ -85,36 +75,46 @@
       "date": "Tue, 11 Apr 2023 07:00:00 GMT"
     },
     {
-      "title": "時速17kmオーバーで「逮捕」!? 速度違反で\"住所\"と\"氏名\"隠した84歳男はなぜ「青切符」で済まなかったのか？ 元警察官が解説",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BQWlUV3daUWVHeWFBalNDaVlqbWRxSzJHWTZWaTYxSFdIUEFyMzZWX2dRVHhBdDNseGdvc3hsVzZUVjBOb0FmY2N6cw?oc=5",
-      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+      "title": "暴走族38人摘発！ 終わらない「初日の出暴走」なぜ今も？ 摘発強化の裏側、80年代の熱狂と変わる法規制 - merkmal",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DQ2tfT3NjdUswOHN5aVJUOWxMaUtPMDVPOGdpZDdsck1CQl9ZMnJES1pBR21hRFhSV2M1Mk1FY0lYX3BtTXB0SF9B?oc=5",
+      "date": "Fri, 16 May 2025 03:07:20 GMT"
+    },
+    {
+      "title": "松江の国道９号 無許可、違法走行の特殊車両取り締まり ２台違反を確認 国交省",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8waGJUN1lDZzdSd0d3VFJMT2g2WThZR0J5RGpGLVc3TnpFaW9GRlVjdk9xQjFoVFZQa2Rxbl9zUldtQXc5d3QwQUNwcFQ0U3RjbnlpRDFhZHVfaU0?oc=5",
+      "date": "Sat, 23 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車で「え？それ違反？」 イヤホン装着…片耳だけでもNG？骨伝導イヤホン・スピーカーはOK？ “青切符”導入で変わる自転車ルール 警察に聞いてみると… | BSSニュース | BSS山陰放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NUXZmNXQyNThpal9hekRHU3FuMGptVkhhT2xxNUJlWWs3YVVhblZYdzd0b2FqSU9CVFNHZ3pfVFVSeklkWHVTYXFUeDg4b3VlSFJQcUJfNkZQQQ?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除（BSS山陰放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Uno1ZEFQLTBBbERPbTlYNDFpWU5LTVU2c0oxd2dFNnA2NkYxMGJFVnpEeHVHZno4M1A5RDl4NmwzVUE5SUEyT1JBcnk0WktrcF9JU0tIZHJvY0VCNlNiRW9SU0xPclFRSDNjbDBveENhT3IwNjEzYmozNUk2azg?oc=5",
+      "date": "Sun, 30 Aug 2026 08:34:12 GMT"
+    },
     {
       "title": "JA共済連鳥取が交通安全グッズや教材を贈呈 交通事故を疑似体験できるVR装置なども 交通安全教室などで活用予定 鳥取県鳥取市",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41REdaMVZWclN5aUYxSXZHWkFWb1ZkNWVqX3BSbUxNWGdOV1NhWDlqdDdOZkVmTjVEQ0UxTTNCWldMd0I2R05LU2JjMA?oc=5",
       "date": "Tue, 01 Sep 2026 18:21:53 GMT"
     },
     {
-      "title": "鳥取市内で複数搬送の交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWG5VNHU2TFJCenNkSDdGQ1c0c3FMajZBYmcwZVEwZjV5ZEJTVUMzeXRpYWlhNjJtTlBpTUdhc0o4TzlnNXhuRnpNZ3NYSGtK?oc=5",
-      "date": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "鳥取県立中央病院で医療事故　心筋梗塞の70代男性患者に対して処置を誤り男性が意識不明に　事故調査委員会を設置し原因を明らかに　鳥取県鳥取市",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZE9tekl3Unh3cXZzMXBQM2psTTBTRE9EZkU3UHNBX1Y5WTN4TXl0QmZhM0xiZFBYU1lienlpNEdGTVgtZUNUMGQwTzJZb1BsWXJRQURoSWhwNkZhcG11S1ItQnZYekhkUUhCQkdlUWI2Nk0tVDQ1Mkc0RGlCRzBCMGU5OGhKaGF0aVZpdC1wbXF5bzZrRndvZzVJUzMySDRRb1pHajI5RmY5cTR5OU9qMUFLRFYwaFFyS3NJbVAxM29OdHAwd0FBWExBQndPeDBPcnNtSHpMSULSAYgBQVVfeXFMUGtjN1k3SmI5TVEzb3Q1bXViSjFSeE13XzNxeXF1bmlPdzhBUV95Wi15eXRid3UzT1dxcGJvYmtJR3pRSi1wUEVJSHBJY3NBRldxMjl1ZjhmOXpuMXY5aHA1SVNoVGgyU0F5THNUMks0ZUVWS2V6b3I3eFdYVU05S1pVV1YtVXIyOQ?oc=5",
-      "date": "Tue, 01 Sep 2026 09:52:00 GMT"
-    },
-    {
-      "title": "鳥取市で車3台が絡む事故 5人を病院に搬送 いずれも意識あり 鳥取県（2026年8月19日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNXpBQnFKR2xsLWZFTm9EOG4wSERsVUo4RHBhYU80MFdpMk9TWURlT3YxcWZsSTFVR0RtYVI1WVFSQ0dHd1llTk12V3BJVThHeWZRYzg5WFd4ZHN6UVdXZnU1S2s3bkFGck1TWkc0WmxRQlJBSEdwWDgyc1QxQzA?oc=5",
-      "date": "Thu, 20 Aug 2026 05:36:01 GMT"
-    },
-    {
       "title": "JA共済連鳥取が交通安全グッズや教材を贈呈　交通事故を疑似体験できるVR装置なども　交通安全教室などで活用予定　鳥取県鳥取市",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sQm5uZHdybHdNQ3FvSkdZemRlRWhiZXVzMzR5WnlydHEtX2k3VTBMZWVzWmw1Tmg2X0VreGdlTDIzY3hvX194MWFTMHpGTVJEa29yNVNrVzRpZ0I3QV96c25CY3QwYVpsR2ZLZ2FB0gFuQVVfeXFMTWxCbm5kd3Jsd01DcW9KR1l6ZGVFaGJldXMzNHlaeXJ0cS1faTdVMExlZXNabDVOaDZfRWt4Z2VMMjNjeG9fX3gxYVMwekZNUkRrb3I1U2tXNGlnQjdBX3pzbkJjdDBhWmxHZktnYUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzdMd09GVGlBT3ViRjk1b0Z3aFZSZElYNmwxOExYMElSTUZoOGdRXzgwcV9KU01mSmFJMV9oQlNDLUI5ZmtlT1F0YUxjeWwxRWYyZjJ5bGNEZS1ET21SOXhCSWluM1U2dTdJLXA0cDctRGZZMnpNbmFjYUZVLS01Q1NrTTl3ZzE50gGIAUFVX3lxTE5nN0x3T0ZUaUFPdWJGOTVvRndoVlJkSVg2bDE4TFgwSVJNRmg4Z1FfODBxX0pTTWZKYUkxX2hCU0MtQjlma2VPUXRhTGN5bDFFZjJmMnlsY0RlLURPbVI5eEJJaW4zVTZ1N0ktcDRwNy1EZlkyek1uYWNhRlUtLTVDU2tNOXdnMTk?oc=5",
       "date": "Tue, 01 Sep 2026 09:53:00 GMT"
+    },
+    {
+      "title": "9月1日から道路交通法改正 生活道路の法定速度が60キロから30キロへ 道幅が狭い道路での事故が相次いで発生 鳥取市内で県警が広報活動",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3k1OUJnVnkyWk9mdkh5a1ZPckE2LUxsTzg5Y2dlblRLWGk3WHNEX2JrbTM3MEtHeTVzSmFkVUJDV2V4WFFKbVhjWl9JeXdxMHFYdzFDY0NBXzV3ejZSaThndTBxNmtTczFDNWdqWFd6cGVrbUZWNjVLOEV3R1ZsTzJ0UmtwNjg?oc=5",
+      "date": "Mon, 31 Aug 2026 10:22:00 GMT"
+    },
+    {
+      "title": "東郷池で人が浮いているのが見つかる 死亡が確認され警察が事件と事故の両面で捜査 鳥取県湯梨浜町",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTEtadFRkR2kwSndTakNEZXBWZ29QdnNYNGJPNDhad3FQU0pIMHJTbDRzUnF3bjMzV2xUQUVGWUVjeUtvMkV1ZkpwQ1BhQnRMcGFDaElHemVsb2RRa0dtUDFiRVJETHdtd0EybC1MUHFsSFV1ZDRhd0RNVHBmTFU?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

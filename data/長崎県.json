@@ -1,95 +1,69 @@
 {
-  "generated_at": "2026-09-03T21:04:09.346195",
+  "generated_at": "2026-09-04T00:04:37.080914",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 25.8,
-    "temp_max": 28.2,
-    "temp_min": 24.0,
-    "precip_prob_max": 89,
-    "precip_sum": 5.1,
-    "wind_speed": 9.5,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.5,
+    "temp_max": 26.4,
+    "temp_min": 22.7,
+    "precip_prob_max": 100,
+    "precip_sum": 39.6,
+    "wind_speed": 11.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 28.2,
-        "weather": "晴れ",
-        "precip_prob": 6
+        "temp": 25.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 27
       },
       {
         "time": "03:00",
-        "temp": 26.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
-      },
-      {
-        "time": "06:00",
-        "temp": 26.3,
-        "weather": "晴れ時々曇",
+        "temp": 25.2,
+        "weather": "弱い霧雨",
         "precip_prob": 47
       },
       {
+        "time": "06:00",
+        "temp": 25.1,
+        "weather": "弱い雨",
+        "precip_prob": 82
+      },
+      {
         "time": "09:00",
-        "temp": 26.2,
-        "weather": "曇り",
-        "precip_prob": 59
+        "temp": 25.4,
+        "weather": "弱い雨",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 26.8,
-        "weather": "霧雨",
-        "precip_prob": 53
+        "temp": 26.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 24.3,
+        "temp": 25.4,
         "weather": "弱い雨",
-        "precip_prob": 80
+        "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 24.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 88
+        "temp": 24.4,
+        "weather": "雨",
+        "precip_prob": 90
       },
       {
         "time": "21:00",
-        "temp": 25.8,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 22.9,
+        "weather": "雨",
+        "precip_prob": 82
       }
     ]
   },
-  "enforcement_news": [
-    {
-      "title": "８月２９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxMHhsSWhxbi0yVHNvSXlIb2Zma19QSjRXNGpyRl9nRUxwR3QtWFR4RGJ3RWFmWmNtNkVkc0hnbG1lNFh2eGFYNU5ieDdUckpkaFVCN0xLdzhJaDFZUC13NF9oX0RkRlZ6U2oxaFVSQXRHd9IBd0FVX3lxTE4ya1NTTkJBYjRyWDk3Q1ljSDRNdGlZeDF4RTZfYWZEbEJNWkNRVVppeHM0XzdhRzVTMWhQQkFROU8xVXp4b01vS2FmQWU4WHRnSHhlLXh6aDF1LThSc25XTXhkNnRpVG9KOExydGw2bWxxWlZjRjRB?oc=5",
-      "date": "Fri, 28 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "自転車の青切符…取締りの時間は決まっている？警察庁が明示する“2つの時間帯”と「車の免停」リスク",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14eGQ2alA0c1NSVTdLUUdhYmdxbmFzRFdEdjVkTTlBR185SG1VeXdfaUdWbTE1UGFpS1lCa1Q4R3JNTEhZUXZvbXdpc3RFV2kyR1pQbUEzNA?oc=5",
-      "date": "Sun, 29 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【知事選】県選管「衆議院解散次第で投票日の変更検討も」 県警は選挙違反取締本部を設置《長崎》",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGVreV92di1YNnVXdGFuZkxxcmx2Mmx6b3AwcXJRS2dnWmMxdXRENXltTk15NDNOcEpraWl5RGlIVHM0dDBzazYtSEtteDRvNXo3VzB5UERqRjN6Rkx3S1RFUkhlNkpnc0Fqa1JBTDhjb19VeFZQNTl4R2JpSS1zQkVyRXdqLWV1?oc=5",
-      "date": "Tue, 13 Jan 2026 09:54:48 GMT"
-    },
-    {
-      "title": "福岡の飲酒運転3人死亡事故から20年 撲滅に向け九州一斉の取締り 長崎県佐世保市でも検問｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BaWROaFlBNEh4cFE4eUtXeFZmRlNkZjcwZ0ptN1ptWGZXTzVIalpkTUtyQS1PdlpNYUJpZWtmQUV1U0VGRmdyRnIyRzR5N0dJZTg4VnpBT1N1ZkFXdTY5VE5n?oc=5",
-      "date": "Wed, 26 Aug 2026 03:50:00 GMT"
-    }
-  ],
+  "enforcement_news": [],
   "accident_news": [
     {
       "title": "交通死亡事故ゼロ作戦",
@@ -107,14 +81,9 @@
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "２０２５年の交通事故死、長崎県内では３人増…信号ない横断歩道での事故増加",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeXBrSFU0ZnhpUnVBa1BSLVgzZFdmSTRBRExfdkNuUkJfNURSRzMySmU1NHBaZGNFel9iMDU4MUlqSkpJR2w4bjRjckZRN3pkeU9zbVJUSEhDLUFfWjNISmc1UjVGSUE4NC1RbGwtYmFlNGRNM3BCR1NnYXVzcUZNNG9B?oc=5",
-      "date": "Wed, 07 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "素潜り中の事故？70代男性が死亡、沖合2〜3メートルの海中に沈んでいるのが見つかる 前日から帰宅せず【長崎】",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PS3V5T2cwX1l0cjVRTDQwQkVFNkxIT0llbl85NUdGX0FLNThfRXZKSndRRzJoTW9GQjZjVGRUd2xoOVp2S1EtN3lLTU5LeWhWT29sOEVFUm0wZw?oc=5",
-      "date": "Tue, 01 Sep 2026 07:56:00 GMT"
+      "title": "長崎自動車道で6台絡む事故 樟南高校女子剣道部のマイクロバスに大型トレーラーが衝突 10人搬送、少なくとも生徒1人が重傷",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kXzl6anVPMzZBa0F0QXJ0SHBjeVB1Z2JjWDdTUGNIUFFSSHpJZHNEQTd3WF80WkhCYVB2Y1l3YktpakdSMTJQbDZtT08wdlB6TERqZDdNZUdIWnQ4c1YxNWhpWElncTVBV3hWQ0VTMkNlUHJUQ08wNWhxYmtGMmc?oc=5",
+      "date": "Sat, 22 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

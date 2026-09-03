@@ -1,79 +1,69 @@
 {
-  "generated_at": "2026-09-03T21:00:52.304324",
+  "generated_at": "2026-09-04T00:00:40.967394",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 21.3,
-    "temp_max": 27.1,
-    "temp_min": 20.7,
-    "precip_prob_max": 100,
-    "precip_sum": 26.3,
-    "wind_speed": 6.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.5,
+    "temp_max": 24.3,
+    "temp_min": 19.1,
+    "precip_prob_max": 86,
+    "precip_sum": 0,
+    "wind_speed": 7.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.1,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 63
       },
       {
         "time": "03:00",
-        "temp": 22.9,
-        "weather": "弱い雨",
-        "precip_prob": 96
+        "temp": 19.7,
+        "weather": "晴れ",
+        "precip_prob": 86
       },
       {
         "time": "06:00",
-        "temp": 22.6,
-        "weather": "雨",
-        "precip_prob": 94
+        "temp": 19.4,
+        "weather": "快晴",
+        "precip_prob": 71
       },
       {
         "time": "09:00",
-        "temp": 24.2,
+        "temp": 23.2,
         "weather": "晴れ",
-        "precip_prob": 88
+        "precip_prob": 75
       },
       {
         "time": "12:00",
-        "temp": 27.1,
-        "weather": "曇り",
-        "precip_prob": 78
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 84
       },
       {
         "time": "15:00",
         "temp": 23.8,
-        "weather": "弱い雨",
-        "precip_prob": 94
+        "weather": "快晴",
+        "precip_prob": 41
       },
       {
         "time": "18:00",
-        "temp": 22.0,
-        "weather": "弱い雨",
-        "precip_prob": 88
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 21.3,
+        "temp": 20.3,
         "weather": "晴れ",
-        "precip_prob": 71
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "9月3日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xQ25UczBKSWlrTTVaOUdjQzVCQldzeDhoMnJ5YWpMdXh6SlZ4LUl4eWdDcnM4ZDJ0RFhUN1FaU3ByM3g2bzhPUWFGekEwZWxEc09Va1NHb2FSY0VsTV8tdFYwLV9FTEk?oc=5",
-      "date": "Wed, 02 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
     {
       "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
@@ -83,11 +73,6 @@
       "title": "【速報】自転車の“青切符” 青森県内で初めての摘発 自転車制動装置不良のため",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQZ01ZTEZ4aHVjWVZ1dHlfRVF5V245blNnSDg5TzlDdGZkOTB0MDQ5RmNwdmJJX2NpMEhqLVdrSTMtYlMwOVBzWlRKSkJzM1VFeURoLWpMdw?oc=5",
       "date": "Thu, 23 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "家族連れに青切符制度周知へ ヘルメット着用も呼びかけ 道内で19件摘発…釧路市動物園",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXpobnAyTVh3WWJzX3FHSEgwcldDWjlNM25GWl96TGhlWDI1Um50ZXQ5R2NYd1NubC1UNjJ1cUw4SDFCeExfbjhQM0NxbzFDaU9mS3ozd3ByMVhaZFhROFNyMW52TVp0d2NXc0pBY3VuMEl6VGMza0U0NE1WS0k4OTA1T1VzM2s?oc=5",
-      "date": "Tue, 05 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,19 +82,19 @@
       "date": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "防雪柵に衝突 女性死亡 警察が事故の原因を調べる つがる市（2026年8月18日掲載）｜青森放送NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME1haEVQOXV6RXVEUkRnaE1kZFpKSFF1NVAzd0V2M1dyUFY3QjVYSkFORl9YZERzUGNHdjMzTkpFcHlFc3NzdDR4OUpWUUlJTmdyYUlJcGtvY3ktMG1fWjd3RTBSanVudVNWSkZRZlNrQkdSdDk5MkVWWTB4b1U5eG1oTzVyLXM?oc=5",
-      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+      "title": "【速報】青森・野辺地町の国道で車4台が絡む事故 3人搬送 | ABAニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oaHhySDJyalBEUUk1dmZxWVlFVVRZeTJEM2tLYnpZMTgtN2hsMlpDTmhvTmt5YmZvUTZlRzdDODg1RTZTanRPN2RibllHOXhSY1lBN0M2dmc?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "50歳の会社役員を逮捕 横断歩道で91歳女性はねられ死亡／青森市",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpQ3U5NDg2a1FLUnpzWk9kaUJ5WjBHVnhIOGd3TWZ6M1BndERnejlnN1VEMWlzMWRrallpTnpmRTZyR3hUanBUSklhU1VZeUpnR1A0NEFtbnk?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT"
+      "title": "「怖くて渡れない」人身事故が青森県内“最多”の交差点 現場視察で見えた特徴や課題とは？",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmpCMVliTGtsejBuNjl0ZkpoM3piTXg4YTUwY0ZNazNIOUo4aFZFeER2a2trWVBxZDRlZkVMLUdWVzlRM25IMGNBX213Wkl2eEJ1NGVsXzlPMFlOakNrWHdCOUlUbV94bGlmSnZQUFExdVRMMnUxbjVnOGVOVE03cmVJd3RBMGM?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "ダメ！絶対！飲酒運転 2025年発生の飲酒運転による交通事故は28件 青森県警察本部発表",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaFVEOHZyVkVEbjdOeURJZklHbm9Qa2l5ZXJHSVgtdVVxRW4zNEVmUVNORmNBbzJEbENTLXZ3ejVsSHJPcnZjVVg4dw?oc=5",
-      "date": "Tue, 11 Aug 2026 11:47:21 GMT"
+      "title": "【青森県六ケ所村・女性死亡事故】現場道路、危険性指摘以前から スピード出す車多く、住民不安（Web東奥）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83TFRsX29UM2JTV0I0S01kRk5RWlVPWFhSRmtBUjd0OWV4cDRlU1ZqQVIyY053ZDZhVGNqdk1zblFNSzhrZ0pYU1dKenFDaXhlY041V3c4RTVGTnN6YW54Z3l1SFdrcnlLWlVrSTRXU1FZak5TMWZ4TzBSMkFWWDg?oc=5",
+      "date": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "青森県内事故多発交差点ワースト現場を視察／十和田市と十和田署｜行政・政治｜青森ニュース｜Web東奥",

@@ -1,104 +1,94 @@
 {
-  "generated_at": "2026-09-03T21:00:58.527973",
+  "generated_at": "2026-09-04T00:00:46.258083",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 20.8,
-    "temp_max": 22.8,
-    "temp_min": 19.6,
-    "precip_prob_max": 100,
-    "precip_sum": 34.1,
-    "wind_speed": 5.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.2,
+    "temp_max": 26.0,
+    "temp_min": 17.5,
+    "precip_prob_max": 78,
+    "precip_sum": 0,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.6,
-        "weather": "晴れ",
-        "precip_prob": 100
+        "temp": 20.2,
+        "weather": "快晴",
+        "precip_prob": 10
       },
       {
         "time": "03:00",
-        "temp": 22.8,
-        "weather": "霧雨",
-        "precip_prob": 90
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "06:00",
-        "temp": 22.4,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 21.7,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 16
       },
       {
         "time": "12:00",
-        "temp": 21.8,
-        "weather": "曇り",
-        "precip_prob": 100
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
       },
       {
         "time": "15:00",
-        "temp": 22.5,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 21.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 75
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 29
       },
       {
         "time": "21:00",
-        "temp": 20.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 27
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "9月3日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xQ25UczBKSWlrTTVaOUdjQzVCQldzeDhoMnJ5YWpMdXh6SlZ4LUl4eWdDcnM4ZDJ0RFhUN1FaU3ByM3g2bzhPUWFGekEwZWxEc09Va1NHb2FSY0VsTV8tdFYwLV9FTEk?oc=5",
-      "date": "Wed, 02 Sep 2026 20:00:00 GMT"
+      "title": "誤った標識の設置で交通規制の効力が無効に 誤った摘発も発覚、県警が反則金の返還手続き進める 岩手",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rS0o5NDMxeWZseVROSEdqTjdRY2FralJDbGFfZUc4SGhRNjh4RmZxRXh1Q3k3SzNZSE9sdzNNMGYybnBxbXQ3SWxuLVJpNVo4ck0yTVBEOA?oc=5",
+      "date": "Mon, 19 Jan 2026 08:00:00 GMT"
     },
     {
-      "title": "9月2日（水）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTG1Fb1ZFUnJNSHhiU0YxTzd2Wm5rTFE1a2s5SER4RE45LVpHVjE2VW1tcWJqOG84R01Ja0UwTldhNzROWTFnQVFSaXRNckE0anBqbm92TXNNc0NENi1fb0VDVlh5X3JxWlhkb3Q4VVU2WHRFU2RxNWNpMy15cmlZUHpvczgxZmNuSllYYmd3?oc=5",
-      "date": "Tue, 01 Sep 2026 21:36:50 GMT"
+      "title": "盛岡で違法メンズエステ 風営法違反で男２人逮捕【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOOWRiT19uUXcwSXROTS1KSHR2STNsczh4Z2FzSGsxT0tRUEhuaHFEYjQ5eVV4UUFmakV3eUJmbWJ4cjc1SDhwUmJyVDJ3QXdzR3Vfczc0VWhjQ3g2ZzVMOTBEelhVNDVadGU5TmZiZDJXOVFnUGZmQUhSN1BxcWFHTnJ6WnhFdVRHT0pnTzVuQzFSQ3FGMUZRc1N4YlB1LUx4Yl9Rb2U0eE1uN1JZdGprckNYWFJ2Rk14QXFoVFBVLWQxNWZkUXpSeDhGQjhWSTRZWmtQU1VDd2FCM3c0TUZqS3BjQlJldGI4cVl1djZMYTE4RGRoNFc5dmYxQUdEQ3dDY1hIZVVhVkpzVEFVOVpidDNMT0ZPeUlnRURLQ1llVmdhUEhLOE8xdHpzWV9oakxLS0JQWFF6VFl4QUtDQ2RjZ05iMEN5UGJhMS1n?oc=5",
+      "date": "Wed, 20 May 2026 07:00:00 GMT"
     },
     {
-      "title": "9月2日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Hb1lxSnNUWXlRNWhmZWZWUnk2dzJBNHJqZzdWYndMbFFDWXd0YVFWV1NvNmllcU5SYkd3ckFSckRRVk5JdFhYYWx2TFFpRy1jWDFUbWVUc3VXLU12UUtiWHhJNEhXSGM?oc=5",
-      "date": "Tue, 01 Sep 2026 20:00:00 GMT"
+      "title": "衆議院選挙、警告5件 文書掲示、文書頒布、事前運動 岩手県警取締本部",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qbUdGVkg5d2VER1ZwU2NwelcxU2xhcjFXYTdZcGl6dmpBcmg1aUhhVjdFa2gxbkVLaG4tYV84N1R6Zk40Mm5EMkc2cmg1Mkh1TWRvU3ltM1ZOTjJaNEsw?oc=5",
+      "date": "Sun, 08 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "9月1日（火）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFZGbW11bHdpcnlLUWRnVXZ3M0llSEZrTXNUZENNRlE5ZktPU1g4OTA3QnJMeTZ4dThiSG5NRDhsS1g4Y3lxRHhqT0szQjBVVjI2cEpOUG5EdE5ZaXZZZWZPVDJ2RTJpTmJsM0xHdkt6ZjFrV2VHNFJLekJoSDZJN0RDcE1YNmgzZ3B2TFdR?oc=5",
-      "date": "Mon, 31 Aug 2026 20:18:50 GMT"
-    },
-    {
-      "title": "9月1日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZHBOQWRJOUE2ckVMSlFmNFVrS0kzZmwyVWRyLS1CVXFGUG9wWXZUNV9RNGNLcFQ4MjhfSnRyLURyNFRsSF9zRUEzZEphYUM0WlA2QUhtNi1sZTJiXzdpYm4tenZNVjg?oc=5",
-      "date": "Mon, 31 Aug 2026 20:00:00 GMT"
+      "title": "酒気帯び・速度違反で書類送検 岩手県警、職員を懲戒免",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00U3h2OUVjT1c5WVhVQ1ZqN1otcTQtYkZvTTY1VlJ4TmEwZXpEZVRydjBsaWNyaVFRUUFCSDJwbU5OZlFuY0Z4bkRFUmtYeGdERHdGOXNja2pteXpGamRIcldUM0RyQ2h1dlV1WFdzSmplLXN6N0E?oc=5",
+      "date": "Sat, 30 May 2015 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "盛岡で交通事故、女性はねられ死亡",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veFA3VnZSY3VUZklxZGJkRWNrU2NJaHA2RklhdGpjUXBlNnhpa043dTlOczRHZ1VOUjJScHFVUXVFOVd1ZWVyUWNkeFYtc0Z2VlpKaHhjUm1IcDFtc3A5bA?oc=5",
-      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "盛岡市で交通事故 高齢の女性が死亡【岩手】",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQR2pIRExMY1drcHo3VGpfM3M5ZEdfb1c1RHJrdVJFMjJpY3BDc0xZWU0yMk90bVRDeXdLdG1VWnI4NmwzRmJlWFdzSTJsVS1oTzVyYVVZWnZzUXh3ZVRRbDZtUmZRdmF3Z2JpLThEYUV4MDNfcG1yU3RzaWFGVWNmTnNrbTVKSzdSbzJRc1MyLTNtckJUN3g3WExDdFhoSldoa0FzR2dXSHN4MWVDMldxX0RTOU0yd3VCaDBIS1htQ2p1UmNNeFFRUmlRNzg5NUMweVYxRXFjWFBLWGN4c3ZQSFVmX01vMGctMUNjdEdjNDJXbWh4ZnhaV3ZLVGFROHhvNWZRWlhxcmpoM1NSVE9oZkk0REJPSXpORi1YN3JHMjk1THlWTkpGc3c3eHVndFdCZGdSanV0NERUbk44SHB3?oc=5",
       "date": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
@@ -112,9 +102,14 @@
       "date": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "沢登りで行方不明 女性を滝つぼから救助も死亡確認 事故と事件の両面で捜査 岩手県雫石町（岩手めんこいテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUkpmT014c044enFiMEI4TGFHRjRXUnp6V0hfNVJ1dnlndWZ5b05KTUg4YnlLVzgxVDRtWE9hT3lRaHpWSVlQWDEwYlpaWUptU2xPU3pwSkRLOEx0cDdaRkt4M1FVdTJ1T1czNnA0cDNyR2pfT2o5N3JnRTNNQzA?oc=5",
-      "date": "Sun, 30 Aug 2026 07:28:00 GMT"
+      "title": "奥州市の国道で交通事故 ７０代女性が死亡【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxONGdYYWlyWm84dWlxOS1UVG56LTF1dURJYlJSQzl1RmtQZmphanFkS19feGY4WTFYVmhVVzRLeG8xMV94Q0R3dzlUem5Rb3pkcGJCRmdlU2hhcWRMaXVONTRnNEpHeGNIQlpEU1JlU0xGVXN6N0pIOEVmWVZGeHpCSDRQd0tYVWRQWWtkcElSaEd3U0hvclp5VElRaFJnVjVJanhCd0VXRTVuWDd4cnhpUE5Hb2Zxb3pxbXozMmRzclloaGV4M2pMam5uUGgxYlVhYXpPb0MzdHZvNHllNDJvWEpLNFNHclJ6WUhUaVVyYmR4TlFxNHhaT1ZJUmxUTUducnRrVTlxaGFldjg3WDhqZ1h2Q21zLXZYVEo4THdQdFh2WjFtMUpMa0pTa0NKOW9MdDlTWDVmcGVvYmxkWG5QcTdOTGlsMFV4aVRF?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "盛岡市で交通事故 高齢の女性が死亡【岩手】",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQR2pIRExMY1drcHo3VGpfM3M5ZEdfb1c1RHJrdVJFMjJpY3BDc0xZWU0yMk90bVRDeXdLdG1VWnI4NmwzRmJlWFdzSTJsVS1oTzVyYVVZWnZzUXh3ZVRRbDZtUmZRdmF3Z2JpLThEYUV4MDNfcG1yU3RzaWFGVWNmTnNrbTVKSzdSbzJRc1MyLTNtckJUN3g3WExDdFhoSldoa0FzR2dXSHN4MWVDMldxX0RTOU0yd3VCaDBIS1htQ2p1UmNNeFFRUmlRNzg5NUMweVYxRXFjWFBLWGN4c3ZQSFVmX01vMGctMUNjdEdjNDJXbWh4ZnhaV3ZLVGFROHhvNWZRWlhxcmpoM1NSVE9oZkk0REJPSXpORi1YN3JHMjk1THlWTkpGc3c3eHVndFdCZGdSanV0NERUbk44SHB3?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

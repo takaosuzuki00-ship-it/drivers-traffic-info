@@ -1,122 +1,91 @@
 {
-  "generated_at": "2026-09-03T21:02:21.261439",
+  "generated_at": "2026-09-04T00:02:39.710400",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 23.9,
-    "temp_max": 26.4,
-    "temp_min": 23.3,
-    "precip_prob_max": 100,
-    "precip_sum": 3.3,
-    "wind_speed": 1.6,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 21.7,
+    "temp_max": 24.8,
+    "temp_min": 20.9,
+    "precip_prob_max": 88,
+    "precip_sum": 6.1,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 84
       },
       {
         "time": "03:00",
-        "temp": 23.9,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 73
       },
       {
         "time": "06:00",
-        "temp": 23.5,
-        "weather": "晴れ",
-        "precip_prob": 71
+        "temp": 20.9,
+        "weather": "強い霧雨",
+        "precip_prob": 76
       },
       {
         "time": "09:00",
-        "temp": 24.4,
-        "weather": "晴れ",
-        "precip_prob": 45
+        "temp": 21.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
       },
       {
         "time": "12:00",
-        "temp": 26.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 90
+        "temp": 24.5,
+        "weather": "曇り",
+        "precip_prob": 78
       },
       {
         "time": "15:00",
-        "temp": 26.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 24.8,
+        "weather": "曇り",
+        "precip_prob": 88
       },
       {
         "time": "18:00",
-        "temp": 25.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
+        "temp": 23.5,
+        "weather": "曇り",
+        "precip_prob": 82
       },
       {
         "time": "21:00",
-        "temp": 23.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 96
+        "temp": 22.4,
+        "weather": "霧雨",
+        "precip_prob": 67
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "飲酒運転取り締まり場所を公表 7月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS2RuMWtUdmUtanh5S0x6S05Ta0JCWXd0MUc5YURCdzFwVmZBQVJQMTZVbERFclJuZkJROWtzanpmTGRJUnVxZ2lfSjRpbTJsZlY3MFZXS3Y5dw?oc=5",
-      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "８月３０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BcDc5OEJKSzZoOW9WZjJfVGJRc1dFMnpMMGNJdXcwSVlSYmk3WlZHMnJVY2dxcGpqc0VwemF6N1ZXN3JBa29OVzhGX0dBeWxoajBvaS11V1lGVktnS0E4cWg4ZVF2T0I3U3lqemlkSDJCd9IBd0FVX3lxTE9YRmhlWUg1amdJSjR5dnk4eGE0LURCZzRPSTY1NDNuWWNndkNSY18tNWoza25PTzNqWkZEQ05sZTVuTWVKa1lrajY3LVNpVkpwWGNNanZ6ZjV2bGQ0YWl3RG1DRzR1X0RwV0J4aEVHUS11dnhmZHU0?oc=5",
-      "date": "Sat, 29 Aug 2026 20:00:00 GMT"
-    },
-    {
-      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "包囲型の飲酒検問 中心街から移動する全ての一般車両を停める 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zbkN2dnppLWRhblp5RFk1QjFFMjZ6N0ZDeVlYNFB0SW9VWU0tNFBNczNGQUpEMmE5Q3JUZlVha25xRWxRbEhWNXFmVUFXcm5BQlRSMVJvTQ?oc=5",
+      "title": "包囲型の飲酒検問 中心街から移動する全ての一般車両を停める 山梨県警 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQi1uRHdYajQ0UDJaTmNSc0lnR3RUS0ZmYnJJVTF1clZNbUphVXdmMVN4cGhka3JZNGlJV0MwM1U1ZGJFU0lrSkxwbVhLUDJRY1FTaUhtTGI4QQ?oc=5",
       "date": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "飲酒運転根絶へ　甲府市中心街で包囲型検問など　飲酒運転摘発　一週間で７人　山梨県警",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VYVRHUkZ3cm9qcURZbXhkRkhQZUZERVM3TXVjUkhwampEV2lzdDBpbnYtTHRmSmhNSEM5b2V6aFY3Y2ktSDJPd2kzaldXOUxLM1Q5UnJxMDl0Z25Wd1pmMkZaRmFENE05c1c2cy1tMNIBdEFVX3lxTE01ZHIxdDBSaHZqN3pHTzl5WUdVc1BoQmFaZ3lkVE9nV2VKRzBMaF9wclhDcmwwejJGaHo1cXNfWUVEX1VsaFBrOUJ4d0J0M3NodG5BTjhTS2FzemxWVXhKdF81WTNwSDUxNWZLb0lCQ1V1TDlY?oc=5",
       "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転疑い７件摘発 県警",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nWlB0dmtGa1RiaUNiZ1M1c19zbzExc3ZqYTk2OEpoelFYcVhVWGpuT1o3R2pmenB5UWhsOUFaZWJtU0N2eXROSVVYcGFadjNpVTRIbmgxLXpfcXZRUXlmTnR0QW5kRVJIcTVxUjdzNVJDYXV5ZjJ3dnp3?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転取り締まり場所を公表 7月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQzM0bFE3aE8tTm10blduajAxUXNmNXhXTGNuUkV1MkkxU2ktSTllYlZlMjV3MmxJSUpRa0wxQXVubkNrMVJOOGV3UEFxWGRVSGlZeDlhTGVYODVsX19KMXNTZU5tU28?oc=5",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     }
   ],
-  "accident_news": [
-    {
-      "title": "ボートで釣りをしていた男性 水上バイク衝突事故で湖に投げ出された2人を救助 警察から感謝状 山梨・山中湖",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTUttUlk0aWhjMjBpNzh2YWVjZEFtUE9OMVljanVUZWhQU0U3Vml6aW55NklINWNZMjEyR2lqQ1BKVkt0SzlobUx1WU9hMENZNEREMTAyaGF4UQ?oc=5",
-      "date": "Thu, 03 Sep 2026 11:14:00 GMT"
-    },
-    {
-      "title": "交通死亡事故1,000日間連続ゼロ達成！",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWXc2ZXJWc19zZnNZaGhLYkpMNEt4OHI4RkUzSldKbzJLRkwzZGxTYnlRRU5oTGxwVGF4VUtlcWl4Z3JuODFMYm1OWkxLQTVwSlRwTWhQWVloT1NNY1FyazdyS3BCOXJDdDdXWVZ5dzNaX2I2dGhwWmNDTQ?oc=5",
-      "date": "Fri, 07 Aug 2026 19:35:14 GMT"
-    },
-    {
-      "title": "軽乗用車がバイク2台に衝突し2人死傷 酒気帯び運転か 運転の男を現行犯逮捕 山梨",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXAtRGM5SWYzd1k3dU85WHpqNzN4RVNEUlUyNTh0TlJUVmZuaXc1eDUtZWVTcVdYWTNMT0VPMFR0SWJLY08yenB2R2tnNUprRF9pTXQzaS1sU0Z3S1NEUmhmSklXR1o0V0RiYjlhQnJyN1ZZX0ZZdV9VUDNBWGNGV3BFZkJyc0E?oc=5",
-      "date": "Tue, 28 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「地元としても大変心配」　軽乗用車同士が衝突　1台が横転　おととい開通したばかりの都市計画道路で事故　山梨",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MNTB3QzFBQ1dCQU84Mm5KbVcxbHdrS1otWEFGNEdhZ3dsT0tGOFBBczVCSWU2bXhNWnBFYUlaRjBEVEdrc2EzYUk3MFlyb2gxbkhqYkoybFJyWG9KaXF1aUUwMjRYRlZyNzczdDl2WdIBdEFVX3lxTE9kOENBcGJSQTh5UWtsT1dYdldtMHg1dGoxVmdJQm0tR01VMHBmbWxHMGNWTlFNVkRRRzVnbklrTmZWWEpkNEJQNGJWY1RRX3NKSVdEVm5UeHNBdHp5TXVVczJ6ZmdVWXZEaXJWQjhBUTk0bnNX?oc=5",
-      "date": "Mon, 31 Aug 2026 11:47:00 GMT"
-    },
-    {
-      "title": "【速報】富士山の山頂付近で倒れる 台湾の男性が死亡 友人らと3人で登山 山梨（UTYテレビ山梨）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00VDNkUWtkcTlDUUs3eGxXRnZvcmRoMDJpVUVDMWp3ODdmY1UtekhvYUVTOFhqZE1WYXU0SWM0QTUxYjhJaWxaR3RoWHJyUHR0aXBzZElCRkF6UHpnUW14eGtMSWdVeWJKUW53SHJxRTdvcUtFSTAySnFIRjlkekk?oc=5",
-      "date": "Wed, 02 Sep 2026 05:10:25 GMT"
-    }
-  ],
+  "accident_news": [],
   "official_links": [
     {
       "label": "山梨県警察 公式サイトを検索",
