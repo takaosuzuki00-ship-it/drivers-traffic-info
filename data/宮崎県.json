@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T08:26:11.708666",
+  "generated_at": "2026-09-03T09:04:34.856596",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 27.5,
+    "temp_max": 27.9,
+    "temp_min": 27.1,
+    "precip_prob_max": 100,
+    "precip_sum": 208.8,
+    "wind_speed": 13.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "03:00",
+        "temp": 27.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "06:00",
+        "temp": 27.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 27.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 27.8,
+        "weather": "強い雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "15:00",
+        "temp": 27.8,
+        "weather": "強い雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 27.6,
+        "weather": "強い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 27.8,
+        "weather": "強い雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車「青切符」知って 宮崎県警取締隊が出発式",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdjVpYjBvOHpSY1lDel9nVHE5c19sMjFHZDAtcUpDRXBMM1B0VnQ4VGR2cjdKQVk1NDlIeWp2dldPTGprQTJEYTh0akhfNnFpR1Zqb2RoLWNHc01zQXo5OVZBU1hGdk5tcFE?oc=5",
+      "date": "Wed, 11 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の「ながらスマホ」は反則金1万2000円！4月1日から“青切符”導入、宮崎県警が指導取締隊を発足し駅前で啓発",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWZMM1RQTUpzUEl1MnRURFlaZFAteFU0Q3JUUXJQOTJCeW5ibmY1ekd5VlNUSWJaeVV1TnZrbjJiamRuVERYTkVGbUtOdGdYRHFMUDRrNVBRZHVmbXlnV1V5blJOWE5EMlVRVXRlaGJnRjlEVy1seW5Od0wtaDJ5VTN1YUdCQmM?oc=5",
+      "date": "Tue, 17 Mar 2026 20:16:08 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0RIQlR4VjV3Rk9KdkFUaXE0SDhua3FJRXA5bTlmMTJ3YldrdVlzY2pFZFlqQVF6STZ1SXB5WWs2cDdzYzQyNl82WQ?oc=5",
+      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMHFUc0dMdkNNTUNJb3k0VHNLVWozZjNmOUpweFpkb2diaURDdmtKeHdTNUxlRG0zOTAwcEdVd0JYYzdncGpzaEozQlVaSFBaYkhKX3d3eVc4VnpXaWJZR3ZPTjFLOGtyNEpPMTdCckdKWUc4TDA3VHdIdDJJWXM?oc=5",
+      "date": "Sat, 29 Aug 2026 06:57:44 GMT"
+    },
+    {
+      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問 (読売新聞オンライン)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTY1djlSdFZqUTFYSllWeEx2Q3VkYy1rb0pMWGNGYmdxeHFoN0dFUlVEeTlSdzJYN1ZLMW92YnRQclAydlRDUmp2Q2FJNUdoN1ZMR3g5cnVIRlJkWURVZjdKc2xhZndKT0tuclZDV0czejlwODhHNGo3QXFHQVFJOG95V3ZKb0pZVHRZT2FR?oc=5",
+      "date": "Sat, 29 Aug 2026 06:57:44 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "酒気帯び運転で物損事故 宮崎市上下水道局の主任技師(62)を懲戒免職処分 | MRTニュース ｜ ＭＲＴ宮崎放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydGRZOXZnRGJ3NTdrS1RxQ1MtMUtIa1Qwd3MyemdiN3NHTmFoeUZFRnVTTDdrYjNjdldkSV9kYVNiUFhpYnNmVXJnNFh4bXN3UVdYc2xKWURaeXUyZGFzdE53SW5OaUk?oc=5",
+      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMHFUc0dMdkNNTUNJb3k0VHNLVWozZjNmOUpweFpkb2diaURDdmtKeHdTNUxlRG0zOTAwcEdVd0JYYzdncGpzaEozQlVaSFBaYkhKX3d3eVc4VnpXaWJZR3ZPTjFLOGtyNEpPMTdCckdKWUc4TDA3VHdIdDJJWXM?oc=5",
+      "date": "Sat, 29 Aug 2026 06:57:44 GMT"
+    },
+    {
+      "title": "所属スタッフの交通事故について",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd1QwdnpMeUgtbFdZN0Y2TTBmSl9oVEh3RmpTd3RVc2lmZHo3UHRpWjJTWTVONnN1MXVlbXRJZnFFVnJtVkE?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "江平五差路交差点が宮崎県内ワースト 事故多発、日本損保協会が公表 [宮崎県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OYjYtQ3dfYXJqNnFkN09aZldJQjdqeTQ0Wkl4WDRTQ3U5em9pdldxNE1BR2JwMFBWR3d4RHhMc00xMU10ckotRDZYZXZDd1pPblNIZ0hGM3VtMlJhTjVwUnVCbTIxSGM?oc=5",
+      "date": "Tue, 04 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故ゼロ作戦",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqYmZfd0NxU3F0ajFVWUViam9GTkhXakdUaDEyaGtZV29OZWxBVERWYmR6dXNWMHphLTJtUWFvcHZrbzVKeEg2UDE1QXRvSm9pZnZ2aWF3?oc=5",
+      "date": "Wed, 02 Sep 2026 09:19:49 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮崎県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:56:08.364637",
+  "generated_at": "2026-09-03T09:02:39.407502",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 24.1,
+    "temp_max": 26.0,
+    "temp_min": 21.8,
+    "precip_prob_max": 100,
+    "precip_sum": 21.4,
+    "wind_speed": 13.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "03:00",
+        "temp": 25.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 49
+      },
+      {
+        "time": "06:00",
+        "temp": 24.4,
+        "weather": "強い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 24.1,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 24.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 22.3,
+        "weather": "強い霧雨",
+        "precip_prob": 94
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "９月３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKX1FFcVZEVXl6NEV5eGxocWFEQ2FhVlEycnprckc1UnQwZEFDazdiM1poZmt4VlFNazlhRXV6aXZGM0dKcmswZ3pxdTN3TkpnLWN2aDB4Z05rSGpkWTVaUnRGeUl1Qkl2SmJXQTFlY2ctZ9IBd0FVX3lxTFBxcVB3UHJDaVdhY1IyS25iMUlIR1pkSzhsazk2cUJBbEtlaUJXR0JjNFdLaHc2V05rY2JrSXVPLWgyeXllZVA2eVprS2xuanB0TVZCeElZZEp4RVFCZmdKZVhoM3F2RkpIRjgwVkNhc2ttVTBFZXg4?oc=5",
+      "date": "Wed, 02 Sep 2026 20:08:57 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
+      "date": "Mon, 27 Jul 2026 03:15:30 GMT"
+    },
+    {
+      "title": "９月２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51RE5jTnBURWZkU0M3WGlWWnNwbEFtRVlRaGx5c05TRzQzNTNBU0xkOWNiN3RVNW56S1MyMDZyZGZjY0JjdFFSV0FUUTRDdFlUaGg1ZDllRE0yR21XVTNjMGVoZGhJYWQ3SkhGRktTb2xrQdIBd0FVX3lxTE9Dal9YMl90S2JKU0pLczJ4ZDRvc3JMQnBpZW9oMWN2YVAyQ1dxUVk3RGRkay1wS2labzNpeGs1WW5WOHVSdVZsSUNMQlhrcGhOYm9uazk2NlR1dXlnamd2cnY3SmZQaDZyeG1DenFrSTlSLXl6SEtF?oc=5",
+      "date": "Tue, 01 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月3日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNENfZjR6aVJkNVc5MzQ2Y3pObS1xZDhuWEdQNDJwUTFIOXpEWWdGdUIxUlI4NFVUZjhqQ1BGNU5xX2ZjY29senM3aGpoUHdSV2JkSEtOX0RzZw?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "［道路情報］新潟バイパスの弁天IC－桜木IC、事故で一時通行規制（8月29日）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56UjZ6bDlPZGFiZUdzdVJ1T0NUTXpxcGNZRDYzRzh5b084WTNINVRiZlVuc05TUnE1MURiOE5UR3F0NjR5Yk9iN2NTSGVnNldhOFllelBWWEFBWWNWUmc?oc=5",
+      "date": "Sat, 29 Aug 2026 03:55:00 GMT"
+    },
+    {
+      "title": "【9月13日（日）山形戦】新潟県警察による啓発活動―アイシテル事故のないニイガタ。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZNlI5XzhQS0hCMnl1MjRQZUtJYjdXcU8xaG56UTFtc2F2UW4zOEZKS2xVcWZqZGdKSzJFZ05IdHBacUVQYTM1SGVnYjkyQQ?oc=5",
+      "date": "Sun, 30 Aug 2026 06:02:28 GMT"
+    },
+    {
+      "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEZHVTbVBCb2xHMTBYcWRGQ1BvUU1LNUc1TnpPM2JoWmJZMlVoM0lUb29zSkxLeFl1dWU5NFBIOXA3RmpHbE5YZDc2VnNUQXBYXzBhTU5VQQ?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夏休みが明け児童が登校 通学路で交通事故防止呼びかけ【新潟】",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZWZldUpUVnZTX19ZVFNGVVJpck9NOUR3VDRObThLMjE4S2x4aTB2VmNjX3drVmQwdmlHU216MkRPVVlxOGlpSTZvNDlXeURRRzY1Tzhuc1E5OUtqUkZtbGZHYnJZaUVsY2w2MmRvRVJQcVp1andnaVJ6QWFBZkxhdG0wcy10X3hWYWRCLVR1aWpQV1B1Tk5PTTQ0RTJWNnl3RndHSjRCNUdJV2lManJnQ19mbGhwaWs1TFRxY1EtTktOcDA2Yzl2SEd4UkV4Xy1aa3dEUWt0Umd5ZnVYdklBcGR4Vlg1cUF4MUpqOXNpR3VDMEtncFpRcUVXcE5WaVlEQ2JHd0JYbVN3YllmdUMxX3IyUWxOYzJZdkF5RkpMdDR1b2EwRlp0a1hobkhkRldQRTV6TVp0TldFS2JFbDMyNVBPTm10d2VFZ0VKOA?oc=5",
+      "date": "Mon, 31 Aug 2026 03:10:05 GMT"
+    },
+    {
+      "title": "【交通死亡事故】7日間で6人死亡 県が「交通死亡事故多発警報」を発令 発令は2019年以来《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieHNHcHd6X0NZdHpJSi1OUW14NElHWkk0M1JibEpHbUdLQXNFaHNDd2plT2dwc3Q3MFJaVk44WXV0Vlc3QmdNOV93bUl5bS1FTXhuVGlxV1BWa25oc0tkaEZIdVIxTDZ1UVdkRURpVUlxbEdEeDRDdkJRdFZ6SWM?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

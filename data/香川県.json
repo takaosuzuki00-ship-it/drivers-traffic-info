@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T08:02:10.462929",
+  "generated_at": "2026-09-03T09:04:03.869544",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 26.3,
+    "temp_max": 27.4,
+    "temp_min": 26.0,
+    "precip_prob_max": 92,
+    "precip_sum": 20.4,
+    "wind_speed": 6.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 27.3,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "03:00",
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 43
+      },
+      {
+        "time": "09:00",
+        "temp": 26.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "12:00",
+        "temp": 27.1,
+        "weather": "霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 26.6,
+        "weather": "弱い雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 26.0,
+        "weather": "雨",
+        "precip_prob": 49
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "香川県知事選挙 選挙違反取締本部を設置 香川県警",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UaFNOeFlQM2M4eU82OUtXZmRxc1Q3dTMtLUNUX2FRZlBFR2YwM2x2U0hEdUtlZzJUVlQtSmFvYkFWYXFCZk9wT3Vfbw?oc=5",
+      "date": "Tue, 04 Aug 2026 07:03:44 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "８月３０日投開票　香川県知事選挙を前に香川県警が選挙運動取締本部設置【香川】",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvcmZVZHVQUGllazBNOXNJdklGdzg2eDhhVF9DaU5lR0RsZWtJYnpTd20zc1dPMXh0cGNkakV4Y1BSRHZ3TXgzc01wSkxtbHI3Qnc1dzN0aG5UdlZjVFRxb2d0ZThVV2xlU2E2ctIBckFVX3lxTE1Sb2xINmZYRFJKWUY3Z0Fkci0xNkZXX19PNHI0S1N4LVpuRVM3YTIyYUJfNTBDS1p6QXlEX1ZLR1RxQkQ4OHo3YW9FNGhvYmx4QWlXSDY0YndXUE8wNjRHWTRtYU5Na1hhR2FqLVMtVFUtZw?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN2pNVURNU05OeTZjQnVpR1kwX3BmbklGTk9aa2FodG1Mcmt2ZkZSWF9GWWFSQmhZLUNJQlFfSFloODkzX0FPZFlQUVR5YnNU?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "香川県警が一斉検問で交通安全呼びかけ 危険運転の数値基準導入受け [香川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51ZG93cmZJT1FOMUxjQWRiaHNra1RNTW1VUU5KSldreTJXcTRnOUQ0OXMwSlIyemtWSGF1R3lLMDMzcnNqclpzNk05d3UycVBrOWQxY2hBd0lIcEY2M05uZFBVaWJBdUk?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "県道交差点で軽自動車と大型バイクが衝突 バイクの男性(30)が死亡 直進のバイクに右折車が衝突か 香川・坂出市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55dkRWUlRoNGVMZGJaSExxUEc1VnhLWVVwQzg0UGt0dEFSTzhBbDB4NXdPaEJJY05ZUWE4MkstOVdzTVZ4bktrTmx6R25ST2hJ?oc=5",
+      "date": "Wed, 26 Aug 2026 22:01:00 GMT"
+    },
+    {
+      "title": "国道で普通車と軽自動車が正面衝突 周辺道路で一時渋滞 香川・まんのう町（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWEFTd09MOENBMDhlTmkwTUJmRWo4R295NjY4TGFjbEl1eUZtZ1JyOFR4Q2tUSHJyc0JYd0tuekFRdmxCWHoyNTJFaEt6OEV5WUpTVEx6MUdsajBHNmw1TGgwSUdBMlltVWgxU2pRaFpva2FUTlFRc3pSbTB0WFk?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "坂出市の県道交差点でオートバイ運転の男性が軽自動車にはねられ死亡 車運転の男を現行犯逮捕【香川】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04RjFnUlF2N2x5RGs4MmVfRXNSbHU4QmVWSjZGZDVvVmFVMlFvUzBlQm4zLUJBVFR1VXBSbWZLSXRUYlBOU2s2dHNMb1pHZw?oc=5",
+      "date": "Thu, 27 Aug 2026 01:37:00 GMT"
+    },
+    {
+      "title": "25年の交通事故死、香川は20人 統計残る1948年以降で最少に [香川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnblZyRzlHd0lFUHdCQVRxR0pHQzdVbzFqX2cyM2dXQVdGQXVXZ3BlYkkwV3NFSFlpVnBtY0lId2wxRlJvQlZEYXhtbHBtbWlWMkVkM1RzRGNlUUQyNGJ3aUhjNVRKY3M?oc=5",
+      "date": "Tue, 20 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "三豊市の市道で軽乗用車が電柱に衝突 女性（75）が死亡【香川】（RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzODdHek1fSWl2U2VFeG9XQXNTdF9hNEd5YkxZcnowS25JcFgyUU4xaVc2MkhVX0t5cmVzdVBXLXlXM29Ud0l6ZEdvX0x1ZWQ5ODlQZFMxV3oyVm1PTnktS3ZlcTRSeFZCTFRyMHBHLVNOOGZweHVNd3VCanVrN00?oc=5",
+      "date": "Tue, 01 Sep 2026 09:05:24 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "香川県警察 公式サイトを検索",

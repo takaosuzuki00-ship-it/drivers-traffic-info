@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:38:08.029351",
+  "generated_at": "2026-09-03T09:01:42.797691",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 24.7,
+    "temp_max": 26.3,
+    "temp_min": 21.2,
+    "precip_prob_max": 96,
+    "precip_sum": 4.0,
+    "wind_speed": 2.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 22.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "09:00",
+        "temp": 24.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "12:00",
+        "temp": 26.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "18:00",
+        "temp": 23.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選栃木 県警取締本部、文書掲示違反３件に警告",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13S0EzRF94SDNYRERzSGFnODN5eXQwSllrTm5hSjVkZk53UXhhUUhEc2stVE1xS3V2MURhd21Wa3pCWGYxZlRzLTZ4ZDZ6NkxzNGJzaHFITU9xYjA?oc=5",
+      "date": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "関東地域連絡協議会／「首都圏大規模同時合同取締」全20カ所で違反車両27台に行政指導",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFN1FnUEt5VnE3bjJveGtkanI0TzlXSklOcG4zRmJoNzg4SnNIbWFJLWdmUDNCbEpKc2g5d2xoVWladmhzSTFJSnVrSkFkVnJfcXBYbg?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "レーダー探知機の効かない新規オービスが栃木県の国道4号上下線に、出現！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1ladzhkM19WODZ1VE1QQnlFTlZXR1hoOGRNeHVzTEx0TzFRN3VTamNKYmlJRngyUjQ3cmhiYjAzT1pLRE12dnViLVMzeTY1Q0JraFVtajFNN2FlQmlvUFlZTWwxWmR4OHRlS0RmcXdfV3pFa1VJWGNEM21KNzgxckVnRjUyWGI2?oc=5",
+      "date": "Fri, 02 Nov 2018 07:00:00 GMT"
+    },
+    {
+      "title": "国土交通省が“無料車検”を実施!? 日光の走り屋スポット「いろは坂」に集結の「爆音・シャコタン・ハミタイ国産スポーツカー」5台をその場で検挙！ 「不正改造車取締り」実施",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42cnU5c1I3Ul93dXVHUENqWVJyS3hGcFRLYXE4djJtTW96dWZzNkZGTEdvTkM4R1Y3T1BhajVzMlJFSFhkRjlQSmY4Y3Z6MVcyckotdEQzdHJPcEpOVE54MDBLOVllUdIBa0FVX3lxTE5IaVRwb1lxb3lET0JxanhTUHFxVDBUUUt4S3FnSDBxYUVPTlN3US1VeDZHcDVlb3FFTlNPZ0VBOG5NZlp6RlRXRjdDMzg5b1lQeWM5alR6LUJpcGRrbm9JVVFPS0Jjd25yOG8w?oc=5",
+      "date": "Wed, 26 Aug 2026 05:20:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "上三川の新４号国道で重傷交通事故 女性が骨折疑い",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvblExZ0xjRXJKT3Rva0tiVmVIZ1R3UXJaSnRSX2h3U3RwMjJLejRPLW0wNFhmOGJNaXJLVVVaTm1tbTRCeXBhVzViQQ?oc=5",
+      "date": "Sun, 30 Aug 2026 01:55:00 GMT"
+    },
+    {
+      "title": "河川などの「異常水質事故」の発生防止に御協力ください！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95OFZuM3pUeFJMMnVCRXlDejljTjNFc3FtX3VTdVpSa3NCSGJGa3dmZWlBcnlBak53NXcxLVZPbHU2ZGV2OEVxbzBVNWhoT0RvVnZDM3psaFBxWmFiblh4dkZtaFp2TmNMLWhUTjVrSDV1OEpGOXVqMWdR?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車3台絡む事故 計7人けが うち1人は骨盤を骨折する重傷か 栃木・上三川町（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBReUl2bEpLRUhFcm4tbkZLOXQwWFFRRWx5S0NfbzdWRTRRM0s4MTd1d3IxX1kwSjFUYURwOENFYjdTaXp4UC11elRNVzNodWtXbXR2cjZiSDFCcmZRVEo5TUNJM0w0S01xN1JHQ0lSSklUYkNQZEdlcXJheElpYTQ?oc=5",
+      "date": "Sat, 29 Aug 2026 23:58:00 GMT"
+    },
+    {
+      "title": "栃木県北地方で交通死亡事故相次ぐ 那須町の県道と那須塩原市の東北道－NEWS - tochigi",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jYjd3dkw3MFo4S2VmNzBaT0w1ODRDUmo3X2hXeWpyUXM1WkQ3ZmhkVXlBMl9oaEEzYUdZMVUzc3VKb3I0TVVSM3ROWDU1RnFROExZUmNPdGZKT0xPNHlj?oc=5",
+      "date": "Tue, 17 Feb 2026 01:00:09 GMT"
+    },
+    {
+      "title": "栃木Cがアカデミーバスによる交通事故を報告…負傷者はなし",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51TjZ2ck0ta2ppeFpEV1NvcUdweW9abUQ5VHVhY3dRZk9GZExtNmgyLVlUaUZoWHBDcWNpNXBwa0x2cTRZbFVfQnVrWFBXaFQzYUV0WDB4OXBMWkVJWm9lNGRXMTFZcEIxbnVWNk9n?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "栃木県警察 公式サイトを検索",

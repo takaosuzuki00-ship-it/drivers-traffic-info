@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:17:07.738926",
+  "generated_at": "2026-09-03T09:01:12.607002",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.6,
+    "temp_max": 25.4,
+    "temp_min": 20.8,
+    "precip_prob_max": 100,
+    "precip_sum": 17.1,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.1,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 22.9,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 22.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 25.3,
+        "weather": "曇り",
+        "precip_prob": 67
+      },
+      {
+        "time": "15:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 51
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "警察の新世代交通取締システム、可搬式移動オービスが大拡散中！ 奈良、山梨、青森県に導入の証拠を発見！【交通取締情報】 （MotorFan） | 自動車情報・ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlRxWk03TlZpdzV1ZUVkamJ0MDB5TUFFV19kazlqeU9VSUtwNl93ZXY4YlhrYlpEU2hOZklvTWpQNXpwb1cyVVJWNmJIc0llaWZydFFTUXd4c2FUbUJ5blI4TWpDSjY0OTZ2VG5OM2ZmUThHeDJySW51UWtLQmQzN2dtVXVCeE91?oc=5",
+      "date": "Tue, 25 Dec 2018 08:00:00 GMT"
+    },
+    {
+      "title": "ゼンリン、警察の交通取締りエリアを知らせるアプリ「オービス＆取締通知」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2UUI4eDlsMWVTc1h0eHVybW5Kem1ac3lpNlZXSkpubk16S19mZ1d3SExDcnEyMm9iSGtZaFpGSGZrN0hlcjluREpvR3RIUURzSFZHNlMyYXJtZm1aS2dqMXo3QW8yUQ?oc=5",
+      "date": "Wed, 10 Dec 2014 08:00:00 GMT"
+    },
+    {
+      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oa2JLQjFUVnR1dENER0lRRXNUeUJSZC00Z0k3eFk2MDA4MGtzQWxnY3k2NkFRblJKMHh0Ul8tNURxcE5aWUppM0p5Zk9NREZGckVpbXZNZFlMenJOV0lYejZtZ0F0dms?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】自転車の“青切符” 青森県内で初めての摘発 自転車制動装置不良のため",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQZ01ZTEZ4aHVjWVZ1dHlfRVF5V245blNnSDg5TzlDdGZkOTB0MDQ5RmNwdmJJX2NpMEhqLVdrSTMtYlMwOVBzWlRKSkJzM1VFeURoLWpMdw?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "容疑者の男は日本原燃の協力会社員 青森・六ケ所の死亡ひき逃げ事故 [青森県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBaE1kdTNWOGVVdkRXVTl6aGJPSFJ1WlhDeVVyLXVCeUtRZHpWaFNNZXY3SFdUQ2hpUEVqZ2o5WWdhWEt6YVVINHZXMGt4d19TMldpTlVDdTRGTFgwVDliVk8zQjhKSW8?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故の抑止に貢献した青森県内42の事業所を「優秀安全運転事業所」に認定 県警察本部から表彰状 なかでも優秀な事業所に贈られる「プラチナ賞」は13事業所",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZjZaMVFPdGVQcFo2Vkh5NXpwVkdPSW5fV1RYRGU0OGdJR2tIWFhyNzExQ0lrSURZSzA0TkctV0ZVNS1tUHMxb00tSnhWVzkwd1Q5TzQ0MHBLdHBFQjJVc3lJOE9oRlU?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "50歳の会社役員を逮捕 横断歩道で91歳女性はねられ死亡／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpQ3U5NDg2a1FLUnpzWk9kaUJ5WjBHVnhIOGd3TWZ6M1BndERnejlnN1VEMWlzMWRrallpTnpmRTZyR3hUanBUSklhU1VZeUpnR1A0NEFtbnk?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ダメ！絶対！飲酒運転 2025年発生の飲酒運転による交通事故は28件 青森県警察本部発表",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS2lhOWstRGpraFpDQnNrSENzZkI3N0x5OXlXOU1GekVPdlBfLWlUT1MydmhDWjRzZzdJTUlXZ3VPWWwzMHpUckVaRDJkUE1QMlBMRDZNX2JHdC05OHN5X05uZHZBbjM2NjkwMFVMblpJUEYyeUYwWTdRVEFTcUU?oc=5",
+      "date": "Tue, 11 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ダメ！絶対！飲酒運転 2025年発生の飲酒運転による交通事故は28件 青森県警察本部発表",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaFVEOHZyVkVEbjdOeURJZklHbm9Qa2l5ZXJHSVgtdVVxRW4zNEVmUVNORmNBbzJEbENTLXZ3ejVsSHJPcnZjVVg4dw?oc=5",
+      "date": "Tue, 11 Aug 2026 11:47:21 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

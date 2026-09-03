@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T07:50:09.467165",
+  "generated_at": "2026-09-03T09:03:47.478122",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 26.7,
+    "temp_max": 28.0,
+    "temp_min": 25.0,
+    "precip_prob_max": 98,
+    "precip_sum": 15.3,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 16
+      },
+      {
+        "time": "03:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "09:00",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 82
+      },
+      {
+        "time": "12:00",
+        "temp": 28.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 27.1,
+        "weather": "強い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 26.1,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月1日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JOFFubGFtd184STFPYzQ1U0I3LUltY3FvblotT0N3UHZ5djloRXRUeDZmdHpfVmhFc2UtdWppUG5QTE9CVFpFSTlPVzAzcWl0cEw0ZHdQcXoxaTlsR0YxdzlDeHM5SGlHc1lESzJ0UdIBdEFVX3lxTFBnYTZNZzktS2lXSmJRQzlvMWg0Y3M3TkNKYm9zamhtM3MyM2w2S01fUWlGeURTdlp3Mzc0Tmt4ZjhlVDB2dmVLZ09RdUM2U0U0QXRpYmR0QTZNSHZQWnJlaGhNUTZ6MjJEeS0wei1nd1EwOUdW?oc=5",
+      "date": "Mon, 31 Aug 2026 20:06:16 GMT"
+    },
+    {
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kbkNvMDJ5c0RxcTFpSUlmT1ZwTjAzR2dvbmp0RFg4YUVlTnp3R0lra0d4X3NZQlIwNUg2Qmwtdk52NExieTdRczFCcmVoUzk2SFJEVVR5MmdNRWItc0kyUGhGWmtIRkE1aHgzdU5uOVdONGd0eWN4YXR6TWpmb3c?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "県知事選・衆院選を前に…岡山県警が選挙違反取締本部を設置 約1950人で取り締まりへ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CeldsWE1hcnRNbldBcWxWdmlTWHNaek50anV0NDVVQkF3T0dkRVRXVkxRcHhhVlQyYTRSZ1NNUFdRNVBzS29oUE5aeC1aV1p6?oc=5",
+      "date": "Thu, 10 Oct 2024 07:00:00 GMT"
+    },
+    {
+      "title": "最後のHシステムがLHに世代交代! これで山陽自動車道の固定式オービスは、すべてレーダー探知機無効に!",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12MkdjbkI1QlM2VUtlV1VJY3FweVFCY0F5UjRTMXJXM2N2T3NKTWtYWEZyNW1jdTZMZ3JGUUhlOWV3ZVJRaHdmanFxSXFoVGRPcVhN?oc=5",
+      "date": "Fri, 12 Mar 2021 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "岡山市で歩行者が軽自動車にはねられる 19歳の男子大学生が重体（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WRVBQMTZfODhaNUJnNjZDR0tUTUdnU0JyUGdWZW1jdnFDb0dKWTFzZHh4YmVVaFF5Uk5sMUZRT0NUem5ZMXVLQVEyMllpNFJwamFBTU5KbDI2QWJkcHJhNzBhZW1aYjZZZWVYbHBjOFhqRTVWN2tENmc2dzQzTWc?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山の運輸労災17％増、交通事故対策呼びかけ - logi",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zY0RPcFZtU0RaR3EtREpITmhyaUJ4U1BUYUZlWUIybk40REJEemhZX0lCV0JBRFpEZ09zLWdCX01YVkNsTXZkNA?oc=5",
+      "date": "Fri, 21 Aug 2026 23:31:42 GMT"
+    },
+    {
+      "title": "岡山県の交通事故による死者数 2025年は41人で統計開始以降で「最少」 【死亡事故が減少した要因について警察は】",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xM1pjMUE5bkZJYW9aVGg5T3lScUJjbGJXZ1Rwek9Jc1g3Nm83OVNWMnpfSmd2eGJ5b2R2RlBobUlfeXI4Y2tKQmNuM2kxMWJvZGR2UGppd2Q2dmpuTzJCQ1FaekVLTDg?oc=5",
+      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "2026年上期に発生した交通事故件数は約2万5000件 死者25人で前年より7人増 岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSVzZKcGR4aXFZcHJKOF9PSzBjTktYdkxKN0p0Z2FYTlBvaFFNNDVuOU5UWkVyWWtzVHNndmNEeUZMLXZfY0hhWmdYNFJzcWFi?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【岡山県】令和7年年末・年始の交通事故防止県民運動",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jZWc1bk05VnhtOExnajk1bVluRkdGSGp1UmVlbW41RlctQU1VZUNUdWxkT0R0dml6eTVOVmZocHJ1c0FHQjBTaDA0T016cWZNM3FUeG40M3FfYnhLVTM2eW9lWE1ad09HMzV3?oc=5",
+      "date": "Tue, 18 Nov 2025 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:44:08.127649",
+  "generated_at": "2026-09-03T09:01:54.132561",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.4,
+    "temp_max": 30.4,
+    "temp_min": 23.0,
+    "precip_prob_max": 76,
+    "precip_sum": 0.6,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 26.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 28.8,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 47
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月27日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aVDRtcmFKMVExdS00Uk9QTVNIQ2dObHd1OW1rZnRmMWtremN4MmZtWnRKV0x5R2h3bmxLc21iRnJ2Z0o4ZE5FYVd4QVBsQlJQN2xpZUpwTQ?oc=5",
+      "date": "Wed, 26 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "８月２４日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05MmxCYlNKcU5qRnlxVUp5eEZSQk5hLXIzdlUzZXZZMjNoOVZkZmlLaWMwdDdIZGpPdmdhcnl2TUtsU05KZjgyV1prdFdNdTFnQWxCYjBXQQ?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "移動式オービスが取り締まり中に盗まれる、埼玉で全国初…県警「犯人確保に向け捜査尽くす」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vd0FqRlBRb0lFR2EzX05KVmZLb1NaMWx4T0ZHY1g0cEVQTXQyTVNoeUpxV0F6S3RQT3F3cGZfcWNIMUlkZkdHbEtHSU5DVng3NGtYNnhEcG1DRWdMczQ2dU1NV1hyQQ?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選２０２６：違反取締本部を327人態勢で設置 県警「公正を確保」 ／埼玉",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwVE1HZEhXaXA1TEwtd2U3Z1BqTmxOR1ZIRWtxWTh6TnV2VTBKUGZpSDUzdFBJbS1GTnRGdkw4dFpxTmh0YzFiUlBpWURGUXptVHp5bkxrVmZta3RKeWg4WmdZQUY2WFVz?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "埼玉栄高校で男子生徒死亡 両親が損害賠償を求め提訴 事故直前の車内の様子",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qUlhzV1NQRnM2SlR5XzhCbVpuUkZuVXhQUEVPYVhUaFdxNFMwOVBPT1JVRHcxY2dVeDVMNTRZTFBTQVp5Ri1qZWFOR1BPZzJWY21leGdkVFNuSS0zSjRyNXRkSXVTcm0wbUZOWEZkSURoUQ?oc=5",
+      "date": "Wed, 02 Sep 2026 09:51:09 GMT"
+    },
+    {
+      "title": "「夢も希望も断たれた…」 埼玉栄高死亡事故で遺族が学校側提訴 管理体制の杜撰さ指摘",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40UkV6aXdmVmhsVWl1Y20tRDZTbFFIX3BkLThpRkx2Z2h6RHZGSUxaWG5UNlJqd21zczRyZmJQYkZMUDdRdldkWDZhdWtsV2hvMHNXcHJKRVVWd3FTeVBsbS16UjdHQ1pCbFk3Zk9fbTlNVzIxclE?oc=5",
+      "date": "Wed, 02 Sep 2026 09:28:21 GMT"
+    },
+    {
+      "title": "■埼玉栄高事故で遺族会見",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uMnZlcEhGVTFBQk95ejlQNkd0RWlVXzREMkVtZzZuV0p6dlVRVmU5b2dOZHlEWEYzOURsb1hSYVdhbUU4Vkpya3VUQWx2WVUzbDNfcmJORlVNb2JvWXc?oc=5",
+      "date": "Wed, 02 Sep 2026 18:57:00 GMT"
+    },
+    {
+      "title": "埼玉栄死亡事故で学校提訴 17歳生徒の遺族、1億円超請求（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnTGdyVVk4a2owTnMwdUFzODBkbmFRS3hyVnFSc3NLRnI2NFh6Nm1tZF9XaE1aZ3M0ajFrVk5uWUhubUtVQ1REUGJtRlk1VEZqdnlQd2VPTC1FLWhMNEkxY0JHRXdJUlVzODZCWjRVcWtCWl9XazlPMTZrbGNjYmM?oc=5",
+      "date": "Tue, 01 Sep 2026 08:36:52 GMT"
+    },
+    {
+      "title": "さいたま 高校で生徒運転の車事故 死亡生徒の両親が学校提訴へ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SeTEydjB0VXlSdjhiaXR1TVRUQ1VCY042YkZGMG42dDc2cGQ3ZFg0XzhWVHdqdjB6VkZRMndpZFNSTm83QlZjc09jS1pjZ0Q2anExZ2ZaN3A0RV81eDNB?oc=5",
+      "date": "Mon, 31 Aug 2026 22:27:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

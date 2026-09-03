@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-09-03T08:28:44.193932",
+  "generated_at": "2026-09-03T09:04:41.351914",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 95,
+    "weather": "雷雨",
+    "temp_now": 28.3,
+    "temp_max": 28.6,
+    "temp_min": 25.5,
+    "precip_prob_max": 99,
+    "precip_sum": 13.8,
+    "wind_speed": 15.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.6,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "03:00",
+        "temp": 25.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 25.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 55
+      },
+      {
+        "time": "09:00",
+        "temp": 28.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "12:00",
+        "temp": 28.5,
+        "weather": "雷雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 27.7,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 27.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 27.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
@@ -21,9 +80,9 @@
       "date": "Tue, 21 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "空港での薬物摘発件数は2025年を上回るペース 空港や港で密輸取締の特別警戒期間スタート",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOU8wQmpLeHdXYjhJdzJVNjkzTHE5NGFISkh2bTNIRGlmUTNXOGRhUW1Bc3FBWkFNRXF3YnNNR2lqa1BSV0lEdFlmcThCNjZnVnQyaHdKc2VnZUk3V1RaNnpueEM1YWs?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT"
+      "title": "麻薬取締法違反疑いで18歳の男逮捕 量販店の駐車場で大麻所持 沖縄・うるま署（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1XzJlNFJHMnJkeVNnd2FJN2d0aHlCM1pRV3FzU1VFTUkzdWQ2c2dKOVlMYmgwZzQzVTNNc2lSck53N0dvOVF2TTkyU3dDN2ZETmxRLXVfa3IyeTJnVXIwWlN0WjhBQV9HRkotRXU5ZEdkdGJrRFpfRVlkMkRpZHc?oc=5",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",

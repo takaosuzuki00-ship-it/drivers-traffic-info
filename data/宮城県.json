@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:23:07.813802",
+  "generated_at": "2026-09-03T09:01:20.750208",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 23.7,
+    "temp_max": 25.5,
+    "temp_min": 21.2,
+    "precip_prob_max": 97,
+    "precip_sum": 9.3,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "06:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "09:00",
+        "temp": 23.7,
+        "weather": "弱い雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "12:00",
+        "temp": 25.2,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 24.9,
+        "weather": "強い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 23.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 59
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "衆院選へ 選挙違反取締本部を設置 宮城県警",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xRlVOUzJwUFpWYkJEMjY5b2VYcUxQaHBtQ3NnUW1XdzNHdGgxRE9GZ2hFRzJLVzZyQ0lGRW5Xbm1tWl9FUGFsajFPVXdHR1U?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "10月9日告示、宮城県知事選挙に向けて『選挙違反取締本部』設置（宮城県警）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2FHQzlld3NyQV85Yl9kZVUzQ0h1cUl1RTN2TTUtZ0N2aXhGdEdFWVdHcjNwbEM5NmlEbm93RTYyb2kweUlDYU9FVWVyU01EUlptU1NONjl4R3IwMkkwTFdMcVdzV2Jqc1BmMjNYaDVNdzZGTWlmM0FKRzlocVJKTkM2alg1bTZN?oc=5",
+      "date": "Tue, 09 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "宮城県知事選挙の告示を前に県警本部が選挙違反取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBENUw2SlNqOV9FX2dpWUZLb0VXQ0F0MnRwbXY5YjVoSjlhY2ZDQTJ1VEd1V2s3SHVQR21JbWZuME4wbWN4Q2M3bjAtZXFrSXM?oc=5",
+      "date": "Tue, 09 Sep 2025 07:53:35 GMT"
+    },
+    {
+      "title": "10月の県議会議員選挙を前に選挙違反取締本部を設置「すでに11件の警告」宮城県警",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jV2VEc0I2T1JveE5UTWRDX1c4WHpxVnM4OTNYVzluUmk0eGR5eUNRMVFJemVrNFJnWFlYOXdUbDNfazJuVFVpWF9jV0ptbHo2cUVxOGdHbDc0MzBESFJSMWNlODNkUQ?oc=5",
+      "date": "Fri, 22 Sep 2023 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止へ標語幕寄贈 宮城県警大和署に安全関係3団体",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBySDZObXpWZkMzell3SjR0ZWhmOW04dEFydkJXcWI4NkhtMVAzZUxzaHZnVmQ2Q0xYUDRsZV9DZDNSR0s2MURoTXBWRFp3VEtBOThyZUJKTUpDcGFUMGkzQw?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "詐欺・交通事故防止へ 宮城県気仙沼署が割り箸袋で「ばしっと」啓発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdE02UGFJN3dXVXFpMktDT2Z2WmIyZGxPQnVRMzRHb3lFX0ZnWV95OXg4enpwRXJhLWttTkJ1RkZMSnliOXYtV0dEd21SNF96aDFRbkRSX1lNdzg?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山林で木の伐採作業中に事故か 70代男性が死亡 宮城・栗原市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LeXk5SFBtZlhHNkE2ckxLWk9tNXpBVHo0VUpjekpPSjdVaWNwV2Z5M1R4OURraHdyZWdDWk1EWHE0cEZWNVNZX3NXVU9wczlUZy1FdGR4Yw?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宮城県大和町が死亡事故ゼロ6カ月 県警が祝詞",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUWlrWVY4c09YVWN0bi0wWlZhRHlUdHZvR1RXYzhhS1EzQTZveUJTSFpnOTZOVFBBS3EtczBQOU81QmdULXg4NVl0aFVXLUFNS2lLbVdUTTNIaGZkWnNsaQ?oc=5",
+      "date": "Sat, 22 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東北6県の交通事故死者は昨年213人 「交通安全のための行動を」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCd3lWODh3NloxS2NSRnJESHRCMktsNGpxQjVUQUg4NUV3TThHeHlkQ2dhQXdPWGtSM0dlU0stM29sQ1owS080M0MxNktRbDFZOUctb3dYYjRzQkVjTm9GbFVGVHpxYVk?oc=5",
+      "date": "Sat, 17 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

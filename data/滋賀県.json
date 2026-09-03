@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T07:26:08.851573",
+  "generated_at": "2026-09-03T09:03:17.203063",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.9,
+    "temp_max": 26.3,
+    "temp_min": 24.7,
+    "precip_prob_max": 98,
+    "precip_sum": 9.2,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.3,
+        "weather": "曇り",
+        "precip_prob": 78
+      },
+      {
+        "time": "03:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 47
+      },
+      {
+        "time": "06:00",
+        "temp": 25.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      },
+      {
+        "time": "09:00",
+        "temp": 25.9,
+        "weather": "霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "12:00",
+        "temp": 25.9,
+        "weather": "霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "強い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 25.0,
+        "weather": "曇り",
+        "precip_prob": 71
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月１１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２０日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tVmhiMlNNaDBwd1JJSmpfUFlTVnRwcVVoakNyNmJ2NGs4TmFKdnZsVlpibENLdE42TXR2ZlVhYWZCcDJheDdoYU5lT1UtLWk4cjZ2ZEgyYm9JMjRlNUE?oc=5",
+      "date": "Thu, 19 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１１日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdEs5bmk3Q3NJRUpOU0hUaFRYX19JYU9vRmlPdmdELUVkMFFIN0dMMnQwYjRvOWNBSHJNS1Z2WlQzZ256YlpXS0lodXM4elJJVTVWc1BwTDBKWFZmS3c?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "PART3年末年始ドライブ要注意非定置式スピード取り締まりポイント大公開！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWM5VklBMnZBTlNubWVmRzNjWnBVYVFFRE9QVlQ4NDBGb0ZYS0RDTUNOaWJuWTZ0eWZ6X3J4aVBZUW9QMGo4TF96M3o0YTlNRUxUY0sxZ0JFUGpETGdYY1gzVjkzUlNnTTFtalExLVBtUDBNdTJ6MXdidjB2b1dVb1cxcDdCWGNY?oc=5",
+      "date": "Sat, 30 Dec 2017 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車とトラックが正面衝突、夫妻ら3人死亡 4歳男児も頭を骨折 滋賀 [滋賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZnVsLVNNUVRzUnpZVG4xaGR1NXJDeGZvQ3BjUGl0YVIwd3BQMUhGWDF6UlZQcG5zOTZuaVlPODNUN0ZQUXl1U1lWMDRwbkFRbnF0WkFIM3VNUUtjbVJub1VUM21aY0U?oc=5",
+      "date": "Sun, 30 Aug 2026 22:47:54 GMT"
+    },
+    {
+      "title": "乗用車とトラックが正面衝突、3人死亡 3人重軽傷 滋賀・高島（毎日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQTY3MjYtU3ZaNi1hLXVIT2xRUHhYRXU3UTJCT0xBLTNGV2w1NXM4RXRxTGpXNEFvTWZqSHF0dGVra2x5UTdCVjIyX2dScmJXb3ZiYmhWYlVJcjVOVzBPZERVc0pySUp4bWVrLXNfMGFRWGxNa0lSUG1MWjZOSmc?oc=5",
+      "date": "Mon, 31 Aug 2026 00:23:04 GMT"
+    },
+    {
+      "title": "乗用車と中型トラックが正面衝突 3人が死亡、3人が重軽傷 滋賀の国道",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PbGF4QXJ1Y3BFZGJSU3RYVThVSERlS28tVXMwa0F2ZFpYUGpkWGpQZnlwT3JDNDBNQ2d5dXVWeHRLUlkwQmFDdDgwWEliOTIyUVItdF85cmo?oc=5",
+      "date": "Sun, 30 Aug 2026 23:10:00 GMT"
+    },
+    {
+      "title": "交通事故の死者数の増加率で全国ワーストになった滋賀県、高齢者の道路横断や後部座席のシートベルトに課題…県警「非常に深刻な事態」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sd0c3T2tIUkVMZVJDWTc4UjhSNE5YNy1RcTh2cndteEd1Ui1lVEN5dnRfb1VJUFZZVnpFQmJaSmlmX3dBcURhTlpzcXloWTR3VkNxdS1wUldqQkZLTVZCX0RKRjZMWk04azlJR0VzQlVEZw?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "乗用車とトラックが衝突する事故　愛知に住む3人死亡　滋賀県高島市",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53eFFINWROUzl6UVBybDAySEYtY0hjSDdxSW53QUh3WjRKTElYMUJ0N3NiMHpLaTFlZllEN3JUNWc5SlBHei1FTnZrbG5uZ3Z3MUHSAWRBVV95cUxPbEI3cGVGUGFpdnQxd3k5c2NEcUNlR0dvcDJhS2pxQ0xVdmJhUVVZLUFMd3IybnREdll5VkRUNDMtNmphNHl0WVRNcWJhbXFKX0phU3h6OFZmeXhFd0FwUUlWWm5o?oc=5",
+      "date": "Mon, 31 Aug 2026 03:16:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "滋賀県警察 公式サイトを検索",

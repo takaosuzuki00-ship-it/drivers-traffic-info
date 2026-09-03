@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:50:08.256851",
+  "generated_at": "2026-09-03T09:02:18.212473",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.0,
+    "temp_max": 30.2,
+    "temp_min": 23.6,
+    "precip_prob_max": 76,
+    "precip_sum": 0.1,
+    "wind_speed": 5.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 27.0,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 30.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 29.0,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 25.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 24.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "９月２日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51RE5jTnBURWZkU0M3WGlWWnNwbEFtRVlRaGx5c05TRzQzNTNBU0xkOWNiN3RVNW56S1MyMDZyZGZjY0JjdFFSV0FUUTRDdFlUaGg1ZDllRE0yR21XVTNjMGVoZGhJYWQ3SkhGRktTb2xrQdIBd0FVX3lxTE9Dal9YMl90S2JKU0pLczJ4ZDRvc3JMQnBpZW9oMWN2YVAyQ1dxUVk3RGRkay1wS2labzNpeGs1WW5WOHVSdVZsSUNMQlhrcGhOYm9uazk2NlR1dXlnamd2cnY3SmZQaDZyeG1DenFrSTlSLXl6SEtF?oc=5",
+      "date": "Tue, 01 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdHhKek9CUHNoVXpJaDZaUVdLeHlsanNFNW9zcGZWM3h1ajFLZm51cDJobG1jQnVkeEpLSHpiZ3ZabG14T0M2OXpZRDVQZDd2alJGMXJUVDNYZw?oc=5",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "８月２４日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PbENZbXFqZGV2M2VWeWkyaE0xRXdxUzJYTVVzaEwwQzBYZnN0X3F5RmlyajdCMjg0dkFKSW9GaVBadVJtdjhmWDZoYU1vNHpZbkIzckVuYnFqdnM?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 甲府市中心街で包囲型検問など 飲酒運転摘発 一週間で７人 山梨県警 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZU96aURxTnkwRXAwblZhX2prVVZXMmR2Wl81NlhodHJmQ0FxaTVXSDl6ZzhZbjlzWVFhLXJkQ3hQeVc2bEYtTFRzNjZqR2s3bTFzUXNjYTFEQQ?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "〈詳報〉メリットは「お金の問題」、原子力より「交通事故の方が死者多い」　8月31日の常陸大宮市長の発言",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TbU5VTl9jc2N4OE9KNk9kcHJfS2FDZjViblJocUloc3Mxam9EYTJhamtYcERTV3BlLTUxT01XTm80VTVxQklrSTEtd0wtWDdkYkpQaUJFeVRhM01jb3JjYjlZM0h1ZEVoemJPYUdOWWVGdDjSAXhBVV95cUxNWXBWSzJ6VnRkSHh1aGp0LVp5Tkt4MkNMTVUtY1hwV1RHXzNpa3BOdjFXa3Y5VDNjY0xaaF81VnduYXlES0pqQmVjQjAwRkJKaHRWOTdkYWhodlVrQ1hpbkZXYzhiaUhHbVJGYlFQcnluQ0FtR004MUY?oc=5",
+      "date": "Wed, 02 Sep 2026 07:19:22 GMT"
+    },
+    {
+      "title": "事故の瞬間をプロのスタントマンが再現 東京・世田谷区の自動車学校で交通安全イベント開催 警視庁成城署",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxLTkzOFc1SHRxdTB5Vlczempaa3FyMTNxTUt0QmI5SlJvc3pzYWlFQ0lhc2JmZ0V5b0oyMTJNZTZhaTV6Uzh2eFpFUDRpVVU1a2tXbFd1dnprRzEzZldJZ3kxX1JETHBFSjFkRGlqMnR6N3BBN3d6T25teU1lZE0?oc=5",
+      "date": "Sun, 30 Aug 2026 16:16:55 GMT"
+    },
+    {
+      "title": "東京海上日動調査サービスにて、ダイナミックマッププラットフォームの3Dmapspocket®が採用 交通事故調査における現場確認の高度化・効率化を支援",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTlh2Y2hHWE9IY29HRDNhYUZGMUt0bFN6UlNRcUt6TkZueDJnQkpTOERVUTRjN2hUWXc0UzhuVDR2dHJha2NMaG5YMG5ZV1ZFenZkYzJKU2ptRnNwWXhrVUFhMlM5ell3RGc?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スタントマンが事故の怖さ再現 世田谷・交通安全催し ／東京",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RTjhqaUhiUWltaUNKMzU1dUdWeGZET2dsS2lQRHM3YzNKeW10OWM0UWJhaWtxbWphclZrQjN4Sm9VaU8xenlHX21nR2JJaUhHRUFtWktSRmpBYTgtbzVkSGR2QmpFU19i?oc=5",
+      "date": "Sun, 30 Aug 2026 17:00:37 GMT"
+    },
+    {
+      "title": "子どもたちの交通事故防止を支援 自動車保険会社が山形市に100万円を寄付（2026年8月3日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3p0S1VJV0xRcWwza2w2WXFXbXNHNVdVc2J6Z0Y1YVplelljaUVMR25FNHVzS01PWkFBZEd4eGdlXzB2UXNJeEtjaUdYWUpOU3NIa2pZVzRjYllmdVJvQXpfQzd3UUktY2xJcEhBT2tFVWRZQWJaOUY4TmJZQW5OYjIxa2lVZjQ?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

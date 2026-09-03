@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-03T06:35:07.981154",
+  "generated_at": "2026-09-03T09:01:38.678381",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 26.8,
+    "temp_max": 29.6,
+    "temp_min": 22.6,
+    "precip_prob_max": 83,
+    "precip_sum": 0.4,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 43
+      },
+      {
+        "time": "15:00",
+        "temp": 29.2,
+        "weather": "曇り",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 24.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "21:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QdEc5ZEFHUk9xZWdER0YydDA3VkZiU1FMbVlhRGdGcWp4UEVSc1E0c0FXN1M3STJPaHBRUjM5ZXNBRFRkOTFOV2VnMEhWS0ZCbGd6eDMtdWpYcnBzcXZES0VpUFZyVWhhX1oxUEtYN2tSU0E?oc=5",
+      "date": "Sat, 29 Aug 2026 19:55:23 GMT"
+    },
+    {
+      "title": "８月２４日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05MmxCYlNKcU5qRnlxVUp5eEZSQk5hLXIzdlUzZXZZMjNoOVZkZmlLaWMwdDdIZGpPdmdhcnl2TUtsU05KZjgyV1prdFdNdTFnQWxCYjBXQQ?oc=5",
+      "date": "Sun, 23 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "8月19日（水）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdHhKek9CUHNoVXpJaDZaUVdLeHlsanNFNW9zcGZWM3h1ajFLZm51cDJobG1jQnVkeEpLSHpiZ3ZabG14T0M2OXpZRDVQZDd2alJGMXJUVDNYZw?oc=5",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "可搬式速度違反自動取締装置（通称「可搬式オービス」）による取締りについて",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ud2FLRC1ZZGRlM3BpN1J0b3duVnJJWXhhSDhvWTZhTldZeTg1cDNDOFZVVnBLNDNNV3RLTVctVkdxTlRHSzd0VzlYazdhV2ZTQjFBOUFIblZnb0FFS1R1TVkzRDNvODFLaU5iNlNJSmZyYXVNMXZsTWJYeFFwUQ?oc=5",
+      "date": "Wed, 29 Jan 2025 03:38:07 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「交通事故より死者少ない」 核ごみ調査めぐり茨城・常陸大宮市長",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkYwTG9CT21HeTBVUzVBX0YzZlVVcjJEbm83SElaQlA1aDJ1dUE5aG1ocl9wRXE1N0otWmM1dEsySnZqd1VjaTJGbFBUc3REQ1kzXy1qOG1NeGxtd1h0b01VQllYTVU1QmhNYk1JSDhRZkJQUWR0VXNRZ254VlZ6RkJZdF9ldw?oc=5",
+      "date": "Mon, 31 Aug 2026 11:50:00 GMT"
+    },
+    {
+      "title": "ヘルメットや反射材着用を 野球試合で交通事故防止啓発 茨城県警",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpeEp6c3BUZmFCRHhHanRfYU5jU2JlYUlLN2J4Y1JxQV9TV3Q0alB0X2RPY2JCTnJjckMxTlBVRlFab3IwaUlUTDNHU0J6UmZCNFZkaTk1dG9pNFJ0Q0RWR3VOdzNqdjdUTGFRSTI1MnZidGM?oc=5",
+      "date": "Mon, 31 Aug 2026 01:04:47 GMT"
+    },
+    {
+      "title": "ヘルメットや反射材着用を 野球試合で交通事故防止啓発 茨城県警",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85UHRSVVMtMVVZVmlzOUxDN2hPNWE2QkVPU2JBNVduX1JVRWpBRWpRQUYzeTNWQkgyWDRzd29qSEpDZ0JGX0FWQWZqaw?oc=5",
+      "date": "Mon, 31 Aug 2026 01:21:44 GMT"
+    },
+    {
+      "title": "ヘルメットや反射材着用を 野球試合で交通事故防止啓発 茨城県警 (茨城新聞クロスアイ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2xmcGxJSG4zMlA2bzZNZDFTbkFXV2toeFdEeC1ram5OcTJMVmlzSkEwTHpFUUROdG56RUlvZzJJa2ctWkxXMlZOUVlsSTdreTRZaGM3MUFOQU11MzJWTWY2VjM4MTVKZXh5dXdUQ2FwT1RLVnVtcUpXVjhRVEhXN0hGRzJYd2VNMlM2RFVB?oc=5",
+      "date": "Mon, 31 Aug 2026 02:52:24 GMT"
+    },
+    {
+      "title": "【続報】JR常磐線の人身死亡事故 身元は中2男子生徒 茨城県警牛久署（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySHB3RU5EYkJuVEFxM2dSNXBpLVFDLXBDUUVWMTRNa1V0WEdZV1p6UnV4UkNYV083MWZtWXBsdlFZQ3Bib2s0UzhyQVgwUU9KaVlrVjNEX3pqQ3h3ZUg5RFdGTXBwU1pZN1hfdzRIMEZIZlQ2NUhGUWZlT2JXNGs?oc=5",
+      "date": "Tue, 01 Sep 2026 05:38:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",
