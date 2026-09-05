@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-05T09:02:40.519594",
+  "generated_at": "2026-09-05T12:03:13.985844",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 26.0,
-    "temp_max": 29.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 29.0,
+    "temp_max": 29.5,
     "temp_min": 23.0,
     "precip_prob_max": 12,
     "precip_sum": 0,
-    "wind_speed": 9.7,
+    "wind_speed": 8.4,
     "hourly": [
       {
         "time": "00:00",
@@ -27,13 +27,13 @@
       },
       {
         "time": "06:00",
-        "temp": 23.0,
+        "temp": 23.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 26.0,
+        "temp": 26.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -45,52 +45,57 @@
       },
       {
         "time": "15:00",
-        "temp": 29.6,
+        "temp": 29.5,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 27.9,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "18:00",
-        "temp": 28.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
-      },
-      {
         "time": "21:00",
-        "temp": 25.9,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
       "title": "９月５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhTMkg3UGVDaGVQc2UzSTFKQ2RmeWVBLVRpYk9nN3pzeEF3aHFTdVMtLXFWYUVQa3c2R18tbmhHeUJHMmliZ1NMZHdXdDQ1ekJUSzVZYnNXdXhvbmV0QmZjZWdpWjIzZ0N6TFRoSDdSTkVGUGM1dGRVSjlqSFhUSGpzMzHSAXdBVV95cUxNUjNXeWFNVENjenY5TDdLLXhOaHlhNGJPYmtpOG1oMDNldHd6MTVjbkRmdWJTbkFpTWdlTEJsWW1pUk15a3lXVlExT0hrY3otYUNtdDUwejBzZDFSM01GSFZuSEFpQzVQMHI2d0E3Yjl1LWdkb05YVQ?oc=5",
-      "date": "Fri, 04 Sep 2026 22:21:30 GMT"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEVUNlFzcHVnSmVzN3VzQTE5dnpZYlB6OVRvVEQ1YjZVLVhrSjBIY21FVGx1dEQ1T3FQSmtadXlJTjQydWcxZkJrTWJiaVV6VkhEZ0VnczBVUUx5eWx0cUE3dFVIdUt2NklvUXlTRkFYTG8yTzFzaERxNG5QdVFLZEpralY2Vm5MbTNUc1JOZ0tzcUQzb19IekZhdEsyVW9HRHlDWjJRNm5lY1hpbEFESmJkZkliamxHR1E2MVlKU0JjemV0N3pr0gF3QVVfeXFMTVIzV3lhTVRDY3p2OUw3Sy14Tmh5YTRiT2JraThtaDAzZXR3ejE1Y25EZnViU25BaU1nZUxCbFltaVJNeWt5V1ZRMU9Ia2N6LWFDbXQ1MHowc2QxUjNNRkhWbkhBaUM1UDByNndBN2I5dS1nZG9OWFU?oc=5",
+      "date": "Fri, 04 Sep 2026 21:22:58 GMT"
+    },
+    {
+      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "9月5日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KcV8xSllMNGZ3cE54NWJFZkRwblZMeVNGUDF0a0N3Y1FUVzRDUTc4TXR3Szg5Z2tjMmdiQXNxYlpMYXFLT1ppWVNQbFRIY3loMHJJbXFoRlVsYkhjbGxNaFF6dVhra2c2eEJxclcyd9IBdEFVX3lxTFA1WHdZanRiYnZnN3pKQWJzMnVUT3lHbkRoUmNucnFJOUJFWG5TMjlXSlJuN256ZEs3akVQenRmNUI0bmhMS1A2YWIwWHVoTG85bUxvTldKQWdsLWZVNjlMY2kwMnEwV2wtallGS3JaS191ajRl?oc=5",
+      "date": "Fri, 04 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "８月２８日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUVlHdGQzOGp5MWIwNmlYWlhVWjZHVUlQWklLaTBYZlh3WkFfbGpzTVZ1U1pNX0tQaGRGX3ZtbV9HUFRSZ0FGajFrMDY1Mnd4aGNIMzE3aC1uUnBVazZNV1Z6ZHpyelpX?oc=5",
+      "date": "Thu, 27 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "竹原警察署 令和８年２月中の速度違反取締り計画",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLThqWjNpUTgtVUFEbHNuOGRuU3EycG1JRHp4TW83dVdUZHREX3lSQTF4QklhS0FfMmlEaTVlSk5kN0dXRmh1WkNzS0FPTmxnOVk0czR2TmJDNmJsdTNhZVJUckpKdXdiQzlVdXlsSmdOdDVOQlIwU3RsOWx5bzRXTUFxSQ?oc=5",
       "date": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "9月4日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93VXk3R0FpdnpWUHhVc2xfN3BQVGlubXZ2NWYxUjNuVm85em81R2Z5R0hYVmlBMEZEeG0zVzA0M0tvUHg0V3Byb3Q1ZGFCNFZVWmU2eWd3ekptOWlLOWE5MjdnU0JkT3laZlhCM3BVa9IBdEFVX3lxTE9wMzdaam5KVUNwcVQ2Z2NSRG5fUkRTYnZyRmVwZ1dhSDRhYnJHbHJzV25TRjFWSXRaaFo1SG1ib1NyczlVVmRvNkxaVE00WHlKUklnRkZaMEZaNzJaTGNCRTZDUzVleC04QnFUVVNuU3ExMVo4?oc=5",
-      "date": "Thu, 03 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fODdMcHBWMzNrYy1VWEhCNFc1eEhTd25SSUZrOFdOdWV3VlZFYzFVMjM5TVRmT0IyejlYa0R3UVV4Zmk4WHdPR2JhT0xWM2w5clFUMEJxYUd5dw?oc=5",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年（中国新聞デジタル）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbkVTaDFVYWpxc0NscHNPVHdlTmxST3pOaVZXMGNQSVVxb0JWRVktaTBhc1dqdHUyODRZczc1a1p2b3d3SXBMeTY4ZDk5ZERialpzXzdTR3FuWnctUEd5TEdhOV9aYm5Cek5IMm94ckc1ejlDT011NjcxM0J5QVU?oc=5",
-      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "交通死亡事故、現場での対策は? 東広島の検討会から見える実情",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVXBqRENYSGtZcUE0OV9nMTVYMlV3UURpQm0wTVB1Q0VkZDlaRXFMRFdYUV8yQ1FFNzBoSjlQZTJ5dVdWMFRrSHAwVzhtMGZ3UjFDOEcybDg5QQ?oc=5",
+      "date": "Sat, 05 Sep 2026 01:00:00 GMT"
+    },
     {
       "title": "広島市中区の交差点事故の影響で広島電鉄が一時運転見合わせ 通勤時間帯を直撃（中国新聞デジタル）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tb1B6VDhsWEtBQ3poZE52UWREYlphVEhQbVoxYVhoZHg5azExT3ItY2dlYWhmWktyeTVqZHRBanNfbWJUakgxcjZJUDdiMVM4NE83S3dRaEU5SVIwenNNR1N6QUZGNnlpb3pHeXdGUHZTc2pKQjVTWUhhYjRiNTA?oc=5",
@@ -102,19 +107,14 @@
       "date": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "【事故】広島市中区の交差点で事故、広島電鉄が一時運転見合わせ 通勤時間帯を直撃",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PMlFpMlkzZHhwRTVlRHBONjFsOXRaM013RmJjLTlUc1FQM0NvOUpnWFlkU1FySlJ2QkN5QnZOOGg4bEFJS3luQ2o0X3U5RTNGd0swYzdZS2daZw?oc=5",
-      "date": "Thu, 03 Sep 2026 23:27:00 GMT"
+      "title": "【速報】「後ろから車が突っ込んできた」国道で車7台が絡む多重事故 信号待ちの列に追突か 北広島市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJbTR4dTBZbG9mVFd4RmlQSS05UkZzaUpNd2R1UC00QTVIT0I0WFBFRUQ2eW5ZWjhFNW16T05JNlcxdUhoSHg1MkFrdUpyekl1cHM5MUxVTW5HZw?oc=5",
+      "date": "Thu, 03 Sep 2026 06:49:00 GMT"
     },
     {
       "title": "【事故】広島市中区の交差点で事故、広島電鉄が一時運転見合わせ 通勤時間帯を直撃",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hX2J5amRuSUFuNkdMaXE5em1CakloUktCQUpUeXJ2N2ZUSkZWdEZfOG1COVp5Z3lqZFNfTDR1V0tya1M5V2xzdjZ0QQ?oc=5",
       "date": "Thu, 03 Sep 2026 23:27:00 GMT"
-    },
-    {
-      "title": "【速報】「後ろから車が突っ込んできた」国道で車7台が絡む多重事故 信号待ちの列に追突か 北広島市",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJbTR4dTBZbG9mVFd4RmlQSS05UkZzaUpNd2R1UC00QTVIT0I0WFBFRUQ2eW5ZWjhFNW16T05JNlcxdUhoSHg1MkFrdUpyekl1cHM5MUxVTW5HZw?oc=5",
-      "date": "Thu, 03 Sep 2026 06:49:00 GMT"
     }
   ],
   "official_links": [
