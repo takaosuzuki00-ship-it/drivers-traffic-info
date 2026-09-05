@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-09-05T12:00:43.297971",
+  "generated_at": "2026-09-05T15:00:40.957256",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 21.5,
+    "temp_max": 22.0,
+    "temp_min": 12.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 11.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
@@ -38,9 +97,9 @@
       "date": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "函館で車同士が衝突、5人搬送 北斗市でも交差点で車同士が衝突し2人搬送 北海道で事故相次ぐ",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85NVEzcWxWQWFBclBrQ3AwU21qZTVfOWxDQTlnNGNLSjZQSEI0elhIMHBUOUEzY0R5YXdhNlNuZUdwQ1k5TFBfTkhMNG9TUQ?oc=5",
-      "date": "Thu, 03 Sep 2026 08:28:00 GMT"
+      "title": "【北海道南部で事故相次ぐ】函館市の高架橋下で乗用車と軽自動車が衝突…5人中3人骨折の疑いで搬送―北斗市でも車同士が出会い頭に衝突し男女2人が搬送〈北海道〉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QZmdUdkVnY2p4RFJrSkVrZ1l0YVp0RDNVbkpRT281UV9zT0RYX0Z5TFdSNXAzeXZ5dGgyTGNQQlZndm12YkZid1NJQmF1Zw?oc=5",
+      "date": "Thu, 03 Sep 2026 09:30:00 GMT"
     },
     {
       "title": "北海道、交通死亡事故多発警報を発表 22日まで 3日間に5人死亡受け - hokkaido",
