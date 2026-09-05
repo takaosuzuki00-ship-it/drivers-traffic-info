@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-09-05T06:02:09.977215",
+  "generated_at": "2026-09-05T09:01:34.687881",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 22.5,
-    "temp_max": 27.6,
+    "temp_now": 25.6,
+    "temp_max": 27.9,
     "temp_min": 22.5,
-    "precip_prob_max": 6,
+    "precip_prob_max": 61,
     "precip_sum": 0.1,
-    "wind_speed": 7.7,
+    "wind_speed": 16.7,
     "hourly": [
       {
         "time": "00:00",
         "temp": 23.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 61
       },
       {
         "time": "03:00",
-        "temp": 22.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
       },
       {
         "time": "06:00",
         "temp": 22.5,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
         "temp": 25.6,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 27.4,
+        "temp": 27.6,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 27.1,
+        "temp": 27.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -57,7 +57,7 @@
       },
       {
         "time": "21:00",
-        "temp": 24.0,
+        "temp": 24.1,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "９月４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHTlBXQUQ1TVhuYkhJWTVNNkJTamt1MU9XZmctSzJITE5nckItbEw5aTd2TnM2OVBMN1hQclNkOXBKVzZfYkhfSzVnZVBGdVJKRUQ5Z1BnV2d3OHFaa0wwMndZU2tndXVROW43VlpDRjdDQdIBd0FVX3lxTFBfdGF5b2JrdS1PSndWV3RJSGNEbmFYLWJpV3RuNl9DRm5wNzYtTlBkS3NiX3ZGT0VjcGpwV1VWdGw4OVlVSnY0MzVxOWVkQ0lKVVJZb3dsdE5DMENsWENUVzRMWERQaWZxNmtVUFpzbzlsVmgwbGww?oc=5",
-      "date": "Thu, 03 Sep 2026 20:09:14 GMT"
-    },
-    {
       "title": "【交通取締情報】福井県警 ４月１日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
       "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "８月３０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BcDc5OEJKSzZoOW9WZjJfVGJRc1dFMnpMMGNJdXcwSVlSYmk3WlZHMnJVY2dxcGpqc0VwemF6N1ZXN3JBa29OVzhGX0dBeWxoajBvaS11V1lGVktnS0E4cWg4ZVF2T0I3U3lqemlkSDJCd9IBd0FVX3lxTE9YRmhlWUg1amdJSjR5dnk4eGE0LURCZzRPSTY1NDNuWWNndkNSY18tNWoza25PTzNqWkZEQ05sZTVuTWVKa1lrajY3LVNpVkpwWGNNanZ6ZjV2bGQ0YWl3RG1DRzR1X0RwV0J4aEVHUS11dnhmZHU0?oc=5",
+      "date": "Sat, 29 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "繁華街の交通違反 ＫＴ４が行く！ 取り締まりチーム 金沢中署で出動式",
@@ -80,22 +80,17 @@
       "date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "９月３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKX1FFcVZEVXl6NEV5eGxocWFEQ2FhVlEycnprckc1UnQwZEFDazdiM1poZmt4VlFNazlhRXV6aXZGM0dKcmswZ3pxdTN3TkpnLWN2aDB4Z05rSGpkWTVaUnRGeUl1Qkl2SmJXQTFlY2ctZ9IBd0FVX3lxTFBxcVB3UHJDaVdhY1IyS25iMUlIR1pkSzhsazk2cUJBbEtlaUJXR0JjNFdLaHc2V05rY2JrSXVPLWgyeXllZVA2eVprS2xuanB0TVZCeElZZEp4RVFCZmdKZVhoM3F2RkpIRjgwVkNhc2ttVTBFZXg4?oc=5",
-      "date": "Wed, 02 Sep 2026 20:08:57 GMT"
-    },
-    {
       "title": "未解決のまま18年 金沢市久安で会社員の男性が何者かに殺された事件 遺族と警察が現場周辺で検問し情報提供求める",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFanduWFNzR3ZGbkZrY3h3eS1iZVFCWU9feXZQQTBoUlo0dzJLWWVkSDJFZWlRaEtuMEwzN3RrYmRwZ3dMQjR5c2VPZFdQVm5HanRVN1NSTVI1X2NfMFZUOGhqMnF2WE0?oc=5",
       "date": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "相次ぐ米軍関係者の飲酒運転疑い 沖縄県警の検問で2人を現行犯逮捕 うるま市石川と沖縄市で",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04ME85NkJsbno1cFZZOUtIclNnS0dwVEJ0LWdDZ0RNODJzYWt5UkRNeDBSdmxZSlJreG81VXpzSW1QZGFKVHB0T1l3WGYtZzllb0xTZHFKYURiZ0R4d0E?oc=5",
+      "date": "Tue, 02 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "「事故直後に座席入れ替え」25年間無免許 酒酔い運転の男と身代わりの妻を逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14cl85S2QzNFpJOGp0OEQ3LXRLLTR2ZlA3UmJJXy0yMXZIalA2a21mZFdkQklGakpOOVN4R21qTDZGWE41ZkM4X0p4bjRKQnFiVUJmcmdnNFNndGNUbGN6OFU5a0VQMEU?oc=5",
-      "date": "Fri, 04 Sep 2026 09:33:00 GMT"
-    },
     {
       "title": "事故の続発防ぐ 石川高生３人に感謝状 石川署",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQNEtqdzNPUERDcUhXZTNZZDMzVDlVYWxkUVZ1XzF6M1JEdEEwVGNMSGx1N2JDUk5hSnpIZHgtNmVNb011MkM2M2d5dw?oc=5",
@@ -107,14 +102,19 @@
       "date": "Tue, 01 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "10トントラックと出会い頭に衝突 ライトバン同乗の76歳男性が死亡 石川・能登町（2026年7月3日掲載）｜テレ金NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNTUNYYUFVOS1URkJtN3UzYWhqbjEwRWNOSm1VdkxHMU5CaFdxQ1FVRV84VG5OdjhZVVBwckY3R3JRMnhqNXd2QjZsRUF0N2RDSjFhMnRsd3R5SDUybHVrQm53bExOOHNZQzVCNnYzX01Rek1QeG9TRUNVQmx2V0k?oc=5",
-      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+      "title": "石川・白山警察署で警察の仕事体験 職務質問や交通事故の車両見分を体験（2026年8月23日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVlCcmRPY1hTaUYycHJLVnh0akltQUoyUGs4Ti1aZGItbnZnenJZcTVubWpKdXgtSy1wZWdOb0c2ejlHcDRhM2YtdWpJd2NDUnFDYmlYcHZoeUxsTW1CQjZpTVRvUXFDUkpBV2wyaGo4OGluYWNTSFFtbWstblk3Zk1Wbw?oc=5",
+      "date": "Sun, 23 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "春の交通安全運動期間、事故４２件、死者ゼロ 石川県内｜社会｜石川のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tbFlvRWNzSks1NE16dkRtWTd0dkpLd1UtSHVMYXhranpabXl0d0xYOHBRSkJIeFhGMnVsMHZ2WkRSVEZhVmdyOWtoQ24wdXNhUG1zRkx5MA?oc=5",
-      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+      "title": "オートバイに乗っていた石川県の23歳男性が死亡 福井県あわら市の国道8号交差点で乗用車と正面衝突",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MMktZbU9nVlMtRXA1QTYzWnBZa2RjWGxvMEZOdE44b3ktSk8zaE1hTEl6dmxZZjExN3ZyXzF3UFYzZzE0SUloMU9WVjdtQQ?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "健診の頻度等で複数の法令違反…金沢で死亡事故起こしたトラックの運送会社に国が「事業停止」等の行政処分（石川テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OVV91bFNGZ19POXVaSVV6R29kY3pkNmdreklHdUotUXJUQ2ViaTN3eUdGSWRBN2QzcG56ZDZQd1Q2WlJxenNuZWZfRkNTMGhzd0xSeFFWbWhYUkI3RzR3aXppVWhPNG9sLU9wWXMza0JNNTFrU3hrZ1M5cjliTm8?oc=5",
+      "date": "Mon, 31 Aug 2026 09:37:01 GMT"
     }
   ],
   "official_links": [

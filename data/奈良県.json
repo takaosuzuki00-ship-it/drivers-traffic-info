@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-09-05T06:03:07.351108",
+  "generated_at": "2026-09-05T09:02:21.359402",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 20.0,
-    "temp_max": 28.6,
-    "temp_min": 20.0,
-    "precip_prob_max": 92,
+    "temp_now": 23.8,
+    "temp_max": 27.9,
+    "temp_min": 20.5,
+    "precip_prob_max": 94,
     "precip_sum": 1.5,
-    "wind_speed": 4.0,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
         "temp": 21.5,
         "weather": "霧雨",
-        "precip_prob": 92
+        "precip_prob": 94
       },
       {
         "time": "03:00",
-        "temp": 20.3,
+        "temp": 20.9,
         "weather": "晴れ時々曇",
         "precip_prob": 65
       },
       {
         "time": "06:00",
-        "temp": 20.0,
+        "temp": 20.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 23.6,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.7,
-        "weather": "晴れ",
-        "precip_prob": 6
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 28.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 27.9,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 26.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 25.9,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 24.4,
+        "temp": 24.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "９月３日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKX1FFcVZEVXl6NEV5eGxocWFEQ2FhVlEycnprckc1UnQwZEFDazdiM1poZmt4VlFNazlhRXV6aXZGM0dKcmswZ3pxdTN3TkpnLWN2aDB4Z05rSGpkWTVaUnRGeUl1Qkl2SmJXQTFlY2ctZ9IBd0FVX3lxTFBxcVB3UHJDaVdhY1IyS25iMUlIR1pkSzhsazk2cUJBbEtlaUJXR0JjNFdLaHc2V05rY2JrSXVPLWgyeXllZVA2eVprS2xuanB0TVZCeElZZEp4RVFCZmdKZVhoM3F2RkpIRjgwVkNhc2ttVTBFZXg4?oc=5",
-      "date": "Wed, 02 Sep 2026 20:08:57 GMT"
-    },
-    {
-      "title": "９月４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHTlBXQUQ1TVhuYkhJWTVNNkJTamt1MU9XZmctSzJITE5nckItbEw5aTd2TnM2OVBMN1hQclNkOXBKVzZfYkhfSzVnZVBGdVJKRUQ5Z1BnV2d3OHFaa0wwMndZU2tndXVROW43VlpDRjdDQdIBd0FVX3lxTFBfdGF5b2JrdS1PSndWV3RJSGNEbmFYLWJpV3RuNl9DRm5wNzYtTlBkS3NiX3ZGT0VjcGpwV1VWdGw4OVlVSnY0MzVxOWVkQ0lKVVJZb3dsdE5DMENsWENUVzRMWERQaWZxNmtVUFpzbzlsVmgwbGww?oc=5",
-      "date": "Thu, 03 Sep 2026 20:09:14 GMT"
+      "title": "９月５日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEVUNlFzcHVnSmVzN3VzQTE5dnpZYlB6OVRvVEQ1YjZVLVhrSjBIY21FVGx1dEQ1T3FQSmtadXlJTjQydWcxZkJrTWJiaVV6VkhEZ0VnczBVUUx5eWx0cUE3dFVIdUt2NklvUXlTRkFYTG8yTzFzaERxNG5QdVFLZEpralY2Vm5MbTNUc1JOZ0tzcUQzb19IekZhdEsyVW9HRHlDWjJRNm5lY1hpbEFESmJkZkliamxHR1E2MVlKU0JjemV0N3pr0gF3QVVfeXFMTVIzV3lhTVRDY3p2OUw3Sy14Tmh5YTRiT2JraThtaDAzZXR3ejE1Y25EZnViU25BaU1nZUxCbFltaVJNeWt5V1ZRMU9Ia2N6LWFDbXQ1MHowc2QxUjNNRkhWbkhBaUM1UDByNndBN2I5dS1nZG9OWFU?oc=5",
+      "date": "Fri, 04 Sep 2026 21:22:58 GMT"
     },
     {
       "title": "年末年始に向けて県内一斉飲酒検問 奈良県警、主要幹線道路で",
@@ -88,6 +83,11 @@
       "title": "「なんで俺だけ！みんなスピード出してるじゃん…」スピード違反の取り締まりに「グレーゾーン」はあるの？",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XUjRLcUpWNFFJT1loaDhXWFFWaTVtOE40WnZTY3lkbGhzZndfb3Npd0RDSUl1TUNoTHJubmM1NkZKd3JZQlh0cW4tdi3SAU9BVV95cUxOWC10WXY4amc4MksxSG9td0dIYlZzYmV5MXhQczNCaDZxczFDak5EbzNiNUdyWEhRdFRRb0VDcGVjcXlueUowcjRvUlBYby1J?oc=5",
       "date": "Sun, 22 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "不正２０数件に関与か 奈良県警の交通違反もみ消し巡査部長",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1NGNzY3VybUZBS2UyQ0R6a3UwMkZMSUVidE5qS2RkS0RBM0JOa2l1cHN6YUlNRG5BLXl5VkNUWm1pVi1WWDh0U2FkWTFYWFZOMnd3ckdzckFGR1lWUW5jTVVBN0VaYVRoNGlYQldBRl9OdHluSFE?oc=5",
+      "date": "Wed, 15 Jul 2015 07:00:00 GMT"
     }
   ],
   "accident_news": [
