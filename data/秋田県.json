@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-05T21:01:19.544505",
+  "generated_at": "2026-09-06T00:00:59.018333",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 20.8,
-    "temp_max": 24.8,
-    "temp_min": 16.5,
-    "precip_prob_max": 9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 19.0,
+    "temp_max": 28.3,
+    "temp_min": 17.0,
+    "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 6.8,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.4,
-        "weather": "晴れ",
+        "temp": 19.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 18.1,
+        "temp": 17.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.7,
+        "temp": 17.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.6,
+        "temp": 23.2,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 24.5,
-        "weather": "晴れ",
-        "precip_prob": 8
+        "temp": 27.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 24.5,
-        "weather": "晴れ",
-        "precip_prob": 8
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 23.3,
+        "temp": 23.9,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 20.8,
-        "weather": "快晴",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "【解除】秋田道・五城目八郎潟ＩＣ―琴丘森岳ＩＣ間の下り線一時通行止め 交通事故で",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0MUJIdkgyY3NPV25PT1FiakZlYm9pV1E0Z1dTRVNiZktCendOSUpyNzJYQzdnQzdmT1dwX3FjZV9BbWdoNnJ5aERzVDdlYVNYeXh3OS1DUW5fSFRucVdXOU9R?oc=5",
-      "date": "Thu, 03 Sep 2026 07:56:00 GMT"
-    },
-    {
       "title": "軽乗用車とトラックが正面衝突 軽乗用車の83歳男性死亡 トラックの2人もけが 秋田・上小阿仁村",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVmJCMWNITDd6S0hMbnM2T2FyV2Q4OWdwRU1oZ01lc0d2R25aTXhZTENNSGRiQVF0U0RBUGpSYm9hbUFmcnN5UzlOQUtCaWlpaDgwNzYxTnlMbkcwSEVYQmNWMEQ?oc=5",
       "date": "Fri, 04 Sep 2026 09:33:03 GMT"
+    },
+    {
+      "title": "【解除】秋田道・五城目八郎潟ＩＣ―琴丘森岳ＩＣ間の下り線一時通行止め 交通事故で",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0MUJIdkgyY3NPV25PT1FiakZlYm9pV1E0Z1dTRVNiZktCendOSUpyNzJYQzdnQzdmT1dwX3FjZV9BbWdoNnJ5aERzVDdlYVNYeXh3OS1DUW5fSFRucVdXOU9R?oc=5",
+      "date": "Thu, 03 Sep 2026 07:56:00 GMT"
     },
     {
       "title": "一時停止見落とし交通事故 県教委が女性養護教諭を懲戒処分 ／秋田",
@@ -107,14 +107,14 @@
       "date": "Thu, 03 Sep 2026 11:19:00 GMT"
     },
     {
+      "title": "上小阿仁村の国道で車同士の事故　軽乗用車の８０代男性死亡　/秋田",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uc2o1RHNnYS00ZGN6eUpCV3g1SF8yTDZCR2Fjd1ZmS3NvaktRbHdKNG11Nkp1bVpZSmZ1ZVY0WUV4OVBNZkYwQlBhMTg1VkpnR3FFU25pcGZ0dUIwczVBM0ZiNWJMQU9fNXRoQtIBckFVX3lxTE1XcmlkYzVJMFQwaUR3Y3FzdGNXdVV3TUozZzMzeHF4OWZyNU5EVFc1elNGRFVuZ1JVeURIcV84VTZMMjhnUkpxelhzTFQwdGJkbFJVNDNncmxvMi00eUNKZHNleWJWMFZ5MUp5aXRVVThQZw?oc=5",
+      "date": "Sat, 05 Sep 2026 11:56:03 GMT"
+    },
+    {
       "title": "一時停止の標識見過ごし交通事故、相手女性は重傷 特別支援学校勤務の女性養護教諭、減給処分 秋田",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qd2hhMnZLS202MnZsUVRsVldGUWxOWDIyN2dkRnpCTUllZHBXanhMNGxFRDNzMTkzbkNXbUJRSDQtSTlLbUFOejZac0twdw?oc=5",
       "date": "Thu, 03 Sep 2026 09:00:00 GMT"
-    },
-    {
-      "title": "交通死亡事故ゼロ作戦",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpSHkzTi1NdFB5QWZxc192MFRMVlhPSWJibHhiYWlWeTU2SU1GZjU5M0t4SGRhOGtPRkEwSjMxUTVkd04xRC00QURMRFRQLVBqemc?oc=5",
-      "date": "Wed, 02 Sep 2026 09:04:58 GMT"
     }
   ],
   "official_links": [
