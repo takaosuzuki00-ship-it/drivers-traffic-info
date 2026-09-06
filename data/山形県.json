@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-06T15:00:53.861994",
+  "generated_at": "2026-09-06T18:01:04.863290",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 21.4,
-    "temp_max": 22.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.2,
+    "temp_max": 21.4,
     "temp_min": 17.8,
     "precip_prob_max": 57,
-    "precip_sum": 0.1,
-    "wind_speed": 11.0,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
     "hourly": [
       {
         "time": "00:00",
@@ -39,25 +39,25 @@
       },
       {
         "time": "12:00",
-        "temp": 22.0,
-        "weather": "晴れ時々曇",
+        "temp": 21.0,
+        "weather": "曇り",
         "precip_prob": 10
       },
       {
         "time": "15:00",
-        "temp": 21.4,
-        "weather": "晴れ時々曇",
+        "temp": 20.6,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
         "temp": 20.2,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 20.3,
+        "temp": 20.6,
         "weather": "曇り",
         "precip_prob": 14
       }
@@ -65,19 +65,9 @@
   },
   "enforcement_news": [
     {
-      "title": "9月6日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnTUpZTTBRakpxeDVzaEN6NzdfOFREVDBZYlZISVBqMFdaZldEOFFNajg0SUFldnVDU2tZR0JFb0dGcF9PWHVJZUpOZVJGMk94cU5PeTJTTThZOEFzZTR2TjZCMTBzZzBmYy1PVVlkRdIBdEFVX3lxTE52NkhUQm9mZHhNTFl3ZGlGTC15b3hHMEZGRDNFWUtLNWh3OVNCTmRMdlljYUc0enpuZXRYSUgwVkV2THNqbWtpOFIwVkdDNVhnMENqdVNfTG94UDdFMExzd3pTOU9zU1BfT0xmZHdoRkxPVi01?oc=5",
-      "date": "Sat, 05 Sep 2026 20:00:00 GMT"
-    },
-    {
       "title": "神奈川県の少年（17）を麻薬取締法違反の疑いで逮捕 庄内町で大麻を所持か（山形）（テレビユー山形）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VLTFqa3dBbkN3c2VQLWtqbEo4ODFYR0lleGd2M0I3UEdMY0ZXRzlFdWY3Mm1XYVFIaU9HQ0Z0U1d6YTZ0SFJPUjBWalZRWm5ORzVuUjhjaTBjWnNDaWhTajBMOUR4UzBPWFV4ZlI2NmJ4SjFpNVNzaHY1cFRsd2s?oc=5",
       "date": "Thu, 03 Sep 2026 01:48:19 GMT"
-    },
-    {
-      "title": "交通違反の取り締まり→無免許が発覚 24歳の男を現行犯逮捕（山形市）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlV2tUc1NuUHRDOHVCY29lMHJ6QXRGUG5ETTVzWU9xQlhfZWlSSzlpWmpTQ0wzc19fZUp6UTJHaVNTY2dmbHFuYnhjQk5kNURaTlNVN0g2V1cycW42R2lWZnBoZjM5bVE?oc=5",
-      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "9月5日（土）【岩手県】 日中・夜間の交通取締情報",
@@ -85,9 +75,19 @@
       "date": "Fri, 04 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "月山道路の死角 鶴岡国道112号でまた死亡事故 警察が現場点検 速度違反取締強化へ（YBC山形放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSaXJjcUV1WHRZODlRUk9NclUyMXlTcC1rdEs5X2xKQkRYd1JPbUV2TDJtTW5VVl91cXd5Nmk3Wk1ZMVUxdVpqM0Foc3NBOUZDbVlqUUFkekNkNzdlbTNrNmxuS3NpQlhYdTJSMnZGNzFCemtUWFhZQzRDUmNOdXM?oc=5",
+      "title": "月山道路の死角 鶴岡国道112号でまた死亡事故 警察が現場点検 速度違反取締強化へ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGFXRl84bzZQdkZkTnBoRmhwbHZoOFRxVzlld2YtU0h5ZF9FZVdmOW80MnlPSFEtT2thR2FtXzdxSmtDR1BxRDFDR0NQVHpTaURhMnhmM1NFcy13aEF6X0lCYnFGRHgySnZFS2Y4VlY5UHVhajJSeURqSmZrNGVweTQxeFRIVUU?oc=5",
       "date": "Fri, 28 Aug 2026 09:18:00 GMT"
+    },
+    {
+      "title": "交通違反の取り締まり→無免許が発覚 24歳の男を現行犯逮捕（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlV2tUc1NuUHRDOHVCY29lMHJ6QXRGUG5ETTVzWU9xQlhfZWlSSzlpWmpTQ0wzc19fZUp6UTJHaVNTY2dmbHFuYnhjQk5kNURaTlNVN0g2V1cycW42R2lWZnBoZjM5bVE?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "９月４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHTlBXQUQ1TVhuYkhJWTVNNkJTamt1MU9XZmctSzJITE5nckItbEw5aTd2TnM2OVBMN1hQclNkOXBKVzZfYkhfSzVnZVBGdVJKRUQ5Z1BnV2d3OHFaa0wwMndZU2tndXVROW43VlpDRjdDQdIBd0FVX3lxTFBfdGF5b2JrdS1PSndWV3RJSGNEbmFYLWJpV3RuNl9DRm5wNzYtTlBkS3NiX3ZGT0VjcGpwV1VWdGw4OVlVSnY0MzVxOWVkQ0lKVVJZb3dsdE5DMENsWENUVzRMWERQaWZxNmtVUFpzbzlsVmgwbGww?oc=5",
+      "date": "Thu, 03 Sep 2026 20:09:14 GMT"
     }
   ],
   "accident_news": [

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-06T15:03:12.343105",
+  "generated_at": "2026-09-06T18:03:07.969147",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 24.6,
-    "temp_max": 27.2,
-    "temp_min": 24.4,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 26.1,
+    "temp_max": 26.8,
+    "temp_min": 24.3,
     "precip_prob_max": 98,
-    "precip_sum": 17.5,
-    "wind_speed": 15.0,
+    "precip_sum": 15.5,
+    "wind_speed": 21.2,
     "hourly": [
       {
         "time": "00:00",
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 27.2,
-        "weather": "晴れ",
+        "temp": 26.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 45
       },
       {
         "time": "15:00",
-        "temp": 24.6,
-        "weather": "雨",
+        "temp": 25.3,
+        "weather": "霧雨",
         "precip_prob": 55
       },
       {
         "time": "18:00",
-        "temp": 25.2,
-        "weather": "弱い雨",
+        "temp": 26.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 92
       },
       {
         "time": "21:00",
-        "temp": 25.2,
-        "weather": "弱い雨",
+        "temp": 24.6,
+        "weather": "雨",
         "precip_prob": 98
       }
     ]
