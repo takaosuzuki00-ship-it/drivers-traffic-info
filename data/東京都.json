@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:01:34.963131",
+  "generated_at": "2026-09-06T12:01:34.806676",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
@@ -7,11 +7,11 @@
     "code": 65,
     "weather": "強い雨",
     "temp_now": 19.7,
-    "temp_max": 22.7,
-    "temp_min": 19.7,
-    "precip_prob_max": 96,
-    "precip_sum": 97.6,
-    "wind_speed": 6.9,
+    "temp_max": 22.0,
+    "temp_min": 19.5,
+    "precip_prob_max": 100,
+    "precip_sum": 98.5,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
@@ -23,43 +23,43 @@
         "time": "03:00",
         "temp": 21.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 20.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 20
-      },
-      {
-        "time": "09:00",
-        "temp": 19.7,
+        "temp": 20.3,
         "weather": "弱い霧雨",
         "precip_prob": 45
       },
       {
-        "time": "12:00",
-        "temp": 20.2,
+        "time": "09:00",
+        "temp": 19.6,
         "weather": "弱い霧雨",
-        "precip_prob": 90
-      },
-      {
-        "time": "15:00",
-        "temp": 20.5,
-        "weather": "雨",
         "precip_prob": 96
       },
       {
+        "time": "12:00",
+        "temp": 19.7,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 20.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
         "time": "18:00",
-        "temp": 22.2,
+        "temp": 21.8,
         "weather": "強い雨",
-        "precip_prob": 92
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 22.7,
+        "temp": 21.8,
         "weather": "強い雨",
-        "precip_prob": 92
+        "precip_prob": 100
       }
     ]
   },
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "〈詳報〉メリットは「お金の問題」、原子力より「交通事故の方が死者多い」 8月31日の常陸大宮市長の発言",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMFB2a2NsMFkyY2cxNXUtTFJKTjlmUXJqUDdFWnhsekRlWlVZeUtOQnV6bmlEZHF2cm1DckFPTHhzWV91V0dudFJFSmlaSFlQT3hF?oc=5",
-      "date": "Wed, 02 Sep 2026 06:57:41 GMT"
+      "title": "東京湾アクアラインでバイクと大型トラックが衝突 バイク運転の男性が死亡 上り線でも通行止め解除",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4a0dFS05mbWlSRXRpRjlFeWp5VHJmbUFiSjhyU0Vta080VzAtZE85S0xJZV94c1pWWFV5amRNem5SUkJjSFN3NzN0WEdBZ3FzckxWWFlPaXg2X0FkQkNQYUx1QkxweDlZTXNhQkhsYV9RQQ?oc=5",
+      "date": "Wed, 02 Sep 2026 05:15:00 GMT"
     },
     {
       "title": "東京湾アクアライン事故 バイクの男性死亡 トラックと衝突し炎上 上りは通行止め続く（テレビ朝日系（ANN））",
@@ -102,9 +102,9 @@
       "date": "Wed, 02 Sep 2026 00:32:21 GMT"
     },
     {
-      "title": "環状7号線で4台絡む玉突き事故 男性の意識が朦朧となり追突か 東京・足立区",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HOUdmZUVJOURiT1hrQV9wQ0FpcjcxM1dMS2ZQdGhneUhNb3dQakxGMEs0TzI3YkxMdktSM1p6bDNXVm42bkJQSFotc3o2RGhLemVqWl9WZUVDdy1SMXYycEdJV0JZMzNiaHJuaG4yam13QQ?oc=5",
-      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+      "title": "〈詳報〉メリットは「お金の問題」、原子力より「交通事故の方が死者多い」 8月31日の常陸大宮市長の発言",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMFB2a2NsMFkyY2cxNXUtTFJKTjlmUXJqUDdFWnhsekRlWlVZeUtOQnV6bmlEZHF2cm1DckFPTHhzWV91V0dudFJFSmlaSFlQT3hF?oc=5",
+      "date": "Wed, 02 Sep 2026 06:57:41 GMT"
     },
     {
       "title": "東京海上日動調査サービスにて、ダイナミックマッププラットフォームの3Dmapspocket®が採用 交通事故調査における現場確認の高度化・効率化を支援",
