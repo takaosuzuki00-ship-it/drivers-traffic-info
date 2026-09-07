@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-09-08T00:02:58.118353",
+  "generated_at": "2026-09-08T03:03:17.350728",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 25.4,
-    "temp_max": 29.3,
-    "temp_min": 25.0,
-    "precip_prob_max": 61,
-    "precip_sum": 2.1,
-    "wind_speed": 7.6,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.0,
+    "temp_max": 27.8,
+    "temp_min": 24.9,
+    "precip_prob_max": 66,
+    "precip_sum": 2.4,
+    "wind_speed": 7.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.4,
-        "weather": "晴れ時々曇",
+        "temp": 25.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 25.1,
-        "weather": "晴れ",
-        "precip_prob": 8
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 25.0,
-        "weather": "晴れ",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 20
       },
       {
         "time": "09:00",
-        "temp": 26.9,
+        "temp": 26.6,
         "weather": "晴れ",
-        "precip_prob": 18
+        "precip_prob": 41
       },
       {
         "time": "12:00",
-        "temp": 29.0,
-        "weather": "晴れ",
-        "precip_prob": 43
+        "temp": 27.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 55
       },
       {
         "time": "15:00",
-        "temp": 28.7,
-        "weather": "曇り",
-        "precip_prob": 61
+        "temp": 26.8,
+        "weather": "晴れ",
+        "precip_prob": 65
       },
       {
         "time": "18:00",
-        "temp": 27.9,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 26.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
       },
       {
         "time": "21:00",
-        "temp": 25.9,
-        "weather": "霧雨",
-        "precip_prob": 33
+        "temp": 25.2,
+        "weather": "弱い雨",
+        "precip_prob": 51
       }
     ]
   },
   "enforcement_news": [
     {
       "title": "9月7日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WcGxmcS11dXVUS3djMkpxNWlsTUtIbHFyUlN6SDRQdElNMjNXMHRmaDFJRzNlUHVjNmRIa1NHS3Z6d1BZcEJMTWw5ZjBUZ2NWbUY3S0c1akgtZlRIRkdIOU9OOG9md1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UejlXMVhsajc0bnNwVVdHaXNIaTIxMlRWVVUtTkNTUUpCTzdRVDNzMERVU25fbGVBc1lGR0ZRN3lvMmFUZGpQZVZXNmNVV216Y0pvRkxnQQ?oc=5",
       "date": "Sun, 06 Sep 2026 20:02:00 GMT"
-    },
-    {
-      "title": "９月７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UFEySWd4clBlNmZwRi0xRzZRU0poWnF0Zko0OUdqejk1WW9RbGo1X0Q0VWk0RnRYaVk1RU83RzE2RlZQSnRpX0RwVnZSSERDRjdYWm1vUGttdDNneHBfVXlheTVYc3YyVnphRS1qNXIzZ9IBd0FVX3lxTFBBdzdJMk1CZXR5UTJseWZ6LU9wcFBndDJ2S25zWGUyaXNYTUpaSE1QTWtIb00xRzQtc0ZBd3g4NExzcnBuOFJ1b2gzNGNYV3RfdU80V0o3T3BDWS1CNFllRmNNYzlBVWd1Z0RjTm8tY1dXNkZMV2Q0?oc=5",
-      "date": "Sun, 06 Sep 2026 20:00:00 GMT"
     },
     {
       "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
@@ -80,12 +75,17 @@
       "date": "Mon, 02 Mar 2026 08:00:00 GMT"
     },
     {
+      "title": "９月７日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UFEySWd4clBlNmZwRi0xRzZRU0poWnF0Zko0OUdqejk1WW9RbGo1X0Q0VWk0RnRYaVk1RU83RzE2RlZQSnRpX0RwVnZSSERDRjdYWm1vUGttdDNneHBfVXlheTVYc3YyVnphRS1qNXIzZ9IBd0FVX3lxTFBBdzdJMk1CZXR5UTJseWZ6LU9wcFBndDJ2S25zWGUyaXNYTUpaSE1QTWtIb00xRzQtc0ZBd3g4NExzcnBuOFJ1b2gzNGNYV3RfdU80V0o3T3BDWS1CNFllRmNNYzlBVWd1Z0RjTm8tY1dXNkZMV2Q0?oc=5",
+      "date": "Sun, 06 Sep 2026 20:00:00 GMT"
+    },
+    {
       "title": "竹原警察署 令和８年２月中の速度違反取締り計画",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLThqWjNpUTgtVUFEbHNuOGRuU3EycG1JRHp4TW83dVdUZHREX3lSQTF4QklhS0FfMmlEaTVlSk5kN0dXRmh1WkNzS0FPTmxnOVk0czR2TmJDNmJsdTNhZVJUckpKdXdiQzlVdXlsSmdOdDVOQlIwU3RsOWx5bzRXTUFxSQ?oc=5",
       "date": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も - chugoku",
+      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fODdMcHBWMzNrYy1VWEhCNFc1eEhTd25SSUZrOFdOdWV3VlZFYzFVMjM5TVRmT0IyejlYa0R3UVV4Zmk4WHdPR2JhT0xWM2w5clFUMEJxYUd5dw?oc=5",
       "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     }
@@ -102,12 +102,12 @@
       "date": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "クレーン車が建物に衝突 広島県呉市の国道31号 運転手（50代）は事故直前に意識を失っていたか 搬送先の病院で死亡確認 現場付近が一時通行止めに（RCC中国放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MVHItSVkwXzFORlJnV0Z2WkVpM09mekFRdUtNMzV1M1ZYa3pTa0JBVGpfUHo4V1cwWUtRUnpsUnluMjNlcEFEc3ZRNm4weXRHSkdoYmpqQUZmZjVLN1NSQWt1QVhPc2hBallQSmk4R3RHcHNLdFhDVGUzWXpTYWc?oc=5",
-      "date": "Mon, 07 Sep 2026 02:35:24 GMT"
+      "title": "広島市中区の交差点事故の影響で広島電鉄が一時運転見合わせ 通勤時間帯を直撃（中国新聞デジタル）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tb1B6VDhsWEtBQ3poZE52UWREYlphVEhQbVoxYVhoZHg5azExT3ItY2dlYWhmWktyeTVqZHRBanNfbWJUakgxcjZJUDdiMVM4NE83S3dRaEU5SVIwenNNR1N6QUZGNnlpb3pHeXdGUHZTc2pKQjVTWUhhYjRiNTA?oc=5",
+      "date": "Fri, 04 Sep 2026 07:32:36 GMT"
     },
     {
-      "title": "交通死亡事故、現場での対策は? 東広島の検討会から見える実情 - chugoku",
+      "title": "交通死亡事故、現場での対策は? 東広島の検討会から見える実情",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVXBqRENYSGtZcUE0OV9nMTVYMlV3UURpQm0wTVB1Q0VkZDlaRXFMRFdYUV8yQ1FFNzBoSjlQZTJ5dVdWMFRrSHAwVzhtMGZ3UjFDOEcybDg5QQ?oc=5",
       "date": "Sat, 05 Sep 2026 01:00:00 GMT"
     },

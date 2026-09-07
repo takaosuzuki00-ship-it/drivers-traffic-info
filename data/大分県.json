@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-08T00:03:40.668041",
+  "generated_at": "2026-09-08T03:03:58.922407",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 26.0,
-    "temp_max": 26.9,
-    "temp_min": 25.7,
-    "precip_prob_max": 67,
-    "precip_sum": 3.8,
-    "wind_speed": 12.8,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.7,
+    "temp_max": 27.0,
+    "temp_min": 25.6,
+    "precip_prob_max": 81,
+    "precip_sum": 3.0,
+    "wind_speed": 12.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.0,
+        "temp": 25.8,
         "weather": "弱い霧雨",
-        "precip_prob": 59
+        "precip_prob": 61
       },
       {
         "time": "03:00",
-        "temp": 25.8,
-        "weather": "晴れ",
-        "precip_prob": 31
-      },
-      {
-        "time": "06:00",
         "temp": 25.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 27
-      },
-      {
-        "time": "09:00",
-        "temp": 26.2,
-        "weather": "晴れ時々曇",
+        "weather": "晴れ",
         "precip_prob": 55
       },
       {
+        "time": "06:00",
+        "temp": 25.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "09:00",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      },
+      {
         "time": "12:00",
-        "temp": 26.4,
+        "temp": 26.7,
         "weather": "弱い霧雨",
-        "precip_prob": 67
+        "precip_prob": 80
       },
       {
         "time": "15:00",
-        "temp": 26.9,
+        "temp": 27.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 63
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 26.4,
+        "temp": 26.0,
         "weather": "弱い霧雨",
-        "precip_prob": 59
+        "precip_prob": 73
       },
       {
         "time": "21:00",
         "temp": 25.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 59
+        "weather": "曇り",
+        "precip_prob": 69
       }
     ]
   },

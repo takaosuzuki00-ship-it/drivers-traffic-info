@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-09-08T00:03:11.793959",
+  "generated_at": "2026-09-08T03:03:29.252765",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 25.6,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.9,
     "temp_max": 26.5,
     "temp_min": 25.3,
-    "precip_prob_max": 97,
-    "precip_sum": 4.9,
-    "wind_speed": 4.4,
+    "precip_prob_max": 99,
+    "precip_sum": 8.3,
+    "wind_speed": 8.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 14
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 16
       },
       {
         "time": "03:00",
-        "temp": 25.8,
-        "weather": "晴れ",
-        "precip_prob": 45
-      },
-      {
-        "time": "06:00",
-        "temp": 25.8,
+        "temp": 25.9,
         "weather": "晴れ時々曇",
         "precip_prob": 57
       },
       {
-        "time": "09:00",
+        "time": "06:00",
         "temp": 25.9,
-        "weather": "霧雨",
-        "precip_prob": 86
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "09:00",
+        "temp": 25.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "12:00",
-        "temp": 25.4,
-        "weather": "強い霧雨",
-        "precip_prob": 92
+        "temp": 25.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 26.0,
+        "temp": 25.9,
         "weather": "曇り",
         "precip_prob": 96
       },
@@ -58,16 +58,26 @@
       {
         "time": "21:00",
         "temp": 26.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "weather": "弱い雨",
+        "precip_prob": 75
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "９月４日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHTlBXQUQ1TVhuYkhJWTVNNkJTamt1MU9XZmctSzJITE5nckItbEw5aTd2TnM2OVBMN1hQclNkOXBKVzZfYkhfSzVnZVBGdVJKRUQ5Z1BnV2d3OHFaa0wwMndZU2tndXVROW43VlpDRjdDQdIBd0FVX3lxTFBfdGF5b2JrdS1PSndWV3RJSGNEbmFYLWJpV3RuNl9DRm5wNzYtTlBkS3NiX3ZGT0VjcGpwV1VWdGw4OVlVSnY0MzVxOWVkQ0lKVVJZb3dsdE5DMENsWENUVzRMWERQaWZxNmtVUFpzbzlsVmgwbGww?oc=5",
+      "date": "Thu, 03 Sep 2026 20:00:00 GMT"
+    },
+    {
       "title": "香川県警が「自転車等指導取締りマイスター」指定 経験豊富な警察官が適切な指導方法を若手に伝授（KSB瀬戸内海放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaWZTQVpWbUI1SGZVSHBiemlsaWxYSUFlWGxKLVZfbEFYRTRqX3M3QVU5U3UtbWhMYzdJTkU2X003a2JlRm9JVXA2UWxjbzJCSDVsckFJVmI1cWthbXVta1dXYkQ2MWpOTk0wamljVnlfd0YtSUJnZ0ZiVS1ETjg?oc=5",
       "date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "8月の香川県知事選 県警が3日に事前運動取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JNjk5blVONlV3UkFfOEVEUjV4OHRtWHlTTzFQU3FDYVlGN3M4X1pGSlZZV0c2NGxQNGRjOEY3VjJsTUZlZlZKSy1WSHJuTEE4?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
@@ -75,19 +85,9 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件（OHK岡山放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNGNTMlBCZ3lORF9yZ0pMdmVtX2ktV1JrU3JTZ3pFMW1LR3JwUkJISVMtNU5IRlktRVlhNVRzbUlaNmdnaWpVNEFLQUZQTkEwSk9tYXl0Q1c3WmZqZEJ0RkpsdDc3VzNwS2dRVGhoNkJyS1l3eTNnZnJIYVJqZWs?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
-    },
-    {
       "title": "香川県警が一斉検問で交通安全呼びかけ 危険運転の数値基準導入受け [香川県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51ZG93cmZJT1FOMUxjQWRiaHNra1RNTW1VUU5KSldreTJXcTRnOUQ0OXMwSlIyemtWSGF1R3lLMDMzcnNqclpzNk05d3UycVBrOWQxY2hBd0lIcEY2M05uZFBVaWJBdUk?oc=5",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "警察の「出頭要請」を1年以上“ガン無視”した男が逮捕！ オービス光らせ「もう忘れた」？ 長期の“シカト”は通用しない！ 交通違反を“そのまま放置”した末路とは（くるまのニュース） | 自動車情報・ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGxTeUR0MFBVOXdOVXp3R2ZQa1FnNFFvS1ZUa1huNnRKSnBNZjJCM2wwZkdJbHZ4V0FYZEtkWFhNSGtEWXI1OUxXeHFiQmY4c0YzaFhzcG5LM1U5Qk9ndk9nVEJ2NF9FQkpoMEF4T0htMEVSU3N0YmlrUjVqMXdya1c3bEU1aDBV?oc=5",
-      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -95,11 +95,6 @@
       "title": "酒気帯び運転で交通事故 善通寺駐屯地の自衛隊員を停職4カ月の懲戒処分に 香川",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10NjVwaDdtM2l3Q05RZXlBd18zbF80SXhqd0FpU3JHaTl1RG5UNUZfd1BXb3ZiNVdCdlFMeWVsT3FUR2RDc1Q5ZHFvYkgtbGJW?oc=5",
       "date": "Mon, 07 Sep 2026 06:15:00 GMT"
-    },
-    {
-      "title": "自衛隊員が酒気帯び運転で事故...善通寺市の駐屯地に勤務する3等陸曹（35）を停職4か月の懲戒処分【香川】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3dmxUTlZmb2V2Z2Q4ZnpSdm10T1cwdnJIR1ZkVzQtMlBwdUVWenJBYl9ZcUxaVzN5LTFIZi1tcVVYT1NFUVBEUm5MaVBMQ2FBRkRndTdrQ0ZaWlBPOWR6cTkxZVJNWmEtOGRyTHVvQdIBdEFVX3lxTFB6cjlQMW1STHZxVV8tdHpfYTh4b3JBd2E2UlltUTlVZF9FWmxqMVVsZzV0bFVnRkhtNTE2c0ZwUmdkM2lSdXhFVExLcTI3dlhTWE1ZaVBGNzRwX1ZKREpEY2xSVDYyQzF1Q1FYQ0ZJOTdTcmsy?oc=5",
-      "date": "Mon, 07 Sep 2026 06:12:00 GMT"
     },
     {
       "title": "国道で普通車と軽自動車が正面衝突 周辺道路で一時渋滞 香川・まんのう町（KSB瀬戸内海放送）",
@@ -110,6 +105,11 @@
       "title": "路上に倒れていた新聞配達員の男性(58)と原付バイクが大型トラックにはねられる 男性は死亡 香川・多度津町",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUFg2VWcxei01YmJJbUhsNmxDdFd0cUt3WWV4X0txSUVtaGRTX01qdmxESFZ6NGsycFAxcEUzRjJhZExhVVRpQW1jcEU2dl9NOFVObExFZkNyTjJlWmtNVGhmTTRpSXlKTFZ2YV9zemFCendYb2ZtQ2d2clpVSHM?oc=5",
       "date": "Fri, 04 Sep 2026 01:03:24 GMT"
+    },
+    {
+      "title": "軽自動車が電柱に衝突 70代女性が死亡 香川・三豊市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wcjlLZVRaWnlGZVVwd2lqdDFES3E5ZjNCdUFnLWFrTm5HOUdHZnYyUXNkU0Z3WFRhb3RkSWpUS3Y2N0owOEJGeUNFM040VGZp?oc=5",
+      "date": "Tue, 01 Sep 2026 09:39:00 GMT"
     },
     {
       "title": "男性の遺体 高松市の歩道で発見 事件事故の両面で調査中（2026年8月24日掲載）｜RNC NEWS NNN",
