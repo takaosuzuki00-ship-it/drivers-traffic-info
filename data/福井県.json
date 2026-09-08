@@ -1,100 +1,105 @@
 {
-  "generated_at": "2026-09-09T03:02:09.614408",
+  "generated_at": "2026-09-09T06:02:00.132888",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 23.7,
-    "temp_max": 24.0,
-    "temp_min": 19.9,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 24.0,
+    "temp_max": 24.5,
+    "temp_min": 20.7,
     "precip_prob_max": 100,
-    "precip_sum": 79.8,
-    "wind_speed": 2.2,
+    "precip_sum": 46.4,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.0,
+        "temp": 24.5,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 23.7,
-        "weather": "雨",
+        "temp": 23.9,
+        "weather": "霧雨",
         "precip_prob": 96
       },
       {
         "time": "06:00",
-        "temp": 23.9,
-        "weather": "雨",
+        "temp": 24.0,
+        "weather": "霧雨",
         "precip_prob": 98
       },
       {
         "time": "09:00",
-        "temp": 23.0,
-        "weather": "雨",
+        "temp": 23.3,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
         "temp": 21.7,
-        "weather": "雨",
+        "weather": "強い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 20.3,
-        "weather": "雨",
+        "temp": 21.4,
+        "weather": "霧雨",
         "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 20.2,
-        "weather": "弱い霧雨",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 75
       },
       {
         "time": "21:00",
-        "temp": 20.4,
-        "weather": "快晴",
+        "temp": 21.0,
+        "weather": "晴れ",
         "precip_prob": 24
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tTGFhSWp0cVdOLWFhODRTbHgxVUt2eGlyUmxzUXNDRTIzbGUtOUphX01Jdy1DdTVGNF9fSHczR1dWRkJkSF8tMllrUmVmbFpRNUtlcWViV1ZiVW5aamc?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWU9ncmZ1Y3E2NWtnZEc2TzczcGZDc0Z1Z0FVODFYb0I2UmJtcUsySVBpTkVJZFpCMUlrTWlvNVNyOVdGR29uUW5nTk9IQVlWWlg1SVE0OURGREF3X2c?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月７日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fREl3bzN3Q09ncDY4SnRDUW5aVHV3MEx2alRBRWc5Mk5Vakd5Q0ZKcG9ieFhhcWxFV0hBWDhodG5HNUFoaGIybHRpcE5CWHYza3puMHExMW40Q2g2Z2c?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月２１日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83akFOSEdLWWpKbVY0WUt2ZjZsbFVNcjE2S2RfbURHeWNGM2xnODdIM1FibzBEMERSR1pYeVRWYmZwVXJrYW5HZ0FKQnhlVFEyZngtVF9BcE9NZVNVNXc?oc=5",
+      "date": "Mon, 20 Apr 2026 07:00:00 GMT"
+    },
+    {
       "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SbDNoa2Y2T0d6UDB3dXUxdEFWT25XZDgzQTZ6V2ZUT3Zab25OZkRXWkxMeWFFdkk3SVFuNEFvTExDV1Q4VTdDRmE2THItNF9GNHFaQg?oc=5",
       "date": "Thu, 25 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "スピード違反の身代わりはできません - think",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZnVjdU96YWZGNlFKOUJZQzdXYzdZT2Y5RnpWWEV2eGR5WkMxY0sxeC1SRjNsMFFhVVFfYzFET3oxVE4xVzJ1d0lZNU81Z01GTlRGVDJPeENjcS00RGVXVGlYa3lFSHduNlNGQVJVWQ?oc=5",
-      "date": "Wed, 26 Apr 2017 07:00:00 GMT"
-    },
-    {
-      "title": "平均車速減少の効果 速度超過は依然多く 可搬式オービス県警中間報告：日刊県民福井Web",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZTJoZld0Z2Y3RlBZbUEya2RiWEFKNng1S21LLXpDeHllbEFqNmR3NVlCaTRhWWhBbWtHLXRDVUZzelp0MWNJbGVxWmI5M0tlOURv?oc=5",
-      "date": "Mon, 28 Nov 2022 08:00:00 GMT"
-    },
-    {
-      "title": "海賊版CADソフト「安易に購入しないで」 管理団体が県警に感謝状 著作権法違反で建設業の男逮捕 正規品の1/10の価格で販売か オークションなど要注意（2025年3月10日掲載）｜FBC NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0lmRWZZYkZ3aHNPSm02cTBDSkVrbzBCM1djXy1FTDZySFVUUHJIN3JfZHgtaEdsT1lpZnRhcUhLbmwxN3ZTYk90T1V3enprdU1lb2pVYnVWck9kWlo2akhobjFqVnF6c2NyamZtYlZzWXVBLUFhVGlweFJYMXJKZGVtZWtVVUU?oc=5",
-      "date": "Mon, 10 Mar 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "公共施設の駐車場歩いていた44歳女性が車にはねられ死亡 容疑で75歳女逮捕「間違えてアクセル」（福井新聞ＯＮＬＩＮＥ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSmxNbV8xWVNKV0xkb3p1cjRzdUhGZ3JZWXRkVU9uUURNMVpLRnVzU1k5WjhNM1NJdTFrdF81bk5HR2IwUlBZRWMtMjkwTjVPYTZMUTYxNVlPa1pfaWRueXo4azl6Qi1fX3dreE5jWXRZSDRFSlhXLVc1dzlxdzQ?oc=5",
-      "date": "Tue, 01 Sep 2026 22:27:00 GMT"
+      "title": "駐車場ではねられ40代女性が死亡 運転手の70代女を過失運転致傷で現行犯逮捕 福井市江端町（福井テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hUnhEMDZ5cTQxT2dtbGM3Z0kyM0w0Z25vYmdsVnZHTFhpckpTNTAyQ0IwYnZXWXNFQWl4UHl0WUNPREJMWWszNmx5QWQteUF0RGZDWVg4SFU3Yk1obThtMFA5UldrZWYxV2FJMDJ4eWkzcXRhMUdFR2lVd1h4WVk?oc=5",
+      "date": "Tue, 01 Sep 2026 02:44:01 GMT"
     },
     {
-      "title": "駐車場ではねられ40代女性が死亡 運転手の70代女を過失運転致傷で現行犯逮捕 福井市江端町",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nTEw3NklQbWYxazVacjRtYldmc0NNNDRha2RoVy1JUXFydHNKYkRDS2padmRSOW9hQzUzMXAwN0ZxcUZCMlI0aGM0VFZoZw?oc=5",
-      "date": "Tue, 01 Sep 2026 02:40:00 GMT"
+      "title": "原因はアクセルとブレーキの踏み間違い…駐車場で44歳女性はねられ死亡 運転していた75歳女を現行犯逮捕 福井市の児童館 - fukui",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNaUNMMURqcDk5b0x1dERWOWZKcUt1ZUgxWTIwRXh0MEpGOWpFQnh1NnFnclVUeFZ4UVpzaGRoaVlzZTM0Wl9Gb1hzVDR5Wkk4bWtWMkVyZUdPTzNrZk4zT1ZFWlZjbG5BZ0lELU1WR1VweWxwNHBhbEpNbGQ3d1ZsTGJLSFlLRE1na3lrVjVjcXNKSEY4cDNWU1p2cTA2SjFlV3pzTFZzcGRKMGo0b1lWV215eXV1TXkwUWdEaXFIQVpySVlwbEMyN3d4UVBWUDZFdTVkd3gwQ3Z3OHRoZzI5aHVib0c5OHk5Q09idmdzUkhWb3AtRDlLb21FcDVaZjM3TVBnX0RjTllNc21GcF93Q3BDSEUyTGZVN1p4ck5NS01lSVowVTM1bjgtZlFuY05XWlc4SkN6bWJPZDZaZG81V2I4c1VlQkpMZ1otcw?oc=5",
+      "date": "Tue, 01 Sep 2026 10:49:00 GMT"
     },
     {
       "title": "シニアカーは車両扱い？歩行者扱い？ 福井県内で相次ぐ死亡事故 道路横断中、注意が必要",
@@ -102,14 +107,14 @@
       "date": "Tue, 08 Sep 2026 02:50:00 GMT"
     },
     {
-      "title": "T字路の先は海…けん引車が転落 大阪の57歳トラック運転手が死亡 家族が行方不明届け 敦賀市鞠山南埠頭",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQTN3RnRpX1RIWUZhY2Frb0ZzR2JwcUh4WnNXYmQ4b2RFMkhMVjl2WFd2eVF1Ri0xZ2RRam1IT0RxWjRFTFVGV0QwdXFubEctQ3JWTFNIQ0Zic1NCMzJQZzA2QW56d0pucDFnYTdWVU9CUHRaWFAtR1JOV1pvc2x2V01KeUF2Y0REY1dYbnNTNngtNDVIUkFlSXU0TlFHZ3pQaktPMW9rc1B2U3d1OEZrUVZwRFNIcEVQdkpHTEhzazNhUGY1MGFHNFJLRVA4NldqcVNpcVp6VnNJSE1kamx5Vm9CdFBxZXNSMHlJNVVrRFRLbjJMN012N3RCcGY3c3hFLXBhQ1hacThfWEt1WjB5NVhucmtiZExNTzRVeEhPN2c3WnBsblV0N3d3djBCUEtQbUJfWlVCOFZxNjUzdUFKYWZwLVg?oc=5",
-      "date": "Thu, 03 Sep 2026 12:03:00 GMT"
+      "title": "公共施設の駐車場歩いていた44歳女性が車にはねられ死亡 容疑で75歳女逮捕「間違えてアクセル」（福井新聞ＯＮＬＩＮＥ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSmxNbV8xWVNKV0xkb3p1cjRzdUhGZ3JZWXRkVU9uUURNMVpLRnVzU1k5WjhNM1NJdTFrdF81bk5HR2IwUlBZRWMtMjkwTjVPYTZMUTYxNVlPa1pfaWRueXo4azl6Qi1fX3dreE5jWXRZSDRFSlhXLVc1dzlxdzQ?oc=5",
+      "date": "Tue, 01 Sep 2026 22:27:00 GMT"
     },
     {
-      "title": "福井県内の国道8号、事故で一時通行止め 9月4日",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WQmJmUXlCMUNldDczZ240TVhHZ0hEOGNZWnlrQ1dnTm80MmhMT1dzekxCdHQ3LTVHZWVpZkhycHc0WUhuSXZzTEgwaw?oc=5",
-      "date": "Fri, 04 Sep 2026 05:50:00 GMT"
+      "title": "T字路の先は海…けん引車が転落 大阪の57歳トラック運転手が死亡 家族が行方不明届け 敦賀市鞠山南埠頭 - fukui",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQTN3RnRpX1RIWUZhY2Frb0ZzR2JwcUh4WnNXYmQ4b2RFMkhMVjl2WFd2eVF1Ri0xZ2RRam1IT0RxWjRFTFVGV0QwdXFubEctQ3JWTFNIQ0Zic1NCMzJQZzA2QW56d0pucDFnYTdWVU9CUHRaWFAtR1JOV1pvc2x2V01KeUF2Y0REY1dYbnNTNngtNDVIUkFlSXU0TlFHZ3pQaktPMW9rc1B2U3d1OEZrUVZwRFNIcEVQdkpHTEhzazNhUGY1MGFHNFJLRVA4NldqcVNpcVp6VnNJSE1kamx5Vm9CdFBxZXNSMHlJNVVrRFRLbjJMN012N3RCcGY3c3hFLXBhQ1hacThfWEt1WjB5NVhucmtiZExNTzRVeEhPN2c3WnBsblV0N3d3djBCUEtQbUJfWlVCOFZxNjUzdUFKYWZwLVg?oc=5",
+      "date": "Thu, 03 Sep 2026 12:03:00 GMT"
     }
   ],
   "official_links": [
