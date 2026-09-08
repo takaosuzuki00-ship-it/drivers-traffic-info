@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-09-09T00:03:10.677847",
+  "generated_at": "2026-09-09T03:02:40.739070",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 24.2,
-    "temp_max": 24.8,
-    "temp_min": 22.2,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 24.6,
+    "temp_max": 25.6,
+    "temp_min": 22.0,
     "precip_prob_max": 100,
-    "precip_sum": 38.0,
-    "wind_speed": 2.9,
+    "precip_sum": 77.1,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 24.2,
-        "weather": "晴れ",
+        "temp": 24.6,
+        "weather": "強い霧雨",
         "precip_prob": 73
       },
       {
         "time": "03:00",
-        "temp": 24.4,
-        "weather": "晴れ時々曇",
+        "temp": 24.6,
+        "weather": "晴れ",
         "precip_prob": 41
       },
       {
         "time": "06:00",
-        "temp": 24.3,
-        "weather": "霧雨",
+        "temp": 24.5,
+        "weather": "曇り",
         "precip_prob": 69
       },
       {
         "time": "09:00",
-        "temp": 24.4,
-        "weather": "雨",
+        "temp": 25.6,
+        "weather": "弱い雨",
         "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 23.7,
-        "weather": "雨",
+        "temp": 24.6,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 22.8,
-        "weather": "弱い霧雨",
+        "temp": 22.0,
+        "weather": "強い雨",
         "precip_prob": 92
       },
       {
         "time": "18:00",
-        "temp": 23.5,
-        "weather": "晴れ時々曇",
+        "temp": 22.7,
+        "weather": "曇り",
         "precip_prob": 49
       },
       {
         "time": "21:00",
-        "temp": 22.2,
-        "weather": "晴れ",
+        "temp": 22.6,
+        "weather": "快晴",
         "precip_prob": 16
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "公開交通取締り",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TaWlEMVY3NmVpT2dNMEVGd2Nqb09DU3pUekFfdlZSY25MN3VTNXpBYlM2UDBMZWxKVkIzNVZZRnZHNHF6QnZHWndWbzlYQ01rQ3BCeU1xMk1kWV80Mmxzbw?oc=5",
+      "date": "Mon, 07 Sep 2026 12:26:25 GMT"
+    },
     {
       "title": "９月８日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxay1nWjA5QlVNN01iT09tN3pMQWVnUk1zRzlRSEhManV3ZlZUaUtXU2ROS2Q4SlM3TWhoWFJYVW9Pd3BBWUplZEN5RXJuMzF1RDV3RXppQnVMa194ZHlnVk9YT1J0cFU1RkZoWV96al9BQdIBd0FVX3lxTE9kZmhaQTRjU0w0Y1VFRWlHSkhDZnZPaGEwclFJODR2LTkyVk9yVUhmaV96SXRCc3VqSE02N3FiWWVOREpkXzVEYnBSSnJVQXFHVVkwNzZIS2V6T184UU40Wll3cUdiSTRBY3EyNVRQLV9wNkh5dXVn?oc=5",
@@ -75,24 +80,19 @@
       "date": "Tue, 01 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "９月６日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVVhaRzJsaDZfMWVVS0E2a2ROQ0JfUUtGMW9qR0VNUUtqem5nQ0ZxSDFJM3NGVEF1RXRiSUh3OGV0V19GdFFVa0tBWDYzRHZZUGRueDNUb3VMb3pDYzRVdWNzV0ZvSkxfb2NfRVpHcm5lUdIBd0FVX3lxTE14TDF2N2owS1J3MHZPZ0UyZE01Q0lYdU40el9keHNyM0FadGdOWmNhLWFabXN5SDYxbzhsX0djOEhra1d5REdZQ2d2eVNJWkJmbHdKczJQMFU1TkNTX3BBVldSN1JrVi1SQnVDS2hwX3RtWGdQRHhJ?oc=5",
-      "date": "Sat, 05 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【自転車・青切符】京都府内の最多の違反行為は『一時不停止』 全体の約7割占める 『ながらスマホ』『遮断踏切の立ち入り』も…京都府警「ルールの周知に力を入れたい」",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42dERlU0p6V1BrT0x0VFNDQVZiOFJtMlgyWTB6c0FpbXdXZV9MdU12azJWa1ZPUUk0WWowMkR5eDMzSUdUaXdBbWlTcXEwSllrYmxWaTBBRllaaDdxazd4d1dtWHh3TUZFN01IVXo0clNsS0xJRzBsU3JVOW1vS2s?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "【動画】酒田市6歳男児行方不明 警察が検問や捜索行うもいまだ有力情報なし（山形）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUNHpPSXUzLWQ1Qk1aT2UxWXhtNzdmMnRQaVZ1VVpkTUdBZkl1S3IwbFVlblhJZG1DcGd6cWlqbm5ORWcxWTV4eHpRUmlQZzhSR01ZTG9PV0U0MFV0dVlwR29maW1BUVk?oc=5",
+      "date": "Tue, 08 Sep 2026 02:59:00 GMT"
+    },
+    {
+      "title": "【動画】酒田市6歳男児行方不明　警察が検問や捜索行うもいまだ有力情報なし（山形）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1b0M4U1p6N29VVHZlN0NodDJKd3lETkhEZm1RR2FzV0ktZmpVM09QTnJQbjU5bnUtV1YxcFQzTVVOM0hsXzE4S2RXNGttRHB6VHVJWWtkTE9mME1pUFp6R19HVDZhMDRRbWktVnRUbmllVHU50gF0QVVfeXFMUHVvQzhTWno3b1VUdmU3Q2h0Mkp3eUROSERmbVFHYXNXSS1malUzT1BOclBuNTludS1XVjFwVDNNVU4zSGxfMThLZFc0a21EcHpUdUlZa2RMT2YwTWlQWnpHX0dUNmEwNFFtaS1WdFRuaWVUdTk?oc=5",
       "date": "Tue, 08 Sep 2026 02:59:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "E24 京奈和自動車道 山田川IC～精華下狛IC（上り線）で交通事故実況見分のため夜間通行止めを実施します",
+      "title": "E24 京奈和自動車道 山田川IC～精華下狛IC（上り線）で交通事故実況見分のため夜間通行止めを実施します - corp.w",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsUVc5eDNwSDB6c3V1eDNDOEl2dWh6TmlMbWtvWkREOVpTSlFWM044NUVLX3hBQWtpb2dEaEMyQXl3dGxxXzlkZ202ajkzdF9yNUlBZjVsaHlpWk1jMjRDWGQ1ajBBTElUZjZIVlh3?oc=5",
       "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     },
