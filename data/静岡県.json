@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-11T15:02:27.315750",
+  "generated_at": "2026-09-11T18:02:03.796302",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 22.9,
-    "temp_max": 23.1,
+    "temp_now": 22.8,
+    "temp_max": 23.3,
     "temp_min": 20.6,
     "precip_prob_max": 100,
     "precip_sum": 98.1,
-    "wind_speed": 2.1,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
@@ -39,36 +39,31 @@
       },
       {
         "time": "12:00",
-        "temp": 21.9,
+        "temp": 22.0,
         "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 22.9,
-        "weather": "弱い霧雨",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 22.9,
-        "weather": "弱い霧雨",
+        "temp": 22.8,
+        "weather": "弱い雨",
         "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 22.5,
+        "temp": 22.2,
         "weather": "雨",
         "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
-    },
     {
       "title": "速度取締り指針",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnNnUzRmWDJGcVd2MVJISkZlTnp5MjA3WDNRWmwwaFpiblFOVEozV2VJOVNFc3JkS202X1BZRERUTnphdXZNd3FBSk4xRDhTTzR6TnVMdG5NU2IybzdzY2ZSQlhwU0dHMk1sR19UNGJvWm51QjdfenhHb2toWGRLdlNEYTl5dkdfSnk4UmhocEdMaDNtMlE?oc=5",
@@ -85,12 +80,22 @@
       "date": "Wed, 12 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "川のレジャーから車で帰宅「飲酒運転やめて」 静岡中央署が啓発や検問",
+      "title": "川のレジャーから車で帰宅「飲酒運転やめて」 静岡中央署が啓発や検問 - news.at",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13bG50eGRqLUhldlBFOThJSXhsMGZNZncyNHBiVU9lQmd5d1QwNnE1clFPdFIwSVI5bVllWTF1MF9PTGhleTdsTjh6bjZUQQ?oc=5",
       "date": "Sun, 16 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "約6年間にわたり無免許運転繰り返す 県立総合病院の男性職員を停職6か月 追突事故で明らかに=静岡県立病院機構",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GZ2c3TXRTT2tIQ3BzeF9nVDh1dEpRcjNBaVZrcnozUHYzWVRQN3RaVTlyM0EtY2ljSVVDRnZEZERGblh6aXhZeTVPV0VhV0syb1ZDcmJoSno0S3BOcjlkNw?oc=5",
+      "date": "Fri, 11 Sep 2026 06:26:08 GMT"
+    },
     {
       "title": "ＪＲ東海道線の興津～富士間で運転を見合わせ 静岡市清水区の交通事故の影響 乗客は徒歩で由比駅へ（静岡朝日テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HUnROMG8xWk1FYWhqT3NabTB5ZHRrSlRoSWg1Tmctb2lvcUpZWlpoc04wVkU2WU1USEJOMVphdkpibzF6SDdwRFpPbmpxRW1SY1NrazN0WGdKU3RtaDdKcnZGc2Q4elJLT1RwUlNCcHFlN25FVmQwazluWlJGUDg?oc=5",
@@ -107,14 +112,9 @@
       "date": "Mon, 07 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "事故防止へ心構えや動作を再確認 静岡県内ボランティア交通指導員、県庁で実務者研修会",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lQjU3bklrWjkwMkcwY0drWFRJUDlTWkpibkJDU1oyZS1ablpUMFJVVG1qVWp3S1V0aTBLRmlrTE1hcW1jdUdUMFZqcXRQUQ?oc=5",
-      "date": "Tue, 08 Sep 2026 23:49:00 GMT"
-    },
-    {
-      "title": "冠水して死亡事故も…アンダーパスの事故防止へ 浜松市はレベル4大雨危険警報で通行止め 対象は車が通る市内すべてのアンダーパス（テレビ静岡NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTkc1c2ZhRnk1VkZ6WlVCWFJMWDFYNXBmZWNOdXFNOFZNU3BWYVVGQWlGWlh1aXY3N1RuN0xqM3Q4WUE2UEo2aEI4U3c1MG1KTThkeGtNVFpoYUd2djR1NmxoWTVUUU80cFBnRjJBR2tuVEQ2WVRJMF8yYXlDTlE?oc=5",
-      "date": "Thu, 10 Sep 2026 09:57:01 GMT"
+      "title": "めざせ！交通事故ゼロのまち",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG9xamtQZlU3MnM2c2M3OWxoRnBodDlodUl6LUFxY3NaUV9UZ21LUU1NdVd1SUNFOUNyRkczN0NfdWt0QVRwUWIya2tZZUEtcjBMdmotVjRDdjVLakdGNy1HSkJSQkh5LXBldS1NNTRFaTRoYWNKREpYem5hSkgtNTBWTUVlT0Q3S2c?oc=5",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
