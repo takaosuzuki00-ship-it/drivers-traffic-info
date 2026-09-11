@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T08:20:11.780622",
+  "generated_at": "2026-09-11T09:05:56.365758",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 24.8,
+    "temp_max": 30.5,
+    "temp_min": 22.5,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 0.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      },
+      {
+        "time": "09:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 29.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 30.5,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "18:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 10
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月11日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ONkRSay1uZW1EMFROWkF0czBKanFlaC1MaFl0QlpId3NMNVZPYlY2R1dIVnRQM3NkYjQ5ZWVlLVJxTDVGTnQxSF9Gckd0N3R4V2lnWVFfMzJ0RjJNcHd0dVdwMk1aQUFsRDIyQTRTRnIwQUhPTWlrYmp2UkZRWlU?oc=5",
+      "date": "Thu, 10 Sep 2026 20:07:24 GMT"
+    },
+    {
+      "title": "9月10日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JaGR4MnVWdU90NWlCVkxiMHlZVkJ4YlpaYXllT1RlS2t4Rmx3b29fZ3hKOWhHNDZEN2dXblZnTzRuRXFJaGFYWDk4cGdfdlRUUU5sWHRkcw?oc=5",
+      "date": "Wed, 09 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "9月10日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM20wa2Vic0dBaVFJTl9jVF9INHE5Vy1XbHJaZ0tpY0VYajF3a0M5WkE2cXZtREJmSk9GeDdJalpFRkp3bmk1TUlybU81TzFiWVpFcXlXZkkxc0tpRTB5a2N3TzI3aUVSVlFfMk5mUXlYVzktNmxqT0I3TmJxeXM?oc=5",
+      "date": "Thu, 10 Sep 2026 00:12:17 GMT"
+    },
+    {
+      "title": "9月9日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zN3oybUZWYWtmUFN2NlFlSlVOcXlVV3VIQ1FISzRuU214Y19UVTVpRTNTS2FsTFFXVWpwZmpGc0R3WEstMFluaWV4STNzT2VpQkVkQTQxWQ?oc=5",
+      "date": "Tue, 08 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15cXFwV0JYRkM3dGN0X1cwbGpDaVZ1Qmd3NmlYZkI3NjEtc1VhX2ZvVXp2Q1g4UXBKcVFWX2NEbUdzOTBYQVFxM3UzOV9YeWg3eERPU3BNVC1lOWdicmdaZERrdDlvMzA?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "市電事故に備えて救助訓練 熊本市交通局と熊本市消防局 人身事故想定で実施",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSUt0TG5LUlVYMXJJZmJyamNNT0N5V3RScWtxU2RKM2ptN2ZycGtTMUlXOXVDTWstSm1mOGtUejdYQlFNeFN1ZHVMUU1xa0U?oc=5",
+      "date": "Thu, 10 Sep 2026 09:16:17 GMT"
+    },
+    {
+      "title": "とくに右折時には注意を…車と熊本市電の接触事故 今年度は18件 （熊本ニュース KAB ONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVHBkTU1peWtZMWJ2amZrX0prd182Ti04ZTlLN0owT3V5QlFZTmNXV21xY3pmUGhqQ0xWaHBWLWZVTkdDbHc3WURfaWRxaEVCa3F3QnJvaVlCdEN0Y1owYlNoUXJXN1RHSGc4S3RBNHdtYTN6Ql9Nc2ZYdTBwUDg?oc=5",
+      "date": "Thu, 10 Sep 2026 10:36:04 GMT"
+    },
+    {
+      "title": "軽乗用車にはねられ60代男性が死亡 ごみを捨てに向かった先で…",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZSkZpUmI4ZjVDOUFVbmhScmFxMGxpaFE0RFdKWGNzLXZHbklhR200X0Z2WWpxNEFUdDFaZkx3MERJbjhhbEhQMDViWXc5OGRrN2dQSjdB?oc=5",
+      "date": "Fri, 04 Sep 2026 10:18:59 GMT"
+    },
+    {
+      "title": "市電事故に備えて救助訓練 熊本市交通局と熊本市消防局 人身事故想定で実施",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBORDlGdGdMUUtoVDlxd3J0dHFDU180d2hkMllWNE5BVFFNenltSXFlZ2JUM1Rad1BzV0l1eENHY0tTNEZZNEFzSWpvQQ?oc=5",
+      "date": "Thu, 10 Sep 2026 09:16:17 GMT"
+    },
+    {
+      "title": "熊本県宇城市松橋町で交通事故 死亡した大型バイクの男性の身元分からず",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdkRnM244T1JhMU1YUHROekMyZ3F5bDh5U2ZxdnBKNER3Z1BCZTJhTTNjN3dIWDNzLW9lVDlSYVdycGpYb3pxNmV4NDFyUmpYZmZ6dENnSW5BMlZHRS1j?oc=5",
+      "date": "Fri, 28 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

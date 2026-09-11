@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T06:50:09.829359",
+  "generated_at": "2026-09-11T09:02:09.281794",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 19.0,
+    "temp_max": 19.8,
+    "temp_min": 18.6,
+    "precip_prob_max": 100,
+    "precip_sum": 50.8,
+    "wind_speed": 4.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 18.6,
+        "weather": "弱い雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "06:00",
+        "temp": 18.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 19.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 19.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警視庁、8月の速度違反・重点取り締まり場所一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xc25qcFl4VlRBZnJCQTZ0eWczeERRU0docHdGSFVlT2tURUNoT0pacEdNQnFuT1oyN0Y0X1JIczZoY3hOVnFyeDdzU3d3LVoyUDRHMWpEYm9nX2E4d096ekExd1hpUFp3?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【警視庁】5月10日～16日 都内全域で交通取締り集中強化 信号無視・横断歩行者等妨害 バイクも歩行者も",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmY1aE1kdE5LUUZxQkZhTXFKdEVCQ2JEXzF1U3VmcDFXVzdfZllRZEZJSTNBdlU3aWdsS2FIZ1VQdkJTT3ctTUpSSThCSVFIZTZiTkRkNXZaQ1phQnhkOGJjTFE2ZXhRMHFHYjNiTkZFWXkteEdfZlUyeG1vLUZMMjhzSUVoWkx4?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ドラレコで違反確認、ＡＩ活用も 取り締まり不正で再発防止通達―警察庁",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RS1dFTkE1SF9aSG1wd091NnFwai1WRzVzSmRRS3VKdC1PSU5Uc0lYUGIwc1lIZy1Uanh0Q0k4MHlFY0hoMU1yX251QzR6eWFNczM5QXpZZkRUTm1WUTB6REVYOA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "東京都江東区で「不正改造車」一斉取締り実施 スポーツカーなど9台に整備命令",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm5ySU1QZ3ZPX2Y5WjZNRWJmWVVXZ2JSMnV4UVJQdmJBUDFEWXR2TGxJUGtJZi0tTXN4VEo2T1pDM3N4Zjc3YmRReXVucm9NQXFqdFAzZ19XcFludHBEQlpPYXVqNGFEcWtpdXdha3NSQlA3eDNtaFR3Y1NhQmlaZk1nVU4ySE1z?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "時短営業解除で飲酒運転の検問 葛飾で警視庁 ／東京",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KQVJnRHRkR1ZjUnZOaDNZVEI1eEtKTjBEWnhzM09ZeUd4dm5pbjNIRkRGOElLVFZ1NDhIeUhsNDAtNXEwcFpKNTFBS0gzUlBZZ3JMOTB0OF9ENXlsSWxqSU1IMUtJaE5P?oc=5",
+      "date": "Tue, 02 Nov 2021 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "♪交通事故、なめたらあかん 秋の安全運動前に天童さん",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fUWtiWDhGR1MzMzFONDhGdlJMWl8zOVI4YXdFbFNhSm5hTllYWWtaTjEzSnpLNVBjVmFvWjk3SzR4dFY3VTdPZlhzakFzN1ZUWlNV?oc=5",
+      "date": "Mon, 07 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "東京海上日動調査サービスにて、ダイナミックマッププラットフォームの3Dmapspocket®が採用 交通事故調査における現場確認の高度化・効率化を支援",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTlh2Y2hHWE9IY29HRDNhYUZGMUt0bFN6UlNRcUt6TkZueDJnQkpTOERVUTRjN2hUWXc0UzhuVDR2dHJha2NMaG5YMG5ZV1ZFenZkYzJKU2ptRnNwWXhrVUFhMlM5ell3RGc?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「二輪車安全運転東京大会」交通事故の抑止が狙い",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xd2lEMU9JbUhwcEs3RkFtMXV0QVdVWkdGdndOY0Z0dWVSNWQ3TFJtTTRpR2tyMXQtWmpDN0xXb21VbzRHTEs2clBldzFlWW9wOVh1U1FYdHFTQjdOSDlXNFhNQQ?oc=5",
+      "date": "Sun, 24 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "子どもたちの交通事故防止を支援 自動車保険会社が山形市に100万円を寄付（2026年8月3日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3p0S1VJV0xRcWwza2w2WXFXbXNHNVdVc2J6Z0Y1YVplelljaUVMR25FNHVzS01PWkFBZEd4eGdlXzB2UXNJeEtjaUdYWUpOU3NIa2pZVzRjYllmdVJvQXpfQzd3UUktY2xJcEhBT2tFVWRZQWJaOUY4TmJZQW5OYjIxa2lVZjQ?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "サウナに非常用ブザー義務づけ、東京・港区が死亡事故受け条例改正へ [東京都]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NGNLNXlBbFk0eHU1N183QlhjNVNNVi1SWTdkYUxVX2U3a1JfRUlzd2hsRDB5cGdHSHFKdnpWbTVKLXVWSy1XZGQ2blpsN1Vjdl9ja0xiZEt1QnE0ZWFGRGI5TnJLYTg?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

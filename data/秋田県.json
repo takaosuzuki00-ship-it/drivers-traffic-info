@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T06:26:09.433546",
+  "generated_at": "2026-09-11T09:01:21.096452",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.1,
+    "temp_max": 23.6,
+    "temp_min": 18.0,
+    "precip_prob_max": 55,
+    "precip_sum": 0.5,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 20.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "12:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 55
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 21.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月10日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HN3FHODN4SjRiNjdfVVZIUzFSMTU3UEhRenVkQTBJSGg0UzR5TWNtYVhFRmFPX05RdjhVWlppOFBWY3JLWjF0NkRGMjQ0V2t6d2Jyc0NjZHBvNDNxaGd0X0tqTUduTjc3OERyUXlISdIBdEFVX3lxTE12enYwMXFyM1JhWnZEMWdjZmFjN2NXYXI3VDZIdDQwV1A0RDE1cFN5cEJzZm96b3pkWTRzQms3QmJzZ1A0QWU5cEptU1BXUEQtREpFZGM4RS1UZTdaRVFqemNLU3RYQXNvRmFraGMxa3I3eVhN?oc=5",
+      "date": "Wed, 09 Sep 2026 20:09:18 GMT"
+    },
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKeHFteFh3STNnTWQ5Uk5QOTRnVXJPekZhSEhzaEQ3eUZzSFllMzBRSzVTYU4xU3dXbXpUZUo0MWVXcG1ZMl80OFhhZHpDcVZ5TDF5c1RDYlF3VFcxMUNZMkNn?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSSTNnTHFCOEJkMEh5SWN2emJnaDZUeExqLXQwWmtVT2lGR1FoUXdYQlpuUFhpcWJJejVTX3ZscUZEc3VVekttakxvRVhaYWtvUy1DMHJ0b2d0WUVDSVpYZXNfRnAtdF9zaElGWlFXM2hJc09N?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【速報】大仙市の国道13号で交通事故 一部区間で通行止め 秋田 10日（午後2時）（2026年9月9日掲載）｜ABS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0lsWXhmQ2d3WHF3X0VDd25BaDdJRTVIOUZLcC0tMC1kODdNdDFyT19rZzlhRl9naFlNUGtKQUtram9WdC1UZHJ1N2ZQT3NZSTBnb0dtYkRoTjg2QWFOOGRBZVprbXZhUHVHVkNXdmZvY2NkR0ZEWmdzZE1HbTlyUkJpNk9SVUk?oc=5",
+      "date": "Thu, 10 Sep 2026 05:03:00 GMT"
+    },
+    {
+      "title": "【速報】大仙市の国道13号で交通事故 一部区間で通行止め 秋田 10日（午後2時） (ABS秋田放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzE4cGRBQXQwbzF0Rl9NNklJVUM0dTJCS0V2VDQ0NHFEbERFa0VKY3ZhSnhjWlhadzBWTF9zUW5EU1J5QnNoLWdhSVdwc1lJeGcxLUxWSUY1aHI2QXBkUVFJSXFGSXJBTVZHeXc4LXNFT0dFcG1oeHg1RUR1Qkx3Qy1YazJZSC03R1NWMS13?oc=5",
+      "date": "Thu, 10 Sep 2026 05:03:00 GMT"
+    },
+    {
+      "title": "「けがをさせたことについては分からない」山口県に住む自衛官の男を逮捕 車で事故を起こし立ち去った疑い 相手の男性は首などにけが 秋田・北秋田市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1RGU29Kb0xESUhXbXAxODhmektTRTc4RzZ4NXYyQXUxUjlJNkZwT1FSakhRMlBIdmwtRjgzT2FJbEs5NThMTXZQenFsNENxTkp4OHRTZVJxV3ZSUWxFcEdSQmxWYTd3TzdjLUE5T1hKMUthU3Fodl96d004UTR1Z0FlMEtUUGs?oc=5",
+      "date": "Thu, 10 Sep 2026 09:12:00 GMT"
+    },
+    {
+      "title": "【解除】秋田道・五城目八郎潟ＩＣ―琴丘森岳ＩＣ間の下り線一時通行止め 交通事故で",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0MUJIdkgyY3NPV25PT1FiakZlYm9pV1E0Z1dTRVNiZktCendOSUpyNzJYQzdnQzdmT1dwX3FjZV9BbWdoNnJ5aERzVDdlYVNYeXh3OS1DUW5fSFRucVdXOU9R?oc=5",
+      "date": "Thu, 03 Sep 2026 07:56:00 GMT"
+    },
+    {
+      "title": "軽ワゴン運転の男性が死亡 対向してきた大型トラックと衝突 大仙市北楢岡の国道13号 秋田",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTloQ0p6cm1uY3Mwc3IwZVllcVktMEVJQjFDeUZNbDJaT2s2Y3d0aTJHMVk1dW96WG9KT0xia2xyVkZJOXc4d0JwT0w0UFVrM3ZyMkx2QkpDaEI0c2IxamVwVDM2aDd2TTNpZG91Sjg3dkE0azRzbXl3R1Z1Nkh1NHlYMHd1Vm8?oc=5",
+      "date": "Thu, 10 Sep 2026 09:13:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",

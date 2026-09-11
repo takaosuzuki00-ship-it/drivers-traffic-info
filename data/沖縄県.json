@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-09-11T08:30:20.071231",
+  "generated_at": "2026-09-11T09:06:24.331476",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 95,
+    "weather": "雷雨",
+    "temp_now": 28.9,
+    "temp_max": 30.7,
+    "temp_min": 26.4,
+    "precip_prob_max": 72,
+    "precip_sum": 4.7,
+    "wind_speed": 8.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.9,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 26.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 18
+      },
+      {
+        "time": "06:00",
+        "temp": 26.4,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 28.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "12:00",
+        "temp": 30.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 30.0,
+        "weather": "霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "18:00",
+        "temp": 27.6,
+        "weather": "雷雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "21:00",
+        "temp": 26.9,
+        "weather": "霧雨",
+        "precip_prob": 49
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "選挙違反取り締まりへ沖縄県警2100人態勢 沖縄県知事選を前に取締本部 井澤和生本部長が訓示",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44SG5qbi1Yd1NtbHJXZlJsZlU5S1lkUnpaRUV2YWJ3YkZqQThjNk11UHd3dlI5TXhGZGc5dVJUZ2V5ZndvVFpWSVhXTzMzdWpNMENpa2tyOVY3bWtNRGc?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
     {
       "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZF81SzZQdUgtd1VWQzlwdGpFUVRHRkdQblk2YURwVXZFUjBnMEhwbEVmaHBFTVdDY016QWxXLUxTTlZGMGNrQWlIV3d0T0l0TWNVb1Z3ckU2akh0NnpYRg?oc=5",
@@ -24,23 +88,18 @@
       "title": "安全な速度の遵守や見通し悪い夜間の運転注意をよびかけ 本部警察署が検問実施 沖縄・今帰仁村",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWEtLeVhyV1ZnR3lsdXFsNUNKLWJtSy1OZVcwLWU1M195MktPQjdXdUFCdFVERVd6SkQydE1VVkR3c083ZE9RSHl2VmN1M2VpNDRxbnhQYm95UQ?oc=5",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【速報】オートバイ事故でくも膜下出血の15歳女子生徒が死亡 沖縄・糸満市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SMF9qT0U3WmNIUHBSVkZVYWQ5MXpkdEJMZjVYZ1Zpdmdia252aUNqSUdEMkIwVGxBbmtCQkFzU2Z0cGQ5LVJ3WGtRMnA0MnN3ME50XzdIZw?oc=5",
-      "date": "Wed, 09 Sep 2026 00:37:00 GMT"
-    },
-    {
       "title": "糸満のバイク事故 運転の高校生死亡 沖縄（琉球新報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbkxBaDNqbTYzR01FYVBNVGxPdzVVVXl3dGdabm9pS1RMaEFBQV9lQXY1ekZwLURGeHlYbUlteTZIOXNFSEl2OC1ZSTV5TWpJWm50Qk1pOGM1SnQwQjBvam83eEx0VDI5eUdub0JYN2FweXM4b1NhOW9DN1ZoYUk?oc=5",
       "date": "Thu, 10 Sep 2026 02:32:52 GMT"
+    },
+    {
+      "title": "【速報】オートバイ事故でくも膜下出血の15歳女子生徒が死亡 沖縄・糸満市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SMF9qT0U3WmNIUHBSVkZVYWQ5MXpkdEJMZjVYZ1Zpdmdia252aUNqSUdEMkIwVGxBbmtCQkFzU2Z0cGQ5LVJ3WGtRMnA0MnN3ME50XzdIZw?oc=5",
+      "date": "Wed, 09 Sep 2026 00:37:00 GMT"
     },
     {
       "title": "沖縄・糸満市のバイク事故 運転していた女子高校生が死亡、同乗の18歳男性は意識回復",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T07:14:10.207594",
+  "generated_at": "2026-09-11T09:03:17.035370",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.9,
+    "temp_max": 26.7,
+    "temp_min": 21.2,
+    "precip_prob_max": 100,
+    "precip_sum": 14.9,
+    "wind_speed": 1.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.7,
+        "weather": "霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "03:00",
+        "temp": 21.4,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 21.2,
+        "weather": "強い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "09:00",
+        "temp": 21.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "12:00",
+        "temp": 24.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 26.3,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "岐阜県警が6所属合同の一斉検問 交通違反の取締りで連携",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RmFxRnZqSV9iazYwQV9ZcWoxNUptOEFtNUlkMVdPU1YtZGxyaTl5MUVESVptZUFUVC1QREZsRFE5X3Fhd2dIYm9wd20tTFdycDU2RW13WFFKekk?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【岐阜北警察署】『岐阜中警察署、岐阜北警察署合同検問の実施！！』",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SODdHTzhWSFUzM3AwVHUtRGlTR3E5b0t5QTVwN3VuekhDLXdtMjhpUk5TM1FiQWZwa0FFZTNyMjJSSDUwTVNDTXlueW1kMjVSUDRzc2ZYVFIxaWo4VWVTaUdFZzdyNFpZ?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "お盆に合わせ飲酒検問、岐阜県内で一斉に 県警が県内１２カ所で",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQ0xGclRZcS1SQnU5djZaeS04RFJGQnEzU1pLelJZanA4N0lIQUdoSWxMTkVPVlM3Q3FBVVBVRFUwV0lnbTE0SlZIYTZHdmhtLVVKLVZR?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転・風俗営業・トクリュウの摘発を徹底 岐阜県可児市中心部、可児署が2026年度方針",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OMHZ0OFNOa1JpMUduWFZ5MnhEZFhDUFAzcmhDZ1VQbElSaEFlVFVVX0hhQkdDeHpKUzdCcGlZMnh3eG5paVB5czM3X24xMU90LUR1WA?oc=5",
+      "date": "Thu, 26 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "愛知・岐阜・三重で交通事故相次ぐ 1人死亡2人重体 このうち大垣市の交差点で自転車の75歳男性が右折トラックにはねられ死亡（CBCテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51S2toVWwwWm9VcFVoSkptRjBLUGZqZkdiRFczSGZjV3dHM2tOMTB4QjZBLWhxT2w3TkRwQWg5LTBMZXhfQkNlQXZkTFNyYzBqZVdMQktNSTl1OXdSczg5SHBiWUpEaHJXTExzb0ZHdGM0WmlrODhweEt0STQxSmM?oc=5",
+      "date": "Sat, 05 Sep 2026 10:32:14 GMT"
+    },
+    {
+      "title": "愛知・岐阜・三重で交通事故相次ぐ 1人死亡２人重体 このうち大垣市の交差点で自転車の75歳男性が右折トラックにはねられ死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIdDExZFVic1dRbDBCQXEtQnRpU0VjWmFib25GODRQbWNwaVpvNXNjQmQzR2hiOXR1V0pfcGpuckhqc0RWRHU0OUhwQ2dSNTJKdnAwelBacw?oc=5",
+      "date": "Sat, 05 Sep 2026 10:31:00 GMT"
+    },
+    {
+      "title": "交通事故発生状況（7月末現在）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vR2xwM3pnUVJlcDdIRG1VUmRrejlFSUM0a0NvZ1dfUjh0d1l1NDB2MkItd1lYeG53am9uVkJoYTBhSVN2aTllSkhldFB6b05qTEgtOHpET3R0dUhxbzRaaC1MRQ?oc=5",
+      "date": "Fri, 07 Aug 2026 09:22:15 GMT"
+    },
+    {
+      "title": "5人死傷 岐阜ケーキ店火災》「変死体の回収も」死亡男性（70）は敏腕経営者だった 知人が語る「性格は”金持ち喧嘩せず”」「1500万円のクルーザーで妻を…」（文春オンライン",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRlNMUS1JdklVaFc1SVdFUUxSYjdjYm4yOEotV0dGTGl1U3BvLU5yaVZNX2RLZWdpdjdPNFNwVXptdFZOQWNPNjBPVzZkZjVSMk10U1YxNGY1Y3NscFFvUExDbG12dC1lZ29jcTFabXJvVmdlNzkyemdPSmVRdVk?oc=5",
+      "date": "Thu, 10 Sep 2026 09:12:15 GMT"
+    },
+    {
+      "title": "洋菓子店3人死亡事件 死亡の2人 住人の中学時代の同級生と確認",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfTFVuclFhZ0QwcV9RQ1VQR3FZWG5VbURmWFdHc0VtTkkzN0U4WnJMS3M5WnVMYTBNR1hualltVGZTYmZ6V09uYTJCVjR1LW1aWDNLZVNxOHc0dmhlLTZJ?oc=5",
+      "date": "Wed, 09 Sep 2026 11:39:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

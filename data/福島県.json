@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T06:32:09.543080",
+  "generated_at": "2026-09-11T09:01:36.798787",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 18.6,
+    "temp_max": 22.4,
+    "temp_min": 18.3,
+    "precip_prob_max": 52,
+    "precip_sum": 8.4,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.4,
+        "weather": "強い霧雨",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 18.6,
+        "weather": "霧雨",
+        "precip_prob": 49
+      },
+      {
+        "time": "12:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "15:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 19.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月11日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04bWd4VDhubjMweGJWR1AzU2Nhd1BWMGg0NkI0RDRSbmZWMjhGcDJzM3lkZlAxX3BHWVhrbGQzS3BvNEpqLUc0dkZzeV9EUERTTGxWeHZ5WnMtU1A0c0FfSUZSQzBhVlhhSmdLQ1FpWdIBdEFVX3lxTE5xS3huVVB3R21IMmJ3dmxyc3lzZ09teFJKODdwUmpDVHdILW9oTXBna0RzVndxdGE5WUFKWnJHRmsxbGdsNDlxYzFZRzFWYTc3eW4yR1lJcDFMcnFFLTN0Nk82TDM0bUhxZFZEeU1Ydmx2U1kz?oc=5",
+      "date": "Thu, 10 Sep 2026 20:13:30 GMT"
+    },
+    {
+      "title": "9月10日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JaGR4MnVWdU90NWlCVkxiMHlZVkJ4YlpaYXllT1RlS2t4Rmx3b29fZ3hKOWhHNDZEN2dXblZnTzRuRXFJaGFYWDk4cGdfdlRUUU5sWHRkcw?oc=5",
+      "date": "Wed, 09 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "９月１１日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GcnNOMmE3YWs4RndheWFCWnhzTXFyamQ0cmZpQnliMU5ibXRNS2JPaHFKdzUxNHdJYS1LX0JIamc2UzJubXdQUFVwcmtjeDdBVFJBN09jZlBtWmFQY0FSRkRPdGhhd3dqSUNfZmpxd1ZWd9IBd0FVX3lxTE5BWWRqTW9NMGlfSzhOeFF6TUFrT0NPM2pVUFdoUkNRSTJHVmpLcGRzMjZYcE1PVGdWWkZkc0xyQkFId3BNVTBjUEY3S2k4bWtwZHZLX2VFNlFpdlRoUGpGbDRBYmxBWVA2djh0RVNNR0hKd0l6YWhF?oc=5",
+      "date": "Thu, 10 Sep 2026 20:07:30 GMT"
+    },
+    {
+      "title": "9月9日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zN3oybUZWYWtmUFN2NlFlSlVOcXlVV3VIQ1FISzRuU214Y19UVTVpRTNTS2FsTFFXVWpwZmpGc0R3WEstMFluaWV4STNzT2VpQkVkQTQxWQ?oc=5",
+      "date": "Tue, 08 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "国道４号で夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "物損事故で車炎上、福島の国道4号 ４時間通行止め:福島ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vdmRWelVlaGhuVXg2SEJYc2JjTmFZSkZZVjlJVUJteThmY3NFOTRDM3hKeVVRS3hrTHYxRjZJNGRFQUU4RjhuUC0xWVJPUmlLcEt5eGgySTFOWHltcHFxSXBsQk95LWJX?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福島・いわきの事故、死亡したのは77歳男性 対向車線にはみ出し衝突か（福島民友新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKMDlseDBQdFo0aWcxUTFhMnAzbmJ4cXd0Unlka2NCbWQtX1RNZjkwUzZSN3FWTjNtVGVCVTZWMXdfZ0NJLVVNaHlET2NGSkdsRGdCdjNLVm43LWtTM1VrX1NtWjBKckctZF9nTlpXWGZPbFJSNVVBLTVFMFJLbUk?oc=5",
+      "date": "Thu, 10 Sep 2026 01:30:53 GMT"
+    },
+    {
+      "title": "【交通事故】郡山市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93RG5PUXhKNDhpcFFLSHM1NnlDd1dHUUJFQWNucGhBWmRkcU5NUWhnYUlnbWliMnFXRXYtMFBXVUFScHc2MmRNdzZjYUk1Znc?oc=5",
+      "date": "Sat, 05 Sep 2026 00:18:00 GMT"
+    },
+    {
+      "title": "郡山と南相馬で高齢者ら2人死亡 相次いで交通死亡事故 福島（2026年8月26日掲載）｜中テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEpPNzZDYkpwMUFQZlB5ZVZmNlF2TTRjM1pQLU5nTFR2YVVqNGdES3F0T3YtSlRBQ3JUNkllZ0JBWVVndHF5RUxQU2lGY250cGRYYzgwWlRERnZJVFFPMU5OenBoYnBRN2R4QzRzMDlqOWc2cjAyaUlSbWFrSTlaUTkwNU5BMU0?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡事故相次ぐ 郡山市で歩行者の47歳男性 南相馬市では自転車の81歳女性が死亡＜福島県＞：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhWGFPYThweFZLMmNzbXZDbTlCSndIamZoNU51akdYeXVNV3NPbHcxX1I3dXlqWE9Fbzcyb2Rhci14TjBFTWQ2RzI1YzlkY1hpSlFrU1U4bEc5X2lsQkV4emlDaVNOTkEzZkRPYnhxTk5Cclk0Y0dhcjVR?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

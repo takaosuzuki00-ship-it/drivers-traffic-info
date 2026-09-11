@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T08:02:11.003968",
+  "generated_at": "2026-09-11T09:05:09.845254",
   "pref": "香川県",
   "region": "四国地方",
   "capital": "高松",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 23.5,
+    "temp_max": 26.5,
+    "temp_min": 22.6,
+    "precip_prob_max": 65,
+    "precip_sum": 4.2,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "03:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 23.0,
+        "weather": "弱い雨",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 23.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 25.6,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月11日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PNkkxSVFqSHJ3MFNqSUF5VFU4Znl2MUpwM01ReE5TSjMwaGRLWnFKLUhMRDYtNnozQXhuaWpoWWdJQWtXcWFqRkFaMGNpNFdTVnRad3NKNFlxMGZJTDRFcnJGZVBVbDNSTlBOWGh2QdIBdEFVX3lxTE8yY01YdWlzQl9Rcm5KZVZDaUlSMVgtUGNIbEl3bFJHZmFGLWJwcXJpSFF0SXhZUUV4Vl9YbWJCbkNNV2lwQ0QzTUFTRkl1Z1BORG5iLWZVWk5sdWFQWEhKR253WjVscDU0bzloOVF4WWpteUdf?oc=5",
+      "date": "Thu, 10 Sep 2026 20:07:31 GMT"
+    },
+    {
+      "title": "９月１０日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVjFlV1BHUkhHQWFySms2dksxZzRNUjlaa0dORlF6OEI1N0pvMVRCekNGV1hFQ2ExVHhRMFVoZERuNW4tWTJMaTBKYWZPdjNkaDBiY2dFN1dEeGc?oc=5",
+      "date": "Wed, 09 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "香川県警が一斉検問で交通安全呼びかけ 危険運転の数値基準導入受け [香川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51ZG93cmZJT1FOMUxjQWRiaHNra1RNTW1VUU5KSldreTJXcTRnOUQ0OXMwSlIyemtWSGF1R3lLMDMzcnNqclpzNk05d3UycVBrOWQxY2hBd0lIcEY2M05uZFBVaWJBdUk?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "速度違反摘発で虚偽書類か 神奈川県警、書類送検へ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0alh0OWx4bjVOOEhIVkFmcVR0YjdWdTdJMHlzRUlOYlNSM3B3R2ltT0F2T2pKR2hjaEdKcjE2OENNNXF5Q3kzMFI0Nkp0cXN4OUFDVEdxT25OWkRZZVE?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "国道11号で乗用車とバイクが衝突...男子大学生（20）が意識不明の重体...車を運転していた女子大学生（20）を現行犯逮捕【香川】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qRHVCTW83aHViME1UdktlOEx1RnZScEVmenI3QTIycDdUelFXd2N5NWIzaEJHTkpkYkFzRl9ZZXNaZ1ZPcHJ5SFNzNGttN003VlN4M2VHbHVrb2lMQ2FDOFA3R1NpSjg?oc=5",
+      "date": "Mon, 07 Sep 2026 21:38:00 GMT"
+    },
+    {
+      "title": "バイクの男子大学生(20)が重体 国道11号で乗用車と衝突 高松市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KNFVCNUZSdDl6alo1SUgtZHJRaTJoYWNnUzRBTldPMmdHYUQyNEVUSVBybWJmbVNHQ2k0S0g1Mk9lNWltbVlidmpHaUhxbmNX?oc=5",
+      "date": "Mon, 07 Sep 2026 23:54:00 GMT"
+    },
+    {
+      "title": "国道11号で乗用車とバイクが衝突...男子大学生（20）が意識不明の重体...車を運転していた女子大学生（20）を現行犯逮捕【香川】（RSK山陽放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IVkFKV1AxZExtazlZTXM4THMyV2hjOEFSQVRRZmxKdXc0V2NzQVU3aVhsclN0ZWVMZUhOMDBGVEowQjQyZEI3X2hCYzU1NHMwV3MtQ2NtYzBzX1dzR3BPaTBfc1NoMFVEbmZLQ2JLZ3pLWmpKMUJESzZIMnFidGs?oc=5",
+      "date": "Mon, 07 Sep 2026 21:40:26 GMT"
+    },
+    {
+      "title": "高松市の国道で乗用車とオートバイが衝突 オートバイ運転の２０歳男子大学生が意識不明の重体【香川】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oem9USDFDdUpfOEo0Wm9UUHU4dXRhZjZzY0Rpd3IyTVJnZ0dlNl9hbTdRb0RWcTVrZmZ2enZSNEh1RGJNSGh4bUg1U1VGZw?oc=5",
+      "date": "Tue, 08 Sep 2026 02:45:00 GMT"
+    },
+    {
+      "title": "9月4日に発生した香川県多度津町の死亡事案 交通死亡事故と判明 香川県警",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OaXZQcW1YX2hqMWlyVEtMaDZwYTdzQ1dCcnpWSUx0MEg4YTBnNHJWX0tXZ1hJamVwakU3ZjkwQWVzeWF1RjlsM1gzM0NxcUN5?oc=5",
+      "date": "Wed, 09 Sep 2026 10:12:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "香川県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T06:29:09.489437",
+  "generated_at": "2026-09-11T09:01:31.606569",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 18.5,
+    "temp_max": 20.4,
+    "temp_min": 17.8,
+    "precip_prob_max": 64,
+    "precip_sum": 1.5,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 55
+      },
+      {
+        "time": "15:00",
+        "temp": 19.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "18:00",
+        "temp": 19.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 18.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月11日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PNkkxSVFqSHJ3MFNqSUF5VFU4Znl2MUpwM01ReE5TSjMwaGRLWnFKLUhMRDYtNnozQXhuaWpoWWdJQWtXcWFqRkFaMGNpNFdTVnRad3NKNFlxMGZJTDRFcnJGZVBVbDNSTlBOWGh2QdIBdEFVX3lxTE8yY01YdWlzQl9Rcm5KZVZDaUlSMVgtUGNIbEl3bFJHZmFGLWJwcXJpSFF0SXhZUUV4Vl9YbWJCbkNNV2lwQ0QzTUFTRkl1Z1BORG5iLWZVWk5sdWFQWEhKR253WjVscDU0bzloOVF4WWpteUdf?oc=5",
+      "date": "Thu, 10 Sep 2026 20:07:31 GMT"
+    },
+    {
+      "title": "交通違反の取り締まり→無免許が発覚 24歳の男を現行犯逮捕（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlV2tUc1NuUHRDOHVCY29lMHJ6QXRGUG5ETTVzWU9xQlhfZWlSSzlpWmpTQ0wzc19fZUp6UTJHaVNTY2dmbHFuYnhjQk5kNURaTlNVN0g2V1cycW42R2lWZnBoZjM5bVE?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "9月7日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43RklZMl9jZmhlaUNHY0VUMW92elhOaXZjdzk0a3hEQVNva29hTHpWakstckNrRDRJNFMyQi0xREMwLXZsR3BjZnE2SFVYZHl3V2dBTkNXNUREdE1Yd0dyQ19hMHBnVm9tcFZTSmd0Z9IBdEFVX3lxTFB0TDVQaHNjOGxTZzVIWWVnUWtvaDNOdk95SHA2aEx5VDhjLUY0YkpkWGpGbFhtZDJ0Y044Umg2N0NQbGlSc3JqOEs4NlJZMURydWdkaW82U2JOZHd2TkJ3U25sVVpUeFhmelIzRDc2ek5Yanpo?oc=5",
+      "date": "Sun, 06 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qa1FULW9DVkl4WXBqa3p5THN6a2t1RHdLbWNuNUt1QUdVUVBpbkJ2cXlINXM3LUE3SUgyQ05oQUZhYlBfdWxiV2hETQ?oc=5",
+      "date": "Sun, 12 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "万引き、50キロオーバーで走行し死亡事故、忌引きの虚偽申請も…公立病院の看護師を懲戒免職処分（山形）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02amhRanpVZEpPSWRJVVVHdGMyQmhxckFuRkRLd3ZHTU1ITTJ6U0xjcFpuNFIwWUkycGdrWWlHUkVQYUs5UmphOHhENHVuc29nQlVIU0s1dmZLSzZMd2h6a1lpREpmVXdLUzBMekF5UlFwaEJCZU1fTHBKU3VhQnc?oc=5",
+      "date": "Thu, 10 Sep 2026 06:07:13 GMT"
+    },
+    {
+      "title": "【続報】崖下に車が転落 死亡は山形市の会社役員の男性と判明 死因は高エネルギー外傷…国道をはみ出し200メートルにわたり転落か（山形・鶴岡市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQ01sN2luZEtwNXNxcHF5ZGlFZUZ0NlZRa2Nud0hROEF6b2FrQjNaWW9kOEhNS1BMbWV1dmFBTjdYYUxmb1Z0Sy1aZTR5eGFObEk0Y2hrQlBVdw?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故2割減・「夏の安全県民運動」期間中 高齢者の事故半減・飲酒運転による事故ゼロ 山形｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52RXJ6VXBZa2FIRXUzck9BeTNya3hoNTh0czByVThYbXN6Q1VKZTk3VEoxdnZKWFlBdTk4eEVJQTFWRWhoZUk4NDctYWJUeDZqZmpSbWlVZE12SWtfeWNOTkRGV1pYOWdLR3pxNGxfZXJVamc?oc=5",
+      "date": "Mon, 31 Aug 2026 09:55:00 GMT"
+    },
+    {
+      "title": "事故が相次ぐ月山道路の高規格化を緊急要望 崖下転落で男性死亡受け 国交省「必要性検討する」（山形）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UazhESWxPMGgtUUZGdkZweWtCNmd4SENVRzhOdE5UcmdiZWdMYUk3Mlg0TmNObTRGY1VNZUdGaGpuRUkwZ0dORHluWC1sQ0JmaEhzb0ZOU1JZM2xBamJWc3R3Rk55QmJjNW1kMlBUd2R2RnhrUGc4czdQLThvR3c?oc=5",
+      "date": "Tue, 08 Sep 2026 03:14:13 GMT"
+    },
+    {
+      "title": "【山形】6歳男児が行方不明になり6日目 捜索範囲広げるも発見に至らず...土日に見つからなければ来週月曜以降も捜索 これまでの目撃情報、あすの捜索態勢は？ 警察は引き続き事件と事故の両面から捜査 | 山形のニュース│TUYテレビユー山形",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZVA5cFk1dnpsUHNNVTBoQlF5T1g1MjRLbXJYd2xCaVRCYWY4XzFTd0tuclhXSTNEV3BUMDFOOWJmZkVOSU93V25qb2VpTTBuc09kVnlFaEpsdw?oc=5",
+      "date": "Thu, 10 Sep 2026 12:30:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

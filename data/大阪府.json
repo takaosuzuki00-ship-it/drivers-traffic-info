@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T07:32:10.476714",
+  "generated_at": "2026-09-11T09:03:55.778802",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 22.3,
+    "temp_max": 27.5,
+    "temp_min": 21.3,
+    "precip_prob_max": 99,
+    "precip_sum": 22.1,
+    "wind_speed": 4.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.3,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 21.5,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 21.6,
+        "weather": "弱い雨",
+        "precip_prob": 45
+      },
+      {
+        "time": "09:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "15:00",
+        "temp": 27.2,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 24.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "新御堂筋でバイクの「危険なすり抜け」を取締り 大阪府警",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtWmlMWlRYU1pjR18zRVRpZDJiclpzZzBoZ3VxeEZLUDN6RFI3YXhzSDZhTlZ1SzBOVEJvZXl3Uk5zYUtJT0JidFhvcHdpZFhLYjR3cE5RMU1LMjkxSkpPVjdR?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の交通違反に対する交通反則通告制度の適用について（令和8年4月1日施行）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfbndmUzFoNndpdmEtUTFKTGdtWHgxUVJIeWpvTnhjaU52MWNmZ19vZXF3bnhiZG00Y19aT1hpNm5kX3ozckl2cHpSQ05GM0RNNS1RQWZhQ0NyWGZGam5PX1RmaTdFTllNRVhn?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【写真・画像】友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」 | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVanVSUWVPelNPTXFCSS1RU1VfcURoa3hEelliX3lTd1FNa3pjTFhMSmxVYnFpcnNpbjc4WHF0M3JpeGxtXzdJSEdYczBfdUhWQmVzZDRaaFBxTHphTVE?oc=5",
+      "date": "Sat, 22 Aug 2026 20:50:25 GMT"
+    },
+    {
+      "title": "改正道交法周知 府内で一斉検問 酒酔いなど7件検挙 ／大阪",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoVjNkOTI0aFFocldfM3JiV1JvYTQ0RjJYVmo4Q29vNHR4VmMtMFVYRUpYZmhQY1NydFAzRDMxV2RoTEl5OU50UkFab2JLSGVaYUQxU09Fem12My1vemxkajlSMU9yb2Vf?oc=5",
+      "date": "Tue, 11 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車が歩道に乗り上げビルや街路樹に衝突 運転手の５８歳男性死亡 大阪・御堂筋のアメリカ総領事館近く",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PR2dKWE41Ykc1TTNMOWhHVWtUNnBlT1ZPRzljMHZDYTZaZmJzUEUxUjlNVGZscGhwSlhlNXY0dUxFd0JzRzE0M1NWTDdxc0tYUHdrSkpITVpCeVJBZG8yR1B2SkxNckk0N0JIMHZraHhQUmJHa0Z6QVZpZ0c0aFE?oc=5",
+      "date": "Thu, 10 Sep 2026 03:32:35 GMT"
+    },
+    {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "勤務先社長を殺害、交通事故に見せかけ放火 男が初公判で認める 大阪地裁",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OT2VERVBYZTIzM0tFSF9pQnM3dkdSXy1uWThVbmV3cEZMWno4RU1WZzFPSDVUbGttdTNMTzlRblhhR1gyNENLUWloeThXWURiU1dac0tQNEt0M01uYVdhSHVRbHI0MDNLZ2VqNmU3U3Zndm01WFE?oc=5",
+      "date": "Mon, 07 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "G大阪がFW中積爲の交通事故を報告…双方に大きな怪我はなし",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kbklBaHRBX3RpU0stTlUyZWt6ZEZuUmtXaVFTM1hhSW15SG81X29Ia2otNUx5bldrZ0lnN3lWWkJxOGZFLV95ZEt4WjNDcnB6MnpmMjhWNmR5bGJXRXVQZmpCUHNUZ3B2V2VoZlZB?oc=5",
+      "date": "Fri, 04 Sep 2026 12:17:00 GMT"
+    },
+    {
+      "title": "新御堂筋のバイクすり抜け、集中取り締まり 大阪府内で死亡事故も [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVGV6MnZzQmlIVXNTX0tJOS1OZ0tVSkdZZ0VwdWNVNzgtUzJaNU12b2lpdXVaMGJocU9OZFo3TngzV0tRY0F3TjN6UVFnS3ZVTkpaLVdOMThwbVh2LUtJQlg4d1NNaW8?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大阪府警察 公式サイトを検索",

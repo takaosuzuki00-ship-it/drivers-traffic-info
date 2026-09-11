@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T08:11:11.251309",
+  "generated_at": "2026-09-11T09:05:37.867538",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.1,
+    "temp_max": 27.6,
+    "temp_min": 21.4,
+    "precip_prob_max": 80,
+    "precip_sum": 12.8,
+    "wind_speed": 1.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.1,
+        "weather": "雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "03:00",
+        "temp": 21.6,
+        "weather": "雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "06:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 45
+      },
+      {
+        "time": "09:00",
+        "temp": 23.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "18:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "福岡県で交通死亡事故多発 特別取締り部隊出動 12月から今月15日までに25人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6RlM5NEtsRmZibWZ5Sy1vTHh2cC1HRnVYS3FDZjdzc1d5eEs4WktjcFR6RXZ0R3FkOTJXQV90TWhzck1ZSmhUZXFhcEhJc28wTTZwOGZkcw?oc=5",
+      "date": "Mon, 16 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "一晩で23件の飲酒運転を検挙 県内約60カ所で“飲酒検問” 海の中道大橋の飲酒運転事故から20年 県警本部長が現場で黙とう 福岡（TNCテレビ西日本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLdnl3ZWQ2RzVPV2R1bnhYWkRDc1ZSSXgzV2k4Ylptd2tFMzFOZVVEX3FhWHNnN2hzdFFpekNZaWdHdVNyQktfUThiSVdid2xSc3FLcXc0d0lRbTJrcmY3cEVyNDliRWtNZTFHVHhVaHRLbkF2Z0hoMnpQaGdNeUk?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "初の合同検問 福岡県警が九州・沖縄の7県警に呼びかけ実施 3児死亡事故から20年 事故現場で福岡県警本部長が黙とう 福岡市東区「海の中道大橋」｜ローカルニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yc3ZqRUtjbHEzV3l1SXA1WEVJbnVqeTc5ZFhLUEVSWVZ1OXhhRGtENmpiOXhuZW96R1NQbzRDMk9ES2o2YzN5RnVESThISUZaZ19RNjZXYTZCbmNVVzJ3?oc=5",
+      "date": "Tue, 25 Aug 2026 22:42:59 GMT"
+    },
+    {
+      "title": "飲酒検問で「赤切符」 検挙された男性が語ったこと 飲酒運転ゼロへ②（2026年8月19日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWlR1U2ozMUYyMHpmbmVhbE81cDd5R3QyRTZrT0JKLWVGMjAxQmpZbU1CcG9XS0ZIWUlONWxCXzRxRWlDMkpMSTF3SWhEX2xRY1k0eDR5eWNZY09ZOTUzWGl1QmVsbHhCZnhVNGhFVTQ3Q2JJdnozUVl5RGpMZzJPdERFaw?oc=5",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「一緒にナンパへ」の重い代償 3児死亡、飲酒運転には同乗者がいた [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZUldLamx3SGdOcFFEQmU2ZjlWejBBQ0NFZEZLSUEtUGpmTEtOZUFtU19HUUJGcFlJLTMwYWxUWG9JQ1BzSDdONjJsSTN1SHB6QlVWLVZ1cE9ZNGVZNklIU1lDTHQ0ZG8?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "福岡・筑後市で4台が絡む事故 大型オートバイが国道を逆走",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Wm9WbmFENEY4MXYtV0tJUlNLRGVmSGJhYlZQZGtieXo3bS02Ym9lem93aVlhMDBUczZSUDNtNmxsRUJyT2JVLTZ1bEowOW9WQ1V2by1n?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「交通死亡事故ゼロ作戦」取締りを強化 特別対策部隊の出動式 福岡県警（2026年9月2日掲載）｜FBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzJKUl9nbjNRUEVtLWVXTUJOQWJJM0lDa0luakc1TGNELUJ0ZFFiV2VxSmhoT1J3N0tJek9qQnVZZEYxYkZKYzRXazZTR1QxeGlremZrZWpEeGVublBnNmJINldlWlBFaDlId2hPLUFMWjlUQ25FU1FmUENUa2oydGtkR1huLWM?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "78歳の女性が車にはねられ死亡 運転の女性「横たわっていて気付かなかった」 福岡市南区屋形原（FBS福岡放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UFcyVHY5MHJqS2FCenM0X29pYmprZndqQkZxWHpSTlNSQWxUSnhfSHh1czNMTmRiN0gtbmJZcGdDMWMzd2NIYm5ud21WWDZRUng5UDZQcUxxRWh3Z3ktdlF1bFkwTUg2ZDc3QXdhZklPaWdmRzZIMDAzMXBBRzQ?oc=5",
+      "date": "Mon, 07 Sep 2026 15:02:00 GMT"
+    },
+    {
+      "title": "走行中に鹿と衝突か、バイクの男性が死亡 福岡・みやこ町 [福岡県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZWJCZXNiLVdKZXJ2ZXFGRGdyeEFPY0lRQTZWRlMwSnROQjdyNWQ2ZzEtT21VQVhnUzRiQi1pNTVDdzZkbzhJbWNNbE1QcHVRUjRWdjJreVM4ODQ2TURTbjd2bjZMX0E?oc=5",
+      "date": "Thu, 10 Sep 2026 05:45:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-11T06:53:09.871544",
+  "generated_at": "2026-09-11T09:02:17.366879",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 19.5,
+    "temp_max": 20.4,
+    "temp_min": 19.2,
+    "precip_prob_max": 100,
+    "precip_sum": 95.0,
+    "wind_speed": 9.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 19.2,
+        "weather": "弱い雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 19.4,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 19.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 19.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 20.2,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 20.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 80
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県の少年(17)を麻薬取締法違反の疑いで逮捕 庄内町で大麻を所持か（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pdXpXdTJUNWhIWHczY0t4V2FEWkh2X0NGRi1SZk50TjFfWmVNVkpxVFVycERCRllzOVFsNnN6QWtBTkYwRWdXVHpoVWRYbmxYa1VmVV8zVzJlQQ?oc=5",
+      "date": "Thu, 03 Sep 2026 01:47:00 GMT"
+    },
+    {
+      "title": "神奈川県警、交通違反摘発で不正か 巡査部長らが2000件超に関与疑い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53eVJIN3RlNnI4MEVBeXlaYUh0clkwNmhwUWg5b2tzOEZNTkhUSFVETXgxWnU0RS1nY3h0Q3Z4UDJZOHJ3LXJZa0RrbHE4R2k0eW1SRUxaU0NMNzUwdkxTNUU0TnVkOXJjaGtxWg?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "♪交通事故、なめたらあかん",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZOS1kNGtXY1lnRHM1YXNEVDFJaTRIMkoxS0o1SFVGenViY3JRWFJXZWVUVEd2WDRRRUFVYlV2Vm9kYU9MTkxZR0gxZ1FEOGtUQ1ppR3NTTFBGUGhzbHRHMVBNX0lrNkU?oc=5",
+      "date": "Mon, 07 Sep 2026 08:39:27 GMT"
+    },
+    {
+      "title": "【速報】ひき逃げで25歳男性死亡 神奈川・横浜市旭区",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04dldWMmF4dlBEWC16OTF1MmFNTjdjYl8zQVByWEt1eG1XZEVSOEFyTEhMX2xXbExVY2NVYTFlWU16MU5UZ2o0SVRsMVplMUtXQU1iNDZuN2twazRzQmJzc0tUN09rTTh4RlNXcW9xY1lyZw?oc=5",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "三浦・城ケ島で波にさらわれた男児が死亡 岩場から沖合３０メートルの海中で発見（カナロコ by 神奈川新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJaEdwalJ3WjhFbktDdkZTVUwxLTVhNGxQemdfbndyY0dZT29FOWR2RjBzOVhHT3VfdkkyT2R1blRJb21aQVMwTW9jeEk1U0l1YzB2eVRTVUxwemljcHJWRXk2ODBTTzNWeXFMR1Excmw0RW42RkJQMDBaYlZiZms?oc=5",
+      "date": "Thu, 10 Sep 2026 08:20:21 GMT"
+    },
+    {
+      "title": "高波にさらわれて海に転落した小5男児が死亡 神奈川・城ケ島の海で [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yWjdra2hOM28yVm9MbjRqVkJKZHFsYlRQZnRXa0NNOFNMM2hPNGpnTXpITzN5akdjZXFsaUR1YmhqR3lXR0kwd29GNUJYSnQzVERWUnJDaWZPRmNWLUlJSzVLQWc2Qnc?oc=5",
+      "date": "Thu, 10 Sep 2026 02:09:00 GMT"
+    },
+    {
+      "title": "【速報】行方不明の小学5年生の男児 海に沈んでいるのを発見、搬送も死亡 神奈川・三浦市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FZlIySlE1RlhXUEVfbXpqdEtORWkwdDkwUlFMZjRuZWVMdWpYZFpjYl9zWmxHSDZHYzc3MXREazlDV3ducXBlbzlldU9ZRkFnSWtvbVVoWQ?oc=5",
+      "date": "Thu, 10 Sep 2026 01:17:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "神奈川県警 月次取締情報(横浜16+川崎7箇所)",
