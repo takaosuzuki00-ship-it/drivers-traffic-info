@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-12T21:56:05.438107",
+  "generated_at": "2026-09-13T00:03:32.693864",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 23.6,
+    "temp_max": 27.1,
+    "temp_min": 22.1,
+    "precip_prob_max": 95,
+    "precip_sum": 7.3,
+    "wind_speed": 14.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "06:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "09:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "12:00",
+        "temp": 26.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 26.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "18:00",
+        "temp": 25.0,
+        "weather": "霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 24.4,
+        "weather": "霧雨",
+        "precip_prob": 94
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "９月９日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSGl2UGJ5c0VpTDRLZXRiR3FuOGpfZVZ2Rl9kQUpzbUFMNUJRTXpwNlBFd3VvXzJxQVltVWNHYzAxa0hyV19ZWktpRDA2TnB2aTJPUWZlVVNTS0VkTFpWRW5TV0xjSFlNcGlFcE1qbVpvUdIBd0FVX3lxTE4zNUltZGRqYjhUSDl6RUlBY3V2SFR2SFo3NzRqTEg0WHdWRHlMeGZJQW0yV3dYa0oyS0F1MzJiMG1SRDlPdXZIN3NiNXZleFR3eFVtYXNuLW8ySi16S2ZVcXh1U3FRMlRELXNyOFo4SldlYk1EWnZZ?oc=5",
+      "date": "Tue, 08 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
+      "date": "Mon, 27 Jul 2026 03:15:30 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "国交省ブチギレ！ 「排除します！」 イベントに集結した「フルスモ・シャコタン車」3台を“一斉検挙”！ 使用者には「すぐに直せ」命令も？ 不正改造車の取締りを実施 新潟",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXc5VzNibmJRYlJxVFJMUS1LOUVtbV9TQjFOanVBYWI4SGpEYWNLQWZremh6YXVJbkNWYnMtUVg2Q2UtT012MThPdHh4azItMHVJdjVLTXpKTmQ1dFRjQjhUM2dCa1hrWFk0OE1iTV9rMWRmdkZ4RFQ0Wm5JUElpWNIBhgFBVV95cUxOREZmZFEyTTgxeEx1WTM1bmxVbUY5QVgtLTd6X1F5Z2VzUFBkTUQyQm9UcEtjemNUZ3RwM2FvLUdLNDIwU1I1R2dac1UxMVltaWZ0S0l1RmhGOXlWNFNDU0dGd3NwRGZRbXM4LTFobDFNdFVkLWpFMU51Q0hDRzV3VGVWeDVKdw?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEZHVTbVBCb2xHMTBYcWRGQ1BvUU1LNUc1TnpPM2JoWmJZMlVoM0lUb29zSkxLeFl1dWU5NFBIOXA3RmpHbE5YZDc2VnNUQXBYXzBhTU5VQQ?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通死亡事故】7日間で6人死亡 県が「交通死亡事故多発警報」を発令 発令は2019年以来《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBieHNHcHd6X0NZdHpJSi1OUW14NElHWkk0M1JibEpHbUdLQXNFaHNDd2plT2dwc3Q3MFJaVk44WXV0Vlc3QmdNOV93bUl5bS1FTXhuVGlxV1BWa25oc0tkaEZIdVIxTDZ1UVdkRURpVUlxbEdEeDRDdkJRdFZ6SWM?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "［道路情報］新潟バイパス、事故で一時車線減少（8月18日）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tdGszYzFtejBNYWVXbk9udjB2blVWNi1WLW1kdFNDNE1TMFpDbnBTZnpHOWtjMjRGcFJMSmcxbGJaRzh1WGVLOVMzVENWaDlveTF5dHhQTGE1cjNQYWc?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夏休み明け“交通事故”に注意！上所小学校の通学路で警察官が指導 9月1日からは生活道路の法定速度“30キロ”に「交通ルールしっかり守って」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ubHpnVE1JRUJyNHdqMkFVOWk1REJGdWpteHREa0VtNnhRSjVWc2FUTXlvbGpEclRPUDJFbk81Rk9FNTRDZmkwNGZMcjEtWk41bk1wQnE0RXZSMGFGc2l3?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【続報】死因が判明、新潟市西蒲区の交通事故",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9KRU5la2RRTmV4S3NEektYZENsYkRKeDMwMFBVRjdEWXVWbEZVN3AxZElPcVBwR2tUeXZqNG5aRlJEcTVX?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

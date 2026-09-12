@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-12T21:50:05.255415",
+  "generated_at": "2026-09-13T00:03:12.785601",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.7,
+    "temp_max": 25.1,
+    "temp_min": 20.9,
+    "precip_prob_max": 11,
+    "precip_sum": 1.8,
+    "wind_speed": 1.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 21.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 23.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 24.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警視庁、8月の速度違反・重点取り締まり場所一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xc25qcFl4VlRBZnJCQTZ0eWczeERRU0docHdGSFVlT2tURUNoT0pacEdNQnFuT1oyN0Y0X1JIczZoY3hOVnFyeDdzU3d3LVoyUDRHMWpEYm9nX2E4d096ekExd1hpUFp3?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ドラレコで違反確認、ＡＩ活用も 取り締まり不正で再発防止通達―警察庁",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RS1dFTkE1SF9aSG1wd091NnFwai1WRzVzSmRRS3VKdC1PSU5Uc0lYUGIwc1lIZy1Uanh0Q0k4MHlFY0hoMU1yX251QzR6eWFNczM5QXpZZkRUTm1WUTB6REVYOA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "警視庁、7月の速度違反・重点取り締まり場所一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12UDhOTE5GUWx5TjVCcGtlMC0yTEp1Rl9HNmZGRldpZFRkbWlGdEt0RDVZWnloVGpkem5FeW5xbzdCdmxGN2JDWk50c1lSVG1YYnktcGpaUG9fZ0JrdVNsZ2NtUnZpeG9k?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東京都江東区で「不正改造車」一斉取締り実施 スポーツカーなど9台に整備命令",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm5ySU1QZ3ZPX2Y5WjZNRWJmWVVXZ2JSMnV4UVJQdmJBUDFEWXR2TGxJUGtJZi0tTXN4VEo2T1pDM3N4Zjc3YmRReXVucm9NQXFqdFAzZ19XcFludHBEQlpPYXVqNGFEcWtpdXdha3NSQlA3eDNtaFR3Y1NhQmlaZk1nVU4ySE1z?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "東京外環道の“逆走女” 警察官3人がかりで引きずり出す確保の瞬間 追跡するパトカーはバンパー破損 銃刀法違反の疑いで現行犯逮捕（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pcnZyZEYtWnlhRUwybTVZbndMUkJnWDhjSFRoQUx1blBzU1FUdmlsdHJNamZmMmpFbkxJUjlKOXZlbEM0VUNLSXdyWW5UaWhPb29mVlkxOVVvcHlVdHU1ZW9uZDhnZGVJTVRucHFvQQ?oc=5",
+      "date": "Wed, 09 Sep 2026 10:07:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "秋の交通安全運動を前に事故防止呼びかけ 東京 練馬区",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZT3A1RDFaTklZallLT0xjOHNmZ2tOdC11OV85a0Z2ODY0QmxWS19kOExzcm1rbGNYbnRGUWhQYTZhbTFYWk01VGktdlBpQmdGVElZMW11dUZhRlJ4Mlc4?oc=5",
+      "date": "Sat, 12 Sep 2026 09:45:00 GMT"
+    },
+    {
+      "title": "立川市は交通事故が都内最多 書道・ダンス…様々パフォーマンスで防止訴え",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVlJkczhvX0g0cnBIRFo3aDkxVUJSa0FXR3Ewci1LY2hlM3NCVl9PR1N2WjV5TWJ1YTJZQzhyUm1BZlNHOXBBQVlhbF90MGNvNEFfRFVDTy1LaE0?oc=5",
+      "date": "Sat, 12 Sep 2026 10:52:53 GMT"
+    },
+    {
+      "title": "東京・中野区の交差点で自転車と車が出合い頭に衝突 60代男性が死亡 52歳会社員を現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiN3BlNk9UNmZUcDZIOWRkT1JBSjJ5dkl2MWlLd1pvajNpQmlPZko0b2ptSDE2VHVpd0J3YWZzblJPWnpsbGZISlJMODJ1Zw?oc=5",
+      "date": "Sat, 12 Sep 2026 09:27:00 GMT"
+    },
+    {
+      "title": "“ありえない所”から車衝突 「驚いた」運転手は高齢者 東京・八王子市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZY1p1b1YzSGtiRXJmblNGamYyRlE0bGlnX2ZBWDVnemNBZkgxSDVnZkpBSy1YY0N6cHp3WXNxZDI1MURac2poLVU1aXV5SV9Ec1RMcF94TGZhOUk3YjBzWDdmLUpZSXdQMjk3S29Ic0dfUQ?oc=5",
+      "date": "Fri, 11 Sep 2026 09:39:00 GMT"
+    },
+    {
+      "title": "♪交通事故、なめたらあかん 秋の安全運動前に天童さん",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fUWtiWDhGR1MzMzFONDhGdlJMWl8zOVI4YXdFbFNhSm5hTllYWWtaTjEzSnpLNVBjVmFvWjk3SzR4dFY3VTdPZlhzakFzN1ZUWlNV?oc=5",
+      "date": "Mon, 07 Sep 2026 10:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "警視庁 公開交通取締り 月次方針",

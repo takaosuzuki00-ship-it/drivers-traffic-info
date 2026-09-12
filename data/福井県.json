@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-12T22:05:05.595365",
+  "generated_at": "2026-09-13T00:04:05.519230",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.5,
+    "temp_max": 31.6,
+    "temp_min": 23.2,
+    "precip_prob_max": 100,
+    "precip_sum": 2.0,
+    "wind_speed": 3.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 31.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
+      },
+      {
+        "time": "15:00",
+        "temp": 29.5,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 26.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 65
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tTGFhSWp0cVdOLWFhODRTbHgxVUt2eGlyUmxzUXNDRTIzbGUtOUphX01Jdy1DdTVGNF9fSHczR1dWRkJkSF8tMllrUmVmbFpRNUtlcWViV1ZiVW5aamc?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucnhNbTN6V0xtLWFsZXcyOUlPWVB1NHY5bjVBSDN0czE0V3BnTWhHYzQ4dHl2Si1mRUZvZzNfZERrVDExdTMyOVpBamotcUQ2amtNYVJDMlFKQkFaR3c?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWU9ncmZ1Y3E2NWtnZEc2TzczcGZDc0Z1Z0FVODFYb0I2UmJtcUsySVBpTkVJZFpCMUlrTWlvNVNyOVdGR29uUW5nTk9IQVlWWlg1SVE0OURGREF3X2c?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒酔い運転数値化であわら署が啓発検問 国道３０５号 | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdEJSNmJSbEhJMjJfUWtnLVBReE9NNUZTRnN4WThLSVMtazllbGVvWFFTOHdoRXFDeUZqQnFiRXlGSVc2anFwb3BpWll5cGJCT3YzX1lHSFZOeUp5SFE?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の身代わりはできません - think",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZnVjdU96YWZGNlFKOUJZQzdXYzdZT2Y5RnpWWEV2eGR5WkMxY0sxeC1SRjNsMFFhVVFfYzFET3oxVE4xVzJ1d0lZNU81Z01GTlRGVDJPeENjcS00RGVXVGlYa3lFSHduNlNGQVJVWQ?oc=5",
+      "date": "Wed, 26 Apr 2017 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故乗り越え目指す世界一 モルックに挑む福井の卜井さん：日刊県民福井Web",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14TG9UNWYxOGlsWXV5SmZ1cml0Q1ZfV1ZSNjQwZEMtQ2xJRF96TldHdTBQNjFMVElZVW53V3luOFFmSnp5cVhCcklPUjBIYXpGcTVMeQ?oc=5",
+      "date": "Wed, 09 Sep 2026 20:08:00 GMT"
+    },
+    {
+      "title": "駐車場ではねられ40代女性が死亡 運転手の70代女を過失運転致傷で現行犯逮捕 福井市江端町（福井テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hUnhEMDZ5cTQxT2dtbGM3Z0kyM0w0Z25vYmdsVnZHTFhpckpTNTAyQ0IwYnZXWXNFQWl4UHl0WUNPREJMWWszNmx5QWQteUF0RGZDWVg4SFU3Yk1obThtMFA5UldrZWYxV2FJMDJ4eWkzcXRhMUdFR2lVd1h4WVk?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "駐車場で44歳女性はねられ死亡、車運転の女逮捕 福井県警福井南署",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRXBGYVMyXzRiTEFPMzJpc2tnVWVfWFZrZ05EbWRYT0ttbVJ4SEdtT25fUlZPNy1IRG1UbEFOSlVlNWlpdmhrYXR5S3dFb0ZvWmxCMFVxZHVIcXlkeUE?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "公共施設の駐車場歩いていた44歳女性が車にはねられ死亡 容疑で75歳女逮捕「間違えてアクセル」（福井新聞ＯＮＬＩＮＥ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSmxNbV8xWVNKV0xkb3p1cjRzdUhGZ3JZWXRkVU9uUURNMVpLRnVzU1k5WjhNM1NJdTFrdF81bk5HR2IwUlBZRWMtMjkwTjVPYTZMUTYxNVlPa1pfaWRueXo4azl6Qi1fX3dreE5jWXRZSDRFSlhXLVc1dzlxdzQ?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "駐車場ではねられ40代女性が死亡 運転手の70代女を過失運転致傷で現行犯逮捕 福井市江端町",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nTEw3NklQbWYxazVacjRtYldmc0NNNDRha2RoVy1JUXFydHNKYkRDS2padmRSOW9hQzUzMXAwN0ZxcUZCMlI0aGM0VFZoZw?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",
