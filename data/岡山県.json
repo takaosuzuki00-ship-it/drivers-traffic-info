@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-13T06:07:47.601081",
+  "generated_at": "2026-09-13T09:09:10.433085",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 23.3,
-    "temp_max": 31.4,
-    "temp_min": 23.3,
-    "precip_prob_max": 100,
-    "precip_sum": 0.3,
-    "wind_speed": 4.1,
+    "temp_now": 27.4,
+    "temp_max": 30.9,
+    "temp_min": 23.5,
+    "precip_prob_max": 99,
+    "precip_sum": 0.5,
+    "wind_speed": 4.3,
     "hourly": [
       {
         "time": "00:00",
         "temp": 24.1,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 23.6,
+        "temp": 23.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 23.3,
+        "temp": 23.5,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 26.7,
+        "temp": 27.4,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "12:00",
         "temp": 30.1,
         "weather": "晴れ",
-        "precip_prob": 33
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 31.4,
+        "temp": 30.9,
         "weather": "弱い霧雨",
-        "precip_prob": 94
-      },
-      {
-        "time": "18:00",
-        "temp": 29.4,
-        "weather": "晴れ",
         "precip_prob": 92
       },
       {
-        "time": "21:00",
-        "temp": 27.2,
+        "time": "18:00",
+        "temp": 29.2,
         "weather": "晴れ",
-        "precip_prob": 35
+        "precip_prob": 90
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 43
       }
     ]
   },
