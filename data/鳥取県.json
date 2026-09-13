@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-13T21:02:48.995129",
+  "generated_at": "2026-09-14T00:03:50.653520",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.2,
-    "temp_max": 30.9,
-    "temp_min": 23.2,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 24.3,
+    "temp_max": 29.3,
+    "temp_min": 21.1,
     "precip_prob_max": 100,
-    "precip_sum": 1.1,
-    "wind_speed": 4.7,
+    "precip_sum": 20.8,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.7,
+        "temp": 24.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 37
       },
       {
         "time": "03:00",
-        "temp": 23.4,
+        "temp": 24.5,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 51
       },
       {
         "time": "06:00",
-        "temp": 23.2,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 28.1,
-        "weather": "晴れ",
-        "precip_prob": 43
+        "temp": 27.8,
+        "weather": "快晴",
+        "precip_prob": 51
       },
       {
         "time": "12:00",
-        "temp": 30.9,
-        "weather": "晴れ",
-        "precip_prob": 94
-      },
-      {
-        "time": "15:00",
-        "temp": 25.7,
-        "weather": "弱い霧雨",
+        "temp": 25.1,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
-        "time": "18:00",
-        "temp": 26.1,
-        "weather": "晴れ",
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "霧雨",
         "precip_prob": 98
       },
       {
+        "time": "18:00",
+        "temp": 22.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
         "time": "21:00",
-        "temp": 25.2,
-        "weather": "晴れ",
-        "precip_prob": 41
+        "temp": 21.4,
+        "weather": "強い霧雨",
+        "precip_prob": 90
       }
     ]
   },
