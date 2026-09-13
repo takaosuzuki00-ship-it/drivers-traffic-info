@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T03:00:57.333865",
+  "generated_at": "2026-09-14T06:01:18.333933",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
@@ -7,28 +7,28 @@
     "code": 65,
     "weather": "強い雨",
     "temp_now": 21.5,
-    "temp_max": 22.8,
+    "temp_max": 22.6,
     "temp_min": 19.4,
     "precip_prob_max": 100,
-    "precip_sum": 52.9,
-    "wind_speed": 6.2,
+    "precip_sum": 52.4,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.5,
+        "temp": 21.6,
         "weather": "強い雨",
         "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 21.5,
+        "temp": 21.6,
         "weather": "弱い雨",
         "precip_prob": 98
       },
       {
         "time": "06:00",
-        "temp": 21.6,
-        "weather": "弱い雨",
+        "temp": 21.5,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 22.6,
-        "weather": "霧雨",
+        "temp": 22.4,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
         "temp": 22.6,
-        "weather": "弱い霧雨",
+        "weather": "曇り",
         "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 21.2,
-        "weather": "晴れ",
+        "temp": 21.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 92
       },
       {
         "time": "21:00",
         "temp": 20.0,
-        "weather": "晴れ",
+        "weather": "晴れ時々曇",
         "precip_prob": 78
       }
     ]
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "【速報】大仙市の国道13号で交通事故 一部区間で通行止め 秋田 10日（午後2時） (ABS秋田放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzE4cGRBQXQwbzF0Rl9NNklJVUM0dTJCS0V2VDQ0NHFEbERFa0VKY3ZhSnhjWlhadzBWTF9zUW5EU1J5QnNoLWdhSVdwc1lJeGcxLUxWSUY1aHI2QXBkUVFJSXFGSXJBTVZHeXc4LXNFT0dFcG1oeHg1RUR1Qkx3Qy1YazJZSC03R1NWMS13?oc=5",
-      "date": "Thu, 10 Sep 2026 05:03:00 GMT"
-    },
-    {
       "title": "【速報】大仙市の国道13号で交通事故 一部区間で通行止め 秋田 10日（午後2時）（2026年9月9日掲載）｜ABS NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0lsWXhmQ2d3WHF3X0VDd25BaDdJRTVIOUZLcC0tMC1kODdNdDFyT19rZzlhRl9naFlNUGtKQUtram9WdC1UZHJ1N2ZQT3NZSTBnb0dtYkRoTjg2QWFOOGRBZVprbXZhUHVHVkNXdmZvY2NkR0ZEWmdzZE1HbTlyUkJpNk9SVUk?oc=5",
       "date": "Thu, 10 Sep 2026 05:03:00 GMT"
@@ -112,9 +107,14 @@
       "date": "Thu, 03 Sep 2026 07:56:00 GMT"
     },
     {
-      "title": "上小阿仁村の国道で車同士の事故 軽乗用車の８０代男性死亡 ／秋田",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuX1RhbVNwVllWU2c0RkJJWmZ6NWFZT3N3bWo4bGlOQlhZTTJ1aml2d0pkSDdCMEhnemdGcnNxejVGVDFfcHk5dmQ4WFkwS2dxbjB3Q2VJYzlmOFIwR3dkT0FEQQ?oc=5",
-      "date": "Fri, 04 Sep 2026 10:30:00 GMT"
+      "title": "秋田道、交通事故のため通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkYVNDZGc4QXpabV9JQVZLd2ZsOTJoRzhtSUhVUUxDSGt6V3RuS2tTM1N2N2xxbGFqazA4YUZtYUJNQTUzNVMtN2kwcS1oM3NKLWRxVElzQmxjM1g3ZzlHVw?oc=5",
+      "date": "Thu, 27 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山口県に住む自衛官の男を逮捕　車を運転中に事故を起こし立ち去った疑い　男は容疑を一部否認　秋田・北秋田市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlOWMtM3luVm9UV19tRkdLU1JGZkhJenBjeUtSekh1by1uRDdMWWVzQW1JLVNVRi15R1Y2b2VXTDRzY2djeE1yVnJGY2tEM1pua2pTbjZ5c2FYcHdydXdjZ1ZyQnV6Zm1MVjFIWmo0bldadDJFSlljZmFWONIBgAFBVV95cUxQdF9GTWZrSUVkOEI5eGRQQUN2d2stZ3loWW4zbEgySmtHc2ZzX0ItUktCZmRWMlZDRnJKUlVrVHBIVVh5S205VDZZZUVPZndoZDN2M25JTWZySTdGamZzR1liamh3QlVhVzVjMXhtc1RYOFM0YkEtWm9zb3VneDhJUw?oc=5",
+      "date": "Thu, 10 Sep 2026 02:37:00 GMT"
     }
   ],
   "official_links": [
