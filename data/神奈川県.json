@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-13T09:04:19.459176",
+  "generated_at": "2026-09-13T12:02:32.587546",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 22.4,
-    "temp_max": 25.5,
-    "temp_min": 21.5,
-    "precip_prob_max": 2,
-    "precip_sum": 0.2,
-    "wind_speed": 5.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 24.7,
+    "temp_max": 26.0,
+    "temp_min": 21.1,
+    "precip_prob_max": 16,
+    "precip_sum": 0,
+    "wind_speed": 5.1,
     "hourly": [
       {
         "time": "00:00",
@@ -27,37 +27,37 @@
       },
       {
         "time": "06:00",
-        "temp": 21.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 16
       },
       {
         "time": "09:00",
         "temp": 22.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
-      },
-      {
-        "time": "12:00",
-        "temp": 24.5,
-        "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "12:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
         "time": "15:00",
-        "temp": 25.3,
+        "temp": 25.7,
         "weather": "快晴",
         "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 25.1,
+        "temp": 25.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 24.8,
+        "temp": 24.9,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -68,6 +68,11 @@
       "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通取り締まり不正で７人書類送検 反則切符や調書に虚偽内容記載―違反２７００件是正・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxeHBIeXl0WXdDR25TSFNlcm1iOUZmNEVyOHNxcFJ1X2RMMldDVzB0a1l5SUo3QzB6em5mdTRLWFo5M0tXc0hUVllXOThhdGlQWjNySDRKWWI4ZHlwblZGSF81MA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "神奈川県の少年(17)を麻薬取締法違反の疑いで逮捕 庄内町で大麻を所持か（山形）",
@@ -83,21 +88,16 @@
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "首都高横羽線で5台絡む事故 4人軽傷 一部区間で一時通行止めも 神奈川・川崎市（FNNプライムオンライン（フジテレビ系））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TFFpRVZQNGU0UHNSUXBXaF9tWjJNWFFXVXFzYTBlcHZ1WTc4dzJKWmYwNzdmeDZNQzRfY1hPTHQ3d2FXbW00MzFqdFY3dXFQTlMxQU5FcGlXZGwxTGZyLUZyTmp2d0pFVGprUHE3SW5QMENWMFJCVkViQnJzZ28?oc=5",
-      "date": "Sat, 12 Sep 2026 21:33:00 GMT"
+      "date": "Sat, 12 Sep 2026 21:24:24 GMT"
     },
     {
-      "title": "【速報】ひき逃げで25歳男性死亡 神奈川・横浜市旭区",
+      "title": "【速報】ひき逃げで25歳男性死亡 神奈川・横浜市旭区 - news.tv",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04dldWMmF4dlBEWC16OTF1MmFNTjdjYl8zQVByWEt1eG1XZEVSOEFyTEhMX2xXbExVY2NVYTFlWU16MU5UZ2o0SVRsMVplMUtXQU1iNDZuN2twazRzQmJzc0tUN09rTTh4RlNXcW9xY1lyZw?oc=5",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
@@ -107,14 +107,14 @@
       "date": "Sat, 12 Sep 2026 09:58:48 GMT"
     },
     {
-      "title": "【速報】相模原市17歳男子高校生死亡事件 高校生と一緒にいた男子中学生（14）への傷害容疑で少年4人を逮捕 男子高校生の死亡にも関与か 神奈川県警",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zOGZ2OXo5ZVpaNHRLZlVxRGVJeXRQRndFY1hyYktOaHFpa3lJM1FPNHNRUF92VkZEU2hlWnVmNllUNlBjYWhFYnRwYjdTUlA4R1NSSnlZT3dEeUpJcDFRV0hEbl9rUzE3S21kekNGc1Zscko1b3FHamFaREo?oc=5",
-      "date": "Fri, 11 Sep 2026 03:30:00 GMT"
-    },
-    {
       "title": "三浦・城ケ島で波にさらわれた男児が死亡 岩場から沖合３０メートルの海中で発見（カナロコ by 神奈川新聞）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJaEdwalJ3WjhFbktDdkZTVUwxLTVhNGxQemdfbndyY0dZT29FOWR2RjBzOVhHT3VfdkkyT2R1blRJb21aQVMwTW9jeEk1U0l1YzB2eVRTVUxwemljcHJWRXk2ODBTTzNWeXFMR1Excmw0RW42RkJQMDBaYlZiZms?oc=5",
       "date": "Thu, 10 Sep 2026 08:20:21 GMT"
+    },
+    {
+      "title": "【速報】相模原市17歳男子高校生死亡事件 高校生と一緒にいた男子中学生（14）への傷害容疑で少年4人を逮捕 男子高校生の死亡にも関与か 神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zOGZ2OXo5ZVpaNHRLZlVxRGVJeXRQRndFY1hyYktOaHFpa3lJM1FPNHNRUF92VkZEU2hlWnVmNllUNlBjYWhFYnRwYjdTUlA4R1NSSnlZT3dEeUpJcDFRV0hEbl9rUzE3S21kekNGc1Zscko1b3FHamFaREo?oc=5",
+      "date": "Fri, 11 Sep 2026 03:30:00 GMT"
     }
   ],
   "official_links": [

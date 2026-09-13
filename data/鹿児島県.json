@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-13T09:11:58.148667",
+  "generated_at": "2026-09-13T12:07:21.156670",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 27.4,
-    "temp_max": 29.9,
-    "temp_min": 26.3,
-    "precip_prob_max": 50,
-    "precip_sum": 0,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 28.5,
+    "temp_max": 30.2,
+    "temp_min": 26.2,
+    "precip_prob_max": 56,
+    "precip_sum": 0.1,
     "wind_speed": 4.7,
     "hourly": [
       {
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 26.3,
+        "temp": 26.2,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 12
       },
       {
         "time": "09:00",
-        "temp": 27.4,
+        "temp": 27.3,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 24
       },
       {
         "time": "12:00",
         "temp": 28.5,
-        "weather": "快晴",
-        "precip_prob": 25
+        "weather": "晴れ",
+        "precip_prob": 55
       },
       {
         "time": "15:00",
-        "temp": 29.8,
-        "weather": "晴れ",
-        "precip_prob": 47
+        "temp": 30.2,
+        "weather": "快晴",
+        "precip_prob": 51
       },
       {
         "time": "18:00",
-        "temp": 29.0,
+        "temp": 29.1,
         "weather": "晴れ",
         "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 28.1,
+        "temp": 28.0,
         "weather": "快晴",
-        "precip_prob": 14
+        "precip_prob": 0
       }
     ]
   },
