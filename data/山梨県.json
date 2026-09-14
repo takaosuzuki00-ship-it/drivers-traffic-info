@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-14T12:02:27.738833",
+  "generated_at": "2026-09-14T15:02:27.457783",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 31.5,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 29.0,
     "temp_max": 31.7,
     "temp_min": 21.4,
     "precip_prob_max": 98,
-    "precip_sum": 1.3,
-    "wind_speed": 7.4,
+    "precip_sum": 0.4,
+    "wind_speed": 9.8,
     "hourly": [
       {
         "time": "00:00",
@@ -33,32 +33,32 @@
       },
       {
         "time": "09:00",
-        "temp": 26.6,
+        "temp": 26.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 31.5,
+        "temp": 31.1,
         "weather": "快晴",
         "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 29.7,
-        "weather": "晴れ時々曇",
+        "temp": 29.0,
+        "weather": "晴れ",
         "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 25.7,
+        "temp": 26.2,
         "weather": "弱い霧雨",
         "precip_prob": 94
       },
       {
         "time": "21:00",
-        "temp": 23.6,
-        "weather": "晴れ",
+        "temp": 24.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 98
       }
     ]
@@ -92,9 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "中央道・岩殿トンネルで車横転 親子3人が軽傷 車線変更の際に観光バスの側面と衝突 山梨・大月市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QVlJOM3ZJRjBLa0J6dmFzTGlKZTF0dFdzSS1feXpwOWF4YUVmeVBCV1R1NnB5eklXM0JLU1cycFRyRkJOR1JOSWVuenVkTG12NnY1aUVwNlRrVTZZQVBKcHJoYU1nWkpyTmpGVWMxMVVjSXNSZXhjbnJYRlBRVDQ?oc=5",
-      "date": "Sun, 13 Sep 2026 06:53:19 GMT"
+      "title": "今年発生した交通事故 4割弱が高齢者が関係 県下警察署長会議で本部長が対策推進を訓示 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mcnlxZ3YzVnZlTTFqVXdXMUM2ekt4VGFSRWswZkxHa1ZPV09Bd0gxTmRqUlRKdC1wNE9PR0g4MFpUNVZnSV9scHJaVzZZUnd6Z2U5aGR0Nldtdw?oc=5",
+      "date": "Mon, 14 Sep 2026 03:00:00 GMT"
+    },
+    {
+      "title": "今年発生した交通事故 4割弱が高齢者が関係 県下警察署長会議で本部長が対策推進を訓示 山梨（UTYテレビ山梨）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yR1BvVVlRYU82ZzVMLXE0dUtLSHJSM0R1aDRpOWoybE5vNUVjNU16YjlTNjRyYS1IbXJKUWxCUU1vb2hNaEt2OXVOamlqZ2Z1LTcwNmpHdWNUTlBBMnpVWUU0elZ4REdjYmZ6eHFQSk1BSTV2ak8wMElWTHhfYjg?oc=5",
+      "date": "Mon, 14 Sep 2026 03:07:14 GMT"
+    },
+    {
+      "title": "中央道トンネルで車が観光バスと衝突し横転 車線変更の際に側面とぶつかる 親子3人けが 山梨・大月市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90R1FicW44a0dwWGRHZHNMLURsVnB0YkhzSmJMd29wLU40MDNUYXpTcnlWMlRncEVmNzJRSDhwV3k5MDhoUXlfWnlCcU5vUjB2d2RuZVQ4aEEzWTJhUl9fX0hUVnkzTmVPaC1iQjd0djVrQnlMWTBYSno3QTZtOTQ?oc=5",
+      "date": "Sun, 13 Sep 2026 21:42:24 GMT"
     },
     {
       "title": "中央道・岩殿トンネルで車が観光バスと衝突、横転 乗用車に乗っていた親子3人軽傷 山梨・大月市",
@@ -102,19 +112,9 @@
       "date": "Sun, 13 Sep 2026 22:30:00 GMT"
     },
     {
-      "title": "男から整骨院の院長にもちかけたか 交通事故のけがの治療費を水増し、保険金をだまし取った疑い 男を送検",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQMnlsU3BoMnlySjhPcTFnS3FpMkc2NEt1Q2NHcDdlZVFtaV9SSzZLcEZKekhadVpaNXdydXdVNm1ONnR6MDg0cTlsbGRnVXAta2NtVXZ6bTFXY19PQURvZHJUZ0JXMVE?oc=5",
-      "date": "Tue, 08 Sep 2026 11:03:00 GMT"
-    },
-    {
-      "title": "軽乗用車がバイク2台に衝突し2人死傷 酒気帯び運転か 運転の男を現行犯逮捕 山梨",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXAtRGM5SWYzd1k3dU85WHpqNzN4RVNEUlUyNTh0TlJUVmZuaXc1eDUtZWVTcVdYWTNMT0VPMFR0SWJLY08yenB2R2tnNUprRF9pTXQzaS1sU0Z3S1NEUmhmSklXR1o0V0RiYjlhQnJyN1ZZX0ZZdV9VUDNBWGNGV3BFZkJyc0E?oc=5",
-      "date": "Tue, 28 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通事故で３等陸曹を戒告 北富士駐屯地",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Vem16U1FjWTFsc2l2Mm1xM3NnczVhOG9lamJyU2xJZXZlY3VlbXhTWUVyR0R3ZnJCU2xIVjVzVE41VjRGYUVicngwLXFQTDBKZUVodGZETVNJcjQ0M3FDcjZ0WFFRWXFtVzJjbEFwWE9VSHFTdlNiTzZ3?oc=5",
-      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+      "title": "ロッククライミング中に男性が岩場から転落、死亡 山梨・瑞牆山（UTYテレビ山梨）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhX3puWWMtUEpFNVlEdFdSYVpHYzg3ZlY0dVhBWmxMN3hZX1dPRy0zQlJPTldqUnhEYzVQZ0J1VW9QR0N2cGIzelk0N2p6SmctMHU2bVh6WXdNc2hyN1drOW5sZEgxNGtZLTNSQW5jODJkNXMwM2xKVlFmeDVabmM?oc=5",
+      "date": "Thu, 10 Sep 2026 12:32:13 GMT"
     }
   ],
   "official_links": [
