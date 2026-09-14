@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-15T00:01:40.361593",
+  "generated_at": "2026-09-15T03:01:28.488364",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 25.4,
-    "temp_max": 26.5,
-    "temp_min": 23.4,
-    "precip_prob_max": 92,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.0,
+    "temp_max": 26.7,
+    "temp_min": 24.0,
+    "precip_prob_max": 97,
     "precip_sum": 36.1,
-    "wind_speed": 11.5,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 25.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 84
+        "temp": 25.9,
+        "weather": "曇り",
+        "precip_prob": 45
       },
       {
         "time": "03:00",
-        "temp": 23.4,
-        "weather": "弱い雨",
-        "precip_prob": 69
+        "temp": 25.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 35
       },
       {
         "time": "06:00",
-        "temp": 23.6,
+        "temp": 24.3,
         "weather": "雨",
-        "precip_prob": 78
+        "precip_prob": 90
       },
       {
         "time": "09:00",
-        "temp": 25.6,
-        "weather": "強い雨",
-        "precip_prob": 92
+        "temp": 25.2,
+        "weather": "雨",
+        "precip_prob": 96
       },
       {
         "time": "12:00",
-        "temp": 26.4,
-        "weather": "曇り",
-        "precip_prob": 78
+        "temp": 25.7,
+        "weather": "強い霧雨",
+        "precip_prob": 88
       },
       {
         "time": "15:00",
-        "temp": 25.8,
+        "temp": 26.3,
         "weather": "弱い霧雨",
-        "precip_prob": 61
+        "precip_prob": 55
       },
       {
         "time": "18:00",
-        "temp": 25.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 37
+        "temp": 25.8,
+        "weather": "曇り",
+        "precip_prob": 18
       },
       {
         "time": "21:00",
-        "temp": 25.0,
+        "temp": 25.1,
         "weather": "弱い霧雨",
-        "precip_prob": 41
+        "precip_prob": 29
       }
     ]
   },
