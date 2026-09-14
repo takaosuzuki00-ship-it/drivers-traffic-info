@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-14T09:01:07.955309",
+  "generated_at": "2026-09-14T12:00:55.083710",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 21.6,
-    "temp_max": 22.7,
-    "temp_min": 20.0,
+    "temp_now": 21.4,
+    "temp_max": 22.5,
+    "temp_min": 19.6,
     "precip_prob_max": 100,
-    "precip_sum": 53.9,
-    "wind_speed": 3.8,
+    "precip_sum": 78.3,
+    "wind_speed": 6.3,
     "hourly": [
       {
         "time": "00:00",
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 21.2,
+        "temp": 21.7,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "09:00",
         "temp": 21.6,
-        "weather": "霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "12:00",
-        "temp": 21.9,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "15:00",
-        "temp": 22.4,
-        "weather": "霧雨",
+        "weather": "雨",
         "precip_prob": 100
       },
       {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 98
+      },
+      {
         "time": "18:00",
-        "temp": 22.2,
+        "temp": 21.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "precip_prob": 78
       },
       {
         "time": "21:00",
-        "temp": 20.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 20.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 86
       }
     ]
   },
