@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-09-15T21:01:04.688634",
+  "generated_at": "2026-09-16T00:00:37.984442",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 15.0,
-    "temp_max": 21.0,
-    "temp_min": 12.3,
-    "precip_prob_max": 0,
+    "temp_now": 11.2,
+    "temp_max": 22.7,
+    "temp_min": 8.7,
+    "precip_prob_max": 18,
     "precip_sum": 0,
-    "wind_speed": 3.6,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.1,
-        "weather": "晴れ時々曇",
+        "temp": 11.2,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 15.5,
+        "temp": 9.5,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.2,
+        "temp": 9.0,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.9,
-        "weather": "曇り",
+        "temp": 19.5,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 21.0,
+        "temp": 22.7,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 20.0,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 21.7,
+        "weather": "晴れ",
+        "precip_prob": 18
       },
       {
         "time": "18:00",
-        "temp": 17.5,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 15.0,
-        "weather": "快晴",
+        "temp": 15.3,
+        "weather": "曇り",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
     {
       "title": "北海道警察 高速道路 速度取締指針",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
@@ -83,11 +88,6 @@
       "title": "GO TO警察はまっぴらごめん! 北海道警の「3密(秘密/隠密/綿密)」な交通取り締まりを回避せよ! 【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmUnBJUFpnQmpXMHFfaXBLSnpScFp2UXdkb3FibXlaZlR2eWxhaUdHcm84dU15QUNfay16NXJiZmE2TGdOSFJtLVFtOEZWQQ?oc=5",
       "date": "Sun, 01 Oct 2017 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転の取り締まりを北海道警が強化－札幌の検問では酒気帯び運転の疑いで男1人を現行犯逮捕…2014年7月13日小樽市で飲酒運転の車が4人死傷させる“ひき逃げ”事件発生－13日は「飲酒運転根絶の日」（北海道ニュースUHB）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Q1RySElCSklST1hsc1dZZ0I2aTFDNnJjdlc3aXVGWTAzRC16TmIxRjNvaVEwRm5fRnNQMVplazd2eGVwSnFHMU1WMXNGNmtnS2pNZEFoZGZJaTJSOWcweFZrUTE3bE5Kc19FcEliRU9xZjl6VC1ndk5FbFkxU3c?oc=5",
-      "date": "Sat, 11 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Fri, 11 Sep 2026 03:41:00 GMT"
     },
     {
-      "title": "【北海道内で事故相次ぐ】札幌市東区で乗用車が信号待ちの軽自動車に衝突し横転した3台絡む事故で30代男性搬送_石狩ではトレーラーと軽自動車が衝突し50代女性軽傷",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wbGJaZVNyYnMyaG5Ydk9LMGJkQTdtSVNHbVpWRzk3cjBRX2R4VEQ5ZXI2SnA2a3M2Wmd3MzdJTURSVjNRaUVqZmJVelBEbnlYWExSNHkzcw?oc=5",
-      "date": "Fri, 11 Sep 2026 11:59:02 GMT"
-    },
-    {
       "title": "新千歳空港IC近くの道道で乗用車とトレーラーが正面衝突 乗用車が全焼し男女2人死亡・幼い女児が重傷 北海道苫小牧市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNGxUbkhQdy0tQ05yVm1HY1E0T3JJZ3lNMzJlblFNOWJmWEdjOVFVSUZpT1lZeEhCaUNwWDRqVFF6RzdqTXVfRVR6aUw3eGw4VnZmUlNhMEk3NVA0dFNURlhWRFRNaW8?oc=5",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【北海道内で事故相次ぐ】札幌市東区で乗用車が信号待ちの軽自動車に衝突し横転した3台絡む事故で30代男性搬送_石狩ではトレーラーと軽自動車が衝突し50代女性軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wbGJaZVNyYnMyaG5Ydk9LMGJkQTdtSVNHbVpWRzk3cjBRX2R4VEQ5ZXI2SnA2a3M2Wmd3MzdJTURSVjNRaUVqZmJVelBEbnlYWExSNHkzcw?oc=5",
+      "date": "Fri, 11 Sep 2026 11:59:02 GMT"
     }
   ],
   "official_links": [

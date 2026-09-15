@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-15T21:01:14.200373",
+  "generated_at": "2026-09-16T00:00:47.055033",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 18.2,
-    "temp_max": 19.6,
-    "temp_min": 17.6,
-    "precip_prob_max": 100,
-    "precip_sum": 16.3,
-    "wind_speed": 3.7,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.9,
+    "temp_max": 24.9,
+    "temp_min": 17.3,
+    "precip_prob_max": 7,
+    "precip_sum": 0,
+    "wind_speed": 5.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 17.9,
+        "weather": "曇り",
+        "precip_prob": 4
       },
       {
         "time": "03:00",
-        "temp": 17.9,
-        "weather": "霧雨",
-        "precip_prob": 94
+        "temp": 17.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.6,
-        "weather": "弱い雨",
-        "precip_prob": 96
+        "temp": 17.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.8,
-        "weather": "霧雨",
-        "precip_prob": 98
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 19.4,
-        "weather": "曇り",
-        "precip_prob": 94
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 49
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.2,
+        "temp": 19.0,
         "weather": "曇り",
-        "precip_prob": 12
+        "precip_prob": 2
       }
     ]
   },
