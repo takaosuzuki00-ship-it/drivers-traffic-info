@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-15T09:00:36.323532",
+  "generated_at": "2026-09-15T12:00:45.259442",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 18.2,
-    "temp_max": 18.5,
-    "temp_min": 16.7,
-    "precip_prob_max": 98,
-    "precip_sum": 17.5,
-    "wind_speed": 7.9,
+    "temp_now": 19.9,
+    "temp_max": 20.0,
+    "temp_min": 17.1,
+    "precip_prob_max": 100,
+    "precip_sum": 16.1,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 18.5,
         "weather": "弱い雨",
-        "precip_prob": 90
+        "precip_prob": 100
       },
       {
         "time": "03:00",
@@ -29,37 +29,37 @@
         "time": "06:00",
         "temp": 17.6,
         "weather": "弱い雨",
-        "precip_prob": 94
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 18.2,
-        "weather": "強い霧雨",
-        "precip_prob": 98
+        "temp": 18.7,
+        "weather": "霧雨",
+        "precip_prob": 90
       },
       {
         "time": "12:00",
-        "temp": 17.5,
-        "weather": "霧雨",
-        "precip_prob": 94
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
       },
       {
         "time": "15:00",
-        "temp": 18.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 19.7,
+        "weather": "霧雨",
+        "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 17.6,
+        "temp": 18.3,
         "weather": "弱い霧雨",
-        "precip_prob": 65
+        "precip_prob": 78
       },
       {
         "time": "21:00",
-        "temp": 17.1,
-        "weather": "曇り",
-        "precip_prob": 33
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
       }
     ]
   },
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "盛岡の国道で交通事故、大学生が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GLUJzTld6ekljbmRXM2hlRWlGOWVEcm02NXRSZWxUcUJidlZjb0NqVzlNaHUyblJqV1k5bzlHNk5jUVNYLTRETkpEUF8xREtNSUJwWmVoTW5fZTBja3JFYw?oc=5",
-      "date": "Mon, 14 Sep 2026 03:13:00 GMT"
-    },
-    {
       "title": "盛岡市の国道 20代男性はねられ死亡 岩手県",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRk12elYwTVRZTWl3Y2g1Z0I4VERTbW50SDJ6V0hqQUQ2S0hDNzFKbUsyMDMwVUVBa2lTY2ppNTNxY0FPS0VxMDMzbDl4U1BrYWJxNE1QY2dQU0ZIeV94Z3FENHg5dHdoWW5YbXhOelB1UHF5T3NJRGZvNng2SEk?oc=5",
       "date": "Mon, 14 Sep 2026 03:47:00 GMT"
+    },
+    {
+      "title": "車にはねられ２０代男性死亡【岩手・盛岡市】",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGhvS0t2dGhvbklWcXgzY3FfckxMS2NmQWh6VE11TWh5RzJQRFV3dTEwYTNvbmY3UjJ4SGZ5NXFSTGNnUjVZLWpUblVLaGxvNjFsUy04akNOTl83VWxYY3pveDZPRmhQdVZMSnVpUjZVbTFiUlJqZ1RyUEdtc3JzTUVR0gF0QVVfeXFMTjhtWjF2Y2hlR3NwS1gyLWpIellvQnN5UWwySGo5YXIxNFlMVW5DM1FIbGY5a0FGUXF4LUQxWW1oNXJTaU5meS1NRVlaR3BnRVY1eEJROGV5UGdieHdaQTN5ZHYyaHFCMFpPU0VCeE5NSklOWmo?oc=5",
+      "date": "Mon, 14 Sep 2026 02:37:00 GMT"
     },
     {
       "title": "国道を歩いていた男子大学生が車にはねられ、病院に搬送後死亡 盛岡市（IBC岩手放送）",
@@ -112,9 +112,9 @@
       "date": "Mon, 14 Sep 2026 03:47:00 GMT"
     },
     {
-      "title": "国道を歩行中の大学生が車にはねられ死亡 岩手・盛岡市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wX182cjRieVFxMVNlX1hJQjlDeUlYSXNQVUtiS2FJSFJ3M29VaG9NYnZIRkJtRnc4eVY2QU9iY2NZem5yOVo1Vmg4bXV5Mjl1RHhuXzV2MGxXOU1fcWhrSnc2a2RGNC1DVlp2QWQyZzVMcFpoRkhCanBtZWZIb1k?oc=5",
-      "date": "Mon, 14 Sep 2026 10:14:00 GMT"
+      "title": "渓流釣りの85歳男性死亡 目立った外傷なし 岩手県八幡平市の国有林",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhaElIWTR1Rk83c3pDWmJ1YTNBLURDSHZKQU9IZThSSGRVS1VZRGVSY01pT0ZCV1pjRHBKdy14bDlLWDVySG1FUEVwdzFIZw?oc=5",
+      "date": "Sun, 13 Sep 2026 09:35:00 GMT"
     }
   ],
   "official_links": [
