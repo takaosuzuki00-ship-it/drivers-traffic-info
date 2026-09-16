@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-16T09:02:22.526293",
+  "generated_at": "2026-09-16T12:02:23.443304",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 22.4,
-    "temp_max": 23.7,
-    "temp_min": 22.1,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 23.3,
+    "temp_max": 23.8,
+    "temp_min": 21.9,
     "precip_prob_max": 100,
-    "precip_sum": 16.6,
-    "wind_speed": 8.6,
+    "precip_sum": 5.0,
+    "wind_speed": 5.2,
     "hourly": [
       {
         "time": "00:00",
@@ -27,21 +27,21 @@
       },
       {
         "time": "06:00",
-        "temp": 22.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 73
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 22.4,
-        "weather": "雨",
-        "precip_prob": 53
+        "temp": 23.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
       },
       {
         "time": "12:00",
-        "temp": 22.7,
-        "weather": "強い霧雨",
-        "precip_prob": 82
+        "temp": 23.3,
+        "weather": "霧雨",
+        "precip_prob": 96
       },
       {
         "time": "15:00",
@@ -51,28 +51,28 @@
       },
       {
         "time": "18:00",
-        "temp": 23.0,
+        "temp": 22.9,
         "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
         "temp": 22.1,
-        "weather": "晴れ",
-        "precip_prob": 96
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "９月１６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnQwaUdLd3c5Y3hmZ09EenRZUUZpeV9XaVJwZnhTcVFNU3NkdHNMZFpzXzg2bmRmQm03MUF6ZGxxQnMxaEQ5ejBMdEF6WERXZ2hNbGdZMUtsRE1NSW9vWE12b1U3WjMweXFRNVQyMF8zM3N1akJHZEp2ZTVVeEdDWW5iOWTSAXdBVV95cUxOU01lNGNUZHZJYnFfTW80eFVZdjdhaGdCNEVKSXdZZ01jMlkyb3NwbTBwNzhrS2hFbFlKVFlNQ29VcUlVemxuR2c3THJiMVdZcG96T0N0S21DQm1jczJlNGZOSV9zOG91Q3IxcjBkS21SMWkxczk4cw?oc=5",
+      "date": "Tue, 15 Sep 2026 23:08:07 GMT"
+    },
+    {
       "title": "公開交通取締り",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TaWlEMVY3NmVpT2dNMEVGd2Nqb09DU3pUekFfdlZSY25MN3VTNXpBYlM2UDBMZWxKVkIzNVZZRnZHNHF6QnZHWndWbzlYQ01rQ3BCeU1xMk1kWV80Mmxzbw?oc=5",
       "date": "Mon, 07 Sep 2026 12:26:25 GMT"
-    },
-    {
-      "title": "９月１４日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Dczk4bW80emFFT1p1UlBoM05RREJVdkt3ZVpMbjJBMk5kank4bi1jOGlPS1pfb3gtUmdIZkgtSFlRcUtOY3BsaXhBVXZoclE5aDdNWUlfd3ZjdXZ6akh2MzBtRWFaNTBzX0dXRDNreC1xQdIBd0FVX3lxTE1ZckNjNnc3NlVYTjlVdXotMVVjV05uYzJ2bTdlZnNVbVRIQjhjNHlpN29UWUU1cEliQnJyQnlMQks2d3hyRF9XaU9vZ2g2V1gxRUNMbUk0bzhGMzZKRWJUdXVYWHhJRUdRS243dGtlTW9wMXBBallF?oc=5",
-      "date": "Sun, 13 Sep 2026 20:00:00 GMT"
     },
     {
       "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
@@ -80,14 +80,14 @@
       "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "9月13日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VTzNnZ2lxb2RGM0tTbFRzb28ybDZjQWJBR0ZwS0E4QkVVS29LZ0NERlRoZWo2MHlpZV9RdExNZHltMTNuWnp4WmRCZ0phMXpHdDhkODc1QWRIdzRfY3EwVklUWDdEcldjaTBUcFNKRdIBdEFVX3lxTE9vVE0yNGYwS2d6NmlZN3p6ZEJjSEY0UGlwZl9pbzRET1BTeFFSMUZIV0s0LWNnTEpZSGRCLWNfcG9HTTFfMTFCTm9mVHE4bWZmX3JDeTgyMDlLRTNHNDVDSGtfNDFmVm0zZXhoOU5iRThRYnV6?oc=5",
-      "date": "Sat, 12 Sep 2026 20:02:00 GMT"
+      "title": "９月１４日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Dczk4bW80emFFT1p1UlBoM05RREJVdkt3ZVpMbjJBMk5kank4bi1jOGlPS1pfb3gtUmdIZkgtSFlRcUtOY3BsaXhBVXZoclE5aDdNWUlfd3ZjdXZ6akh2MzBtRWFaNTBzX0dXRDNreC1xQdIBd0FVX3lxTE1ZckNjNnc3NlVYTjlVdXotMVVjV05uYzJ2bTdlZnNVbVRIQjhjNHlpN29UWUU1cEliQnJyQnlMQks2d3hyRF9XaU9vZ2g2V1gxRUNMbUk0bzhGMzZKRWJUdXVYWHhJRUdRS243dGtlTW9wMXBBallF?oc=5",
+      "date": "Sun, 13 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "2019年も自動速度違反取締装置、オービス大量撤去の嵐が吹き荒れる？ なんと、上四半期だけで15機が消えた！【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eVZBaE5zREd0NGswbjcydzRPazZzUVJPSmNPWG50Z0QtQkZ3ekxSNFJUZGItWTBkYndSamFleDVmcU42dTlkT3lzQXRobEgtc3lUVl9aR1ZSVE44RzNESVFVSlo?oc=5",
-      "date": "Sat, 30 Mar 2019 07:00:00 GMT"
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
