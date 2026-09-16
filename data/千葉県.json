@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-16T06:01:39.306181",
+  "generated_at": "2026-09-16T09:01:30.594287",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 21.9,
-    "temp_max": 22.9,
-    "temp_min": 20.0,
+    "temp_now": 21.8,
+    "temp_max": 22.5,
+    "temp_min": 19.8,
     "precip_prob_max": 100,
-    "precip_sum": 42.3,
-    "wind_speed": 8.2,
+    "precip_sum": 41.0,
+    "wind_speed": 10.3,
     "hourly": [
       {
         "time": "00:00",
         "temp": 22.5,
         "weather": "弱い霧雨",
-        "precip_prob": 86
+        "precip_prob": 37
       },
       {
         "time": "03:00",
         "temp": 22.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 98
+        "precip_prob": 51
       },
       {
         "time": "06:00",
-        "temp": 21.9,
-        "weather": "強い霧雨",
-        "precip_prob": 98
+        "temp": 21.8,
+        "weather": "弱い雨",
+        "precip_prob": 86
       },
       {
         "time": "09:00",
-        "temp": 22.5,
-        "weather": "霧雨",
+        "temp": 21.8,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 22.8,
-        "weather": "強い霧雨",
-        "precip_prob": 96
+        "temp": 22.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 22.0,
+        "temp": 21.7,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 21.1,
         "weather": "雨",
         "precip_prob": 96
       },
       {
-        "time": "18:00",
-        "temp": 21.2,
-        "weather": "雨",
-        "precip_prob": 98
-      },
-      {
         "time": "21:00",
-        "temp": 20.2,
-        "weather": "霧雨",
-        "precip_prob": 94
+        "temp": 20.5,
+        "weather": "強い霧雨",
+        "precip_prob": 98
       }
     ]
   },
