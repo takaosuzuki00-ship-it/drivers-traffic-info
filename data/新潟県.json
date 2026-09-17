@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-17T09:56:30.022609",
+  "generated_at": "2026-09-17T12:02:02.659977",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 24.5,
+    "temp_max": 24.5,
+    "temp_min": 20.5,
+    "precip_prob_max": 76,
+    "precip_sum": 1.6,
+    "wind_speed": 15.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      },
+      {
+        "time": "03:00",
+        "temp": 20.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "06:00",
+        "temp": 20.9,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月16日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hUV95c1pKdHd0cVlfcC14Z0VOd1lQOFdUNW0tWVZRWGVhazR1M1VkZWluNG10MS1vMURlRmlvSUdqQTRKRlZTeS1HdzlvQVlsQkduVThxc1NMRTRzd0Nxc3I5cGtoNzNzY05GcGhfZ9IBdEFVX3lxTFBmYmJmVnZWdWJnZFBvWG9jU0tqNlRuXy1MMnNCMGNJSENRYnVfZEZkNk5IYzdPcHFqbGE0cGgycTBkU0tMRWw5YTg0YXpYYUg0Sm5zNk9IcUZnN01yVGo2dXllVHpqRjI1NThCeTFkU2REOU9C?oc=5",
+      "date": "Tue, 15 Sep 2026 20:07:01 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeVRoZVhCbDc3Z29CVjZZTk9yOU5POXdXNmJMMEFVcVV5dnBUeXg1bngwckszUV95VVNyNVE0UnA3VEJGeThubk15eWhvYW0tSElHQllYOUV4U0EwS3puaVplWEVFWmx1allfeXNuVlpQNXBDeElPcnhNSlVtMHV6b0Ftd2g0QWJoSmp4TFBmMjNNTW5KcjJ6anBKRVdtbi05YnB4ekliRkRMZ3h3TEFUcXcwOHN6M2J3S3ljXzF3clZhSm0xR1ZFSGg0SnVPNU5NeTNJaVNIUV83SDBHY19LbXVzTG9XTG0xQlJGb3djQjZnRmQ5Q3VoSi1GMzlvN2hkTmI2MDFpV3JQb0dpTnE3ekVCX2JRYnlZeGRWQzFiLW9nNDUzRFFJMVFuZmRUTEc4R2U3OWJEM2hTa3Nic2ctaEhhQ2d3cjAtQzhF?oc=5",
+      "date": "Mon, 27 Jul 2026 03:15:30 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
+      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "９月１２日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVm1HUVJYa2FLTWE3Mm42X0dvLUp1aTVnME4wek9DTlE3c0Z2SHdoLThGdmNLNU52QzZjdEZRWXRsTl9nZUZqb3c4VnV1ZWw2RTlBaF96OVNDNlBuUHFfMEo0d0NHRVpBNktQSEhydnNBZ9IBd0FVX3lxTE5DajlvazRFSTBWdmU2MXVkVm5LU1Bmcl93NVktS2w1bTdOYWtrNVVOc2RlazRIWE81eDFpYUNrZXg3RWw2TXBzYklRejgtS2xIb0RMa29RMllZMEZ5MlViYnphSnhaN2swS0k1SVpZRHdLNDFsRnRr?oc=5",
+      "date": "Fri, 11 Sep 2026 20:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "新潟県内 “危ない交差点” ワースト1位はどこ? 見通しの悪い「ズレのある 角度がついた変形道路」で右折事故発生多発",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90T1J1VURTa3N5VjQ5Q3F0VVFRTmVvV3BtcWloM1VaZEF1dGdPVVRPaWJzNjZrSmhaazZENUpKUFVDNnhQcC1mSFdFazEydjVkSlpDUjg2bkRqcGV3NEsyOVJ5M2p1alBWV241MlBqVUpDank4OUpYeXlfaW1xN1k?oc=5",
+      "date": "Wed, 16 Sep 2026 09:49:14 GMT"
+    },
+    {
+      "title": "南魚沼市の関越道で3台絡む事故、新潟市西区の2人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81bUU2eFJyWDBhV2ZjdDhDODNZWFI4NGlWRWswVFl6Wm1HcHdCMjE5c3NuYmh3RDZWdDNSWG1IN2hjaWpJNVJYd3p5S01jeWlXY3RxTVNHS1JWYVVRR2c?oc=5",
+      "date": "Mon, 14 Sep 2026 23:15:00 GMT"
+    },
+    {
+      "title": "新潟の事故多発交差点はどこ？損保協会が2025年データのマップ公開、3市8カ所が「危ない交差点」",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9USXIzZ3dzQzA2WHdxOTlUaWpKWkp1X0RwYWZfclQzb1luMnJfMzhGMkFQUTJidzl3azN6T0NnTUQ4S21TODBMeVNMYw?oc=5",
+      "date": "Wed, 16 Sep 2026 11:30:00 GMT"
+    },
+    {
+      "title": "新潟の国道で盛岡市の男性が自損事故 同乗していた59歳女性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEZHVTbVBCb2xHMTBYcWRGQ1BvUU1LNUc1TnpPM2JoWmJZMlVoM0lUb29zSkxLeFl1dWU5NFBIOXA3RmpHbE5YZDc2VnNUQXBYXzBhTU5VQQ?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "行楽期前に新潟市消防が救助訓練「交通事故で負傷者多数」想定",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRW5VTmVyeGFJak8yUmVJdVZlUUY3d0pTNVAxZU9tNjNPWHUxRnlxOUM2WnlnUmkyMC1FTmtHSk41QXVTRWpCRlFETHZEM3hmWHloUXEya2g?oc=5",
+      "date": "Wed, 16 Sep 2026 07:54:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

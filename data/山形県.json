@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-17T09:29:28.623619",
+  "generated_at": "2026-09-17T12:01:10.141321",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.8,
+    "temp_max": 23.1,
+    "temp_min": 17.4,
+    "precip_prob_max": 98,
+    "precip_sum": 0.4,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.7,
+        "weather": "曇り",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 17.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "06:00",
+        "temp": 17.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "９月１７日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MQmFfODBpcWNfRzE3anQtQUJldTBCbExoNVd6V3U1RXd1ZG0zNG9kOEctUHdPS2dpd2czdXJCai1vZU5aWEMzelRJajRkc243WXVxZTdmWWRWM2lMa1l5cDRZOF81OFJNM3NZZGRUckdlQdIBd0FVX3lxTE16ZTN2bVNpemQ1emozY2hSZThVTy1GS1JTcjNPRFdGeVowVXhIc3hYQnFhVGd4bngtcnZ1OHp4X3pxT3BSZ3ZLcDYzdVpPMnU5NlkzcHhFd2JrZVVNLWdJRFliVVZEQXJlTXV0MkFhWm1ueXpMY0Fz?oc=5",
+      "date": "Wed, 16 Sep 2026 20:10:05 GMT"
+    },
+    {
+      "title": "9月16日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hUV95c1pKdHd0cVlfcC14Z0VOd1lQOFdUNW0tWVZRWGVhazR1M1VkZWluNG10MS1vMURlRmlvSUdqQTRKRlZTeS1HdzlvQVlsQkduVThxc1NMRTRzd0Nxc3I5cGtoNzNzY05GcGhfZ9IBdEFVX3lxTFBmYmJmVnZWdWJnZFBvWG9jU0tqNlRuXy1MMnNCMGNJSENRYnVfZEZkNk5IYzdPcHFqbGE0cGgycTBkU0tMRWw5YTg0YXpYYUg0Sm5zNk9IcUZnN01yVGo2dXllVHpqRjI1NThCeTFkU2REOU9C?oc=5",
+      "date": "Tue, 15 Sep 2026 20:07:01 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "９月１６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnQwaUdLd3c5Y3hmZ09EenRZUUZpeV9XaVJwZnhTcVFNU3NkdHNMZFpzXzg2bmRmQm03MUF6ZGxxQnMxaEQ5ejBMdEF6WERXZ2hNbGdZMUtsRE1NSW9vWE12b1U3WjMweXFRNVQyMF8zM3N1akJHZEp2ZTVVeEdDWW5iOWTSAXdBVV95cUxOU01lNGNUZHZJYnFfTW80eFVZdjdhaGdCNEVKSXdZZ01jMlkyb3NwbTBwNzhrS2hFbFlKVFlNQ29VcUlVemxuR2c3THJiMVdZcG96T0N0S21DQm1jczJlNGZOSV9zOG91Q3IxcjBkS21SMWkxczk4cw?oc=5",
+      "date": "Tue, 15 Sep 2026 23:08:07 GMT"
+    },
+    {
+      "title": "男児行方不明から1週間 水中ドローンでの捜索や同時間帯検問行うも有力な手掛かりなく・・・（山形・酒田市）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUJHd09iTXQ2WGJMblRzWmpZamFoR1lwZmN6bEQ2SExKd2RaZmp3czVBdUY5Q0tzOU1WMjJtUjVWc3JXNUFqZ3FvdENFNE02di1YSktZQkh0UTI4NUtsQmdxRE9DM1lLS1hDc1drdFg5YWJuaklKd3BKd2hXdFpCdlBYRU5aQkk?oc=5",
+      "date": "Sat, 12 Sep 2026 08:44:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "歩行者と車が衝突する事故 60代くらいの男性が救急搬送（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzTV9EdDkwN01wY2pidER0U0d2MkFWUzVDMU5rQnBfOWZGNjdRUDhYUUV6ZEpLdU9sOTVycW10QTIyR3dyaU9EdlY0RXhGaF92YTNGMk1KU3kydw?oc=5",
+      "date": "Tue, 15 Sep 2026 06:22:00 GMT"
+    },
+    {
+      "title": "山形市で66歳男性が車にはねられ死亡 現場は信号機と横断歩道がない道路（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43SnFzWVFGMFIyaWEwcHJkQ0JzN3N6YWFOazJ2QlRpdTNnMi05VG1MZVlfXzVUUkxnRmRPUWxnaGExejJWaVJOYXhRYU54MmtvQWJkSE1MU2lrUG9NOUlyclVqT2FRRnVjR0hpNl9kRjRxREJST2JvUWt4c2VPZVE?oc=5",
+      "date": "Sun, 13 Sep 2026 00:42:17 GMT"
+    },
+    {
+      "title": "片側3車線の市道の真ん中の車線で歩行者がタクシーにひかれ死亡...山形市南栄町で死亡事故｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqT3FGaG9Uei1UZF91M2pPbndNa0NETjNZN21YbkI3Tk1QNGp5TnJKbi1IcEdpUjNOdjAxQUZwUWtHOFpMYk9aWl9vVVlIZi1SWnhCSEl5WmF1b2s1NlBpamtMV21FdjFCamZzdGE0YmpHdTg?oc=5",
+      "date": "Sun, 13 Sep 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【早出し】交通事故を想定、対応確認 山形、福島県境の国道121号大峠トンネルで訓練",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSXgzX2dxNk5JMFFVZEZvZURKTnFyckZtc05OOTlZT18yRjVsdzdGSUVfX2EtNzJEME13U0RsYUxHUUdMRzVZMGl4SzQzdVEtcWQtR0VhcFlQSGFjejFFd3lLLWRVUXRJUFVQWi0zUQ?oc=5",
+      "date": "Fri, 11 Sep 2026 11:44:00 GMT"
+    },
+    {
+      "title": "【速報】山形市で車と歩行者が衝突 男性が意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TFR0WlVwdnZZTHNidmVOclJFSU1TTzZqaFY4N3lVekxPdFlqVW5GemJBeE9SR0EzWFlpMUE3S3RVMy0waW1hM2dTMVV3T3Y4cDh5REdGVmQ2dw?oc=5",
+      "date": "Tue, 15 Sep 2026 07:02:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-17T09:26:28.588426",
+  "generated_at": "2026-09-17T12:01:05.399510",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.1,
+    "temp_max": 26.0,
+    "temp_min": 16.6,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月13日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VTzNnZ2lxb2RGM0tTbFRzb28ybDZjQWJBR0ZwS0E4QkVVS29LZ0NERlRoZWo2MHlpZV9RdExNZHltMTNuWnp4WmRCZ0phMXpHdDhkODc1QWRIdzRfY3EwVklUWDdEcldjaTBUcFNKRdIBdEFVX3lxTE9vVE0yNGYwS2d6NmlZN3p6ZEJjSEY0UGlwZl9pbzRET1BTeFFSMUZIV0s0LWNnTEpZSGRCLWNfcG9HTTFfMTFCTm9mVHE4bWZmX3JDeTgyMDlLRTNHNDVDSGtfNDFmVm0zZXhoOU5iRThRYnV6?oc=5",
+      "date": "Sat, 12 Sep 2026 20:30:35 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKeHFteFh3STNnTWQ5Uk5QOTRnVXJPekZhSEhzaEQ3eUZzSFllMzBRSzVTYU4xU3dXbXpUZUo0MWVXcG1ZMl80OFhhZHpDcVZ5TDF5c1RDYlF3VFcxMUNZMkNn?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWUt6bXVpUzJjT0Zab2FWbmYxbTg1LTRvektfZTVDbEt3cFhiYzBpRXdvaTd6N2lCVkZYa1BFc2lsbW16Q2djSWtIY0RNMXg1U1pIRkFfN0ZjNUtwLXNob1hR?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【９月から】生活道路の法定速度30キロに引き下げへ60キロ走行で“一発免停”違反点数6点で30日間",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jckFqOFpsbDg0Ym1EMXA3ckJJZEZZbUdmVjFkZ0lKeWlwbjlKYkJjWTRUNFAtRUFkSU80NV95ZllUSHcwZWIzN0pIUGh6SzhaTnpuSUppcGNyUWczTzBWeXk2OGZDTURENHh1R0Q4MV9ERUdZQ3FRZHVOaFpTQkHSAYQBQVVfeXFMT1pxZDhZTmpya3dMZE5DaHBnNVBORDdZU09uRXNfOHRkVXVsRWhCTUVoczJ1WmhEM1VhdUdqQUNZRDlkRGk1dThwY1ZQNDZ3a09pekt2LXRYQ284czJYdDFZa1VvQ3RzbjZXblAzd2ZMNkJDcVkxMU1Zbi1FcG01NlFUUW4t?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "飲酒後に学校敷地内で交通事故 秋田市上下水道局の会計年度任用職員「気が付いたら中学校の敷地にいた」（秋田テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtYkdXMV9hbUo3bUZKNUoyN2ZEMWo1aXVUVFBKdWVJU0NlVUR5YmUtVWd3Yk9ISDV3MmYxSDNOMWllVGFsOFJMRlN0TjVUQ1JXakE3WUdMaFhFNllkM2RkT2U1Nm1obVllUzJ0RnpxM0c3dXFOOG5aUFRKSmQ4SzA?oc=5",
+      "date": "Tue, 15 Sep 2026 10:47:01 GMT"
+    },
+    {
+      "title": "立体駐車場で衝突繰り返す　職員が声かけるも…事務所の壁突き破りようやく停車　運転手(80)は体調不良訴え入院　秋田市中心部の公営駐車場",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zQ0dXeUNjWXhPT0NvX3JOcUtEYzlNNlQzUThxbjdSd3B6alBXSGhBcDZQQTYxUzZEano5OHlUWGtLMU45Zm9NVEx2WU5iTUlJcnJYTmJiYi1EbXhOTFpMbFJFcTByQXJPSVNybNIBckFVX3lxTFBYWHpYSnl2djAxMEdvQzdUZmpTZXdHdFhGUDhiQzRqdjdqTzlHaEFYQTNwVE1UUGdoZ2JwTWxuZm13QldWcjh4d2tJdkdva3dmZ0xLYkJrOWlUUjI4VHJlTkRtZGRUcllDSFBhZkJlU2U2Zw?oc=5",
+      "date": "Wed, 16 Sep 2026 09:14:21 GMT"
+    },
+    {
+      "title": "平川市の国道で車３台が絡む事故 秋田県の男性（40）が死亡 - aba",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFUkZpS0FEQWNpV0w2aC1Bb3BvbElQZExvcGdndFRGaWo0NjJXQ0V3bWdJQnpzWEJUWmp3eG9XY3dlWHFHVFREblo1TTBadUJkdWNOc3dKYVg?oc=5",
+      "date": "Mon, 14 Sep 2026 09:45:00 GMT"
+    },
+    {
+      "title": "車3台絡む事故 秋田の男性死亡／平川・碇ケ関の国道｜社会｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UX2t5QVUwWGFyREg4bWl0UnRESGRYUnNLLTY4cjdGRW9scHJFdjJFci0zeUtTa2RoTUhRX1R6WGh2TXpoOHVqRF9nc2YzazFPUC0zeXEtRVE?oc=5",
+      "date": "Tue, 15 Sep 2026 05:33:00 GMT"
+    },
+    {
+      "title": "環状交差点＝ラウンドアバウトの社会実験開始 交通事故を減らす効果に期待…初日は中央部分に衝突する事故が 秋田・男鹿市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Mb0dBdUNlcU1vQ3RYel9peGFyb0VmSHdnYTU1ZnQzYmpZbHhyZ3NWUlZwMEZwVEVOSmZmN0hoNjNKRGFKM3Y1bXlrbG4wOTdhM2hpWm9CSGM3SldlNHpMdzVfVHY3UzBqM2RHNTA2dk9RbHk3MU55Yk9mY2JXelU?oc=5",
+      "date": "Tue, 15 Sep 2026 08:58:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",
