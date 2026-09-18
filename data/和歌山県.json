@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-09-18T06:03:00.614021",
+  "generated_at": "2026-09-18T09:02:28.379263",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 21.8,
-    "temp_max": 26.7,
-    "temp_min": 21.8,
+    "temp_now": 24.6,
+    "temp_max": 26.3,
+    "temp_min": 21.9,
     "precip_prob_max": 37,
     "precip_sum": 0,
-    "wind_speed": 3.6,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 23.5,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 8
       },
       {
         "time": "03:00",
         "temp": 22.5,
         "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 21.8,
-        "weather": "晴れ",
         "precip_prob": 2
       },
       {
-        "time": "09:00",
-        "temp": 24.3,
+        "time": "06:00",
+        "temp": 21.9,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.6,
+        "weather": "曇り",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.1,
-        "weather": "晴れ時々曇",
+        "temp": 25.9,
+        "weather": "曇り",
         "precip_prob": 10
       },
       {
         "time": "15:00",
-        "temp": 26.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 26.1,
+        "weather": "曇り",
+        "precip_prob": 25
       },
       {
         "time": "18:00",
         "temp": 25.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 29
+        "weather": "曇り",
+        "precip_prob": 37
       },
       {
         "time": "21:00",
         "temp": 23.6,
         "weather": "晴れ",
-        "precip_prob": 20
+        "precip_prob": 22
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "9月15日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEMlRUUWczTWVMNXhUREhlTFpIcXQxb0dzcDNhSWw5SUxyeUxCQWthY3psQTV6dkVjZ05tSFduaEtyWUFCOThSUDZHZWJCek9LZ0lXZWpaRjY4Uk9HRXlJWHoxUk1Ec21NbHhhWGF1b9IBdEFVX3lxTE5VaDM5emFTU2lBX0dkblhwVGFMYm4wTzBmaDRCT3lOYmJDektUbktmcnhpX0IxVWMwaTZvZ3lLWDhodk56cS1LUEp1RlVnd0l1ZkhvcnVrOUN3TWR6T3k1TG00ZFEwb2czRGl6YXFBUzJJa3dh?oc=5",
-      "date": "Mon, 14 Sep 2026 20:02:00 GMT"
-    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -86,6 +81,11 @@
     }
   ],
   "accident_news": [
+    {
+      "title": "交差点で車とバイク２台が関係する事故 大型バイクの男性死亡 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSXdfWWc2cVRmMFFzS0poRWU1d0MzV09PYjJqby1UOEU3aHBhOFJ1NmhndFBwUmxuQjkxR1JCYmwyQW5GeWdVWEl1cExVUmhUcVJhRVF3a1k1TTR6b051U1BB?oc=5",
+      "date": "Thu, 17 Sep 2026 04:58:33 GMT"
+    },
     {
       "title": "【速報】和歌山市の県道でバイク２台と軽自動車の計３台絡む事故 大型バイクの運転手が死亡",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fVHFLcmJIVDVWRm84TFIwX2liS2hBbGIwMkY0RWtTdFBycWJiTklBYTV4SEN6bHRrVmF4U1dLMHJMd3psOUItWW5UdlFmN3g3czhHMg?oc=5",
@@ -105,11 +105,6 @@
       "title": "和歌山 県道交差点でバイク２台が衝突 ２０代の男性死亡",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lMktFa2JPZE5aN094WjF6RDVvQzhibEU4ZUE1Y3NWcTZITUFzNHFOTjl2S1R1dkx2MU04WV9PQ0hzMTdJaEdiUzdYemR4U1FuWVQ2TjR4U0o?oc=5",
       "date": "Thu, 17 Sep 2026 11:43:00 GMT"
-    },
-    {
-      "title": "交差点で車とバイク２台が関係する事故 大型バイクの男性死亡 和歌山市",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSXdfWWc2cVRmMFFzS0poRWU1d0MzV09PYjJqby1UOEU3aHBhOFJ1NmhndFBwUmxuQjkxR1JCYmwyQW5GeWdVWEl1cExVUmhUcVJhRVF3a1k1TTR6b051U1BB?oc=5",
-      "date": "Thu, 17 Sep 2026 04:58:33 GMT"
     }
   ],
   "official_links": [
