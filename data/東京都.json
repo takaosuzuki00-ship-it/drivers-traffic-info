@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-18T18:01:33.347102",
+  "generated_at": "2026-09-18T21:02:02.061624",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 21.6,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.1,
     "temp_max": 22.8,
     "temp_min": 19.1,
-    "precip_prob_max": 8,
-    "precip_sum": 0.3,
-    "wind_speed": 5.3,
+    "precip_prob_max": 25,
+    "precip_sum": 0,
+    "wind_speed": 5.2,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 22.2,
         "weather": "曇り",
-        "precip_prob": 2
-      },
-      {
-        "time": "15:00",
-        "temp": 22.6,
-        "weather": "曇り",
         "precip_prob": 0
       },
       {
+        "time": "15:00",
+        "temp": 22.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
         "time": "18:00",
-        "temp": 21.6,
-        "weather": "曇り",
-        "precip_prob": 6
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
       },
       {
         "time": "21:00",
-        "temp": 20.1,
+        "temp": 21.1,
         "weather": "曇り",
-        "precip_prob": 4
+        "precip_prob": 25
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "都内の1~8月の交通事故死80人 警視庁が街頭指導や摘発を強化へ [東京都]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TbUZMU0NWdHRINXNFQTBtbEk2cDNGUGM5VXhFWHdCQVdpQ0lNeXZFUndiUDZWVF9PSTQ5SzhyOUU2UnptbWdGYlU4ekZwWUcyMVBJTUF5V1YzNU02VlFCNTF3Ml9NMUk?oc=5",
+      "date": "Fri, 18 Sep 2026 09:00:00 GMT"
+    },
+    {
       "title": "東名高速でトラック３台絡む事故、運転手１人の死亡確認 東京ＩＣ―東名川崎ＩＣ間の下り線が通行止め（カナロコ by 神奈川新聞）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VcUZ2bWM0RkduYXp1S0NLelpxenRzTTRZaTh1YldsMDZxdDBnTklOMzVfUUlobUs2bk81dlhmemxfc0dNUGExaW9EanNjQ0dMWVhoc2dBX2hHWFE2ZUtUN0RicmtwbkhITXF6dEFqRmRzeWY3c0N6Tzd2eEREYjA?oc=5",
       "date": "Wed, 16 Sep 2026 01:11:01 GMT"
@@ -105,11 +110,6 @@
       "title": "車のドア“横にいた”男性死亡 開けたところに自転車が… 東京・渋谷区",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IeFRDWlNNdW9yc1Q2aGdjTUNtOVlwWlpQeWlBMnhoVXE5Z0dJbkVvUThLODg4Sm1iZ1VKV0xGNjdPYXZBQkFzZ2JnVVBCLWt4SGVna0d6QUpzU0k4WFhEcXRvUEc0SDZjeWptRHFiSXRtdw?oc=5",
       "date": "Mon, 14 Sep 2026 10:01:34 GMT"
-    },
-    {
-      "title": "「赤色灯で事故抑止」東京ガスネットワークに感謝状 神奈川県警｜tvkNEWSアーカイブ",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3NVVGaHdOaS1HWll4dk55Tk1wMnFyZEY2dTJMODA2MWRYVUtBOGExVENQT19OQnpFVWtHdnRqUzhhY0ZCR2twYUlpVk1IcUhYQnJLcTBEaWJDQmw5VGtxOVhQOWhNTVdBbVNGOFpQb01fZHM?oc=5",
-      "date": "Wed, 16 Sep 2026 09:37:00 GMT"
     },
     {
       "title": "「工期遅れる…」外注せず 八重洲死亡事故、業界で見直すべきことは [東京都]",
