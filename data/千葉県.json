@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-18T21:01:56.341322",
+  "generated_at": "2026-09-19T00:01:25.735409",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
+    "code": 61,
+    "weather": "弱い雨",
     "temp_now": 21.2,
     "temp_max": 22.3,
-    "temp_min": 20.7,
-    "precip_prob_max": 27,
-    "precip_sum": 0,
-    "wind_speed": 13.3,
+    "temp_min": 20.8,
+    "precip_prob_max": 61,
+    "precip_sum": 3.1,
+    "wind_speed": 12.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.0,
-        "weather": "晴れ",
+        "temp": 21.2,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 20.8,
+        "temp": 21.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 21.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
-      },
-      {
-        "time": "09:00",
-        "temp": 22.3,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 21.6,
-        "weather": "曇り",
-        "precip_prob": 27
-      },
-      {
-        "time": "15:00",
-        "temp": 22.2,
-        "weather": "曇り",
         "precip_prob": 10
       },
       {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 21.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "12:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
         "time": "18:00",
-        "temp": 21.3,
-        "weather": "曇り",
-        "precip_prob": 16
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "21:00",
-        "temp": 21.2,
-        "weather": "曇り",
+        "temp": 22.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       }
     ]
