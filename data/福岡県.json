@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-18T09:03:06.727423",
+  "generated_at": "2026-09-18T12:03:15.634183",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 24.8,
-    "temp_max": 25.5,
-    "temp_min": 22.9,
-    "precip_prob_max": 88,
-    "precip_sum": 7.2,
-    "wind_speed": 6.5,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 25.1,
+    "temp_max": 25.1,
+    "temp_min": 22.8,
+    "precip_prob_max": 71,
+    "precip_sum": 5.2,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 23.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 29
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 10
       },
       {
         "time": "09:00",
-        "temp": 24.8,
+        "temp": 24.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 45
+        "precip_prob": 35
       },
       {
         "time": "12:00",
-        "temp": 25.2,
-        "weather": "曇り",
-        "precip_prob": 71
+        "temp": 25.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 23.2,
+        "temp": 23.6,
         "weather": "霧雨",
-        "precip_prob": 88
+        "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 23.0,
-        "weather": "霧雨",
-        "precip_prob": 67
+        "temp": 22.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
       },
       {
         "time": "21:00",
-        "temp": 23.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 31
+        "temp": 22.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 24
       }
     ]
   },
