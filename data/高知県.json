@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-09-20T00:03:58.721042",
+  "generated_at": "2026-09-20T03:03:32.539673",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 26.3,
-    "temp_max": 31.2,
-    "temp_min": 24.7,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 26.2,
+    "temp_max": 29.8,
+    "temp_min": 25.9,
     "precip_prob_max": 1,
-    "precip_sum": 0.2,
-    "wind_speed": 6.4,
+    "precip_sum": 0,
+    "wind_speed": 7.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 26.3,
+        "temp": 26.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 24.7,
-        "weather": "弱い霧雨",
+        "temp": 26.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 25.7,
-        "weather": "快晴",
+        "temp": 26.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
         "temp": 28.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 31.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "12:00",
+        "temp": 29.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
         "time": "15:00",
-        "temp": 30.4,
+        "temp": 29.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 27.8,
+        "temp": 27.3,
         "weather": "曇り",
         "precip_prob": 0
       },
@@ -65,9 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "9月19日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NzNKYUFpMzItOHBvSy0yWHNvcVFLUUMxWndHdUJ6UmdSUDdSb1pFQzUtZmNsaDd2eFdHdGdnelhxWlZadk0zYko1cUNHTlZHeDRDb1I5YU9aV1ZJVEpQSHVzSXJnY3hRTl94U1hqeFMwak1SMlFPUksyZ3Z1M00?oc=5",
-      "date": "Fri, 18 Sep 2026 20:02:10 GMT"
+      "title": "9月18日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90U0FRRE00TnhyM1R4c3pKRmVlQ2ZBenJESTlJU3hJMjhfMTAzRzB4NU9hN25VM2dBcGhsSUFtYlliZnJMRTBNOUNWLXBiWmI1b1UyVWJhMmpyMDhNczU5OUNRaDFCNFhTN1VpMndORklINlA0d0lXcU9LSlE2Y0U?oc=5",
+      "date": "Thu, 17 Sep 2026 20:00:37 GMT"
+    },
+    {
+      "title": "９月１９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MNWlYS1ZQMExMQVNqemxuLU1QUk5kN1hYOWM4NE9kLXlnMFVBR2pZLU1mQm00aG1FSlpOclNvOXhnS3ZuYjBfODIwVWVBRmEySVJPQkpPbDJYeHNTR2VuVHdQeTFuaVBSRnBHZk5wOWpFd9IBd0FVX3lxTE9kSXZWYW9HSmo5Z2gzQXRwWTNhdkZ0THo3RjFuYVJmNXJKRHVKRjN5aWQxeTIybXFTYmJtODdFTExtc2U1X3oxS3UwX2JZamZEV1pYQjFIR0d3bWNFWWNWR2ZIeDlZV3h2cEV2VjlVZ1F4YVNsT1RV?oc=5",
+      "date": "Fri, 18 Sep 2026 23:37:51 GMT"
     },
     {
       "title": "９月１８日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
@@ -75,19 +80,14 @@
       "date": "Thu, 17 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "9月18日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90U0FRRE00TnhyM1R4c3pKRmVlQ2ZBenJESTlJU3hJMjhfMTAzRzB4NU9hN25VM2dBcGhsSUFtYlliZnJMRTBNOUNWLXBiWmI1b1UyVWJhMmpyMDhNczU5OUNRaDFCNFhTN1VpMndORklINlA0d0lXcU9LSlE2Y0U?oc=5",
-      "date": "Thu, 17 Sep 2026 20:00:37 GMT"
+      "title": "9月17日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GeGFCRnBtTFFnN3UtVVRRRGYxMTlGUTNQT3hkWjQ3RzdRRm5pcndaYlZLblRwajBsOFVyRGtlc0JuZTNFLTRMem1pRlZ5a2pHMnRmNklBeWxhdmp4RGg2aVlCZF9FWktULVpjOTRiWUFkNHRNUDFYZGFScDdvVE0?oc=5",
+      "date": "Wed, 16 Sep 2026 20:00:33 GMT"
     },
     {
       "title": "９月１７日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zLURyejdYSjRHdXNPTHlXUVhaZDJzQkNWVVVQcnNIR3JLWmdtZjVUWTNaY21ZZ3hYdVVHakpnYjFTbHBrdy1VRVI5bnRwZ0gyWTVvR3JKYw?oc=5",
       "date": "Wed, 16 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "title": "9月19日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧 (テレビ高知)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPand5b1pfbDRPeFZoczh1dzd6ZEY4cEl3eTc2VHZrSjNMcmkyR2FXV3F3Qm5QcWFCbXdVQXl5ZzMwakJxclVRTW9ZSldnQUFZeW9qbFl0MElYb0xyaHFqZUFYQWtGd0lPOHNqd0RYcGhZbkRxM3l2WFVxQWJwQXF1THc5WXowV1BfOElQNjdn?oc=5",
-      "date": "Fri, 18 Sep 2026 20:19:44 GMT"
     }
   ],
   "accident_news": [
@@ -95,11 +95,6 @@
       "title": "高知市で事故相次ぐ 横断中の男性はねられ死亡・高知道でワイヤーロープに衝突",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3M3V1aVdDMEkwRDdDQlJGT0tpQ2djendZVVVsV19uWUhLRTBpRXk3Q0pTdVVkakZuS2pVa3NRYzhvTF9NOW9ockJuQjQ4U05yZ1cyR2FXcEpuN0U?oc=5",
       "date": "Fri, 11 Sep 2026 09:23:00 GMT"
-    },
-    {
-      "title": "無免許運転で衝突事故 34歳の男を逮捕【高知】（高知さんさんテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdkhnMWlkQ2NkNTIwVlhLVUtDWVFGUWJ2U0NEZk1xdW5WUUdwb3QycjAtVjc3enZMN25wU0FMS2hRaEt3NTg5SDBQb1E3V2tUaUhoZVRleWxvcDQxb3otaHRuUWdVdXh5U2pTOVFYXy05X2cwYlpZOHNzZVktcTQ?oc=5",
-      "date": "Sat, 19 Sep 2026 09:48:01 GMT"
     },
     {
       "title": "「どうやったら7年に…」法廷に響いた遺族の怒号、究極の“ながら運転”男児死亡事故、被告に予想外の「軽い判決」(1/4)",
@@ -112,9 +107,14 @@
       "date": "Fri, 11 Sep 2026 07:35:00 GMT"
     },
     {
-      "title": "高知県内交通事故死２２人 １０年で最悪水準 人口あたりでは全国ワースト 高齢者の犠牲目立つ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMl9fVGF0WnNvWmFjaEh0Ry0tY0o5YUoxYmhhZ214TEw2OGZwa3JFdWZkR2pEY3BhUDJEaWhHZU5TVjRMUEZ0VVA4WFhvY0IwTGdBMW45VHR3SVZCRkFv?oc=5",
-      "date": "Tue, 15 Sep 2026 10:33:10 GMT"
+      "title": "日暮れが早まる秋 早めの点灯で事故防止を 高知県内の各地で交通安全啓発活動",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ycE1OMWpROF9Nbno1SmlBUGFaUmF6ZXRIV2doSnZVTV9aOGdQTTZoeHAzanNfdkhQRzh4a0NIdE9WcWlablNMbHBZaTcwQU5sR0Y1c19TRFJDUnNaa2Y4?oc=5",
+      "date": "Sat, 19 Sep 2026 09:16:00 GMT"
+    },
+    {
+      "title": "高知東部自動車道 旅行中の高速事故で１歳煌瑛ちゃん死亡、運転中サンダルに履き替えようとした被告に 高知地裁 禁錮4年判決…両親は「何一つ納得できる内容ない」と控訴へ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WTW1lZkFxZjJXTU5na1hYaEpmYTF6M3lYZzFNZFQtX1MzWVpIMGxZaFZlYlJuVlphN3poeTV5VG1Bc1ZES2E5aTJCdWk5aUhzZkZINGEyMEhBUGtoV0tienozcU5rSjlvU2xfRUZySnNLUQ?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
