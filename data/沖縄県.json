@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-19T12:03:59.264181",
+  "generated_at": "2026-09-19T15:05:48.112613",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
     "code": 53,
     "weather": "霧雨",
-    "temp_now": 29.2,
-    "temp_max": 29.3,
+    "temp_now": 29.1,
+    "temp_max": 29.2,
     "temp_min": 25.9,
     "precip_prob_max": 74,
-    "precip_sum": 1.1,
-    "wind_speed": 18.8,
+    "precip_sum": 1.7,
+    "wind_speed": 19.3,
     "hourly": [
       {
         "time": "00:00",
@@ -21,7 +21,7 @@
       },
       {
         "time": "03:00",
-        "temp": 25.9,
+        "temp": 26.2,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -39,31 +39,36 @@
       },
       {
         "time": "12:00",
-        "temp": 29.2,
-        "weather": "弱い霧雨",
+        "temp": 29.1,
+        "weather": "霧雨",
         "precip_prob": 55
       },
       {
         "time": "15:00",
-        "temp": 29.3,
-        "weather": "快晴",
+        "temp": 29.1,
+        "weather": "弱い霧雨",
         "precip_prob": 73
       },
       {
         "time": "18:00",
-        "temp": 27.5,
+        "temp": 27.4,
         "weather": "快晴",
         "precip_prob": 16
       },
       {
         "time": "21:00",
-        "temp": 26.9,
-        "weather": "快晴",
+        "temp": 26.8,
+        "weather": "晴れ",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "9月16日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rRzlvUmROYVV1MVR3cEZ0emNySDc1UkQ5MlFEQTJfR1ZKQ0JZY09QRldKTTBubnRuSmlrQ0JCam1XZkNVY1ZxSDBfN2U5TUJBYjBiQkd5TXV4OVlGd0ZTRFlPeE5qVm1BbVp4RElQY9IBdEFVX3lxTE16bXNtS3ZOSTNpOEJFc3g2QWF1WlZYempyTWxwVzk1RmtkVnRNRFBhNmVDaUFZdmZXM2h1U0dOckxMcTFpZXVNVEFTbDNWZWtVejB6WTVXVm5EMXBRU3BfcFZQZFg3RG9WbGc2OWN1RVZwWGYx?oc=5",
+      "date": "Tue, 15 Sep 2026 20:00:00 GMT"
+    },
     {
       "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
@@ -81,13 +86,8 @@
     },
     {
       "title": "安全な速度の遵守や見通し悪い夜間の運転注意をよびかけ 本部警察署が検問実施 沖縄・今帰仁村",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvS0Q0X1JoR3JtZTNvTzlpN1N1T1loYjczQUhnbUVuNnRHTkoxY094cGJEWTZZVUVVYVhGZ3BqcS1uX0xNLWNLbUE0NkJQSTNxRXAzaGlWYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fUm5XSlhsamY0SW94WTR1clZqRU84d210dENDNm5Ec0lqRGs1Z1B0S3RSVHg4NjRfRDFNZnJKZ2FtRzBaR0dHVHZiOHBHSGtKYlZPTFBDTlRpM0JFQWN2RXFTb01VVk0?oc=5",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Wed, 09 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "事故呼び出しに2年間応じず 女を容疑で逮捕 沖縄・豊見城署（琉球新報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nN2lHNWZHYTNma1ZMY1JJelVHMkoxMi11Y0RhM0pnUGZ0b185bWRpd2l6U1d3Q0dfWUFFaGpiNkVZZjhpYXp4eVBrVFJ2RWJmRGZtUVNOWktGTThZNEJ5ZDRMbGVSUkl1azdYWWRxNFBEbjdOa0ZHWXQ2SS1sWXM?oc=5",
-      "date": "Sat, 12 Sep 2026 11:30:51 GMT"
+      "title": "ダイビング中に呼吸器材が外れパニック 23歳の観光客は搬送後に死亡 沖縄・宮古島市（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Tmo5aENNQlQ3V3o3QzhPZUFCTHhFb2dGcWE4eEZoNzlwclM2SWhpX0ttSFZ2V1lCRzI5akhfSWNjY040R01CeURDV0RBQXZBbzcxUGxlMFNJQkkxSTBOTFNMQmlXZ25lR3NlSkJPMW81dnlJOHd0Nk5xUkN1VDQ?oc=5",
+      "date": "Sat, 19 Sep 2026 03:01:26 GMT"
     }
   ],
   "official_links": [
