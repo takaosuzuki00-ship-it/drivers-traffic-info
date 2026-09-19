@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-19T18:02:22.590953",
+  "generated_at": "2026-09-19T21:02:48.256535",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 27.5,
-    "temp_max": 30.1,
+    "temp_now": 24.5,
+    "temp_max": 30.0,
     "temp_min": 22.2,
-    "precip_prob_max": 14,
-    "precip_sum": 0.5,
-    "wind_speed": 6.5,
+    "precip_prob_max": 52,
+    "precip_sum": 0.9,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 29.1,
         "weather": "曇り",
-        "precip_prob": 2
-      },
-      {
-        "time": "15:00",
-        "temp": 30.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
-      },
-      {
-        "time": "18:00",
-        "temp": 27.5,
-        "weather": "曇り",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 23.8,
-        "weather": "弱い霧雨",
+        "time": "15:00",
+        "temp": 29.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 27.3,
+        "weather": "曇り",
         "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 14
       }
     ]
   },
@@ -70,9 +70,9 @@
       "date": "Sun, 10 May 2026 07:00:00 GMT"
     },
     {
-      "title": "新御堂筋でバイクの「危険なすり抜け」を取締り 大阪府警",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtWmlMWlRYU1pjR18zRVRpZDJiclpzZzBoZ3VxeEZLUDN6RFI3YXhzSDZhTlZ1SzBOVEJvZXl3Uk5zYUtJT0JidFhvcHdpZFhLYjR3cE5RMU1LMjkxSkpPVjdR?oc=5",
-      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+      "title": "自転車の交通違反に対する交通反則通告制度の適用について（令和8年4月1日施行）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfbndmUzFoNndpdmEtUTFKTGdtWHgxUVJIeWpvTnhjaU52MWNmZ19vZXF3bnhiZG00Y19aT1hpNm5kX3ozckl2cHpSQ05GM0RNNS1RQWZhQ0NyWGZGam5PX1RmaTdFTllNRVhn?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "吉川友梨さん行方不明から23年、現場で検問 情報提供呼びかける [大阪府]",
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "「秋の交通安全運動」前に警察と地元高校生らが交通安全呼びかけ 「事故を未然に防いでほしい」大阪メトロ・新金岡駅に書道部が手がけた作品掲示 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVGJCNVE0QlRFOGdmODcwOEotTkRzZlloQU84bzVwRWVtel90WGhqRHotRmJNclV3OC1IYk55V2Z0elBBdm1DSjhYYVI1RXUzVTRacG9wMXdpTUV2M0Z3eGthOUFnN3M?oc=5",
       "date": "Fri, 18 Sep 2026 10:51:42 GMT"
@@ -102,19 +107,14 @@
       "date": "Sat, 12 Sep 2026 22:49:01 GMT"
     },
     {
-      "title": "「秋の交通安全運動」前に警察と地元高校生らが交通安全呼びかけ　「事故を未然に防いでほしい」大阪メトロ・新金岡駅に書道部が手がけた作品掲示",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1hibWROR2l4eDMtUk5OY0NPSTF5bmtKallCamR4U2dNaHlwY3UyUkVDUVlNc25odnZVMHlmNWxCYm94TjJ5M2NwZmQwVlVwTFlZLWFGYjRPbTEyZ2V0RU9tMnJGRlZqSTNrQVREZ0F5UTVPa3JNdnZjcWw3TXZYWEx30gGCAUFVX3lxTFBfWGJtZE5HaXh4My1STk5jQ09JMXlua0pqWUJqZHhTZ01oeXBjdTJSRUNRWU1zbmh2dlUweWY1bEJib3hOMnkzY3BmZDBWVXBMWVktYUZiNE9tMTJnZXRFT20yckZGVmpJM2tBVERnQXlRNU9rck12dmNxbDdNdlhYTHc?oc=5",
-      "date": "Fri, 18 Sep 2026 10:51:00 GMT"
-    },
-    {
-      "title": "上司を殺害後に遺体を運んだ車に放火 部下の男に拘禁刑22年の実刑判決 交通事故に偽装「間違いありません」 大阪地裁「計画性の強い犯行」悪質性を指摘",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KbGt3WnRRbTRCOGlRaG5YU2gxR1plR0JyVWtqYWk0SmNTZ3FjZjhSeU5xR3B1QU95MkNSamhWSHRneTJ3c3ItbU9CT0JyUQ?oc=5",
-      "date": "Fri, 18 Sep 2026 12:42:00 GMT"
-    },
-    {
       "title": "歌手・丘みどりさんが一日警察署長 “秋は夕暮れ…”日没前後の「薄暮」時間帯に高まる交通事故の危険 大阪府警",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWVxdGduLTQxbXRIQ01GTlpnejByclZOQXFiQlhXbC1SZUwxdFV0dDlFUF9zUnBKRUQ3LXhyc2R5QUYwbDVvWUl6M0ZkU3ZqY3NsZ0RqaU1KQ05EWXgwWjFOSjNsX1dZUm91c2lVcDVtc2lBU3l1djhkSFJFd2s0aUJqeWtnTFU?oc=5",
       "date": "Sat, 12 Sep 2026 06:01:00 GMT"
+    },
+    {
+      "title": "新御堂筋のバイクすり抜け、集中取り締まり 大阪府内で死亡事故も [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVGV6MnZzQmlIVXNTX0tJOS1OZ0tVSkdZZ0VwdWNVNzgtUzJaNU12b2lpdXVaMGJocU9OZFo3TngzV0tRY0F3TjN6UVFnS3ZVTkpaLVdOMThwbVh2LUtJQlg4d1NNaW8?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
