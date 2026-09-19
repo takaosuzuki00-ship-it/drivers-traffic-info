@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T08:29:10.855132",
+  "generated_at": "2026-09-19T09:03:56.506993",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 26.6,
+    "temp_max": 28.0,
+    "temp_min": 25.7,
+    "precip_prob_max": 100,
+    "precip_sum": 9.4,
+    "wind_speed": 14.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 26.2,
+        "weather": "強い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "06:00",
+        "temp": 25.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "09:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "12:00",
+        "temp": 27.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 28.0,
+        "weather": "晴れ",
+        "precip_prob": 27
+      },
+      {
+        "time": "18:00",
+        "temp": 27.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "鹿児島県交通取締り情報２０２４年５月１８日（土）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FYVlCQkhHQXc0WVZxMV9qeWNpdzhKNm1mOElvU203UGUxVDhwQ0lfSmlVb09VMlVMNkxtZFJEY2x3Y0ZKSG9sdHFjWXVtTGtuVXhQWFlHdC05WVh3eWhfZGw2NERfd2M?oc=5",
+      "date": "Sat, 18 May 2024 07:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年１２月０７日（土）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTd3habmVFV2dzRjZILWF5ckFxTFhEN0xpcnAyejZjS01RMnVrZ05hTzRNUjZMdXMtbGZjaEFzbVRaSlZnUWVLdmlpOFk0OVRibjFHYkN3OTA0WDRzbmtVNUJndFpwakU?oc=5",
+      "date": "Sat, 07 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年５月０５日（日）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWVFGZFl2bVNvTi00bDJ0ZDVkQklUY05WcWdqaFdkcTYtVFNXQ09yVk1zbENxQWZGUnlZWU5iZDVBNUc0cTg4a29faF9RTTBST1JaZUpuaDg1VVpKT2RHMk1LcEF6ODg?oc=5",
+      "date": "Sun, 05 May 2024 07:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県交通取締り情報２０２４年６月０６日（木）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcEFVUzRjYk5HLTNhdjA0QlZON2NqUUIyZkd5eDhtTjU0Ynp4VlJvMF9pT013OWIxVmxENHNqVVRWQmRoN2dyYmpRSG92Z25VZmhHSjdjVTFNUQ?oc=5",
+      "date": "Thu, 06 Jun 2024 07:00:00 GMT"
+    },
+    {
+      "title": "鹿児島県下一斉飲酒運転取締りで16件摘発 酒気帯び運転2件、速度違反5件など 県警「取り締り強化していく」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wU2pYbDQzRTBPbnAzbE83Ny1wdC1VU3R2SlFBUmxRYUJOQXc2SFpVTXBWRktaSWRDN212UU1kdHl6SXVTOHpGelNJLVNzMnBscGRzOUItMA?oc=5",
+      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "事故の多い交差点 注意点は？ ワースト1位は「鹿児島市・南栄交差点」 鹿児島（KKB鹿児島放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWmhLYkFuYjNfOUlqT2kzVmtFd2JQdUNNRHRZWWpFWkxHNjFtb2NzRkVVNHpObElaai1rMEM2V3dMRmtteWN6M0lIQUxHX2NPLVpUMmM1bHVBQ294SnFnTHRScXNzVGNkTElqQ2VFSkZuYXA3U1FqcmFHQWtFeHM?oc=5",
+      "date": "Thu, 17 Sep 2026 10:54:44 GMT"
+    },
+    {
+      "title": "令和8年度「夏の交通事故防止運動」の実施について",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fNUk0a0l2VnFwNV9TM0FsUENhNTEzVGhXbXp0czlEbDBaVVdoWHpxdzRTcmREYkFkNDNneTJLeTBwY2l3Nlh2SGFUcU41aGI1STFhdG90dF9GdE54VTdCNjAwRGROS19MaDZ5MHVjS2VvdEE0YV9IcVNGTQ?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "事故の多い交差点　注意点は？　ワースト1位は「鹿児島市・南栄交差点」　鹿児島",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZC12NVdfWkhrdXlMdE04QnRxYlpnMTVfQTd0VDJCYW9MODNIZkNUVUVkbXh0Z2NvSVUweG80VC1BT0VKLTM2eTN0cHVYbk8taVdOY0czQkJBYy1TUG1HZlR0Vmtmc0U4cU9qS2k0QVhBdjdodkJkdVVIeWRXdTNOdTJKcEY0a3V5RnR1UFQ5MUpWTjhvNXBwWEZiV0FfTW92cC1FOHpoYjN0TmVWUC02YkVMQTlXay1ZUmVNdjRoUmtqcXYzVlBoRGNKMEM0TmtVZTZz0gGCAUFVX3lxTE5QR3JSQ0VGVUItMUd5b0QtMEtBeGd6b0hHM1VIek9VMmFib3dZTllPX2dhR3RsT2xpZm1vQ1MzS0daYm9YbF9aSENhWGRMSW9DZUJfcE9YWEJfUktYZjk0TUFYaXh2XzRnczNsV2F0YVp3dU4yVlVBVjhmVTBlZEM2bGc?oc=5",
+      "date": "Thu, 17 Sep 2026 10:56:00 GMT"
+    },
+    {
+      "title": "交通事故で親を失った子どもたちへ――鹿児島MSAなど20万5350円寄付…「卒業祝いやプレゼントに活用して」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04QlJRRW5xRzBpSnhOd2x2b2UxZjJWUW0tOFZtb2UyTWh0b0VIS29sVXI1dVkwQWttTU9TYk9VTWpWTk5DWkF5dUlQNzVQNk5RMlBHUkFrdw?oc=5",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "JA共済連鹿児島が交通安全・防犯グッズを県警などに贈呈 反射材などで夜間事故減少めざす 鹿児島",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81Nld0d0Q2SUhfZm5hVzBobUZyV20wbnhKSVhfX3Y0T3pDM3dXUWFvTE1ONWhZSVlacEpib3R3LVN1VWx0TWNIRDI2RVg5bjZRSjU4M3JVY1FvZw?oc=5",
+      "date": "Tue, 08 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鹿児島県警察 公式サイトを検索",

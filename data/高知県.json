@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T08:08:10.320511",
+  "generated_at": "2026-09-19T09:03:17.194121",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 26.7,
+    "temp_max": 30.3,
+    "temp_min": 23.1,
+    "precip_prob_max": 35,
+    "precip_sum": 0,
+    "wind_speed": 2.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "06:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 26.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 27.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月19日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NzNKYUFpMzItOHBvSy0yWHNvcVFLUUMxWndHdUJ6UmdSUDdSb1pFQzUtZmNsaDd2eFdHdGdnelhxWlZadk0zYko1cUNHTlZHeDRDb1I5YU9aV1ZJVEpQSHVzSXJnY3hRTl94U1hqeFMwak1SMlFPUksyZ3Z1M00?oc=5",
+      "date": "Fri, 18 Sep 2026 20:02:10 GMT"
+    },
+    {
+      "title": "９月１７日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zLURyejdYSjRHdXNPTHlXUVhaZDJzQkNWVVVQcnNIR3JLWmdtZjVUWTNaY21ZZ3hYdVVHakpnYjFTbHBrdy1VRVI5bnRwZ0gyWTVvR3JKYw?oc=5",
+      "date": "Wed, 16 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "9月18日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90U0FRRE00TnhyM1R4c3pKRmVlQ2ZBenJESTlJU3hJMjhfMTAzRzB4NU9hN25VM2dBcGhsSUFtYlliZnJMRTBNOUNWLXBiWmI1b1UyVWJhMmpyMDhNczU5OUNRaDFCNFhTN1VpMndORklINlA0d0lXcU9LSlE2Y0U?oc=5",
+      "date": "Thu, 17 Sep 2026 20:00:37 GMT"
+    },
+    {
+      "title": "９月１８日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FN0VWTXRBUmFCejlEZmc1TVB3WDVhaFlzT2dmRHJZcm5PbVZIU3l4NGFkd3M1UVBOWkZjc29GSnZ0QzBucDBpZnVKUVJ2bDJnYnFxYi10VTBJY2s?oc=5",
+      "date": "Thu, 17 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "9月17日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GeGFCRnBtTFFnN3UtVVRRRGYxMTlGUTNQT3hkWjQ3RzdRRm5pcndaYlZLblRwajBsOFVyRGtlc0JuZTNFLTRMem1pRlZ5a2pHMnRmNklBeWxhdmp4RGg2aVlCZF9FWktULVpjOTRiWUFkNHRNUDFYZGFScDdvVE0?oc=5",
+      "date": "Wed, 16 Sep 2026 20:00:33 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【高知】交通死亡事故が過去10年で最悪水準、全国ワーストに 《秋の交通安全運動》で安全運転呼びかけへ（高知さんさんテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xRlQxNVRVZnNVczdJYmFlT3NwYlZzdDZpODJIWmo1ZTZpeVRhbXhXZS1qVzR5U00xeC1lOWEzUzVQNGg0NmFvNXd2OF9ucDdtZ2xtUFpITjhTSjhYYUVHdkJUWGllN2pqNnFUeUY1cGpRRGFDVllUc1NsYlZEaDQ?oc=5",
+      "date": "Fri, 18 Sep 2026 10:02:01 GMT"
+    },
+    {
+      "title": "「どうやったら7年に…」法廷に響いた遺族の怒号、究極の“ながら運転”男児死亡事故、被告に予想外の「軽い判決」(1/4)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vOW9LR0xwaVFTb3lwR3hpei1IYU5wLXpfeXlIZGU4TXYxS0hCczdONlZiUDh5WVllM21yZXhuYjlvcGc0VUVTUDl4dU42eE02VTBDMUF3?oc=5",
+      "date": "Sat, 18 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高知市で事故相次ぐ 横断中の男性はねられ死亡・高知道でワイヤーロープに衝突",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3M3V1aVdDMEkwRDdDQlJGT0tpQ2djendZVVVsV19uWUhLRTBpRXk3Q0pTdVVkakZuS2pVa3NRYzhvTF9NOW9ockJuQjQ4U05yZ1cyR2FXcEpuN0U?oc=5",
+      "date": "Fri, 11 Sep 2026 09:23:00 GMT"
+    },
+    {
+      "title": "高知市で死亡事故 道路横断中の80代男性がはねられ死亡【高知】（2026年9月11日掲載）｜RKC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUFyYkxkaTlPOTdaYlFTSG5JYkJvR2ZHTXdvR18tNTdSb1NDVW1CREZyT1dZemhFNGp2eXVCTFNZaHMwbjk0VHhLRzhWWVhBR0xIQkZBVmhsRXA1eUlVdHBSZWdjVTQyZkw4ZUNhWV9LYjBBX05teXJFY091ZDBtYWM2bzVXaXc?oc=5",
+      "date": "Fri, 11 Sep 2026 07:35:00 GMT"
+    },
+    {
+      "title": "【高知】交通死亡事故が過去10年で最悪水準、全国ワーストに 《秋の交通安全運動》で安全運転呼びかけへ（高知さんさんテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSTBJdHdicjU3dVFla2dlSi1RSVQzVldrZjZLVjhodVlwUW03VjkyVFV4djl6ci1taFd2MGxCUHd4R25VUlVucU8teU9RNTRlbnBPN3I1SExHbG93UWU0bkNjRThGcVc3N1h3bktOTnF5TUltSE5ZbEdiNzlPMFVIZnVB?oc=5",
+      "date": "Fri, 18 Sep 2026 10:01:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "高知県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T06:32:08.621867",
+  "generated_at": "2026-09-19T09:01:03.212412",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.4,
+    "temp_max": 22.5,
+    "temp_min": 19.2,
+    "precip_prob_max": 48,
+    "precip_sum": 0.5,
+    "wind_speed": 1.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "03:00",
+        "temp": 19.2,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "12:00",
+        "temp": 21.8,
+        "weather": "曇り",
+        "precip_prob": 22
+      },
+      {
+        "time": "15:00",
+        "temp": 22.5,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "21:00",
+        "temp": 20.9,
+        "weather": "曇り",
+        "precip_prob": 33
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月19日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSzNxN1JRV2V1Y3o3MnhLbDVTeXlOTlJ5T2YtZm12WXJaYWtZUnptR0NoYU9YRVFUelB5R0FIcUp1UkZmUVV1M2YxVDlqQ1NOR3ZxV2EzQXVNV2dMbkdyUDYxeW9MR3RneDEtTTUtRdIBdEFVX3lxTE84dFVnd3VkbWlKYU5MYzRLRWc4R1BuMFFXa2FOWDFhbDBVZjFzVXd2R2FZVTNDRElsaTl6R2JXNzJxbHU2NTNIUThFN0ZzZ0d3ZzRnRFQ2dDRzdWNHSHI5SU5jR1VHcFNBdlB1RnUxV1l5OVB6?oc=5",
+      "date": "Fri, 18 Sep 2026 20:07:21 GMT"
+    },
+    {
+      "title": "9月17日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53UGhYVFd5bDZKYllzY0xtVEFzQUh3SGowWFdTVl9IdFBRM2VwWnZIeWs0T0gxa0pEdHVyRkhEZW1GS1lhNktaMjNaM0JWREFEV0dKRGFzTQ?oc=5",
+      "date": "Wed, 16 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【覚醒剤取締法違反容疑で逮捕】須賀川市 【交通事故】郡山市 【熊と衝突】福島市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TNkJwVXVOYThwbE5xUFIyNUNqSzBIQTV6SEtSVXVZcV9TRGMzMnFSS1NZQjk4UXlHNmU4d2d1SGRGZXZJeTJFaWxOcUdyU0k?oc=5",
+      "date": "Thu, 17 Sep 2026 00:18:00 GMT"
+    },
+    {
+      "title": "９月１８日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HU29VWTBsZEZVTWM1N0lWMGhVcHRnWGpoMFBVdkVVNFZUdzFyem9wZjFvbGkyUHgyUG5fa2taVGk0bV9JaGx4T0tYMmVkdmlJUzBvQjl3QnR4b0p4a3h0alBtNjdPX3hDT28wNWRYMGo3d9IBd0FVX3lxTE9ZU21fLUd5OHJHM0ZWVUFBb2dHSnFPM2NSMzJWeVBGeml0ODhBTDVUSUcxbUd1Xzd4Z2FkR2FObW1NaVZKRUQxZVFYbTFlRWhCUzFtMVp4Y3h4a3pzODBfWWN2QzRhWWdUZUdzUEhQZWhsOENpQ3I4?oc=5",
+      "date": "Thu, 17 Sep 2026 20:03:42 GMT"
+    },
+    {
+      "title": "9月13日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZTTlEWEZEOGJBaHZGX2pzbkstRW83a21OUmRHazQ4VEpVWWJ1T0tpVEZIOWUzVFdmNk9uZkQtRjd6QU9oTEFCY2R1RnJWNTN6R2hJZmxCaw?oc=5",
+      "date": "Sat, 12 Sep 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故「なし」 ナシで呼びかけ 福島市交対協吾妻支部",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzc3FoZUVJQ0wyVnhpejZlcFBoRFFWeHBEUm1vOUp2dzIyajBjN29SMHJyTkdIeE05dDFiX3FHU01zSzBGckxoN2x3T2h1Rms?oc=5",
+      "date": "Thu, 17 Sep 2026 20:30:00 GMT"
+    },
+    {
+      "title": "福テレの小坂アナが白河警察署の一日署長 チア経験活かし踊りを披露 交通事故防止に向けエール 福島（福島テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHZkNzNNNVVjVncyMk9vT1pNX3RHWi1zTEhod1lOQTdDakVJeUpVcU9TSFVJaXRfNjZtd0VfSUZkeW0tUWc3bGtoSEVaalFzNU93X2tkWi1iQk03Sl9tRU9fdjJ2b2ZLU19qUkF1M2dpNlZ1S2JmcFNrMDZqcGRXdDVOR2dhZHBTa1FhS2NR?oc=5",
+      "date": "Fri, 18 Sep 2026 09:50:02 GMT"
+    },
+    {
+      "title": "交通事故「なし」 ナシで呼びかけ 福島市交対協吾妻支部",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByc3E4UzBEckVkZkdnNHpEbUcwRUY0LVBud2p0MGxFVXhZM2NjM3A0ZGc5MVR6MFltMXBVdklUVjFCXzY1aFpQaGFTOA?oc=5",
+      "date": "Thu, 17 Sep 2026 20:56:34 GMT"
+    },
+    {
+      "title": "歩行中の死傷事故、薄暮・夜間が6割超 “反射材”活用を 県警などがキャンペーン 福島",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41VzQxV3kwZy11V3p2dC1kQlFJSXJWUVRoN05qZFltTWlsUGw4SS1yMC14Q0Rxcm1MaEVxWFVvcTNXc0sxMzZoaVVJQU5LWFV5Rng2RG9FeFA1VDgza2ZuTElLRnp5c28?oc=5",
+      "date": "Mon, 14 Sep 2026 07:16:00 GMT"
+    },
+    {
+      "title": "園外活動時における事故防止推進事業",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yd0xMc1ZVZkcySllkekYtNnZrRjZCS3EtNmQwUEttOWR5czVKeEVYdEtzUGh6WDN0WHVucXlzeVdVTWRneXpzWGx0MktybFF3VkFaWkhZU1B2UXFtRktoMm5XTjBXWUNlOFBBSDVCU2FCeGtra3c?oc=5",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

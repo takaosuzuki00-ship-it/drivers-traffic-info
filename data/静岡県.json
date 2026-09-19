@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T07:17:09.192952",
+  "generated_at": "2026-09-19T09:02:05.908033",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.4,
+    "temp_max": 27.0,
+    "temp_min": 21.9,
+    "precip_prob_max": 18,
+    "precip_sum": 0.6,
+    "wind_speed": 5.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 26.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "15:00",
+        "temp": 24.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 24.9,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 24.6,
+        "weather": "曇り",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Fri, 21 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "速度取締り指針",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnNnUzRmWDJGcVd2MVJISkZlTnp5MjA3WDNRWmwwaFpiblFOVEozV2VJOVNFc3JkS202X1BZRERUTnphdXZNd3FBSk4xRDhTTzR6TnVMdG5NU2IybzdzY2ZSQlhwU0dHMk1sR19UNGJvWm51QjdfenhHb2toWGRLdlNEYTl5dkdfSnk4UmhocEdMaDNtMlE?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "連休中の事故防止へ 静岡県警高速隊・交機隊が交通取締りの強化の出発式",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTkZmTlBwNlNfOFEyTy1SVEVOMWZwZGowcWl2d3dOeFE2b05icWh6SWl5YnZ3ZVZIQm43RXdMbktOREtjU1NNOVhYalhNOHEwQjBvZUczVk1Qd0k?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「お酒がらみのトラブルは多い」静岡市最大の繁華街 “夜の両替町”の警察パトロールに密着 1時間のパトロールや検問で見えてきたのは…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40T3g1WjUzT3pDTUZpMkpENXRSYkJHcEpxMkVFNV9yRGRiOTNnSk5EZ3UyUFJHNGpUaGhZenZtTlJ0VnMyaURUbG1VMU1LRFRFODUzZUZwZmNKelU3elkxbVQ3SQ?oc=5",
+      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "川のレジャーから車で帰宅「飲酒運転やめて」 静岡中央署が啓発や検問 - news.at",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13bG50eGRqLUhldlBFOThJSXhsMGZNZncyNHBiVU9lQmd5d1QwNnE1clFPdFIwSVI5bVllWTF1MF9PTGhleTdsTjh6bjZUQQ?oc=5",
+      "date": "Sun, 16 Aug 2026 21:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【連休注意】逆走運転で“あわや大事故” 静岡市では頻発エリアも 遭遇したらどうすれば（静岡）（Daiichi-TV（静岡第一テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSkVCeDMzZ0NmZGIzemthaXI2VG1uekhaaUdYZk1nUVNYS09RajMyTnNlQ3BydkhTYThFc05lRVcwWDlqa2Zsdnd2UmJ3SUFaNGcxTGQzeUNPaHNpV0dYMnk3ZXFKRWlMTW5XMUNBR3hxd3ZIRzlkU09oV0NPb3c?oc=5",
+      "date": "Fri, 18 Sep 2026 08:23:00 GMT"
+    },
+    {
+      "title": "めざせ！交通事故ゼロのまち",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG9xamtQZlU3MnM2c2M3OWxoRnBodDlodUl6LUFxY3NaUV9UZ21LUU1NdVd1SUNFOUNyRkczN0NfdWt0QVRwUWIya2tZZUEtcjBMdmotVjRDdjVLakdGNy1HSkJSQkh5LXBldS1NNTRFaTRoYWNKREpYem5hSkgtNTBWTUVlT0Q3S2c?oc=5",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「追突事故で車が横転している」長泉町の直線道路で事故 運転していた70代男性が意識不明の重体＝静岡県警裾野署",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CdXFVOTBzRndheEVFSnFTVGFWSjdTYTZZV2lPeGlHWGpuNVBQSXpBM0puSHQ5SVRTZEk3SVNOM1FTWmJfdTRhb09Va1FfbGpKVkFnRVFYVEVad1VSTlRaSnFCX3l5a2tSRURWSlpZb9IBdEFVX3lxTE1qaWFYcUlteV9VbTBMaTloVm9pLWd5V3V3ZzNjaVFjcmI2bkNrd3RvUWdFMVFCVTd6ZzBqb2RNQ2tNOENBZjZrMWRTZTFzTWJwUEh6dDNTMXdEX2FrVzFDZ3gyai1jZ1VDbnUxT2hrYi1FMWtP?oc=5",
+      "date": "Fri, 18 Sep 2026 08:37:00 GMT"
+    },
+    {
+      "title": "交通事故で車の破片などが線路内へ…東海道線が富士駅～興津駅で運転見合わせ（静岡市）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWk4NjFKMWFsOHUtSGRHam9nbUFHQWJZZ085STJMbmtjR3M5Qi02WTBzbUJYZHpDNjZwY2IzYjB5MXRuc3p0dmplNVk3anE2SzBOLU9Ib0cwSUM4el8tN0dLaEZwa1FVZ0g4cC1HVUMtOHF4bTVBNWw1Q3VxQ3BrSXUzZExEUW8?oc=5",
+      "date": "Sun, 06 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トラックに積んだ鉄骨が崩れ男性が下敷きに トラック運転手の男性が死亡 警察が業務上過失致死の疑いも視野に捜査 静岡・袋井市（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTkhiM3ZSa1VxQW50bG4zcENENEptVmNBaGwwTWNwOWdvbHJOUEl5ZWtHVTJ1Ul9Ra0ppMW1FWmhudlhIN3otdEh0aUpLNi04QjE3NWs4OHVnSGduSmowZXhiM052dVE2dUVIaXRWQVBqUzJtbEtkUFRqakdDX0E?oc=5",
+      "date": "Tue, 08 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

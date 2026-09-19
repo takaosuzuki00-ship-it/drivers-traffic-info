@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T06:47:08.798416",
+  "generated_at": "2026-09-19T09:01:27.057023",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 22.0,
+    "temp_max": 22.8,
+    "temp_min": 20.9,
+    "precip_prob_max": 76,
+    "precip_sum": 1.2,
+    "wind_speed": 10.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "03:00",
+        "temp": 21.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 49
+      },
+      {
+        "time": "09:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "18:00",
+        "temp": 21.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "21:00",
+        "temp": 21.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 8
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "公開交通指導取締（２０２６年９月１７日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yMV9HX1psdnp5N3cwOW56WE05cF9ENXUyZ1llR0ZzQlRPam1fcHRkd3A3X0lHYVcxVWUwbmJrN0E5Y003YTl5OWkyZkFDLVFVckR1T2NmbU4?oc=5",
+      "date": "Wed, 16 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２２年６月１０日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fNjJoVzM3WEp6MEg3T0dDWkstbC1OcHhMQUFqYWgwWFlEVVAzTU0wanU4VzBRZENJMmNTaTR2TjdVNXVCQnEwc09BOGJ4VklFZ3RCQlFjaw?oc=5",
+      "date": "Mon, 14 Sep 2026 04:39:26 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２６年４月９日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YMjBabzE1Y0EyZHlJS1lvOUhfSS0zSVFfTTV1M0l1eXp0RE8yMjdJWUZvWmhTdkNwQTNNdmFqQ2hua3hBWUJkZWE5ajVRRU5OUjlKTTZlYjk?oc=5",
+      "date": "Thu, 09 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２３年１０月２４日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MekVkendnejVjOWZ4T05ERzdrZlhqZnpVQktKblZuQ3d1OTVidDdnaWRJWGNzTzZDbkxQRm13Vm9LZjlsdU5GRm83eUZVNmZQRkhYaVZxMTA?oc=5",
+      "date": "Thu, 03 Sep 2026 03:39:39 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieG8zc2t6Um5qbC0yWWZ2MkpmNl80cWdMMnJoR3paSk9DdEZmdXo4S2Fzc3hCSGlJVWJBTTE0UWFYT0YtMHpSYng4aE1UWVpGVXc?oc=5",
+      "date": "Sat, 05 Sep 2026 01:24:47 GMT"
+    },
+    {
+      "title": "大型トラックが自転車巻き込む事故 千葉駅前の交通量多い交差点（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51eUdqT29oQ3ZwLUJXbjZnTHlJWnpIWnUyVC1PRXFRMVVhV0FlVHhhUW1SVnRDSlFzOGxIZlhtazVjNm4tZVlya3ZtX2lxVzBRemE5SHZVMldMMm9WT1VNaHVKenJKM1NqcjZnZlNDOHI4cFphdjBibV9pLXAwc3M?oc=5",
+      "date": "Mon, 14 Sep 2026 07:51:05 GMT"
+    },
+    {
+      "title": "千葉・柏で乗用車同士が衝突 高齢女性が死亡、子どもら計7人負傷 [千葉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5neGFLbmNrcDNzU3Vwd1hGZXhZc3BRVjBzbDNHRlJfdm0tREl6eTYxMWFYOXdvZVRLQklfOUFjRUEyN1M5V3JUUGs5a2hlaGgyVjVham5sS0hVRUlRZ3poOXJUc185X3c?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "過失運転疑い、高校生逮捕 車横転２人死亡―千葉県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTG91UE9JQUdlUmFKVWttcWdKNHNzOHROa3F4LThpZXJQUWxEMVE0YWVJclNsbnpPNzJtUUZLbUhjZDlYdFBzT3BfS3hDVUFRcFFDRWFwTUFrS2FxeGhJdmdYWQ?oc=5",
+      "date": "Sun, 28 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "京都府内2カ所のアンダーパスで初の「予防的通行規制」導入 千葉の冠水死亡事故受け（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSOEQ0ZDROT20xZF9ORlM4MnA0bWZHampsc3k3WFZVa211dEdWTVBLb3FxZ2FRNGtZbGJWanVfYmhOcFMxNUhQY0lLOXZCM09udjhzNzRTZXJ5d3lyeWhGUVpXMlpBdGZvX2duMGhJdXhVRzhHMGt6eXJqektyV00?oc=5",
+      "date": "Fri, 18 Sep 2026 23:46:52 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",

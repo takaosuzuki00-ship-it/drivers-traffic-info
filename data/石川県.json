@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T07:02:09.025343",
+  "generated_at": "2026-09-19T09:01:46.248410",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.0,
+    "temp_max": 26.8,
+    "temp_min": 21.0,
+    "precip_prob_max": 29,
+    "precip_sum": 0.7,
+    "wind_speed": 10.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "21:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 6
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月18日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3dmxmeXk3bndQZk8yMDJkUEpzUHZPTDRNSU1GRVZZRnE4YzFDdFNsWk93TnZDZ0x5U25vM1EwTW1EWGl0M1hyWlNHMnpsb0ExTjhBOEJhQV81X2RSVzNIVWtGamFScFRkWWhvdWJ2b9IBdEFVX3lxTE5md3hmTEwtaXBRUUFzXzBFWlZDeE5VQWFIXzlBdGJod0czcm1iZ05TRUc0OHlfN3plMlpOMXkxbFM4Z0sxWVFXODJ2NkQ3c2R2eWZidzB3VExaYkRFeUgwam5SNm1ETk4yQmxrV1NMY2d1MTVj?oc=5",
+      "date": "Thu, 17 Sep 2026 20:05:54 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "9月17日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3SE1XMjRTbXltY1ZjY3FTOFBGX3Q0T0toa0lER242Uk50dUJyUlZDSXYzVjluZjV1bElwelZ2STktaU1Xb2J3RHRsVFQzckk3V0hRWklBX3RLVkVDeDRqblFDMnRlSE5kVWpVNXJOa9IBdEFVX3lxTE9FLXI2SnNZN2IwX0xQaFEwNjNOMWRCTEtFNi1vb2U0VGI4ZVFEczRzTlBXN0FVdUhEWkhFdW1hQWZkZm05UTh6M0FsOU1VWE9JRmRRRTVWNWxrZENHX2lhcnRONGJobUJFeVNMWVZUZDVWNVkw?oc=5",
+      "date": "Wed, 16 Sep 2026 20:16:19 GMT"
+    },
+    {
+      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm9ZWG9ReEZ1THUxS2JzM0FENWNXX0thdkMxQk5VTVB3V0ZuTXFqMmZhb2NKS3VwejE3Y29tQXM3ZDBZcnBZaENUei1vNWtKZDhvQW5qTUg4QVNMNUM3SnRQT0dnRllkblctVGNYQzF6S0U2V2liQ1Byd1N1SUtNekRXV3VKaHM?oc=5",
+      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "北陸道で時速190キロ スピード違反で金沢の72歳男を逮捕 容疑を否認（2026年6月3日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVFqQjBlMGNfbHJET2lXOE1fcFo3NDJobG0wZ2h4NVJqdlZ3N1BYT0ZIdHIwQm91cXVHbDI1amNjMDM4NGxLX1haVTI3aVN3NWZTYUlTeUhPUDE3cFhkaFpKY1IxU3BYeERoWEljcVJPNlkyRmUydUR0aE45NXNvbnlDbV92Nkk?oc=5",
+      "date": "Wed, 03 Jun 2026 09:51:58 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "事故多発交差点、石川県内のワーストは？ 日本損保協がマップ公開｜社会｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12LThrQzJub1Y0OGlEVkE2Z2M0aDE2ai1xajNsYTV3clBlSXBlTl9QWUdvd004Z25jT1VaUkZRVHVPNE1PS2thODBrNl9iLXhhNHV4eHQzcw?oc=5",
+      "date": "Thu, 17 Sep 2026 07:01:00 GMT"
+    },
+    {
+      "title": "“逆走車と遭遇” どうすれば？ 相次ぐ車の逆走 石川でも事故 専門家に聞く対処法（テレビ金沢）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XcUg3cVNHWGF4bFM5akxvUWt4VUR6cXpsTGZpd1hOUjBTYjB1ZW9PNzJxV2NJQ1pDc3NhOVEtZjhXQmdIMjNTaTVNaDF4MEhNN1Vucm4wXzZXMDZRc21lazlfYUVia3N0eFFwYW9jU1BZbjJFLUtYNWFNMVlWZG8?oc=5",
+      "date": "Fri, 18 Sep 2026 09:54:00 GMT"
+    },
+    {
+      "title": "交通死亡事故ゼロ ５００日を達成 石川 津幡町",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zc1dSYjkwUzZIUGVia1c3YzNGZFpoTkhjQU1DQWdHWEc0T09UYTBBakIwY3djeG5raVNNRUxSVU90NXhJeEhyX2Q5U0x4WFZqUWE4aEgwaWk?oc=5",
+      "date": "Thu, 17 Sep 2026 06:11:00 GMT"
+    },
+    {
+      "title": "事故多発交差点、石川県内のワーストは？ 日本損保協がマップ公開",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zQmJ6cFM5ZWE4cEx0bkpkTGtqQnNILXNVR2JLbjdjREpfRU1GM3llakhuWFNkRXFtR0I4VWFEOWY0T2dkT3haMUlRSQ?oc=5",
+      "date": "Thu, 17 Sep 2026 07:01:00 GMT"
+    },
+    {
+      "title": "事故多発交差点、石川県内のワーストは？ 日本損保協がマップ公開",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVG9nZ1pWNFJtWDlOR0FPejJQRmxFRS1HaUxWbTNYWVRLSGJNMmU3WXpLd3Q4M2ZhU3M0MzlyX1czX3pRTWRTSWl0dm9XNlpXWTlMZkp6VUNWMGNRbTBON1pLNUgxZmF5NWw3dWRNNFd3RkNMX2hhUQ?oc=5",
+      "date": "Thu, 17 Sep 2026 07:01:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "石川県警察 公式サイトを検索",

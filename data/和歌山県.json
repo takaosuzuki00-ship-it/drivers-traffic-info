@@ -1,11 +1,112 @@
 {
-  "generated_at": "2026-09-19T07:41:09.489037",
+  "generated_at": "2026-09-19T09:02:38.546982",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.7,
+    "temp_max": 29.8,
+    "temp_min": 22.0,
+    "precip_prob_max": 37,
+    "precip_sum": 0,
+    "wind_speed": 7.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.2,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "03:00",
+        "temp": 22.9,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 29.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 37
+      },
+      {
+        "time": "18:00",
+        "temp": 27.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 12
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「黙認されてきたのに、なぜ今」全国でソープランド摘発相次ぐ…“裏事情”と見落とされがちな“最大の被害者”とは【弁護士解説】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rblk2bWRiN01GblRvRk1yZGZhekZRTk9qQ05lNGF0ZXVjdjFGTS0ydHN6OU8zQmo2MGNaVS1SWlg4Tkx2WkpMa196SHhHUDNoWkp2OTdjMVFpRFRXMnZnZWcwNktwZFZhQUF5SGtwX25scUdQZWxjbnpLcDZ0MWM?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交差点で車とバイク２台が関係する事故 大型バイクの男性死亡 和歌山市",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSXdfWWc2cVRmMFFzS0poRWU1d0MzV09PYjJqby1UOEU3aHBhOFJ1NmhndFBwUmxuQjkxR1JCYmwyQW5GeWdVWEl1cExVUmhUcVJhRVF3a1k1TTR6b051U1BB?oc=5",
+      "date": "Thu, 17 Sep 2026 04:58:33 GMT"
+    },
+    {
+      "title": "【速報】和歌山市の県道でバイク２台と軽自動車の計３台絡む事故 大型バイクの運転手が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12ZXRwU2Z3eEFsWm1CY0xQWjdkQ1VJc3BfcEgwclYxbGwwT2s4QzNraFhTOEg3LVdCcWZ5dDZuZFpoWmNhS18zdUgtV1RJdw?oc=5",
+      "date": "Wed, 16 Sep 2026 23:54:00 GMT"
+    },
+    {
+      "title": "和歌山 県道交差点でバイク２台が衝突 ２０代の男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lMktFa2JPZE5aN094WjF6RDVvQzhibEU4ZUE1Y3NWcTZITUFzNHFOTjl2S1R1dkx2MU04WV9PQ0hzMTdJaEdiUzdYemR4U1FuWVQ2TjR4U0o?oc=5",
+      "date": "Thu, 17 Sep 2026 11:43:00 GMT"
+    },
+    {
+      "title": "和歌山の県道で交通事故 大型バイクの２０代男性死亡 交差点でバイクに衝突し転倒後、軽自動車に衝突 (関西テレビ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEQzOWNHemVyLVN2UThOWjR4ZnFHVjZiYWF5UGZLUWp5VFVMT1ltYlhlZUs2ZjFqZklRdlBrQUdzNU9uQ2I5TmtCVEU0blR5T2tNSk01Nk4xVDBHYWdWNG5yTUlsXzVGYnAxemJJYmZ6WWNiYVJ3UGFuZW5KU1pNcW1mSlJtQjl1OHVpZTVR?oc=5",
+      "date": "Thu, 17 Sep 2026 04:09:01 GMT"
+    },
+    {
+      "title": "【速報】和歌山市の県道でバイク２台と軽自動車の計３台絡む事故 大型バイクの運転手が死亡",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DenBUM0owaS16RWRrNU02NDBlR013ZG5DU0g3WXBrUXR3TnRnaTNHSk0zNnhvU19CWDFQQ1dsUW5CNzVtdXc3VUNjOFdmczlnMjZ1NkNuYXdxR0s1UkNleDBFSm8wUmg1R3hFUEx3?oc=5",
+      "date": "Wed, 16 Sep 2026 23:56:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "和歌山県警察 公式サイトを検索",

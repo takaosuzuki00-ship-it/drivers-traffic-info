@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-09-19T06:53:08.918853",
+  "generated_at": "2026-09-19T09:01:36.095702",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.7,
+    "temp_max": 22.7,
+    "temp_min": 20.6,
+    "precip_prob_max": 53,
+    "precip_sum": 0.7,
+    "wind_speed": 11.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 20.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 49
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "12:00",
+        "temp": 22.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 53
+      },
+      {
+        "time": "15:00",
+        "temp": 22.7,
+        "weather": "曇り",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 22.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 43
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "交通違反取り締まりで不正か 神奈川県警が違反2700件取り消しへ [神奈川県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcUEyMnlBMEZmVldpbXBYTlkzU1lhUmRhRFl0bUZCd2ZLY3JWVEJaVnpwQUlLQkhiSGJzMzJzQlNnRk9paFdRWmEtMzB5aG44ZGctYzRtbDVjdV9JQ201b3BXOHE5MWs?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反２７００件取り消しへ 神奈川県警、速度超過など書類に虚偽記載か",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IREZDQjVtVE15X1BCOHVNTmNMTFhPSGl5TjR3QVg0b1BfNmF2djBFLTJVRVAtZWdCTkM4eEU2VkZnU2lGYnkzbXFsZkl6WUNQcS12OGgyVHgxMjVKS2E2MXY3WnlhMWRFbWxqc0NB?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警、交通違反摘発で不正か 巡査部長らが2000件超に関与疑い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53eVJIN3RlNnI4MEVBeXlaYUh0clkwNmhwUWg5b2tzOEZNTkhUSFVETXgxWnU0RS1nY3h0Q3Z4UDJZOHJ3LXJZa0RrbHE4R2k0eW1SRUxaU0NMNzUwdkxTNUU0TnVkOXJjaGtxWg?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通違反で不正摘発か 関与２７００件、取り消しへ―容疑で巡査部長ら書類送検方針・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tUWQwNlFlQkJBVzhBc2gwNWFnMEFnTlFndmZ5UjFvVHZBX1NocFpNXzM0S0dGM1JkVGdYczNycGJsSER0eW9oNE04NzlVWmlRNTY5WEFzaUhLNFgtYjZqelZqSQ?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "横浜・神奈川区の国道で警察車両と衝突、オートバイ運転の男性が骨折の重傷",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YSWstWFY1eldKNWp0YjA5dW94TW95aE9UN1AxN0d5aG1EVjhHZWlIWmZaT080QnlzbGFwekhYVzZPb1JRaEo1SkVsNldxWmI0MFBuemVYWlpUb2dJa1BLMFpCbUloQjVfbFZRd05B?oc=5",
+      "date": "Wed, 16 Sep 2026 10:40:00 GMT"
+    },
+    {
+      "title": "東名高速でトラック3台絡む事故 30代とみられる男性運転手死亡 神奈川・川崎市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16VGZVbUhMUGQwS20yZll1UVY0Q0FxUHZ2QW9VaFRUVEk0UjlfVXN6ZEdHOUpGYU9yMHBzRUhSMDVKbVZWZFBTREhZRWtuVm1XeXBka3VlRmt1TTY0SUFaV2RyWWRVMl95ZXgwT1dUc0ZNZHppMjdodUxXV1NsWlE?oc=5",
+      "date": "Wed, 16 Sep 2026 02:56:00 GMT"
+    },
+    {
+      "title": "「赤色灯で事故抑止」東京ガスネットワークに感謝状 神奈川県警｜tvkNEWSアーカイブ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3NVVGaHdOaS1HWll4dk55Tk1wMnFyZEY2dTJMODA2MWRYVUtBOGExVENQT19OQnpFVWtHdnRqUzhhY0ZCR2twYUlpVk1IcUhYQnJLcTBEaWJDQmw5VGtxOVhQOWhNTVdBbVNGOFpQb01fZHM?oc=5",
+      "date": "Wed, 16 Sep 2026 09:37:00 GMT"
+    },
+    {
+      "title": "回送中の神奈中バスと車が衝突 62歳男性が死亡 バスの走行車線上で衝突か 神奈川・愛川町",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KY1gxRnhDbWVna1VtLU52ZkhSYThTVmtNSUt1aHFJbGpZSzdTTU1yZVRxM0E2cFdSVzh1Umc3aGtWWWVJeEpJUXhIOGd4UQ?oc=5",
+      "date": "Tue, 15 Sep 2026 11:56:00 GMT"
+    },
+    {
+      "title": "関東7都県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxYjBHam1abl9wZHpnRnNzTkxQSWFxZ0k1d2lBc0hhNWN1U0lfdEJiYkhQamFHLVJDeUoyYmtmaVpNMGYxWjE5X0N1R2pFNVB2YzR5WHY2bG5UUWRMTXFkbzEyLTQ4UWJoemhr?oc=5",
+      "date": "Wed, 16 Sep 2026 06:51:12 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "神奈川県警 月次取締情報(横浜16+川崎7箇所)",

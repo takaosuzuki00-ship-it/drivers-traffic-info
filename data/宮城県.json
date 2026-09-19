@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T06:23:08.428408",
+  "generated_at": "2026-09-19T09:00:51.319947",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.2,
+    "temp_max": 23.3,
+    "temp_min": 19.0,
+    "precip_prob_max": 100,
+    "precip_sum": 0.1,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.2,
+        "weather": "曇り",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 19.0,
+        "weather": "曇り",
+        "precip_prob": 41
+      },
+      {
+        "time": "06:00",
+        "temp": 19.3,
+        "weather": "曇り",
+        "precip_prob": 37
+      },
+      {
+        "time": "09:00",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "12:00",
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      },
+      {
+        "time": "15:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 51
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "MDMA2万錠 押収物を公開 宮城県警で過去最大量 麻薬取締容疑で逮捕の男宅から見つかる",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TemJJOEM4WDdvZzlscDZpbUtxQnJEeHJCUmhmZHQxeUFLcXdUaVVNSGtvQm1xTWZzeTc1c2NCaDY1bHdkSGFwNHFQS1ZJNzlBYVdYaml4Y1hqZTdGQUt3cQ?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「交通事故のない安全な宮城県を」秋の交通安全運動を前に出発式＜宮城・仙台＞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGh4aUtkbEU4eW5OSWVPcTlHcmxhTTNIUkVGbjZpbExCMWJobGZCQzNNTC1namdXeVVSVTlQeWdvTHN5WmdqVFVsRHh1YnVnaXJ4dTh5TmFRaFR0ZXVvanVxSTdlUTBvZl9xeVpXY1dScXhDZkxFellreVMyb1BGWVMzby15VWM?oc=5",
+      "date": "Fri, 18 Sep 2026 10:07:00 GMT"
+    },
+    {
+      "title": "「交通事故のない安全な宮城県を」秋の交通安全運動を前に出発式＜宮城・仙台＞",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aTF9GbHV5SlltdWpMWDYwT1c4UDV1QWJUWFdBMElsdjFFSGpPRmd1ZzRiNE9ZQmdDTHZ5TFBrU2drcm01TTRQemExTQ?oc=5",
+      "date": "Fri, 18 Sep 2026 10:49:04 GMT"
+    },
+    {
+      "title": "秋の交通安全運動、県庁で出発式 89ers片岡選手「事故のない宮城を」",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QQzZqdU0xMDRXZ0ZXY0NjaGdZaHRPMTc0TEphWlBpM2RPRl9tY3p4alI0ZmRDcGFMeHNvc0h3eXNscmZmc3lMN1lLOHh2emRHbnZwUmZoYjRDZ3plbHZzag?oc=5",
+      "date": "Fri, 18 Sep 2026 02:43:39 GMT"
+    },
+    {
+      "title": "宮城県気仙沼署と岩手県千厩署が合同で交通死亡事故抑止対策",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lSU1kcUFZbWh0dWttNFJORGVFclRESGY0ZURSbHZrSl9waWZha3gyanNyX00wWW12XzdYN29TVEJxaEpkZmExTk9Hdkh0Y01vaWFCeEJUYXBBVnc?oc=5",
+      "date": "Fri, 18 Sep 2026 01:30:37 GMT"
+    },
+    {
+      "title": "【独自】殺虫剤誤飲死亡、周知せず 石巻市、翌月にも事故（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pc25JQ0xRNHFNNXBkVGw5SHg4N1dFbkN3S0F3c1YwblE3Tl80dkpqU3dDVUV1M2ZHdnRHS3RIaGdBTXNHQm8tbXRIcGJrYXMyZFlNWEk2MnhoMUNKaTNyRDl6RGhnVG1ZTTY2aUJESG1oLTJ3M1lUdzlqRWhIQVk?oc=5",
+      "date": "Sat, 05 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

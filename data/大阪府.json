@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T07:32:09.374277",
+  "generated_at": "2026-09-19T09:02:26.097493",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.1,
+    "temp_max": 30.1,
+    "temp_min": 22.2,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 5.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 29.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 30.1,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 27.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "府警フォトニュース（速度違反特別取締隊出発式）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX0lWNVhFOFhyc1Q5NkU1ZVllM2FyYjRtamJodklUczdvWDBXRXpaSjVTclM5d290VDJBWVcxNy1GRTVBdll4YXBMc2NTdXhHOV83dzdpZ2haZ2dQZ2tYQVRaZjZyamRBd0xDSzVkTHI0UjBxWE9rZlpSRFo4VkNxWFRGaURBQQ?oc=5",
+      "date": "Sun, 10 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の交通違反に対する交通反則通告制度の適用について（令和8年4月1日施行）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfbndmUzFoNndpdmEtUTFKTGdtWHgxUVJIeWpvTnhjaU52MWNmZ19vZXF3bnhiZG00Y19aT1hpNm5kX3ozckl2cHpSQ05GM0RNNS1RQWZhQ0NyWGZGam5PX1RmaTdFTllNRVhn?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "吉川友梨さん行方不明から23年、現場で検問 情報提供呼びかける [大阪府]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qbVlYOVF3OC1zOUx0V00xTWJicmx0TGZPMW43NjZpOF9VM1VCYV9VZU9YZkFqbkRBT3ptNy0xUVhiVjlpLVV1ZFM4bU9WOWkzSUxEWUxoeEZ5N1YwcEVQUEJtcXp2R0k?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "改正道交法周知 府内で一斉検問 酒酔いなど7件検挙 ／大阪",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoVjNkOTI0aFFocldfM3JiV1JvYTQ0RjJYVmo4Q29vNHR4VmMtMFVYRUpYZmhQY1NydFAzRDMxV2RoTEl5OU50UkFab2JLSGVaYUQxU09Fem12My1vemxkajlSMU9yb2Vf?oc=5",
+      "date": "Tue, 11 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "友梨さん不明２３年、大阪で検問 捜査員「わずかな情報も連絡を」",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41cWVleXNqU1pFdzBEeFNuTDZjb0JoVUZUeHpRS2EtdjZ5MW1tRFRPT3QxWk9tVmZ2TjhFX29OckRlNEwzRm1hZmVXZmtmaWhEaWhjSVgtWXhxSXk3U2xpMTE1X2ZqbXowSnRYNElMVQ?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「秋の交通安全運動」前に警察と地元高校生らが交通安全呼びかけ 「事故を未然に防いでほしい」大阪メトロ・新金岡駅に書道部が手がけた作品掲示 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVGJCNVE0QlRFOGdmODcwOEotTkRzZlloQU84bzVwRWVtel90WGhqRHotRmJNclV3OC1IYk55V2Z0elBBdm1DSjhYYVI1RXUzVTRacG9wMXdpTUV2M0Z3eGthOUFnN3M?oc=5",
+      "date": "Fri, 18 Sep 2026 10:51:42 GMT"
+    },
+    {
+      "title": "勤務先の社長を殺害し交通事故に見せかけ放火 男に拘禁刑22年の実刑判決 大阪地裁",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1daVEpjQWxwUk5tNXNNT2JWbWhuZlJsc1NRbnFWT3d0M01xaElHX1pySllUaG1XN1N4Y1ZDUV9VUjR2ZUYtZnRmdHhuVXRzSDEyeGVMZkFQMi1vMjFvZW4tMkRkMHpiNEEyNmdkbWY3NGRUUXlCdFRLSXo4Znc1dkViVWN4S3c?oc=5",
+      "date": "Fri, 18 Sep 2026 06:48:00 GMT"
+    },
+    {
+      "title": "上司を殺害後に遺体を運んだ車に放火 部下の男に拘禁刑22年の実刑判決 交通事故に偽装「間違いありません」 大阪地裁「計画性の強い犯行」悪質性を指摘（関西テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Bei1najdWRUhFZVJYaWNwNDVhNVY5LTFuYXFjeGROckx1R25iaktDZWtucGFtQUZVdF8tSGJ3bU00NUl6MGZ0Q2pmR3REbkNQSm1sdDJROExrZ3BqX0l0enFrODZtTnJ1MEpaQTIzNVBKVU44bjc5RFJya1d1eWM?oc=5",
+      "date": "Fri, 18 Sep 2026 12:43:02 GMT"
+    },
+    {
+      "title": "交通死亡事故が発生",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0VLM3B3YnFuTGZnTjA3S0tuaV9KSEwwek9vS2UtUktadEJ5VVk4YlYwT3BRaUYzcm04dDgyUXItS0pBcTNVSXB3bEFOUjRocXNDLWE3dUV6cjBCQUFISS1ILW1MM1Zhaks5aTNUSVd3WTg4b25hYjlKXzczREV0X1NpaDZ5UkRBVXhNbHNHdGU1R3hGS2VsQjlvLUQ?oc=5",
+      "date": "Mon, 23 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「秋の交通安全運動」前に警察と地元高校生らが交通安全呼びかけ　「事故を未然に防いでほしい」大阪メトロ・新金岡駅に書道部が手がけた作品掲示",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX1hibWROR2l4eDMtUk5OY0NPSTF5bmtKallCamR4U2dNaHlwY3UyUkVDUVlNc25odnZVMHlmNWxCYm94TjJ5M2NwZmQwVlVwTFlZLWFGYjRPbTEyZ2V0RU9tMnJGRlZqSTNrQVREZ0F5UTVPa3JNdnZjcWw3TXZYWEx30gGCAUFVX3lxTFBfWGJtZE5HaXh4My1STk5jQ09JMXlua0pqWUJqZHhTZ01oeXBjdTJSRUNRWU1zbmh2dlUweWY1bEJib3hOMnkzY3BmZDBWVXBMWVktYUZiNE9tMTJnZXRFT20yckZGVmpJM2tBVERnQXlRNU9rck12dmNxbDdNdlhYTHc?oc=5",
+      "date": "Fri, 18 Sep 2026 10:51:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "大阪府警察 公式サイトを検索",

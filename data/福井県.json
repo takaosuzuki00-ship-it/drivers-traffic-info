@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-19T07:05:09.058450",
+  "generated_at": "2026-09-19T09:01:51.281055",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 23.4,
+    "temp_max": 28.5,
+    "temp_min": 21.5,
+    "precip_prob_max": 18,
+    "precip_sum": 1.1,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "06:00",
+        "temp": 21.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "09:00",
+        "temp": 23.4,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 ４月８日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tTGFhSWp0cVdOLWFhODRTbHgxVUt2eGlyUmxzUXNDRTIzbGUtOUphX01Jdy1DdTVGNF9fSHczR1dWRkJkSF8tMllrUmVmbFpRNUtlcWViV1ZiVW5aamc?oc=5",
+      "date": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZWU9ncmZ1Y3E2NWtnZEc2TzczcGZDc0Z1Z0FVODFYb0I2UmJtcUsySVBpTkVJZFpCMUlrTWlvNVNyOVdGR29uUW5nTk9IQVlWWlg1SVE0OURGREF3X2c?oc=5",
+      "date": "Sat, 18 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１４日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucnhNbTN6V0xtLWFsZXcyOUlPWVB1NHY5bjVBSDN0czE0V3BnTWhHYzQ4dHl2Si1mRUZvZzNfZERrVDExdTMyOVpBamotcUQ2amtNYVJDMlFKQkFaR3c?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒酔い運転数値化であわら署が啓発検問 国道３０５号 | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdEJSNmJSbEhJMjJfUWtnLVBReE9NNUZTRnN4WThLSVMtazllbGVvWFFTOHdoRXFDeUZqQnFiRXlGSVc2anFwb3BpWll5cGJCT3YzX1lHSFZOeUp5SFE?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の身代わりはできません - think",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZnVjdU96YWZGNlFKOUJZQzdXYzdZT2Y5RnpWWEV2eGR5WkMxY0sxeC1SRjNsMFFhVVFfYzFET3oxVE4xVzJ1d0lZNU81Z01GTlRGVDJPeENjcS00RGVXVGlYa3lFSHduNlNGQVJVWQ?oc=5",
+      "date": "Wed, 26 Apr 2017 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "日没早まる秋は歩行者の交通事故に注意を 福井市内で警察官が児童の登校を見守り 21日から「秋の交通安全県民運動」",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pTDVaMVNMeDdqUUNTbU8waTJEeEVINkxXZm9WX3ROOThXMmhNcW1UdVkxUDZOcWo0Z0VMcURoZU9kYVVwTmd0eDNBOTVMRkJCMzA2YjkzbjY2dUtvT2RzS3c0RVRESU1q?oc=5",
+      "date": "Fri, 18 Sep 2026 02:58:44 GMT"
+    },
+    {
+      "title": "日没早まる秋は歩行者の交通事故に注意を 福井市内で警察官が児童の登校を見守り 21日から「秋の交通安全県民運動」",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6WDJ2WGVhdmEwZ3hRNW4teFFmdDFvbVMzYXN6NUZzVktSaUN0Zk9tN2szOTRqa2YxajZvSkJiT0NNNzBUZTJORWpLdk5xdw?oc=5",
+      "date": "Fri, 18 Sep 2026 02:45:00 GMT"
+    },
+    {
+      "title": "公共施設の駐車場歩いていた44歳女性が車にはねられ死亡 容疑で75歳女逮捕「間違えてアクセル」（福井新聞ＯＮＬＩＮＥ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSmxNbV8xWVNKV0xkb3p1cjRzdUhGZ3JZWXRkVU9uUURNMVpLRnVzU1k5WjhNM1NJdTFrdF81bk5HR2IwUlBZRWMtMjkwTjVPYTZMUTYxNVlPa1pfaWRueXo4azl6Qi1fX3dreE5jWXRZSDRFSlhXLVc1dzlxdzQ?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "駐車場で44歳女性はねられ死亡、車運転の女逮捕 福井県警福井南署",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRXBGYVMyXzRiTEFPMzJpc2tnVWVfWFZrZ05EbWRYT0ttbVJ4SEdtT25fUlZPNy1IRG1UbEFOSlVlNWlpdmhrYXR5S3dFb0ZvWmxCMFVxZHVIcXlkeUE?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "アクセルとブレーキ踏み間違え 公民館の駐車場で40代女性が70代女性の車にはねられ死亡 福井市江端町",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHVuWS00Z3pxOWVpM3dZa0RKM2VxeHllNTN1NkRDZ3JMVHp2WF9SR0NIRnV5ZkV5azJicTM3Y3owVGVKMEhsUG5rYThocVJVMjlXaUNHNnlDQWNWSWdMa0c5eTRWQUJESlNMSWEzdlp6LXhPZjNuSmFQRExJRHVlMnhFZjhwTHM?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",
