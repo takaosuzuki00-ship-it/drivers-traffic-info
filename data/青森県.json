@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-21T21:00:44.882587",
+  "generated_at": "2026-09-22T00:01:19.336735",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 20.7,
-    "temp_max": 22.0,
-    "temp_min": 18.6,
-    "precip_prob_max": 100,
-    "precip_sum": 2.7,
-    "wind_speed": 7.6,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.5,
+    "temp_max": 24.0,
+    "temp_min": 18.2,
+    "precip_prob_max": 24,
+    "precip_sum": 0,
+    "wind_speed": 7.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.1,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 24
       },
       {
         "time": "03:00",
-        "temp": 18.6,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 18
       },
       {
         "time": "06:00",
-        "temp": 20.3,
-        "weather": "曇り",
-        "precip_prob": 10
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 20.4,
-        "weather": "弱い雨",
-        "precip_prob": 82
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 21.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 21.3,
-        "weather": "曇り",
-        "precip_prob": 25
+        "temp": 23.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 21.0,
-        "weather": "曇り",
+        "temp": 21.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 20.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 19.9,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "9月19日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSzNxN1JRV2V1Y3o3MnhLbDVTeXlOTlJ5T2YtZm12WXJaYWtZUnptR0NoYU9YRVFUelB5R0FIcUp1UkZmUVV1M2YxVDlqQ1NOR3ZxV2EzQXVNV2dMbkdyUDYxeW9MR3RneDEtTTUtRdIBdEFVX3lxTE84dFVnd3VkbWlKYU5MYzRLRWc4R1BuMFFXa2FOWDFhbDBVZjFzVXd2R2FZVTNDRElsaTl6R2JXNzJxbHU2NTNIUThFN0ZzZ0d3ZzRnRFQ2dDRzdWNHSHI5SU5jR1VHcFNBdlB1RnUxV1l5OVB6?oc=5",
+      "date": "Fri, 18 Sep 2026 20:07:21 GMT"
+    },
+    {
       "title": "９月２０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNak5obzNZN2JlSThLNTQwd2NvQlRNNGNVTzlmZEl4Y3lVOUVqY1hyRG1GX29CaWNYbFZTbjNHYkwySEpMbWVlZXVzcGZFVFY4MDVMcWF4LThha2hxV3EwWHVBc3oySjNoUnVOby1ybDBBNGUwSWVxTWt4VTYwU2FzdXk0RFnSAXdBVV95cUxOM01fcVFyOEZEbGJTZzFmSG54QWFwa0Z6TEhydDFrSEVhT04wd3RDQ0RXdEJJQW5IT3Zwc2dtSU9fRVBNNnBEUm12Y1hETDVLREstVmgtLUZ0SzNBRUZzS1ZtZm5KM2V2MzNFZ3FrTy01WFA2dVBwZw?oc=5",
       "date": "Sat, 19 Sep 2026 20:07:00 GMT"
-    },
-    {
-      "title": "9月18日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3dmxmeXk3bndQZk8yMDJkUEpzUHZPTDRNSU1GRVZZRnE4YzFDdFNsWk93TnZDZ0x5U25vM1EwTW1EWGl0M1hyWlNHMnpsb0ExTjhBOEJhQV81X2RSVzNIVWtGamFScFRkWWhvdWJ2b9IBdEFVX3lxTE5md3hmTEwtaXBRUUFzXzBFWlZDeE5VQWFIXzlBdGJod0czcm1iZ05TRUc0OHlfN3plMlpOMXkxbFM4Z0sxWVFXODJ2NkQ3c2R2eWZidzB3VExaYkRFeUgwam5SNm1ETk4yQmxrV1NMY2d1MTVj?oc=5",
-      "date": "Thu, 17 Sep 2026 20:00:00 GMT"
     },
     {
       "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
@@ -97,11 +97,6 @@
       "date": "Tue, 15 Sep 2026 09:45:00 GMT"
     },
     {
-      "title": "【速報】青森市の国道で乗用車とトラックが絡む事故 男性1人意識不明で搬送 （ABA青森朝日放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HTlNPWVdhWWVCQzMxRnVhcGxXQkxNWGZxSGlqNGNZZGt5OU5qX0xzVnBLM3h4S3ktRGlmejFUdC1xeTRWQVFDT2N0Y0RTN0hEU3VKSnBUc0xzWVBpdUgzN3puMzcyS09pSzJOWWQxRWtvSmFYZHZjWkpNV1dicmM?oc=5",
-      "date": "Tue, 15 Sep 2026 03:09:40 GMT"
-    },
-    {
       "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
       "date": "Sat, 15 Aug 2026 07:00:00 GMT"
@@ -115,6 +110,11 @@
       "title": "車3台絡む事故 秋田の男性死亡／平川・碇ケ関の国道｜社会｜青森ニュース｜Web東奥",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UX2t5QVUwWGFyREg4bWl0UnRESGRYUnNLLTY4cjdGRW9scHJFdjJFci0zeUtTa2RoTUhRX1R6WGh2TXpoOHVqRF9nc2YzazFPUC0zeXEtRVE?oc=5",
       "date": "Tue, 15 Sep 2026 05:33:00 GMT"
+    },
+    {
+      "title": "「滑って衝突した」重体で搬送の男性死亡 矢立峠付近で3台絡む事故 青森・平川市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0NiN2pmcU9Kd0VCNjk0OWZaSTNPRzlDbzNLR2xMS1Y4NmN6Q3ZLUmtHVGxkd1V5ekhvTGRta2gzN0UxVHhZUUllU01jaENpNnhVWVljNDNmc1JRRDRzYllGZUV3ZUsyeEdtOUZOTmdWaHlXVnROejA3bVhEMGlyYkpFQjBta1U?oc=5",
+      "date": "Mon, 14 Sep 2026 06:41:00 GMT"
     }
   ],
   "official_links": [
