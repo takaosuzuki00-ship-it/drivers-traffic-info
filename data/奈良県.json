@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T13:38:11.528948",
+  "generated_at": "2026-09-21T15:03:09.992938",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.4,
+    "temp_max": 26.3,
+    "temp_min": 22.0,
+    "precip_prob_max": 90,
+    "precip_sum": 1.7,
+    "wind_speed": 14.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.3,
+        "weather": "曇り",
+        "precip_prob": 57
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "06:00",
+        "temp": 22.1,
+        "weather": "曇り",
+        "precip_prob": 90
+      },
+      {
+        "time": "09:00",
+        "temp": 22.9,
+        "weather": "曇り",
+        "precip_prob": 47
+      },
+      {
+        "time": "12:00",
+        "temp": 26.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 25.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 23.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 4
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月21日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjhGYkVfUjQ1UEZJcm4zNHcwQ2xpTnZIUG9weEF1a2hXM1hOa3VMVUZuazVXRHA2N3ViVDYxVFJWXzE0NWFJRVZENWw0ZHlIWlBrU0hzdTliS3E5NnRKWGNGSW9IQ2w3NkxJZDVEenNPd1pEU1puaThLeFlicFZaQ3BB0gF0QVVfeXFMTXBFaTc2WGJMbnQ3YWtyZm9HbEFKV25yQ2hROEdRbUI4LUNZM1NHNGt2UVB0a1dmdTUxLXdQX2JvYnl1UGZicGtNNUhJd3h3MVByQVJ3Q0dKVGE5dk5ZaWg2XzlUdHFnR0pEbTEweV9WSXBBd2k?oc=5",
+      "date": "Sun, 20 Sep 2026 20:04:02 GMT"
+    },
+    {
+      "title": "９月２１日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVJkb2gwWnR1Q1VNbkxJelVPd0hKYlJaNDNYaU95REtZWWhQNzhpbEVBSUItVDdwUHlhM0F6NHdLb2VCS2wwWWczWkNRUW5TTERVSDVCN3lHbm9DYTZsd3Z5Q09Jd0w3XzQ4eHJPSUJYVHhjVFBwQ0ZqRDNrblA5ejY3eWrSAXdBVV95cUxOd0NDRW1MZEdManJtc3Z0UmROaUV2WU9KRG96MEtpNzB3ZkFpdXdtUUozQVFoU29ZNTd1MzFrOFR6bzBDbHFnRmJPLWVxYUExY29EaE04aF81OG9RSThNSTkwWmZQQjVYd3YzS296LTctXzY2aGRsSQ?oc=5",
+      "date": "Sun, 20 Sep 2026 20:04:06 GMT"
+    },
+    {
+      "title": "９月２０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwSmRudjRXS0dZTllVUmpPM0thWjlTN3pOeldJNE50bXNlTzVhMVdCTmMyRlRoMFdyM2lMeGVBOFBXQVJLMW1FVjNjWTlyQlNSLThGRXphV21fZnhQaHM1M1NkZnFXWUFRNlJfSkQ0WXNqd9IBd0FVX3lxTE4zTV9xUXI4RkRsYlNnMWZIbnhBYXBrRnpMSHJ0MWtIRWFPTjB3dENDRFd0QklBbkhPdnBzZ21JT19FUE02cERSbXZjWERMNUtESy1WaC0tRnRLM0FFRnNLVm1mbkozZXYzM0VncWtPLTVYUDZ1UHBn?oc=5",
+      "date": "Sat, 19 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "９月１９日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXR3OEg3ajRkZFVQU3JocDN3WFVqaFNSQUJRbTY0R0lGVEZIY3AxNmpZRVBXUE05Y2NNNHV0LTRQVnJDWU13eThtck1SelcxVDhsb3BpWVVwYmhmaVdWdlRLdWhTdXl4U2N5eGlBRi1GTTVaX1NIdFJEbkp5dlhXUDk4RDZsVlRFM2xvUTJ6cl9OdWJGZVJpVmRyZUZhdDdtN0V3M0ZVMU1YOW80Z054RmtvNUFLenpuY3VzRGJVTVF1OVVUWE400gF3QVVfeXFMT2RJdlZhb0dKajlnaDNBdHBZM2F2RnRMejdGMW5hUmY1ckpEdUpGM3lpZDF5MjJtcVNiYm04N0VMTG1zZTVfejFLdTBfYllqZkRXWlhCMUhHR3dtY0VZY1ZHZkh4OVlXeHZwRXZWOVVnUXhhU2xPVFU?oc=5",
+      "date": "Fri, 18 Sep 2026 20:08:28 GMT"
+    },
+    {
+      "title": "「飲酒運転は重大な犯罪」 奈良県警が年末の一斉検問 12月20日まで重点的取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RDlrTzNCM01uSGlRbjBKdWxvQVlRQnU3eUdLYXotNm8tN0g0VUhRd09uZ3NVcVRnelJXWWVFYll5U1p2VXVUOG11TVZ6N005eDBpZDhOcDhnYjlRTURXZDBqQ3IyZEsybktrNktzcEhhZ01UZ3c?oc=5",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止へ啓発 ヨシケイ生駒営業所にチラシ3千枚交付 - 奈良県警生駒署",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EMHR2UGFYNWxudVdUU2liWjU3dDZ3c3F6TEZHUnQ2LTUwZGloZTJNWkFudE9ZSFo2bnJ2WUhiZGVfam91aXdrS0dlVzYzQ3V4NEdua1pRNmZzbWZCemtr?oc=5",
+      "date": "Sat, 19 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "交通事故防止へ啓発 ヨシケイ生駒営業所にチラシ3千枚交付 - 奈良県警生駒署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sMmNkZXRyLUVPbzBDa25lSk5SYXVzSUR0aVd1dHRINW1idkx1Wk9iMUZ4cWQwMXpoREJqOUVTT0o1VEYyVFlNd0o0cw?oc=5",
+      "date": "Sat, 19 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "奈良・御所のトンネルで車正面衝突 2人死傷、容疑で21歳男を逮捕 車線はみ出したか",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2a2NfYzM1cVRsWDFXNFpvYjhhbWw0OTQ2SjFURGdiVEdyYnBNdW93Zkx5VHNHV3lsMHlKeF81Vjg2bHNzaGNQa1BtQnpSVGdoLWJOcVdmc0lXZjktMEVWQ1NrV1NrX2lCTGdFQ3BMSWdVZTBwSFE?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良県御所市のトンネルで車2台が正面衝突、1人が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53UEpOblEwVVpFRzJyeXdERS1wOTZEdVdXSVYtbHR5cDVLQ2ZrYVcybnh6QjhjaWtwOHNjd29mZWFHRVlPQkNNRkdMcGphMDY4X05YbzFidmNucUd6NFFKa0VMNkNEMFk?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "北陸自動車道で4台絡む事故、奈良の大学生ら5人重軽傷 福井県敦賀市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RGRYQmtCUklBazFYRVJKdmhXaDZ6Wlp4Vl9LaDRLY2ZIbWhHRVFxMnB1Q1QySHZTMzR3REJ1M3hoUFAtSngwVUE2dy1iYVhBV2ttRHVCZWNnU1p2N1E?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

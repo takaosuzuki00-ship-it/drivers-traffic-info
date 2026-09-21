@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T12:47:08.645361",
+  "generated_at": "2026-09-21T15:01:39.571860",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 25.7,
+    "temp_max": 25.9,
+    "temp_min": 21.9,
+    "precip_prob_max": 100,
+    "precip_sum": 219.0,
+    "wind_speed": 20.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 22.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 24.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 25.7,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 25.7,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 25.4,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 25.3,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "公開交通指導取締（２０２６年９月１９日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hT29JZ2JjcnI5SnRYNkdFUHc1N0hmVGpZR3hFSUY2Wm52LXFBcW51SXBsMlptc05qZE5SaDBPQld6MS1OcDl4bERJcy16YmZZOU5DVUVMT2I?oc=5",
+      "date": "Fri, 18 Sep 2026 20:14:39 GMT"
+    },
+    {
+      "title": "交通取り締まり不正で７人書類送検 反則切符や調書に虚偽内容記載―違反２７００件是正・神奈川県警",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxeHBIeXl0WXdDR25TSFNlcm1iOUZmNEVyOHNxcFJ1X2RMMldDVzB0a1l5SUo3QzB6em5mdTRLWFo5M0tXc0hUVllXOThhdGlQWjNySDRKWWI4ZHlwblZGSF81MA?oc=5",
+      "date": "Fri, 20 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２６年４月９日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YMjBabzE1Y0EyZHlJS1lvOUhfSS0zSVFfTTV1M0l1eXp0RE8yMjdJWUZvWmhTdkNwQTNNdmFqQ2hua3hBWUJkZWE5ajVRRU5OUjlKTTZlYjk?oc=5",
+      "date": "Wed, 08 Apr 2026 20:35:07 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２３年１０月２４日）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MekVkendnejVjOWZ4T05ERzdrZlhqZnpVQktKblZuQ3d1OTVidDdnaWRJWGNzTzZDbkxQRm13Vm9LZjlsdU5GRm83eUZVNmZQRkhYaVZxMTA?oc=5",
+      "date": "Thu, 03 Sep 2026 03:39:39 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "ワンボックスカーと乗用車の事故 20代男性が死亡 千葉・中央区",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02TEhtMjdrdVRZM2FaYkVRaU93VDFid3hOZUxtR1hrSGZWQUMtb25jNndMaGVXemtjMmtZSjk1SExOaVpWVThsVl9ReFYtM21tNVY1NG5oTUNSYWw5V1NENnJYSkgxWnAwUk1TSmk5NUZudw?oc=5",
+      "date": "Sun, 20 Sep 2026 11:01:26 GMT"
+    },
+    {
+      "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieG8zc2t6Um5qbC0yWWZ2MkpmNl80cWdMMnJoR3paSk9DdEZmdXo4S2Fzc3hCSGlJVWJBTTE0UWFYT0YtMHpSYng4aE1UWVpGVXc?oc=5",
+      "date": "Sat, 05 Sep 2026 01:24:47 GMT"
+    },
+    {
+      "title": "大型トラックが自転車巻き込む事故 千葉駅前の交通量多い交差点（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51eUdqT29oQ3ZwLUJXbjZnTHlJWnpIWnUyVC1PRXFRMVVhV0FlVHhhUW1SVnRDSlFzOGxIZlhtazVjNm4tZVlya3ZtX2lxVzBRemE5SHZVMldMMm9WT1VNaHVKenJKM1NqcjZnZlNDOHI4cFphdjBibV9pLXAwc3M?oc=5",
+      "date": "Mon, 14 Sep 2026 07:51:05 GMT"
+    },
+    {
+      "title": "交通事故死１００人に 過去２番目に遅く 千葉県警",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRMmZJSnljNWFVLVlOcTlKUm5mYnJGQXpvSzIzS1BXMkZrYjJHRWVVOV91NG9jSHZxSnJxUUYybmx2UFBBYXpWME5XYjg2aTgyUHc?oc=5",
+      "date": "Wed, 16 Sep 2026 09:19:26 GMT"
+    },
+    {
+      "title": "車にはねられ85歳の女性死亡 千葉市（千葉日報オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOeHNDU0x6bDlHcW9la1VnU3dSVzNjUlY3RWFJUDBtMW9tal92ajFrTmd5NGlDM0NDejBra2pqYTdBU2VabkZ5OUhnRGo4eDFSeFExc042a0ZRUDFaNm9mTEhUbVJyQ3FmcVhpN0RLQmUtbWx0bTA5UmRqOXF3U3c?oc=5",
+      "date": "Wed, 16 Sep 2026 10:02:46 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",

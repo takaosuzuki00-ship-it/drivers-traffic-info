@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-09-21T14:26:13.743151",
+  "generated_at": "2026-09-21T15:04:30.906263",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 28.4,
+    "temp_max": 28.4,
+    "temp_min": 23.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 23.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UN0hYaDVaeE50SXd1ZU1aejVhaXJ4UlJkbnlNZjBNTGFMbEhRcmdsaTcxajlzTlJDTWVkcWZYTmlONnF6ZnhLWHh5RnVJTmZEekMtM2U1YktEZnExMWw4STJPTUJuZHhKOWlfMmVLRG5iQQ?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "れいわ山本太郎氏は大分で「149キロスピード違反」を起こした5日後、宮崎でもサーフィンを“おかわり”していた レンタカー代はちゃっかり党費精算（デイリー新潮）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLVNGMzhrSWtKTWc5OERwLXRGZEluT251bmVLbnZVNXNTSWFUNmtwcGhmSFlMNXFSaWUyS1MyT1drNXN1WHFpYTBCSVE3blRIbmJnQU5Sc3FwMXlvekpaejNTR3NBV09XcHdjMV9IeTlQQ08zZkFzTkdGdGtwSlU?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の「青切符制度」 宮崎県内で初摘発 違反行為は\"スマホのながら運転\"反則金は1万2000円",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVV3Nobk1LRUpTbkFtNmtsdzNkdWFGa2ZmYXJkUThHM2lZS0VJczQ5X1lfNFpGQWxEc3FNNk95QVFBcTBKSlhyS0g1cDRZLXg3YTBFNFBscDlkaWZINnluclJTSjRsM00?oc=5",
+      "date": "Fri, 17 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "罰則が強化された自転車の飲酒運転 宮崎県内で1年間に29件が摘発 忘年会シーズンにはより注意を",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zd0dldnpfNzNwZDJOYlNGdklucmhIdnJ1Q1FaV0d3THpOTFhZM0hIaFIxdDZsZjJoZkhWSW9IanF1TEZVNXR6MVVQRlFUSF84cjlNblBSdHlfQQ?oc=5",
+      "date": "Tue, 09 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "追突される交通事故が発生…宮崎が報告「通りかかったファミリーの皆様から、多くのお気遣いとご支援をいただきました」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16dUZlSTVWVHBmaDNLZDNfOHRLUVluNXN0emZFLVQ4WndwYTkzMFBGVHFvMGtSZ0x2UnROYk5Kak9NRXA4YXBwR0ZQVE43SHA5Rk14VzFIRmItRklHXzNYZEdQbVlqajlQWHN1QUtB?oc=5",
+      "date": "Sun, 13 Sep 2026 13:27:00 GMT"
+    },
+    {
+      "title": "所属スタッフの交通事故について",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUc2hqM2NSYURwaEJqa2F0enBlWjZRaHhNV0xjcjZCYWdPZ2p1VkVkd2cyTjREdmZZS3ZYampKVUgzWVdzNjF0SFFxQQ?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒気帯び運転で物損事故 宮崎市上下水道局の主任技師(62)を懲戒免職処分 | MRTニュース ｜ ＭＲＴ宮崎放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydGRZOXZnRGJ3NTdrS1RxQ1MtMUtIa1Qwd3MyemdiN3NHTmFoeUZFRnVTTDdrYjNjdldkSV9kYVNiUFhpYnNmVXJnNFh4bXN3UVdYc2xKWURaeXUyZGFzdE53SW5OaUk?oc=5",
+      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【最新】全国交通事故多発交差点マップ 2025年版を公開",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Td2ZvdjlRNnhlb0VGWXg2SkNURG9CcVpBQUZvaTUyalEzYWRHNi1VNlBIWVdTTHBZdGNNeUlKTHlKRXJjWmxuVHdkTVFpTW9QRE05MFQwekp5SFprZlV0TGtKX25hQ0VjRllYLVNDSy0wdw?oc=5",
+      "date": "Wed, 16 Sep 2026 05:00:00 GMT"
+    },
+    {
+      "title": "都城市の用水路に転落 男子高校生が死亡（宮崎ニュースUMK）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNThqYUdBV3E3V0IzV1lycHM5aEZjaEM5VjNNaWQzSWFJY3c4RHF2RGxsT2RMQjEwYkdHdThDeUp5cE5XRDZ1akx0MGhVSHNtVUxEY256VmFicU52YzZEazVPMVdNU3ZscXBUWnItSzJGVWswU1djOFFrUGZiR0U?oc=5",
+      "date": "Thu, 17 Sep 2026 08:44:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮崎県警察 公式サイトを検索",

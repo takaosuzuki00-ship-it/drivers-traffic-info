@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T12:59:08.921884",
+  "generated_at": "2026-09-21T15:02:00.689494",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 25.2,
+    "temp_max": 25.3,
+    "temp_min": 22.3,
+    "precip_prob_max": 97,
+    "precip_sum": 6.7,
+    "wind_speed": 17.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.8,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "03:00",
+        "temp": 22.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "09:00",
+        "temp": 23.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 25.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "18:00",
+        "temp": 24.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "21:00",
+        "temp": 23.5,
+        "weather": "弱い雨",
+        "precip_prob": 92
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ながらスマホ1万2千円傘さし6千円、来月から自転車交通違反「青切符」取り締まり開始 富山県警が啓発活動",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SVmlKSTF2NThtRmx1VGY1N0gwWXU0dmNnQ3ZXd0t6OEYtLXktWTN4SW03T05WQk1JcDZqRWlweHljWUtEUVphcEVoY2lKMHhCYzFRaXRhbw?oc=5",
+      "date": "Tue, 03 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "計画的か…白昼の路上で後ろから羽交い締めされ、現金200万円奪われる！外国人風3人組は午前中から「下見？」車で西方向へ逃走、警察が検問 富山",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rdlpOMDdSRGs3cDJZcW9CdXR3ZE0zY213WHY5SzBKY0JnUFhDdjhCT3A1eFpmZGNjYS1hSjNtZ0RSeTJqZ0xpN3lBa0RXX0RWa3ZORmlHN3JUNnctS3I2ODRvdnozM1U?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "計画的か…白昼の路上で後ろから羽交い締めされ、現金200万円奪われる!外国人風3人組は午前中から「下見?」車で西方向へ逃走、警察が検問 富山 (チューリップテレビ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlM5WExtaENNWHNqTm9aSVBjckY5R3IyZUlmdUEtazBXXy1YRFZQYU00Mm1GZUVBZ2Y2OUtaMkx3aXUwaEo0M1F3U2E2WEpyckNSTGF1blJvUFA3WW9malpnQzByMmlNTHpPQm1iNm5CQk5xY3RiS0ZyNlhpM0NjSC1MekpHVFFHVWwxNm9n?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反を捕捉、富山県警が可搬式オービス2台追加へ 危険運転の死亡事故増加受け",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Qa1dleldkVHJsSEZIak15d2RXSGFpbGFhMFlVdVJoQmp4RldwVTRUaWJoWElMcmUxbzFKWkZmQkswY3h5Vzc3MG5yN0R4a3Y2bW5TWkx2cS0xQQ?oc=5",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ｜社会｜富山のニュース｜富山新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdlAyX01JUUluckVZOVY1eGRmN2VkZnI4bXNHUnpQeHBfR1dwZFZsOUxsWDBnQWpoRDVmaWM2THZUYzVfUHlyanRwVDZkcmE3ZUNEeURaYw?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxb1gtTHpyZ1JjRXNFMmp4Zk9veXhWOFhuLUplQVREd3NZTmZocUxzMG0ycmhkVVBjSkRNUmRYOEkwQ0NSR0NjNlp0aw?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ (北國新聞社)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTNZR1pub2J0MXJ4LVFFMHh4cks5eGQ5TUViVkRwbkpfNTYtMXA3SzFZNEljSzd0dUh2MEJ2cDV6SzZ3OUpTQUMzVXRLeTVlRUJna3UtVzdPZV9wRW93QUY2YWw0UjJNcFJjbXJpSERrZi0tdkhROHU5VEFlRVRKX1g2RU9xYXZpU2dHcU5R?oc=5",
+      "date": "Thu, 17 Sep 2026 07:33:16 GMT"
+    },
+    {
+      "title": "交通事故をきっかけに大麻所持が発覚 富山県氷見市の飲食店経営の男（40）を逮捕 自宅で大麻0.6gを所持「間違いない」と認める",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TVUpaU1BQX05mcHpKQ1RSMmJtZFUxNjVuZmFYV3NucWRFMGdCTnJmZ3ZHRkNnSFBVZUdEVnJSU0laUUQ2bERXSnZrSnE1SWluVGxaR2lmWmtMSUNXX1Y4?oc=5",
+      "date": "Thu, 10 Sep 2026 07:07:24 GMT"
+    },
+    {
+      "title": "国道8号、石川・富山県境トンネル内で事故 9月15日午後、片側交互通行に",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wSDlUS2RLWTlIUzFLR0NPSy03cmNSTGNnbmp5MF9BdG1XeURqUkxrZHk2Q1ZiUUNaRDNOTWtPTDJCMDZEYlFsa1R2dmxFQ3ZMMTJmX05WS1ZKM1gtMnc?oc=5",
+      "date": "Tue, 15 Sep 2026 05:51:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

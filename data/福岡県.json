@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T14:11:12.661083",
+  "generated_at": "2026-09-21T15:04:06.100139",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.5,
+    "temp_max": 25.5,
+    "temp_min": 22.3,
+    "precip_prob_max": 41,
+    "precip_sum": 0,
+    "wind_speed": 15.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.1,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 23.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "福岡県で交通死亡事故多発 特別取締り部隊出動 12月から今月15日までに25人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6RlM5NEtsRmZibWZ5Sy1vTHh2cC1HRnVYS3FDZjdzc1d5eEs4WktjcFR6RXZ0R3FkOTJXQV90TWhzck1ZSmhUZXFhcEhJc28wTTZwOGZkcw?oc=5",
+      "date": "Mon, 16 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【動画】「米価で守る みらいの食卓」福岡・糸島の米農家、田んぼアートでSOS 米作考える「検問所」も",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94cUNlSkRfejdYRldjUVMwbzhuRFZtcWZkdHdnVmh3WlBFLVF2ZHZseTB0U3Z4OUtOZFF1WE84RlpQOVJGdWhjdTZPNFozenJyMUE2cnR3?oc=5",
+      "date": "Fri, 18 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "【動画】「米価で守る みらいの食卓」福岡・糸島の米農家、田んぼアートでSOS 米作考える「検問所」も",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lY191aUZQUFpQVk5pa1RqN1V5NFBTejV5ZnNHNVIxUGwzMlI1aDl2M2R1TjJidWNha2dDRUZrRUtTUHd5aUJKc2twMA?oc=5",
+      "date": "Sat, 19 Sep 2026 01:15:13 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "福岡 男児が事故で意識不明 危険運転傷害の疑いで容疑者逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ia2dOZzRtcGRZamQ4Wk80bVg2Yy16b2lLMmRrT2c4X2FUcHJObTRGZWlGUDRKTzVBd21odi1pUUFudHQ2U25LdEhET2gyaU9PbXFJM3FhMXh2LWg4alk0?oc=5",
+      "date": "Sun, 20 Sep 2026 05:50:57 GMT"
+    },
+    {
+      "title": "国道で車にはねられ男性(20)重体 車運転の女性(25)「ブレーキが間に合わなかった」 福岡・久留米市",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LdlVBT3RjT2EzVS1fSjRWR3VTZ3dYN3pLckdob1JxZTZWeUpKdHh3U1ZkUnJRTjljaktQOWRSbTd6NnhMZW1pcHk4M3RSNTJfWGF3WDNOd0s0VUNoVWo4WUEzaw?oc=5",
+      "date": "Sun, 20 Sep 2026 01:30:00 GMT"
+    },
+    {
+      "title": "福岡で交通事故 路上の男児が巻き込まれ意識不明",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMSm5MSHB6V0dfeXF5QkFCVDdORXR5OHQtUEIteGw2aGZLdkJkY0NVZldMcDh2ZmJpQkJ6czdkOFBwRFRIbGc4NER2amJPdnBCT3EtRkU2NjhUSTQ?oc=5",
+      "date": "Sun, 20 Sep 2026 10:31:21 GMT"
+    },
+    {
+      "title": "福岡の多重事故 巻き込まれた男児死亡 飲酒運転か – Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WWmF2dnl6QjhCZmhOYVNvX25VeFVVUDVleDhSbnNWZHhHcmFoTFEwNFotZmV0M0V5S2FQSWxOZGxyR3ZYX0QyWUNwTTk2dUc2eXU1LUdmbW4?oc=5",
+      "date": "Mon, 21 Sep 2026 03:27:47 GMT"
+    },
+    {
+      "title": "意識不明だった男児が死亡 “危険運転致傷”で逮捕の男は事故直前に速度超過か 「酒の影響でアクセルとブレーキを踏み間違えた」 福岡市（TNCテレビ西日本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQURKejRZSktGbUZtbmxscmtUNFVRMXZYWmltZkZZRWtUM2JRRDJNaC0wLWljRUxyUnk4OVk3OHV2Rmo3M3FGa21TVVhwdDBMOXRIQkhCanVDSkdrRExUNFZiUG5HMW9KZUJodzJqRWlFWDNKYUFJS1Z2ZTR6eWc?oc=5",
+      "date": "Mon, 21 Sep 2026 02:37:01 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福岡県警察 公式サイトを検索",

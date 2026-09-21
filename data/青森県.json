@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T12:17:07.670676",
+  "generated_at": "2026-09-21T15:00:47.689022",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.9,
+    "temp_max": 22.4,
+    "temp_min": 18.6,
+    "precip_prob_max": 96,
+    "precip_sum": 2.5,
+    "wind_speed": 7.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.3,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "弱い雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "12:00",
+        "temp": 22.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "18:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 20.2,
+        "weather": "晴れ",
+        "precip_prob": 12
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "９月２０日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNak5obzNZN2JlSThLNTQwd2NvQlRNNGNVTzlmZEl4Y3lVOUVqY1hyRG1GX29CaWNYbFZTbjNHYkwySEpMbWVlZXVzcGZFVFY4MDVMcWF4LThha2hxV3EwWHVBc3oySjNoUnVOby1ybDBBNGUwSWVxTWt4VTYwU2FzdXk0RFnSAXdBVV95cUxOM01fcVFyOEZEbGJTZzFmSG54QWFwa0Z6TEhydDFrSEVhT04wd3RDQ0RXdEJJQW5IT3Zwc2dtSU9fRVBNNnBEUm12Y1hETDVLREstVmgtLUZ0SzNBRUZzS1ZtZm5KM2V2MzNFZ3FrTy01WFA2dVBwZw?oc=5",
+      "date": "Sat, 19 Sep 2026 20:07:00 GMT"
+    },
+    {
+      "title": "９月１６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Qnl5MjIxQlVMSUthSzlFN09rT0VmV1dEdVp5UTZYYTRVd0dLajdMNVhTV2VQMUpMZTd5TUdrN3d5WU9aZDBJSTZHeWNGZUE0WFRYVEM0M3o1RktXbHJPdGd6cTRERjRKOC0wU2lDaXgwQdIBd0FVX3lxTE5TTWU0Y1RkdklicV9NbzR4VVl2N2FoZ0I0RUpJd1lnTWMyWTJvc3BtMHA3OGtLaEVsWUpUWU1Db1VxSVV6bG5HZzdMcmIxV1lwb3pPQ3RLbUNCbWNzMmU0Zk5JX3M4b3VDcjFyMGRLbVIxaTFzOThz?oc=5",
+      "date": "Tue, 15 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【詳報】「ブレーキなし」で反則金5000円 自転車の“青切符”青森県内で初めて摘発 警察が交通ルールの順守徹底を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kSGVkU0o4WmtmMFpYQk43X0JLQmtKd21uQVlEanVDd2lnTXp0c29sM2tjWFNmaGhsSnBRcUdoQzRpYlhpU1BSREhQWXpQZEJVZy04TklhUjVrdw?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
+      "date": "Tue, 15 Sep 2026 09:45:00 GMT"
+    },
+    {
+      "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
+      "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026年東北の交通事故発生状況 青森、岩手、宮城、福島で増",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mbUZSNHZfMENzNjAxc3RSazhhUmZmQ2g0R1otemhxd1dwMXNxMU9GMFdFTTlrZDQ2MUlNeGlpcVB4eE8yY2dmSFFKeWN1Qi1kZHc?oc=5",
+      "date": "Wed, 16 Sep 2026 03:37:36 GMT"
+    },
+    {
+      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZmhhZlZpeDFBUTZGUEJ1VmtoWTBYbUVnVXNYVEwwM25HMFZkZFV0RlVlaXhKNm51c19vX0Q3MmlLa2NISXV2MGlVNzc2VzVMM3Z1QjBuTkRlaUhPeHdyMzFYck1KeGdLbGF2SUtHM3ZLcURYRUFiajdidDNLMHM?oc=5",
+      "date": "Tue, 15 Sep 2026 10:54:21 GMT"
+    },
+    {
+      "title": "車3台絡む事故 秋田の男性死亡／平川・碇ケ関の国道｜社会｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UX2t5QVUwWGFyREg4bWl0UnRESGRYUnNLLTY4cjdGRW9scHJFdjJFci0zeUtTa2RoTUhRX1R6WGh2TXpoOHVqRF9nc2YzazFPUC0zeXEtRVE?oc=5",
+      "date": "Tue, 15 Sep 2026 05:33:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

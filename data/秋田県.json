@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T12:26:07.808838",
+  "generated_at": "2026-09-21T15:00:59.997369",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 23.6,
+    "temp_max": 23.9,
+    "temp_min": 21.0,
+    "precip_prob_max": 89,
+    "precip_sum": 5.3,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "09:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 78
+      },
+      {
+        "time": "12:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 23.6,
+        "weather": "曇り",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 22.4,
+        "weather": "曇り",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "曇り",
+        "precip_prob": 51
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "都道府県警察／7月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaW53RXNNMkhyckRwUEhVcUZqcnAyMVl3U0hrNU1qUTZEcVQzUUxrWG05UlZQdlVDV0NjOUYwMFZqVENXWHVQa25WOW9WTldTMEhiLQ?oc=5",
+      "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "参議院選挙の選挙違反取締本部が解散 特定の候補者や政党への投票を親族に強要したとして1人を書類送検 秋田県",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDY3dFh1cWxMdmpVS3hOTDQxS2J3VzFsWHpTWjhmSHhNNU5HRkpoYlpFS1NaZEUwVlJHSEFnVDFzM1VJQ0Rseko4eW11ZGRzektqUlF5dy1VM1RpRTZVT3JRRXhmZVBUYWlPUHB6N1h5bkJqVVAydUQxdk1LWEZwbHpPVWgwb0E?oc=5",
+      "date": "Fri, 29 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZdU5IdlZ5MzE1LXFNa3NiOGdjSzdISzJMUmhPMnhXb254U3hpc0dnaVFQVUFpdmZnVVFLS1BYSElIY3didzZ6ME9LUkJyN2N1dXlJanNvX1FBcWJxb2p3RHhR?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「歩行者は反射材でアピール」 交通事故や違反をなくそう！ 交通チャレンジデイ 秋田",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDdGbzI2Zm1lbGRJWGtMZVh1Y01ONWZkUkVhWmpBZEdDMHl4WmVTemNtQW95XzNxOUxlM0c1TXZ4T2oxQjM2bkQwd3p1ZUVGd2NKX01HX0t0U2Y1UHJuUlg2TkpsaGFONzJDZS1mbGRYNm04ZmJobExGRk5ab1ltaGVMc0RIRXc?oc=5",
+      "date": "Sat, 19 Sep 2026 08:50:00 GMT"
+    },
+    {
+      "title": "「代行を呼んだつもりが気付いたら中学校に」秋田市上下水道局職員が“飲酒運転” 中学校の部室棟に衝突 事故までの記憶曖昧…（ABS秋田放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUnUwZnExQnBTNkNKSDQwU29icnk1LWhJZ2VFOVo0RWpybC10WDZXb0I4ZlhfVy1FOXprUW45cDZrZnlvYWJoY01ZcnhJbjhrNk5ISll6TTBxSmVGWHZhQ1FZWHVWMzZsMUZ1ckxmZmZicm8teTg2TUljUzF2M3c?oc=5",
+      "date": "Thu, 17 Sep 2026 15:01:00 GMT"
+    },
+    {
+      "title": "全国交通安全運動前に秋田県中央集会 園児ら事故防止呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44WjVjYTBfeEpQTENkUDJfaWJkZnI3SERkUlMzU0NkSnhxczViVEU3LXBCQnhBR1FPWlRqeWJtdlRWSXkzbHNxdzAzZk05VUlpNnU0RGwxTFA?oc=5",
+      "date": "Fri, 18 Sep 2026 03:05:00 GMT"
+    },
+    {
+      "title": "車3台絡む事故 秋田の男性死亡／平川・碇ケ関の国道｜社会｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UX2t5QVUwWGFyREg4bWl0UnRESGRYUnNLLTY4cjdGRW9scHJFdjJFci0zeUtTa2RoTUhRX1R6WGh2TXpoOHVqRF9nc2YzazFPUC0zeXEtRVE?oc=5",
+      "date": "Tue, 15 Sep 2026 05:33:00 GMT"
+    },
+    {
+      "title": "飲酒後に学校敷地内で交通事故 秋田市上下水道局の会計年度任用職員「気が付いたら中学校の敷地にいた」",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsRDIxdUtKUWN3bWd2cmtYWkVHM0RhcW83Y184Zk9uQ0dsYlM1ZU5LOVpBQUpRdVUxM0llUmhfR0F4TU1PbnhvS3VBM1N5X2JJbkxYdWpvZDBuUS12blhhUnJfbmY?oc=5",
+      "date": "Tue, 15 Sep 2026 10:50:05 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",

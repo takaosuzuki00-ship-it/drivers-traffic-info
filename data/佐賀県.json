@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T14:14:12.873368",
+  "generated_at": "2026-09-21T15:04:11.712529",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 26.8,
+    "temp_max": 27.3,
+    "temp_min": 21.4,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 19.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "09:00",
+        "temp": 24.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 24.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月21日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mX2F0WHFBV2lidkUwWFl0X09pVGFPdzFsakFXNDU4cDlrRUhPaEVLbExzMmFyVWZCV0I3LWx2X09nQUJKM3A5U0RlZ1VyaXRtLUhVdG82SUlOOVFhUmlOQXluRmhzUWNNYU9CTzRTUdIBdEFVX3lxTE1wRWk3NlhiTG50N2FrcmZvR2xBSlduckNoUThHUW1COC1DWTNTRzRrdlFQdGtXZnU1MS13UF9ib2J5dVBmYnBrTTVISXd4dzFQckFSd0NHSlRhOXZOWWloNl85VHRxZ0dKRG0xMHlfVklwQXdp?oc=5",
+      "date": "Sun, 20 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "MDMAを譲り渡したか 麻薬取締法違反の疑い、26歳無職の男を逮捕 佐賀南署 | 事件・事故 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LNFNCMDJrN1FqYlkwcEhraldpQ0dvOThMVVNYdklnSEltWW5CSktEcEJxay13d0J1ZmZsZy1qRG9ReENUUnl6MWE4dkFHR2lhSlpNOTF3?oc=5",
+      "date": "Fri, 11 Sep 2026 23:12:00 GMT"
+    },
+    {
+      "title": "自転車にも”青切符”導入を前に･･･新設の専門部隊が交通違反取り締まり 高校生らに正しい走行呼びかけ 佐賀県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16emNMc3pnYUF5bWNTSlNuOW90bHdZbGhEVVhGcUxHeGZlQWpkMXRJYTBucUNKU19WYnlCOHNjUlF5ZjVMNFBPcXJONFFZWEpYZE4yOWYtTnVWcmZTZkFVOW4yZnRrTVE?oc=5",
+      "date": "Mon, 20 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "佐賀県下一斉飲酒運転取り締まり 夜間に県内12カ所で、摘発はゼロ 福岡・海の中道大橋3児死亡事故20年で実施",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTDJ5S2J0OGR2Q3B2N3owelpsc3kwdmJVZEZXYmtWbmZ0ckpOYWdtbGN4clFxd3ZWZDgxaW9FUGpEb1Y0ZGdvdm1Tek5PUk5Eb0FmSEtR?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "［佐賀県］「サカナマン」 敵は交通事故 唐津署で一日署長",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Sdy1aaHJaOTM4ZUxNWjNoTHN6Sy1vaTdaZDBKSHJfbTUzb3BRb1BKYmV6WlFtdjd1djh4ZDNGM25fMHpZYlY1Qmt1MWRUNVVDWFJrcGhR?oc=5",
+      "date": "Sun, 20 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "【JAF佐賀】追突事故防止と豪雨災害への備えを学ぶ運転実技講習会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfSm1GWGJvV2h5VERHYnpTeDJMNGpMamVfMGFwaW1BSFIwMjlTb3o1QzFJX0RQMXFvSFc5MTdyQ2szTGtNSHdqUlY4ZVYxdjFWZWlwb0dBTGlwWmpVWEs3MVJoX1p1YzJDclE?oc=5",
+      "date": "Fri, 18 Sep 2026 01:43:57 GMT"
+    },
+    {
+      "title": "佐賀北高校出身の甲子園優勝投手が一日警察署長 「日本一事故が少ない県に」【佐賀県】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XSU5kb21TQ1pXN3FFaDlxUlNtcVN1YllRQ1NhVDVTNlBXTGhxNl9GdjNlbmZwaG1wVzV3SnVIWGdWWGplZ0lqZlhDMHlVNTkzeHpPclExTjRkWnlkODVYUWhYOWJQQy1BMEY5QjJkVld0OW02Q3JEaklsa1J2azA?oc=5",
+      "date": "Fri, 18 Sep 2026 03:24:01 GMT"
+    },
+    {
+      "title": "佐賀駅で人身事故、男性死亡 JR九州職員が「人が最終列車に飛び込んだとみられる」と110番 8月31日午前0時ごろ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtRVdMRXBySXBtTkVweHZfZEdYMlRPNEJiNjhTRkpLbDdsSkVmRXduZldTVFR5SVpNN1UtTXBmSFh1a2dONl9jd0JoWUc2T0VRWU5TMHJn?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀・唐津市の漁港で男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZTUpybnVYeGMzcTRjTzhfN1NKSk8zRy15dUF5SWp1VFd0QS0xVzdhbmVIX2ZNQkxFODlOWC1NcFQyd2ZJSEJpZEl4eHNfcnNZX3VrdWpn?oc=5",
+      "date": "Thu, 17 Sep 2026 11:34:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",

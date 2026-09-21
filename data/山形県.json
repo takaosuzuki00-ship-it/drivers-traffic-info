@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T12:29:07.984419",
+  "generated_at": "2026-09-21T15:01:05.131116",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.9,
+    "temp_max": 22.2,
+    "temp_min": 20.7,
+    "precip_prob_max": 100,
+    "precip_sum": 14.4,
+    "wind_speed": 5.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 27
+      },
+      {
+        "time": "03:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 20.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 21.5,
+        "weather": "曇り",
+        "precip_prob": 88
+      },
+      {
+        "time": "12:00",
+        "temp": 22.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月21日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mX2F0WHFBV2lidkUwWFl0X09pVGFPdzFsakFXNDU4cDlrRUhPaEVLbExzMmFyVWZCV0I3LWx2X09nQUJKM3A5U0RlZ1VyaXRtLUhVdG82SUlOOVFhUmlOQXluRmhzUWNNYU9CTzRTUdIBdEFVX3lxTE1wRWk3NlhiTG50N2FrcmZvR2xBSlduckNoUThHUW1COC1DWTNTRzRrdlFQdGtXZnU1MS13UF9ib2J5dVBmYnBrTTVISXd4dzFQckFSd0NHSlRhOXZOWWloNl85VHRxZ0dKRG0xMHlfVklwQXdp?oc=5",
+      "date": "Sun, 20 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "覚せい剤取締法違反で2度逮捕の無職の男(50) 「所持」の現行犯逮捕のち「使用」した事実も明らかに（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYjhOTVhQcWVBVDZPWEs4eXVBczdhdml0WUdwbmdxMU5mR1MwWXp6d0JPa3ZoTkliMjdCelJOSXMwZ0YtdkhFNXhJajhqS19kOG9ZemQ1TXgtQQ?oc=5",
+      "date": "Thu, 17 Sep 2026 07:29:00 GMT"
+    },
+    {
+      "title": "９月２１日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WbDZjLVUwRTVOdGpra1U2YmQ5cVRfSG5uVEVZUklCZmtSQTBZc3dndi1tN2NVTkx1LS1NRGNsVTJyMmNVbzcyNGozeHhUanh6WUFONDRldzZta1M4blZHT0NiZVN6QjhmYzBkRkFhcUJhUdIBd0FVX3lxTE53Q0NFbUxkR0xqcm1zdnRSZE5pRXZZT0pEb3owS2k3MHdmQWl1d21RSjNBUWhTb1k1N3UzMWs4VHpvMENscWdGYk8tZXFhQTFjb0RoTThoXzU4b1FJOE1JOTBaZlBCNVh3djNLb3otNy1fNjZoZGxJ?oc=5",
+      "date": "Sun, 20 Sep 2026 20:43:14 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１３日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Qa1FULW9DVkl4WXBqa3p5THN6a2t1RHdLbWNuNUt1QUdVUVBpbkJ2cXlINXM3LUE3SUgyQ05oQUZhYlBfdWxiV2hETQ?oc=5",
+      "date": "Sun, 12 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通違反の取り締まり→無免許が発覚 24歳の男を現行犯逮捕（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlV2tUc1NuUHRDOHVCY29lMHJ6QXRGUG5ETTVzWU9xQlhfZWlSSzlpWmpTQ0wzc19fZUp6UTJHaVNTY2dmbHFuYnhjQk5kNURaTlNVN0g2V1cycW42R2lWZnBoZjM5bVE?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "10年連続人身事故ゼロを達成した企業を表彰 企業総ぐるみ交通事故ゼロ運動大会（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUxaMlpPWTdaemhCRVpuQVNseHN5anA2VmJSWW1JWDFyd1o3SUt4TS1scXRIY1lIUE5aQktXRzlpa294c1U4YWk1SFpxWDFZeE80U2JHYVNUWHFLWnJSQXRsbV9lLVZCUDRqMjZZbjJkX2d0QUR4QkQ2TlY0TXVYSGl0STB2SWM?oc=5",
+      "date": "Thu, 17 Sep 2026 03:00:00 GMT"
+    },
+    {
+      "title": "【現場動画】「体が宙に浮いていた」高齢とみられる男性が車にはねられ意識不明の重体 当時は雨…警察が詳しい状況調べる（山形市）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbmRGOUlnM0p6YkVfbHRXc3AtZGE3RjRTbXJlb29jT05CRnVlN091cmw5aEJXZHgyVkNNZW96TWN3SVNDS2RuNDdFZGRvemVER3NObXdSOHoyVjdieGZzRldnNHpuVnE0MlhINGoyRUJzSjM3b2pPOWVDNXZlNWs?oc=5",
+      "date": "Tue, 15 Sep 2026 08:50:27 GMT"
+    },
+    {
+      "title": "【続報】崖下に車が転落 死亡は山形市の会社役員の男性と判明 死因は高エネルギー外傷…国道をはみ出し200メートルにわたり転落か（山形・鶴岡市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQ01sN2luZEtwNXNxcHF5ZGlFZUZ0NlZRa2Nud0hROEF6b2FrQjNaWW9kOEhNS1BMbWV1dmFBTjdYYUxmb1Z0Sy1aZTR5eGFObEk0Y2hrQlBVdw?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "10年連続人身事故ゼロを達成した企業を表彰 企業総ぐるみ交通事故ゼロ運動大会（山形市）",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lVjRVWXVrQk9rajVRR01raE1OVU9NcXYxZFB2VGlLa2RveXk2TnBBWnBraG8tYW9PcDZhck9TRnQtZDNxWXAwZTF6Zw?oc=5",
+      "date": "Thu, 17 Sep 2026 03:31:05 GMT"
+    },
+    {
+      "title": "片側3車線の市道の真ん中の車線で歩行者がタクシーにひかれ死亡...山形市南栄町で死亡事故｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqT3FGaG9Uei1UZF91M2pPbndNa0NETjNZN21YbkI3Tk1QNGp5TnJKbi1IcEdpUjNOdjAxQUZwUWtHOFpMYk9aWl9vVVlIZi1SWnhCSEl5WmF1b2s1NlBpamtMV21FdjFCamZzdGE0YmpHdTg?oc=5",
+      "date": "Sun, 13 Sep 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

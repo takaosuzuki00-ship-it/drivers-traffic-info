@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T13:50:11.716658",
+  "generated_at": "2026-09-21T15:03:31.783129",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.1,
+    "temp_max": 25.5,
+    "temp_min": 20.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月19日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSzNxN1JRV2V1Y3o3MnhLbDVTeXlOTlJ5T2YtZm12WXJaYWtZUnptR0NoYU9YRVFUelB5R0FIcUp1UkZmUVV1M2YxVDlqQ1NOR3ZxV2EzQXVNV2dMbkdyUDYxeW9MR3RneDEtTTUtRdIBdEFVX3lxTE84dFVnd3VkbWlKYU5MYzRLRWc4R1BuMFFXa2FOWDFhbDBVZjFzVXd2R2FZVTNDRElsaTl6R2JXNzJxbHU2NTNIUThFN0ZzZ0d3ZzRnRFQ2dDRzdWNHSHI5SU5jR1VHcFNBdlB1RnUxV1l5OVB6?oc=5",
+      "date": "Fri, 18 Sep 2026 20:07:21 GMT"
+    },
+    {
+      "title": "9月1日 生活道路の法定速度引き下げ 登校時間に速度違反の取り締まり 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01dGZYS2RyWTBrVm5NT0NPcE04clg5MUFNbTd5T0dsY3p5VTVfNk5ySFM5eU9nWVF0SzNDang2R0hKeC1waHcxaUdZSUF0aWpq?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNGNTMlBCZ3lORF9yZ0pMdmVtX2ktV1JrU3JTZ3pFMW1LR3JwUkJISVMtNU5IRlktRVlhNVRzbUlaNmdnaWpVNEFLQUZQTkEwSk9tYXl0Q1c3WmZqZEJ0RkpsdDc3VzNwS2dRVGhoNkJyS1l3eTNnZnJIYVJqZWs?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "違反したら一発免停も 「生活道路」での自動車の法定速度が60キロから30キロに引き下げ その「生活道路」とは？【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tNzFaVEx1MVVrYTk0WG9ZV3ItLVN5MzJnMG83aDNPV1QxckUybEhTZER3dFZYMzI4V0YxN195cWdZNDVfNlhUR3dzNEI1SXFNWi15ZUpGZ3poQQ?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "従業員に賃金を支払わなかった疑い 最低賃金法違反容疑で岡山市のクリニックと経営者の医師を書類送検",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Fc2NfcHg4b200elI2R2VtNUk5eFc5RUM2R2tzemR1M0FFTVBfTlpFRmRlcFFiTUtFeXM3ckVXUU9wd1ZYWXZLWVJPVUhkTENWb29heV9STjk0ZmdzTHdPenpERUVIMUZQc0ctbF9ZZGZidVN0ZWJCaw?oc=5",
+      "date": "Mon, 14 Sep 2026 05:57:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「交通事故に遭った」とうそ 示談金名目で現金をだまし取ろうとした疑いで男（62）逮捕 岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvVWNNMGo4X2pyanpJcXBoYWRoQjZyQW9ndUJSMWlzSUI1ZG5yMjFrb3VBTVZ2TkVselpSZE5FMmJaczdncFVDLW9LTk0tdHJO?oc=5",
+      "date": "Wed, 16 Sep 2026 00:59:00 GMT"
+    },
+    {
+      "title": "「ちびっ子警察官」交通事故や詐欺被害の防止を呼びかけ 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VWHJIbzZDSzB0Smcwc0lxV29INXlOVE5iUnFWUndvdHVpR01QblJhWFVGRWdGWXp5LVh3aUU3TjNBWHY2RGVReVVBQVpOY3Bwb2V4Mk5OSEM?oc=5",
+      "date": "Thu, 17 Sep 2026 08:22:00 GMT"
+    },
+    {
+      "title": "備前市の国道で大型トラックが信号待ちの乗用車に追突 乗用車に乗っていた親子が死傷 岡山（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oeGNjbWJvSDdxWFNEYjJNYVBZWlRMeDZNekh5QTJZaUNRZXF0TnVkTEllend3YTBvZ1lOUHRlV2h6a3pDT3ZwLVZEZmZXdGp0Q3FZMTAwMzhadFR3UFpiZXRSV1I5V2MzZUpURjJRUFkzaWQ5bGM4cjVfSGhLSjA?oc=5",
+      "date": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転で追突、けが負わす 危険運転致傷容疑で男逮捕 岡山南署",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KYXAza0VDUmFocGpFSWwzLXB4YzlBY0FTUW5RWTVpU3V4a0lBNGtFX3FBdGlVWDFPa3AzUkV1R3JhRUFWNVFVU3R6NFpza0RXdFE?oc=5",
+      "date": "Sun, 13 Sep 2026 02:47:00 GMT"
+    },
+    {
+      "title": "県道交差点で軽自動車と衝突 バイクに乗っていた84歳男性が死亡 岡山市",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jWHZiX1lkNkVpb0lTeUFkcnhyeU9CU3o2T0pqRTVkbDE1WGt3RW5tZUs2a2FJUXBLdUl0d3QyNHRBaXBQTjdDSjBGUGFTY2FV?oc=5",
+      "date": "Wed, 09 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

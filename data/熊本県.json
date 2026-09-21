@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-21T14:20:13.304924",
+  "generated_at": "2026-09-21T15:04:19.495770",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 29.3,
+    "temp_max": 29.3,
+    "temp_min": 21.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 10.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 24.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 29.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 26.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月21日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSXVveFMza05oMlpJNzY0SDM0TjJGZElBc3Z2VklkVjA0QUNFMlZHWFpkQWpxa21IT3Utak9odGh2U3hPY3VYQS1GUFdPdlNUMlRJbmFxVzhTTzBuTlE3a0R4MnZ3YnRrdDY3aVJxODdyOTVlQjdNMWc0LW1TRnM?oc=5",
+      "date": "Sun, 20 Sep 2026 20:02:14 GMT"
+    },
+    {
+      "title": "9月18日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pRVRSNXBxTzh4UF9RZWY4WklpQ1NkdzJxOGxaOWpsQ3gwcVFid25IaG9FVmEzNEFZZ2hZekJScEo1ak1JV245SWQtOEhGNEhuYTctcmFySQ?oc=5",
+      "date": "Thu, 17 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "9月21日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり (RKK熊本放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGduYy1udGF4bGxabkRpdW1SVUptY2pwM0UwZGJQcUF6b2pTWVpLX0g0SGFETF94QURRbE9WMnlyWDhSa1VhbklEZG54UzV4WTN2bkhLZGF1S2NUVFdtUkZxSEdfc2RCMzFZdDdOeHFPak9WRF9UbHFTZFVLWkZSN2JwWDhicmZWSTNVVldn?oc=5",
+      "date": "Sun, 20 Sep 2026 20:02:14 GMT"
+    },
+    {
+      "title": "9月17日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6ajlCQmEtX08wQ1BkbWRrclJuZ1VxZ2dsVFhOazFtdjNZXzlJTlhLemhhV3B5WkRQSnIwa2FIZkdhWTl6U3JpZDNhVEQtMDFNa29TZVpfaGQ0Zw?oc=5",
+      "date": "Wed, 16 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15cXFwV0JYRkM3dGN0X1cwbGpDaVZ1Qmd3NmlYZkI3NjEtc1VhX2ZvVXp2Q1g4UXBKcVFWX2NEbUdzOTBYQVFxM3UzOV9YeWg3eERPU3BNVC1lOWdicmdaZERrdDlvMzA?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "熊本市東区の県道、通称・第二空港線の交差点で乗用車と高速バスが衝突（TKUテレビ熊本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4U09HaGlXc2xYNGNzTDQzYnFEbFQybFhfQTJsRWhDeFZVM3NVdVQ5R0E0NTQwODZ3Y3diNDFOM0JEdjBSaS1vZkFlc2swSkNHcUVrenp0aEdEVzZMMVdNTndBM0JZcDhsMDktcS1wejdPSnp2WGRyWEFxWDk4eTA?oc=5",
+      "date": "Sun, 20 Sep 2026 03:57:01 GMT"
+    },
+    {
+      "title": "車３台絡む事故起こす 酒酔い運転の疑いで医師の男を現行犯逮捕 容疑認める【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoc2NrNng0TTBGcVRzUzFIdEFvemF5WTh3WlZXeVVONG5tTGNTVHBvT3JuYjdxSVJSTW5zZ2V6THMyV3htNnZuLW0yQ3dJQQ?oc=5",
+      "date": "Tue, 15 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "九州自動車道で車5台絡む事故 トラックと軽自動車が衝突し後続も 現場付近は約3時間車線規制（ＫＫＴ熊本県民テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00N19QS2lDR2pzcG5LMzRwQTlrLVRVOWF2ZFdnYU1nTnNEOV9JNWxNMVYwOUNjQ2g2SUczN1RuU3REN3lLUTlJSnUwR2hTYkI3cE9yM05SWU1yUDc2WnM5UkdnOC01cjZwdTB0enpoVVJfUjMxbzFONDBHM1ViR2c?oc=5",
+      "date": "Thu, 17 Sep 2026 09:52:00 GMT"
+    },
+    {
+      "title": "市電事故に備えて救助訓練 熊本市交通局と熊本市消防局 人身事故想定で実施",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSUt0TG5LUlVYMXJJZmJyamNNT0N5V3RScWtxU2RKM2ptN2ZycGtTMUlXOXVDTWstSm1mOGtUejdYQlFNeFN1ZHVMUU1xa0U?oc=5",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "熊本県内 2025年の交通事故死者数は41人 約3割が「道路横断中」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GWkczYW1Zc0NndjRNSUx2ekdxNWltRmoxLWVNVkktVlpNRzlZNzB3VDNMTVA0Y2M0T1ZUM0lrTGdzczRPWUxmUGxJb2tQZjdvajFsT1ZEaw?oc=5",
+      "date": "Thu, 15 Jan 2026 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",
