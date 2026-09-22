@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-23T03:17:04.550280",
+  "generated_at": "2026-09-23T06:00:49.383008",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 14.4,
+    "temp_max": 22.2,
+    "temp_min": 14.4,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 4.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.8,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 15.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "９月１６日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Qnl5MjIxQlVMSUthSzlFN09rT0VmV1dEdVp5UTZYYTRVd0dLajdMNVhTV2VQMUpMZTd5TUdrN3d5WU9aZDBJSTZHeWNGZUE0WFRYVEM0M3o1RktXbHJPdGd6cTRERjRKOC0wU2lDaXgwQdIBd0FVX3lxTE5TTWU0Y1RkdklicV9NbzR4VVl2N2FoZ0I0RUpJd1lnTWMyWTJvc3BtMHA3OGtLaEVsWUpUWU1Db1VxSVV6bG5HZzdMcmIxV1lwb3pPQ3RLbUNCbWNzMmU0Zk5JX3M4b3VDcjFyMGRLbVIxaTFzOThz?oc=5",
+      "date": "Tue, 15 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "七戸町の田嶋邦貴 町長と陣営幹部の町議が書類送検されていたことが判明 公職選挙法違反の疑い 青森県七戸町",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwV3B4Y25hU084Z0xiTDhSZGt3dGZFc3V3OTl1Zy0wT2JTdERzTkxJZkNwbHFmcHdDX2Nkamd0azFmcHV6OVZJaGZVV3NkdTV1alVFQ0pEMmdxTktxYUctNGEwbzVuRGs?oc=5",
+      "date": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
+      "date": "Tue, 15 Sep 2026 09:45:00 GMT"
+    },
+    {
+      "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
+      "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「すごいスピードでぶつかった」トラックと乗用車が絡む事故 大破した乗用車の男性が意識不明の重体 青森市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qYTFuR3hYQVlWM3lqYm8tT3NNb2tkYU9CUDc2bEFvYW40XzlJRVlDODFPUjZhS2s1NVQtWnJqVm1oOHdHM0NpUE50UTNqZw?oc=5",
+      "date": "Tue, 15 Sep 2026 10:08:00 GMT"
+    },
+    {
+      "title": "「形わからなくなるほど…」トラックと衝突した乗用車が大破 運転男性は“意識朦朧”で青森市内の病院搬送（青森放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IeDVNOXBEbEw2SW1GRlllSzVNVFN1STFCZlNxZDUzNjdZQVFrblpwcVltZkNVN3RrSG1tdVVLV25PT29EaE9hMDBkdkF4S0kzSFVVYnptak1xQ2pXbHFKLXRTLVNFbGFXaWtzZnJuSzNzRVFMbTY3dE40SkF1RE0?oc=5",
+      "date": "Tue, 15 Sep 2026 08:06:00 GMT"
+    },
+    {
+      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZmhhZlZpeDFBUTZGUEJ1VmtoWTBYbUVnVXNYVEwwM25HMFZkZFV0RlVlaXhKNm51c19vX0Q3MmlLa2NISXV2MGlVNzc2VzVMM3Z1QjBuTkRlaUhPeHdyMzFYck1KeGdLbGF2SUtHM3ZLcURYRUFiajdidDNLMHM?oc=5",
+      "date": "Tue, 15 Sep 2026 10:54:21 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",
