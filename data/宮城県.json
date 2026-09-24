@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-09-24T09:00:53.555402",
+  "generated_at": "2026-09-24T12:00:45.657566",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 26.6,
+    "temp_max": 27.7,
+    "temp_min": 17.7,
+    "precip_prob_max": 100,
+    "precip_sum": 14.6,
+    "wind_speed": 4.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 18.6,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 19.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 26.6,
+        "weather": "快晴",
+        "precip_prob": 22
+      },
+      {
+        "time": "15:00",
+        "temp": 27.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "直進車とＵターン車が衝突 直進車の１０代男性ら３人けが 宮城県名取市（khb東日本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Qk53STRzNWZ2T3NsT0tMT1BuWVZGNVctcklGT25ONFd4WHhiVXUwc0VMb0NkMFIwSHRKbXFhVENnTjg1Q0czMUV3aUZhWlg2OWR0SWFjT0ktTENrQzJNRVB3R0xQTzdkNE1sZXpqZGt6SHhfbDhOSjE1OWJ3VWc?oc=5",
-      "date": "Wed, 23 Sep 2026 08:20:34 GMT"
-    },
-    {
       "title": "交通事故防止へ誓い新た 宮城県内で秋の交通安全県民総ぐるみ運動始まる",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UjMzRXh3WklqQUpNWEtnY2FvdWphTDJueWo5LUlxekY2ZWhodUY4VEhSeFR5T3MwQ3R2NUJhTGNkY0tNdEs3RUpERnE5LUlQaWpXQWxtNGlVSDhLNUxRMw?oc=5",
       "date": "Sun, 20 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "直進車とＵターン車が衝突 直進車の１０代男性ら３人けが 宮城県名取市（khb東日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Qk53STRzNWZ2T3NsT0tMT1BuWVZGNVctcklGT25ONFd4WHhiVXUwc0VMb0NkMFIwSHRKbXFhVENnTjg1Q0czMUV3aUZhWlg2OWR0SWFjT0ktTENrQzJNRVB3R0xQTzdkNE1sZXpqZGt6SHhfbDhOSjE1OWJ3VWc?oc=5",
+      "date": "Wed, 23 Sep 2026 08:20:34 GMT"
     },
     {
       "title": "「交通事故のない安全な宮城県を」秋の交通安全運動を前に出発式＜宮城・仙台＞",
@@ -48,9 +107,9 @@
       "date": "Fri, 18 Sep 2026 10:07:00 GMT"
     },
     {
-      "title": "「交通事故のない安全な宮城県を」秋の交通安全運動を前に出発式＜宮城・仙台＞",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aTF9GbHV5SlltdWpMWDYwT1c4UDV1QWJUWFdBMElsdjFFSGpPRmd1ZzRiNE9ZQmdDTHZ5TFBrU2drcm01TTRQemExTQ?oc=5",
-      "date": "Fri, 18 Sep 2026 10:49:04 GMT"
+      "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQVFFZ096dEc1Y0xxakxLZ29KXy1kSmVIeEwwYXR2UkNNSzEyX3FMVmJrZWIzbDNHUEJxcWMtY3RSbGdKQzNEdnlBN211SUh5akY0ZUI3bHJYNXl5Wl9TU24wWktJTXlfSnRB?oc=5",
+      "date": "Wed, 16 Sep 2026 06:51:05 GMT"
     },
     {
       "title": "帰省中の男性死亡 ひき逃げ事件 ２５歳の女性を逮捕 宮城・大崎市（khb東日本放送）",
