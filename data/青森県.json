@@ -1,68 +1,9 @@
 {
-  "generated_at": "2026-09-24T06:00:36.650629",
+  "generated_at": "2026-09-24T09:00:42.405810",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 14.7,
-    "temp_max": 23.6,
-    "temp_min": 14.3,
-    "precip_prob_max": 86,
-    "precip_sum": 0,
-    "wind_speed": 4.7,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 15.1,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 14.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 14.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 20.8,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 23.4,
-        "weather": "快晴",
-        "precip_prob": 22
-      },
-      {
-        "time": "15:00",
-        "temp": 23.1,
-        "weather": "快晴",
-        "precip_prob": 4
-      },
-      {
-        "time": "18:00",
-        "temp": 20.2,
-        "weather": "快晴",
-        "precip_prob": 4
-      },
-      {
-        "time": "21:00",
-        "temp": 19.3,
-        "weather": "晴れ",
-        "precip_prob": 82
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
       "title": "9月23日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
@@ -75,7 +16,7 @@
       "date": "Tue, 22 Sep 2026 20:00:00 GMT"
     },
     {
-      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】 - motor",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
       "date": "Thu, 11 Jun 2026 09:31:18 GMT"
     },
@@ -102,14 +43,14 @@
       "date": "Tue, 15 Sep 2026 09:45:00 GMT"
     },
     {
-      "title": "秋の全国交通安全運動の期間中　65歳の女性が車にはねられ死亡",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waFQwTkNsRWZwV0hYYjQ3LWlKVm9BcGxRZm5oakhTNHdKd3FYVWxBODVaZVh6NVp3QmJaSjBsYzRWckRIeTQ2MVVpRnpZdmFGYzlzQUFmcXpBdUFlNHZyX1hTTDZVQWlwVGRTcHJ0aW1PZ1BMU0HSAXtBVV95cUxPTndxcWF6V0puNzl1b3dNUGJ4MHFaVTR1Nl8ySW1uX2VtWDNvMGJvc2ROMTRBT25DUE90bWJra2RDdUtoNEZIbnVvR0x1YkxIRFV5ZkJpeVJxTmdDa09fNW1CZGZxMng0RUVEdEtrRG5CVGVQbklVbUQ3aFU?oc=5",
-      "date": "Wed, 23 Sep 2026 02:45:00 GMT"
-    },
-    {
       "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
       "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋の全国交通安全運動の期間中　65歳の女性が車にはねられ死亡",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waFQwTkNsRWZwV0hYYjQ3LWlKVm9BcGxRZm5oakhTNHdKd3FYVWxBODVaZVh6NVp3QmJaSjBsYzRWckRIeTQ2MVVpRnpZdmFGYzlzQUFmcXpBdUFlNHZyX1hTTDZVQWlwVGRTcHJ0aW1PZ1BMU0HSAXtBVV95cUxPTndxcWF6V0puNzl1b3dNUGJ4MHFaVTR1Nl8ySW1uX2VtWDNvMGJvc2ROMTRBT25DUE90bWJra2RDdUtoNEZIbnVvR0x1YkxIRFV5ZkJpeVJxTmdDa09fNW1CZGZxMng0RUVEdEtrRG5CVGVQbklVbUQ3aFU?oc=5",
+      "date": "Wed, 23 Sep 2026 02:45:00 GMT"
     },
     {
       "title": "「すごいスピードでぶつかった」トラックと乗用車が絡む事故 大破した乗用車の男性が意識不明の重体 青森市",
