@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-09-25T21:02:06.859185",
+  "generated_at": "2026-09-26T00:01:54.600607",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 21.2,
-    "temp_max": 24.1,
-    "temp_min": 19.2,
-    "precip_prob_max": 82,
-    "precip_sum": 1.9,
-    "wind_speed": 10.1,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 20.4,
+    "temp_max": 21.2,
+    "temp_min": 17.6,
+    "precip_prob_max": 89,
+    "precip_sum": 3.1,
+    "wind_speed": 8.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 20.6,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 19.2,
+        "weather": "霧雨",
+        "precip_prob": 73
       },
       {
         "time": "06:00",
-        "temp": 19.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 17.7,
+        "weather": "霧雨",
+        "precip_prob": 88
       },
       {
         "time": "09:00",
-        "temp": 22.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.3,
+        "weather": "曇り",
+        "precip_prob": 53
       },
       {
         "time": "12:00",
-        "temp": 24.1,
-        "weather": "晴れ",
-        "precip_prob": 75
+        "temp": 20.6,
+        "weather": "曇り",
+        "precip_prob": 16
       },
       {
         "time": "15:00",
-        "temp": 22.4,
-        "weather": "晴れ",
-        "precip_prob": 71
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 21.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.9,
+        "weather": "曇り",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 21.2,
+        "temp": 20.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "高速道路で新潟県内初！大型連休を前に“可搬式の速度違反取締装置”導入「スピードの出しすぎは命に直結」",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRlUxekJzRzF3d3RkTWE2UjR4eWVDOFdWZXlDMVNMVmVVOVh2YzNvSnhQSFRCTkdZMTRVUmx5RWZBSEd5bHBNd3hvY3FWdjBxamxGS0xfMG4zRXBVSHFZT0hRa2JpTXZiSXE1dng3TnNsT0FRalFzakZ1SDZGbEk?oc=5",
-      "date": "Thu, 17 Sep 2026 12:30:01 GMT"
-    },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
@@ -88,6 +83,11 @@
       "title": "【交通取締情報】福井県警 ４月１１日",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN3JRTGllck1yUmRacWR4RUhVek5PRjZZY0JFanlGODBKX19FaklPdklFcENGYVEyZklLSlZJcUpCa0ZQU2NzZjFCYw?oc=5",
       "date": "Fri, 10 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,14 +97,14 @@
       "date": "Thu, 24 Sep 2026 23:00:00 GMT"
     },
     {
-      "title": "［道路情報］新潟バイパス、事故で一時通行規制 朝のラッシュを直撃（9月25日）",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VV1hmMnlTOFlvWTBOTXgyVV95S2NsRjBockg2N3VjNkk2Z2lLUjBHMjA1MjhLSjZRSmU1ZG5EVU1iLUdRV3VlS2prdw?oc=5",
-      "date": "Thu, 24 Sep 2026 23:10:00 GMT"
-    },
-    {
       "title": "【交通事故】6割は“交差点”で発生！「交差する道路の状況がほぼ見えない…」交差点に潜む危険とは？新潟",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41d1BiZ2dlbGs0T2ZmTjd2UnlEUktxZm9XdjJ0bWpxODgwNlZVUGpPWXgwaTFLWVJRRVktRHZmVFRlaG5DNHdJS1lnMk9ST1l5MUEycHAtZGc5U1o2bWd6OU9vUkpqbG5EYnFvUmJRX0ZiaWI0cFlWVHNySEhkRVE?oc=5",
       "date": "Wed, 23 Sep 2026 10:58:01 GMT"
+    },
+    {
+      "title": "事故ゼロへ“ちびっこお巡りさん”出動！警察官になりきり交通安全呼びかけ「早めのライト点灯を」新潟",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DOTgtOW5CTFB0WHptUHNPV0Rsc25oY2NIVUUxWU5RMi1fZHhXTlR5RHFOZ1ZXUFFyR240UGI4NFBzXy1mbjdXNUNjYXg1dw?oc=5",
+      "date": "Fri, 25 Sep 2026 12:05:00 GMT"
     },
     {
       "title": "9月21日（月・祝）から秋の全国交通安全運動【アイシテル事故のないニイガタ。】",

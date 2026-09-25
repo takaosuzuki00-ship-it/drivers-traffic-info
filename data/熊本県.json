@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-25T21:04:57.497164",
+  "generated_at": "2026-09-26T00:04:31.124215",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 24.3,
-    "temp_max": 28.7,
-    "temp_min": 20.5,
-    "precip_prob_max": 1,
-    "precip_sum": 0,
-    "wind_speed": 2.2,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.2,
+    "temp_max": 26.6,
+    "temp_min": 22.2,
+    "precip_prob_max": 100,
+    "precip_sum": 24.9,
+    "wind_speed": 0.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.3,
+        "temp": 23.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 21.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 23.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 23.8,
+        "weather": "霧雨",
+        "precip_prob": 47
       },
       {
         "time": "12:00",
-        "temp": 27.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 25.3,
+        "weather": "雨",
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 28.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 24.8,
+        "weather": "雨",
+        "precip_prob": 88
       },
       {
         "time": "18:00",
-        "temp": 26.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "雨",
+        "precip_prob": 92
       },
       {
         "time": "21:00",
-        "temp": 24.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       }
     ]
   },
