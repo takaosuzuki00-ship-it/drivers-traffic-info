@@ -1,30 +1,120 @@
 {
-  "generated_at": "2026-09-27T00:40:38.314248",
+  "generated_at": "2026-09-27T03:01:43.459715",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.3,
+    "temp_max": 23.1,
+    "temp_min": 17.0,
+    "precip_prob_max": 53,
+    "precip_sum": 0,
+    "wind_speed": 3.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.5,
+        "weather": "曇り",
+        "precip_prob": 47
+      },
+      {
+        "time": "03:00",
+        "temp": 17.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.1,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 21.4,
+        "weather": "曇り",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 39
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "９月２６日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TSlFzNGtVdDd6RDZQel9HXzFJb2M4a1I4ZGhqY25Ddy1tTnN6RGpOalhrZ3o0M0pDU19JYklCV09iazF0d0Zsd1lnZno2dXY2U0djZ2lFbnpmbDVjS2VhejFVZTlXQm5vYUdNMHNGcTBsd9IBd0FVX3lxTFBSSjlIdGhKcmtXUlpmcXBUYlNObEwwN3o3OHlMeUgtSVh5NG5EelNRZnRBVU0xZFF1V0xPZ0R4R3p2Z1FSdUF2ZWF1bklWVDlPaFktRzJldDZoMXhlWGEzRDJQVzE0dC0zVmJTa3c5NW5WOUhIb0ln?oc=5",
+      "date": "Fri, 25 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【続報】交通取り締まり中、違反車両に引きずられ転倒 男性警察官が重傷 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hQWxJc1lSN1N4WUJfWG5FNDFtWWJrMGdpY2JycUZMY0tKYm5WVGdULXMwRm5UWlNWY1dUNF9heUZKQmJZWVl1YXVOQWlZRzR2VW5iN2k1NWk?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "9月26日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIMHNvbC1PWjRXYmJuSkE2bW90dXVTS1pfdzJpSExNLVVwSXNCMXJ5ZTJ2S3pTWDZDdzNScHV1VHVTTEIzcWFjRzFNZldJYkhlN01HN3hFRk1HdHlPMS11ekxNdjdBbl9fUGVISTRjUdIBdEFVX3lxTE53U2t2TVZraFN6ZTVBRUg2dExwQTB3MkVQODFmcnlscTNNczd5R2hKWktuei1lTFFhNWZVUkZyRVhNYjE3cVliVTctWVJ1MTZTdVkzYnhSNEZCYjFZcmpuc295ak5Vc2tVVnd1TzN0RU5oRFkw?oc=5",
+      "date": "Fri, 25 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "県警が一斉検問 お盆に合わせ 飲酒運転警戒",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rT2FaWlJJWl9JOEVZdk83cDA4aFJZaDhiYlJLVTdySVJSZExKNGJkYW1CYnNfQmk3Z25peUdmSzlrUjFlQ0kzNURseHBoYUpBbl8yZlFn?oc=5",
+      "date": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "横断歩道、停止してる？ 歩行者妨害の摘発 昨年は2229件《上州調べたい！》",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vWEJibXM0MmlZM1RRdnpwN2RaTEVfUl9XczlZcWRZbW13SWhlMFNsV203VVNlNWRDazk4U0xFSEJGUGpjV3UzenBJV1U3VC1mYlVnaGNMVVI?oc=5",
+      "date": "Mon, 30 Jan 2023 08:00:00 GMT"
+    }
+  ],
   "accident_news": [
+    {
+      "title": "群馬県内で交通事故相次ぐ 伊勢崎市で２０代女性が死亡（群馬テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DS2Vvd1BQWFRlSlhDLUZ1amNaY0dpdU9CZWhIemdPVWloUUpaVUFjbXJTa2pfeV9GTXdTZGIyTkJ2SXhXbzlqc0dXUnV6SE5CemExTGdZYlp2MkloWjFubFducGNadkZaTFFBZ20xVldIRzJjWUNFbnJQbzJYUW8?oc=5",
+      "date": "Tue, 22 Sep 2026 10:12:25 GMT"
+    },
+    {
+      "title": "車とバイク計3台が絡む事故で4人が死傷 群馬・伊勢崎市の国道354号 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NeEVWMzdSTmFOaG9tZ0xJTk1kZ3hvWnJYSFgwVkdsTGM5Rlp2ZVlMaURrVkstd2FDUEZFaEptbl9ZZ29CWmRlWDJCZ09vT1hQeWNzN2N4UWlUUQ?oc=5",
+      "date": "Tue, 22 Sep 2026 08:25:00 GMT"
+    },
+    {
+      "title": "人身事故が多い交差点 群馬県では高崎市の２カ所がワースト１位（群馬テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HenJsNW5CdkNxZjBCV2FQNUhxWUpNTHQ3dUZ4RDY3QlJocmdHdHcwSHdZUGVRaV9XcjBsT2pBQ093UjNCUHlvQTBUdXNSVEp2al81dWR6cDl0cHd5SlFJRmNKOFdNR3Q1WGhlck1acFBOUDRmWXJseUU2eXExR2M?oc=5",
+      "date": "Mon, 21 Sep 2026 11:32:22 GMT"
+    },
+    {
+      "title": "【詳報】車4台絡む事故で男性1人重傷 群馬・前橋市の県道、一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YnBKa2RwSFhLLTZDeER1QmRnUGR5aHhSMjI3V2dqRGJVU3h5S1g2N0NDalREZUY2ZF90akR6T1ljTmk1b2VsUDVfRWgwVlloVDlRU00wU2phQQ?oc=5",
+      "date": "Tue, 22 Sep 2026 09:23:00 GMT"
+    },
     {
       "title": "群馬・太田市で死亡の52歳女性に十数カ所の傷、死因は「出血性ショック」 長女は元夫からのDV被害を警察に相談 公開手配で行方追う（FNNプライムオンライン（フジテレビ系））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDQTNBU3p6REVOWjkwZlFJVlFScS1YOWxBcGp3MnN0OUc4bWxKNUxONFdWbVZSRjh0alRaM0FheUZaYkRONFdxRjRMUFB5SDNyZmlwWXVWLVQyajI2MDlPOGZnbXRxQl9hM3dOdDZfcXBaWWQ4UnZKNzRXUkVqMUU?oc=5",
       "date": "Sat, 26 Sep 2026 08:15:38 GMT"
-    },
-    {
-      "title": "群馬の住宅で52歳女性が死亡 現場から男が逃走か 殺人容疑で捜査 [群馬県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45czltNWR5X2dBQUs0M1dhQjYzZjFJaVRJczE4LUNvNVl6b3ZaVFNtckxwd1p2aWVjLTVqOVhydnRvZUVIS0dxZVRKNjdIRi0yV0hsNGh0VVczWjNDYXNFVU5HUTNIczA?oc=5",
-      "date": "Fri, 25 Sep 2026 05:13:00 GMT"
-    },
-    {
-      "title": "指名手配の男 死亡女性の長女に復縁迫る DV相談も 群馬・太田市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kOUVULXBsdWlDTnF1Yk9wMjlfakRpLWVFQUFJQjlxMVhSMUMzS0NlTzRqM0wtb25wMzNBUExUcHppUUxKbDVyN1huTXhBcGIzdlhQTE56QUdCREJ2YjBjeGs3eU9qMnliSHpEZ3R2TzU1dw?oc=5",
-      "date": "Sat, 26 Sep 2026 03:04:34 GMT"
-    },
-    {
-      "title": "【詳報】群馬･太田市で女性が刺され死亡 逃走した男は長女の元夫か 群馬県警が行方追う - jomo",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RElFakZRR2ZnYzdvTjZnU1NqMUxZM1VWY0RIYWFvSF9qd3FMQ1dvVG5OMnY4dEVFa2xxa0ZJOEVET080d3ZpYTFZWGVKRUN3S3VSd054dnJLdw?oc=5",
-      "date": "Fri, 25 Sep 2026 21:00:00 GMT"
     }
   ],
   "official_links": [

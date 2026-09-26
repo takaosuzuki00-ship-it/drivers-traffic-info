@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-27T00:35:02.782965",
+  "generated_at": "2026-09-27T03:01:21.912061",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 17.6,
+    "temp_max": 23.1,
+    "temp_min": 17.4,
+    "precip_prob_max": 69,
+    "precip_sum": 0.6,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "03:00",
+        "temp": 17.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      },
+      {
+        "time": "06:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 22.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 43
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93YWI4d05HS1VTd1prNEkwQkNtZFVkNkYwTHJnQUtURmM4YVRvU2kweEU5dDRicl9nWGlLMWtSZU9JV1dDVkY0NVJoSncxMzdzbVFqd29Sak5iQk52eE1YSDR6cnJSU3pkYlIwU3FNN05ITkE?oc=5",
+      "date": "Tue, 22 Sep 2026 20:12:55 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 3県警合同検問 茨城県警境署",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZEptSTNBS09OaUJzdWJ1UjkyNlZBTkNaY1dlbk9aZkYzR1NrTHpRbW1GblZ1RW1UUlJQY0VQY3lEaHBReGN4LXVaT056bjAxUEJERXVDbmxUMkkxTHJUZnJmblZFck90Y3d4d3Zlb2VVRmc?oc=5",
+      "date": "Fri, 25 Sep 2026 23:03:45 GMT"
+    },
+    {
+      "title": "筑波山「ドリフト族」摘発 無免許など9件、車両6台に整備命令 茨城県警と運輸支局（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oQkxlZ1dIMEtyRE91bGtVN3dkYk1WNnVfdHZlS1ZxaEtsbjlhb3d1eUtpZGEtVVhSeGhVMHYtTkMxTV9WOTF4bGlqUXVvUk0xbVV4eWgybWxGTHIxSkl5cHk1dzNNV2Z6VGwtbVFUNlFVWHJGQmZRVlNQSUtPa28?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "地位悪用の盗撮絶えず　茨城県警摘発、教員や経営者　識者「施設管理の法整備を」",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3dHcUZOZG5zajlnOG5vNmF4eEpiTUNZNjZoRzlFSjNfQ2YtQ0lzVGV2UUNVS2NFQTUxUmNLLXFoUkRIOEJLYVVXYm5ycDNMR1QtMUZvM3JnZXpfTHdNVUpveHVkd0ZEYXlaNTlsUC10ZUxHal9fR1VkeTJqSVBIN3hpeUNvU1RQZTFuR9IBiAFBVV95cUxPYXZZV010N2tqWHp2QjBRamdkR2lHdENUcFQ5RkxWblltN3lqTm5LQWFmSk16U1N2OWRLZXJoUHR5S3A0UkxXb1puY01fOEgycUI3TW84ZHRLLTRjUXBBM2trYkpTb3l5dzhxdjhEV2poRE5EaGRaTjVXMDZtVVl4Vl9hb3JMelF6?oc=5",
+      "date": "Tue, 22 Sep 2026 02:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "茨城 つくばの十字路で乗用車２台が衝突 １人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04NlN4aHRKUUpzVXM5R1hkbjA0cWRTYUFuZGJNRkFnWXl4VjBIeEtiTDFmZmVDenFhNnl2MkVRM0dOYzhjeDVFZDBkMndSeGtNOFFLNXphaW0?oc=5",
+      "date": "Thu, 24 Sep 2026 09:44:00 GMT"
+    },
+    {
+      "title": "＜更新＞茨城の10代男性3人が重軽傷 古殿の県道で大型トラックと軽乗用車が正面衝突",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zNWJjekdKWk5OSEhXM3MwcG9iVkZycUpwbkdjbWpFUEhaNzNNUzZtN3FqanJRWUZGMUNTQXlxQVc2WlAyR3lIWF9GM3MyOVU?oc=5",
+      "date": "Sat, 26 Sep 2026 13:22:19 GMT"
+    },
+    {
+      "title": "交通事故発生マップ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVzRBSEZFNTRBb0VSenhrOWFuS2dYemZadzBRb21CajVyOURvRTQzVExxTGJOb0RueGJpLVdNa0hmdUM3cklmVUFIUnhDN2Y5RTl3VFJUZ0tfdEt6YXZLekFOay1ZVGlfT2ZxZXY3dw?oc=5",
+      "date": "Thu, 27 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【更新】交差点で乗用車同士衝突、男女2人死傷 茨城・つくば",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92NHNnaGVOUWRabnpoYXlhYUdvWE0zak9mak5YSGdFSVg0c21yT192cHBwaVJOLWp0Y1pmemI3V2NFbDZSSUFjSF9FNA?oc=5",
+      "date": "Thu, 24 Sep 2026 02:58:00 GMT"
+    },
+    {
+      "title": "【更新】交差点で乗用車同士衝突、男女2人死傷 茨城・つくば",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrZXc3M09IN2xmcGtMX2V1SHBlbDBXYjlsd2JWVnpScnltY2psaVpHZm9qaWFNQU9JNl9XTEI1bklBOU5XRGllTHMyQTNhQnpyQi1UZHI4ZUpLTjNFSnJHY2puVFNLZGpLeTJ3c2hjdDRYTmc?oc=5",
+      "date": "Thu, 24 Sep 2026 11:39:26 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",

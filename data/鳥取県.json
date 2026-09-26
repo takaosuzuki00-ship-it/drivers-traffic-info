@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-27T00:43:31.953536",
+  "generated_at": "2026-09-27T03:03:59.923169",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 19.8,
-    "temp_max": 25.0,
-    "temp_min": 19.8,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 19.9,
+    "temp_max": 24.5,
+    "temp_min": 19.6,
     "precip_prob_max": 63,
-    "precip_sum": 0.8,
-    "wind_speed": 4.0,
+    "precip_sum": 1.4,
+    "wind_speed": 4.3,
     "hourly": [
       {
         "time": "00:00",
         "temp": 19.9,
-        "weather": "晴れ時々曇",
+        "weather": "晴れ",
         "precip_prob": 2
       },
       {
@@ -27,38 +27,38 @@
       },
       {
         "time": "06:00",
-        "temp": 19.8,
-        "weather": "晴れ時々曇",
+        "temp": 19.6,
+        "weather": "曇り",
         "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 22.1,
-        "weather": "晴れ",
+        "temp": 22.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 31
       },
       {
         "time": "12:00",
-        "temp": 25.0,
-        "weather": "曇り",
+        "temp": 24.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 51
       },
       {
         "time": "15:00",
-        "temp": 23.6,
-        "weather": "弱い霧雨",
+        "temp": 22.6,
+        "weather": "霧雨",
         "precip_prob": 63
       },
       {
         "time": "18:00",
-        "temp": 22.5,
+        "temp": 21.9,
         "weather": "晴れ",
         "precip_prob": 43
       },
       {
         "time": "21:00",
-        "temp": 22.5,
-        "weather": "晴れ時々曇",
+        "temp": 22.3,
+        "weather": "晴れ",
         "precip_prob": 25
       }
     ]

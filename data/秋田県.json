@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-27T00:26:02.644000",
+  "generated_at": "2026-09-27T03:01:04.081113",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 17.3,
+    "temp_max": 24.6,
+    "temp_min": 17.1,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 7.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 24.3,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月25日（金）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVndEMHhwU2J4enpPTC1xRl9WZjZ0cE9fOW5jTXJKUDllZGlBLUpjcVpOdDAyeHBESnAyakxQLUQtdmdpaklwMHVZTnBIMFIzdml2TGRYYmc0ME9QeGhjdkJxRjBJamZXd2VSSnpNUGxfRzBkQTRFdy1ZMkgtOVJnSjlycFVEU1l3Q0xfYTFB?oc=5",
+      "date": "Thu, 24 Sep 2026 20:00:33 GMT"
+    },
+    {
+      "title": "9月25日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00X2pBSTRyYmhOM1FDYTJiVGdjWUlmVmNaQnhXdlZSX3lBNl9vTldzTmp5cldTRlFFVTMzRUVvWm9CODFhQ05SR2wwVEVkWVJ0S2JGNXBZTGVvanhkMHpmMmNZaDBIaUZicjZHZTVaUdIBdEFVX3lxTE1OWU5RU1BselhVQjJrd3Q4dDhwWTJtRzNMN29uZ3BBcGdZZUsyY3RTaFFULVBjR2U4QUtvRzVNVkc0X0lieWZFYzdISEVsOEItUXpIMF9UcmtieG1acS1TbXV3VlZDQldxcWNCejJvc0tBUkp1?oc=5",
+      "date": "Thu, 24 Sep 2026 20:09:49 GMT"
+    },
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MRkF6a2dtUUt6RkM3RzFuSG9Sbzl5NUVVeUpLOENmR0VMRzR1ZkdxelNYWHlYOGlwMEFOSjl1RDZYM3R1TTJEZHk1aU1RakM3cUhhNmk2VTNvTDJEenRmVlZ6ZkJRQm8?oc=5",
+      "date": "Mon, 21 Sep 2026 20:06:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWUt6bXVpUzJjT0Zab2FWbmYxbTg1LTRvektfZTVDbEt3cFhiYzBpRXdvaTd6N2lCVkZYa1BFc2lsbW16Q2djSWtIY0RNMXg1U1pIRkFfN0ZjNUtwLXNob1hR?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "秋田 交通事故が最も多い交差点で交通安全を呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GNXZtM1BDOUxyWHI4RjRzUERsSFZ1eV9FUnZXY0d2NnNPVDZiNUN4U3FJcGVUYkpzNWtEd08tTUxDeHplejg2WWM2MTVXT0Nrcmlmc3llUmo?oc=5",
+      "date": "Fri, 25 Sep 2026 02:42:00 GMT"
+    },
+    {
+      "title": "羽後町の国道398号で乗用車同士が正面衝突 助手席の79歳女性が死亡 双方の運転手もけが 秋田",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NQ2NKcU42c2stVjZ4Q2t0cDhSaFdYWE9xNHhpREdVX21WNXcwZGdaZjNScTlYRWMtRkNHX2lIX2oyQmJoaDRjWXFFVnBmc1h2YTZJSUlhSkhldk9iaklLal9iLWE?oc=5",
+      "date": "Thu, 24 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "羽後町の車同士衝突事故、運転の夫も死亡 死者２人に",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13bTdXVHlrMTFfUW9saVNqanM4dWQtZ0YwUHdZdTNvbHhtY0JPQllab1dLVlFrQ0ZpSldQNkpqbUdmalkzUUszajFweUFVNU52dmFWTHEzUElBRzVhSTFLMENn?oc=5",
+      "date": "Fri, 25 Sep 2026 05:35:00 GMT"
+    },
+    {
+      "title": "運転手目線の映像やVRで事故リスクを体感 高齢者向け交通安全教室 安全運転への意識新たに 秋田市（秋田テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yeGdYRjlCRHdnQUJSS2YyS053dDcxVnN2TFpIQ25wWGtZS0JVenJiVGpyRmM1X1V6b0R4cFNPcGZhVzJBRTBFQUdxejFlSHpCUENqVF9tX0NNcS0tUEZKdFdFVmtIMzZYaEtZcGRtY2UxQVhNLVBQR0ZaMkt1Uzg?oc=5",
+      "date": "Sat, 26 Sep 2026 09:26:01 GMT"
+    },
+    {
+      "title": "国道で車同士が正面衝突 ７９歳の女性が死亡 秋田・羽後町",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvUGJFTXFVd1F4X3RhQ1JFRDBGV1FhSE9UV2RGdElRbENIX05jZjJRc0JOZFJlc2o3RmFESE1pNTFsVTJNTGEwakpUMVUzZWF0RXlQa2haazUyS2NVbjAtdG5law?oc=5",
+      "date": "Thu, 24 Sep 2026 09:49:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "秋田県警察 公式サイトを検索",

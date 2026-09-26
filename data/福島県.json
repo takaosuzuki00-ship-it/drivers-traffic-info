@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-27T00:32:02.719507",
+  "generated_at": "2026-09-27T03:01:16.311350",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.0,
+    "temp_max": 23.3,
+    "temp_min": 16.8,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 1.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.0,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 17.0,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 17.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 18.9,
+        "weather": "晴れ",
+        "precip_prob": 14
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月26日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIMHNvbC1PWjRXYmJuSkE2bW90dXVTS1pfdzJpSExNLVVwSXNCMXJ5ZTJ2S3pTWDZDdzNScHV1VHVTTEIzcWFjRzFNZldJYkhlN01HN3hFRk1HdHlPMS11ekxNdjdBbl9fUGVISTRjUdIBdEFVX3lxTE53U2t2TVZraFN6ZTVBRUg2dExwQTB3MkVQODFmcnlscTNNczd5R2hKWktuei1lTFFhNWZVUkZyRVhNYjE3cVliVTctWVJ1MTZTdVkzYnhSNEZCYjFZcmpuc295ak5Vc2tVVnd1TzN0RU5oRFkw?oc=5",
+      "date": "Fri, 25 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "9月21日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91TnJGZ1Nuc0s3WDlDRFcyUkh4ZW9VcERSRWV5MEk4dnhaamJMd2RrczRzUWNFOURsOHNHNHRYS1ZzZi1jcEk2MGR4MWQyLXd6bzBmSEFLNA?oc=5",
+      "date": "Sun, 20 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【覚醒剤取締法違反容疑で逮捕】須賀川市 【交通事故】郡山市 【熊と衝突】福島市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TNkJwVXVOYThwbE5xUFIyNUNqSzBIQTV6SEtSVXVZcV9TRGMzMnFSS1NZQjk4UXlHNmU4d2d1SGRGZXZJeTJFaWxOcUdyU0k?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国道４号で夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）｜中テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTENMZVZnN2tFSk1vWFNtVzVFYm5FbDBoTXI1RWl3YTBxUDBVbVpteHd4MXI4aFh0TG9MNF9sTUR4Q2M1M20tMEJlaXlUSHZLNUo1TkpYWUV3dTdMS3VhOVdIWnRURF9oYm16VFZRWG14dWZKZVpvcDFXbU5qRlU?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "酒酔い運転疑いで38歳男逮捕、交通事故の通報で発覚 福島・郡山（福島民友新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1paWZ3QTlPQ28yS2FvWVZwNVVlaHNNVjRISTRSakNPVVItNlR6X2JXa0I4bU5EeHNJREl0V09xcUY1cDg4TzJPQ0IwTEVtMFpHSHhaYTlGWFlzblM4dUFtMjllQWhLWEpubGF1VjBoWUtROHFhWExINkJYUDI3ODA?oc=5",
+      "date": "Thu, 24 Sep 2026 08:36:00 GMT"
+    },
+    {
+      "title": "【交通事故】 西会津町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UlU4T1I0YmhaVFpYSWlwcC1XTU0zMHYxc1lGMkNCWTFtS2dNTHFacV9acklTN3VlbFVuWUhCSGNfcXFza3V2LWd5MEs2MXM?oc=5",
+      "date": "Sun, 20 Sep 2026 23:42:00 GMT"
+    },
+    {
+      "title": "Uターンに影響 混雑の東北道が交通事故で通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrc0t4OTZSRmZ3MWxLV2VwaXVIbHJnUk5jd3NBWVRaTU9kZXYwUU1QVG5NcDVYdTUxVTh1bWMyUmU0d2hnZmRIcTBpZmFWSjk1ZFo1RXFR?oc=5",
+      "date": "Tue, 22 Sep 2026 04:24:00 GMT"
+    },
+    {
+      "title": "福島県内の高速道、事故相次ぐ 磐越道、東北道で追突や横転（福島民友新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ba1RITUxzLWg5UmwtVXAtT09xSUtRVFNLSVU1V1VXQi1PUG1pOE1rWDNLZFpNMVVXdlZtM2E5dkE5c1plOE05d0V0UURqUXd6bHpTRFJUUjUwUEtMSmJGV3ozQkJDeWZXWUlOZGdNdWVTdUZZWVpyRHl0TzhvMU0?oc=5",
+      "date": "Wed, 23 Sep 2026 00:16:00 GMT"
+    },
+    {
+      "title": "アンダーパス冠水で死亡事故、通行再開までの10日間で進んだことは [福島県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50SS1HQnNnZFd0cE1kdTNOQ0VQSEdrT054ZDVFUUIzalZvUlN0ZDB0eFJqZUx1TVVVU1pxa0E5LXZIVmMzNnBZOE13NTFsSjBpN1FtbWpEZ2FMT1dBU3VHNFR0WUxWRjA?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",
