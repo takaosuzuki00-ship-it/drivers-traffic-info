@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-09-27T06:02:10.431504",
+  "generated_at": "2026-09-27T09:03:42.666554",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 20.1,
-    "temp_max": 23.7,
-    "temp_min": 20.1,
-    "precip_prob_max": 91,
-    "precip_sum": 10.4,
-    "wind_speed": 2.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 22.1,
+    "temp_max": 23.0,
+    "temp_min": 20.0,
+    "precip_prob_max": 99,
+    "precip_sum": 3.0,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
         "temp": 20.4,
         "weather": "曇り",
-        "precip_prob": 33
+        "precip_prob": 75
       },
       {
         "time": "03:00",
         "temp": 20.3,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "06:00",
-        "temp": 20.1,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
-        "time": "09:00",
-        "temp": 21.8,
+        "time": "06:00",
+        "temp": 20.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 47
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 22.1,
+        "weather": "曇り",
+        "precip_prob": 35
       },
       {
         "time": "12:00",
-        "temp": 23.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 82
+        "temp": 22.7,
+        "weather": "霧雨",
+        "precip_prob": 43
       },
       {
         "time": "15:00",
-        "temp": 23.2,
+        "temp": 22.4,
         "weather": "弱い霧雨",
-        "precip_prob": 90
+        "precip_prob": 84
       },
       {
         "time": "18:00",
-        "temp": 22.1,
-        "weather": "弱い雨",
-        "precip_prob": 90
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 21.7,
-        "weather": "霧雨",
-        "precip_prob": 80
+        "temp": 21.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "９月２６日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TSlFzNGtVdDd6RDZQel9HXzFJb2M4a1I4ZGhqY25Ddy1tTnN6RGpOalhrZ3o0M0pDU19JYklCV09iazF0d0Zsd1lnZno2dXY2U0djZ2lFbnpmbDVjS2VhejFVZTlXQm5vYUdNMHNGcTBsd9IBd0FVX3lxTFBSSjlIdGhKcmtXUlpmcXBUYlNObEwwN3o3OHlMeUgtSVh5NG5EelNRZnRBVU0xZFF1V0xPZ0R4R3p2Z1FSdUF2ZWF1bklWVDlPaFktRzJldDZoMXhlWGEzRDJQVzE0dC0zVmJTa3c5NW5WOUhIb0ln?oc=5",
-      "date": "Fri, 25 Sep 2026 20:00:00 GMT"
-    },
     {
       "title": "９月２４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40WFAzSkpSaGROV2duX19BSnRtV0VIR2R1aUdWZnRyQTI5ei1GcXBEVEZMcm1rQjNDNWV5eHprUlpEcDZOaVZhbThxM1RrckZfQUpDUG0zLWVTT2xPNVZ3c3ZzSEdXcEIwQXRqV3pyYWZrd9IBd0FVX3lxTFA0aWFZQklrN1kzajNfWFNwWnFmVktPTkxoY0xyYllldlQ1ZTJtckRsMGlhX2hkdldtUzVFUGpjT2JQLW1vZWpVcnU0T2lmNktvVjV2d3U2ZGtjN08xc21ueHNhT2JMcThTTkxXR1RzeExjWnBsS0cw?oc=5",
@@ -88,6 +83,11 @@
       "title": "ラファ検問所、きょう開通見込み 支援物資トラックが待機",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5N0g0dzd2TWFFZkpud25wM1FpcWh5QWxBdWVqY3dMaXNUeDF6dU5od0VGWnp4cW55YUdWcndCRTFiUnRQNHhPRGtUUVZ0bG5ZcWZV?oc=5",
       "date": "Fri, 20 Oct 2023 07:00:00 GMT"
+    },
+    {
+      "title": "行く手阻んだタリバンの検問 唯一退避の日本人、緊迫の出国劇を語る",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yUzNPM3owZXg5QkFTSUhvay11c1dpQndDbWFPR0d4THdqa2RTd2Q4Z3lPcF8xTy1WZ3VTc0NyaVZHbjFBQzFCeTVoTEFWYzZmNkZuZDlCa3BhV2liVlgwNFI2dzZYZw?oc=5",
+      "date": "Tue, 14 Sep 2021 07:00:00 GMT"
     }
   ],
   "accident_news": [
