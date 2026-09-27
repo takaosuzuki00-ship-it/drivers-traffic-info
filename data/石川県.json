@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-27T18:01:42.542887",
+  "generated_at": "2026-09-27T21:01:47.006700",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 22.0,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.5,
     "temp_max": 24.7,
     "temp_min": 19.6,
-    "precip_prob_max": 76,
-    "precip_sum": 6.0,
-    "wind_speed": 5.1,
+    "precip_prob_max": 59,
+    "precip_sum": 6.6,
+    "wind_speed": 5.6,
     "hourly": [
       {
         "time": "00:00",
@@ -41,33 +41,33 @@
         "time": "12:00",
         "temp": 24.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.8,
+        "temp": 24.3,
         "weather": "弱い霧雨",
-        "precip_prob": 51
+        "precip_prob": 59
       },
       {
         "time": "18:00",
-        "temp": 22.0,
-        "weather": "弱い雨",
-        "precip_prob": 76
+        "temp": 22.3,
+        "weather": "雨",
+        "precip_prob": 31
       },
       {
         "time": "21:00",
-        "temp": 21.3,
+        "temp": 21.5,
         "weather": "曇り",
-        "precip_prob": 63
+        "precip_prob": 31
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "9月26日（土）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIMHNvbC1PWjRXYmJuSkE2bW90dXVTS1pfdzJpSExNLVVwSXNCMXJ5ZTJ2S3pTWDZDdzNScHV1VHVTTEIzcWFjRzFNZldJYkhlN01HN3hFRk1HdHlPMS11ekxNdjdBbl9fUGVISTRjUdIBdEFVX3lxTE53U2t2TVZraFN6ZTVBRUg2dExwQTB3MkVQODFmcnlscTNNczd5R2hKWktuei1lTFFhNWZVUkZyRVhNYjE3cVliVTctWVJ1MTZTdVkzYnhSNEZCYjFZcmpuc295ak5Vc2tVVnd1TzN0RU5oRFkw?oc=5",
-      "date": "Fri, 25 Sep 2026 20:02:00 GMT"
+      "title": "9月24日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xc3BmZ2FrNmZrQU1fTURPNGhKcGZiRTZCWGcydVdwSmFhelBFb2k2bWJqSExFQjdLYkR4Z3RydFdpYm10TGZLSVU5R1REa056ZGhGR1NMMDk0b1pNU3FKMEcwMUdpRVJPLVNHV0JJd9IBdEFVX3lxTFBnUjI0SXRGeGVXSmVBbzBMN3BFMVBMNFBXbDVGMkx3U2NzZWJWbDlzcUJLQS1JZy1ONGRDejFRNWNLdGRCRERnc1lQY2o5N2szeFM2UmFpY2dNVHZZN0Mwamc5allGQ2ZfSGZUOGtWNjh5bC1Q?oc=5",
+      "date": "Wed, 23 Sep 2026 20:02:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 ４月１日",
@@ -102,6 +102,11 @@
       "date": "Sat, 26 Sep 2026 04:14:00 GMT"
     },
     {
+      "title": "石川の私立高の部活バス、上信越道で事故 顧問教諭が運転 生徒１人軽傷 東京へ向かう途中",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kbGNBMXdyTC1BQ1ZoSzVINVZSU1Nzb2ZNdUJ4NWFTc1FnRnBUVlBzc2FIY3E2dF9QSFNUWVhWV1BMM3hFREliYnd1WQ?oc=5",
+      "date": "Sat, 26 Sep 2026 20:00:00 GMT"
+    },
+    {
       "title": "上信越道で事故、１人軽傷 石川の高校、部活移動中",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41TUtPa1B4WnA0VWRzSEw2bnZsTDl6b2NGTGtGdXZzcjhEWWtVNk9yaEIxWW1vOFdEM3phbmJaa3BfR3JqVVlvenBJNVF1ZHczZnc?oc=5",
       "date": "Sat, 26 Sep 2026 09:03:00 GMT"
@@ -110,11 +115,6 @@
       "title": "石川の私立高の部活バス、上信越道で事故　顧問教諭が運転　生徒１人軽傷　東京へ向かう途中",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGctSnR2ZVFDU2p5aGd2UnhORVRFaWJmaENaSjAwWi1oVjQtYVJvR1BLU0FQQjl1SEZ6alZCN0JIcjZ1U3BmdUJ5YTNTSEJLYjJpOExGQmRaQkxWRGZxb2UwcjFPSm55R3lIUzBObDFnal81bWR4UzF6d0hkYzhxdWR2ONIBiAFBVV95cUxOWUZNSUZ4eVRnQ2pUdnk4S296UjMwaXB2ZFRCcjg1a043eGEyRW1fRDBLQ09FYXhWOFUxX3Z3cllWbk5hUWhpZjBRUVdsczE2R0c5Mk9UWks0MTJteHZydTY5WTNTdzlYdWZMV1ZVanZJT0lYZ2VsVm93NF9RT3A0UmVzOTVfcFFI?oc=5",
       "date": "Sat, 26 Sep 2026 20:00:00 GMT"
-    },
-    {
-      "title": "交通事故防止へ金沢３署出動式｜地域｜石川のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81NTZfSkZGbGNQazRYYmVyekVGSXFCQnNEZmthS1VaWVFhVXUyeENYUGFPRlRkeV9PYVpISjBLYkRPUmt3M0syV0VkSU4xRlZYTnd6bFAyWQ?oc=5",
-      "date": "Tue, 22 Sep 2026 20:00:00 GMT"
     }
   ],
   "official_links": [
