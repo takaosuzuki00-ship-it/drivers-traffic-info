@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-09-27T09:00:39.561710",
+  "generated_at": "2026-09-27T12:00:37.006929",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 23.9,
+    "temp_max": 24.1,
+    "temp_min": 14.1,
+    "precip_prob_max": 15,
+    "precip_sum": 0,
+    "wind_speed": 3.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "15:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "9月23日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
@@ -26,21 +85,21 @@
       "date": "Thu, 23 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT"
+      "title": "スピード違反で摘発、男性教諭を戒告処分 青森県教委",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85TUVtWU40ZFNELXQyUkNPMzJOQlFiaWlDMlpIWFZ0ZVJrWDZGRk1rejkxdjZUU0NYTnVpUUU1LW1ja3BBY2VDc3Y3SG1tVEUwSDk4bnJQd3Y?oc=5",
+      "date": "Wed, 11 Dec 2024 08:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
-      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
       "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】青森市の国道で乗用車とトラックが絡む事故 男性1人意識不明で搬送",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93d3ptbFBkMFlwNVFEOFVKcS1XcUV0NGluU1VjalY3QzdCeWQwRzlhRHVfb3VyWFltQTR0UVpRQk52QmE1ejNoTmt3N0ttSjFmbWV6WFREN0E?oc=5",
+      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",

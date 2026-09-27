@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-09-27T09:01:56.214055",
+  "generated_at": "2026-09-27T12:01:10.597495",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.2,
+    "temp_max": 23.2,
+    "temp_min": 17.5,
+    "precip_prob_max": 55,
+    "precip_sum": 0,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "03:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 55
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "９月２６日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -48,14 +107,14 @@
       "date": "Mon, 21 Sep 2026 11:32:22 GMT"
     },
     {
-      "title": "【詳報】車4台絡む事故で男性1人重傷 群馬・前橋市の県道、一時通行止め",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YnBKa2RwSFhLLTZDeER1QmRnUGR5aHhSMjI3V2dqRGJVU3h5S1g2N0NDalREZUY2ZF90akR6T1ljTmk1b2VsUDVfRWgwVlloVDlRU00wU2phQQ?oc=5",
-      "date": "Tue, 22 Sep 2026 09:23:00 GMT"
+      "title": "交通事故で新聞配達員の男性が死亡 事故多発の交差点 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlenNjOXo2Ty16U2tQSUk3ajFONW9CMGY4U1NKNGE3Nm1qOUNnZHA2YmtuMmF3aHR5U0gyNkRTVjJ4NU4ybXBtd2VjQXQtUXc?oc=5",
+      "date": "Sat, 12 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "群馬の住宅で52歳女性が死亡 現場から男が逃走か 殺人容疑で捜査 [群馬県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45czltNWR5X2dBQUs0M1dhQjYzZjFJaVRJczE4LUNvNVl6b3ZaVFNtckxwd1p2aWVjLTVqOVhydnRvZUVIS0dxZVRKNjdIRi0yV0hsNGh0VVczWjNDYXNFVU5HUTNIczA?oc=5",
-      "date": "Fri, 25 Sep 2026 05:13:00 GMT"
+      "title": "【更新中】群馬・太田市の住宅で女性死亡 指名手配の男、死亡女性の長女に復縁迫る DV相談も",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZExmRXVDWFZnNElWSDY0aEhnUXkzVTJqVlR3cFNkV0Z3bVNiNC1VQlZGbjNLWkE0RUFNbkpBdnJsSTc2dWxfSnE1X0ZVMDRxQVRTRzQ5b0tfaHVrd2lQaUlHTkZQOVREZDE3cDUzMjZkUQ?oc=5",
+      "date": "Sat, 26 Sep 2026 14:15:00 GMT"
     }
   ],
   "official_links": [
