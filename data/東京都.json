@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-09-28T21:02:47.309642",
+  "generated_at": "2026-09-29T02:10:50.215244",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 21.1,
-    "temp_max": 24.3,
-    "temp_min": 20.5,
-    "precip_prob_max": 90,
-    "precip_sum": 9.7,
-    "wind_speed": 2.0,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.8,
+    "temp_max": 21.0,
+    "temp_min": 18.7,
+    "precip_prob_max": 100,
+    "precip_sum": 67.7,
+    "wind_speed": 2.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.5,
-        "weather": "曇り",
-        "precip_prob": 90
+        "temp": 21.0,
+        "weather": "強い霧雨",
+        "precip_prob": 80
       },
       {
         "time": "03:00",
-        "temp": 21.0,
-        "weather": "曇り",
-        "precip_prob": 33
+        "temp": 20.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
       },
       {
         "time": "06:00",
         "temp": 20.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "weather": "弱い雨",
+        "precip_prob": 90
       },
       {
         "time": "09:00",
-        "temp": 20.6,
-        "weather": "霧雨",
-        "precip_prob": 67
+        "temp": 20.9,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 23.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 65
+        "temp": 20.3,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 24.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 53
+        "temp": 20.0,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 21.7,
-        "weather": "霧雨",
-        "precip_prob": 63
+        "temp": 19.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 21.1,
-        "weather": "霧雨",
-        "precip_prob": 88
+        "temp": 19.0,
+        "weather": "弱い雨",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "警視庁、8月の速度違反・重点取り締まり場所一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xc25qcFl4VlRBZnJCQTZ0eWczeERRU0docHdGSFVlT2tURUNoT0pacEdNQnFuT1oyN0Y0X1JIczZoY3hOVnFyeDdzU3d3LVoyUDRHMWpEYm9nX2E4d096ekExd1hpUFp3?oc=5",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+      "title": "警視庁、5月の速度違反・重点取り締まり場所一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54YVZ3X290OFYwZVgwamktQ1VzbUFtdDJwcHYzcjFxSGJ5c3ZlY0J3Q1JvbXJkc1M4R3EtcFhUQ19pSlZlakhGaGZCMzlWaVVqaUJMYVY5N1NoUGk0NmNqT1JEaGNiSWJl?oc=5",
+      "date": "Fri, 01 May 2026 07:00:00 GMT"
     },
     {
       "title": "ドラレコで違反確認、ＡＩ活用も 取り締まり不正で再発防止通達―警察庁",
@@ -75,9 +75,9 @@
       "date": "Fri, 20 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "警視庁、5月の速度違反・重点取り締まり場所一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54YVZ3X290OFYwZVgwamktQ1VzbUFtdDJwcHYzcjFxSGJ5c3ZlY0J3Q1JvbXJkc1M4R3EtcFhUQ19pSlZlakhGaGZCMzlWaVVqaUJMYVY5N1NoUGk0NmNqT1JEaGNiSWJl?oc=5",
-      "date": "Fri, 01 May 2026 07:00:00 GMT"
+      "title": "警視庁、8月の速度違反・重点取り締まり場所一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xc25qcFl4VlRBZnJCQTZ0eWczeERRU0docHdGSFVlT2tURUNoT0pacEdNQnFuT1oyN0Y0X1JIczZoY3hOVnFyeDdzU3d3LVoyUDRHMWpEYm9nX2E4d096ekExd1hpUFp3?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "電動キックボードなど対象に警視庁が飲酒運転の検問",
@@ -92,14 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "【速報】東京・府中市で車2台と歩行者からむ事故 3人けが 歩行者の女性1人が心肺停止 京王線中河原駅のロータリー近く 警視庁（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EbExIMWZSUFBJcjZQSDVkRHZSd3pqSTFUdExkNEdYdVFtQk9RT1FHaDdYV3VnVl9MeTVNTE5yclJERVljR1VHcXNYR05uc3RuSUdkTzRJSmVSbDJJNFdFeEp4QVdfeGhOSFBTQVFmeGRKZGJOWklnSlI2SF8tYzg?oc=5",
+      "date": "Mon, 28 Sep 2026 10:43:30 GMT"
+    },
+    {
+      "title": "東京・府中市で追突事故 80代女性が死亡 23歳男を現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSHB3c05ibEF3anRwVy1mLUR5QWNPYXJLTmlUTFZPd2h6R1prYVljc09sRkVlWUlzS0RfUXNuNG9BdGpRZ2F3eG1LeUtqS1p1aGFCTl9uS0RpRENUSHFVVUZwV2JjWkd4cldpTTltYkhVUQ?oc=5",
+      "date": "Mon, 28 Sep 2026 15:56:23 GMT"
+    },
+    {
       "title": "車いすパラメダリストの上与那原さん死去、練習中に交通事故 [沖縄県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xUkF6QTR0OGZSUVRVb3plS1U4Y1VWQVV3U0c4ZVlHRHJYcjY2NFBkTXBFOHY4WmRNMGxNSnlidTZTdk5UNV9qNkl1WWJYOVdBNWtNMzdPVkFwTExVQmFwVVNQZEhzZ2s?oc=5",
       "date": "Sun, 27 Sep 2026 01:22:25 GMT"
-    },
-    {
-      "title": "俳優・タレントの緑川静香さん一日警察署長「交通事故は一瞬の油断で人生を変えてしまう」 東京・中央区で交通安全のイベント 警視庁中央警察署が実施（TBS NEWS DIG Powered by JNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQVc2TC1CeTFfVkZmNTNZYjZRVzFpc3p4dXlYcGxmeHRLYWJtcDQxWEdybHJxYVNEVHpPOVpBamYwTUxrRWJpNy1QNXVvN0NMd1k4QTFhQjdiV2xqQUE2TUxqRGdEYUduZ1djZVhJR3k0NC1KUTlXYVkyYV9jUnM?oc=5",
-      "date": "Sun, 27 Sep 2026 06:25:25 GMT"
     },
     {
       "title": "パラアスリート（車いす陸上）の上与那原寛和選手が死去 今月19日の練習中に交通事故 北京パラで銀、東京で銅",
@@ -107,14 +112,9 @@
       "date": "Sat, 26 Sep 2026 23:30:00 GMT"
     },
     {
-      "title": "関東7都県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxYjBHam1abl9wZHpnRnNzTkxQSWFxZ0k1d2lBc0hhNWN1U0lfdEJiYkhQamFHLVJDeUoyYmtmaVpNMGYxWjE5X0N1R2pFNVB2YzR5WHY2bG5UUWRMTXFkbzEyLTQ4UWJoemhr?oc=5",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "東京 府中 車2台と歩行者の事故で3人けが 1人意識なし 消防",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UM3NZLUUtcjlkcnZMWkN5TXRROV9vQmU5SFI5Mm9YWm9MRmxwTUM3aS1aTk16RDJiaE9WTUNpQUEzeW1rTGl2Tlk4ZG1GMTlTWEcxd0ZzTUNNbUdNMmRr?oc=5",
-      "date": "Mon, 28 Sep 2026 09:53:26 GMT"
+      "title": "俳優・タレントの緑川静香さん一日警察署長「交通事故は一瞬の油断で人生を変えてしまう」 東京・中央区で交通安全のイベント　警視庁中央警察署が実施",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUVBfQjk4UHdiSldVN2NoWVZnWXNnVzlfaEdBREM0WWdSSVloUjBuandZLTRSS0N6aFFiQ2FFT3pNNVFkUllQdlI3elp2M1BHZkZOZXUwZWRsR0l1elRsS0RKcHlST1VaMGhpcEJlONIBdEFVX3lxTE1SOVJ6aU9mWVVBWEFsazJVRmtoN015a2c4TXZYZFpNSFZZMUJoSGtTSnhyMldnNjcxQXNYbkZaZlpMdmUxUzBhZlRvYjZMRVFTZ0h0Ql9QRjlRUkNZNzhhT3laV2hNU2NyNXphNlRsbTFjNTBJ?oc=5",
+      "date": "Sun, 27 Sep 2026 06:26:00 GMT"
     }
   ],
   "official_links": [
