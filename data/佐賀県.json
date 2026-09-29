@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T20:14:06.998863",
+  "generated_at": "2026-09-29T23:10:07.309218",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.9,
+    "temp_max": 26.4,
+    "temp_min": 20.8,
+    "precip_prob_max": 82,
+    "precip_sum": 2.3,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "03:00",
+        "temp": 21.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 67
+      },
+      {
+        "time": "06:00",
+        "temp": 21.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "09:00",
+        "temp": 21.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "12:00",
+        "temp": 25.1,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 26.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "MDMAを譲り渡したか 麻薬取締法違反の疑い、26歳無職の男を逮捕 佐賀南署 | 事件・事故 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LNFNCMDJrN1FqYlkwcEhraldpQ0dvOThMVVNYdklnSEltWW5CSktEcEJxay13d0J1ZmZsZy1qRG9ReENUUnl6MWE4dkFHR2lhSlpNOTF3?oc=5",
+      "date": "Sat, 12 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "9月27日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tU3ZSWk5sQjZ1eUVGMHl3MG80VHFVMG1JWkFDNzBLeHl3N05hM3dSd3czTEZNWWk0RW9jdEVldHpKS3R2SllPYUctNDhKa19UM0hBcVl5UHNQR3dYUzRrRGZBaEFRY1M4Y2dFWVJSSdIBdEFVX3lxTFAtWXB2YVpWdHF4WEQ0LS1hOE1BRUJ1RWozSTRVMXdvLU1ZLS02TTRNdzdZckdBUXJHM0tMRll2NHhQR3FrWlBYVG02NnhkcVlPMUlpeTM1cUZqWFlMVTRtZ3RETWQtZmo0emxVZ0lhQ3d0U0k5?oc=5",
+      "date": "Sat, 26 Sep 2026 20:04:41 GMT"
+    },
+    {
+      "title": "自転車にも”青切符”導入を前に･･･新設の専門部隊が交通違反取り締まり 高校生らに正しい走行呼びかけ 佐賀県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16emNMc3pnYUF5bWNTSlNuOW90bHdZbGhEVVhGcUxHeGZlQWpkMXRJYTBucUNKU19WYnlCOHNjUlF5ZjVMNFBPcXJONFFZWEpYZE4yOWYtTnVWcmZTZkFVOW4yZnRrTVE?oc=5",
+      "date": "Mon, 20 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀県下一斉飲酒運転取り締まり 夜間に県内12カ所で、摘発はゼロ 福岡・海の中道大橋3児死亡事故20年で実施",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTDJ5S2J0OGR2Q3B2N3owelpsc3kwdmJVZEZXYmtWbmZ0ckpOYWdtbGN4clFxd3ZWZDgxaW9FUGpEb1Y0ZGdvdm1Tek5PUk5Eb0FmSEtR?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "検問で酒の臭い、車内にこもって飲酒検知を５０分拒否…助手席側の窓ガラス割って２２歳女の容疑者逮捕",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52TXZES0NONWlXQUJwWEpaX3dIWkc1RVU1Z185RG4tc2U0czJTa3ZUOGoteW1MUU5Na0pUdktPbzBrazRUZ1Q4czJEWnROUjZVSE5uYmdlT3duRk5za1kzR2lYTHlDbXpIWUI5TVpkclVHQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「笑顔と命、大切にして」交通安全訴え 事故被害者遺族が佐賀大学で講演 | まちの話題 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNHZoejJZUTRiVDdrcTZSQ2Z6dVlrM2VGM0pxSjFCbEtjU2RKdnVIRS0xM3VRaUh3MWJSNHNSdUZacEtIZHdBMjBNNTduMHQ1SmxLWEZR?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「車が橋の欄干に衝突」男性1人を搬送 鳥栖ー東脊振が一時通行止め【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdUZwVEFYNlpEbDF5R3AzRGlEM3F0aXFZYUtHX25yQWd5LWI1ejBFVXZjTFE3N0k1d2ZneEtCT0xmTEk3eFFqV2JNc2dmemIzZk5ZMTZwUTkxdWptNmNzSXpB?oc=5",
+      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀・鳥栖IC付近で多重事故 高校のバスに乗っていた11人搬送 [佐賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rbnFzczJaVEl0TTlaNjc1RDV3b0lTYlppZHVqdnVtZFhkZkZ4cXlHUGtsaENvOGdZMW1vc2xiYnE1dDItb3JHTHdTX21pekota190eFM5TVhpWGRIODgyeGdNdGx2cmc?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【JAF佐賀】追突事故防止と豪雨災害への備えを学ぶ運転実技講習会を開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfSm1GWGJvV2h5VERHYnpTeDJMNGpMamVfMGFwaW1BSFIwMjlTb3o1QzFJX0RQMXFvSFc5MTdyQ2szTGtNSHdqUlY4ZVYxdjFWZWlwb0dBTGlwWmpVWEs3MVJoX1p1YzJDclE?oc=5",
+      "date": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "学校のトイレで見つかったのは「12歳少女の遺体」…《女性7人が死亡》佐賀県を恐怖に陥れた「連続殺人鬼」はどこへ消えた（昭和50年の事件）（文春オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94cGpLa3ctNnVranpQNi1EZDhDWG9rU1ZVUDJjanJiMDgtOTNvOWphU3RGU2lxSGdValpaZFJTLWk1TFBXanY4ZDhiQWxteVQyWmNMVFlKYm1SbFgyWnpCNG9LUl9PSy1McHZOWkpwbS1IUURqaUN2RUhUbl93cjQ?oc=5",
+      "date": "Mon, 28 Sep 2026 01:21:16 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",
