@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-09-29T23:10:26.948912",
+  "generated_at": "2026-09-30T00:04:29.468766",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 22.9,
-    "temp_max": 23.4,
-    "temp_min": 21.8,
-    "precip_prob_max": 96,
-    "precip_sum": 13.3,
-    "wind_speed": 14.5,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 22.7,
+    "temp_max": 25.2,
+    "temp_min": 21.4,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 13.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.6,
-        "weather": "弱い霧雨",
-        "precip_prob": 82
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "03:00",
-        "temp": 22.7,
-        "weather": "曇り",
-        "precip_prob": 82
+        "temp": 22.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 22.0,
-        "weather": "霧雨",
-        "precip_prob": 96
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 22.1,
-        "weather": "霧雨",
-        "precip_prob": 88
+        "temp": 22.5,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 22.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 24.1,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 22.7,
-        "weather": "曇り",
-        "precip_prob": 82
+        "temp": 25.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 23.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 25
+        "temp": 24.2,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 23.1,
-        "weather": "晴れ",
+        "temp": 22.7,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T21:47:07.722260",
+  "generated_at": "2026-09-30T00:01:25.590641",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 18.1,
+    "temp_max": 19.6,
+    "temp_min": 17.7,
+    "precip_prob_max": 100,
+    "precip_sum": 21.1,
+    "wind_speed": 5.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 17.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 17.8,
+        "weather": "弱い雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "09:00",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
+        "time": "12:00",
+        "temp": 19.5,
+        "weather": "弱い雨",
+        "precip_prob": 82
+      },
+      {
+        "time": "15:00",
+        "temp": 19.3,
+        "weather": "強い霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "18:00",
+        "temp": 18.7,
+        "weather": "霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "21:00",
+        "temp": 18.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 27
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月29日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JMnhNdnB2aXduQ3BpZzhZeklaLWpPdlhBQVFEejNZSjB5Y09LTnVta21UX2FENWNnbmxiTnJpV1RBalJILWM1bG83Y2c0VlBLSHhCeWpJVWZUd1Vrck1iLVJicTQtSVhmclZhRDdnb9IBdEFVX3lxTFBFdHloQ3Q1MDZTS3VkNUpNMGNlY0V2a1lxek9fLWZCTkVpT25sZWdUZFFhQ0ZzZExBd28yUXR4TU9zaVYyVGJtUkNpVDhwQ1VESWdocTVhVXctNldIVHZLcUFIOFJtek5HRUxHdkt6Y1lRSFFa?oc=5",
+      "date": "Mon, 28 Sep 2026 20:10:40 GMT"
+    },
+    {
+      "title": "公開交通指導取締（２０２３年１２月３日）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zRUN4SmtESGFwSEtNSjRUM2VGdUo4VlRBX3VtMUJtcU5JWVlTNXBFTDBFd1lVQWNfZkM3MFVMLXp4VEFIWm9VUVFqV1BsaFJnTk5Wb21SNA?oc=5",
+      "date": "Sun, 27 Sep 2026 17:26:31 GMT"
+    },
+    {
+      "title": "９月２８日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpdWZaenlRMmt2Vm5iZUh6YlVueW1jd0FZSnpzX2ZlazgwQ2UxUGJpd3RJdkJybjV6ZUZDTm9na1VtZnFKbm10NmtfaU4xWEdXdlZSSkRwTmNOQUxEMjlqbmFMM3hNWU5LczkyekRCeE9Qd9IBd0FVX3lxTE14bmxaRTlxeGM0ZEo5bExYRHVUMnVFN2cycmxjM3J6cDVaQlo0cEUxdnNTUG5zRndtdzQxLWxnYVhrSG1Ba2FyUG56T0ZMeUhyaTY3U2xOWlZDQy11aWY5N29NcGQtUW4wTGxVSXdMREhRcE9Vekpj?oc=5",
+      "date": "Sun, 27 Sep 2026 21:24:27 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "安全運転呼び掛け 事故防止へ飲酒検問 北上、花巻署など",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xQTVOUFhpU2NqT2IwQVlBbjVrZ3lIMEFQMUxUREdEOGoyR3FpS3NTeHI4eDRnNWJUS2N0SmZiTFBtRG13VTRtSW9RYjVmZWxHWVBydDBkb2U0MEVxMDFsRURpRzVIUHVGTkpNcTlB?oc=5",
+      "date": "Sun, 27 Sep 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "トラックと正面衝突…乗用車が炎上 3人死亡 千葉市中央区",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yank3OU5jTFBaMFM0NzlSODItdlMzUHRVc283Yzk0NnBsUFJ6ZXNRQThNcWp4NEFGdWJBT2ViaG9EZTAyekxfRXNDSG45Vmt0Wk1CQUlpS1FFRFA0VmVJck92djRsaDcyOVpxOXBSM1h2dw?oc=5",
+      "date": "Tue, 29 Sep 2026 01:50:04 GMT"
+    },
+    {
+      "title": "【交通事故死者2026】千葉市で計19件22人に［9/29］4年ぶり20人台",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sbEFUQkhqNnFMZXJQWkp4R2NUYlJrNmJvaHlIWTNyMktteUhVem9ZNy1UQkF4QUhzelQ0UXZnU3JtXzlmWkFVSi1DMGhaUGVXS1Z2Z2VMLVNBd0pzSF9Z?oc=5",
+      "date": "Tue, 29 Sep 2026 06:00:00 GMT"
+    },
+    {
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
+      "date": "Tue, 29 Sep 2026 09:28:11 GMT"
+    },
+    {
+      "title": "千葉市中央区蘇我 千葉の国道でトラックと衝突した乗用車が炎上、車内から性別不明の３人の遺体",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aWtJVEMweGpYTWVYaW4xRUF3am5DSmhyTkFyVjctY04xRkhWaVdSSnZNN3B1T0x2a2tMRnhzNFhqbFI3UVQ4MUFtLV9yNUoyeVh1MmRFUEgyZE1sdnZIYWFNcTBmZw?oc=5",
+      "date": "Tue, 29 Sep 2026 00:25:00 GMT"
+    },
+    {
+      "title": "「乗用車が燃えている」乗用車とトラックが衝突 車内に3人の遺体 千葉・中央区（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fWVlKV3owUHp6cnRLcE5ISDNqV0Eybkl6MFZXZ1p0eE5aaFJ5T3JhMHYtTlF2TGVmbGNocHlpelRhUlkwd2xFcEs1UHVIWlprdXZ3TmVUN2JRLVlzOHhCR05heVVUTXpWUTZTYXZ0Z2dXc0N0YnhFb3NqbEF1QU0?oc=5",
+      "date": "Mon, 28 Sep 2026 22:47:44 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "千葉県警察 公式サイトを検索",

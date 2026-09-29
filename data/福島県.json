@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T21:32:07.318956",
+  "generated_at": "2026-09-30T00:01:02.098500",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 15.2,
+    "temp_max": 24.8,
+    "temp_min": 13.2,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 3.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.8,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月27日（日）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50QlZhSEZXc3h3LVVBOThoWmttU0JQLXpMNVZ1djBPbUhFb1g2VkNTbXNMY09lWW45ZUota2l4TnRLcFd5djk1UTByVE1GS01GNFBfYWZwRQ?oc=5",
+      "date": "Sat, 26 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "9月29日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JMnhNdnB2aXduQ3BpZzhZeklaLWpPdlhBQVFEejNZSjB5Y09LTnVta21UX2FENWNnbmxiTnJpV1RBalJILWM1bG83Y2c0VlBLSHhCeWpJVWZUd1Vrck1iLVJicTQtSVhmclZhRDdnb9IBdEFVX3lxTFBFdHloQ3Q1MDZTS3VkNUpNMGNlY0V2a1lxek9fLWZCTkVpT25sZWdUZFFhQ0ZzZExBd28yUXR4TU9zaVYyVGJtUkNpVDhwQ1VESWdocTVhVXctNldIVHZLcUFIOFJtek5HRUxHdkt6Y1lRSFFa?oc=5",
+      "date": "Mon, 28 Sep 2026 20:10:40 GMT"
+    },
+    {
+      "title": "9月25日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kWU9pR1VGeFpUNlh5c2ZXVXU1OVllc2NpbUstT2lmbVR1Z3ctY1pfTWxjNklDVjJwd1lHdWpKSG56c1ZmMGlSS2pUTDkyeTlZb2pNTlloYw?oc=5",
+      "date": "Thu, 24 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
+      "date": "Mon, 28 Sep 2026 20:25:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
+      "date": "Mon, 28 Sep 2026 20:25:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "ナシを配って交通安全呼びかけ 「交通事故死ゼロを目指す日」を前に",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4X085Zk5ydHZlZkE4QlBVaHpjaHRfdjFVT1FSNmpNelk4LU9qVmozbk9VbjdXOHJvREEtWm9UY0NFRExvcVFlcll1eHBHTmVVb0ZlTjZ3?oc=5",
+      "date": "Tue, 29 Sep 2026 10:02:00 GMT"
+    },
+    {
+      "title": "学生が交通事故分析 福島学院大 研究成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtWXhsX2piTzZQYWNuMXMxVGUydG5hYU14c3I1OW1SOTBfMzBEckN3OVhvYTI3MnVyXzd2TldpVnJhY2hoOFdON2lZZVVxM0E?oc=5",
+      "date": "Tue, 29 Sep 2026 02:00:00 GMT"
+    },
+    {
+      "title": "喜多方市の県道で事故 軽自動車が田んぼに転落 73歳男性死亡＜福島県＞：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QMEpfeF9zTW1NbFBEaVF3YXNBTWlGSmhKY0ViRnNuV2FfN3dMSnl3dm9fOURNRW9xMnRabUVmSTB6eUpYRTl4V29wUmo5LS05NklzcE0xS290NUpJMlEyRTB0MHhmQ1AwTktlR1FzclFqeXpUS0VXanN3?oc=5",
+      "date": "Mon, 28 Sep 2026 02:35:00 GMT"
+    },
+    {
+      "title": "ナシを配って交通安全呼びかけ　「交通事故死ゼロを目指す日」を前に",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6SkkzV3Zic1pKdG50ZzAyb3pfcElDSEFVTFJGNG93dVJfSFFva1dLdS1VcE5JT1pEeGt6SDNYTGEyY3YwdjVLM1A3ekFueFpzVG9VTWEyT1hyVGU4NVE3VXVRaGlSX3kxOUQxcWdObkxvdXlRaUHSAXZBVV95cUxQekpJM1d2YnNaSnRudGcwMm96X3BJQ0hBVUxSRjRvd3VSX0hRb2tXS3UtVXBOSU9aRHhrekgzWExhMmN2MHY1SzNQN3pBbnhac1RvVU1hMk9YclRlODVRN1V1UWhpUl95MTlEMXFnTm5Mb3V5UWlB?oc=5",
+      "date": "Tue, 29 Sep 2026 10:43:00 GMT"
+    },
+    {
+      "title": "学生が交通事故分析 福島学院大 研究成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmWngxTDdxQW9MT2x6d2pvdU1meU04T1pjczlTSmpCemRZb0VaQ1VGME05WjFTbVJYcC12T0RKRkQxSmxjcDhBY3Y0RQ?oc=5",
+      "date": "Tue, 29 Sep 2026 02:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

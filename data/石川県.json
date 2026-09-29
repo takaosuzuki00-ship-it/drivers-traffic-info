@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T22:02:08.144046",
+  "generated_at": "2026-09-30T00:01:49.573865",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 17.4,
+    "temp_max": 23.5,
+    "temp_min": 16.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "9月29日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGd0kxdndNaDNiTGpXN3FmSlNBbVRCUDNNZ0QtUVhqYTh2c29hc212aEFNZWpkM0xQaElGREpMOFk2QzctRFdfZTRfd1NrR2NoS3dsYzZ5M0JRNlQxQmFkLVJhTDFpZXVRWFZwbFdmb9IBdEFVX3lxTFAzM2sxUER0NHN2N3FzNVlGT0VlLTZqSXhFVERfYTNRYTBoa3JCUEhJNnZ0VlhnNWY2M3Q1Z19LSHdjZS1DT2NudzF4ckdOamVlRFN0M1U2VzA4U1dHOXo2cXNzcUlaMkZUM1I0bllkOFdzaWNX?oc=5",
+      "date": "Mon, 28 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ４月１日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbmlUeTF2MEloUkdpOE9vS0xoMjNwSVk0U052ekVlVUpvNlVvVmNLQjZXOG5ubEFtRW1Gc2Z0YXZ0YXp6V3BLbC10cw?oc=5",
+      "date": "Tue, 31 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "繁華街の交通違反 ＫＴ４が行く！ 取り締まりチーム 金沢中署で出動式",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IOHRLT2J1bWc5cllYWGoxUGFURFJkMkFTWDJfelRCb0NhcW5abkFmb0pmcXE5bUNqel84X0dDaFo2aE5tZnZVaG5EaVpwX1RiQ1RlUg?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
+      "date": "Mon, 28 Sep 2026 20:25:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
+      "date": "Mon, 28 Sep 2026 20:25:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNUdtcEZiZy1WbGxsVXpROWlSR0JYb05GWVYwcXVIVTZTUFpPM2RJUjAzSjBjQ2NnVkJTNTFWMThYT01VTktMdW43T1JYNUZVMzRORnJHVktKUQ?oc=5",
+      "date": "Tue, 29 Sep 2026 02:13:00 GMT"
+    },
+    {
+      "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増（MRO北陸放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSjhKNG1rN19xNk1tRGtWN3BONlVEV2wtSnZlSjJUX0piaWtLN19abmk5R1ktd1Z4di1La1o0V2drYUs2QnRTbllUdjU1dHRMT2ZyWEl0WW9nSEtXck40QldmR3hXbnMxdy05TkpURXBpWFNNRjhtV0dZa19OVVU?oc=5",
+      "date": "Tue, 29 Sep 2026 02:15:28 GMT"
+    },
+    {
+      "title": "石川県白山市の国道8号で軽自動車が街灯に衝突、54歳男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0dkN0phMGdncVZzRm03YWtmUTVVenpSUkRBN0s4NnpndDlSb2JzeU9WX0hEU1dDY3JFSVZQMkt1NEs0RncxS2JSYVY5RVhodUpPMEVQTGlkU3Nib095QmxLZ0tJVHBvRDl5TnVvMUtFaFZoVzB2bnU1VkVucnpGY3hkZFZLOEtTQ3BiZ0lDWks5TW1aRUw1V1EzU0RoMjk2ZEpMUHVhSDN2ZzJSMm1YU2tQalpMT0tWUGpPc19Bd3F3TjdGTk1reGQtb0loelMtLXhHTEtialVqVEtZSTZPTjI5RXUxU0FGYl9N0gGbAUFVX3lxTE1GN3NUa3pTQ2lDa0FwQ3VHZ3F1NGpXa1VWTWUzazRmLU5UdEF3Uy13eDJTajFRSFc1bV83amk2WGo0c212TEVFQ2xHakFWdG1maHNNdTZjRENFX284QkFBQWhZSUJIRUlJbjIxSTV0SUhZZDZpZEZod1dKRFBvUndPelpuazBjZmEyWTNESzNiaHRRRGhySVNJODhN?oc=5",
+      "date": "Tue, 29 Sep 2026 02:32:00 GMT"
+    },
+    {
+      "title": "石川県能登町でトラックと軽自動車が正面衝突 運転手2人けがも命に別条なし （テレビ金沢）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVDd1bVhvRTRJWEpKSjJWNWpjYnJmVHRrX1RrY1IxclltWUFFNGR2eGFSalc2YkhzY1JfMHdWSXhIcnVUUDRhRTZvMDV1UjZJX1MyUlE3OFNsNWdQRTdzR2FCOTRQbzdKbWdyMWx6VzUxblBaRU1yTlA5QnNYRTQ?oc=5",
+      "date": "Mon, 28 Sep 2026 10:19:00 GMT"
+    },
+    {
+      "title": "「交通事故を起こした記憶はない」79歳男が8歳児をひき逃げか　石川・白山市の交差点",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGFHdnJ2QkZuc09lX3Y0RmJjcm4yYzZyRUhyMF9ZcG8xQVJ6TF9YMXQ4YmJUallqMDNXd0w4S3ZreU1aNll1VkxQcDgxdldGOWVOaGNfYllzdzRFeFE1ZTZkOHlBcTNONVIxM2xmQkE0YjhLTnlKQXpRTnZwTDBucm54STRJY3J3YXY5UjQzeXVDeU9ucGfSAZsBQVVfeXFMUHhVSGp5WFFYMEdrRHhUOEgzbDY4b1RGSVJldU9zRGYzMUFKNmJEVHlWelRFeUNJZW9OMzNCWm9LZEFoRGlzWFdCUGs4TlV5WXItZ3FPSUtIbmtjX0lyS1hfQWF6TjhzcDNaMUs2MkNLY0lmNTMzR01zOVhkTGtaX3FCN0pBWUtZZGtmZnFhMTZheTZhOHBZVUxIWms?oc=5",
+      "date": "Sun, 27 Sep 2026 04:40:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "石川県警察 公式サイトを検索",

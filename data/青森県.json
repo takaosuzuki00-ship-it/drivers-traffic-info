@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T21:17:07.027212",
+  "generated_at": "2026-09-30T00:00:41.128076",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 15.4,
+    "temp_max": 22.3,
+    "temp_min": 14.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
+      "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "“偽ポケカ”を販売 商標法違反の疑いで大阪の男逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pT2N0MnFnM3htV0dTZEtTZ0pCY3RKVmhIbjBPQWpFZ2pyWmZlVTFwUzFnZjlZWm5DU3FlR1Myb1QySzg4VnU2VUFpN1pMRlBKbFJBOFZ1c2o?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "停車中の軽ワゴン車に追突 オートバイ運転の51歳男性が死亡（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ybU5EZVJQUFBLT2V5WjhlaVlfSk5TM0thbld5WUM3eFhwZlJvUGpYSWpTU1cxV3RENHpoTGJxdGk0VWJSd2RWTnRLNUNNTU4yR0U2dUVoOTFTcjl4Y3lhdlNUVVhnTjRJalRwZGkxbXJtVWdScHktLU8tWXRSZUU?oc=5",
+      "date": "Mon, 28 Sep 2026 03:10:54 GMT"
+    },
+    {
+      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
+      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
+      "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "軽乗用車にバイクが追突 バイク運転の男性が死亡 青森市の国道103号（青森放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZeFBOMFlxMDZmNkRMQThFZWpUVHF3Zm0xbEhvVWRISEQ0MzZLQnR1dWI2bXJhOVFRcGxMU3E3eG9vY3ZjSFE0dVJJeDBvbFQ3MXFzRFdjRzNhcUhCWGtXMEN0ajJRZVpTY3BDbmtRQmViQnVaREh3Q2xrbF9mWVE?oc=5",
+      "date": "Sun, 27 Sep 2026 09:50:00 GMT"
+    },
+    {
+      "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQVFFZ096dEc1Y0xxakxLZ29KXy1kSmVIeEwwYXR2UkNNSzEyX3FMVmJrZWIzbDNHUEJxcWMtY3RSbGdKQzNEdnlBN211SUh5akY0ZUI3bHJYNXl5Wl9TU24wWktJTXlfSnRB?oc=5",
+      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

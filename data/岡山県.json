@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T22:50:09.193957",
+  "generated_at": "2026-09-30T00:03:25.888824",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 17.9,
+    "temp_max": 27.0,
+    "temp_min": 15.8,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 26.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車の交通違反「青切符」適用開始で岡山・香川でも一斉取り締まり実施 初日は両県合わせて摘発５件（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNGNTMlBCZ3lORF9yZ0pMdmVtX2ktV1JrU3JTZ3pFMW1LR3JwUkJISVMtNU5IRlktRVlhNVRzbUlaNmdnaWpVNEFLQUZQTkEwSk9tYXl0Q1c3WmZqZEJ0RkpsdDc3VzNwS2dRVGhoNkJyS1l3eTNnZnJIYVJqZWs?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山県が漁業取締船「きび」後継建造へ 最新鋭機材で対応力向上",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa3laaTVoT3ZFcF82MllIeXUzU3FVaEg4OHdJVXh1RzdXZ3RabnJkU1R1OWRpLUs5eW1jWG5OLUV2SVhQMTFGYm82NTJuSXFwWExjY2o1NzY2ZGg3Z2s2QmxMX0tNZG9PeGw4Mk9GSGlaRkFvendV?oc=5",
+      "date": "Sun, 27 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山県警が選挙違反取締本部を解散 衆院選で2件警告 文書頒布に関する違反",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kN2pNVURNU05OeTZjQnVpR1kwX3BmbklGTk9aa2FodG1Mcmt2ZkZSWF9GWWFSQmhZLUNJQlFfSFloODkzX0FPZFlQUVR5YnNU?oc=5",
+      "date": "Tue, 10 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "違反したら一発免停も 「生活道路」での自動車の法定速度が60キロから30キロに引き下げ その「生活道路」とは？【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tNzFaVEx1MVVrYTk0WG9ZV3ItLVN5MzJnMG83aDNPV1QxckUybEhTZER3dFZYMzI4V0YxN195cWdZNDVfNlhUR3dzNEI1SXFNWi15ZUpGZ3poQQ?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「素直に出せばよかったのに…」スピード違反の男が\"免許提示\"拒否で逮捕！ \"後出し提示\"も時すでに遅し 取り締りを受けた時の「NG行為」とは？",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OZDVncG9uZ2dkRnoxMFNFQUUxOWhkZ3BNSm0ya0l5RWFCb0RJeDJod19DXzg0MDQ3c1hMYk5YVEZoMmR4S1BVdlQ3Yw?oc=5",
+      "date": "Thu, 16 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "酒気を帯びた状態で運転し交通事故を起こしたとして会社員の男（20）を逮捕【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DOC1nQ01CSzlNSURRZ2RZN0JGSU1MOVkzRTY5Tk96MF9OX2Etb05yYW0wOFNZcFBzcE1ydkpiYTZnZ2JDR3ZGVlVFSThjNGNnTmh0OHIwTUFPdw?oc=5",
+      "date": "Sun, 27 Sep 2026 05:47:00 GMT"
+    },
+    {
+      "title": "軽自動車同士の事故を起こした後に現場から逃走か ひき逃げなどの疑いで男を逮捕 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wREVXSmNpVlBvSUNEQklFQzhLQXFkaXlhdzg0NlZCVlRxdy11V2JzSjc0Y0RzVVNXcnZvSnBOZVB3MW5BbzJueVZieDRwTFlB?oc=5",
+      "date": "Sun, 27 Sep 2026 03:55:00 GMT"
+    },
+    {
+      "title": "無免許で交通事故を起こした疑い 倉敷市の自称・大工の男を逮捕 岡山（KSB瀬戸内海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vUmRqZFRxZU5VNjB5aUhtWXNpMzREczZTR3VjSWNUMDdYMkVSSEdzTExZQnp3SzNPSzRjSnJUWWl0c19NaUdQNDRWZGtlWnpydkpNTHZ6MWhXWjFhc3o3RjNPOUpWSk1oWVpTd0JYWXVEVWZrbkRNS3h1aWJlVzg?oc=5",
+      "date": "Thu, 24 Sep 2026 07:57:29 GMT"
+    },
+    {
+      "title": "酒気を帯びた状態で運転し交通事故を起こしたとして会社員の男（20）を逮捕【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hcmRhYS00OUF4RXQ1WnN4ZUJOOG0tUTRQUDdwdkRvUGpZTXd4MjNKUWN5LTdYMThCcHBGSXZxeDByRFJGWHBQNHBJVDlrNTJIWmVqd2otbVB2R1lhTG5qOERVZ2pEZnpVaDc3MXdhdnUwRkNx0gF0QVVfeXFMT2FyZGFhLTQ5QXhFdDVac3hlQk44bS1RNFBQN3B2RG9QallNd3gyM0pRY3ktN1gxOEJwcEZJdnF4MHJEUkZYcFA0cElUOWs1MkhaZWp3ai1tUHZHWWFMbmo4RFVnakRmelVoNzcxd2F2dTBGQ3E?oc=5",
+      "date": "Sun, 27 Sep 2026 05:47:00 GMT"
+    },
+    {
+      "title": "西大寺会陽３人死傷事故で現場確認 原因究明に向けて岡山県警",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaam85N3R0WEdjbGtEYTk4THByYVVSVG9Wdm9rUGdSM3plbURYUlBBUVZUWkpIbmlhLVpGaFd4QUs0R2RsTXBhOERKLUlKdXd0WUE?oc=5",
+      "date": "Sun, 27 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T21:59:08.061602",
+  "generated_at": "2026-09-30T00:01:45.563355",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 16.6,
+    "temp_max": 23.7,
+    "temp_min": 14.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "安全運転呼び掛け 事故防止へ飲酒検問 北上、花巻署など",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xQTVOUFhpU2NqT2IwQVlBbjVrZ3lIMEFQMUxUREdEOGoyR3FpS3NTeHI4eDRnNWJUS2N0SmZiTFBtRG13VTRtSW9RYjVmZWxHWVBydDBkb2U0MEVxMDFsRURpRzVIUHVGTkpNcTlB?oc=5",
+      "date": "Sun, 27 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "計画的か…白昼の路上で後ろから羽交い締めされ、現金200万円奪われる！外国人風3人組は午前中から「下見？」車で西方向へ逃走、警察が検問 富山",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rdlpOMDdSRGs3cDJZcW9CdXR3ZE0zY213WHY5SzBKY0JnUFhDdjhCT3A1eFpmZGNjYS1hSjNtZ0RSeTJqZ0xpN3lBa0RXX0RWa3ZORmlHN3JUNnctS3I2ODRvdnozM1U?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "大阪府警が府内6か所で大規模な飲酒検問 阪神高速でバイクに乗っていた男性がはねられ死亡した事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10dDdMaV94b2Z5azR5WHBEcVVMbUJPSU9qMlNFUDlHRUNMYUhnSW1fdVVFNEdxY250X0kzZ3pHckNNa3VtY001VC1oUQ?oc=5",
+      "date": "Wed, 05 Aug 2026 07:10:23 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "富山市婦中町のスーパー農道で衝突事故 ６０代男性が意識不明の重体（2026年9月26日掲載）｜KNB NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVFabDI2bDR4XzJQUjZwc21Hek40X3A3OUk0SE1GQ0xPSWt0cEtJeXNReGkxM2g4WmpDdTJVNGhndFhuc3EwVFcwbm5TRjEzdkoxWkpodlByRk5nYVlSTFlBaHpyVkpaWXA2T0hJbjBFMzF2VW9zOWlOdTNxUEpXUDRac0lmWVE?oc=5",
+      "date": "Sat, 26 Sep 2026 11:43:00 GMT"
+    },
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZ0ltNnZGLS00N0JMWHFnVUNnNEhKam5qMFl2R0RlaGVkZGZ0Q255Nmw5ei1KWHNXcldpbDY3OUVIb0FZS2dwTVExWDVJdWRTck5QYnpCa2ZUUQ?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山市婦中町で衝突事故 63歳の男性重体 富山中部スーパー農道",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84bjM4S0pvNjg0UVEtd0hzZUREc3hZdEhadlh6eWRJNUVMZ0pZSktzZ0pIOS1oQ1RUejlhZ1lZT29GNXJ4YTZrY0tZVQ?oc=5",
+      "date": "Sun, 27 Sep 2026 03:33:39 GMT"
+    },
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxb1gtTHpyZ1JjRXNFMmp4Zk9veXhWOFhuLUplQVREd3NZTmZocUxzMG0ycmhkVVBjSkRNUmRYOEkwQ0NSR0NjNlp0aw?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "20代女性が列車にはねられ死亡 あいの風とやま鉄道の高岡駅・越中大門駅間 警察が事故原因調べる",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ST09ZbkV4SmY5RVQyRE1UUG1ZdGZ5bldJSWJuY0tIcmt4aE1EMG1JbEVvNTI4QmtMRm05aGFRU3JEMVEyZTltZWhXSXg3QQ?oc=5",
+      "date": "Mon, 28 Sep 2026 03:04:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

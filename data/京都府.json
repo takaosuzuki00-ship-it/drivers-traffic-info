@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T22:29:08.572683",
+  "generated_at": "2026-09-30T00:02:41.095326",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 18.2,
+    "temp_max": 25.9,
+    "temp_min": 15.8,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.2,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【山形】6歳男児が行方不明で家族がコメント 警察はきょうも検問・聞き込みを実施 川や海での捜索もこれまで有力な手掛かりなし（酒田市） | 山形のニュース│TUYテレビユー山形 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CcFNWQnZIaElvWjhBSnZIY2JXWHNOX3h2djAzalpnMDR3OEJ6NlM2U1RsZUJja2F5SGtaY0hWem1VRGNNa3B5UmRSdmZDSFA1aV9adUtqWk5GNDNlRU5jTUVTUWxwWnc?oc=5",
+      "date": "Wed, 09 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "イスラエル・パレスチナ：ラファ検問所、再開へ ガザ南端 きょうから、人のみ可",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83RjlTaEpZU3dGTmRvUVBXMjFTbTRIVFhjeE5kd2NfaWFuSHVyZVdObFAtVXFiMUNEaERYWnRZazdLWGhTNk9OT1NUOUQyaTYxMndXOW94Y19sb1lpT2oxcElUU0FkLTh6?oc=5",
+      "date": "Sun, 01 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "ラファ検問所、きょう開通見込み 支援物資トラックが待機",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5N0g0dzd2TWFFZkpud25wM1FpcWh5QWxBdWVqY3dMaXNUeDF6dU5od0VGWnp4cW55YUdWcndCRTFiUnRQNHhPRGtUUVZ0bG5ZcWZV?oc=5",
+      "date": "Fri, 20 Oct 2023 07:00:00 GMT"
+    },
+    {
+      "title": "空港へ向かうバス タリバンの検問かいくぐる外務省案",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43UkstZDRzUjNvVGRZNGJkd2E4YjB2d2N1c2lkQzNDbnVNbFhvQnlQMHJfUTc2VEh0LWdQdEVpclp0TzdfTjhwWDNtLXdvZGdXQmlVZWJnWHA1enBkOF9rU3Fhb2Eydw?oc=5",
+      "date": "Fri, 27 Aug 2021 07:00:00 GMT"
+    },
+    {
+      "title": "れいわの山本太郎代表が法定速度違反で摘発",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NLUV4clVrUy0xX05RZjlGZ05OaEtCZU1WelZNM2lTOTd1allrX3VVNEQ5YUV2TFBKQVVNc2x6M1dnOXBfZmFTMnhsTFQyaG80a1RISWR1dUs?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "京都市内で京阪バスと軽自動車が衝突、双方の運転手が軽傷 乗客10人にけがなし（京都新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBU0lqQk4yWi1NdFhCU0tuanI2MUo1bUJpR3FRcWRpSUFrOS1MY1BuSGQ1aThDZFRhcWw2RFJYRjEwS3o3bFFUVDJQWFlkWDNieXI0YkhzdmgyWl9yRU1uQUhuS3lINTh6aGtBMFI0d0lTZ1d5VEg0VkphbUlhQmM?oc=5",
+      "date": "Wed, 23 Sep 2026 12:30:34 GMT"
+    },
+    {
+      "title": "京都府亀岡市の交通事故件数が18年間で約8割減少した理由は？2月20日「交通事故死ゼロを目指す日」にあわせ、データに基づく予防活動の成果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZME5vdDNpVWRKOUh5blZLQzhWb3U5akI5UU0tTF9hMXY0Z281Vkw0Q2ZSV193VHVUazZVUThMZFBqSXdPNXM4WU1FRzB4cTZkS1FQaENwY2FRd1NjeGx3bU5vLS1YdEYzU1E?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "E24 京奈和自動車道 精華学研IC～精華下狛IC（上り線）で交通事故実況見分のため夜間通行止め等を実施します",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IeURFTGRad3BzY29LTldnWFctemNOQ19IcEE2dEo2THJWemYtYkpvWE15T2RMMEFOV1otUHk4SWpnTmVUaE55bWp5bXFIT3g5YzRNVEpHWQ?oc=5",
+      "date": "Thu, 29 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "群馬・上武道路3人死亡事故 きょう29日に控訴審初公判 弁護側、アルコール影響ないと主張か",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PNjdaYXRDRi1FN3JuX0ItZXc0V2Y5VUFTYjJFaWx2MHRPMnZuTXMtTGpOckZvQnVfMmwwamxpcHFsSWZpWVg5SURLME1Ldnd3WUNYUC1Nd0pBZw?oc=5",
+      "date": "Mon, 28 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "除草作業中に熱中症、70代男性が帰宅後搬送され死亡 京都・京丹波の国道27号",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WMkl1Uk1nSzlnaW9sUldfZ0gzVmNRZFg1azhkQ3oxSi1DbUYyZnFzVG1CSkZ3MDItQ3pCTzhHdV9ZTDZfczR1eFpTZ1JnMzZKMUF4b2k5cThET3JNaWhQRUdEajVEbC1KU2dodGlnZ1ZmanVvcWc?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",

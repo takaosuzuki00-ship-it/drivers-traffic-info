@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T21:23:07.080121",
+  "generated_at": "2026-09-30T00:00:49.542598",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 15.2,
+    "temp_max": 21.9,
+    "temp_min": 13.4,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 4.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町 - khb",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宮城・亘理町長選 亘理署が取締本部設置",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VRXJLeHVCMm1YT29lMnRjUnVKS0pROWFBNFhzdUs1WXVSSmhhdk1tQjc0a3B3Q29NZS1Gb1lWRWx6UFNQbEFzVldpSGJQendDR3YyTURtaFl0MEZPVlV4Ug?oc=5",
+      "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "宮城県内 道路工事現場に車突っ込む事故 ことし相次ぐ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85LVhjMVZlX0FfRmszNjJ0VHU2VEZyOHhKWTZPWGJQcjFaX1dBU2U4U1VoZmtrUVp0V3JUc21ySHYxc3RPOG83OTcwM2Y5Mml5di0xRGxLaFk?oc=5",
+      "date": "Fri, 25 Sep 2026 08:27:00 GMT"
+    },
+    {
+      "title": "【続報】仙台・若林区の交差点で事故 軽自動車を運転していた男性死亡 ＜宮城＞（ミヤギテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oeFZfazN0MTllLUR3eXhWem16SE5tM2dJZ0tvTEI5ano5Nm1GdjY2RDVNTVZNSlZFTEw0dHFOZHBPcldDLWNSTnB5UF9KRy1qYXFwT3lxM0c4a2Y1YlY0NVpSMnhsdHVpQXByVEFOUk15ZDNyRWZNNmxiSExITlU?oc=5",
+      "date": "Mon, 28 Sep 2026 14:10:00 GMT"
+    },
+    {
+      "title": "車がシカと衝突し計５台が事故 けが人は無し 宮城・栗原市の東北自動車道 - khb",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tMDVjV2pxYlVnT092cHJWQ0xkT004TE8yajQwTUJ2SkpvMUdXSXg3eGZhU0dLVTdzM2szc2JKNzhVTC1lSzE4d2pyQ2NuUHM?oc=5",
+      "date": "Mon, 28 Sep 2026 09:10:00 GMT"
+    },
+    {
+      "title": "宮城・南三陸町、「交通死亡事故ゼロ」4500日達成 継続中では県内最長",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CWDMtUldBUkQ0N0pxRjhlOUowNk5ReDVvVF9PdWdpdHNveWNTeUczTk1lczVBSDRBLWtmWjI2dkxMYVNBdVp2SjJfX0p4WGctMExib29pdlVsX3JETmxpSQ?oc=5",
+      "date": "Sat, 26 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "「交通事故のない安全な宮城県を」秋の交通安全運動を前に出発式＜宮城・仙台＞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGh4aUtkbEU4eW5OSWVPcTlHcmxhTTNIUkVGbjZpbExCMWJobGZCQzNNTC1namdXeVVSVTlQeWdvTHN5WmdqVFVsRHh1YnVnaXJ4dTh5TmFRaFR0ZXVvanVxSTdlUTBvZl9xeVpXY1dScXhDZkxFellreVMyb1BGWVMzby15VWM?oc=5",
+      "date": "Fri, 18 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

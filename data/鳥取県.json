@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-09-29T22:44:09.014107",
+  "generated_at": "2026-09-30T00:03:10.722275",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 16.8,
+    "temp_max": 23.8,
+    "temp_min": 14.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "可搬式オービス取締り予定（米子市） 9月10日の予定を14日に変更 鳥取県警（2026年9月9日掲載）｜日本海テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlozbTBwVUtnNkdlRENRXzg0VTlvQ3JjdElXel9lbmtZR3dGM2s0cUY2ZzgxMXE2bnRnTGVMTUlBN0ZzdFVXS2FJZGJBRUV6bHg3ODZmcFFYVUtsRHhBQ2RmWjUwYXd4Yno5TDQtYzJwaENnUk5KZjlYVWpyczRjVV85UG9fcHc?oc=5",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "可搬式オービス取締り予定 9月9日（午前）鳥取市 10日（午前）米子市 鳥取県警（2026年9月8日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZlJwY2pQdUtIbGtUVWdOaF9ocklTZDdsSHVWUHpxOVlaQ1ZnaF9YWkVZbWV6bWlabldLd19jT3o4Z0RMR1VCbkhVb2Jkc2xNX1J2M05zQmZuQ19JYjktNnMxYVFRNFFnQ0p0N1Y1aldSUFpZM3lHNjFkSEZLcG8?oc=5",
+      "date": "Tue, 08 Sep 2026 10:24:45 GMT"
+    },
+    {
+      "title": "島根県警と鳥取県警、選挙違反取締本部を設置 衆院選",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qamx5WmFaNnB4Ylk0dHY4dUFhTGdNenpKLW03VkxSaThDaU84UFYyREJYLWl2TzlHaEtGN0hiUk1tM19mdXFSN2d2TUt2NE92ZDFxNF9mcndZdw?oc=5",
+      "date": "Sun, 25 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "可搬式オービス取締り予定　9月30日（午前）　鳥取県琴浦町　鳥取県警",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nQmhhcFhEMGVuQ0FNVFNaUXZucndzbGE5V1hRM3ZwUU5TV1JVU3oxbV9ibTI4WHJkYnh0UGhBOENKV2ZrajZoQW5YYVVySUZlcHZiY3VWR3cybTRGT2hsX1V2aE1vcmFYbzN5LTl30gFuQVVfeXFMTmdCaGFwWEQwZW5DQU1UU1pRdm5yd3NsYTlXWFEzdnBRTlNXUlVTejFtX2JtMjhYcmRieHRQaEE4Q0pXZmtqNmhBblhhVXJJRmVwdmJjdVZHdzJtNEZPaGxfVXZoTW9yYVhvM3ktOXc?oc=5",
+      "date": "Tue, 29 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県（2026年6月19日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbDI5X09lWFhqVGE3dDlPN0RlU21Jb1RXMmVYQkc2NFFNSXVkOTFLdVZzNXFzYzhsdmJ3c25qeFlTclpyOEI5U0luLWY2ZndDWEVjaUNRdi1KSEhXWGVlVTR1ZFRuRVFSSmo2Vjg4LW9XaktaUnVfbmFMV1d4djg?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "山陰道で事故 泊東郷ＩＣ―はわいＩＣ間 通行止めは解除",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sZXluaGNyb0ZpN3hvZE5CNGNCUERab01COHY0dDNwdDU4cngwOWxiaGo0UmtFZWhRR0ZZeS1kdWthU25NajNaZ0oyM29haDNl?oc=5",
+      "date": "Sun, 27 Sep 2026 03:22:00 GMT"
+    },
+    {
+      "title": "JA共済連鳥取が鳥取県警へ交通安全グッズを寄贈 こどもの交通事故を対策 鳥取県鳥取市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWhFOEZfLVM2RzV2dk9kV2ZhUk85bFc1VXQtaUJxYU13QTJoSGxPbnZlcjRIcFdjOTAyLWs4aVVUdTBMbm1BcWRiTnhiYU5tOHkxVDRNcXlnN3FmYXEtRlpmZ2JnNWVhVkpPZGNMQnB5R01Td0E3ZEFVZHdEb3ltRXdVZlljRVU?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wdEJwZm5CZVJDbjBkMzc5WHJ2T0Z2aFV0RUF0QXV3ZklDYkpYS3JlQThXa2NwWEh6U3BZLUVTU0t4VGRGdVhTZm4tUkZZZUIxOXJRd09oTQ?oc=5",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "鳥取県の果樹園でトラクターが横転 下敷きになった61歳男性死亡（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XVVVDSmRaZnNERXN4MnpGemw2RWU5Ukx1QVFKZGsyeTlEUHNrMGNqV0FJUHdNbHNfWjR4ZThBa3Q4Y2p1a3Buc25RVnRiZmFjcmxlMFlOLXd6R3RFbXdvMmZFVk01UWFHYVMxeG9ZRFB0a1ZvTEhZRWlQU3lZU2M?oc=5",
+      "date": "Mon, 28 Sep 2026 07:20:00 GMT"
+    },
+    {
+      "title": "鳥取 八頭町 男性がトラクターの下敷きになり死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EZWd3ZEs3WGlBcEVKbW5WbWd1dlJLZFdSU2NqczdRWnhxS2NhN0kwbUhFbGo4b2NudEpXQ092Z0ZMN0p5RFNNcmQ1ZkM1dUhKNjRjSUZYZ0o?oc=5",
+      "date": "Fri, 25 Sep 2026 11:42:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "鳥取県警察 公式サイトを検索",
