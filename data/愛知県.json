@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-09-30T06:03:08.676672",
+  "generated_at": "2026-09-30T09:02:45.220906",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 19.9,
+    "temp_max": 24.5,
+    "temp_min": 17.9,
+    "precip_prob_max": 57,
+    "precip_sum": 2.7,
+    "wind_speed": 0.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.8,
+        "weather": "強い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 21.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "自転車「青切符」開始1カ月が経過 名古屋で集中取り締まり 違反が絡む事故は全体の約8割 - news.tv",
+      "title": "自転車「青切符」開始1カ月が経過 名古屋で集中取り締まり 違反が絡む事故は全体の約8割",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zb0NLYkgya09tWDE2ZFF3cEJ4RXBVZmJiSjQyQnhBYVQ4NWs4MUh3RElaWmNtR1UtNmRGQ1I4Um5pcDJnTURuaVE0SVlMcjFPM196NmJNWVNndw?oc=5",
       "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
     },
     {
       "title": "「可搬式オービス」による“取り締まり情報”を警察がSNSで発信！ “抜き打ち”じゃないのは一体なぜ？ 愛知県警と大分県警に聞いてみた（くるまのニュース） | 自動車情報・ニュース",
@@ -24,17 +88,12 @@
       "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
       "date": "Fri, 03 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "速度違反、移動装置で摘発 交通事故死ワーストの愛知",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51NVZkT2NFZUV2NjZMN1kyempSTnlvQW9CMWt0Vk9ZdEhjcDNfZ0xOY0JTdTlWVlRCMGEzRWVKMDVsUWRKSFo3UlM2YU12M0YzOFFhVTZqckNNR09Qald1VFYyUUlxdTFldEJxMw?oc=5",
-      "date": "Thu, 07 Jun 2018 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "道路を横断中の女性（78）はねられ死亡 愛知・春日井市（中京テレビＮＥＷＳ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MVMtRlo2Ml9xV3FVTWZESGZQRGRjbzlXTDhfbzBjZUgtT0R4dnFSRHUwR0tmb0ZhMmx1UVBXdU5HcFRDbkVSUzRWUkwxNHNoTl85Vnp5dHhMZTlaN2JyRUVPZGtrQWUyQXJaU1h4YUVZN1F4MnhLSGlpSHg0VVU?oc=5",
+      "title": "道路を横断中の女性（78）はねられ死亡 愛知・春日井市（2026年9月28日掲載）｜中京テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUlfUnQ2ZmIwOUYxYkVWZmFBR0ZacGU2Ql83enRLN3dTaU9mOEQxYU1CUENRM3U2Z2RjZC1UYnU0UEFWS2ctTU9ZYXBrMkU3MTJ2RFFMalBmQXd3dTNVdW5ncjJZWWJBT1JSNVBwWGF2Uk0xUzRhdDc3eWdyZDRQdHpiWUFxVFU?oc=5",
       "date": "Mon, 28 Sep 2026 07:57:00 GMT"
     },
     {
@@ -53,9 +112,9 @@
       "date": "Thu, 18 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "道路を横断中の女性（78）はねられ死亡 愛知・春日井市（2026年9月28日掲載）｜中京テレビNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUlfUnQ2ZmIwOUYxYkVWZmFBR0ZacGU2Ql83enRLN3dTaU9mOEQxYU1CUENRM3U2Z2RjZC1UYnU0UEFWS2ctTU9ZYXBrMkU3MTJ2RFFMalBmQXd3dTNVdW5ncjJZWWJBT1JSNVBwWGF2Uk0xUzRhdDc3eWdyZDRQdHpiWUFxVFU?oc=5",
-      "date": "Mon, 28 Sep 2026 07:57:00 GMT"
+      "title": "道路を横断中の女性がトラックにはねられ死亡 トラックは対向車線にはみ出し…乗用車に衝突 愛知･春日井市（CBCテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDZDBZUXFLRnRwXzZrUklYT1RrZ2lVMnBibWZYTEV5X055dU5VamUwTU1OQXlYRElOemFfQXM5R1p5VUpqTS1qQVZZcGtzbklNZUlzRFZDakFjSml0d2ZxUW15VkpEUHV2YmowemstQmJRLThYR09VNWhoOGtPeFk?oc=5",
+      "date": "Mon, 28 Sep 2026 02:44:12 GMT"
     }
   ],
   "official_links": [

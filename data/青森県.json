@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-09-30T06:01:10.033449",
+  "generated_at": "2026-09-30T09:00:53.428312",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 19.3,
+    "temp_max": 22.3,
+    "temp_min": 14.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
@@ -33,19 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "停車中の軽ワゴン車に追突 オートバイ運転の51歳男性が死亡（ABA青森朝日放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ybU5EZVJQUFBLT2V5WjhlaVlfSk5TM0thbld5WUM3eFhwZlJvUGpYSWpTU1cxV3RENHpoTGJxdGk0VWJSd2RWTnRLNUNNTU4yR0U2dUVoOTFTcjl4Y3lhdlNUVVhnTjRJalRwZGkxbXJtVWdScHktLU8tWXRSZUU?oc=5",
-      "date": "Mon, 28 Sep 2026 03:10:54 GMT"
+      "title": "バイクと車の衝突事故 50代男性が死亡 青森県青森市（ＡＴＶ青森テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KbThfS2UzOGJVYzZGMW94cEVRTFgtZkVIbFVyb3hQSFN6YTFUWDhkQkg0QldiS3g2MkVBRTJTYW51Z2p0aTJiM1Q0OXFnd1FPVTlnVTBuc0U4enh2b3o2cEVoNDNnc01IQW9mX05xdnBxNl9lNGV4Y08xR2hHcDA?oc=5",
+      "date": "Sun, 27 Sep 2026 09:10:24 GMT"
     },
     {
-      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
-      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
-      "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+      "title": "バイクと車の衝突事故 50代男性が死亡 青森県青森市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNW9WUF91VVhJNXhudmFSdklIMzk2UnV5RVV1eXBvZ3ZDM3FFcVVQU1pEdy0wUXRDTUtHWDd3M185NmdTQzdGYUVWYm5xWFBvLTFkdHh3RVc5ZnVQZFZnUm1HMXNRNDQ?oc=5",
+      "date": "Sun, 27 Sep 2026 09:01:00 GMT"
     },
     {
       "title": "軽乗用車にバイクが追突 バイク運転の男性が死亡 青森市の国道103号（青森放送）",
@@ -53,9 +107,14 @@
       "date": "Sun, 27 Sep 2026 09:50:00 GMT"
     },
     {
-      "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQVFFZ096dEc1Y0xxakxLZ29KXy1kSmVIeEwwYXR2UkNNSzEyX3FMVmJrZWIzbDNHUEJxcWMtY3RSbGdKQzNEdnlBN211SUh5akY0ZUI3bHJYNXl5Wl9TU24wWktJTXlfSnRB?oc=5",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+      "title": "歩行者の女性、ワンボックス車にはねられ死亡／南部町｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hMEg4WHRTQXl3dzQ1cGNvNFllS1NaTnhzSTNtUTFFZTRCTWZPWll0RDU4TXEwY2NxMHhhUy1aTUNMQjhHTGd6Wnp2aldBSVIyVy1ISEczY08?oc=5",
+      "date": "Tue, 22 Sep 2026 15:10:00 GMT"
+    },
+    {
+      "title": "80歳女性死亡ひき逃げ事件 国道通行止めで容疑者立ち会い捜査へ／青森・六ケ所村",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QNWpaT0VjS1QwYUNLZmpPZkxxdUFQalpGYzBvdFhydjFydGJnc0tCMUg3SXJuNXBNSTY2QUp0dVFBVkhuSF9tTFRJcWxMV21TX0JTWGxuUGM?oc=5",
+      "date": "Fri, 04 Sep 2026 09:55:07 GMT"
     }
   ],
   "official_links": [
