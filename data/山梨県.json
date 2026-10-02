@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-03T00:02:00.594330",
+  "generated_at": "2026-10-03T03:01:51.719397",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 17.4,
-    "temp_max": 25.4,
-    "temp_min": 15.0,
-    "precip_prob_max": 6,
+    "temp_now": 16.4,
+    "temp_max": 25.5,
+    "temp_min": 15.4,
+    "precip_prob_max": 10,
     "precip_sum": 0,
-    "wind_speed": 1.9,
+    "wind_speed": 3.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.4,
+        "temp": 17.9,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 10
       },
       {
         "time": "03:00",
-        "temp": 16.2,
+        "temp": 16.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 15.0,
+        "temp": 15.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.8,
+        "temp": 18.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.4,
+        "temp": 23.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
         "temp": 25.4,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 21.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 19.0,
+        "time": "18:00",
+        "temp": 21.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       }
     ]
   },
