@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-10-02T21:02:13.091023",
+  "generated_at": "2026-10-03T00:02:00.594330",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 19.0,
-    "temp_max": 26.1,
-    "temp_min": 18.0,
-    "precip_prob_max": 59,
-    "precip_sum": 9.6,
-    "wind_speed": 3.1,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 17.4,
+    "temp_max": 25.4,
+    "temp_min": 15.0,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 1.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 21.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 0
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 20.2,
-        "weather": "晴れ時々曇",
+        "temp": 16.2,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 19.7,
-        "weather": "晴れ",
+        "temp": 15.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.9,
-        "weather": "晴れ",
+        "temp": 18.8,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 25.4,
-        "weather": "晴れ",
-        "precip_prob": 10
+        "temp": 23.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 22.5,
-        "weather": "曇り",
-        "precip_prob": 12
+        "temp": 25.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 19.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 33
+        "temp": 21.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
         "temp": 19.0,
-        "weather": "曇り",
-        "precip_prob": 59
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "10月2日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhT21HYWQ0TEF6RXJSd0xtSUdTZGdoc3UxNGlSTm9TSDlZVjU1QVl6Q1JheTZ6dWVLVXVYeHhaV0l0aXp3UUNZd2hUNENpSEcxUTZnUHVqb0RpSEZfRmpDWkpyWThMWHRpUG5DS056d9IBdEFVX3lxTE9ia3NWcXZJSGIyNDNEaFUtaS16UEp3aW05dTQwMWd2d1g2VG1QZ0p5eTZtTk9tSEEzblo2S1JtMW13X3otdmhDaTV6eUdvWTJyRVd0RWVSc18wMXA3WUFldWp5RE5HbUwzQ09uSzF3aktWbHRU?oc=5",
+      "date": "Thu, 01 Oct 2026 20:00:00 GMT"
+    },
     {
       "title": "飲酒運転取り締まり場所を公表 7月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS2RuMWtUdmUtanh5S0x6S05Ta0JCWXd0MUc5YURCdzFwVmZBQVJQMTZVbERFclJuZkJROWtzanpmTGRJUnVxZ2lfSjRpbTJsZlY3MFZXS3Y5dw?oc=5",
@@ -73,11 +78,6 @@
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
       "date": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "９月２４日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40WFAzSkpSaGROV2duX19BSnRtV0VIR2R1aUdWZnRyQTI5ei1GcXBEVEZMcm1rQjNDNWV5eHprUlpEcDZOaVZhbThxM1RrckZfQUpDUG0zLWVTT2xPNVZ3c3ZzSEdXcEIwQXRqV3pyYWZrd9IBd0FVX3lxTFA0aWFZQklrN1kzajNfWFNwWnFmVktPTkxoY0xyYllldlQ1ZTJtckRsMGlhX2hkdldtUzVFUGpjT2JQLW1vZWpVcnU0T2lmNktvVjV2d3U2ZGtjN08xc21ueHNhT2JMcThTTkxXR1RzeExjWnBsS0cw?oc=5",
-      "date": "Wed, 23 Sep 2026 20:00:00 GMT"
     },
     {
       "title": "飲酒運転取り締まり場所を公表 9月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
@@ -102,14 +102,14 @@
       "date": "Mon, 28 Sep 2026 11:00:36 GMT"
     },
     {
-      "title": "中央道・岩殿トンネルで車が観光バスと衝突、横転 乗用車に乗っていた親子3人軽傷 山梨・大月市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTXpBdnNMU21vaE1OXy1JYXlEVnF3czR4bG5JdWNxc2E3clVYYzB6VDdyYV9tUVhldjhad1RuYXhzWkN1d0hVeE4wcEJJZw?oc=5",
-      "date": "Mon, 14 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "柏好文さん「交通事故のない山梨」宣誓〈動画〉【社会／山梨】",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWGZfamFjV3RiUFNrNTd1YmhkV3BmVEFzSUJ1bVItU0g5Z2trM0c4M0pLYVd6Q3A3dUZjVzltWTVPa1VkbU1qZ0o4bHJaYS10LXVxbDNCNW5wWlBzdkFvbkdPblBhT2JMbTNDMFROQ205YWRMMlFib2tR?oc=5",
       "date": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中央道・岩殿トンネルで車が観光バスと衝突、横転 乗用車に乗っていた親子3人軽傷 山梨・大月市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTXpBdnNMU21vaE1OXy1JYXlEVnF3czR4bG5JdWNxc2E3clVYYzB6VDdyYV9tUVhldjhad1RuYXhzWkN1d0hVeE4wcEJJZw?oc=5",
+      "date": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "交通死亡事故1,000日間連続ゼロ達成！",
