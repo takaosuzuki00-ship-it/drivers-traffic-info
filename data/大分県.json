@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-04T00:03:45.469407",
+  "generated_at": "2026-10-04T03:04:25.971943",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 18.7,
+    "temp_max": 22.3,
+    "temp_min": 18.5,
+    "precip_prob_max": 95,
+    "precip_sum": 10.4,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "03:00",
+        "temp": 18.7,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 18.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "12:00",
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "弱い雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "21:00",
+        "temp": 21.5,
+        "weather": "霧雨",
+        "precip_prob": 67
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月3日（土）【岩手県】 日中・夜間の交通取締情報",
@@ -26,9 +85,9 @@
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "れいわ山本太郎氏は大分で「149キロスピード違反」を起こした5日後、宮崎でもサーフィンを“おかわり”していた レンタカー代はちゃっかり党費精算（デイリー新潮）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLVNGMzhrSWtKTWc5OERwLXRGZEluT251bmVLbnZVNXNTSWFUNmtwcGhmSFlMNXFSaWUyS1MyT1drNXN1WHFpYTBCSVE3blRIbmJnQU5Sc3FwMXlvekpaejNTR3NBV09XcHdjMV9IeTlQQ08zZkFzTkdGdGtwSlU?oc=5",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+      "title": "通勤中36キロ超過 スピード違反した県立学校事務長（52）懲戒処分 大分",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUWTg1anlBZUhoODltMUhhNFpQNUVHTllFZ19PUFktYmgxMGRGWG1IWW9aM2s3QVR4VDNhY29UZ3l1eVFfUmxSNWNkb2s1cmtUeTk3bl9pQWdKeVhLdnJjSWdSQUxTVDQ?oc=5",
+      "date": "Fri, 10 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
