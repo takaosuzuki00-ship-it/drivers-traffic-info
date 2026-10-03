@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-03T21:02:14.614075",
+  "generated_at": "2026-10-04T00:01:48.354139",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 18.9,
-    "temp_max": 25.2,
-    "temp_min": 16.1,
-    "precip_prob_max": 78,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.0,
+    "temp_max": 23.2,
+    "temp_min": 15.6,
+    "precip_prob_max": 88,
     "precip_sum": 0,
-    "wind_speed": 5.9,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.8,
-        "weather": "晴れ",
-        "precip_prob": 78
-      },
-      {
-        "time": "03:00",
-        "temp": 17.4,
+        "temp": 18.0,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "06:00",
-        "temp": 16.1,
+        "temp": 15.6,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 19.2,
-        "weather": "快晴",
+        "temp": 18.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.8,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 25.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.6,
+        "weather": "晴れ",
+        "precip_prob": 27
       },
       {
         "time": "18:00",
-        "temp": 20.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 19.2,
+        "weather": "晴れ",
+        "precip_prob": 65
       },
       {
         "time": "21:00",
-        "temp": 18.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 88
       }
     ]
   },

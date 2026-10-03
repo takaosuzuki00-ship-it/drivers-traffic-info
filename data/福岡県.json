@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-03T21:04:00.882553",
+  "generated_at": "2026-10-04T00:03:17.259885",
   "pref": "福岡県",
   "region": "九州・沖縄地方",
   "capital": "福岡",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 20.5,
-    "temp_max": 25.3,
-    "temp_min": 17.0,
-    "precip_prob_max": 3,
-    "precip_sum": 0,
-    "wind_speed": 2.9,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 19.5,
+    "temp_max": 21.9,
+    "temp_min": 18.9,
+    "precip_prob_max": 45,
+    "precip_sum": 1.7,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.8,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 18.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "06:00",
-        "temp": 17.0,
-        "weather": "快晴",
+        "temp": 19.1,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.9,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.4,
+        "weather": "霧雨",
+        "precip_prob": 12
       },
       {
         "time": "12:00",
-        "temp": 24.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 20.4,
+        "weather": "曇り",
+        "precip_prob": 45
       },
       {
         "time": "15:00",
-        "temp": 25.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.9,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 22.4,
+        "temp": 21.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 20.5,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.9,
+        "weather": "晴れ",
+        "precip_prob": 2
       }
     ]
   },

@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-10-03T21:04:11.599010",
+  "generated_at": "2026-10-04T00:03:26.807122",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 22.0,
-    "temp_max": 26.6,
-    "temp_min": 19.1,
-    "precip_prob_max": 1,
-    "precip_sum": 0,
-    "wind_speed": 4.1,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.5,
+    "temp_max": 22.3,
+    "temp_min": 19.7,
+    "precip_prob_max": 79,
+    "precip_sum": 1.8,
+    "wind_speed": 5.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.9,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 19.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 8
       },
       {
         "time": "06:00",
-        "temp": 19.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 14
       },
       {
         "time": "09:00",
-        "temp": 22.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.7,
+        "weather": "霧雨",
+        "precip_prob": 67
       },
       {
         "time": "12:00",
-        "temp": 26.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.7,
+        "weather": "曇り",
+        "precip_prob": 75
       },
       {
         "time": "15:00",
-        "temp": 26.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.2,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 23.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.0,
+        "weather": "曇り",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 22.0,
-        "weather": "晴れ時々曇",
+        "temp": 21.9,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "雲仙グリーンロードで車同士の衝突事故　30代から70代の女性3人搬送",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uV1BMUGlRbk5TTmtENVEtRGZ6XzBDcFVwa3R2aUpIdV9aaDNYcUJSWFVZTVJDMDJ5Q3RDczB3WUdMMHN2OGI5VDZZdGZsV1ZGakc2OWdDSjFwN0w0dzBCTTZ5d0NyQWlGOF9Kajl2Y08zNDlC0gF6QVVfeXFMTlEzOV9lU1A4ajk3V1AtTi1EMFBlWHRHeVdZTmJEMTRMU0FsNnRLOXBVLXltNTlQckt1MkZFRzQ4eVladVh5SWpUN0dzSFJOcTRacW5wRXc1dlRZOWJUOGkxWWtRSkhQR2dObXdBUVRwQlFwRmM0emlSWEE?oc=5",
-      "date": "Sat, 03 Oct 2026 09:35:00 GMT"
-    },
-    {
       "title": "【長崎】女神大橋の大型トレーラー追突事故 乗用車の運転手を略式起訴 トレーラーの運転手を不起訴（長崎文化放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xZDViYjNsZjQwMFZTSGU1dTdhYUR2ZGdyemRRajhBVkRZRmIybWExX29fYVItSXEyQUJwSXV0UllSeHdCcEpSN0o1MzFGTVJkcjhzczVjNExDRkRLdkNtWTVKRlNzVGp4U3ZrSEQwVlJvMnd6UVpEa1d5Z3JEM00?oc=5",
       "date": "Wed, 30 Sep 2026 10:05:29 GMT"
+    },
+    {
+      "title": "雲仙グリーンロードで車同士の衝突事故　30代から70代の女性3人搬送",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uV1BMUGlRbk5TTmtENVEtRGZ6XzBDcFVwa3R2aUpIdV9aaDNYcUJSWFVZTVJDMDJ5Q3RDczB3WUdMMHN2OGI5VDZZdGZsV1ZGakc2OWdDSjFwN0w0dzBCTTZ5d0NyQWlGOF9Kajl2Y08zNDlC0gF6QVVfeXFMTlEzOV9lU1A4ajk3V1AtTi1EMFBlWHRHeVdZTmJEMTRMU0FsNnRLOXBVLXltNTlQckt1MkZFRzQ4eVladVh5SWpUN0dzSFJOcTRacW5wRXc1dlRZOWJUOGkxWWtRSkhQR2dObXdBUVRwQlFwRmM0emlSWEE?oc=5",
+      "date": "Sat, 03 Oct 2026 09:35:00 GMT"
     },
     {
       "title": "長崎・佐世保市の車両事故で重体の女性が死亡",
