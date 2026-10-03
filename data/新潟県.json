@@ -1,24 +1,83 @@
 {
-  "generated_at": "2026-10-03T06:01:27.109458",
+  "generated_at": "2026-10-03T09:01:25.870126",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.1,
+    "temp_max": 20.8,
+    "temp_min": 16.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 13.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」 - niigata",
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "［交通取り締まり情報・新潟］飲酒、一時不停止…1月の交通違反「公開取り締まり」 - niigata",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02R3lqUms4aFNHVGN1bkVRUnhDSUJMVXBCYzV5Z1hhVzhVVkRkWXhSNWZHRENUaEFQQkQ0d3FSMHhXQ0kzcG5QZDNobVpnTW1nWGh4c2ZJTndmaWRIVFE?oc=5",
-      "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】4月27日 新潟市中央区や見附市で取り締まり強化",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBNei1hMTlJTnBvcU9mSFYwN2ZtNGR2aVVRejZtWU01b3VmQ0F1R05La2RKSnhzRk9vLTBsRDBPc2d3a25k?oc=5",
+      "date": "Sun, 27 Apr 2025 07:00:00 GMT"
     },
     {
       "title": "交通検問で酒気帯び運転が発覚 スリランカ国籍の専門学生の男を道交法違反で現行犯逮捕 運転免許を持っていなかった可能性も《新潟》（2026年5月22日掲載）｜TeNY NEWS NNN",
@@ -38,6 +97,11 @@
       "date": "Thu, 01 Oct 2026 03:10:42 GMT"
     },
     {
+      "title": "【新潟のスペシャリスト・一新総合法律事務所】交通事故や労災など事故賠償で安心感を｜新潟市中央区新光町",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wbWJ0Q1V3Njd5a3h1V2Q1MjFTaUQ0eUxsRGtXb01KLTJfM0s4STVnVzlGcG80WnhqeF80ZzA3aDI1emxjNGs1bVlQV1RpV2hWVFJSX1hucGs?oc=5",
+      "date": "Fri, 02 Oct 2026 02:34:59 GMT"
+    },
+    {
       "title": "新潟県田上町の県道で小3男児が軽乗用車にはねられる 会社員の女を現行犯逮捕「事故を起こしたことに間違いありません」と容疑認める（ＢＳＮ新潟放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40NEhVMTNqcGdfcXh5SDd1UkdOX2Qwa2tlc05faW5RbTlRZTJ2Mi1NREtRVmlXOUx4VDJCd0lRNlpfell5bXgtTzBKa3o4Qm5ZQjI5SkpQMC1LX25fczJOeEhpVUhkakVzM3ZmQ25QSWlKYUZtcDlkWFFpRjNjQWM?oc=5",
       "date": "Tue, 29 Sep 2026 03:02:15 GMT"
@@ -51,11 +115,6 @@
       "title": "【交通事故】6割は“交差点”で発生！「交差する道路の状況がほぼ見えない…」交差点に潜む危険とは？新潟",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EX01zSVJIclJhcHZJd1RNYXpVQjNtUUlhLUlxQVduZXNjYXZLS1VsUF9WUTVRTlNoR2p5LTQ0ZDZUTE9pc013OGJ1N2RQdUVtelFLNUdONkU0RmYwR3Zj?oc=5",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "9月21日（月・祝）から秋の全国交通安全運動【アイシテル事故のないニイガタ。】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oSHNiZzVpNXlzMWo0Y2VQQkJ5WnRYcVlodWF4ZW9jczU0MU81ZDkxQlltRXhWZ2tTNDEyQUNGRFB5Vm1NWktZOHJWdnVxUQ?oc=5",
-      "date": "Mon, 21 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
