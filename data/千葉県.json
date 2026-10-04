@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-04T12:01:16.479361",
+  "generated_at": "2026-10-04T15:01:24.913825",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 22.7,
-    "temp_max": 22.9,
+    "temp_now": 22.2,
+    "temp_max": 22.6,
     "temp_min": 15.7,
-    "precip_prob_max": 8,
+    "precip_prob_max": 3,
     "precip_sum": 0,
-    "wind_speed": 13.4,
+    "wind_speed": 11.8,
     "hourly": [
       {
         "time": "00:00",
@@ -33,13 +33,13 @@
       },
       {
         "time": "09:00",
-        "temp": 20.9,
+        "temp": 20.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.7,
+        "temp": 22.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -53,13 +53,13 @@
         "time": "18:00",
         "temp": 19.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.9,
-        "weather": "快晴",
-        "precip_prob": 8
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
@@ -92,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
-      "date": "Tue, 29 Sep 2026 09:28:11 GMT"
-    },
-    {
       "title": "乗用車がトラックと衝突し炎上、同乗の3人死亡 千葉・中央区の国道 [千葉県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKdTVNQktuUWpkUlVfSVNWdm9pOXR5VmxMT2FkaURPbUxoSzQ5WkVFOVp5MXpIVE9WUzFhVjI5SFNjWVZrVTkxU3JVOVFBdXNOQUh3VW1wQU9PYU1xbUdaYkNKWFc0c00?oc=5",
       "date": "Tue, 29 Sep 2026 00:30:00 GMT"
@@ -107,14 +102,19 @@
       "date": "Tue, 29 Sep 2026 02:20:00 GMT"
     },
     {
-      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”（テレビ朝日系（ANN））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVVhhdFVWQXV3MlJSX0hLaGJVNDZYMU9hWU9TUUhib1lBaGt5R2JrWUFraFlZUzZHbWhiNFpXUzhKRlZPZkFHR2txUHFjU1BMMGJXSzhwU0ExMnpQN2JYUkx2cWV3MUpuREZmRUlPRHA1QmRxcTZPNDZKZTY5eFU?oc=5",
-      "date": "Wed, 30 Sep 2026 01:56:00 GMT"
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
+      "date": "Tue, 29 Sep 2026 09:28:11 GMT"
     },
     {
       "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16MGdIbGRGNEV0VktYbHNLdlNBekZMYUdrS2JzazRvZEFrTW4xdWdWR0Q3aFFueE5reGdYb1pUYklxeTM5eTNTcm95cmplRzg?oc=5",
       "date": "Tue, 29 Sep 2026 09:28:11 GMT"
+    },
+    {
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”（テレビ朝日系（ANN））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVVhhdFVWQXV3MlJSX0hLaGJVNDZYMU9hWU9TUUhib1lBaGt5R2JrWUFraFlZUzZHbWhiNFpXUzhKRlZPZkFHR2txUHFjU1BMMGJXSzhwU0ExMnpQN2JYUkx2cWV3MUpuREZmRUlPRHA1QmRxcTZPNDZKZTY5eFU?oc=5",
+      "date": "Wed, 30 Sep 2026 01:56:00 GMT"
     }
   ],
   "official_links": [
