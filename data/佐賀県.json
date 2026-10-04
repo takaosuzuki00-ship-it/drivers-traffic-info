@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-04T09:03:44.967548",
+  "generated_at": "2026-10-04T12:03:37.082449",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 19.5,
-    "temp_max": 22.5,
-    "temp_min": 19.1,
-    "precip_prob_max": 53,
-    "precip_sum": 1.1,
-    "wind_speed": 1.8,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 21.0,
+    "temp_max": 22.4,
+    "temp_min": 18.8,
+    "precip_prob_max": 59,
+    "precip_sum": 0.3,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": 20.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 27
+        "precip_prob": 6
       },
       {
         "time": "03:00",
-        "temp": 19.2,
+        "temp": 19.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "precip_prob": 41
       },
       {
         "time": "06:00",
         "temp": 19.3,
         "weather": "曇り",
-        "precip_prob": 6
+        "precip_prob": 18
       },
       {
         "time": "09:00",
-        "temp": 19.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 24
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 25
       },
       {
         "time": "12:00",
-        "temp": 20.5,
-        "weather": "曇り",
-        "precip_prob": 53
+        "temp": 21.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 59
       },
       {
         "time": "15:00",
-        "temp": 22.5,
+        "temp": 22.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 31
+        "precip_prob": 20
       },
       {
         "time": "18:00",
-        "temp": 21.8,
-        "weather": "曇り",
-        "precip_prob": 10
+        "temp": 21.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
       },
       {
         "time": "21:00",
-        "temp": 21.3,
+        "temp": 21.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "precip_prob": 8
       }
     ]
   },
