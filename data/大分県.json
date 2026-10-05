@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-05T12:05:06.516675",
+  "generated_at": "2026-10-05T15:03:48.683160",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 24.4,
-    "temp_max": 25.2,
+    "temp_now": 25.5,
+    "temp_max": 25.5,
     "temp_min": 20.8,
     "precip_prob_max": 100,
     "precip_sum": 4.4,
-    "wind_speed": 18.0,
+    "wind_speed": 18.7,
     "hourly": [
       {
         "time": "00:00",
@@ -29,36 +29,36 @@
         "time": "06:00",
         "temp": 20.9,
         "weather": "弱い霧雨",
-        "precip_prob": 59
+        "precip_prob": 88
       },
       {
         "time": "09:00",
-        "temp": 21.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 43
+        "temp": 21.1,
+        "weather": "曇り",
+        "precip_prob": 20
       },
       {
         "time": "12:00",
-        "temp": 24.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 14
+        "temp": 24.0,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "15:00",
-        "temp": 25.0,
+        "temp": 25.5,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 22.8,
+        "temp": 23.0,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 21.6,
-        "weather": "快晴",
+        "temp": 21.9,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
@@ -92,9 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "東九州道で車同士が衝突 亡くなったのは米国からの観光客の男性（29）と判明 4人が重傷 大分（TOSテレビ大分）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16QU5XSjdxcnJvYjBFMDdYcThkVnRldHo3b1dGMkdRRmFxQXhDNTdPZXFhTVRZN1FDVkhMN0hnNlNFa0VCMEtPX0tXWEZmNVRJR2RESVY2NEtrWmNBSGY5MV9uV3VJM0RmVjFsb1NabG1HdWg5ODNMdEVOeUZFcm8?oc=5",
-      "date": "Thu, 01 Oct 2026 07:15:01 GMT"
+      "title": "3人死傷事故 差し戻し審の有罪判決が確定 当初一審は路面の異常の可能性指摘し無罪 大分（TOSテレビ大分）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbERkNXpPQ0FPQnFHMTdsQXZjNWw5dlBoNGk3U2R4NTl5ZjZPVFRncEJzYUNZbFRQNmtCSWhnLTM0Mm14MDRiTHJNM0RVY1R0V24tbERuU2daU1FEZzNNWHlYYy1JeENFOWI5d1dHaFdlWW1rMVAyVF9DR3Q3UE0?oc=5",
+      "date": "Fri, 02 Oct 2026 02:59:01 GMT"
+    },
+    {
+      "title": "車同士が衝突 運転手1人死亡 子供含む家族4人重傷 東九州自動車道 大分",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94YWk1Z2xKZUhDRTAtQjFuR3NjWjFVaE5NZTVqYVk1MlU2U3Y1WjA4bEljeENCVnpMeHAwangzWldwQk9uT0xieTRxSFRyUQ?oc=5",
+      "date": "Sun, 27 Sep 2026 04:55:00 GMT"
     },
     {
       "title": "観光バスなど計5台絡む事故 乗客ら10人以上搬送 大分自動車道",
@@ -102,14 +107,9 @@
       "date": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "高齢者運転者の交通事故防止について(大分県警)",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNYWVscWpjdzJNZUZISmNpUVdsdUFSUFRxM2tSUzgxbEFoM1d1VHRQRC1HY0J4cDVRRGVqVE1TY2dKTG5SbHRBdHFfbmVFNERScTdiYkxKRnB3cWF1NmxWYjNpWUZOem1sN2NkQVpPODNYa1N3RlEySnZ2VkVVSGZpdUpHV3QwTmVZeHNwNThKMWxSOXJidGFrRjR2WWlsaGN4WHV6TzdZOFk3NVJ2QmJtQ0xjUGE3WHN4SUpzS1VXNE9kRkY3d2YwSVpremg3OVBLZ0FTME9WLVhVcDgxTWtVUHBCSnZ0N2JPWkhfdHFEQzhCTTlLLXptblZheXRCQWxackt6eVU0T1lNc2E2WEJhWGNxanQ1MWNJTUJXY3JUb3VBcF9iQ05POXl3blVMTTJpWnNvTm9fR0YxcFp4d3Z0NEQ2VktFbE5MM2c4cGNMTDNUQkE?oc=5",
-      "date": "Thu, 27 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "十字路で車同士が出合い頭に衝突 1人が病院に搬送 大分県大分市",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMk5Ta2t4dzhYSlpZcjN0ZFNTdko0QmdrSHdDT2hrQUpILWhhSmk0RlE0NXVZSkYtVHprRWhRcUFqZGt3MzdtdTBkbzYtSFU1OTFLOWQ0X2hlWDRW?oc=5",
-      "date": "Fri, 29 May 2026 07:00:00 GMT"
+      "title": "東九州道で車同士が衝突 亡くなったのは米国からの観光客の男性（29）と判明 4人が重傷 大分（TOSテレビ大分）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16QU5XSjdxcnJvYjBFMDdYcThkVnRldHo3b1dGMkdRRmFxQXhDNTdPZXFhTVRZN1FDVkhMN0hnNlNFa0VCMEtPX0tXWEZmNVRJR2RESVY2NEtrWmNBSGY5MV9uV3VJM0RmVjFsb1NabG1HdWg5ODNMdEVOeUZFcm8?oc=5",
+      "date": "Thu, 01 Oct 2026 07:15:01 GMT"
     },
     {
       "title": "熱水の流れる排水溝に転落、日本製鉄九州製鉄所大分地区の協力会社社員が死亡…大分労基署が立ち入り調査",
