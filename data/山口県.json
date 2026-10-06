@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-10-07T00:03:11.308814",
+  "generated_at": "2026-10-07T03:03:06.885789",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 17.8,
+    "temp_now": 17.3,
     "temp_max": 22.8,
-    "temp_min": 17.4,
-    "precip_prob_max": 27,
+    "temp_min": 17.0,
+    "precip_prob_max": 15,
     "precip_sum": 0,
     "wind_speed": 4.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.8,
-        "weather": "晴れ",
+        "temp": 17.7,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 17.4,
+        "temp": 17.0,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 21.3,
-        "weather": "快晴",
-        "precip_prob": 8
+        "temp": 21.2,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "12:00",
         "temp": 22.7,
         "weather": "快晴",
-        "precip_prob": 27
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 22.3,
-        "weather": "快晴",
-        "precip_prob": 20
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 14
       },
       {
         "time": "18:00",
-        "temp": 19.6,
+        "temp": 19.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.1,
+        "temp": 17.9,
         "weather": "快晴",
         "precip_prob": 0
       }
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "10月6日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TT0RXSERLRzV2N005QnlPV25iVmtrNXk2UkU2VG1BTGtMdDltM1NWMEV6Z3VZQ2g5a01STjBHVVN2TlJ5WkNpMFVLWjdWclR5UWpJSXN2YS1NSDc1TUdzdkVYTVBheWJoLU5JWHc0Z9IBdEFVX3lxTE5GQnhFZGNxMTBVM1V0ZTVsN0Q3UTRfbG9oZk5Pd3dfeFp6Z1FYYUJSMkNoSUhqbGZNRkNaWlVUT2NyQXdVVDk3OFpHTGtMNnpMY3gxWk9ZN0ZXTlJDcUNHcTVXM09YMTFfYUk3dGc1UlA2ejFI?oc=5",
-      "date": "Mon, 05 Oct 2026 20:00:00 GMT"
-    },
-    {
       "title": "“秋の全国交通安全運動”最終日　山口県内一斉に登校時間に交通違反取締り",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iOTJKdEpkX25SREZvTGwzMGZpUWJ2V19HemU1ZHFjMTRuSTZ5S3JQMUU0cTI1YkJIa2J0T1NpYVRQU3NfYVRoUDRPQmNUTk5EN0JsQWZVMkhfMEN2NFhiZ0lxbUNPdW93MF9QdTZsd9IBdEFVX3lxTFB4MlRIemZnMTd2a2daOWJwa29UVkJDOEVUTDAtbFdXTHpOb1ltRUY0WEtBaEJPLUVpaFQ0UjBXcFMwRGRDTlZvYXo2M21leGtiRkZKVEFuMmg4cjJzWjZKamN0RlZPMm9mX0FaYmNZS1ctdEVM?oc=5",
       "date": "Wed, 30 Sep 2026 08:30:00 GMT"
+    },
+    {
+      "title": "10月6日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TT0RXSERLRzV2N005QnlPV25iVmtrNXk2UkU2VG1BTGtMdDltM1NWMEV6Z3VZQ2g5a01STjBHVVN2TlJ5WkNpMFVLWjdWclR5UWpJSXN2YS1NSDc1TUdzdkVYTVBheWJoLU5JWHc0Z9IBdEFVX3lxTE5GQnhFZGNxMTBVM1V0ZTVsN0Q3UTRfbG9oZk5Pd3dfeFp6Z1FYYUJSMkNoSUhqbGZNRkNaWlVUT2NyQXdVVDk3OFpHTGtMNnpMY3gxWk9ZN0ZXTlJDcUNHcTVXM09YMTFfYUk3dGc1UlA2ejFI?oc=5",
+      "date": "Mon, 05 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
@@ -93,13 +93,18 @@
   "accident_news": [
     {
       "title": "2026年上半期“交通事故発生状況”発表 山口県内21人死亡（前年同時期比6人増）うち10人が車線のはみ出しによる事故",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZjU1U0JwZElQTjVjOWRXOEEtZ3dPVUVlWV9nQ2thcjNCdFpYVkpuVjFyRjFuOVlGOGtiY1NRRHpfQ3hMT05tczRad2YxYnZzdkNWYUdKaVNpUzdSQk9tdk5jMEZVOW1lLUFtMmctVlliVllPZy1PZHFzSm43TnFnc1FtcHZSNzlLVGFxX3hHaGl1U3dwSG1Odm52eUlJZnFtenI2OHRHUl83VWZ5cGM2eFB6SGt0eUdpUWhscUFTUkNkUEVTeHM0bG0zUUVWY3BibVlyTF8xWWpBcURQQk1OQVZyR3hFUm9MZmdfRlNUUXFDa1E5eGc?oc=5",
+      "date": "Tue, 06 Oct 2026 02:48:00 GMT"
+    },
+    {
+      "title": "2026年上半期“交通事故発生状況”発表 山口県内21人死亡（前年同時期比6人増）うち10人が車線のはみ出しによる事故",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lNWF1dWF6UUR4djhBbFZZbkZ3VEU3NjhhcVhXY20wQzFGM3g4eDc0MHUzcXZVazJhR1UyYzFhRHlqMTlSMFFTdmNKbW9FOExuVE9HUE9KMGFreGQwV0xFMkMxY3g1S1VLR3Z0cVJUajFEWlNJRjRmVGRrVjZBZGs?oc=5",
       "date": "Tue, 06 Oct 2026 02:50:25 GMT"
     },
     {
-      "title": "2026年上半期“交通事故発生状況”発表 山口県内21人死亡（前年同時期比6人増）うち10人が車線のはみ出しによる事故",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zZ2ItVkxKalZ2ai1EbFA5dlJDSE43Rjl6NmFkSHhLLWxQMW9qaWZZS1RXeDFieW9oYlBqS2tuX2Z2eFRNbjV6dGdld0xyZlFOUFgzN0gzakRYQQ?oc=5",
-      "date": "Tue, 06 Oct 2026 02:48:00 GMT"
+      "title": "山口県内の交通事故発生状況/2026年10月5日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84VVVWZWw0ODlOUDBuRFJlUTJJWnIyajN6LXpQRW0zZFZQM1AzbHF6Wk9yWTd1b1dFQkgtTklGenVOZ1MxcnRQYkNMNXRuSTVHZzAyM3NJLTc3TVRLbFc5clVxZ0ZHRWpvM1E?oc=5",
+      "date": "Tue, 06 Oct 2026 01:00:00 GMT"
     },
     {
       "title": "2026年上半期“交通事故発生状況”発表 山口県内21人死亡（前年同時期比6人増）うち10人が車線のはみ出しによる事故",
@@ -107,14 +112,9 @@
       "date": "Tue, 06 Oct 2026 03:01:00 GMT"
     },
     {
-      "title": "山口県内の交通事故発生状況/2026年9月30日",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1YmFFSklyWjNnMTM4MENrekprU1VVMmZ5eDVHZjJoUWYwMm5xbkk4R0h3N05UTjUxdUE2aEliYloyZzVDNG5hdkIxZlo5X2VBd2ZwMFFQaFlrdGFJZ1pkeFdDRFBmamdjNVE?oc=5",
-      "date": "Thu, 01 Oct 2026 01:00:00 GMT"
-    },
-    {
-      "title": "家族4人が乗っていた乗用車がガードレールに衝突 1人死亡3人重軽傷 山口市（ｔｙｓテレビ山口）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLV3J1dV9fWFJSZUNucXpDdV9LcTAzRE1PYm1ZYnJiazVQUXBGWEJvcjBWVUR5NWZwb0NKSlczcmpmdzBuc0xfNlZZQUxPWHZFcUttRnBuREJ2WnBYaThEaXI3Z3ZmU1VjSFoxTG4wOEpCUllHWDRoN0s2S19TZnc?oc=5",
-      "date": "Mon, 05 Oct 2026 03:02:14 GMT"
+      "title": "国道2号でガードレールと縁石に衝突 助手席の61歳男性が死亡 山口市（ＫＲＹ山口放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVWJmaUtWOFhVeUN6VmswLVJsZ3VNWF9leGkwZkx4T2liaWlpcHZuVFN2VVZBSzdQNER6NU51d2J6ZGN0dzlpc1RnMkVWYmlib2JHcFREZzBjSExEbGVqUkcwdGRuNWJPbnRROTRHUWNLdENodGdUcFY4VDlEWjQ?oc=5",
+      "date": "Mon, 05 Oct 2026 03:07:00 GMT"
     }
   ],
   "official_links": [
