@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-10-06T21:01:14.872239",
+  "generated_at": "2026-10-07T00:00:57.209213",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 16.7,
-    "temp_max": 21.4,
-    "temp_min": 16.5,
-    "precip_prob_max": 100,
-    "precip_sum": 3.2,
-    "wind_speed": 3.9,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 15.5,
+    "temp_max": 20.1,
+    "temp_min": 14.5,
+    "precip_prob_max": 10,
+    "precip_sum": 0.4,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 75
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 19.1,
-        "weather": "雨",
-        "precip_prob": 90
-      },
-      {
-        "time": "06:00",
-        "temp": 18.4,
-        "weather": "晴れ",
-        "precip_prob": 98
-      },
-      {
-        "time": "09:00",
-        "temp": 20.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
-      },
-      {
-        "time": "12:00",
-        "temp": 21.0,
+        "temp": 15.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 15.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
         "time": "15:00",
-        "temp": 20.4,
+        "temp": 19.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.3,
-        "weather": "晴れ",
+        "temp": 17.5,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 16.7,
+        "temp": 15.8,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "10月6日（火）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01aEJGUnA3V0pscUZzcElYak1aSExJRUZnU1FwNl9CZjUxbTY4RF9lWDFOa2NUSS1vUm9WVjEzWG1ISTZVTmdDTFFHRFl6bm9EVnl1ZF9VVEttUm9kZDlyVzFsSjlENUp6Y2xXZkJOLUJmNV9ITTVMUzA4Q21RUjA?oc=5",
-      "date": "Mon, 05 Oct 2026 20:00:35 GMT"
-    },
     {
       "title": "9月30日（水）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15WWI5Tmk5S2xYNUpRZlpqLUlzQk51dUtqb2cwbGJkRFdaa1NJNUpBVy1mbUhPb25TbGxZb3JBbFpGOERSZ1NncTF1YllnOU5BLWpOZVBSUHgzSlkxclNaNEdQZWtrUFNLSEh3blNlQdIBdEFVX3lxTFBvRVRJb1RDeVhrS1owaGlzM0ZxaG8wUkY3Vk9rYUNrWFJMLW9wTzZ4bUFrdzJ0UHBEenNsZ2stTFRWTlRVMzZMR3AwY0NhdXQtWU9kWXc0TXN6alNYWkFSVWkzR2x4a3hjTGVpOTlFa09OSkVa?oc=5",
@@ -88,6 +83,11 @@
       "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MRkF6a2dtUUt6RkM3RzFuSG9Sbzl5NUVVeUpLOENmR0VMRzR1ZkdxelNYWHlYOGlwMEFOSjl1RDZYM3R1TTJEZHk1aU1RakM3cUhhNmk2VTNvTDJEenRmVlZ6ZkJRQm8?oc=5",
       "date": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWUt6bXVpUzJjT0Zab2FWbmYxbTg1LTRvektfZTVDbEt3cFhiYzBpRXdvaTd6N2lCVkZYa1BFc2lsbW16Q2djSWtIY0RNMXg1U1pIRkFfN0ZjNUtwLXNob1hR?oc=5",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Wed, 30 Sep 2026 02:34:00 GMT"
     },
     {
+      "title": "解体工事の現場でクレーン車が横転する事故　けが人はなし　秋田・横手市",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSWWlsVjVsMklVdmY5NGFobU00andKMmFyNkQzeWJBQTFLNUFfOXVMQmU5czFZdzJmTi0xRlB4emtRdkZjZmxPdlBNM2hWbVRTbnRrN2ZSNVJDQXdzSEszV1RSNE95aGJKYnZZWdIBckFVX3lxTE5SSXpJZVRjQU9TRHpwN0E3bTl6bWFvMzdVeXN3OGJNZkdfa1dEajJrdGlNQTFnNWplcFpPODVxeGRJdDMzYjhDX2xHXzUxM1lmREhjOHYwSDlGZm1jMk9EakdNdm5KRVBiZ3VUXzFNb2lhQQ?oc=5",
+      "date": "Tue, 06 Oct 2026 09:05:00 GMT"
+    },
+    {
       "title": "平川市の国道で車３台が絡む事故 秋田県の男性（40）が死亡",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFUkZpS0FEQWNpV0w2aC1Bb3BvbElQZExvcGdndFRGaWo0NjJXQ0V3bWdJQnpzWEJUWmp3eG9XY3dlWHFHVFREblo1TTBadUJkdWNOc3dKYVg?oc=5",
       "date": "Mon, 14 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "瀬戸内・邑久中生に命の大切さ訴え 交通事故で娘亡くした秋田さん",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kYUttcnA5Ql9ud0Q1UGFoSXdfSDhZck1abHptSnI5Rm1wdnFDd3luSGhlalhPcm8tY0F6YjhqYTlIRm82a1FXTWotNTBEVEZnd1pPZEt0YlM?oc=5",
-      "date": "Mon, 05 Oct 2026 03:03:34 GMT"
     },
     {
       "title": "90代男性、救急搬送時に頭に擦り傷 病院で死亡確認 けがと死亡の因果関係は分からず 秋田・男鹿市（秋田テレビ）",
