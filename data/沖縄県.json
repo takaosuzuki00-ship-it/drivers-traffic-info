@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-10-08T21:04:34.299166",
+  "generated_at": "2026-10-09T00:03:58.160310",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 24.7,
-    "temp_max": 29.4,
-    "temp_min": 23.1,
-    "precip_prob_max": 36,
-    "precip_sum": 0.7,
-    "wind_speed": 19.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.4,
+    "temp_max": 30.1,
+    "temp_min": 24.6,
+    "precip_prob_max": 31,
+    "precip_sum": 0,
+    "wind_speed": 18.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.6,
+        "temp": 25.4,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 31
       },
       {
         "time": "03:00",
-        "temp": 23.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 25.3,
+        "weather": "快晴",
+        "precip_prob": 10
       },
       {
         "time": "06:00",
-        "temp": 23.4,
+        "temp": 24.7,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 26.3,
+        "temp": 26.8,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 29.0,
+        "temp": 29.4,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 27.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 12
+        "temp": 29.7,
+        "weather": "曇り",
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 25.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 22
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "21:00",
-        "temp": 24.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 35
+        "temp": 25.7,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "自称歌手の男、車内に大麻 麻薬取締法違反の容疑で逮捕 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qM3VpSGxGaDdYV1hULTg4N2ZPYXRLMnU3ZWpFeGMxMjk4VG5BQVNwX29fVGNkV3Rzb2Z3X2ZpQ0EwR013eVFXaEJIRUNfYktVZ1U4VFgwVS0wYnF5ZDJDdg?oc=5",
+      "date": "Wed, 30 Sep 2026 20:00:00 GMT"
+    },
     {
       "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZF81SzZQdUgtd1VWQzlwdGpFUVRHRkdQblk2YURwVXZFUjBnMEhwbEVmaHBFTVdDY016QWxXLUxTTlZGMGNrQWlIV3d0T0l0TWNVb1Z3ckU2akh0NnpYRg?oc=5",
@@ -73,11 +78,6 @@
       "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
       "date": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "自称歌手の男、車内に大麻 麻薬取締法違反の容疑で逮捕 沖縄",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qM3VpSGxGaDdYV1hULTg4N2ZPYXRLMnU3ZWpFeGMxMjk4VG5BQVNwX29fVGNkV3Rzb2Z3X2ZpQ0EwR013eVFXaEJIRUNfYktVZ1U4VFgwVS0wYnF5ZDJDdg?oc=5",
-      "date": "Wed, 30 Sep 2026 20:00:00 GMT"
     },
     {
       "title": "安全な速度の遵守や見通し悪い夜間の運転注意をよびかけ 本部警察署が検問実施 沖縄・今帰仁村",
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "中城村で軽自動車が街路樹に衝突し炎上 運転席から身元不明の遺体",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzSGlZRWxqVnV6VXBHcS1UQk9CVHZVT3Y1eXZLTG44bVRZbktfdE1FaU9DRFQ0YVBjMXA1S21KdkFGbFlMZjZnODVmN3dUeTZLTlBTVk5xVGlkNTh5VkE?oc=5",
+      "date": "Thu, 08 Oct 2026 08:22:00 GMT"
+    },
+    {
       "title": "運転席から遺体見つかる 街路樹に衝突し軽自動車炎上（沖縄テレビOTV）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13LUp5cDNSNVNDX2pQS3BpMUtaeG1xUUtzVFJiU0EzRWJDcDZlT0N6QkFvb0ZTYXpCblBFX1hYZnMySFpkY3ZPeVJQZGFaZnZ0TnFBMkdoSnBsTjdmUlhDYkRCWnFhNjY1bklLUmJJcmtHZ0p3RTY1eUNwLVFJQnM?oc=5",
       "date": "Thu, 08 Oct 2026 03:20:01 GMT"
@@ -100,11 +105,6 @@
       "title": "沖縄ゆいまーるプロジェクト、交通事故削減・希少動物保護で成果…トヨタ・モビリティ基金が報告",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01dkxDWlc5UkFHVHpXV05MRTVsQVE2NUVHbVZ1UVlWWnJ3NUozUjR0LUVrcTROOEppS1ZxRHUtUDhlRWhITENyTmc4WTViM0c0VVNla1k1WEtDd0tWZkRycmd3?oc=5",
       "date": "Wed, 07 Oct 2026 23:00:03 GMT"
-    },
-    {
-      "title": "バイク同士が衝突、82歳男性死亡 27歳男性は顔に軽傷 那覇市首里",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XdEhVc1JwcnhZMXd2TGFkWExDNUhOQ3hYMnE4SWZ6ekdvS0VKSkR1a2o3VTRjUm9YMm53elJFRkN4MzdiOFBJekNHQXZEWkRPV1NzanNaRjNHUnM3amc?oc=5",
-      "date": "Tue, 06 Oct 2026 22:30:00 GMT"
     },
     {
       "title": "車いすパラメダリストの上与那原さん死去、練習中に交通事故 [沖縄県]",
