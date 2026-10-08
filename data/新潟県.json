@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-08T15:01:46.958071",
+  "generated_at": "2026-10-08T18:01:43.266198",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 0,
-    "weather": "快晴",
-    "temp_now": 21.3,
-    "temp_max": 21.4,
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 20.5,
+    "temp_max": 21.1,
     "temp_min": 13.7,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 7.4,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
@@ -39,31 +39,36 @@
       },
       {
         "time": "12:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
         "temp": 21.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "15:00",
-        "temp": 21.3,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
         "time": "18:00",
-        "temp": 20.3,
+        "temp": 20.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.2,
+        "temp": 18.3,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "１０月８日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fdGY1M1pnajBEZUg0RTZGSVIxdzhDeFloWkZlLWN0a3hLOTU2bzNpcHJrWVhnTm83WWFqaVJBdHdHWnpQOGtPSS1VZEtONVAwOHV5RmtBODlsYVdHYndWSm5KMFNjalpfc2dpa053?oc=5",
+      "date": "Wed, 07 Oct 2026 20:03:00 GMT"
+    },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
@@ -83,11 +88,6 @@
       "title": "交通検問で酒気帯び運転が発覚 スリランカ国籍の専門学生の男を道交法違反で現行犯逮捕 運転免許を持っていなかった可能性も《新潟》（2026年5月22日掲載）｜TeNY NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtMFhBX2cwYUtRN0w4UGp4dzhqWmNpUndsOFZYRGg1ZXptY2JTOV9Pc1prbzJrOEN5Z25zLVgyT3hKQWVyZkNnalJ3Y3VHdEQzSUQ2OHE4Sl9wR3h4dUR5R1BVN2ZtNWdEUXU5OG9sQk04aElwdkgtQXhNNUVaTWM?oc=5",
       "date": "Fri, 22 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「事故のない連休に」新潟バイパスで早朝の一斉取り締まり、速度超過や携帯使用を摘発",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53V19ZNWFUNUhiZTVQRXVGNjVwTk8yVkVPanhoamwyZ014aXJtVF9CMHNLeGlweWRqMkRCZ3hXbFZjYU95NUoyX3ZRekw2b2RzN01oWWxCLVRoN0NSd0E?oc=5",
-      "date": "Sat, 02 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Thu, 01 Oct 2026 03:10:42 GMT"
     },
     {
-      "title": "交通事故は「ご麺（ごめん）」そうめん食べて気を付けて 新潟中央署員らが乾麺配布、早めのライト呼び掛け",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Q1M5TGc2R3ZBNDRaa2UyTm16ZEUwS25MUXppbkpoZ3g1Tmd1cm0waEwwdmZYU2Y4N3d5S0VMc1AyS2wxUW5USUxHQQ?oc=5",
-      "date": "Wed, 07 Oct 2026 07:30:00 GMT"
-    },
-    {
       "title": "関越トンネル内の事故想定した合同訓練 警察・消防などが連携確認「非常に有意義だった」新潟",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42YmNtdldwNFFRcm0zdHJzTGdILUpmVFFOZjZ5dHpMamQ0eHRlRFhSTXB2cTJJMmxkOHR5Tmtfbi1wQ0pQbnNPOTQ3SUJkTER6bXVfenNXM1prS0NaNENV?oc=5",
       "date": "Tue, 06 Oct 2026 12:17:52 GMT"
+    },
+    {
+      "title": "交通事故は「ご麺（ごめん）」そうめん食べて気を付けて 新潟中央署員らが乾麺配布、早めのライト呼び掛け",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Q1M5TGc2R3ZBNDRaa2UyTm16ZEUwS25MUXppbkpoZ3g1Tmd1cm0waEwwdmZYU2Y4N3d5S0VMc1AyS2wxUW5USUxHQQ?oc=5",
+      "date": "Wed, 07 Oct 2026 07:30:00 GMT"
     },
     {
       "title": "【続報】死因が判明、五泉市の交通死亡事故",
