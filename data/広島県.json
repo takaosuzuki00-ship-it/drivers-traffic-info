@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-10-09T00:03:03.247898",
+  "generated_at": "2026-10-09T03:02:43.710091",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 17.5,
-    "temp_max": 27.2,
-    "temp_min": 16.9,
+    "temp_now": 16.7,
+    "temp_max": 27.7,
+    "temp_min": 16.6,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 6.5,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.5,
+        "temp": 17.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.0,
+        "temp": 16.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.9,
+        "temp": 16.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.9,
-        "weather": "快晴",
+        "temp": 20.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.1,
-        "weather": "晴れ",
+        "temp": 26.2,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 27.0,
-        "weather": "晴れ",
+        "temp": 27.3,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 24.3,
+        "temp": 24.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 22.5,
-        "weather": "晴れ",
+        "temp": 22.0,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
       "title": "10月8日（木）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyZzdGUnRfVVQ0cjNUTDNYUFF5TjRkblk5a3FubkxzUzBFVVkwVWYwYTJMZENtUUVYeXFmWmhHQzQtRlhmT1ZuS0otLVZjaHJlSXdJbGo4WGhvY003dmh0SzFqeWhCS29VVFpJUmVOTdIBdEFVX3lxTE9HVy13LXprbnMtYnpOQ3JEUDFSeklua2N6R3pCTG5lV3lfaDlBWEdnRWpmdWhPaWlPeUZJMjlvYTlXWWRNaWMxeU0yZnB0YTVBN3FzR3NuNG1jcGhITGxsSHg5b3RRM3JMb1R5TjZDSzU0VTdX?oc=5",
       "date": "Wed, 07 Oct 2026 20:08:02 GMT"
+    },
+    {
+      "title": "竹原警察署 令和８年２月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLThqWjNpUTgtVUFEbHNuOGRuU3EycG1JRHp4TW83dVdUZHREX3lSQTF4QklhS0FfMmlEaTVlSk5kN0dXRmh1WkNzS0FPTmxnOVk0czR2TmJDNmJsdTNhZVJUckpKdXdiQzlVdXlsSmdOdDVOQlIwU3RsOWx5bzRXTUFxSQ?oc=5",
+      "date": "Mon, 02 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "１０月７日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -75,19 +85,9 @@
       "date": "Tue, 06 Oct 2026 20:00:00 GMT"
     },
     {
-      "title": "10月7日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54LV9lWnlRcEVJcnNGZlphWjdibi1rWHZ0RGxHQ0xHZUFrLUNhQVVULUVQbjVWSUxheEZXdjAtamd2YkItVGhhUkUxRGdnTzcydTNkcDlFbXhiM0NieTVSZUZvVzI4Q3RSbWVkVWx5Z9IBdEFVX3lxTE8yeXQtWGNLMlZZVjFNcC16M0RsY0ZXNG5yam5PRnQ5YnpZV3hYbUFyUWM0QzM5dG5ieTktTTVhRWk2OHkzY1dYWmdtUXZub3BlXzVITWd5OTh6bWF0QVRsbnFZbEFMRGlNZnhSU0ZkSkpsQUIx?oc=5",
-      "date": "Tue, 06 Oct 2026 20:02:00 GMT"
-    },
-    {
       "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年、五日市港などで検問強化",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JbU9LNVd5WUg1ZHdXR1RYRi1jb1Q2WFhRN3hIZnNSWDByTGw4WDI5N29NMl9KNVVyb0p2THZaTnBIaEl5dE8wTVlTZjAyTm1HSnFTZFlYaEFUQQ?oc=5",
       "date": "Sat, 01 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年（中国新聞デジタル）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbkVTaDFVYWpxc0NscHNPVHdlTmxST3pOaVZXMGNQSVVxb0JWRVktaTBhc1dqdHUyODRZczc1a1p2b3d3SXBMeTY4ZDk5ZERialpzXzdTR3FuWnctUEd5TEdhOV9aYm5Cek5IMm94ckc1ejlDT011NjcxM0J5QVU?oc=5",
-      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
