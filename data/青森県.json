@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-10-09T15:17:07.773157",
+  "generated_at": "2026-10-09T18:00:53.685283",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 18.4,
+    "temp_max": 22.8,
+    "temp_min": 14.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 22.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "サッカーJ2「ヴァンラーレ八戸」の元役員が酒気帯び運転で摘発 会見で下平賢吾 社長が元役員のコンプライアンス違反について説明 「私の監督責任」と陳謝",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NWms0QzdnREhjNFdDay14dmJIeE8wZnd1WHk0WXhrUGl6dkF3bmRJS3pMdlYzUEExNWFGc1FKNWZxRENnVXVOM0ZYd1lCZmtaQTl6YS1KM09iSDZQWHJhc1dWSzgtNjQ?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「『キー!、ボン!』と音が…」県道で女性が車にはねられてけが 頭から出血 警察が事故原因を調べる 青森市荒川（ＡＴＶ青森テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03TDFtY0o3TEdvdnNjTXpZaGlUZjZVaGFjbVA4Sko2b2J4UXl3ektGV3p2TUxMSUZQWmI0c2dlVlg3alNLV1FwS2FqNm5UOVp4SE1XMW0zYjFIWG96Rk8yUE84MkxIc29wcDFCdk1CcXl0RG5EQ1l2akh6T2dfNVE?oc=5",
+      "date": "Tue, 06 Oct 2026 12:47:14 GMT"
+    },
+    {
+      "title": "大手生命保険会社から青森県交通安全協会に寄付金 交通事故の抑止に役立ててもらおうと 青森県",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqT094S3pNWE4wUWo3VVp5X3BaeUJCcFppdmxDRGFISnZDNmVDQm10QTdtalhmdWRiWGVaMkt4OWtmWGNOMUVtZ0EyOEVmYU9VRWxYVF9aUQ?oc=5",
+      "date": "Mon, 05 Oct 2026 12:27:00 GMT"
+    },
+    {
+      "title": "弘前の交差点で信号機なぎ倒す事故｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56bmw2aGtGZElYdWRmSEVheTByRmVnd2NvNFp4aVhvNVhXR0RGemdienRRQ3BFQ3V5RGtmanVmNW85VmNsaVlfamJ2VWtGbnU0VEprT1lSN2c?oc=5",
+      "date": "Sat, 03 Oct 2026 09:05:00 GMT"
+    },
+    {
+      "title": "勤務中に交通事故、申告せず 道交法違反容疑、男性警部を書類送検／青森県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kYmw5SmlORklrYXgyajJlemFtbEFGNDRURjRPd2NIT0hsTEVEazFXT0ZILUhNb1BMLUc5OHFGODNXOVVZbXRPejNmanFsdWxYbUVieTZjRmluVk53LVZSZFJ2amlnTVU?oc=5",
+      "date": "Thu, 08 Oct 2026 14:06:40 GMT"
+    },
+    {
+      "title": "青森・新郷村で伐採作業中 倒れてきた木の下敷きに 68歳男性が死亡（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TSmFTaTJJNEZNMTRkM3pQekVfdTczZ2hOdW5ZRE5kUFprQk11VzhVT2FHMWhRMG5DZk5XSWhmRlB1VV9ZZXNWWDh6VmFqbEtCVXpsTGlGbHhEcEQyVjhsVmo2NG5NalBRaXFVaFZfOFN2RDBjV3JDYmhzUUNSTnc?oc=5",
+      "date": "Thu, 08 Oct 2026 10:39:13 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",
