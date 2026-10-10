@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-10T00:03:41.550350",
+  "generated_at": "2026-10-10T22:31:28.887748",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 22.4,
-    "temp_max": 26.8,
-    "temp_min": 21.2,
-    "precip_prob_max": 23,
-    "precip_sum": 0.3,
-    "wind_speed": 4.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 21.7,
+    "temp_max": 25.0,
+    "temp_min": 21.4,
+    "precip_prob_max": 39,
+    "precip_sum": 1.1,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 22.4,
+        "temp": 22.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 22.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 8
       },
       {
         "time": "06:00",
-        "temp": 21.5,
+        "temp": 21.9,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 27
       },
       {
         "time": "09:00",
-        "temp": 23.2,
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 23.9,
         "weather": "弱い霧雨",
         "precip_prob": 12
       },
       {
-        "time": "12:00",
-        "temp": 26.6,
-        "weather": "晴れ",
-        "precip_prob": 22
-      },
-      {
         "time": "15:00",
-        "temp": 26.6,
-        "weather": "晴れ",
-        "precip_prob": 22
+        "temp": 22.7,
+        "weather": "霧雨",
+        "precip_prob": 29
       },
       {
         "time": "18:00",
-        "temp": 24.6,
-        "weather": "晴れ",
-        "precip_prob": 10
+        "temp": 22.3,
+        "weather": "曇り",
+        "precip_prob": 24
       },
       {
         "time": "21:00",
-        "temp": 22.9,
+        "temp": 22.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "precip_prob": 10
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "10月10日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWhBbXhIaGltLTk2ODhza3l4UFI1Mm5XaHVxNzRYVTBPZFNsTjNxWWVTSDIzOFEyaDNWTl83QUQtRGdpYUZYMHhRTW5Ja1c5SUVhRUgyUnROVnRFbEl2R2plTnlGcW4zbXlnaWFETzRUMU1HRF9VSjJQWTdXVWdfQ0FDNGZ3QXBpdEtNWlpB?oc=5",
+      "date": "Fri, 09 Oct 2026 20:49:22 GMT"
+    },
+    {
+      "title": "10月7日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nLXNjaUNFVG9BUE5UWFUxQnBSMkFaSWgtQldHc1l4YlBGeXlic0xPSncxRmk0bGdpaUZVUmZJY2ljb1VWc2c1WmlXVmJ4elMxZnljRFJWUQ?oc=5",
+      "date": "Tue, 06 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月10日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUzllVzNjc1ZVMnVucC1YRnFkUElyMVlOU3NoRk5fT2xuMThxUTZQWk5GcFEtN05yN0k1WkxqSi1rVXNacGJQSmdUR3JMdUtsc2dQRjlxeUpZeVZTMElFc2gtc2xsWVZmR3BIRzVuT2U1SllF0gF0QVVfeXFMTl9TOWVXM2NzVlUydW5wLVhGcWRQSXIxWU5Tc2hGTl9PbG4xOHFRNlBaTkZwUS03TnI3STVaTGpKLWtVc1pwYlBKZ1RHckx1S2xzZ1BGOXF5Sll5VlMwSUVzaC1zbGxZVmZHcEhHNW5PZTVKWUU?oc=5",
+      "date": "Fri, 09 Oct 2026 20:02:00 GMT"
+    },
+    {
       "title": "10月9日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数（RKK熊本放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzTVR0T1hVYkZlSk9iTE5QaFBKdVdnYm0teF9SMEZacFd0cnJINWlYRFJ5ekZ6MHVpRlJyWnJMWlBsczdtempneVdfcF83NlV4eHpOczhjZmsyek9wazlfUGk0ZTF1eXBNb1FKTnZZYkZYZEtSNGIxY2FZN3hpS1k?oc=5",
-      "date": "Thu, 08 Oct 2026 20:02:14 GMT"
-    },
-    {
-      "title": "10月9日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MX0lzYU92bFg3ZjluN0g4LTNmNVUyTDZsMVhwMnA1MEFJOFVsV2d1YVNjb0gzNUFHN3Rjdk84a3ZhZ2g2YlVGaDQweUNaUmVKcEViZ085a29QenVwMkVjYVRta2g2dTdWaV9COEVoWWtWd1Jh0gF0QVVfeXFMTkxfSXNhT3ZsWDdmOW43SDgtM2Y1VTJMNmwxWHAycDUwQUk4VWxXZ3VhU2NvSDM1QUc3dGN2TzhrdmFnaDZiVUZoNDB5Q1pSZUpwRWJnTzlrb1B6dXAyRWNhVG1raDZ1N1ZpX0I4RWhZa1Z3UmE?oc=5",
-      "date": "Thu, 08 Oct 2026 20:02:00 GMT"
-    },
-    {
-      "title": "10月5日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSHFTY3NNM1NmT0M5aHgtbkpVcVljM2M3SzJLTWFUMGF5TkFBUnJNeWVEUlRfUVlkeFhpTG5UQjBxZnVGWlF4dkxaRzljYjlUM0Q0bTFka2xlQQ?oc=5",
-      "date": "Sun, 04 Oct 2026 20:02:00 GMT"
-    },
-    {
-      "title": "10月9日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数 (RKK熊本放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXRFWV9PYTROZDdicW50UXJzQ3hXTHRHdVF1S2VhSGFmbGI5bGE0UE5wTGJGa094UEFGNFh5OHJNR0Rza1BHYUxNZEpObXZHZkJUQXpzTjdpNUlYMk5MT1pWMXRaVmF3MC1KaEpJYVI2ZzVsMk5QYnQ1MFU4cGFzdTNWWlIwQVVaZWY2SWNR?oc=5",
       "date": "Thu, 08 Oct 2026 20:02:14 GMT"
     },
     {
@@ -92,9 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "【速報】九州自動車道で車4台絡む事故 八代IC－人吉IC間上下線で通行止め（熊本ニュース KAB ONLINE）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14TTVlSjVEbkhBbkItWmtyZGtfWFpVN1FZdzJqNXRLTjRsU2wwM210a3JzRF9ta3hyR2kxbWIxVHVvVDU2MFVXQzdWUWJDRnNCWjFPSnY2U3RPN1dfX0ZkOTFlVm9oeXAxelVZM3o1Y3I3N0VreWVVOEQ3R3YxME0?oc=5",
-      "date": "Fri, 09 Oct 2026 08:32:41 GMT"
+      "title": "軽自動車同士が衝突 女性１人が死亡【熊本】（TKUテレビ熊本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhU0lZQTdtSW9YQnJicWJMR05jaDYyZm1uZXJMVURfMTlpdHJTbFl3dGx3cUlZUTdIVDJ5T0RTVmhISWQ0bUlGbU9Sck1OUVdmWnFnMjdCcU8xOG1zR3dfLVZreExSQzV3MnhzMEdqMXdxdHc2QXJJYWlCbUNXR0k?oc=5",
+      "date": "Thu, 08 Oct 2026 11:06:01 GMT"
+    },
+    {
+      "title": "軽自動車が正面衝突 運転していた76歳女性死亡 熊本市南区の直線道路（2026年10月8日掲載）｜KKT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOamEwczhkVFNuLXQwMHR5a1FFSVJzU2ZrZTd2QXVqV0RNY3ZXaWdEUTZLUlZXODVSM3Brb0tNWExaYXg0TXZORHVBeVoxdnNQc0cxQ0U3c2Z6NjBMTnFOYUx5MmtxZUJjWlRRdk1XZEJOanYtWFNOeWVuaGVMVTVjY3ZrVHJkdjQ?oc=5",
+      "date": "Thu, 08 Oct 2026 09:52:00 GMT"
+    },
+    {
+      "title": "熊本市南区で軽自動車どうしの衝突事故 76歳の女性1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FY2xrUFhuYmtnQVZzcjJDX253ZVdHTmVScjNiOGdlbmVJdVBiYU1ITGRpaEZjYkl3UUFhMmlEaHJaMFhrOUNtcXJwc1BZU19YUUpuc21Od01qa3dXOHJB?oc=5",
+      "date": "Thu, 08 Oct 2026 09:06:00 GMT"
     },
     {
       "title": "【速報】九州道八代－人吉IC間上下線、事故で通行止め",
@@ -102,19 +112,9 @@
       "date": "Fri, 09 Oct 2026 08:23:32 GMT"
     },
     {
-      "title": "【速報】九州自動車道で交通事故　八代IC−人吉IC間上下線で通行止め",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxMGhwX0dxbnVNNHV0UlNHU0VheGZ1aG9iSGVtalZfSW9nSXBhelF5YVM4MWhydThuN1AtSG9oYW96dlRPSUhROFNoV0VVOW1JbVY1VHV1STVfcVlDQy1FTmhjWHphTG45SGFsRFFnZEdIMElwTFHSAXZBVV95cUxQcTBocF9HcW51TTR1dFJTR1NFYXhmdWhvYkhlbWpWX0lvZ0lwYXpReWFTODFocnU4bjdQLUhvaGFvenZUT0lIUThTaFdFVTltSW1WNVR1dUk1X3FZQ0MtRU5oY1h6YUxuOUhhbERRZ2RHSDBJcExR?oc=5",
-      "date": "Fri, 09 Oct 2026 08:32:00 GMT"
-    },
-    {
-      "title": "熊本市の県道で軽乗用車同士が衝突する事故 70代女性が死亡（6）",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWxMUkxvYXVrU2ZOZVBqemVhUEp2NjlwaVowaHBLczVqSWU2dVlyMmUwN2I2TzRvRXhyWXpWRTY2NDhoOHJmUE9NNk1NTWk0ZHNmRHltSUxuMk5TalVRTnh3?oc=5",
-      "date": "Fri, 09 Oct 2026 06:42:24 GMT"
-    },
-    {
-      "title": "【速報】九州道八代－人吉IC間上下線、事故で通行止め",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53ZmxzRGlxWWU5QldSbzZYaHlGLXQxRjZvYWhaMDYxcUdzSzZxZllmSWxSTXJDYjRnOFQ2QjJhbFhQU1N1d3pKYVV2cw?oc=5",
-      "date": "Fri, 09 Oct 2026 08:23:32 GMT"
+      "title": "熊本市の県道で軽乗用車同士が衝突する事故 70代女性が死亡（1）",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMc1d0VTdmNmNPanFldEhrRW5sQVJVa01WWnFDWndfMG80bmFhaVVqc2dBWk05Y0ZCNUFCaGdzd2JnTGFZQXZybUhaUlFoQUNreHpaOEc0QlNES2FoSFMtMk1n?oc=5",
+      "date": "Fri, 09 Oct 2026 06:42:14 GMT"
     }
   ],
   "official_links": [
