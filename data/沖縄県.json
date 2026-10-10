@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-10T22:31:54.119844",
+  "generated_at": "2026-10-11T00:07:06.448481",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 25.5,
-    "temp_max": 29.5,
-    "temp_min": 25.0,
-    "precip_prob_max": 26,
-    "precip_sum": 0.1,
-    "wind_speed": 5.3,
+    "code": 81,
+    "weather": "強いにわか雨",
+    "temp_now": 25.4,
+    "temp_max": 28.0,
+    "temp_min": 23.0,
+    "precip_prob_max": 94,
+    "precip_sum": 7.4,
+    "wind_speed": 3.5,
     "hourly": [
       {
         "time": "00:00",
         "temp": 25.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "weather": "弱い霧雨",
+        "precip_prob": 29
       },
       {
         "time": "03:00",
-        "temp": 25.1,
+        "temp": 24.5,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 35
       },
       {
         "time": "06:00",
-        "temp": 25.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 24.7,
+        "weather": "晴れ",
+        "precip_prob": 37
       },
       {
         "time": "09:00",
-        "temp": 28.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 23.0,
+        "weather": "強いにわか雨",
+        "precip_prob": 59
       },
       {
         "time": "12:00",
-        "temp": 29.1,
-        "weather": "晴れ",
-        "precip_prob": 12
+        "temp": 28.0,
+        "weather": "曇り",
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 29.5,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 27.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
       },
       {
         "time": "18:00",
-        "temp": 27.6,
-        "weather": "晴れ",
-        "precip_prob": 22
+        "temp": 26.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
       },
       {
         "time": "21:00",
-        "temp": 26.1,
-        "weather": "曇り",
-        "precip_prob": 4
+        "temp": 25.9,
+        "weather": "快晴",
+        "precip_prob": 57
       }
     ]
   },
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
+      "title": "軽自動車が街路樹に衝突炎上、車内から遺体 中城の県道29号 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMQm4wa3RBOWw1SWRGc2lSTG5mWnA2RFlxc1djUDJ1dW9RY2VQanhPa293a2Y0VHZfRzlFOVVIX0czUjRLYkVxRERISHBYQlV3UWJmNmszdnA1VG8taVJvcUpqREhkT3JCSGhUTGtGMUhfaXNsbi10bWZMS1MwaG8?oc=5",
+      "date": "Fri, 09 Oct 2026 03:50:56 GMT"
+    },
+    {
       "title": "軽自動車が街路樹に衝突炎上、車内から遺体 中城の県道29号 沖縄",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGRWVBTmd3c1h1dTUtbnhBcGJ3ZDJCdjBvY1poVG1rNkoxT2M3ejNDTEkxR3hsMW9EM2xsRUQ5MVZ0WTZCVVVqVjVLWmNXQU9qQ2c3YnhUdzR3YlRxd3hHSg?oc=5",
       "date": "Thu, 08 Oct 2026 20:00:00 GMT"
-    },
-    {
-      "title": "中城村で軽自動車が街路樹に衝突し炎上 運転席から身元不明の遺体",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzSGlZRWxqVnV6VXBHcS1UQk9CVHZVT3Y1eXZLTG44bVRZbktfdE1FaU9DRFQ0YVBjMXA1S21KdkFGbFlMZjZnODVmN3dUeTZLTlBTVk5xVGlkNTh5VkE?oc=5",
-      "date": "Thu, 08 Oct 2026 08:22:00 GMT"
     },
     {
       "title": "「意識の無い女性が発見された」那覇市内のホテルで死亡した女性見つかる 事件に巻き込まれた可能性も 沖縄",
@@ -107,9 +107,9 @@
       "date": "Sat, 03 Oct 2026 07:29:20 GMT"
     },
     {
-      "title": "バイク同士が交差点で衝突 82歳の男性が死亡、27歳男性軽傷 那覇市の県道82号線（RBC琉球放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUb2NqMm5YOVJtTXBVM2wxT2hYUGozMmJNTXd4N3FmMFdSM0FmVU1XVkFnYVZhaTQyejhSQWZKSmtFckxlRHNkcjJzaUdacU1ITFNDYlBIQldrY1BkRU5WRXpLQ2hGNFlKTzJzY1BiNjJQUHFOcnc5SGVOc192QXM?oc=5",
-      "date": "Tue, 06 Oct 2026 02:26:16 GMT"
+      "title": "バイク同士衝突 80代男性が死亡 那覇・沖縄 (琉球新報)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHpwb0c2ZWYzRm9HSWZEWFNxZFcwYk1hR1NkSmJKclduLTN2VXBJRERGNWZEUkZqRXlaZkJhaW03NTMxS1FIWGRlQ05XbHB2Z3pYUWJrc0tvMlFURGVwNmVqUm14bDRScW5yRFl5amNtOTdpTW1VcmFIellnYnRCaXFFOFFlTWl3eEdIbjVB?oc=5",
+      "date": "Wed, 07 Oct 2026 00:51:22 GMT"
     },
     {
       "title": "沖縄・宜野湾の集合住宅で女性が死亡 ストーカー被害で県警が捜査中 [沖縄県]",
