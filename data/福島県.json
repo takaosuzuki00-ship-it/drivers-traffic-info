@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-11T03:01:23.940807",
+  "generated_at": "2026-10-11T06:01:24.851894",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 14.6,
-    "temp_max": 25.9,
-    "temp_min": 13.8,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.3,
+    "temp_max": 26.1,
+    "temp_min": 14.3,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 3.6,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.9,
-        "weather": "晴れ",
+        "temp": 16.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.6,
-        "weather": "快晴",
+        "temp": 15.8,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.8,
+        "temp": 14.3,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -39,36 +39,31 @@
       },
       {
         "time": "12:00",
-        "temp": 24.7,
+        "temp": 25.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 25.5,
+        "temp": 25.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 21.0,
+        "temp": 20.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.8,
+        "temp": 18.4,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "10月7日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nLXNjaUNFVG9BUE5UWFUxQnBSMkFaSWgtQldHc1l4YlBGeXlic0xPSncxRmk0bGdpaUZVUmZJY2ljb1VWc2c1WmlXVmJ4elMxZnljRFJWUQ?oc=5",
-      "date": "Tue, 06 Oct 2026 20:02:00 GMT"
-    },
     {
       "title": "10月10日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTVG9kbERLeTNiSWRMdWpUblZpS3NJUHRqVzRxQU9XT0ZLQjRoM2lCNi1IWExVWjY3aEFYdzhPdEhoZU01M2ZJUVdYd2t4elVJN0pkM1hTSGoyYlZPWm1iN2ZyekZ6Slpob1RXZXhCY9IBdEFVX3lxTE5fUzllVzNjc1ZVMnVucC1YRnFkUElyMVlOU3NoRk5fT2xuMThxUTZQWk5GcFEtN05yN0k1WkxqSi1rVXNacGJQSmdUR3JMdUtsc2dQRjlxeUpZeVZTMElFc2gtc2xsWVZmR3BIRzVuT2U1SllF?oc=5",
@@ -78,6 +73,11 @@
       "title": "１０月１０日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40VXRsR0FwWklVRVFmeDI5WmJSTXlYUVFPRmg4bjNHazlHLW11Vmg2QTQ5aEpoQTYzS0NCX1FmSno5TDhRSVBtWUk5WGNFc1BXdGdsZndqSGEzR2pUUGM5LWprNU1TMVVTR0NyMVhn?oc=5",
       "date": "Fri, 09 Oct 2026 20:03:00 GMT"
+    },
+    {
+      "title": "10月4日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuTUs4MTEzSENCX0wxMlM3T0lCcWx1Q0RrekVrVW9QZzRPMzlGY1lMV3k0LVU5emlQanVvZ3FMY1Z2TkdySzZLc1JWSUxidWRjdWtQV2V3bw?oc=5",
+      "date": "Sat, 03 Oct 2026 20:02:00 GMT"
     },
     {
       "title": "松明通りで夜間検問実施 須賀川署",
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "交通事故防止へ 事故多発の危険箇所で現地調査 警察や県の担当者に地域住民も参加 福島（福島テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nN1dLT0R6YS11T0FLOGNsUGdhMlVNSS1jS1FtVlZPRE9vWDlpX09aRjNVTkI0R3FpRV92OWZQUWVJSVJWTzNPeENaMExYb1RVeE9TdDVFcm1HMHg2b0l3UG5pdG8zRU12NFZ1NWNIOGFXWXRUdHB2a3dvVmZOb0k?oc=5",
-      "date": "Thu, 08 Oct 2026 10:20:02 GMT"
+      "title": "覚醒剤使用疑いで男逮捕 交通事故起こし発覚 福島・いわき（福島民友新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RbnY5VjdxeE01YjllRXFSQnR6TzZzQmtOSHpkeV90eTl2YVBmR3U5WDJ3OTFOVWZxN3VQVU90MkFESktKR2x0UURJRU5McERyNmgzUnpaMjBHemNnXy1rdG5lT3lWTWRFOHZ3TWx3ZUtUNjRGN0JvSVBmNTRmNEE?oc=5",
+      "date": "Thu, 08 Oct 2026 23:39:52 GMT"
     },
     {
       "title": "交通事故防止へ 事故多発の危険箇所で現地調査 警察や県の担当者に地域住民も参加 福島：ニュース",
