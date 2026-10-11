@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-10-11T21:04:26.795481",
+  "generated_at": "2026-10-12T00:04:47.151955",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 21.8,
-    "temp_max": 26.8,
-    "temp_min": 16.7,
-    "precip_prob_max": 0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.2,
+    "temp_max": 25.9,
+    "temp_min": 18.3,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 4.6,
+    "wind_speed": 2.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.3,
-        "weather": "快晴",
+        "temp": 20.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 17.2,
-        "weather": "快晴",
+        "temp": 19.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 16.7,
+        "temp": 18.3,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 21.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 25.7,
-        "weather": "晴れ",
+        "temp": 24.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 26.8,
+        "temp": 25.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 23.8,
-        "weather": "快晴",
+        "temp": 23.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 21.8,
-        "weather": "晴れ",
+        "temp": 20.6,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "10月7日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmT05fRlJOVkdLUllrQWZsM01qMWNBMmFIZThsZDd6bVdIaWd4aVc4SFRIOUx1cFF3cHdobWtQSnpvTllUckFLUzJ5enNXS1VERkVWZi1PSDVQRXMtUzNwckJyejY5N2hZYktBMUt3?oc=5",
+      "date": "Tue, 06 Oct 2026 20:04:00 GMT"
+    },
     {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
@@ -88,12 +93,7 @@
   "accident_news": [
     {
       "title": "「捕まるほど残っていないと…」酒酔い運転で交通事故か 危険運転致傷容疑で団体職員の男(30)を現行犯逮捕 岡山",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSkU0Wl9XUWhnOGZTRVRuTnJkWG9YY0lCemkzMVdGVWZQZEtYTUtYYzdmRXZ4S0FoZVVNNVdVaDgyWWljUVBQZlJPRzh2Nl9zX0pueldMYmZsejQ2NVZ6aDF2YTJxMFk0X01WNVJta1dmVDZNZ21pOW5OX2c3STA?oc=5",
-      "date": "Sun, 11 Oct 2026 10:41:13 GMT"
-    },
-    {
-      "title": "「捕まるほど残っていないと…」酒酔い運転で交通事故か　危険運転致傷容疑で団体職員の男(30)を現行犯逮捕 岡山",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVEluOVdtOFdLc0txS3lhQUxnMXhzMkhRSGd6MnVsaXBPOTl1N2Z3RXd1NE43TkM4SE80RVlSRU1QQVZXZG9yRTBGTk9BRUI4MVVvdmlLVTNKU1ZJTXVOTnZVZ3lnNnpyaEdlZVpJWnp3c182ZFI0anozX0szV2FaTDdob0JIaTN1T21qVFAtaFhaejRySGgwRXZQLXg4Zk90WFFXaWtHTFJPaDc3UVNnZDdLaWNTVGJnMmJzOF9yVVBNTm1MMHfSAXZBVV95cUxPNUpNRGJpeVlzVTVWa3FJbnM2dXp4ZlVfc0FRcXBja0FDUDk3M0R4cHN1MEtXYkNXRW5EMGFzdFBMakpHN1RiS2ZxYjBGaDk1SXphb2t3SUx2VEtHT3V6V2ZjSjRLT2s4ZEhfY2N4WUhUckRRVzdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXdmwxVVZUZUQtbnlLNGJQZDJFQkFlM0dIX1h1MTJiNzFPd05ORkRwOWdXX1owVWhQUjRyZm9rRGkxSFQxZ2FjMDdGRDFURE9X?oc=5",
       "date": "Sun, 11 Oct 2026 10:41:00 GMT"
     },
     {
@@ -107,9 +107,14 @@
       "date": "Thu, 08 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "軽自動車同士の事故を起こした後に現場から逃走か ひき逃げなどの疑いで男を逮捕 岡山",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wREVXSmNpVlBvSUNEQklFQzhLQXFkaXlhdzg0NlZCVlRxdy11V2JzSjc0Y0RzVVNXcnZvSnBOZVB3MW5BbzJueVZieDRwTFlB?oc=5",
-      "date": "Sun, 27 Sep 2026 07:00:00 GMT"
+      "title": "岡山市の国道250号でひき逃げ　自転車の大学生がけが",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96OWFmUVV0MkJxc1MwTTExN281cVZzdklrS1dvLW4tbkx1OGZOSDZ5eW5iX3lNbW1zM3Y3Y0ZudndyT19iZkhicHFFSFpfa3Fld01kTTFiSzI4eHJINzVTZVBvMWpuQ0JDTlFKb25ORHPSAXZBVV95cUxPZHY0R0M0ZU12enZLVmp4MkxvN1hOMUhZeWlxWFBJQlhpOTh2aUpiQ2pFZFZTcHdtTVZVWG5sOGJNWEI2Z0hON3ZfV3hlcm8wTzVQRlluY1E1VmhMNGlScGMwVWpNbVhmYlM3a2NQUUkyMnMwTG9B?oc=5",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山県警の松林本部長、匿流・交通事故対策「課題が山積」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LOFNxOEVWbUJiemZQd2lIei1PWVBXYUY0T2RmOFVja3MzaktiMWtxQWRLMWxNR2VsMFNrZ2pvcmFKU3RxQk5aTldULWlaLVpQdlVmYmFoYkd4Zw?oc=5",
+      "date": "Mon, 24 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

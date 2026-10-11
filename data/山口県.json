@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-10-11T21:04:35.637431",
+  "generated_at": "2026-10-12T00:05:06.438584",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 21.4,
-    "temp_max": 26.9,
-    "temp_min": 18.8,
-    "precip_prob_max": 9,
+    "temp_now": 20.5,
+    "temp_max": 25.9,
+    "temp_min": 19.7,
+    "precip_prob_max": 19,
     "precip_sum": 0,
-    "wind_speed": 3.3,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 19.8,
+        "temp": 20.5,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 8
       },
       {
         "time": "03:00",
-        "temp": 19.4,
+        "temp": 20.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 16
       },
       {
         "time": "06:00",
-        "temp": 18.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 19.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
       },
       {
         "time": "09:00",
-        "temp": 22.8,
+        "temp": 22.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "12:00",
-        "temp": 26.3,
-        "weather": "快晴",
-        "precip_prob": 8
-      },
-      {
         "time": "15:00",
-        "temp": 26.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 25.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 22.6,
+        "temp": 22.5,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 21.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "10月6日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TT0RXSERLRzV2N005QnlPV25iVmtrNXk2UkU2VG1BTGtMdDltM1NWMEV6Z3VZQ2g5a01STjBHVVN2TlJ5WkNpMFVLWjdWclR5UWpJSXN2YS1NSDc1TUdzdkVYTVBheWJoLU5JWHc0Z9IBdEFVX3lxTE5GQnhFZGNxMTBVM1V0ZTVsN0Q3UTRfbG9oZk5Pd3dfeFp6Z1FYYUJSMkNoSUhqbGZNRkNaWlVUT2NyQXdVVDk3OFpHTGtMNnpMY3gxWk9ZN0ZXTlJDcUNHcTVXM09YMTFfYUk3dGc1UlA2ejFI?oc=5",
-      "date": "Mon, 05 Oct 2026 20:00:00 GMT"
-    },
     {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
@@ -88,6 +83,11 @@
       "title": "道路法第47条第2項違反者（重量超過車両）の告発について",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
       "date": "Mon, 17 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "通行禁止違反、スピード違反…全国一斉取り締まり日に山口県内で８５件摘発",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTVZEcXR0SE1tQlB6UlBXVUlXTTA1d3AteENqZldyY2tXQ2NkaXhiY1Brd3JWdGlRay1UNlVPR3VKZ1EzSDJrdnJpYmpiMFdGSllJOUlnUk1GNlZZTEZnQXNNVG5lZw?oc=5",
+      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,11 +102,6 @@
       "date": "Tue, 06 Oct 2026 02:48:00 GMT"
     },
     {
-      "title": "運転に集中を 死亡事故の現場近くで呼びかけ 山口",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUkJoWFJpYUtyUjVKb2RHRHhqbzVfQzJNY0pPUTE0dTRKMzNEMHhuUjRZNlcyMHJDeG1UZDVabkdHQ3BESTl2VWFhS0x4bnI5S0dZNDVoVUtZVGJCZmZR?oc=5",
-      "date": "Thu, 08 Oct 2026 03:26:00 GMT"
-    },
-    {
       "title": "【先行】山口の４人死傷事故現場で交通安全呼びかけ/山口南署「運転に集中を」",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82eDZ2YlR4WDFMdk9XQ2M1QjFDVDFIYmRWcW9URHZLM3BDYkZUc3RZaER3cGJCMTB1UGhVY0poSWpwNGNaWkl6X3VzQlBuanNPMzluLUpLcDhQdDlLaEp4R0VKMmxKTXpZVHc?oc=5",
       "date": "Thu, 08 Oct 2026 08:00:00 GMT"
@@ -115,6 +110,11 @@
       "title": "山口県の交通事故で上半期２１人死亡、過去５年で最多…車線のはみ出し事故が目立ち脇見運転に注意呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FZ3dqaThyTEc2VTB3ZlFVUXlFYWpyTXV0OVNCTnNadEJwdzJ0UUhpUUdqT25XX3BoUVROOEx1c2NFYXlHTi1UbnhhYjA3TjFpQWRFZDNwNVRabG9lWXpNSkwyQVgyN3FOeGZCb3d5clF3Zw?oc=5",
       "date": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "運転に集中を 死亡事故の現場近くで呼びかけ 山口",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUkJoWFJpYUtyUjVKb2RHRHhqbzVfQzJNY0pPUTE0dTRKMzNEMHhuUjRZNlcyMHJDeG1UZDVabkdHQ3BESTl2VWFhS0x4bnI5S0dZNDVoVUtZVGJCZmZR?oc=5",
+      "date": "Thu, 08 Oct 2026 03:26:00 GMT"
     }
   ],
   "official_links": [
