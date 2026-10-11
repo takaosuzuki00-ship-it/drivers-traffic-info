@@ -1,74 +1,10 @@
 {
-  "generated_at": "2026-10-12T00:04:06.445170",
+  "generated_at": "2026-10-12T03:03:32.860774",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 18.2,
-    "temp_max": 24.9,
-    "temp_min": 17.1,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 4.3,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 18.2,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 18.2,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 17.1,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 20.1,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 23.5,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 24.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 21.9,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "21:00",
-        "temp": 18.4,
-        "weather": "快晴",
-        "precip_prob": 0
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
-    {
-      "title": "「生活道路は時速30キロに」奈良県警、法改正後初の速度違反取り締まり（産経新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43alhxbWhXRmdiQnlrT1QtMWJrelljOWZMb1AxcVhjWGowVHJXdXJKVW5hb1dLT1dTWXVkY1hTb1RIeW9LbGgtMGd1ZlhfNy1aTzhSeHFnRmFuR0pneHVFV2tSSWtDQklnWmhZZ2ZoUnJxWkdVN0g3U0RuM0dpYVk?oc=5",
-      "date": "Fri, 09 Oct 2026 02:15:50 GMT"
-    },
     {
       "title": "１０月１１日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCV18tVmZXVXlrbzRmT3RhQUQ4OVBGVTRCMG1LWlZXUlFicHJSdnRzYVdKLVppYTNpb0lfLWdKeG5SQVVERDBqR1psdDdlbVdQdC00aC1Hdk1SX1ItWFRBYlJJQjRiQ3ozOTctTzBqU1dpZ9IBd0FVX3lxTE9wYV8weEx5NXZrQ0NUcTQxLUVqWHc5VWh5aTRyWGVnUk1iUkVOU0dkQzJjSUo4WFVrNnNBQW03SkV0UzR3bk5GbWFfZ29mN0hmR3Y2WVhycUpEc0M5OGRfRlpoQzNqSlB6OG5KOTRCaHByM3E2ZjVV?oc=5",
@@ -80,14 +16,19 @@
       "date": "Mon, 05 Oct 2026 20:00:00 GMT"
     },
     {
-      "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZzlMY3k5RnRqNXktTzNiMTd6NmlCM3JXb0VsTVF5emQzWWQ5TG1HNnNVZldMU0F4b2lqYmNUbFFqUmdRR0ZFbEo4dGZNOXlzbmJZSHhMUnRzWW9CdlJvTnc5aXQ4eGY2UmpzVURqY9IBdEFVX3lxTE5NNEdMRWxweTdCSms5LVVFRHlkc0xfOXhoYWxsSFJ4U0VhOG12RkZVY19YaU9RYTRaRFYyUXRFdkZXVVVaWlcxUFdhY2hiNWZZUlczd0tGdFlKek5OeXBlN2UzSnZNTzlkWUlMT2hUbFRfQl9L?oc=5",
-      "date": "Sat, 10 Oct 2026 20:08:03 GMT"
+      "title": "「生活道路は時速30キロに」奈良県警、法改正後初の速度違反取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTJYdE1VWHV2WlM0NzVZYTcxT1BrY0wwOWt1YWdyU3JLcHhSUjd3UVA3aHJfTzJNQURBLVVzRzVsS0FDOWdXUHFvNWY3SEhhR3F1YjlKcHJxc0EyRjRnUFNVVjNIN21lcFpvblRHTmNDa1liMlQ0cmFVTWczcDFydF92Zy16VVdyOGIw0gGQAUFVX3lxTE9EcFFpQmg4LTBkOWhqc3JwOVAyY2dDMVdGSm1JZVpXWjhaZ0p5aGk5V2YzNUxzTlJwQnJlNXZwa0htTW40YW5QNUpEcm96eGZ1a1NFRFZhRm5QLWlveEF1SFVBVDdUOWN1SVBObDFkVjFWTzBQLWtfLU1sX3EyM29oNFpPamVEQTRQMkRwbzI3NQ?oc=5",
+      "date": "Fri, 09 Oct 2026 02:00:00 GMT"
     },
     {
-      "title": "急カーブ続く峠道「関西の走り屋の聖地」で暴走行為 ローリング族38人を摘発 大阪府警",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yVy1QdnY4OW1adlBFSmRzX2lYTjdwbW1GR0tvOVhIbFRFcGxjRWY1U1pKZm1OUzUxRmZ3ZFFIR1VfRXdwdE55bUdpQUEtdjhVMVlxeFY0REI2R1IyTVcxMDJYak01MEN4S1Q0Q1BFdWdjTkdrM1E?oc=5",
-      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
+      "title": "１０月１０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbk81dE5kN3RZeFJqT1hLZGp4NGN4MG9BLTJ6LWF4ZHlpbDMyZy1VcjMtb3NpdllTdU04cEo0d2hGajltalJ0a0NjS2I1QXFua05Pc2ZaaVdVQVVkcjdfbF9ob1oyUGo4LUVpNlBPd2hjNEUxbU1NcThXQ05WNmdUanN6M3hoa2pBUzRxNUtNbzZ3SjV0djNreDllVG0ybnVPN0hFaC1wZGVpRlY1cHJPNTdBc1I0Y0pyWmE5OVVQaXJCQ0c5eldz0gF3QVVfeXFMUHRENFA1TUJoOWNWVFBXX0hweUg1THBUdlFRQi1iYlBGdTdVQWRQVmpYOVlQNGVnR0tuclJ0TVh2Q3MteS01ZWhpRU91UzRORDJJcWJrTVZBTFA5V2kyckp2R3FubU1YMW5RMVVyWWpYTWZwM3YyMjQ?oc=5",
+      "date": "Fri, 09 Oct 2026 20:10:19 GMT"
+    },
+    {
+      "title": "「飲酒運転は重大な犯罪」 奈良県警が年末の一斉検問 12月20日まで重点的取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RDlrTzNCM01uSGlRbjBKdWxvQVlRQnU3eUdLYXotNm8tN0g0VUhRd09uZ3NVcVRnelJXWWVFYll5U1p2VXVUOG11TVZ6N005eDBpZDhOcDhnYjlRTURXZDBqQ3IyZEsybktrNktzcEhhZ01UZ3c?oc=5",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
