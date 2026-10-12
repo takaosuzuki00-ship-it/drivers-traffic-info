@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-12T21:01:06.645255",
+  "generated_at": "2026-10-13T00:01:10.066512",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 17.0,
-    "temp_max": 20.9,
-    "temp_min": 15.8,
-    "precip_prob_max": 16,
-    "precip_sum": 0,
-    "wind_speed": 3.3,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.7,
+    "temp_max": 21.9,
+    "temp_min": 16.3,
+    "precip_prob_max": 35,
+    "precip_sum": 0.8,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.3,
+        "temp": 16.7,
         "weather": "晴れ",
         "precip_prob": 2
       },
@@ -27,48 +27,43 @@
       },
       {
         "time": "06:00",
-        "temp": 15.9,
+        "temp": 16.3,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 19.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
       },
       {
         "time": "15:00",
-        "temp": 20.4,
+        "temp": 21.6,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 33
       },
       {
         "time": "18:00",
-        "temp": 18.3,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 10
       },
       {
         "time": "21:00",
-        "temp": 17.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "temp": 19.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 6
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SDFGMDJ3YkdMb0gwZzZRZWhTQUdJUTJQZFpkZEJNYXlDdXBpQ201LXBJOFZEOTNTZEZsUVhydVgzX3pYWGtBUmxBZFdyQ1FkMlZaeHZKbWZ3V1lBZ0xNSHNVdEZ2MUVJVHdUNUVB?oc=5",
-      "date": "Sat, 10 Oct 2026 20:22:00 GMT"
-    },
     {
       "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
@@ -88,6 +83,11 @@
       "title": "忘年会シーズン 宮城県警が一斉の飲酒検問 「飲んだらハンドル握らない」",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oRjdaUldjWjcyTHNnS1VmMUJaUENOcHNKWVZXWUhFYl9nc09sWi1MX05zY2tjN0JPdUVaZjg3VHMwTG0zbjZjS3p3X3JURG8?oc=5",
       "date": "Sat, 16 Dec 2023 09:32:16 GMT"
+    },
+    {
+      "title": "自転車の青切符制度導入から半年 宮城県内の摘発は１７５件 一時不停止が最多 人身事故は過去最少に（仙台放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMDcydjZWdlZObktXMWV0M2pTa0lfU3U3aGoyUlhpUXV4clRPSDlycXBuVWxMYWRId1B4d0RBb2x3NkFkaExzeWJZb2lmS0E5ZUFydFVBWVRubEJpNGx5VHF0X0xBMHB0SDBGMF80ZnJ4TlpWb2pDLXRlNGx5ZTg?oc=5",
+      "date": "Thu, 01 Oct 2026 10:33:01 GMT"
     }
   ],
   "accident_news": [
@@ -97,24 +97,24 @@
       "date": "Mon, 12 Oct 2026 03:02:01 GMT"
     },
     {
+      "title": "交差点で乗用車2台が衝突 4人がけが 仙台・宮城野区",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsb2JON2stb0cwdWVoZnl6SmRRdERDNW1lakVkdmpsQi1PcW56d1owYmpJcUtRMW1EMlh5c2FmTkJVMHV2Qll3bmZmaHFYb2lOc19jamdITmpJdkE0QmFfWHpYNEtENG8?oc=5",
+      "date": "Sun, 11 Oct 2026 15:21:00 GMT"
+    },
+    {
       "title": "日没が早まる秋 夕方の交通事故に注意",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWkp6MG13QnhoVzNkOVpBRmkyWGRPelVQcEhvYVUzbU5jbDhHX1l1c01KNmJ6OHFUMXBfSURCQU52bTVSYms4TFVVTFA4UzQ?oc=5",
       "date": "Tue, 06 Oct 2026 09:42:01 GMT"
     },
     {
-      "title": "車同士が衝突、ガードパイプ突き破り数メートル落下 4人ケガ 宮城・仙台市",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzQTRtbXhROXRxLWhQc1F4TmU1WjJnTnVaOEMxZmJfQU9mUjlnX04zRDhERWlNaVBwUUJtdllCNWpPaFZYYnZxbzZ1aHNHUQ?oc=5",
-      "date": "Mon, 12 Oct 2026 10:14:00 GMT"
+      "title": "宮城県内で１０月に入り交通事故多発 「午後４時ライト点灯と反射材を」 薄暮時間帯の視界悪化に注意喚起",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUnZ2NnM4LW94MHNmWDExV2FlTXlQYlNrLWpXOFRyX3VoOUo1THNRdUE4cVk5WVBIM0tVOUx6Wkl2bXlDMkc1eVdGclotdw?oc=5",
+      "date": "Fri, 09 Oct 2026 09:13:00 GMT"
     },
     {
       "title": "仙台市内で夜から未明にかけ交通事故が相次ぐ 仙台南部道路でオートバイが衝突し６９歳男性が死亡（仙台放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3M0djZHlpVWRHVHd3RkJPanc2cExjTjM4LWdTV3ZPaWRwQ2pKaUVYNVdoRHpTMHhQa1k3Vjh4aXpIN1U1UmRLcElRbGJ2MHk3eXl3a0pnRkU5NE5oMUpvazFaNXB5bkdlVlRGWEF5ZlZtUkFXLVo0RlB6RFZYeUE?oc=5",
       "date": "Fri, 09 Oct 2026 03:23:01 GMT"
-    },
-    {
-      "title": "石巻と仙台で事故 男女あわせて3人がけが 宮城",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1keTBNcUpCbkV3S2U1SU1CVUh4UEotaXh0QzhOd3Fzck9MaFVuU0dHSXI3dk15NEU4Z1JMcWdqSUxRUHdEeERsWUNVcmVIby1xeGdpVUpxNVUtOWZ5MDlpN2ZqY1VCN3M?oc=5",
-      "date": "Wed, 07 Oct 2026 13:28:00 GMT"
     }
   ],
   "official_links": [

@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-12T21:04:08.400596",
+  "generated_at": "2026-10-13T00:04:12.853134",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 20.6,
-    "temp_max": 27.3,
-    "temp_min": 20.0,
-    "precip_prob_max": 19,
-    "precip_sum": 0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 19.9,
+    "temp_max": 25.4,
+    "temp_min": 18.2,
+    "precip_prob_max": 84,
+    "precip_sum": 4.1,
     "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 20.7,
+        "temp": 19.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 19.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.6,
         "weather": "晴れ",
         "precip_prob": 8
       },
       {
-        "time": "03:00",
-        "temp": 20.3,
-        "weather": "晴れ",
-        "precip_prob": 16
-      },
-      {
-        "time": "06:00",
-        "temp": 20.1,
-        "weather": "晴れ",
-        "precip_prob": 18
-      },
-      {
-        "time": "09:00",
-        "temp": 22.6,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
         "time": "12:00",
-        "temp": 26.0,
+        "temp": 25.0,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 35
       },
       {
         "time": "15:00",
-        "temp": 27.3,
+        "temp": 25.1,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 65
       },
       {
         "time": "18:00",
         "temp": 23.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
       },
       {
         "time": "21:00",
-        "temp": 20.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.8,
+        "weather": "強い霧雨",
+        "precip_prob": 59
       }
     ]
   },
@@ -92,7 +92,7 @@
   ],
   "accident_news": [
     {
-      "title": "【交通情報】車どうしの正面衝突事故…2人けがか 山口宇部道路で全面通行止め（ｔｙｓテレビ山口）",
+      "title": "【交通情報】車どうしの正面衝突事故…2人けがか 山口宇部道路で一時全面通行止めに（ｔｙｓテレビ山口）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0aEphOTQwTVdUTmtQUFJaVFZSOF9acFFfTTBFcmN3dVpHVjRVMmpBb28tVFVpcUh5dEMyTW8xbGlVYXJ5b1ZueFZlLWIwbEV6NkFSZ1dpTWkydlR3NGl5cm9oTDAwUUpXeFlBYmtRN2ZTeDM5NkNTY3VIdG9KLTQ?oc=5",
       "date": "Mon, 12 Oct 2026 06:25:26 GMT"
     },
@@ -107,14 +107,14 @@
       "date": "Tue, 06 Oct 2026 17:37:10 GMT"
     },
     {
+      "title": "山口県内の交通事故発生状況 2026年10月6日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nNHdveVdsckJFVjFNRGRPYWE2cjdDekdTSjQtM3V0S3YySGFDdnY5cHQxNVNaVFdCeWFISTJCTU9CbmY4Ml93UmtRSlFoM010My11QnJlLVlCaWdyd19oOHRmckszRW9Uc1E?oc=5",
+      "date": "Wed, 07 Oct 2026 01:00:00 GMT"
+    },
+    {
       "title": "山口県の交通事故で上半期２１人死亡、過去５年で最多…車線のはみ出し事故が目立ち脇見運転に注意呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FZ3dqaThyTEc2VTB3ZlFVUXlFYWpyTXV0OVNCTnNadEJwdzJ0UUhpUUdqT25XX3BoUVROOEx1c2NFYXlHTi1UbnhhYjA3TjFpQWRFZDNwNVRabG9lWXpNSkwyQVgyN3FOeGZCb3d5clF3Zw?oc=5",
       "date": "Tue, 22 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "運転に集中を 死亡事故の現場近くで呼びかけ 山口",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUkJoWFJpYUtyUjVKb2RHRHhqbzVfQzJNY0pPUTE0dTRKMzNEMHhuUjRZNlcyMHJDeG1UZDVabkdHQ3BESTl2VWFhS0x4bnI5S0dZNDVoVUtZVGJCZmZR?oc=5",
-      "date": "Thu, 08 Oct 2026 03:26:00 GMT"
     }
   ],
   "official_links": [
