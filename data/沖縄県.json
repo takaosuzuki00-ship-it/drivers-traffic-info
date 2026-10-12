@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-10-12T06:05:41.067408",
+  "generated_at": "2026-10-12T09:04:55.190047",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 80,
+    "weather": "にわか雨",
+    "temp_now": 25.2,
+    "temp_max": 27.9,
+    "temp_min": 21.9,
+    "precip_prob_max": 91,
+    "precip_sum": 12.3,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 24.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 45
+      },
+      {
+        "time": "03:00",
+        "temp": 22.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "06:00",
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "09:00",
+        "temp": 25.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "12:00",
+        "temp": 27.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "15:00",
+        "temp": 26.4,
+        "weather": "にわか雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 25.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 24.1,
+        "weather": "霧雨",
+        "precip_prob": 47
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "自称歌手の男、車内に大麻 麻薬取締法違反の容疑で逮捕 沖縄",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qM3VpSGxGaDdYV1hULTg4N2ZPYXRLMnU3ZWpFeGMxMjk4VG5BQVNwX29fVGNkV3Rzb2Z3X2ZpQ0EwR013eVFXaEJIRUNfYktVZ1U4VFgwVS0wYnF5ZDJDdg?oc=5",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
     {
       "title": "自称歌手の男、車内に大麻 麻薬取締法違反の容疑で逮捕 沖縄",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hX3Q1c094eTFGXzZ6S2d3WE43M1M4dkNtcHVIT3RLQWVhNl9udzRQemd0cS1LbXN5bmJyUjM1WVBqZUVpQ3NXcGt2UQ?oc=5",
       "date": "Wed, 30 Sep 2026 22:01:27 GMT"
+    },
+    {
+      "title": "自称歌手の男、車内に大麻 麻薬取締法違反の容疑で逮捕 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLTdlQ3gzaFN2b1JPajNmazhBMWYzVjliRlVoTTNaTDVpRV9TbDlQYnRlcmtUMzRibXNlbmZ2V2Q5bGJENFVnbi1wbHZxRW4tZmtXQ3ZFRTlScWlnMGNIUURVYVBCM1dXQjJiN2s4V0w5SHE1NUFpTVN3cnlNV3M?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "「暴走族取締隊」動画、SNSでバズる 刺しゅう入りジャンパー「特攻服みたい」 沖縄県警、成人の日前に警告",
@@ -38,6 +97,11 @@
       "date": "Thu, 08 Oct 2026 20:00:00 GMT"
     },
     {
+      "title": "宜野湾市の国道で車同士が衝突、86歳女性が死亡 同じ交差点で2日連続の事故",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qVmlBTVVFZzZnS2pVVjliVVlxazFLUlc4N0h5cWE1LVV5bFViRGF5OERWREVYX0I3dXBteFlRT2pIZWZyOVFaZnBzeUttWmxaQThVdkpuWV96bzRkV1E?oc=5",
+      "date": "Mon, 12 Oct 2026 00:01:00 GMT"
+    },
+    {
       "title": "沖縄県本部署が交通事故防止イベント シンガーソングライターを一日署長に",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtYV90RTRIYWswTk9BMUp2SVh5d3Vfdm41UVZVQXhvTUQ4U0NMcHJrZF9qd0luLWwyd3VXSkZWYkE4TDMyaWxzRWhtVWV6eUdHUW1RR1VHNnhTcms?oc=5",
       "date": "Fri, 09 Oct 2026 01:30:55 GMT"
@@ -51,11 +115,6 @@
       "title": "パラアスリートの死亡事故から考える安全対策 車いすの「公道走行は適法」、弁護士が相互理解訴え",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kbnR3VXRPaG5NRFM5Wl9DUjRUb1h4WUtuZ2VWV3RVU3BMd3ZfMjg0anMtYVY4eUstRmJGblZPMXNFZWZ2QzZpQjAzR201WE1yZVdNaEk0cGFKTzRoNGc?oc=5",
       "date": "Sun, 11 Oct 2026 20:26:00 GMT"
-    },
-    {
-      "title": "観光名所「コンドイ浜」沖でシュノーケリングの男性が死亡 沖縄・竹富島",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12VmtxeGU4eU5vdFk0SUZlR09ZNDdGU3hYVlQyXzhXbDhkNVZSU0pWSFlGNkk5djVxOHAyRnN3b2lvQnJiUFBwOVJ1NUxTa0FVNjZpMlZKa0x1RnBleFJnejFpWHN3bzQ?oc=5",
-      "date": "Sun, 11 Oct 2026 10:00:00 GMT"
     }
   ],
   "official_links": [
