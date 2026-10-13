@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-13T21:01:13.136458",
+  "generated_at": "2026-10-14T00:01:01.091261",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 80,
+    "weather": "にわか雨",
+    "temp_now": 16.8,
+    "temp_max": 21.5,
+    "temp_min": 9.2,
+    "precip_prob_max": 100,
+    "precip_sum": 9.9,
+    "wind_speed": 22.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "03:00",
+        "temp": 17.2,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 17.3,
+        "weather": "強い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 20.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 16.0,
+        "weather": "霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "18:00",
+        "temp": 12.3,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "21:00",
+        "temp": 10.9,
+        "weather": "快晴",
+        "precip_prob": 55
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
