@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-13T09:05:10.197602",
+  "generated_at": "2026-10-13T12:04:56.824065",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 25.6,
+    "temp_max": 26.0,
+    "temp_min": 22.3,
+    "precip_prob_max": 83,
+    "precip_sum": 1.6,
+    "wind_speed": 9.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.3,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 22.7,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "09:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 35
+      },
+      {
+        "time": "12:00",
+        "temp": 25.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "15:00",
+        "temp": 26.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "21:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 82
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "生活道路は30キロ規制 通学路の安全確保を 諫早市の小学校前で速度違反の取締り【長崎】｜ニュース",
@@ -28,29 +87,29 @@
   ],
   "accident_news": [
     {
-      "title": "【速報】「車の衝突事故 中に人が閉じ込められているようだ」通報で救助活動中 長崎市草住町",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04V29nMDVSdFFVS3FuZU1nMzVrU0p6ZFhKVE9tXzZoRGd0dXhRNEtuS3Y3S2psbVRxNzk3ZWFDR2NVVlQ0UzUtV2VoMVJlQTRoalREUEdIeWo3UQ?oc=5",
-      "date": "Mon, 12 Oct 2026 06:25:00 GMT"
+      "title": "長崎市南部で「普通乗用車が正面衝突する事故」3人が病院搬送も軽傷 現場付近では交通規制《長崎》（長崎国際テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lV2JmeUxqYmpIeFZadEhuNGhLQUxzeVdtSGxoRF9YUlpoUFlpa1kxVnoyVzNaV3BSWjZOZTVFMENETzV0NHlHMkpWOTREdWZqWU1xLVcwdS1XclBGTmVQRGlfSkt1b3N6THE0RHRaZ2hmaFNEYnEzUHFVeVZMYXM?oc=5",
+      "date": "Mon, 12 Oct 2026 08:20:00 GMT"
+    },
+    {
+      "title": "交通事故の防止　ヴィヴィくんとＬＵＣＡが描かれたオリジナルストップマーク完成　長崎",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVZFM1NuTkhvWDRqajJJaHJUaUxQSF9Md2NnYi1SOHR2STlDejh3OWstZmxySDE0RkU2WlR1STMzdXYzS0xFREQ4UTh4dGdyVXpCLWhMbkMwWHlSYThaN01OZUJ2cjhkY1l4ZjJTTjZqOXM0SWx4Tk1BVVRSd05EaEFETTZRZ9IBiwFBVV95cUxPLTA1TDlaaTNZaE9rYi1namp0Ymd1cWR1bFh0Q1hvaDdWVUFLT0g1N0pCVTJldjdXdTgxUS03NFIySUc4RG9RaVUyb3dxUVpSeW9KZ2R4ZDBYZmVLczd1LWtONHhQWTZmUk8ybXZlUVZfTG9VZU1xWnRWajdCUFI0OVV1WWoxSkU1YVo0?oc=5",
+      "date": "Mon, 12 Oct 2026 02:00:00 GMT"
+    },
+    {
+      "title": "交通事故の防止 ヴィヴィくんとLUCAが描かれたオリジナルストップマーク完成 長崎",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tUmlSR0dEYktULUd3U3N1Wm0yN2hvVnltMXFJTGpYSnQ2eW85eFRBaUpzZFQzSGplRlpuZWVFaXA5SVExUHdwY25yZVdPcUxkYjRRbTBLX0FTZlRvU1psZ3lPODJNQ09NR3lGYnFn?oc=5",
+      "date": "Mon, 12 Oct 2026 02:00:00 GMT"
+    },
+    {
+      "title": "長崎市南部で「普通乗用車が正面衝突する事故」3人が病院搬送も軽傷 現場付近では交通規制《長崎》 (長崎国際テレビ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzROaG10R2llcWhCeE51bmRSam85TlJCUGwxMkFoMzliSXdXa0pEbHU0WG8tUkpuYmg3ZXp4MEpnbWNIQ1o1Z3RUTTBVMy04STBhemhqN0NEcVEycW54TVg2emVrMUp0eUVVRGtuZmFHdXdNejFJUE5Dd19tMnBiRDdwYUpEejlpbTVfb0VR?oc=5",
+      "date": "Mon, 12 Oct 2026 11:47:40 GMT"
     },
     {
       "title": "【続報】長崎市の国道499号で車同士が衝突 3人搬送、命に別状なし（NBC長崎放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veGkyWmFOQjFfY2xpQkFhNE92U1c5WWZScWFBdHZXc3R0UXpYLWNkNEplUnRkZlJMM3Fya3dXVUNWQjEwcnU4ekg2RWlVbURSTnVrcEt5Z2doZkRHankyZExHbzV0V3JDeGJtZHNGQlRKVGw4ZXNKdVdIRktZM00?oc=5",
       "date": "Mon, 12 Oct 2026 07:55:24 GMT"
-    },
-    {
-      "title": "長崎市南部で「普通乗用車が正面衝突する事故」3人が病院搬送も軽傷 現場付近では交通規制《長崎》",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmxkTjZRZnZPN3ZSLTJSamMyb0xhVzNvSnFOWTYtWlZucGxxalR5ZGwwcUxKSURrU0MtQXF5dExoRXlSZ0xNVE1GZkNnWnllUTFsdTAxVFRoNk9SSWgwRzlVZjRDY1pPQl8wQjFYdEpzSGdDZkZnOFlWOVRKUU1vWTZqOThBcDQ?oc=5",
-      "date": "Mon, 12 Oct 2026 08:20:00 GMT"
-    },
-    {
-      "title": "交通事故の防止 ヴィヴィくんとＬＵＣＡが描かれたオリジナルストップマーク完成 長崎",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qVE9yY1RIbUdmWElJYUJaX3MzbWZkSnBUZ3hXb3J5bWhZbmI2ZUdwQnlEc2pvZ3c4ZzB4WkxMSnFHY1RNWWc0QnlzTQ?oc=5",
-      "date": "Mon, 12 Oct 2026 02:01:47 GMT"
-    },
-    {
-      "title": "ツシマヤマネコの交通事故防止へ　対馬で「とらやま祭り」事故の現状や対策を紹介",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PX3ZwRV84aTNlQ1ZPNU5IV0UyTGowaEFPMDRORnBSdHVIQWd0Mldtbm1MdEpCR09zN2NOY25ZaGs0SFVTYzlxSFNPcWJBbnZQNjRfVXJQRDFpczdvT2xwYm5BR1VGVFYtSTdhdEl0d3hMY0ph0gF0QVVfeXFMTU9fdnBFXzhpM2VDVk81TkhXRTJMajBoQU8wNE5GcFJ0dUhBZ3QyV21ubUx0SkJHT3M3Y05jblloazRIVVNjOXFIU09xYkFudlA2NF9VclBEMWlzN29PbHBibkFHVUZUVi1JN2F0SXR3eExjSmE?oc=5",
-      "date": "Mon, 12 Oct 2026 03:13:00 GMT"
     }
   ],
   "official_links": [
