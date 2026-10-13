@@ -1,29 +1,88 @@
 {
-  "generated_at": "2026-10-13T06:04:18.832600",
+  "generated_at": "2026-10-13T09:05:14.755136",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 22.6,
+    "temp_max": 27.5,
+    "temp_min": 20.4,
+    "precip_prob_max": 63,
+    "precip_sum": 5.0,
+    "wind_speed": 1.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 26.5,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 27.5,
+        "weather": "晴れ",
+        "precip_prob": 45
+      },
+      {
+        "time": "18:00",
+        "temp": 24.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "21:00",
+        "temp": 22.8,
+        "weather": "霧雨",
+        "precip_prob": 49
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "10月13日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uaDUtTnZhZjNDZ1FsUGoweGpwNTVtdHNzU1F1YWNiQzJiaERVOVY2eFR5bXV4RzZ3M2h1al9xS2NSV0dwZldFd0NpdWZwdG1Pbm1jZVhsTU1NZ2dPdk9YQWJxR21oQ2s5Mk4zbmw2MVQ0S2VD0gF0QVVfeXFMT25oNS1OdmFmM0NnUWxQajB4anA1NW10c3NTUXVhY2JDMmJoRFU5VjZ4VHltdXhHNnczaHVqX3FLY1JXR3BmV0V3Q2l1ZnB0bU9ubWNlWGxNTU1nZ092T1hBYnFHbWhDazkyTjNubDYxVDRLZUM?oc=5",
-      "date": "Mon, 12 Oct 2026 20:02:00 GMT"
+      "title": "10月13日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jODVvOWxIWVA2SVVNMXc2MlhsaTJHV3JLS2ZFY2gzXy1lS0YzTnY2M2dtR20tMy1DNEx5LUR6eWhmejkzVHhJM21QRV9TZzhPNWRPNndtbVJHRmczUVpxSThrM0Y0RFFPVEczbF9nZ014Tk5jV3FLOTdMT0Y0ZTQ?oc=5",
+      "date": "Mon, 12 Oct 2026 20:02:14 GMT"
     },
     {
-      "title": "10月12日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど（RKK熊本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZ2FaOEFBVkIwUjFnYS1ObXROZDBxRXZMcGFlVW11ZGZBa3V5NWtrdEg1WUctc09iS1hNMWtnVlRlOW9VUUtJcmxrQ2tHSUZEbURlRW55MDYyRDN1cndoalYyNjk3VVoya3RaUEdWbHhuV05mNlBBUURXaVpla2M?oc=5",
-      "date": "Sun, 11 Oct 2026 20:02:14 GMT"
-    },
-    {
-      "title": "10月5日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lUVBuUXdmNDd4QmZjbW9pUE5ZdllRVkNvMFZRblJjV1ZJLW9ueFBiNGVmaFV4Ni11YnE0QXNkT1l3WGVvTzQxMU1rNmllOWpjMktkX1JwOA?oc=5",
-      "date": "Sun, 04 Oct 2026 20:02:00 GMT"
+      "title": "10月6日（火）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtQm42TFAtcUxfR19CYUpJbDlvb3hIbzkxbER5WmRHdThVOE9tNmYwSS1NNEpjQjFya3J6V3ZNNGZZV0w4YWptZzlYbkxlNFdwODZZdjI1QQ?oc=5",
+      "date": "Mon, 05 Oct 2026 20:02:00 GMT"
     },
     {
       "title": "10月11日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hQnp5ZmxheHoxUUNYOUNUb0hGNWtuXzJGTDFLdC04S01vbWt0OHBkMUpEemRUaHNHWDlhTGEzNjJHU3Z0WXExQV9qYURRdHdtejZ1ZWRvODBtYzVmUzBTcG9tV3JPaVJTcFQ0dVhB?oc=5",
       "date": "Sat, 10 Oct 2026 20:10:00 GMT"
+    },
+    {
+      "title": "10月12日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZ2FaOEFBVkIwUjFnYS1ObXROZDBxRXZMcGFlVW11ZGZBa3V5NWtrdEg1WUctc09iS1hNMWtnVlRlOW9VUUtJcmxrQ2tHSUZEbURlRW55MDYyRDN1cndoalYyNjk3VVoya3RaUEdWbHhuV05mNlBBUURXaVpla2M?oc=5",
+      "date": "Sun, 11 Oct 2026 20:02:14 GMT"
     },
     {
       "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
