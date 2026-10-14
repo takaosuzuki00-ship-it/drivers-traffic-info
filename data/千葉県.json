@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-15T03:02:05.963028",
+  "generated_at": "2026-10-15T06:01:38.536099",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 16.4,
+    "temp_max": 21.5,
+    "temp_min": 16.4,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 5.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 16.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月12日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
@@ -16,9 +75,9 @@
       "date": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "10月6日（火）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EbUUyeDlQQTY4TXcyeFRTUmNXdXpHakxhSmEyUENlR1Z0aEtZMG5EUFp3Qk1qNGN3VXJFVDE0Q1g2S1dvNVphTjMzNmFBajQtVXNtZ1dIYk5Xb00zQ3Y0ZTFmUmJyX196N3lBcnNnONIBdEFVX3lxTE1adm1md0dCQUo4c3k4RTNmOFlPSEJKaGJMTURNMG5wZHRfNjRhTEJZTVA0N2FGOHRlQ1plWXNEUWRub21CRjJ5V0pDbnJRMTgyQWxIMFhtN0VfR3ROYkphVEMzNVdEYm13eGd1NWFkUjBCYzUx?oc=5",
-      "date": "Mon, 05 Oct 2026 20:02:00 GMT"
+      "title": "１０月１０日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoWXNRRjJSZEpzMUtqOHF0MlEzb1F2SkkydEVUX2loaExHaUNleDl6ekIxNE1pb1BYTUF2WGxsTXFiUTVCV3oxRVJlRlVob0hZRTN5WklJWENWUWZwVnhPMlBvTXVpaXM2bFliMTMwRXd3UdIBd0FVX3lxTFB0RDRQNU1CaDljVlRQV19IcHlINUxwVHZRUUItYmJQRnU3VUFkUFZqWDlZUDRlZ0dLbnJSdE1YdkNzLXktNWVoaUVPdVM0TkQySXFia01WQUxQOVdpMnJKdkdxbm1NWDFuUTFVcllqWE1mcDN2MjI0?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
@@ -38,11 +97,6 @@
       "date": "Tue, 13 Oct 2026 08:06:32 GMT"
     },
     {
-      "title": "千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明 | NHKニュース | 千葉豪雨、千葉県、国土交通省",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Eb0YyQTZyR3JfOTBYa1ZSRGRHVGhEaW9idnFVWWh5V3dGaTE1OGdGVVFRdUFVVFZMVVhiQWhwSFc5eFZoLXhGLURuVGstMVYzeW8tLVpXeFozUENwRmpR?oc=5",
-      "date": "Wed, 14 Oct 2026 02:51:00 GMT"
-    },
-    {
       "title": "千葉市での5人死傷事故 乗用車運転の19歳男を過失運転致死傷容疑で逮捕",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OZ2M5Tm9scWUwS1o5MmdUUFVrUmNyY0F0WXducUx5ZTNFZmxMU01xVG5KMlY1MnBiYWthRFRrcWpsWF9iTnBPTTZlU0R5TG5uOVJxejZHbktqM05ZRnN4bFJ0OFJUNEZlM2RoUDJRX1c0dw?oc=5",
       "date": "Mon, 12 Oct 2026 20:52:00 GMT"
@@ -51,6 +105,11 @@
       "title": "千葉市の３人死亡事故、運転の１９歳男逮捕 免許取得から１年未満、トラックと正面衝突",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WdFVSdEFOeEo3bmMtSDVQVjNabEs0Rzd2VnVnODE5RzFmTGpJWmY3d0pqNU1ON2ZSTjNKeVl1MFpLZWtoaVU1dTk3TjNNcGlrZEI1b1NUQXRIbGN2VFpyako4QQ?oc=5",
       "date": "Mon, 12 Oct 2026 09:09:00 GMT"
+    },
+    {
+      "title": "千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明 | NHKニュース | 千葉豪雨、千葉県、国土交通省",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Eb0YyQTZyR3JfOTBYa1ZSRGRHVGhEaW9idnFVWWh5V3dGaTE1OGdGVVFRdUFVVFZMVVhiQWhwSFc5eFZoLXhGLURuVGstMVYzeW8tLVpXeFozUENwRmpR?oc=5",
+      "date": "Wed, 14 Oct 2026 02:51:00 GMT"
     },
     {
       "title": "千葉の５人死傷事故、１９歳を過失運転致死傷容疑で逮捕…対向車線にはみ出しトラックと衝突「右にハンドルを切ったらスリップ」",
