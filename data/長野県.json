@@ -1,24 +1,73 @@
 {
-  "generated_at": "2026-10-14T06:04:04.136942",
+  "generated_at": "2026-10-14T09:03:12.404198",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 17.0,
+    "temp_max": 23.0,
+    "temp_min": 13.4,
+    "precip_prob_max": 100,
+    "precip_sum": 9.3,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      },
+      {
+        "time": "09:00",
+        "temp": 17.0,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 84
+      },
+      {
+        "time": "15:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 14.5,
+        "weather": "晴れ",
+        "precip_prob": 37
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "飲酒運転撲滅へ 警察が一斉検問 長野県内での飲酒運転の摘発は300件超 事故は去年より増加 「飲酒運転は犯罪」 自覚を持ってハンドル握って【長野】（2026年10月7日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTFsbVJfSmtZTkJSa29wZ0pDeHdaeWJyWl9zNGF3M05GY2dYV3VYaTZUVm9maUJtMFNfcVJ1SmpUc2FtV0hFZnFyTE90TUxvbGZSYVEwQWJhYnQ5Z0xEY0hwNXVvbzcyTHhiRkgzQk42UTF4SE8tSE9zSFBfbmhiNlBwTG1PNXc?oc=5",
-      "date": "Wed, 07 Oct 2026 09:56:00 GMT"
-    },
-    {
-      "title": "飲酒運転撲滅へ 警察が一斉検問 長野県内での飲酒運転の摘発は300件超 事故は去年より増加 「飲酒運転は犯罪」 自覚を持ってハンドル握って【長野】",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HZWJvanppZFVZeEYzQzJTUjNrRlhGWjd6ZGNnb3BGZnhEVzJ4OTY0Xy1zTnl2UF9oS3gyeF9fYzdsT0JDcXNUT0VsSQ?oc=5",
-      "date": "Wed, 07 Oct 2026 14:12:56 GMT"
-    },
-    {
-      "title": "死亡事故の多発受け 県警が佐久市で大規模な検問を実施 忘年会シーズンで飲酒の機会が増える時期 長野",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zWElzM1pQbEowRHBPc2FIUGlxNkJsc0hhcXB0OE1UMGFWNlVxUEIzZGtLSlBpeWMwRmFDamFmbHVmcE5FaGZXa1NrU2hBZ3NTb2djSFVwdWNCZw?oc=5",
-      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+      "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJX0ZBcWk5c2pCR2R2YXNnR0JHZjVOTjJUb29XdG83SnB4MWNlYlA4Mm5rNFE5R3IxQjA0Z0xLc0MxeUJBSlFpOWhHdlNQVEc2MFN3a0dJaw?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」（ＳＢＣ信越放送）",
@@ -26,36 +75,46 @@
       "date": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "あす9月1日から変わります！【くらピタ！】「生活道路」の速度制限が「30キロ」に引き下げ 摘発されると「一発免停」＝30日間の免許停止に 4923品目で9月に値上げを予定 約3年ぶりの値上げラッシュ！ 「残業時間の一律指導」見直し 「数字重視」から「健康管理の質」をチェックへ",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XM2J1aXE3TlYzQ0RLYlU1MG01ODRGVE1nSnNSbndBbWhGNFFvM1NmYWNvQVl4N0F1V1poT3VpaURJNFA3UzdjaWJnUWVZSTkxOGFxUzV4YVhEZzhXY3VyS2tRNA?oc=5",
-      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "長野へ帰省中「オービス」が光りショック！ 後日「出頭通知」が来たら“長野県警”まで行かないとダメですが？ わが家は「東京」なのですが、最寄りの警察で対応可能でしょうか？（ファイナンシャルフィールド）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNVlmXzZSa21KdVNtaWJjb0l2YzloMmRUNE5MRndIR3FEaDlLTlY0dzhHRF9YVnk5RlZCMFNMc1RYcnd5LTdTZ1VuRnVwVi1fUDRYYzJqczl0NDh3bGtzVlpKR0c1VmFRRGxjVTRJOG1ic29XOGtidHdBSl81TG8?oc=5",
+      "date": "Sat, 16 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 警察が一斉検問 長野県内での飲酒運転の摘発は300件超 事故は去年より増加 「飲酒運転は犯罪」 自覚を持ってハンドル握って【長野】（2026年10月7日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTFsbVJfSmtZTkJSa29wZ0pDeHdaeWJyWl9zNGF3M05GY2dYV3VYaTZUVm9maUJtMFNfcVJ1SmpUc2FtV0hFZnFyTE90TUxvbGZSYVEwQWJhYnQ5Z0xEY0hwNXVvbzcyTHhiRkgzQk42UTF4SE8tSE9zSFBfbmhiNlBwTG1PNXc?oc=5",
+      "date": "Wed, 07 Oct 2026 09:56:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "横転する車に…激しく損傷した車 長野市中心部で車4台絡む事故 10歳未満の男の子を含む男女5人がけが 現場は交通量が多い直線道路【長野】（テレビ信州）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02OUtGbHlZZnYwRWg4eEl0cktXQW9RN2V5VXNMTkpFd3ltQVNZcXFLWXktM3hwRjhVYmJHSkk5aWY0bjBxcmg0TG5QQThWQUhIa1ZSLU1kM0FyWVl0aXJ6TGFGcnpXMkRfRXFSY0lGcEtLRDFMSTVFN2lOSnc2SjQ?oc=5",
-      "date": "Mon, 12 Oct 2026 09:32:00 GMT"
-    },
     {
       "title": "県警機動隊敷地内でトラックと棚の間に挟まれ巡査死亡事故 トラック運転の巡査長ら2人を書類送検【長野】（テレビ信州）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NXRkeG9DcEFIV0V3cmpTZ1dYVGtwcDV6azJaNGMxckVnUGxJQnM5cmJfNlE5QkdhZEFXT3RfQW5RZnN1cHVsRDMxLW42emlyVm82UVpPUUdLbE9wckl3LUkzWGxGVWhPamVLNF90YWpHSnhxakhrVWE4Zk9jS1E?oc=5",
       "date": "Tue, 13 Oct 2026 08:53:00 GMT"
     },
     {
+      "title": "横転する車に…激しく損傷した車 長野市中心部で車4台絡む事故 10歳未満の男の子を含む男女5人がけが 現場は交通量が多い直線道路【長野】（テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02OUtGbHlZZnYwRWg4eEl0cktXQW9RN2V5VXNMTkpFd3ltQVNZcXFLWXktM3hwRjhVYmJHSkk5aWY0bjBxcmg0TG5QQThWQUhIa1ZSLU1kM0FyWVl0aXJ6TGFGcnpXMkRfRXFSY0lGcEtLRDFMSTVFN2lOSnc2SjQ?oc=5",
+      "date": "Mon, 12 Oct 2026 09:32:00 GMT"
+    },
+    {
+      "title": "横転する車に…激しく損傷した車 長野市中心部で車4台絡む事故 10歳未満の男の子を含む男女5人がけが 現場は交通量が多い直線道路【長野】（2026年10月12日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkdCS1czMHlVSUdHTFB5cW9TU202THFvQlZZaXFmMk9MalZTejFFWHI0UzJfWEUzUG4yS2FmMFkwMl9WSy1ZWFZQZHh6ZU10eS1SVy1qdDJxRmF5aUpXSDNSNG5DZEcwWktuangwV0hvMWNyMlhvb0ZMZUtnVUVTT094bjdSZHc?oc=5",
+      "date": "Mon, 12 Oct 2026 09:32:00 GMT"
+    },
+    {
+      "title": "長野市中心部で車4台が関係する事故 5人搬送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00QlJBZTcyblNfbGJZYTVwZEF6dG5aNHRzSzlxWXZtc0FYYU1TUGszWUo0YVhWNVhWRkFrZXpUeWJLYVU5WUlZajFjTy1TVWRScW9JQlJiWVBQWldBX1BV?oc=5",
+      "date": "Mon, 12 Oct 2026 09:29:00 GMT"
+    },
+    {
       "title": "一時騒然…長野市の中心市街地で車4台絡む事故 10歳未満の男児2人含む計5人搬送 「車1台から人が脱出できない」と通報",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YUl82T29WcUNiTFY4Q19tN1FhMDV2YTdFOC1iRDM0Yl8zZHV5UnFOUlBkd3BtTWhpZHNONkg3SlJOTTNmWVZhNnlvZV9tN0lKRXJKNXJhc2hNWUNXRWtsVmg2Z21DUzB6bWJXWUpwLXJoZHI3ZllYZ3B5RFJMWFk?oc=5",
-      "date": "Mon, 12 Oct 2026 06:41:01 GMT"
-    },
-    {
-      "title": "長野県南箕輪村長が交通事故 帰宅途中、信号のない交差点で",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdkNKLU1leVZoVUJKSmZHemc5MW95VnkwQXJyd1p6MkFOcW5uZlpwclM3QnpnSzVJYkpBTWlMb0cya3YtMWppcUtGNXNYcDctWnMwVg?oc=5",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "機動隊敷地内の交通死亡事故 運転手ら隊員2人を書類送検",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92NWxtZDdJaV9aRkYxY1ZGQ29PMmJfV3dPdWVQS3E0R0xhcTRVbUt0XzZfRzdfWkNfWmF3azJDYjdhalJtSmJmNnYzbG9tb1BjNVdVMg?oc=5",
-      "date": "Tue, 13 Oct 2026 08:49:46 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DbXNBbG5XZ1MxQzZjOC1KdWJ2b2hBMW5HaHE3WFF2Vml4YWFxYmJtOXNvS1Q5dDVLQmlYTW5JWFFrT0FDWmU2eWQ4STFRSlZqVHdzcmdBS1hLRVJpQnc?oc=5",
+      "date": "Mon, 12 Oct 2026 06:39:00 GMT"
     }
   ],
   "official_links": [
