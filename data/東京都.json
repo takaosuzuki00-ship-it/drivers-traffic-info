@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-14T12:02:19.369194",
+  "generated_at": "2026-10-14T15:02:19.102226",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 20.9,
-    "temp_max": 22.9,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 22.0,
+    "temp_max": 22.8,
     "temp_min": 17.6,
-    "precip_prob_max": 56,
-    "precip_sum": 4.7,
-    "wind_speed": 0.7,
+    "precip_prob_max": 55,
+    "precip_sum": 3.2,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
@@ -33,33 +33,33 @@
       },
       {
         "time": "09:00",
-        "temp": 21.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 10
       },
       {
         "time": "12:00",
-        "temp": 20.9,
-        "weather": "雨",
-        "precip_prob": 49
+        "temp": 21.6,
+        "weather": "弱い雨",
+        "precip_prob": 25
       },
       {
         "time": "15:00",
-        "temp": 21.9,
+        "temp": 22.0,
         "weather": "晴れ",
         "precip_prob": 55
       },
       {
         "time": "18:00",
-        "temp": 20.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 45
+        "temp": 20.8,
+        "weather": "晴れ",
+        "precip_prob": 37
       },
       {
         "time": "21:00",
-        "temp": 19.3,
-        "weather": "晴れ",
-        "precip_prob": 53
+        "temp": 19.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
       }
     ]
   },
@@ -92,13 +92,18 @@
   ],
   "accident_news": [
     {
-      "title": "高級外車と乗用車が衝突 交差点にガラス散乱…男性1人けが 東京・新宿区",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4VDg2bXE1cE9UX0dmallfR1p0Yl95V3AwWFdUd1NMMkMtellBSzVLY1lRRk8xMGNWYXdCTmtoMXpfX2dCNWRBMkhWSTZHdFU?oc=5",
-      "date": "Tue, 13 Oct 2026 09:47:33 GMT"
+      "title": "大型トラックが車に追突 横転 男性2人けが 電柱も折れる 東京・小金井市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Vm5NUUlKc0xlTl9pSk5rdTdrZTBnRGZUVVNnU3FRaGtLY3pvUl9pOE8ySHREMmU1RDVFeDJ0MGpKQlVzamNZN0tBOWd3NGNqel9Zb3lncVJtUXI2d3dpU21QODZTUk10OXN3RUFlQ3M0UQ?oc=5",
+      "date": "Wed, 14 Oct 2026 01:33:41 GMT"
+    },
+    {
+      "title": "砂利を積んだトレーラーが軽ワゴン車に追突、横転 2人搬送 東京・小金井市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zVFZIRWNBbXhkR1MwazVMV0pST3NZeWpNT2owQzBfLUs5OXJKdGNBRW12RkFha1EtaXROM05uWkNBd3NXTXd5ZzJQbWdTTHNCcXZtTm5hTFFfYkNGU2RSUmlxMHdFMENJanJ1RVVxQ3N2LXl1ajNtSTBaU2JvNnc?oc=5",
+      "date": "Wed, 14 Oct 2026 01:43:00 GMT"
     },
     {
       "title": "高級外車と乗用車が衝突 交差点にガラス散乱…男性1人けが 東京・新宿区",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LQ2tqYTZ3Yk9VNUdxYi12eDF3UnN5QXFMUl9PVlFDOWZuNTZhZXdSS2V1OUNUaVkzX2VMd1BTRXY0cXQwMU9JeEhQYUYyMzYyUFJsN1FnaGdtdmdtZFJsQlNzamNwMWlhV2lCcmlTclhvQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4VDg2bXE1cE9UX0dmallfR1p0Yl95V3AwWFdUd1NMMkMtellBSzVLY1lRRk8xMGNWYXdCTmtoMXpfX2dCNWRBMkhWSTZHdFU?oc=5",
       "date": "Tue, 13 Oct 2026 09:47:33 GMT"
     },
     {
@@ -110,11 +115,6 @@
       "title": "横浜FC島村拓弥が東京都港区路上で交通事故",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84a0IwbGdCZkFUNzdMT1M4UHJ2M3NHSjg1Q1FrbzFLeGdtbktxOGZUWEh4VzYtbUNabWRDYmp1UUpyOHJlZ0pJRW5yYXhEQ3ZyVWxNWDVlaU50SHk1OXhGclR6eHNYcVNWYmFJVnlB?oc=5",
       "date": "Sun, 11 Oct 2026 03:36:00 GMT"
-    },
-    {
-      "title": "建築現場で男性作業員死亡、資材落下か「首に刺さった」 東京駅近く [東京都]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRTmR3M1JBYXljMHB1R1gya3pQWV9OUUc1Vm96eUdaNDZWYzF3TGo2clBRTFQ2dGdqQ2NDUG8wQkJrOXR3N3VnUHRRV0lGQWQ3SXBzbFF5b3JXRVJjcGJCOVJCM3lBeWs?oc=5",
-      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
