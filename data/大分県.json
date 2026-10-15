@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-10-15T09:08:16.206051",
+  "generated_at": "2026-10-15T12:06:35.812580",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.7,
+    "temp_max": 21.3,
+    "temp_min": 17.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 12.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 19.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "１０月１５日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92bm51djA4N1QwTzB3TmxrRnQ2RGhfNnYtWGxmZWlnTXpVU3dQU1hvNFRGaTBXTFExWmhWUHpWRDNyZ1VEMmdUWm5DenJQZFZnS0c2SkxRRzVUTTBVY2tBeEl4M3pvc3ZlNjhWUlk3alZwQdIBd0FVX3lxTE9rWWlRUGtSZ2NPd0RnR3FpQzA5TDZNR3dqM05YYzRxUTNUSHNrWHNqX3BGQVFjVFE1dDJWb3h6dTFuNVlIcXg0a3Q1THg2MFU4bzZpY25BU0ZSN0hGRG5scUNOOFhwUDlfbGZKQ3Uxdlo4NkFKWGYw?oc=5",
-      "date": "Wed, 14 Oct 2026 21:11:55 GMT"
-    },
     {
       "title": "10月15日（木）【熊本県 交通取締情報 午前・午後・夜間】自転車・携帯電話・シートベルトなど",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nbVZ1R00wR3VDRFotWnRQcWFEVXo3ZzlIVUNmczVOQ1JiVHdQaVhSazQtMTEwcmJhRXJYM0pfdDhRbGZJbGF2WEpxQVZyelpNU1IxSm5wbXZnSFdWNjZMX2RrYWZPdDV2RXVlS1lfNNIBdEFVX3lxTFBYZjFlZVNzdWQwRzRId213OUtncWx5djJJUmhWQ1NmazBZUjJmZTIzaHgtTnBKZHRxNVZraEFkdDNSWnRhN1NRRkpBcW43elZ4YTBZNWIxcTdkb1FRc2pfZ0xveVB2U1EwMGxGeW5FNTFlME5o?oc=5",
-      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
+      "date": "Wed, 14 Oct 2026 20:29:05 GMT"
+    },
+    {
+      "title": "10月13日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VTUdkakdsQUM4UHFHMllPWlRVUEd6NlhSN3JlTUpaVmoycDg3OXFDc21KTFZ0blRva2pQV2sxMjhJQ3dULVlYc0lZSWVPajRhT1pfVURneWdUQlV5Z3ZzdDlyOE5EeXlZZWtDUzhHc9IBdEFVX3lxTFBlRkczNFI5ZFFqVUx5Y0V6ZmFGdXdNbC1hUkl0amNZQmQ3bDVqNFY2TmpBdlVuZWRhQTc3OWd2QWZ4eHJYUDdSa1J3Vjh0cFNBZ0pfNFpKcG44STdmb01YaW9EaUxVaG5pV01qWnFkd19TMzA3?oc=5",
+      "date": "Mon, 12 Oct 2026 20:09:43 GMT"
     },
     {
       "title": "県内での摘発ゼロ 生活道路30キロ引き下げから1か月 「出会い頭」事故は多発…安全確認を 大分（OBS大分放送）",
@@ -43,6 +102,11 @@
       "date": "Tue, 13 Oct 2026 21:00:00 GMT"
     },
     {
+      "title": "“100年後に会いにいきます” 会ったことのないお兄ちゃんへ 事故から10年 小3の妹が手作りした絵本「毎日手を上げて横断歩道を」交通安全願う 大分",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CSXRBRXFlUlo0MEYwekUtaExhRnhDLXFLOGw5U0ZYQmlSczVhZVlpOTh4WkF1Rm1fbXBLRHpMV0lTMEUza213Qm5pQW5ydDh0QkpLV2M5QQ?oc=5",
+      "date": "Sun, 11 Oct 2026 09:28:21 GMT"
+    },
+    {
       "title": "大分 県道沿いの山林で車転落 男性死亡 警察が事故とみて捜査",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ta25yYVRCSVNpOGVnQzZMQmhOQ0JENkVoR0FFME9Oc29FOTJlaEFQQldKQU9YbDJQNjFhV2JibG91VHpib0dxYkp0R19XVjl3TUs4RVYxdXptVktaR3VV?oc=5",
       "date": "Fri, 09 Oct 2026 03:30:06 GMT"
@@ -51,11 +115,6 @@
       "title": "山林で車が崖下に転落 男性1人死亡 車の所有者とみて身元の特定進める 大分（TOSテレビ大分）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EYWpUWFVPU2FrZzB1WVZlOEZSOXRxMG51Z2RlWGV3cVVobzNJUnc1T04tNXpEc3p3UUdfRW02Qm8zalpiSG1vU2VmeGtpWU5OdHNpQ3EtNC1TZHh3OTd2RGJ5T25SYjkwaElqcmpYV014ZXVRQ255WTJZQ2FWN28?oc=5",
       "date": "Fri, 09 Oct 2026 02:57:01 GMT"
-    },
-    {
-      "title": "事故防止の思い込めた作品211点 小学生の交通安全絵てがみを表彰 チラシなどに掲載へ",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mN2xrMkwzTHVaTVBiaW5FNlh2LWY5TWNKM1MzcnRrRVp5ZG9laG1pZEI0cnlja04wWHl0SWFjNnh1T1d0TmJneDdsWUpfZmNudzJMMndXelo3dw?oc=5",
-      "date": "Tue, 13 Oct 2026 09:25:00 GMT"
     }
   ],
   "official_links": [

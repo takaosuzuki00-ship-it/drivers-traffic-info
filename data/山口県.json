@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-15T09:07:13.409128",
+  "generated_at": "2026-10-15T12:05:22.777474",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 21.7,
+    "temp_max": 23.1,
+    "temp_min": 13.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 1.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 18.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報",
@@ -33,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "山口県内の交通事故発生状況/2026年10月14日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40M2pINkx6UTJIZG5TRmdRVU1LWEV5NGp1Ukd5LS1xSG1uc1p5dEgycENfdDlTQ01PU1d1dUtVQ3Jwc293dE5QWTdGTGNuaG5iMGNwUm5FX3pFX1VxMmRWQ0plMVNhUTVHVnc?oc=5",
+      "date": "Thu, 15 Oct 2026 01:00:00 GMT"
+    },
+    {
       "title": "【交通情報】車どうしの正面衝突事故…２人けがか 山口宇部道路で一時全面通行止めに",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95Z2pubVBkMGVsRGhfVkpiNUFGaUJKb2pSUnlPSmFYek9OaldOQnRic012eUExbzRGeVRYY210aUVacEttNzJXTElvNnMzSGRhVGZkcXpSbE9BUQ?oc=5",
       "date": "Mon, 12 Oct 2026 06:22:00 GMT"
@@ -41,11 +105,6 @@
       "title": "【事故】山口の周防大島町職員が死亡、乗っていたミニバイクが車と衝突",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzdV90LUlIMXd5YzFoSENPOTUzQjA1cGYxUFN2WFdXeE5ON1BzZ20yYUtLVDNhLUxIUXd6Q0RnYnAyVnBESFZaNWpjNA?oc=5",
       "date": "Wed, 14 Oct 2026 07:43:00 GMT"
-    },
-    {
-      "title": "山口県内の交通事故発生状況/2026年10月12日",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EcjByYmVvUnZpa3hHRjFISlc2YjVoeHF4dEk3YW1QUVpNM0NXVzk0czhWQVQycXBIWExab0JtUlRHeHZsemFCU0NpS3JTbnZjZkY1Q3FrQUlVTGJ6eW91TGV3V3ZhUWNRSFE?oc=5",
-      "date": "Tue, 13 Oct 2026 01:00:00 GMT"
     },
     {
       "title": "無免許・原付きバイク2人乗り→追突事故を起こして逃走か…少年（15）を道路交通法違反容疑で逮捕 山口（ｔｙｓテレビ山口）",
