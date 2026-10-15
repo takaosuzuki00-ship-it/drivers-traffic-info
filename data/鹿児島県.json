@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-16T03:06:47.178768",
+  "generated_at": "2026-10-16T06:05:28.035088",
   "pref": "鹿児島県",
   "region": "九州・沖縄地方",
   "capital": "鹿児島",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.4,
+    "temp_max": 24.7,
+    "temp_min": 20.4,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 10.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 21.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 23.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "鹿児島県下一斉飲酒運転取締りで16件摘発 酒気帯び運転2件、速度違反5件など 県警「取り締り強化していく」",
@@ -38,24 +97,24 @@
       "date": "Thu, 08 Oct 2026 04:38:12 GMT"
     },
     {
-      "title": "交通事故の多い鹿児島の交差点 ワースト3位は「宇宿町」と「竹迫線入り口」、「加治木町木田」、2位は「新屋敷」 1位は…？",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sekFnQ1lKS3NlQ21COGxvMFNYZnlHS092Z3pNVTRWdkdpdWFEd0hJb0VCT0Z2bjdQNERobE9OVVR2ZmVlNmVaeUlwTVlFS1c2amQ0Uzg4cw?oc=5",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "交通死亡事故多発警報の発令について",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV25KSEMtQndaUnVyLVBDZEtNMktRSHd0VjJ5RzEyT0ptNEtaYUxxaExNLUJ0a3hWeHdvQmtHRUFseGVKM2haTVZaSldpQjJOUEl5aWNlcFZ0SmlsVkhnZEpubUVzVWNkeGVuUnd6cjYxUGM0bDhWQlZYbjY4Y3hTbGlENWlxdw?oc=5",
       "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
+      "title": "交通事故の多い鹿児島の交差点 ワースト3位は「宇宿町」と「竹迫線入り口」、「加治木町木田」、2位は「新屋敷」 1位は…？",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sekFnQ1lKS3NlQ21COGxvMFNYZnlHS092Z3pNVTRWdkdpdWFEd0hJb0VCT0Z2bjdQNERobE9OVVR2ZmVlNmVaeUlwTVlFS1c2amQ0Uzg4cw?oc=5",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高齢男性が車にはねられ死亡 軽自動車運転の男を現行犯逮捕 鹿児島市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CcjE0LWV6VXh6T3pxTFU5OWhvUkhvY05JNm56ZFJxbFZMMEpTbEVQYVVKTlFkWUgzc0huWHNoYWpnZElUWUl5TjJBN3lJQQ?oc=5",
+      "date": "Sat, 03 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "国道10号が事故で渋滞 車同士が正面衝突 3人けが 鹿児島市吉野町・花倉付近",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96ZkpyVkcxN3ZBUmxjNFZ3TlRfR3N3NEU1bEU4TWpGUUFTNFNuQnBwY2FJc1ZFSlZ6Qk5OTG5IVFdyZmpPTVdEdy15UlRtMkNibUI2d3BSNA?oc=5",
       "date": "Mon, 12 Oct 2026 01:05:00 GMT"
-    },
-    {
-      "title": "鹿児島市で事故相次ぐ ２人死亡",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yWVMyZVJmY0J1V3hvSzNsaEZ6TkFZMEFNVXdNRFBEa0IxMmk4NUUzZUpOa0hNU2ZZTUpVNFlNaVpDQTB0RHNlYU0wVkhqUQ?oc=5",
-      "date": "Sat, 03 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

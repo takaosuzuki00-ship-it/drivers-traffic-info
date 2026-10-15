@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-16T03:01:16.157283",
+  "generated_at": "2026-10-16T06:01:35.267664",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 18.2,
+    "temp_max": 20.4,
+    "temp_min": 12.9,
+    "precip_prob_max": 100,
+    "precip_sum": 18.3,
+    "wind_speed": 10.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.3,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 13.0,
+        "weather": "晴れ",
+        "precip_prob": 22
+      },
+      {
+        "time": "06:00",
+        "temp": 18.2,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "09:00",
+        "temp": 18.7,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 19.0,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 86
+      },
+      {
+        "time": "18:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月6日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -16,11 +75,6 @@
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
     },
     {
-      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
-      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MRkF6a2dtUUt6RkM3RzFuSG9Sbzl5NUVVeUpLOENmR0VMRzR1ZkdxelNYWHlYOGlwMEFOSjl1RDZYM3R1TTJEZHk1aU1RakM3cUhhNmk2VTNvTDJEenRmVlZ6ZkJRQm8?oc=5",
       "date": "Tue, 22 Sep 2026 07:00:00 GMT"
@@ -29,6 +83,11 @@
       "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWUt6bXVpUzJjT0Zab2FWbmYxbTg1LTRvektfZTVDbEt3cFhiYzBpRXdvaTd6N2lCVkZYa1BFc2lsbW16Q2djSWtIY0RNMXg1U1pIRkFfN0ZjNUtwLXNob1hR?oc=5",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【９月から】生活道路の法定速度30キロに引き下げへ60キロ走行で“一発免停”違反点数6点で30日間",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jckFqOFpsbDg0Ym1EMXA3ckJJZEZZbUdmVjFkZ0lKeWlwbjlKYkJjWTRUNFAtRUFkSU80NV95ZllUSHcwZWIzN0pIUGh6SzhaTnpuSUppcGNyUWczTzBWeXk2OGZDTURENHh1R0Q4MV9ERUdZQ3FRZHVOaFpTQkHSAYQBQVVfeXFMT1pxZDhZTmpya3dMZE5DaHBnNVBORDdZU09uRXNfOHRkVXVsRWhCTUVoczJ1WmhEM1VhdUdqQUNZRDlkRGk1dThwY1ZQNDZ3a09pekt2LXRYQ284czJYdDFZa1VvQ3RzbjZXblAzd2ZMNkJDcVkxMU1Zbi1FcG01NlFUUW4t?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -43,19 +102,19 @@
       "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "国道7号で車同士が衝突　運転の女性1人が大けが　10日　秋田・にかほ市",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9icDVqMU9QWnVlWW5kRmM4Q3loN1VES0ZEeWZuOEtrOVcwakNiZ0VUbEhGS21RR09zOGVMUFBqWllCYXRrdmNpOHNrcEhIT2hsOU1Xc3lvN3BMZ1pYbGZUQ3Z5NF9xM2hqek9xUC1LT3NKN0dNZVMzaGdhTdIBgAFBVV95cUxOZ3dGQkg2ZnQ0UnE4YUhONXJmY01NeDU3S2FwaW9YRXRySXFZd2hSTUxPUzBpV05tQnhVQzA4ZGk5Qmpjd0k0S2M1RmFDV3NicjB4SnRIVmNuOE0tSGdBQU4wTUNCQ3MtQl84TDBNdVQ0TWNqTzB3elFVYUx2YllFZw?oc=5",
-      "date": "Tue, 13 Oct 2026 00:36:00 GMT"
-    },
-    {
-      "title": "90歳の男性が車と運転席のドアに挟まれる 約1時間後に死亡を確認 車のエンジンは停止中 秋田市（ABS秋田放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VE9UaS1TNHVYbS1CLWZkdTI3SGhzeHAzcWhvd2FlTmtWdGFoZ3RBVHJLN2RvcjV3LXEyalBkN1FGU05BNGh4blJQVEx6ekp5cXpOTTJJaFdaMmxqQ1BMRHQ1WlFJNWh4VklxTm41RG1RZnFuY1FVcU4xT1d3OEE?oc=5",
-      "date": "Fri, 09 Oct 2026 09:16:00 GMT"
+      "title": "羽後町の車同士衝突事故、運転の夫も死亡 死者２人に",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13bTdXVHlrMTFfUW9saVNqanM4dWQtZ0YwUHdZdTNvbHhtY0JPQllab1dLVlFrQ0ZpSldQNkpqbUdmalkzUUszajFweUFVNU52dmFWTHEzUElBRzVhSTFLMENn?oc=5",
+      "date": "Fri, 25 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "平川市の国道で車３台が絡む事故 秋田県の男性（40）が死亡",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFUkZpS0FEQWNpV0w2aC1Bb3BvbElQZExvcGdndFRGaWo0NjJXQ0V3bWdJQnpzWEJUWmp3eG9XY3dlWHFHVFREblo1TTBadUJkdWNOc3dKYVg?oc=5",
       "date": "Mon, 14 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "90歳の男性が車と運転席のドアに挟まれる 約1時間後に死亡を確認 車のエンジンは停止中 秋田市（ABS秋田放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VE9UaS1TNHVYbS1CLWZkdTI3SGhzeHAzcWhvd2FlTmtWdGFoZ3RBVHJLN2RvcjV3LXEyalBkN1FGU05BNGh4blJQVEx6ekp5cXpOTTJJaFdaMmxqQ1BMRHQ1WlFJNWh4VklxTm41RG1RZnFuY1FVcU4xT1d3OEE?oc=5",
+      "date": "Fri, 09 Oct 2026 09:16:00 GMT"
     }
   ],
   "official_links": [

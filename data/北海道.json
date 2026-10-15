@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-16T03:00:34.992622",
+  "generated_at": "2026-10-16T06:01:16.540860",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 8.9,
+    "temp_max": 15.2,
+    "temp_min": 8.2,
+    "precip_prob_max": 78,
+    "precip_sum": 0.7,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 8.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 8.3,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 8.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "09:00",
+        "temp": 12.7,
+        "weather": "曇り",
+        "precip_prob": 45
+      },
+      {
+        "time": "12:00",
+        "temp": 14.8,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 14.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "18:00",
+        "temp": 11.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 10.5,
+        "weather": "快晴",
+        "precip_prob": 18
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
@@ -21,9 +80,9 @@
       "date": "Thu, 28 May 2026 07:00:00 GMT"
     },
     {
-      "title": "自転車「青切符」初日 北海道内3人摘発 信号無視と一時不停止 対象の違反は113種類",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVExHWTNVZDhYU0UxNEhaWllPZWVYX1pTQ1pZRUdtV2ZwLVdSZDhjV09lcXFwNmRJTGZMS3A5cVJjclBlcDh3cHJLLTkwbnROWjdkeXVNeF9lQQ?oc=5",
-      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
+      "title": "死亡事故再発防げ 別海の国道で取り締まり 道警釧本、移動オービス使用",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMmg0c04xM0tiUXpwS04wcjZNWGtMZGZxOWRfWEdYSEZ6MGxTMFIzU2VFNjg5a2MtaWpDYkdZU1hvLU9nNWJYcHdOYVg4SnM4eDdUSkN6QnZOZw?oc=5",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "GO TO警察はまっぴらごめん! 北海道警の「3密(秘密/隠密/綿密)」な交通取り締まりを回避せよ! 【交通取締情報】",
@@ -33,19 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "交通事故相次ぐ　10代女性が車の下敷きに…横断歩道を歩いていた70代男性は意識不明　札幌・旭川",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52Z2xRdmQ4Q0FfcUt0dXRPVzREYU5QRWxUdWRxUm83dUxrT1hkYzRycUgxQW1aYzVKZnUtV09hbkdnTExwLWE5cWlseVB3U1Zva1h0eUNmMERSS0tBQzJXMFBIVXc2TGhrWlpRbjdtRdIBdEFVX3lxTE40LVc3V2dYYVdudTVvVmc5RExkdmpDOTlUdVROcndSYTdMQTlOZjl4Y0kyM2tjbVJUYzlMTHd4ZkxYV00yQUU5TVA2RFlZX3FJMnhTWnVWTEpCTUo3WmRUN3F1NUUyV2tXVWd5V1oydEFIbjc4?oc=5",
-      "date": "Tue, 13 Oct 2026 10:55:00 GMT"
+      "title": "函館市の交通安全計画素案まとまる　高齢運転者の事故抑止推進",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNGJzSnQ4TGdlZG15b3VHSDc5NFNORVFBbnFWVnNrQnNybG53RjgxWE1FeEwwUUpYcEZoZWtWZjlYTHkzMXM2SnN5SHlLaE4za2pmTGVxdDY2dHZLSnNaS1Vob0xrRGtjdUJJN2ljYWFjaDRxeS03RVFvVy1OdHk4MTZ1OUlTbjV6dGhrcWNfMTV2RGlGQXNzcjlMT0Z1MmhRWVZvTERTUWFLV3VwMG13Q096UG9IakZFNUQ5QXd6V3RZbE1TeWtvLUprZFpTQm15QVHSAYIBQVVfeXFMTzRQbFloLVJJLUVnYXZtdDJXZHhIS0hSOUhrUzRIWWVSS2FfckpReG84Rk16ZTlFRE1RVzE4RlZSbnFObUJ2OFhQX1RkTWtZaDVkQzFnTTNyZkozRm13Yjg3YzhZb2hzOTRnRDZVTnUwNXdraXRUdjNRWmxIQzNWdV9RZw?oc=5",
+      "date": "Wed, 14 Oct 2026 09:44:00 GMT"
     },
     {
-      "title": "北海道、交通死亡事故多発警報を発表 22日まで 3日間に5人死亡受け",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81RWloV3gycGstZ2x2MDRTaWpGLWY4VkFvRHdCczVzOERxb0w4VTJyVVprbUFwN2pqcWktMkxUbHdBTlY3b2Z3U0I5V196aVBJTnhLM0hZNmZ5UQ?oc=5",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+      "title": "軽乗用車が柱に衝突 79歳女性死亡、2人けが 上士幌の国道",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KOGZmLTBFOVJqbVZqNVFPNEpFNE9KOW9UNGJ1X2t3TW5RTVZiTWpTYjl6T0hzVGNZUmxzZGVONDc5cmNMMkFlTFRPa0ZOWERNeXpwVVRHOFBTUQ?oc=5",
+      "date": "Tue, 13 Oct 2026 14:25:17 GMT"
     },
     {
-      "title": "「交通事故多発交差点」札幌市西区八軒の交差点が“全国ワースト5”に 日本損害保険協会が2025年版を発表 北海道",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45dVZySk80OXd0YkNVZXZxLW9fZHlmcEVibGVSaTdtYXZJVFY2dXRWd1ZmSE1kTk1VZEJIWEF2OFFQT2lRUXFQenl6V084SVp5LXVOSnEyd0FwUlB5Y2I3LWFYVUszdUhKM2NlSThZYVBXNzhMaF95bVloTHJ5YzA?oc=5",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+      "title": "【10月、巨大エゾシカが衝突、車が大破】繁殖期に入るシカとの衝突事故が急増―巨大なシカとぶつかれば重大事故につながるリスクも…道路に残る\"ブレーキ痕\"を見つけた場合はシカが出没する可能性大＜北海道＞（北海道ニュースUHB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUjA2c0RzdVRCRklpUWRXc2wxMEpLejJWWW9vUEpEQmd2ZTJSNVo5UDl0eVNFdU5teFVZaE5nT2RtenV3Z3MtMGo1eUpKTGdPckFoRXFDc1VuSVdGaWVQQ2hvZ085TnE5ZHl6VjJqVTRmaDY5UTBhXzJjc2ZteWM?oc=5",
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "新千歳空港IC近くの道道で乗用車とトレーラーが正面衝突 乗用車が全焼し男女2人死亡・幼い女児が重傷 北海道苫小牧市",
@@ -53,9 +112,9 @@
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "恵庭の道道でバイク事故か 男性死亡",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WcDRFWjVjS3NpVXppeFZMOXZYbEFrNlIweFdXSmdEOHRzR2tTTmZtd25yWC1Mbi1vR0JkNU1lRzBaLVdXSzIyc24wa29yQV84NnI3cUtDSkVmUQ?oc=5",
-      "date": "Sat, 10 Oct 2026 01:19:14 GMT"
+      "title": "【事故の瞬間映像】信号機の支柱に激突…車体が\"真っ二つ\"グシャグシャに…62歳男性が死亡…国道で右折車と直進車が衝突…右折車の29歳運転手を逮捕＜北海道恵庭市＞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aZHM3dTh0cWtwVW13QXF0TjVCZXh6QWVPYml4bXo3RERka24xbXVtdHdHWU1WR283NGFzaGZlQndQY1ZrelpnQ2JIOHVMcWZlY0x4QXJFQQ?oc=5",
+      "date": "Sun, 27 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
