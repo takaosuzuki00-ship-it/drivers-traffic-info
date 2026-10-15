@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-15T12:01:09.165976",
+  "generated_at": "2026-10-15T15:04:04.741332",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 13.7,
+    "temp_max": 17.1,
+    "temp_min": 12.3,
+    "precip_prob_max": 98,
+    "precip_sum": 9.5,
+    "wind_speed": 9.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "03:00",
+        "temp": 12.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 15.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 16.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "15:00",
+        "temp": 13.7,
+        "weather": "雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 90
+      },
+      {
+        "time": "21:00",
+        "temp": 12.3,
+        "weather": "快晴",
+        "precip_prob": 10
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -16,11 +75,6 @@
       "date": "Sat, 10 Oct 2026 20:00:33 GMT"
     },
     {
-      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
-      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
-    },
-    {
       "title": "県内での摘発ゼロ　生活道路30キロ引き下げから1か月　「出会い頭」事故は多発…安全確認を　大分",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wdkh5Z05VVW5PSVhKNFFZaGd5Snd1bmZyQWtJNkFGbElkclUyd2daNVg0Slo0QTBPTDlrTmdDVFNvS2lhYU1kRUZZVWVQd2JuVTNyRnNVMHFhUUNDc3FFN0doR3F5cFFXdHd0YzJ6MNIBdEFVX3lxTE9hSldQYVVFVGdyekYzbWlFbmhCU2NUenBYOEZ1RmRCZ2k3MWt4OVNDMHgzRDFNeGppYnlrRU9ZYm9LMDZqeXhGaXVKWUdsbUFkYkJqQ0pOSF84ZnNndUpJXzZsOUZEcG5BMmJUZU5oNnZYMTFW?oc=5",
       "date": "Wed, 14 Oct 2026 09:48:00 GMT"
@@ -29,6 +83,11 @@
       "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZaTZiRWJSLUVYOHpYdEt6QXRBMEhQRVlhQV9NaXZldkNRZmRFSFM0RzV3MkVlSk1JdE1xQ1MxOS1hYjNCdWpfbzV2VTJ5VXN2cm5pZW04STM?oc=5",
       "date": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "知人女性の車に「紛失防止タグ」取り付け位置情報取得か　51歳の男を逮捕　ストーカー規制法違反容疑",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LWFptZVh3OGh6a01lTjNGNW9pb0VONUtYRWR5alBkQmllSFNTek9OdXRtaG9vYmFJdmhZRG1FVjZPRldvWnRyUU11TE9YOFo4LTRXcDYtNmQtb1plQk5WdmtVRjJZUGk4X2tqQ3FvRdIBdEFVX3lxTFBzLTc1MjRjM1hvOE1ndXUzX0FkdFpzQzNwZzh0TjZUWTlsaUFRWmpRLWtPejhZa2F1NVoycTRLN2JfbkJCRF9ya0NLcjgwa3FEbmE2OTJNUkpjaGZuMG1LME93QV8wT2t4M1ZOVERwM0RmdEpZ?oc=5",
+      "date": "Wed, 14 Oct 2026 11:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,19 +97,19 @@
       "date": "Wed, 14 Oct 2026 11:10:01 GMT"
     },
     {
-      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
-      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "大手生命保険会社から青森県交通安全協会に寄付金 交通事故の抑止に役立ててもらおうと 青森県",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQamFGT2RqbHM5WHhGT1ZpMllYRThjM2dUNW44ak5aQ2tvN2V6eXBEZjRNcVpwZFE3aGV5WnltaEpySzZLQzdiN0xIZVBxRXI3c2M5ZmEtVkJRakllUWZrLXVNSE0yamc?oc=5",
-      "date": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "女性が福祉施設の車両にはねられ死亡 「秋の全国交通安全運動」期間中に青森県内で初めての死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCbjYtQ2lZc2VVeWs4dXVRbmxsdVRYWTJ6MUFLcFNtY0NqNWZGWGRyb3NJU1ZTS1FnNGdHX3VWMEwwZDFiZWlnWndEYzU4N3lfMzJJUUFwejVZY3BpdURsSUZMdi1GYlU?oc=5",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "軽乗用車にバイクが追突 バイク運転の男性が死亡 青森市の国道103号（2026年9月27日掲載）｜青森放送NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGt4ZXZvVWoyRkZXaDNYNUZ2OFA5ZExYZ09xWVBGbmJoaS1SY2c1em9ZMVBsd2RJMVdRX25kY0ZiU3o4cmg5MTROSE5Cam1XX2pRQVJpcmtBd1hMVDZVZV9KMU1hMkhoWktPNzRYczhIY3FnNEtyZGIwYWo3MFR2Z0VwSHc4Rlk?oc=5",
       "date": "Sun, 27 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【速報】青森市営バスに軽乗用車が衝突 乗客約15人にけがはなし（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wRF9qX1h3dmg1ZkRRa0RuXzZyR3FpY19uclVwMnVVOEVYbVlnMkFHdDN4elNwT0h6TWNsYUFTTURQWjkySjNkUmpjRDBoMENNOEFUa2Q0M1Y4YTJOdzZrd0s4Y29tVTA5ZXpCTnRCa25oa2JlakV2YTJmZVNYM0k?oc=5",
+      "date": "Wed, 07 Oct 2026 11:19:13 GMT"
     },
     {
       "title": "青森・新郷村で伐採作業中 倒れてきた木の下敷きに 68歳男性が死亡（ABA青森朝日放送）",
