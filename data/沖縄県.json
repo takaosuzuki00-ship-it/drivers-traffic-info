@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-16T09:07:39.867094",
+  "generated_at": "2026-10-16T12:06:55.519332",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 28.1,
+    "temp_max": 28.5,
+    "temp_min": 22.3,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 6.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 22.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 28.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 28.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "18:00",
+        "temp": 26.1,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "21:00",
+        "temp": 25.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "自称歌手の男、車内に大麻 麻薬取締法違反の容疑で逮捕 沖縄",
@@ -33,29 +92,29 @@
   ],
   "accident_news": [
     {
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHRnY0MWdFMHA0Mmt2SGlZUjVNSnpSaWdCRWpsbDJUUldIOVRRZ09kaDhMdkN3RTNWR3dsRGM1blR3VWZKendaTkZyNWt4X1phVHRITmZqVVhKZlE3QUxWUQ?oc=5",
+      "date": "Thu, 15 Oct 2026 20:00:00 GMT"
+    },
+    {
+      "title": "【速報】那覇空港近くで交通規制 国道332号 単独事故で電柱倒壊 復旧作業に数時間（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYnh5Mm03YUl1MnU1amVZcWJKdWlQdk5QZ2IzNmVOSjZBczUzMVlVb2dQLVM4dzdGamJOWXVabUdPRjN0c0JEbkk2NjN0ektydHRIM3g4bUtJYjMzeldHSkh4a1hPNHk5bUEwdmNaNFdaVjNZb21pUUhHdl9oLTg?oc=5",
+      "date": "Fri, 16 Oct 2026 01:01:23 GMT"
+    },
+    {
       "title": "1人死亡3人けが 交差点で軽乗用車の事故 10日にも同じ場所で意識不明のバイク事故",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CREtmX2IzaFA3MHoxNml2ak9DTVVWUndBYXU0a291a2E4VEVDRVc5NUhBbl9wamd0c3lNck1Vb2RnTnFLa1BaNjZJUGtjb0k2bkRaYjN1a2c0QQ?oc=5",
       "date": "Mon, 12 Oct 2026 06:10:00 GMT"
     },
     {
-      "title": "軽自動車が街路樹に衝突炎上、車内から遺体 中城の県道29号 沖縄",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGRWVBTmd3c1h1dTUtbnhBcGJ3ZDJCdjBvY1poVG1rNkoxT2M3ejNDTEkxR3hsMW9EM2xsRUQ5MVZ0WTZCVVVqVjVLWmNXQU9qQ2c3YnhUdzR3YlRxd3hHSg?oc=5",
-      "date": "Thu, 08 Oct 2026 20:00:00 GMT"
+      "title": "【速報】那覇空港近くで交通規制 国道332号 単独事故で電柱倒壊 復旧作業に数時間",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NbU5VemNITHdZVGJDSHhFeGxtR2E4UnF0cTdaU2FEa3BGWnFmSGhqdWlkaG9YeXpFdlFXcVhoWFBaMEgtVVRLakV1SQ?oc=5",
+      "date": "Fri, 16 Oct 2026 00:40:06 GMT"
     },
     {
-      "title": "宜野湾市で死亡事故 右折と直進車両が交差点で衝突（沖縄テレビOTV）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NGRVQ1J3aUFJLTFUdUNwZmxRMkVWUk5IRW0xbXlSWEEyNWdqa2lQUUZVelFNRS01U0xuSWFjU0JiblBHX0lwVkZSUGdEVlNoYlJIcG9jVVpZWjJSM0lMVGE0RzNEMFcySVVMVkpSbXRCVExwdVZfalBTQjhfdmc?oc=5",
-      "date": "Mon, 12 Oct 2026 02:55:02 GMT"
-    },
-    {
-      "title": "イリオモテヤマネコ交通事故死 ４３５日の無事故記録途切れる",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rOUdJV2dRV0t1NGo2U2c0bWxfaU1LYjlWRFBtWVJJeHpZaHRyR0tpRGdULVdZazJDWFNVa1ZYRzNCcDZSU0NLWFNfci1WdE5VbDJURWpRUWE?oc=5",
-      "date": "Wed, 14 Oct 2026 21:30:08 GMT"
-    },
-    {
-      "title": "シュノーケルツアー中に意識不明 58歳男性が死亡 竹富島沖 沖縄（琉球新報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaWRMRWpnYlFjeTFmWk1zZXZoOUt4LW43SUl1X1ZHbk9ud25sY3VjLUZvanFTc013WXQ3VGpybV9Ka0tabDNqNzdwb3ZDNjh3aFJLQTJlRC1VUHhvR2M2aDFhdUp0MWhjaDFWZ012b1ZnbWdxRkQ0bGdmbG9tMGc?oc=5",
-      "date": "Tue, 13 Oct 2026 02:14:00 GMT"
+      "title": "宜野湾市の国道で車同士が衝突、86歳女性が死亡 同じ交差点で2日連続の事故（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YUFA0VXp0SHI5ajAtWlBodVphald4TkZvN2tYcndQaEx5UnA3RFJvaGdtSTRIa1Q4Zm9ySDNJNzkzalQ3clNNc3hLZ2JMWXJndjREbG9lWjFRUVF0NVo2RWpEdFkxUWJfT2daZ0Zyb3FIUkM1aDlBYTZYd0tpRGs?oc=5",
+      "date": "Wed, 14 Oct 2026 03:36:07 GMT"
     }
   ],
   "official_links": [

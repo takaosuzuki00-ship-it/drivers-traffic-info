@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-16T09:03:46.195607",
+  "generated_at": "2026-10-16T12:03:20.088932",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 24.9,
+    "temp_max": 26.4,
+    "temp_min": 12.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 24.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "生活道路で速度取り締まり 関市の市道、可搬式オービス活用",
@@ -43,6 +102,11 @@
       "date": "Wed, 14 Oct 2026 10:03:17 GMT"
     },
     {
+      "title": "交通事故発生状況（7月末現在）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vR2xwM3pnUVJlcDdIRG1VUmRrejlFSUM0a0NvZ1dfUjh0d1l1NDB2MkItd1lYeG53am9uVkJoYTBhSVN2aTllSkhldFB6b05qTEgtOHpET3R0dUhxbzRaaC1MRQ?oc=5",
+      "date": "Fri, 07 Aug 2026 09:22:15 GMT"
+    },
+    {
       "title": "運行中の路線バスと自転車の事故 自転車の男性（71）が死亡 岐阜市の県道",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cb3lEZnVjeWtrd2gzOGFnTDIzeVpSZXQtM1BzQ0ZQMzNONFI0Y25hb1dpUEhuT2JXN01PaUZONEZ0bF9ENzRHZFF4V2phYXRyMmfSAWRBVV95cUxQejQtNDZIMU1waWlTQlR2UDhpU1NJYU5DZmp6ZWk2RGxMSkNrd2hyVE1XUmZiT1hSeUpPMEx1SDFOeV9pQkwyLUxpLUpOZDlkX3g1Q1VLZWNRSG5tWUEtVWsxcXNE?oc=5",
       "date": "Sat, 10 Oct 2026 14:45:00 GMT"
@@ -51,11 +115,6 @@
       "title": "自販機補充作業中の男性はねられ重体、軽乗用車が民家に衝突 岐阜県美濃加茂市",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oYWI4cEhCNWctVFFUVkNkLWF6WFNSYTdSYjZTcjNfNkptdnk3M2ZtSlBQTDl1RjFMNWFJc1JRXzhzQk5nM3oyYmRqczRGUGt6bVl0Wg?oc=5",
       "date": "Tue, 13 Oct 2026 03:23:52 GMT"
-    },
-    {
-      "title": "側道から本線に入ろうとした自転車が路線バスと衝突、71歳男性死亡 岐阜市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbWp4VG80cTdlUVlVR3hTaE9GN0pfVmFzUEkxQXVUREV5eS1FbEE4cmxsUkNVTzZ0MFlGMFBtaVhpSTRFbnVtSEluNkdNc2lCMTBGdzBjMzJxRS1zVXpsT21VaWVHZUY1S1J4NVJUYlhrUQ?oc=5",
-      "date": "Sun, 11 Oct 2026 02:34:33 GMT"
     }
   ],
   "official_links": [
