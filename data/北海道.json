@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-16T15:01:39.410494",
+  "generated_at": "2026-10-16T18:00:58.201953",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 11.6,
+    "temp_max": 15.4,
+    "temp_min": 8.1,
+    "precip_prob_max": 78,
+    "precip_sum": 1.2,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 8.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 8.1,
+        "weather": "曇り",
+        "precip_prob": 37
+      },
+      {
+        "time": "06:00",
+        "temp": 8.5,
+        "weather": "曇り",
+        "precip_prob": 78
+      },
+      {
+        "time": "09:00",
+        "temp": 10.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "12:00",
+        "temp": 14.9,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "15:00",
+        "temp": 14.7,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "18:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 39
+      },
+      {
+        "time": "21:00",
+        "temp": 10.2,
+        "weather": "快晴",
+        "precip_prob": 25
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
@@ -43,11 +102,6 @@
       "date": "Tue, 13 Oct 2026 20:00:00 GMT"
     },
     {
-      "title": "【続報】大型バイクの事故 病院搬送の22歳男性が死亡 坂道のカーブを走行中に転倒か 北海道 ｜ ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1JnUkJVUHRZYzc3Qi1MZkdmcDVKbGlBanZDUjctSkR2bHZzZUh1bEtXNXA3YUtyTzFxNVFjd1FPeWxkMGtsajA2cS1ITHl5VXpFNDUwR2xBVTJndGl6bWRjMkRnRy1LVTN5bXNGYW9KTmVHUmwzdU1VTUpnbVJvUl9n?oc=5",
-      "date": "Mon, 12 Oct 2026 20:42:16 GMT"
-    },
-    {
       "title": "函館市の交通安全計画素案まとまる　高齢運転者の事故抑止推進",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNGJzSnQ4TGdlZG15b3VHSDc5NFNORVFBbnFWVnNrQnNybG53RjgxWE1FeEwwUUpYcEZoZWtWZjlYTHkzMXM2SnN5SHlLaE4za2pmTGVxdDY2dHZLSnNaS1Vob0xrRGtjdUJJN2ljYWFjaDRxeS03RVFvVy1OdHk4MTZ1OUlTbjV6dGhrcWNfMTV2RGlGQXNzcjlMT0Z1MmhRWVZvTERTUWFLV3VwMG13Q096UG9IakZFNUQ5QXd6V3RZbE1TeWtvLUprZFpTQm15QVHSAYIBQVVfeXFMTzRQbFloLVJJLUVnYXZtdDJXZHhIS0hSOUhrUzRIWWVSS2FfckpReG84Rk16ZTlFRE1RVzE4RlZSbnFObUJ2OFhQX1RkTWtZaDVkQzFnTTNyZkozRm13Yjg3YzhZb2hzOTRnRDZVTnUwNXdraXRUdjNRWmxIQzNWdV9RZw?oc=5",
       "date": "Wed, 14 Oct 2026 09:44:00 GMT"
@@ -56,6 +110,11 @@
       "title": "【10月、巨大エゾシカが衝突、車が大破】繁殖期に入るシカとの衝突事故が急増―巨大なシカとぶつかれば重大事故につながるリスクも…道路に残る\"ブレーキ痕\"を見つけた場合はシカが出没する可能性大＜北海道＞（北海道ニュースUHB）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUjA2c0RzdVRCRklpUWRXc2wxMEpLejJWWW9vUEpEQmd2ZTJSNVo5UDl0eVNFdU5teFVZaE5nT2RtenV3Z3MtMGo1eUpKTGdPckFoRXFDc1VuSVdGaWVQQ2hvZ085TnE5ZHl6VjJqVTRmaDY5UTBhXzJjc2ZteWM?oc=5",
       "date": "Tue, 06 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "新千歳空港IC近くの道道で乗用車とトレーラーが正面衝突 乗用車が全焼し男女2人死亡・幼い女児が重傷 北海道苫小牧市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNGxUbkhQdy0tQ05yVm1HY1E0T3JJZ3lNMzJlblFNOWJmWEdjOVFVSUZpT1lZeEhCaUNwWDRqVFF6RzdqTXVfRVR6aUw3eGw4VnZmUlNhMEk3NVA0dFNURlhWRFRNaW8?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
