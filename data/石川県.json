@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-16T12:02:51.624853",
+  "generated_at": "2026-10-16T15:03:18.961539",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 22.2,
-    "temp_max": 22.7,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 22.0,
+    "temp_max": 22.3,
     "temp_min": 15.2,
-    "precip_prob_max": 29,
-    "precip_sum": 1.4,
-    "wind_speed": 13.9,
+    "precip_prob_max": 51,
+    "precip_sum": 0.7,
+    "wind_speed": 11.8,
     "hourly": [
       {
         "time": "00:00",
@@ -33,41 +33,46 @@
       },
       {
         "time": "09:00",
-        "temp": 20.9,
+        "temp": 20.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.2,
+        "temp": 22.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 22.5,
+        "temp": 22.0,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 10
       },
       {
         "time": "18:00",
-        "temp": 21.1,
+        "temp": 20.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 27
+        "precip_prob": 51
       },
       {
         "time": "21:00",
-        "temp": 18.8,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 18.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月14日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZaXZlWkE3aTROMGVlOTBBTWpIbXFIOFdfME1tVWRHX1p5MTZIN3dSaEJhRkhDeGt0TGd6UVNxY0MyRHEzNXdxcm5LTi1vNjNQOU9sbFlFdjN5UU9FVDJqcFliTEx2UmRTREs3RVo5a9IBdEFVX3lxTFA3N01xVkFfbFFDdEhaQThoTnpRWDZKRlBOaXgtdGMtREtTb21aaVVIaFB4QmRzU2N2U1NzOHVxTkJFd25JQVFRUnY5VWtWR0psSkVjbWNEanZLeFpqbFJRVTBSdHowR2Nwa3ljQ1dIWXJFYkNF?oc=5",
-      "date": "Tue, 13 Oct 2026 20:00:00 GMT"
+      "title": "10月16日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HTVdXNnktR19ReWVueGxfdTI0bVU4eFdLM3ZRdGFsVmZYQmJTVjRCaUFoYlhoRkNZQ3hwYl9zZVBtRzhwT3lta2xSS1ZjUVlLSXBEUUZkdWNrdEQzN29Mc2U5OUVsN2JpS1UxNy1rc9IBdEFVX3lxTFBQNEw2QWFhTnBwTk5DN09uQkJpVFR5bGNpb0NKNXVzTGJ6Y1JNQmRGUFg1VWZmMmx0OXk4UlhPU1hUOThVSVVDcEFndW5ndGdxa05KOVc1N204SklVWFROYWVDazViRmRXSUdjdWU3dnYtTDFD?oc=5",
+      "date": "Thu, 15 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１０月１５日（木）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92bm51djA4N1QwTzB3TmxrRnQ2RGhfNnYtWGxmZWlnTXpVU3dQU1hvNFRGaTBXTFExWmhWUHpWRDNyZ1VEMmdUWm5DenJQZFZnS0c2SkxRRzVUTTBVY2tBeEl4M3pvc3ZlNjhWUlk3alZwQdIBd0FVX3lxTE9rWWlRUGtSZ2NPd0RnR3FpQzA5TDZNR3dqM05YYzRxUTNUSHNrWHNqX3BGQVFjVFE1dDJWb3h6dTFuNVlIcXg0a3Q1THg2MFU4bzZpY25BU0ZSN0hGRG5scUNOOFhwUDlfbGZKQ3Uxdlo4NkFKWGYw?oc=5",
+      "date": "Wed, 14 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "繁華街の交通違反 ＫＴ４が行く！ 取り締まりチーム 金沢中署で出動式",
@@ -83,18 +88,13 @@
       "title": "飲酒運転根絶へ 石川署が夜間検問",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
       "date": "Tue, 29 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "未解決のまま18年 金沢市久安で会社員の男性が何者かに殺された事件 遺族と警察が現場周辺で検問し情報提供求める",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFanduWFNzR3ZGbkZrY3h3eS1iZVFCWU9feXZQQTBoUlo0dzJLWWVkSDJFZWlRaEtuMEwzN3RrYmRwZ3dMQjR5c2VPZFdQVm5HanRVN1NSTVI1X2NfMFZUOGhqMnF2WE0?oc=5",
-      "date": "Sun, 28 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "横断中の女性はねられ死亡 石川で交通死亡事故相次ぐ 5年ぶり交通死亡事故多発注意報を発令（テレビ金沢）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uaFZUTDRCWVRQNFJWcFZ0UUhBNTV1YWI4ZWJlR3BFSWFTQjBSZktMcEpidEtsMS1OWHlSRW81a0hNQVlnM0w4VFRBX0xqYzZEbW5yb29uQXBvdGdPNUl5M2RHXzBEczFiazZSVGtFcUVROTFXOXhCcUpSd0NPTE0?oc=5",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
@@ -112,9 +112,9 @@
       "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "石川県内に「交通死亡事故多発注意報」を発令 金沢市内の死亡事故が発生した現場で注意呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Yi04YXM0dXlhMmpURzZBdXJXRHJuaV9Qaks2UkQweVV2SzZMRnNYN19oMzVYZFowVVMweGx6akNHNTdVWldobmYtSUU5dmNZSlhNdkRRQTBMb29vSTIxTmZIRzJRbURzVkJIMVpMTdIBdEFVX3lxTE44VFJWdTJhZ2dwRFM5WXhsbzlxR2VQd01hTFZOVVVCc2c1V2hBNmxUbm00ekdSZkRCbm1OT0t1OTdTTndYemJOeE84N2M1T3BHaFcyczRsanZDeU91bWFYdjdwUzdBOG1NZnBPVzZzXzA5ekZf?oc=5",
-      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+      "title": "車と自転車が衝突 49歳公務員男性が死亡 石川・金沢市（2026年9月30日掲載）｜テレ金NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNemJ4a0xxdFdYVzdjVHpyVTZMeGFIaUc1ank1RjVmTDluY3l5TUNfVldQRkljQmQtZGhkSHNrbzlwSGFZNnN0TUROZXRDa2xZZzVpTERXYldvT0NlanFFZ2VxbEJMbENlS1g2U3VVd2lXSndINnhDS05aZ25EVlVtNzI0OUtOeTg?oc=5",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
