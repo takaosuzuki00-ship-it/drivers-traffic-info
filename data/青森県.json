@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-17T09:00:39.320453",
+  "generated_at": "2026-10-17T12:01:19.724196",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 16.0,
+    "temp_max": 16.1,
+    "temp_min": 10.1,
+    "precip_prob_max": 20,
+    "precip_sum": 0,
+    "wind_speed": 15.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.4,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 13.0,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 11.9,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 14.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 15.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 10.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -16,14 +75,14 @@
       "date": "Sat, 10 Oct 2026 20:00:33 GMT"
     },
     {
+      "title": "10月17日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R1FUNEMtUjh5Q2U0UHVUaDk4Q25yMXRmcGNza0xuVWlMa3RiRExzcnJIdTBoVEZMN2xNV3Vjd0JsU1NKMnNBaDJQSm12ZlI1bW9sX2hHTDdtbFVRWGdpX3FJQThvS250OERhd2N0QdIBdEFVX3lxTE9SNklOUlRxck90TzhYUVlnRS1nUVZ5amxPU255XzZuQWx6c2hKWFV1VDJ6NXQxZ0taRHJDTU9iT1NQMjUxTEx5cXlNa3N5NmdVeWpRT3RzLVJsTnZhekFTd1hFZUNteVY3TjBoQkFtUjBETkpv?oc=5",
+      "date": "Fri, 16 Oct 2026 20:02:00 GMT"
+    },
+    {
       "title": "10月16日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HTVdXNnktR19ReWVueGxfdTI0bVU4eFdLM3ZRdGFsVmZYQmJTVjRCaUFoYlhoRkNZQ3hwYl9zZVBtRzhwT3lta2xSS1ZjUVlLSXBEUUZkdWNrdEQzN29Mc2U5OUVsN2JpS1UxNy1rc9IBdEFVX3lxTFBQNEw2QWFhTnBwTk5DN09uQkJpVFR5bGNpb0NKNXVzTGJ6Y1JNQmRGUFg1VWZmMmx0OXk4UlhPU1hUOThVSVVDcEFndW5ndGdxa05KOVc1N204SklVWFROYWVDazViRmRXSUdjdWU3dnYtTDFD?oc=5",
       "date": "Thu, 15 Oct 2026 20:02:00 GMT"
-    },
-    {
-      "title": "１０月１２日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MMGpYMWhKSXdHSG41dU5RRDA4NnAxZkt6b0p1clR0TW5DdXp6MzdNMzZlWXpVNjBEMm40X2dzdmVYbmFRSDBXUnlrb2NOTFQtSUsyRWJwVmRDUnRwNEpaalI1Nm9ndFU1ZGItNTlWajZNQdIBd0FVX3lxTFBPbXFfZERMRjhhUlJCa2IzSmNhOVQtV3cwZDNiZVBvb2NuX2ZQRlJDVWpJdHhHMmQyYUNMUmhidDE0Mk4tbDFvSFNueDE1V3kyT2hONkpDblgzMXdpTi0zLXFzYUNmRWF4UUROTGpMN2FndlpUNElZ?oc=5",
-      "date": "Sun, 11 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "自転車「青切符」青森県内初摘発 鰺ケ沢署では中学生対象に安全教室",
@@ -43,9 +102,9 @@
       "date": "Sat, 15 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "高齢ドライバー事故相次ぎ免許更新ルール厳格化へ 「生活の足」確保へ平川市でデマンド交通も 青森",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tbzEzUWdmbC1QZ1BRbmw1VzFMV2JvazVENUFWSFFzVTF0dUxVb0RzazFOc3d5UVpIdWFPZE5fMjhKa3Z6em9ETmlHNzZlUy05Ymc2Q3NhamhuZnVBS0ZYTGZ1dTI2MURjU3NLd2N6b3F2eDBNaF8xNFl6WdIBgAFBVV95cUxOOGljR1BOYmpJNEZvQWM3TlM2bF9HMy1jZHprSWkxYURYWXduZjczVXBUVVM5VHFJMnJjcVVJUnpFclVxV3RTdTM4SzQ4YnNuZThIU3h4RW9ucHQ4Z0VxblYwZlB2aGJUemJaUkpXXzkzMGc2V3hZZkhGX0hCT0FLeA?oc=5",
-      "date": "Wed, 14 Oct 2026 11:10:00 GMT"
+      "title": "高齢ドライバー事故相次ぎ免許更新ルール厳格化へ 「生活の足」確保へ平川市でデマンド交通も 青森（青森放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wc0ZrVzZoYmpWTHVza1YydE9uTzV2UTF5MVlnSUc2OE9ZSjYtczJxYk8yLWRMd1VXNGQ1S292MFZUTTlDYWRWZzN0Y1poZ29jNEdfWDlVTG0yY3hZSlE5WXdtM2JzNUhsVWk1RnFDZjJ6Q0JjVVBOM2RaSlhfVkk?oc=5",
+      "date": "Wed, 14 Oct 2026 11:10:01 GMT"
     },
     {
       "title": "弘前の交差点で信号機なぎ倒す事故｜青森ニュース｜Web東奥",

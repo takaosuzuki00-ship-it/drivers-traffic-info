@@ -1,37 +1,101 @@
 {
-  "generated_at": "2026-10-17T09:01:05.689802",
+  "generated_at": "2026-10-17T12:01:47.700642",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 20.7,
+    "temp_max": 20.9,
+    "temp_min": 11.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 15.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "10月16日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HTVdXNnktR19ReWVueGxfdTI0bVU4eFdLM3ZRdGFsVmZYQmJTVjRCaUFoYlhoRkNZQ3hwYl9zZVBtRzhwT3lta2xSS1ZjUVlLSXBEUUZkdWNrdEQzN29Mc2U5OUVsN2JpS1UxNy1rc9IBdEFVX3lxTFBQNEw2QWFhTnBwTk5DN09uQkJpVFR5bGNpb0NKNXVzTGJ6Y1JNQmRGUFg1VWZmMmx0OXk4UlhPU1hUOThVSVVDcEFndW5ndGdxa05KOVc1N204SklVWFROYWVDazViRmRXSUdjdWU3dnYtTDFD?oc=5",
-      "date": "Thu, 15 Oct 2026 20:02:00 GMT"
+      "title": "10月17日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R1FUNEMtUjh5Q2U0UHVUaDk4Q25yMXRmcGNza0xuVWlMa3RiRExzcnJIdTBoVEZMN2xNV3Vjd0JsU1NKMnNBaDJQSm12ZlI1bW9sX2hHTDdtbFVRWGdpX3FJQThvS250OERhd2N0QdIBdEFVX3lxTE9SNklOUlRxck90TzhYUVlnRS1nUVZ5amxPU255XzZuQWx6c2hKWFV1VDJ6NXQxZ0taRHJDTU9iT1NQMjUxTEx5cXlNa3N5NmdVeWpRT3RzLVJsTnZhekFTd1hFZUNteVY3TjBoQkFtUjBETkpv?oc=5",
+      "date": "Fri, 16 Oct 2026 20:02:00 GMT"
     },
     {
-      "title": "１０月１６日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFemRXZnhLQS1vTXRJTEVyTkdwQy1HVV92WG1SU3FPc0hQdEhPM21CWWpobDdObjNxNkRrU3FnWGFNOExVd2h0ZXlzazR1ekFNZzJHNUpLckplZmVnMzBjM1Q2SEk2YmplX1JuSnRfYzBWZ9IBd0FVX3lxTE0weVJYZDExblRGc0ZZWnpxY2R5OWxwYUNxTDhmY0liblZ0cFllQWVzOFZOYlNwRTFnbkRLdk5mWWUyZFZMNUtvU0FLNWI5QjZBYVhTdTFNd3BoTXFleGJDMHJtZ0tZZkZob1M2Z1NYMUNTbVNJVUxJ?oc=5",
-      "date": "Thu, 15 Oct 2026 20:13:28 GMT"
+      "title": "10月17日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uaWl2dC1oRnlLOXlMbnNQcUZXNHlrYVJSeDVwbnFoa1RqZ1JsZ0VfZGdhT0RCMW1IM0NZQm9VeURtT0NsS3FhMTgyVWxKTk1XOFVaTjlIdk1hZmJlazYxc1J4LXp4NTAyS2MzcVN3?oc=5",
+      "date": "Fri, 16 Oct 2026 20:05:00 GMT"
     },
     {
-      "title": "松明通りで夜間検問実施 須賀川署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSElLUmoweGJfR3pHNEN2bDE0U3pRVTNGWGVDbGtUS0l2Rk1Lb09tOEdrak9nWUNJMEJEMGlSTzZhUThQV3QxbXBTemdndGM?oc=5",
-      "date": "Tue, 06 Oct 2026 20:26:00 GMT"
+      "title": "１０月１７日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XWVFtSUlkWXlwNU8zTFRjTUZMVUtvR3FjMGFYcmtrWHpiU2k2QlRrNEQ0SVhFQndlSlpRX1FYU2NfMnRlMk9zV2MyYm1yRV81NUZJZnRXTzI4cWJtNkNXY0kwTzU2a0UweGszb2FDODlUZ9IBd0FVX3lxTE1VUDFkTjluTlNnSko1QjVyNzJIbW9KX0RkUFFzT2VBSlZVRE5yU0Z5WjQwb2trdlBLTDZkWWtINDlmRFlORVZVNmlYMXA3dUFTMm9xbmxjLW52WjZ3X21KMWpYR3hBN0ZhcFJnX0tCLUwzQXVDRjg0?oc=5",
+      "date": "Fri, 16 Oct 2026 20:09:26 GMT"
     },
     {
-      "title": "飲酒運転根絶へ 石川署が夜間検問",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+      "title": "国道４号で夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "飲酒運転根絶へ 石川署が夜間検問",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTENMZVZnN2tFSk1vWFNtVzVFYm5FbDBoTXI1RWl3YTBxUDBVbVpteHd4MXI4aFh0TG9MNF9sTUR4Q2M1M20tMEJlaXlUSHZLNUo1TkpYWUV3dTdMS3VhOVdIWnRURF9oYm16VFZRWG14dWZKZVpvcDFXbU5qRlU?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "【速報】福島市の東北道 トラックが停車中の軽乗用車に追突1人死亡3人搬送 東北道下り・福島飯坂IC～桑折JCT通行止め 17日",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QTXN1Qk9HdURIZDZFWVNPRU1GNE9rcy0xQVJaOFU5YWwwQmNPcmVuM1ZqTHNyWnZUdUpHajRzQnJ1NmdxeTZBRFl5MUpXOXBNeDI5TmtCaGY4bkNmaHNXU0EzUEhpMm8?oc=5",
+      "date": "Sat, 17 Oct 2026 00:36:00 GMT"
+    },
     {
       "title": "軽乗用車と大型トラック衝突 10代男性が意識不明の重体、2人重軽傷 古殿",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10QUtnc2hLbHoycG1jU1FLZTJ6YzktclNCLU5iaGg0ZFpTUkJUNjhOWWJBaXhRTDRmRmpsNmNFLVdqNVdGR2duRHRodHZ4SnVCSUdXWUN0cWd5ZHFWN19BZmRveS00N05k?oc=5",
@@ -48,14 +112,9 @@
       "date": "Wed, 14 Oct 2026 00:40:00 GMT"
     },
     {
-      "title": "古殿町で事故 80代男性が死亡 4人けが 近くでは先月も事故 福島（TUFテレビユー福島）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JQ0pSMGpVd0E3NHE1TW5SdzBtSTFYQ2lmY05tUGhoUDFHYjFNSzlsXzN2ZEJBNUUwcUlZdDNNTGJBNnl0SDlBREU3V2gteEEzUWU4ZmZ3YjdnWmFER1RfZlc4TGZPcEhETU9sRGlkZkJWTUEyQjF6aUV6bFVPdkE?oc=5",
-      "date": "Mon, 12 Oct 2026 07:46:14 GMT"
-    },
-    {
-      "title": "交通事故「なし」ナシで呼びかけ 福島市と市交対協",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vaTJfbzBBQUxxZzRjOEx6VWxXVDJ2b3p6ZDgyWU5PY1A5VTZ4RGliWWNwT2tvbUdSbVJERmVUdjFKdlFuTjFxMlBlRQ?oc=5",
-      "date": "Tue, 06 Oct 2026 20:38:00 GMT"
+      "title": "交通事故保険金詐欺事件 福島市の接骨院院長を送検 詐欺を主導 複数の患者と同様の犯行繰り返したか （福島テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udUt5RTY5N25KU0ZocnpRZzYxSkRVRnZxdFVNZnA3RDB0Mi1nU2JTbVpJZEMxV0tzZFFnX0ZUQVdHa2QtUTY5aDlscDM4LTBodmozdkliUkhUNDU3ZXhnT1Zka3M4RFRsMUQ1WGJ6emtrQk51SGtTX2Y3NnJ3MUk?oc=5",
+      "date": "Thu, 15 Oct 2026 10:15:01 GMT"
     }
   ],
   "official_links": [

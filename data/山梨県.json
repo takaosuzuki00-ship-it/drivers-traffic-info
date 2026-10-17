@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-17T09:02:23.100226",
+  "generated_at": "2026-10-17T12:02:47.103372",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 23.7,
+    "temp_max": 25.5,
+    "temp_min": 14.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 14.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 25.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 20.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１０月１６日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -21,14 +80,14 @@
       "date": "Wed, 14 Oct 2026 20:11:06 GMT"
     },
     {
-      "title": "10月12日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcnJTcmJBTndHUjY3R1JjNHVQT19pd20yMXZwaHpWdUxmWDY5SnlyR29OaEh3WGRyQ2U0cnZiZE5CaFpuN0ttd3c0dkhXbFpwRGRIQkhvd09sUkQ2aXozWDdMMHlJeFBuYXh6UzFR?oc=5",
-      "date": "Sun, 11 Oct 2026 20:07:00 GMT"
+      "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
+      "date": "Tue, 26 May 2026 07:00:00 GMT"
     },
     {
       "title": "包囲型の飲酒検問 中心街から移動する全ての一般車両を停める 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2emo2OVFUVkVIb0FmUTFyWFA5S1pUakhUeWZtUzVtS2lydXVfWDlMM2NMT3RBbFQzdmRSZ29uVlpfb3lpeGh2eXpvQmFubFBNb2JTTm1FTHZCc20zQ2VR?oc=5",
-      "date": "Fri, 02 Oct 2026 06:52:35 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zbkN2dnppLWRhblp5RFk1QjFFMjZ6N0ZDeVlYNFB0SW9VWU0tNFBNczNGQUpEMmE5Q3JUZlVha25xRWxRbEhWNXFmVUFXcm5BQlRSMVJvTQ?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -38,14 +97,14 @@
       "date": "Wed, 14 Oct 2026 08:33:06 GMT"
     },
     {
-      "title": "【事故の瞬間を再現】「傘さし運転」や「二人乗り」など自転車の事故をスタントマンが実演 危険性を中学生が学ぶ 山梨",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZnh6SDJUYS05RW1oUjZBaDR4cnJvaHlHSmduUW9OeEQ4eXRFdDVURlN6Z2tJWlowNlRtQ1M5ZG1yODVYUlpoTWF6emZMUG9ZYXhIYmNDekJ5STJHWkI5a0ZCVlZjU0E?oc=5",
-      "date": "Wed, 14 Oct 2026 11:12:00 GMT"
-    },
-    {
       "title": "夜の国道20号 交差点で軽乗用車と乗用車が衝突 女性2人が負傷（UTYテレビ山梨）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuelVDYzg1OXZUZEZPSzV6R0wwd1ZUR2k2ZjJOQkJlMnFwbV9RNnNHX0NidWhUQ3pscTQybzBrRzRBQ2pobWhVLTdUM1BCeGg3dXpXQXRSUkcydWxuVzFZWWM3MUlsQVI5VHU1bGZJSHQyVzNEQklBcldsM2Q4bFk?oc=5",
       "date": "Fri, 16 Oct 2026 03:07:12 GMT"
+    },
+    {
+      "title": "【事故の瞬間を再現】「傘さし運転」や「二人乗り」など自転車の事故をスタントマンが実演 危険性を中学生が学ぶ 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZnh6SDJUYS05RW1oUjZBaDR4cnJvaHlHSmduUW9OeEQ4eXRFdDVURlN6Z2tJWlowNlRtQ1M5ZG1yODVYUlpoTWF6emZMUG9ZYXhIYmNDekJ5STJHWkI5a0ZCVlZjU0E?oc=5",
+      "date": "Wed, 14 Oct 2026 11:12:00 GMT"
     },
     {
       "title": "日暮れ時の自転車事故注意 中学生が交通安全教室 山梨",
@@ -53,9 +112,9 @@
       "date": "Wed, 14 Oct 2026 07:30:00 GMT"
     },
     {
-      "title": "【速報】山梨・大月市の中央道で12台絡む事故 2人けが",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rSmppMGdNaWJUTFNJLUxNazZLTGtJYmg5NjRwSTh6MWRIT3UxNE5qM3ZkV0FzbUxVWnBrV1p3ZlUtS2ZIb25rV2ZOcDRGUUZ5TWhQZzdXZGQ5Q0s0MDRaQ292V3BFRHFZUEdxMG5qTnpLdw?oc=5",
-      "date": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "【速報】山梨・大月市の中央道で12台絡む事故 2人けが – Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FbnlwbU5naXVVMi15WW1pcE9mSDQtcWtWVzhxdXhhY3dOWFFnUGQwMm9EbWsySUlkVWl4LUJTRUlqa1pnWEdCMjJtM0g1dDZIbGE0T2cxZHE?oc=5",
+      "date": "Mon, 05 Oct 2026 15:23:58 GMT"
     }
   ],
   "official_links": [
