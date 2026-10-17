@@ -1,73 +1,14 @@
 {
-  "generated_at": "2026-10-17T06:02:54.869910",
+  "generated_at": "2026-10-17T09:02:23.100226",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 14.7,
-    "temp_max": 25.4,
-    "temp_min": 14.7,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 3.6,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 17.5,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 15.7,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 14.7,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 18.9,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 23.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 25.4,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 20.4,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "21:00",
-        "temp": 17.0,
-        "weather": "快晴",
-        "precip_prob": 0
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
-      "title": "10月15日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11Q2xYTkJUU19LRzM1dXdsQ3RDMFhFRlljLVl6Tnp1OV9mN0g2eDJCRHFwNmhfTU5pVGdxSWFYMm5MbzhMejVfbWhCMzE4RjNiOVpNRnFWQkNHT3dPa2pGNE9NN1dqUGpoNTVsc3Z0MNIBdEFVX3lxTFBTNUZUZTVOZFk3NldGT1BCR09mbTFBdnIwVUdxSXpkZkxTZFBydDBwMEdGYXFleG9ScE82YnpuZFhwdUVjVzNjclRLY1dBZXJSaExRdld4Zl9yeHVydWt0YkMtWF9nLVZDYk1NOVZGMGE5cGFy?oc=5",
-      "date": "Wed, 14 Oct 2026 20:11:06 GMT"
+      "title": "１０月１６日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFemRXZnhLQS1vTXRJTEVyTkdwQy1HVV92WG1SU3FPc0hQdEhPM21CWWpobDdObjNxNkRrU3FnWGFNOExVd2h0ZXlzazR1ekFNZzJHNUpLckplZmVnMzBjM1Q2SEk2YmplX1JuSnRfYzBWZ9IBd0FVX3lxTE0weVJYZDExblRGc0ZZWnpxY2R5OWxwYUNxTDhmY0liblZ0cFllQWVzOFZOYlNwRTFnbkRLdk5mWWUyZFZMNUtvU0FLNWI5QjZBYVhTdTFNd3BoTXFleGJDMHJtZ0tZZkZob1M2Z1NYMUNTbVNJVUxJ?oc=5",
+      "date": "Thu, 15 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "飲酒運転取り締まり場所を公表 7月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
@@ -75,27 +16,22 @@
       "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
-      "date": "Tue, 26 May 2026 07:00:00 GMT"
+      "title": "10月15日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11Q2xYTkJUU19LRzM1dXdsQ3RDMFhFRlljLVl6Tnp1OV9mN0g2eDJCRHFwNmhfTU5pVGdxSWFYMm5MbzhMejVfbWhCMzE4RjNiOVpNRnFWQkNHT3dPa2pGNE9NN1dqUGpoNTVsc3Z0MNIBdEFVX3lxTFBTNUZUZTVOZFk3NldGT1BCR09mbTFBdnIwVUdxSXpkZkxTZFBydDBwMEdGYXFleG9ScE82YnpuZFhwdUVjVzNjclRLY1dBZXJSaExRdld4Zl9yeHVydWt0YkMtWF9nLVZDYk1NOVZGMGE5cGFy?oc=5",
+      "date": "Wed, 14 Oct 2026 20:11:06 GMT"
+    },
+    {
+      "title": "10月12日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcnJTcmJBTndHUjY3R1JjNHVQT19pd20yMXZwaHpWdUxmWDY5SnlyR29OaEh3WGRyQ2U0cnZiZE5CaFpuN0ttd3c0dkhXbFpwRGRIQkhvd09sUkQ2aXozWDdMMHlJeFBuYXh6UzFR?oc=5",
+      "date": "Sun, 11 Oct 2026 20:07:00 GMT"
     },
     {
       "title": "包囲型の飲酒検問 中心街から移動する全ての一般車両を停める 山梨県警",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2emo2OVFUVkVIb0FmUTFyWFA5S1pUakhUeWZtUzVtS2lydXVfWDlMM2NMT3RBbFQzdmRSZ29uVlpfb3lpeGh2eXpvQmFubFBNb2JTTm1FTHZCc20zQ2VR?oc=5",
       "date": "Fri, 02 Oct 2026 06:52:35 GMT"
-    },
-    {
-      "title": "飲酒運転取り締まり場所を公表 8月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83ZjVwUDNNYjJpZmtvVGRBLTNRT3hzWVhfWGoyNTNPTUo4RGJHYm1kWlFLSHFOM2NzLUZfSEJjSEFQajItX1BmdG9KN3V5ZlNCeDRoSjZvQQ?oc=5",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "夜の国道20号 交差点で軽乗用車と乗用車が衝突 女性2人が負傷（UTYテレビ山梨）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuelVDYzg1OXZUZEZPSzV6R0wwd1ZUR2k2ZjJOQkJlMnFwbV9RNnNHX0NidWhUQ3pscTQybzBrRzRBQ2pobWhVLTdUM1BCeGg3dXpXQXRSUkcydWxuVzFZWWM3MUlsQVI5VHU1bGZJSHQyVzNEQklBcldsM2Q4bFk?oc=5",
-      "date": "Fri, 16 Oct 2026 03:07:12 GMT"
-    },
     {
       "title": "詐欺被害や交通事故防止へ連携協定 県警と県老人ク連合会",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHY1JBVjYyM2hwd2I2ZlpWaXJ6elZ6ZERJNmNZV2N0OHdReWhKWm5zZUIybGVvM3p4Qi1zR2ExSy1CcnNEbEdYNnNsRkVXbVAtQ3I0blRtblNyYnJFNHA3dE03cHM4cG5pOGpoVTNnbjgzSXJH?oc=5",
@@ -105,6 +41,11 @@
       "title": "【事故の瞬間を再現】「傘さし運転」や「二人乗り」など自転車の事故をスタントマンが実演 危険性を中学生が学ぶ 山梨",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZnh6SDJUYS05RW1oUjZBaDR4cnJvaHlHSmduUW9OeEQ4eXRFdDVURlN6Z2tJWlowNlRtQ1M5ZG1yODVYUlpoTWF6emZMUG9ZYXhIYmNDekJ5STJHWkI5a0ZCVlZjU0E?oc=5",
       "date": "Wed, 14 Oct 2026 11:12:00 GMT"
+    },
+    {
+      "title": "夜の国道20号 交差点で軽乗用車と乗用車が衝突 女性2人が負傷（UTYテレビ山梨）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuelVDYzg1OXZUZEZPSzV6R0wwd1ZUR2k2ZjJOQkJlMnFwbV9RNnNHX0NidWhUQ3pscTQybzBrRzRBQ2pobWhVLTdUM1BCeGg3dXpXQXRSUkcydWxuVzFZWWM3MUlsQVI5VHU1bGZJSHQyVzNEQklBcldsM2Q4bFk?oc=5",
+      "date": "Fri, 16 Oct 2026 03:07:12 GMT"
     },
     {
       "title": "日暮れ時の自転車事故注意 中学生が交通安全教室 山梨",
