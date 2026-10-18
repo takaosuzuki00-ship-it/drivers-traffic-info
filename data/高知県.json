@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-18T09:04:55.953100",
+  "generated_at": "2026-10-18T12:05:11.316619",
   "pref": "高知県",
   "region": "四国地方",
   "capital": "高知",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 22.1,
+    "temp_max": 22.9,
+    "temp_min": 17.3,
+    "precip_prob_max": 100,
+    "precip_sum": 4.3,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 17.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 18.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "12:00",
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 21.7,
+        "weather": "強い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "18:00",
+        "temp": 20.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "21:00",
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 75
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月18日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧（テレビ高知）",
