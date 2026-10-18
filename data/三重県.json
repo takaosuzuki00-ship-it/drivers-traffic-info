@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-18T12:03:50.779634",
+  "generated_at": "2026-10-18T15:03:34.875143",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 23.4,
+    "temp_max": 23.6,
+    "temp_min": 15.7,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 17.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 20.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 22.8,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 23.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 20.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月18日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
@@ -33,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "交通事故で長男亡くした遺族が講演 犯罪被害者支援への理解訴え 三重・松阪市（三重テレビ放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbXVBdWR5Y1UxUXRWc001amNOaUFjTHpSRDVYblYyOXdoZ01UREVONE1KSHpnWXJ2UEpnc0ZKRGthYnRXRWVfUUNwNHBjcXVtUXZSajc2VlVSV1R3dlp3NVhtZ1RIMjZ5MDN6TGx3czVOdWo1M3IxclpYb3hRNlU?oc=5",
-      "date": "Tue, 13 Oct 2026 01:30:37 GMT"
+      "title": "原付に追突、救護せず逃走 男性(65)重傷 車運転の男(34)逮捕 三重・松阪（夕刊三重）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MnpCU3VUd013enF1aVlRdDE0OEdPQ0pBT0dCM2VTbmp4dEVrbnZQSXByRF9TQUl0Tjk3cDB3QVI0aGRpRzE5ME84WWJUZEFjZVBEVm52Y2o1bWxvRWdQMGNxVmRfT1RmcFNHU1M5UjN0Qk1wWGs5cVpfczVTeG8?oc=5",
+      "date": "Thu, 15 Oct 2026 09:03:40 GMT"
     },
     {
       "title": "三重県で交通死亡事故が急増…県警が出した答えは「赤色灯フル回転」",
@@ -43,19 +102,19 @@
       "date": "Sun, 16 Aug 2026 07:00:00 GMT"
     },
     {
+      "title": "三重県四日市市の交差点で車と自転車が衝突　自転車の女子高校生が意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2U1NFZBaEwxb256N1NEclY5dzZPdW9qOE9ycjJyY1JpbXU5aGxpZFJFMEF6X1FsYkp3YmRxcV9EaHUwMHlPY1ZFYnQtcWp2R082VW40cFNlQWZHQXhtVS1MeHIxSk9nXzVnR3lxRWI1UmdwNjNJR0VRQWhwUXk3dDE1eUtPQlhQOTBtQ3JzN0ctZU9OSGl3Y0M3T21hRlRONF9LamdxaTZqb2pYT1dhaTZkbERsWmhwcjJja1FYX0hjQkpYa2Y5R0cxdDNtaUlL0gGAAUFVX3lxTE5SWHp6eGs5SmNXdWFaRmNpNmpIZkp3UTdvd2FTZGJNdFduYlAxcTBGUVRISjljcm45a3lQNlpIYUVwNWllcUVLekVFc3VXWW91emU2UzVNdS1zb3NEYlhHRzJETm96OTJQS2ItcE85VXE5YTJaVVVDMTRiSXpPZ0Nm?oc=5",
+      "date": "Sun, 18 Oct 2026 03:48:00 GMT"
+    },
+    {
+      "title": "交通事故で長男亡くした遺族が講演 犯罪被害者支援への理解訴え 三重・松阪市（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbXVBdWR5Y1UxUXRWc001amNOaUFjTHpSRDVYblYyOXdoZ01UREVONE1KSHpnWXJ2UEpnc0ZKRGthYnRXRWVfUUNwNHBjcXVtUXZSajc2VlVSV1R3dlp3NVhtZ1RIMjZ5MDN6TGx3czVOdWo1M3IxclpYb3hRNlU?oc=5",
+      "date": "Tue, 13 Oct 2026 01:30:37 GMT"
+    },
+    {
       "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMl83RlpLZVpYTWVYbnU2bXJ1Z0pITnFyRVVJYkM3ei1yT1hjZ0pVaWg2QWdPal9MZUpOM2VvSFpnN2x6b1E0RGdjVFNTMW1ja3RPZDB0T2FIaGlTVEdsSE1WS0QzU2dsQXlGVXVZZGM?oc=5",
       "date": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "ＶＲで事故疑似体験 朝日町で交通安全啓発 ６歳「怖くてびっくり」 三重",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxObDZSMERIc3NHVnVER1g4UV91SDRYMzh3VzRxNkg1dHRsLUExWU4xOXpmT2tqUnJ1NExkQ3AzbVdRY2ZUNFp3ZzVsNlJSY291cXprQl9VT3Y3TVdEMVJmMVhBd1QxaXNVTC1zRGJBNG43R055TGlyMTZIb1N3bnU3djk1M19EeWhWQXpFRkVqYTdhODhLc2ZZSlgteUVaYjY1RlJGVlk5WjlyVjVZMWlESG9uTU9rbm5FeGs2SHN4Wm5XajZrMHV3am5ncEdLQVJKa0VzOFg1bkxtRHkxWTNvSklybEFKM3pKaE5TOGo4VEZPb3MySFlqSjk3STItR3pSTkR1b0M3NU9CV0lQTGEwZ2RWSDdhMGp1OFBWZkdLb2NpdFRFemgzakQ2OVVqQ3l2LVdWRW14cmdKV0xFM0kwVVl4YnB3MWd1OTB3V2JWa0xfV3kycGxaWXBuNXJwUQ?oc=5",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【速報】三重・津市でマイクロバスが高架橋に衝突 乗車の高校生8人を病院搬送 警察",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JTmkxa1N1d3NETzFCM01qN0l6bkNGZ1JaQUkyWGZ0RFZ3bG9PeHRFVTJQQ043MEFqMzdrdDREdHRZajhKVmNzX0E5ZTlJdFgyWmwzbk5QVUxNMXdVVm9NbWNDem9UQno2dHJsZExULWduZw?oc=5",
-      "date": "Sat, 26 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
