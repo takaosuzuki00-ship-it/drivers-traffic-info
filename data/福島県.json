@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-10-19T21:01:33.718725",
+  "generated_at": "2026-10-20T00:01:39.448579",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 18.2,
-    "temp_max": 23.7,
-    "temp_min": 16.9,
-    "precip_prob_max": 84,
-    "precip_sum": 5.5,
-    "wind_speed": 2.5,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 17.7,
+    "temp_max": 18.4,
+    "temp_min": 14.8,
+    "precip_prob_max": 100,
+    "precip_sum": 16.6,
+    "wind_speed": 4.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 16.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 17.7,
+        "weather": "曇り",
+        "precip_prob": 90
       },
       {
         "time": "03:00",
-        "temp": 17.8,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 17.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
       },
       {
         "time": "06:00",
         "temp": 16.9,
-        "weather": "曇り",
-        "precip_prob": 0
+        "weather": "雨",
+        "precip_prob": 94
       },
       {
         "time": "09:00",
-        "temp": 20.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 17.7,
+        "weather": "霧雨",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 23.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 18.1,
+        "weather": "弱い雨",
+        "precip_prob": 96
       },
       {
         "time": "15:00",
-        "temp": 22.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 17.8,
+        "weather": "強い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "18:00",
-        "temp": 20.6,
+        "temp": 17.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 24
+        "precip_prob": 63
       },
       {
         "time": "21:00",
-        "temp": 18.2,
-        "weather": "弱い雨",
-        "precip_prob": 61
+        "temp": 15.9,
+        "weather": "快晴",
+        "precip_prob": 18
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月19日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jR21oVGp5dDNiU2hEUW5xeDlhWGhieGZpSTBfZ3hJVzdoSmsweEtSYnRoMFBGUGJfQXM2dWZnV1h6Zy1YcmVWaDV4c0RFa01rOG8wcXlsN0w1YnNOTDU5WVBpc0tKQTdUc3BXRmdLQdIBdEFVX3lxTE1PSDJNZEdQRUwzZXd1ZU1fcmRkdW9qdXpCa3ROeVZYWEpvemU0TWhYM3ZmZ1hxZVpsclBVdTVxUEJ6R2hJTXBXaUJpNGxTalVObFdiQ3NKSTA0QnFIX1ctMF9hQ0xhRFVoOE9GZE5BNEpRNWxQ?oc=5",
-      "date": "Sun, 18 Oct 2026 20:10:10 GMT"
-    },
-    {
       "title": "10月18日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11QUlxNGFqT2FZaEFCVDlpSjY5WWZhSlVfLUtOVTAtZkIyZFpoR3F4NzVhSFc4OGJmWkV5bDFzazZBeEszdWZZWnNpQnUxelZtaV9ZYW5LWQ?oc=5",
       "date": "Sat, 17 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月19日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jR21oVGp5dDNiU2hEUW5xeDlhWGhieGZpSTBfZ3hJVzdoSmsweEtSYnRoMFBGUGJfQXM2dWZnV1h6Zy1YcmVWaDV4c0RFa01rOG8wcXlsN0w1YnNOTDU5WVBpc0tKQTdUc3BXRmdLQdIBdEFVX3lxTE1PSDJNZEdQRUwzZXd1ZU1fcmRkdW9qdXpCa3ROeVZYWEpvemU0TWhYM3ZmZ1hxZVpsclBVdTVxUEJ6R2hJTXBXaUJpNGxTalVObFdiQ3NKSTA0QnFIX1ctMF9hQ0xhRFVoOE9GZE5BNEpRNWxQ?oc=5",
+      "date": "Sun, 18 Oct 2026 20:10:10 GMT"
     },
     {
       "title": "１０月１８日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -85,21 +85,21 @@
       "date": "Sun, 18 Oct 2026 20:00:00 GMT"
     },
     {
-      "title": "国道４号で夜間検問実施 須賀川署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
-      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+      "title": "松明通りで夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSElLUmoweGJfR3pHNEN2bDE0U3pRVTNGWGVDbGtUS0l2Rk1Lb09tOEdrak9nWUNJMEJEMGlSTzZhUThQV3QxbXBTemdndGM?oc=5",
+      "date": "Tue, 06 Oct 2026 20:26:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "東北道で大型トラックが軽乗用車に衝突 女性1人死亡、男女3人ケガ 一部区間が約10時間通行止めに 福島市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeFB3YmtOb1NFMUVNcXJPT3hPQXVtNDRDREJfM3RIT2E5Q3N4RUhRRXFwMFo3LWFTOE5nV1hUdWJVVGYxNnBzMFdCVUhiQnFoZnNhSzJncE91MzY1Z3FLNGNkVk9CbmRCb2RpTWNETW52dEZZRU03QUhFUWxreWM?oc=5",
-      "date": "Sat, 17 Oct 2026 08:12:01 GMT"
-    },
-    {
       "title": "【交通事故】福島市",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OVmFBSjd5WFVwaDM1dWlYVGZSNGNjNE04UWNvZHpVS3BuSVd2b3JqbHk3aXRXTUVwelVLREdxMVFrVzRwTDJJX3BLQnpONUE?oc=5",
       "date": "Sun, 18 Oct 2026 23:43:00 GMT"
+    },
+    {
+      "title": "東北道で大型トラックが軽乗用車に衝突 女性1人死亡、男女3人ケガ 一部区間が約10時間通行止めに 福島市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeFB3YmtOb1NFMUVNcXJPT3hPQXVtNDRDREJfM3RIT2E5Q3N4RUhRRXFwMFo3LWFTOE5nV1hUdWJVVGYxNnBzMFdCVUhiQnFoZnNhSzJncE91MzY1Z3FLNGNkVk9CbmRCb2RpTWNETW52dEZZRU03QUhFUWxreWM?oc=5",
+      "date": "Sat, 17 Oct 2026 08:12:01 GMT"
     },
     {
       "title": "福島市の東北道で停車の軽乗用車にトラック追突 1人死亡3人搬送 通行止め午後1時前解除 17日",
