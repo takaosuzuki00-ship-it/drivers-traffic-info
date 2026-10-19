@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T09:05:03.391838",
+  "generated_at": "2026-10-19T12:05:18.382599",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 28.1,
-    "temp_max": 29.8,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 29.7,
+    "temp_max": 29.9,
     "temp_min": 25.7,
     "precip_prob_max": 39,
-    "precip_sum": 0.4,
-    "wind_speed": 14.5,
+    "precip_sum": 0,
+    "wind_speed": 17.1,
     "hourly": [
       {
         "time": "00:00",
@@ -21,7 +21,7 @@
       },
       {
         "time": "03:00",
-        "temp": 26.0,
+        "temp": 26.2,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -33,31 +33,31 @@
       },
       {
         "time": "09:00",
-        "temp": 28.1,
+        "temp": 28.2,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
         "time": "12:00",
         "temp": 29.7,
-        "weather": "弱い霧雨",
+        "weather": "快晴",
         "precip_prob": 39
       },
       {
         "time": "15:00",
-        "temp": 29.4,
-        "weather": "晴れ",
+        "temp": 29.3,
+        "weather": "快晴",
         "precip_prob": 4
       },
       {
         "time": "18:00",
-        "temp": 26.9,
-        "weather": "晴れ",
+        "temp": 27.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 26.3,
+        "temp": 26.5,
         "weather": "快晴",
         "precip_prob": 0
       }
@@ -65,14 +65,14 @@
   },
   "enforcement_news": [
     {
-      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
-      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
-    },
-    {
       "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZF81SzZQdUgtd1VWQzlwdGpFUVRHRkdQblk2YURwVXZFUjBnMEhwbEVmaHBFTVdDY016QWxXLUxTTlZGMGNrQWlIV3d0T0l0TWNVb1Z3ckU2akh0NnpYRg?oc=5",
       "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "安全な速度の遵守や見通し悪い夜間の運転注意をよびかけ 本部警察署が検問実施 沖縄・今帰仁村",
@@ -85,9 +85,9 @@
       "date": "Mon, 22 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "宜野湾市の通学路で朝の取り締まり スピード違反で3人摘発",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbUoyYVdEXzAtRzNjNG9lam1wMHJwdDR4STZrN2JrN1dpN3ZjeEJDVGRJek51Zk01alR6ZFVMX2pTdFR4MjFuT1o4ZkVpSV9rdlI5aXJyUmJsQQ?oc=5",
-      "date": "Tue, 12 Apr 2022 07:00:00 GMT"
+      "title": "自転車「青切符」始まる 対象になる違反行為と反則金額は 自動車に距離確保の目安も",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zdk00dER5cWh4R1RlSEw1cnMwMFNJbHBhRGN0MGdna0cxWURVUjZGTTJIRktIU3E1RUY4RlRpTFkxSHBUdllUVkFTSXZxV0YyNWdqdFktVzVlektMRXc?oc=5",
+      "date": "Wed, 01 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,6 +102,11 @@
       "date": "Thu, 15 Oct 2026 20:00:00 GMT"
     },
     {
+      "title": "軽乗用車同士が衝突し女性死亡、3人けが 宜野湾市の国道330号 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ZjRTeVBHTkY1Z0lDZHJUR0JUanNoOThoNUkyUkZlOTM4N3F3c3c0QzhBdHFwSktUbndtT3pVMFFHWXR2QWxXTnhRLUdwMl9yQUp5MkZIV0kwYkNFS1AtQmtqcV9FYnhuQTVxUnFrc1l1VUg1eGJYOUVMNFRRWDA?oc=5",
+      "date": "Wed, 14 Oct 2026 07:12:52 GMT"
+    },
+    {
       "title": "車いすパラメダリストの上与那原さん死去、練習中に交通事故 [沖縄県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xUkF6QTR0OGZSUVRVb3plS1U4Y1VWQVV3U0c4ZVlHRHJYcjY2NFBkTXBFOHY4WmRNMGxNSnlidTZTdk5UNV9qNkl1WWJYOVdBNWtNMzdPVkFwTExVQmFwVVNQZEhzZ2s?oc=5",
       "date": "Sun, 27 Sep 2026 07:00:00 GMT"
@@ -110,11 +115,6 @@
       "title": "イリオモテヤマネコ交通事故死 ４３５日の無事故記録途切れる",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rOUdJV2dRV0t1NGo2U2c0bWxfaU1LYjlWRFBtWVJJeHpZaHRyR0tpRGdULVdZazJDWFNVa1ZYRzNCcDZSU0NLWFNfci1WdE5VbDJURWpRUWE?oc=5",
       "date": "Wed, 14 Oct 2026 21:30:08 GMT"
-    },
-    {
-      "title": "【辺野古転覆事故】死亡の高校生遺族、沖縄県名護市の事故現場近くで献花 「海を見たらやっぱり悲しくて」",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jWnBjOC1NajJCb1lBcUhmU0JKUUdoUFR6YmNlSlNHVHI5VDVWU19wTERFdjhtRG5rSnlRS2tnaUFzOE1DTmpGbHJfOFZ5Z0xaS09pMkRxQmo?oc=5",
-      "date": "Sun, 18 Oct 2026 19:30:00 GMT"
     }
   ],
   "official_links": [
