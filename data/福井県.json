@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-10-18T15:03:00.755727",
+  "generated_at": "2026-10-19T09:02:39.454953",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 25.6,
-    "temp_max": 26.6,
-    "temp_min": 12.5,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 14.4,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 23.4,
+    "temp_max": 24.0,
+    "temp_min": 20.0,
+    "precip_prob_max": 99,
+    "precip_sum": 8.4,
+    "wind_speed": 13.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.5,
-        "weather": "快晴",
+        "temp": 20.8,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 12.5,
-        "weather": "快晴",
+        "temp": 20.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.4,
-        "weather": "快晴",
+        "temp": 20.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 22.3,
-        "weather": "快晴",
+        "temp": 23.4,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 26.3,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 23.7,
+        "weather": "曇り",
+        "precip_prob": 8
       },
       {
         "time": "15:00",
-        "temp": 25.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
       },
       {
         "time": "18:00",
-        "temp": 21.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 20.4,
+        "weather": "霧雨",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 20.1,
-        "weather": "曇り",
-        "precip_prob": 0
+        "temp": 20.0,
+        "weather": "強い霧雨",
+        "precip_prob": 96
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "昨年の密漁１４２人摘発・県外からが６割、４人でサザエ２０９個をとった事案も…海保「計画性があり悪質なケースも多い」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpVElock1pZjBaU0dGNFdnVnItMjF0dFI0MDdBZ2pLUDdJWmY2N0hvN1RJTG9iS1otUUYwVXRUMzduNTlSenR0TEtXU0ktT0dKN2NSSTRYaTNOTkx0aU5ibzVrTlU5cFN0NWNteHR6bFpuZw?oc=5",
+      "date": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
     {
       "title": "４月から始まった自転車「追い抜き」新ルール 十分な距離あけず「一気に追い抜いてしまおう」は摘発の対象となる可能性",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXJqX3FqTFpPOWtNUUt3SnM0QUZBZDZYcEY5SEVTQlFjc05PbmtXTk44dGo1ZDVZb090NVJMVGhoOHhkbUxBMS1oRFlVT0haa0VZcFBOVXBVbzlQT3pob250NmpUQXBTYzFVNmVINEtmRnVRSm9mTzRLMS13dEN3aTV2QlZIdHRT0gGEAUFVX3lxTE91dElRS0gwTVBLTXZCc3p6SG5mWXBRZ2pZTEZ0d2Y1dU5tZmN4b0REVHluTy01aWNkZ192Q0dzSzhNN2RhYXppc2lCUGdkV3VDc2NOY3VnUldScWVfTUtkRGtGbW43Y2VxNGRpQ3ZKaC1ucEJfNVJyM3pncGtSX2wzX19paQ?oc=5",
@@ -78,11 +83,6 @@
       "title": "30キロ超スピード違反の小学校教諭を懲戒処分 福井県教委",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05T0Z0ajBaOHRodzUxZ3BKeDlGcUtjVjJzMFY4UU91U3psZXlXbDVHYl90V1Jtclhwd1E4MUU3dTRZMDYtWXR1MmNocW1iWmVDbDZLWg?oc=5",
       "date": "Sat, 29 Mar 2025 07:00:00 GMT"
-    },
-    {
-      "title": "平均車速減少の効果 速度超過は依然多く 可搬式オービス県警中間報告：日刊県民福井Web",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZTJoZld0Z2Y3RlBZbUEya2RiWEFKNng1S21LLXpDeHllbEFqNmR3NVlCaTRhWWhBbWtHLXRDVUZzelp0MWNJbGVxWmI5M0tlOURv?oc=5",
-      "date": "Mon, 28 Nov 2022 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -92,14 +92,14 @@
       "date": "Fri, 16 Oct 2026 04:20:00 GMT"
     },
     {
+      "title": "【速報】横断歩道で大型ダンプカーにはねられ歩行者が死亡 福井市豊島の通称・城の橋通り",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sb256b3pCcnFyS054bEZVTUVXMlR0M284UFJreHBEcXdhS2ZoNlpFOFF4NFJXd1FxUVdWMzI0QnozbGdscFVxdHlSY3VzZw?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "大型バイクを運転の小浜市の24歳男性が死亡 若狭町熊川の国道で軽乗用車と衝突（福井テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMFo3cG83V0o5cV9iTGxBUHhGejBuS2swN2pLNWlTekJCMGwwc090WWJ0ajVXZ09Fd0pKOXpINk4tU3BUZnp1NTREOG9OLWwtYmUtbkxOcGh2aXprUjRVSUFfNVctR1lyNjZPSkgxLUdnSVdualhzZjFkQXBKOW8?oc=5",
       "date": "Mon, 12 Oct 2026 02:21:00 GMT"
-    },
-    {
-      "title": "「初めて自分事として考えられた」 交通事故犠牲者の遺族の思い伝える「生命のメッセージ展」越前市で10月12日まで",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMnZiUnY1aUhzR0VJQ2EwckV3aWxHaHZkZzY2QkZ3MzZpVzByQ1c0bGNIRmdVa1RWWFZGT1JmbVg0U2pIaU5qX0xyYjgwRjhEXzBuUWtSYWJCbEZfTlFEVEVwNmo1aHVkYTRTWXQ5MjRKQ3ZyV0d0cDkyUjRyR1lnUmp0bVFwSi1TM2dQeTVSanpvcnZ6OGhtTjBVaklNZGZvRWZFX3VEQXBQVnJLLXZXdXRsaUU5LXhqendtbzJMVzcydENyZTNqMGY2cVZFSFpDSExfMHRJbV9Kc0hSMERZVVFKRVZYdzh0cWU3aUFRT2tCU0pzWmZBN201ZUtKMHUzSFprS1hvLTJIQkFNMkdtTWwyckYzdlNxdkFTTU11X3JkUHRFb05JY1RsVURUQ2JCQmJ2ZzNkUkRJX2hRZkJMOGlOZHlfRzB0b241bV83S2JYLWNkcDU5Yg?oc=5",
-      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "土砂運搬ダンプカーによる死亡事故から2週間 福井アリーナ建設予定地での作業再開は見通し立たず 28年秋開業には「影響なし」と福井市",

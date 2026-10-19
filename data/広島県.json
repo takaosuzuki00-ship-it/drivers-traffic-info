@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-10-18T15:04:50.790514",
+  "generated_at": "2026-10-19T09:04:02.207215",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 21.9,
-    "temp_max": 22.5,
-    "temp_min": 14.7,
-    "precip_prob_max": 3,
-    "precip_sum": 0,
-    "wind_speed": 3.5,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 20.1,
+    "temp_max": 22.2,
+    "temp_min": 19.1,
+    "precip_prob_max": 86,
+    "precip_sum": 15.4,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.6,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 16.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 14.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 29
       },
       {
         "time": "09:00",
-        "temp": 17.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 20.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
       },
       {
         "time": "12:00",
-        "temp": 21.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.1,
+        "weather": "弱い雨",
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 21.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 22.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
       },
       {
         "time": "18:00",
-        "temp": 21.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 73
       },
       {
         "time": "21:00",
-        "temp": 21.7,
-        "weather": "曇り",
-        "precip_prob": 2
+        "temp": 21.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月18日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MQWI5ZUZ4eXBhVVVnUG9uNnZnM0gzSXRrSVAwcXVtSjRRRk10bUlzWkl5Zjd1UU9YMFJfN25fbV9hYXQ0UmVjVjFKb1o1TDJQRnpVbi14MzU0dTdMenNHaTFzdE1QMVd3cFhBNHZFNNIBdEFVX3lxTFBDQUFwM3VSbGwwRHFLMWdOQVZtMDFKLTVtZzVpZG5hWkZrZWpXSUljY3pSS0tVdWRDRVdQUGhBT2FyTGFUcUdFV01vTU4xZFlrN1Jaa2l2LUxJdjc3eldFTE5CR21kbDhVaTBmeWlPa19BWDdi?oc=5",
-      "date": "Sat, 17 Oct 2026 20:02:00 GMT"
+      "title": "10月19日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jR21oVGp5dDNiU2hEUW5xeDlhWGhieGZpSTBfZ3hJVzdoSmsweEtSYnRoMFBGUGJfQXM2dWZnV1h6Zy1YcmVWaDV4c0RFa01rOG8wcXlsN0w1YnNOTDU5WVBpc0tKQTdUc3BXRmdLQdIBdEFVX3lxTE1PSDJNZEdQRUwzZXd1ZU1fcmRkdW9qdXpCa3ROeVZYWEpvemU0TWhYM3ZmZ1hxZVpsclBVdTVxUEJ6R2hJTXBXaUJpNGxTalVObFdiQ3NKSTA0QnFIX1ctMF9hQ0xhRFVoOE9GZE5BNEpRNWxQ?oc=5",
+      "date": "Sun, 18 Oct 2026 20:10:10 GMT"
     },
     {
-      "title": "10月16日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HTVdXNnktR19ReWVueGxfdTI0bVU4eFdLM3ZRdGFsVmZYQmJTVjRCaUFoYlhoRkNZQ3hwYl9zZVBtRzhwT3lta2xSS1ZjUVlLSXBEUUZkdWNrdEQzN29Mc2U5OUVsN2JpS1UxNy1rc9IBdEFVX3lxTFBQNEw2QWFhTnBwTk5DN09uQkJpVFR5bGNpb0NKNXVzTGJ6Y1JNQmRGUFg1VWZmMmx0OXk4UlhPU1hUOThVSVVDcEFndW5ndGdxa05KOVc1N204SklVWFROYWVDazViRmRXSUdjdWU3dnYtTDFD?oc=5",
-      "date": "Thu, 15 Oct 2026 20:02:00 GMT"
+      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
+      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "１０月１９日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85N2ZjY1hZamc2MFBTTlRLTzJTUDJHelRmTWdFbC1pLV9OVktldEh1Ym9WUm9VMGs3enZLeXp0azk2SW16dGxLdnJ6cXktak5fS0JDX3hIWHR0QmxRSkEtMmVpaDV3MDg0alZMUWgwTUNZQdIBd0FVX3lxTFBSM21ieFh5VE5sOXhtX2dHc1hLQ1BtV0ctTkdzQ0pYMEo4VDhlbExaWW9BN0c4X01GLVVJY1N2d0FTUFpJX1BvMHVoNk0ycGx1bVlzQmsyUjdVWTJkY2VRcThaWlJaRE1LaEVia0hVczd0Ym5FOXVr?oc=5",
+      "date": "Sun, 18 Oct 2026 20:13:25 GMT"
     },
     {
       "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年、五日市港などで検問強化",
@@ -83,14 +88,14 @@
       "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年（中国新聞デジタル）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbkVTaDFVYWpxc0NscHNPVHdlTmxST3pOaVZXMGNQSVVxb0JWRVktaTBhc1dqdHUyODRZczc1a1p2b3d3SXBMeTY4ZDk5ZERialpzXzdTR3FuWnctUEd5TEdhOV9aYm5Cek5IMm94ckc1ejlDT011NjcxM0J5QVU?oc=5",
       "date": "Thu, 13 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jQ3JSMmFsT2VFVTZHYjkxeWxGUzU4UU1uTEtZRnp3YlBhZzFUdXI4WjBlQzJYSk5QdVNKWnY5dUZ4TE5qZjZ1ZlVucw?oc=5",
-      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "府中町で重体交通事故 バイクに乗っていた２０歳の男性が意識踏不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vcEc2N2IydXUtaWphNzVEdUJtaExoQzRhRzBfTExLOE5LZ1plR3JJYUIzMGE5SWpiVlQ5VDRwOUNTVS1ZTGJoZVBaNGl1U2xqdGk3c1R4THBqSWVOUWxVVlFob2dMd2hHME40Y01EQVdlZTVLUTNSZll4ZGVPSm8?oc=5",
+      "date": "Sun, 18 Oct 2026 11:29:00 GMT"
+    },
     {
       "title": "「回送バスと軽乗用車の正面衝突」73歳男性が死亡 孫の5歳女児が意識不明の重体 広島・尾道市の国道2号",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FcWRZWEJGVjdKNFpJdzFpaUM0VmNqNUNhTzJRUVZCMWtpVWJVUzRLWktjOW1MTXdpLUtCZDlpMFpzSWwyYTNyQmQxV0JxdnFuZURlTmJSUQ?oc=5",
@@ -107,14 +112,9 @@
       "date": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "バスと軽自動車が正面衝突 搬送された4人のうち女児が重体 広島・尾道市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DNmtaMlRnZkZCYVRRenBMWFhaVUExX25nUG1Ud3hXZFYzakhyWlZxV2ZoSFk2NC1MRWJzX2Fpc0JINmlQV1hGQ2FXWkQ3YWRBa1B0Uk5QbW5JeFRKaUtULWM3dlhGRzVGTmpzUlBqazVjUQ?oc=5",
-      "date": "Thu, 15 Oct 2026 07:14:03 GMT"
-    },
-    {
-      "title": "バスと正面衝突軽自動車がはみ出しか 1人死亡5歳女児意識不明に（HOME広島ホームテレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SOTV6S3BJdlM3cUZ5ZGVMUFpidWtSSUZQY3YzQ2Joam9uRUFMZmFDZlo4dE9oX0hoRGxSN3JyM25zRWQ5M3FrRDVENzhrTk40WGM0MXAydF9ybnhadkVSMVd3VjE1VklfTnJid2FzWXl1UHIzVVhUMEJyS194MnM?oc=5",
-      "date": "Fri, 16 Oct 2026 09:23:14 GMT"
+      "title": "広島・府中町で車とオートバイが衝突　バイクを運転していた男性（２０）が意識不明の重体",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHeWQ2OWdnc2hOQ1NwdXZzOTAzS19oRzQ4OFVYRVVxaUJQSDJLWi0tU2MyNjZVMkhkM0tONVRZMGZxWng1U01OVkZnN0pMWUV5UWJ6ZzZSZHFIell5WVNNbmNEWXB5ckZ6MGU4NtIBckFVX3lxTE1FOVBPLTA0WWFzUnVBSkJIUWJ1ZWtRUGZLY25wV1JvbHhLbkFRT3ZQUFJGRlIwNjRHeTBGX3dSb0JWUUtGdHZNdllRQklTcnBaNnJCRGxOak0xbVZ5RU5NM2J0ZVJnMFBSdHdZakJFZWNIdw?oc=5",
+      "date": "Sun, 18 Oct 2026 11:45:00 GMT"
     }
   ],
   "official_links": [

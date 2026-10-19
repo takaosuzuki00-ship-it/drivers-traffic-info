@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-10-18T15:04:04.331434",
+  "generated_at": "2026-10-19T09:03:37.623993",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 24.8,
-    "temp_max": 25.0,
-    "temp_min": 17.9,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 7.1,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 22.6,
+    "temp_max": 24.1,
+    "temp_min": 20.7,
+    "precip_prob_max": 100,
+    "precip_sum": 63.6,
+    "wind_speed": 5.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.6,
-        "weather": "快晴",
+        "temp": 21.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 18.3,
-        "weather": "快晴",
+        "temp": 20.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 17.9,
+        "temp": 20.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 20.5,
-        "weather": "快晴",
+        "temp": 22.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 23.6,
+        "weather": "曇り",
+        "precip_prob": 16
       },
       {
         "time": "15:00",
-        "temp": 24.8,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "強い霧雨",
+        "precip_prob": 94
       },
       {
         "time": "18:00",
-        "temp": 22.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 21.7,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 21.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 22.2,
+        "weather": "強い雨",
+        "precip_prob": 94
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
-      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
-    },
     {
       "title": "兵庫：改造車爆音走行 ストップ 近年増加 兵庫県警が取締部隊 ：地域ニュース",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQVlxR0lPRWlESmIzMGNkbWs2TzJxbS1CTmlDSTdSbXdma2ktSUdLd1FnYzlyX1FydlRWX0IyVzJFRG9BcElxNU1yd2dzMktSZTRybkRzX1d5Q0tVZkEwOHhYMENfV1ZnV0lPVXZhSi0?oc=5",
       "date": "Thu, 24 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "三田市内、飲酒運転事故多発で警戒 6月だけで死亡含め3件 主要な道路で定期的に検問予定|三田",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zdEpoSk5DdlRVZTJPcWV5RXlDUlIyUTJsanhIbDZEMC1WQmdOMmZpbzN3QWtMVmlBclJjQkRieHBnV2hpUlJPY3UtUmFmVzhDQ3I5azQyOG44RnRua2pEM3F6X3BzS3JfV2tV?oc=5",
-      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "「六甲山」で不正改造車を取締り 10台に整備命令 兵庫陸運部による街頭検査で",
@@ -85,36 +80,41 @@
       "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "「送金犯罪」疑い書類送検、兵庫 継続行為の摘発は初",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81bk9aMlRLQ3ZBbGszR0dMTnJZSnVZUlBoQnktNmVuel9ZX2Q2MzZVX1NIeW9lbWpveW9SbUNQenB6YTNhWmJVbnBSWQ?oc=5",
-      "date": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "兵庫）速度違反の摘発どこでも 可搬式オービス導入 [兵庫県]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TVXNpOUVVS0JuUUk4bjVnSzJmbGxfbzJZeENMbUpWaW5wY3FfNDcyTjFxX0NfS3o3MWIwTGV4ZWxhNEM3N1I5alBEN1dnRXNiallwcmcxVmNYYnk2UTc5VmRfdGk4QQ?oc=5",
+      "date": "Fri, 30 Nov 2018 08:00:00 GMT"
+    },
+    {
+      "title": "なんでもかんでも「サイレン猛スピード」は許さない、兵庫県警が緊急走行中の京都府警パトカーをスピード違反で摘発した「理由」",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zUWJhUWxUajljWlZFMWVSVHo1WndqVW0wUDNDSy13bl96V3BRX3BSbl9aX0tuUHNWYnpJSG9uTmpIZkRycXVINGpmU0k5d2EwRi1iMldDUG9nSWlYSlIyRGtkUXFIRVQ3QVN5dVFJZkNXMWUzckE?oc=5",
+      "date": "Wed, 23 Jul 2014 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
+      "title": "乗用車が信号待ちの車に追突、ぶつかられた車の1人が意識不明、3人負傷 神戸・北区の県道|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xby10YmdMRUZoRFZoVGtRU1R6N2c4THBfZ3FwNE90X3E4cW91WjVZYjUzRmNSOGFGYlREdDhRdWpSZGVWeVpjVk1ZMldLWDA2dkV5X2pJMkdSWFVvOW5tUDN4elNkVW1OLXJxOGVMSkV6c0lpWUFQLWlvYw?oc=5",
+      "date": "Sun, 18 Oct 2026 13:56:00 GMT"
+    },
+    {
+      "title": "【速報】「事故を起こした時だけ記憶が飛んでいる」 神戸の県道で追突事故 5人重軽傷で1人意識なし 追突した70代の運転手を現行犯逮捕 兵庫県警",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmwyZklQUVVzLTFseklkYVdiYVlPei16VnFxNnRVS1g1dmV4eDc0SXE0RGRKcWpZTDZGREw2UTJGN1NtQXRqR1NNemtiNDhTaTRvU3JleHRPSFZuT1l5dFRVbThaRHBqV0htWE9yNmlFaC1POVJ6VTctUFluWlNsYXoxelozcjQ?oc=5",
+      "date": "Sun, 18 Oct 2026 23:27:00 GMT"
+    },
+    {
+      "title": "神戸・三宮ではねられ女性死亡、運転していた男逮捕「覚えていない」 [兵庫県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZOVZqU0V2akZXTk9Xc0FNU21rS1VoYUoxal9kVldBSmpHRHp3ZkJJaGVvN2M0Z3dLZmk5NmRFTXlNNnRSbnFVeS01WEtvZ3J5VG5RWG9vUExuNkliUzd6R1V4X2tUeTg?oc=5",
+      "date": "Thu, 15 Oct 2026 10:58:07 GMT"
+    },
+    {
+      "title": "【速報】神戸・三宮交差点4人死傷事故 車運転の男（58）を逮捕 「覚えていない」と容疑否認 過失運転致死傷容疑 / 兵庫県",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ec0hBV0ZBNXg3NWU2VkJaLTZNQ21laW1DQUhJUThfWEl1dWJYbVVPQ2pKZXdOakpWajZCZU5SWWZuMUZvYXRzRUd2T3hwYkRBY0hTaUZKaFpXbEVRZzZfQ19naTIzaXpfU2ltSm5mNlh2OU40YWI0bkIxS1ZoNzA?oc=5",
+      "date": "Thu, 15 Oct 2026 06:35:12 GMT"
+    },
+    {
       "title": "自転車の男性がトラックにはねられ重傷 運転の会社員を容疑で逮捕 神戸市中央区の交差点|交通事故",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CUDJPUjdKWU9BeHZENFBmYVdEQXRNWFlGVFJ6enU0Y3VuVUNFZDJqb2Robzh6LUF5SGVzdFduWi1Wdl96R1hmNTlXZjAwVVUtNXVTcWpvcXVFMS1tdnBpZ3B3dGpvVGlvWUJtVkNqVFlvMXIzRmVLaEVJOA?oc=5",
       "date": "Sat, 17 Oct 2026 03:54:00 GMT"
-    },
-    {
-      "title": "三宮・暴走死傷事故 兵庫県警が運転していた58歳男逮捕「覚えていないので、なぜ事故を起こしたのか分かりません」",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMbHFDcEVkNEZjQXJIN1RXRU9CQ3Fsdk1kWFlaUmNpcnMzTlVBMy1nNlJFaExsb0FOQzd1WG40Q2Fia1ItUEFzM21VZlBnXzZfaU8wRDZaQjNRWlAzWFpFMGdRX3VSQVpTb1g5bTVSNFBhdUlzV3NkZ084RW5tM2c?oc=5",
-      "date": "Sat, 17 Oct 2026 00:25:00 GMT"
-    },
-    {
-      "title": "トラックにはねられ82歳女性が死亡 路肩を歩行中、ミラーが接触か 淡路市の県道|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rOUtSaVpQUy1vcjg1dnNJdWliNDZ2VGc0bVZNOHowX3lEdWFFOU5QcEd6LUptYXVoY3B4UldMUkEtM0dib0tsdE95cWFfeE55aG94NjJOcTU4NUszNkl3cEp0MWswUnc1ZC1kN1NiZVZIT3c1SFpSenVnQQ?oc=5",
-      "date": "Sat, 17 Oct 2026 06:00:00 GMT"
-    },
-    {
-      "title": "ボンネットから煙、国道2号で車全焼 明石|事件・事故",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93aDNjOUNjel92N2w4R3U2VmR6QXczZDJLRk0tQ0E5VG1ZSUw3cHpjdXNDTHZEOE5XSjFkeDlhR1hUbklnVnVHVmUyN2IzOS1YVmJSSll6VUhIOFlaOUxWTUNBZTByaEtSQ2c4?oc=5",
-      "date": "Fri, 16 Oct 2026 10:13:03 GMT"
-    },
-    {
-      "title": "自転車の85歳女性がトラックにはねられ死亡 神戸・長田の市道交差点|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xb3ZHNEhpTTU4QjJLUV9Pc0FHYzZUVWJNYWN1aDZwcHJWZEV2VGxPdkYxcFNGN2xFZFpjYTEzZzVVaEJNTl9Nc2sxQmhtZUtqZUJzUmg2aEFsYkVTa2pTcmZJbmFnLUZXdUc1ZXRVNF9vVVNoNGk0T25Iaw?oc=5",
-      "date": "Sat, 17 Oct 2026 00:22:00 GMT"
     }
   ],
   "official_links": [

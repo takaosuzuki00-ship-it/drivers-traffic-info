@@ -1,105 +1,110 @@
 {
-  "generated_at": "2026-10-18T15:01:35.150213",
+  "generated_at": "2026-10-19T09:01:21.236942",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 18.7,
-    "temp_max": 18.7,
-    "temp_min": 7.1,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 8.4,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 14.8,
+    "temp_max": 17.4,
+    "temp_min": 12.6,
+    "precip_prob_max": 100,
+    "precip_sum": 6.8,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 9.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 12.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 7.9,
-        "weather": "快晴",
+        "temp": 12.7,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 7.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 13.2,
+        "weather": "晴れ",
+        "precip_prob": 4
       },
       {
         "time": "09:00",
-        "temp": 11.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 14.8,
+        "weather": "強い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 17.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 16.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 18.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 17.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 15.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 16.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
       },
       {
         "time": "21:00",
-        "temp": 13.1,
+        "temp": 15.0,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 39
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "10月17日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BcHhESmsyYWQ0bF81UzVzSTNUcHRuVkxWb2NTVjZtT3ctdXloR1JZMzFEaHB3cFV0RG1HbnFzUGhscjlHRU92YThjQWdJR2Q0U2RwUl9SMA?oc=5",
+      "date": "Fri, 16 Oct 2026 20:00:00 GMT"
+    },
     {
       "title": "10月18日（日）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STXN4dkwzMGU5REJzYnJmV0k4Y0UwV0EyU2JnMFgtLXdXT25mX2ZqYW5xYU9jQ3lTZXNYU0xyVGZPUkQxYURIcWZEenRENS03dTduQVYxOXBYaldOaTRYTV9VQ1hfa0FLOGdROUg4N3oxNTNNVHdyN0xBRTNGYlk?oc=5",
       "date": "Sat, 17 Oct 2026 20:00:32 GMT"
     },
     {
-      "title": "10月17日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JeGxrcG9hQ2VCTmVyaG05NWhKRzYzMWt3azhQWkI2R1ZRSnpZTVRweEV3SXp4UUNQVVliakduUUg2T3UxWlVwLXZ2Y0hXX1RnTWlldU9IN2hVUQ?oc=5",
-      "date": "Fri, 16 Oct 2026 20:00:00 GMT"
-    },
-    {
-      "title": "10月18日（日）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWpMS1Vwd2VKOU1oUU1FOHZOTm40SnlSd1RtbnUyZ2hoY1ZyNnI3dHd6UUlVdi1heGxUVC0ybzV4OU8xcFVOX0hjWGhxanJaRHpsM2ZsbGNrbFVQRElTS2lYYXRISERULXhSRnFORFAzaWxZNzNDUTRNcl9XdUl1NkpEUHdLR2hyeVIwNGtn?oc=5",
-      "date": "Sat, 17 Oct 2026 20:55:36 GMT"
-    },
-    {
-      "title": "10月15日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GVWowQktIMzBvN0JHWFd3eEwyc21YQjVTZ3ZiUVFObXVMZEpEQjcyT0cwMDFXUlBqb1pKV1hRdVQ0Sm1yRXNGQW1rQ25hNEQ2NElWSjljZzJGZU4ycnZNcWJrMk84MjhBYlloLTNR?oc=5",
-      "date": "Wed, 14 Oct 2026 20:10:00 GMT"
+      "title": "10月17日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9URENBdTQtRmtXTExMSjNNazZnbG94N3ZkWXBSbFh6ZWdEZmYydzI4TE5Sek8teDVuM0hOcWdqay1yaWlTY2M5NGpGU3BfVV9SOVdKUnBkV3VpcHg5bEltTDhRR3JkX1o5MU1PUFFkYmNxbmthSzFsSzY0c0NPUVU?oc=5",
+      "date": "Fri, 16 Oct 2026 20:00:34 GMT"
     },
     {
       "title": "10月15日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ELVhUc0VxR1JiMF9hTWFweGpJaWp6clRZSEhhcVhyeVhVVTlFU2UzdXl1djNKNGRma0k0TVZnRnUtdVlhc1FyaThaclh0NkhlNFQyM0NCZTgtZw?oc=5",
       "date": "Wed, 14 Oct 2026 20:00:00 GMT"
+    },
+    {
+      "title": "10月15日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbEFyY0V0NzF4WjVHa3pjTzRqMlFmLXQ2bTVGMlVBRkdTcFA0ek5nWTZfbXA1ZXVzMUw5ZXNIMkh6RWQydDhhM0VBYlBwN1lDYzdweUM0OV9FT3hSaEZ0NVpMUk5wdWc1MWNuZlNJMXBGTGJSMGVLVHJPbDNiWlE?oc=5",
+      "date": "Fri, 16 Oct 2026 03:07:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "盛岡市の国道で交通事故、東京の男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14WUlmU3M5dWkybUlwbEVRcS14c2s0YTBiVWZHamxfdnRiQlhmVHZCV2JZeTJaeEY2dTB4UUZ3NXBrQXZfajVZV3kwNGVObzNsZ0lWSjdtZFlOemREalJtTlJn?oc=5",
+      "date": "Sun, 18 Oct 2026 01:20:00 GMT"
+    },
     {
       "title": "東北自動車道で乗用車2台が接触事故 2人けが（テレビ岩手ニュース）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZT2V1MWdNNW9wV2doTWdqSVVRUERmRGM5bG8tQ3IteVRfdTFtUUhBN0RqbW83b3l2TmNnT254VWdOZ3ZiZkNLc25UMjV4cUE0blZCX1c3NzMwOHRiQXJ1T2NPTnUyU3p4LW4wQk9JVHVmQ3dSZnFMbmV0QkQ0Z1U?oc=5",
       "date": "Thu, 15 Oct 2026 09:00:01 GMT"
     },
     {
-      "title": "一関市で観光バスと車3台が接触、4人軽傷の交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Cb01ud1l2dDdBOVF3d3hCMFBfbzljdFVYUDNTeXNyOFVWSmlYSWEtR1dpQ1U3UmdiWE5hTUVVQ2puTjlUYUtQNkFZMnlMX2xSM2o2VzQtMkxNRERsY0RkNTdR?oc=5",
-      "date": "Thu, 15 Oct 2026 05:39:32 GMT"
+      "title": "オートバイが転倒 運転していた東京の会社員男性(39)が死亡 数人でツーリング中 盛岡市 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lc3lvZGtWb0VLdGlxS0ZfTG5IWXlSSFo2eUpSQXVNZjI2cTZCZmRaU09fdFNQUHNab0k2UUZnWEM4RnpoM1Uzbnk5b1VZS19xeGs0Y2duV01qZw?oc=5",
+      "date": "Sun, 18 Oct 2026 01:13:00 GMT"
     },
     {
       "title": "盛岡市の交差点で衝突、腰部骨折など重傷負う交通事故",
@@ -110,11 +115,6 @@
       "title": "オートバイが転倒 運転していた東京の会社員男性（39）が死亡 数人でツーリング中 盛岡市（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MVmZGYk4xeVlZdnBSU3FmSFh5Vl8wMEoyTy11WVdqSGV3Q1RmYzg5dEhDYjZFZVdpNUVpNnVWUkdRU0hJRXBSaV8wT2YwbHdENEI3YzZwc0N1VHZ1QWFXMkw0U0lrZDE0ZTlsU2FDc3lIa0V1bFFHa3ctMVdYMjQ?oc=5",
       "date": "Sun, 18 Oct 2026 01:14:13 GMT"
-    },
-    {
-      "title": "盛岡市の国道でバイク転倒３０代男性死亡【岩手】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLbTRSQkpmUUVjMzhscHdUeXlxQ1EteUV5YWF4UzgyWVJNZjVfWHJwbTJuZXZsRFV0cEFRRFNNeW5BbGhnNkFYTFdwN0ZIYVUyZW51VkhOaWc0X3pVY2J2RTBhWjU3bUxDTkhySE9MRdIBdEFVX3lxTFBhdGttY1M4RmJwOXRoSmIweDZZLU9rXzhaT3Uzck1KYWZ2UVhMeUY4SzF3bEg4VUVPRW9qOG13WTV3VHJxOVVGaU5jZTFLX1hIaE5obTU4RGk2eXh3TTdVOXo1Mkh2NjZyQzRBMWZIb0p3M0tR?oc=5",
-      "date": "Sun, 18 Oct 2026 02:31:00 GMT"
     }
   ],
   "official_links": [

@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-10-18T15:02:23.723469",
+  "generated_at": "2026-10-19T09:02:05.427290",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 22.6,
-    "temp_max": 23.2,
-    "temp_min": 13.4,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 10.9,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 23.0,
+    "temp_max": 25.8,
+    "temp_min": 18.1,
+    "precip_prob_max": 23,
+    "precip_sum": 0.8,
+    "wind_speed": 11.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.3,
+        "temp": 18.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.5,
+        "temp": 18.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.5,
-        "weather": "快晴",
+        "temp": 18.6,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.1,
+        "temp": 23.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 22.8,
+        "temp": 25.8,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 22.6,
-        "weather": "快晴",
+        "temp": 24.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 19.9,
-        "weather": "快晴",
+        "temp": 23.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 22.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月18日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MQWI5ZUZ4eXBhVVVnUG9uNnZnM0gzSXRrSVAwcXVtSjRRRk10bUlzWkl5Zjd1UU9YMFJfN25fbV9hYXQ0UmVjVjFKb1o1TDJQRnpVbi14MzU0dTdMenNHaTFzdE1QMVd3cFhBNHZFNNIBdEFVX3lxTFBDQUFwM3VSbGwwRHFLMWdOQVZtMDFKLTVtZzVpZG5hWkZrZWpXSUljY3pSS0tVdWRDRVdQUGhBT2FyTGFUcUdFV01vTU4xZFlrN1Jaa2l2LUxJdjc3eldFTE5CR21kbDhVaTBmeWlPa19BWDdi?oc=5",
-      "date": "Sat, 17 Oct 2026 20:02:00 GMT"
+      "title": "10月13日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LVHVMYTVhVjRMalJoZmYxSkE3YlkzOWlOMk5SU0VHYTZCUnBXN0ZmLUZHSExMT2JDWllpVmJpZEl0MERQQ29ieFZBWEZNck5YTDZHWmE1N0haZWctNjdhVGhseGNWX0gwbkxDNFNhQdIBdEFVX3lxTE9uaDUtTnZhZjNDZ1FsUGoweGpwNTVtdHNzU1F1YWNiQzJiaERVOVY2eFR5bXV4RzZ3M2h1al9xS2NSV0dwZldFd0NpdWZwdG1Pbm1jZVhsTU1NZ2dPdk9YQWJxR21oQ2s5Mk4zbmw2MVQ0S2VD?oc=5",
+      "date": "Mon, 12 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月13日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xUXhLNHlFS1d0cVd6Q0p1Nm9nblM4Y2E0ZXdUajN1VXdfZWpfUzRLb0p2OWp0cTVGLVBQMzR5WDU0SnB2MXpkQjZyQ3F1YmNXb0R3LUFEbEVYVDB4Y3NqZzFBN01NSGF4cTJnQlRB?oc=5",
+      "date": "Mon, 12 Oct 2026 20:10:00 GMT"
     },
     {
       "title": "公開交通指導取締（２０２６年９月３日）",
@@ -78,11 +83,6 @@
       "title": "10月11日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UcWcyQm9JUFJ4N0s0dVhnU3NKR2N2MHhuTHFZUnQ0VHBHSGRCV2xORGp1QmVza3VVU1pHdGVoTTRqVWxkWllRRWpMTDRDWGR0OW5RWExSNzJsZnotQVRybzA3VnNtTF9faVlRSHhHd9IBdEFVX3lxTE9qZXd2NmhaaUI4Z3B3bTBBRVNMVUNYUHNGUUdfci1zTUZQTndRQXBqSXc3azVSZFdFQzdBbXBNWUpBZ3NiS3QyVnlGNUJ1RmJmeGJianZ4QVB6VElUakczZEhLUHJlN0FseGdyNTJCZVlRbDZ1?oc=5",
       "date": "Sat, 10 Oct 2026 20:02:00 GMT"
-    },
-    {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
@@ -97,9 +97,9 @@
       "date": "Tue, 13 Oct 2026 08:06:32 GMT"
     },
     {
-      "title": "「ハンドル切ったらスリップした」 千葉市の3人死亡事故 19歳男を逮捕（チバテレ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdkNxbjc0LV9ERno0SVNLTC1JVEdweHlGaFlZUUNoMm4tUXViM1g1WkpTWUVSWWtvekhPNXlxamxLalgydXhfWGlsT25tdHFkcERXTkhwSldUM21YT0kyQWVaanZ0ZWthdm5Ib3R3UnNvOUV5UjBLYmlIMDRidWc?oc=5",
-      "date": "Tue, 13 Oct 2026 05:14:24 GMT"
+      "title": "国道357号で同乗者3人死亡事故、運転の19歳男逮捕 過失致死傷疑い、制御不能な速度で運転か 「ブレーキ間に合わずハンドル切ったらスリップした」 千葉市中央区（千葉日報オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IWUVrYlpqSWN0TDNaX1V2dVhnbDJwbVVScmM0cnQwNXFheUxJNTlIeHE0VWtlOEF3ZGV2aklMVV9lNVJ6ODZIbnZFakdHR0xNaUxJNEJuRmNqdzlpU2J6dXhuR1VmMXFCYU1pcFRYQWxlSS1GdDBmb0hWZmsxMlU?oc=5",
+      "date": "Tue, 13 Oct 2026 03:11:06 GMT"
     },
     {
       "title": "千葉市の３人死亡事故、運転の１９歳男逮捕 免許取得から１年未満、トラックと正面衝突",
@@ -107,14 +107,14 @@
       "date": "Mon, 12 Oct 2026 09:09:00 GMT"
     },
     {
-      "title": "千葉市での5人死傷事故 乗用車運転の19歳男を過失運転致死傷容疑で逮捕",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OZ2M5Tm9scWUwS1o5MmdUUFVrUmNyY0F0WXducUx5ZTNFZmxMU01xVG5KMlY1MnBiYWthRFRrcWpsWF9iTnBPTTZlU0R5TG5uOVJxejZHbktqM05ZRnN4bFJ0OFJUNEZlM2RoUDJRX1c0dw?oc=5",
-      "date": "Mon, 12 Oct 2026 20:52:00 GMT"
-    },
-    {
       "title": "千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明 | NHKニュース | 千葉豪雨、千葉県、国土交通省",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Eb0YyQTZyR3JfOTBYa1ZSRGRHVGhEaW9idnFVWWh5V3dGaTE1OGdGVVFRdUFVVFZMVVhiQWhwSFc5eFZoLXhGLURuVGstMVYzeW8tLVpXeFozUENwRmpR?oc=5",
       "date": "Wed, 14 Oct 2026 02:51:00 GMT"
+    },
+    {
+      "title": "千葉市での5人死傷事故 乗用車運転の19歳男を過失運転致死傷容疑で逮捕",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OZ2M5Tm9scWUwS1o5MmdUUFVrUmNyY0F0WXducUx5ZTNFZmxMU01xVG5KMlY1MnBiYWthRFRrcWpsWF9iTnBPTTZlU0R5TG5uOVJxejZHbktqM05ZRnN4bFJ0OFJUNEZlM2RoUDJRX1c0dw?oc=5",
+      "date": "Mon, 12 Oct 2026 20:52:00 GMT"
     }
   ],
   "official_links": [

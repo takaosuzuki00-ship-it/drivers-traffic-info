@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-10-18T15:01:53.714658",
+  "generated_at": "2026-10-19T09:01:36.307997",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 21.1,
-    "temp_max": 21.6,
-    "temp_min": 9.6,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 5.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.2,
+    "temp_max": 23.2,
+    "temp_min": 13.6,
+    "precip_prob_max": 93,
+    "precip_sum": 5.6,
+    "wind_speed": 5.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.4,
-        "weather": "快晴",
+        "temp": 14.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 10.9,
-        "weather": "快晴",
+        "temp": 14.7,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 9.9,
-        "weather": "快晴",
+        "temp": 16.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 15.0,
+        "temp": 21.2,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "12:00",
-        "temp": 19.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 45
       },
       {
         "time": "15:00",
-        "temp": 21.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
       },
       {
         "time": "18:00",
-        "temp": 16.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.2,
+        "weather": "霧雨",
+        "precip_prob": 88
       },
       {
         "time": "21:00",
-        "temp": 14.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 90
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月16日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HTVdXNnktR19ReWVueGxfdTI0bVU4eFdLM3ZRdGFsVmZYQmJTVjRCaUFoYlhoRkNZQ3hwYl9zZVBtRzhwT3lta2xSS1ZjUVlLSXBEUUZkdWNrdEQzN29Mc2U5OUVsN2JpS1UxNy1rc9IBdEFVX3lxTFBQNEw2QWFhTnBwTk5DN09uQkJpVFR5bGNpb0NKNXVzTGJ6Y1JNQmRGUFg1VWZmMmx0OXk4UlhPU1hUOThVSVVDcEFndW5ndGdxa05KOVc1N204SklVWFROYWVDazViRmRXSUdjdWU3dnYtTDFD?oc=5",
-      "date": "Thu, 15 Oct 2026 20:02:00 GMT"
+      "title": "10月19日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQUtrYUxTY3A0elhXWjk1a19GMUdOV2tzOHJpTS1PTG4zZ1dGaVhvcTljSWxUMER3enNpc3JOcFZuNGpDd0xtclFuQXlzNFNwMUR4eUdBN1RGZUFnY0RSVVdhNnJIMGJPdmxCNGRUZ9IBdEFVX3lxTE01RW1qV1FkcTVzdXVoTUp0SnpVckNtc1hLcnNpeUxtUzBGRXRyUzFOWVo5MDgwN1BVaUFIbURfM0o3Z2U3cmdHMVlMbEIyWXRySWdwa0Q1cjZucnlDMjF0Y1JRYm5majJUSUxTUjY1R0k1eC1P?oc=5",
+      "date": "Sun, 18 Oct 2026 20:13:20 GMT"
+    },
+    {
+      "title": "１０月１９日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85N2ZjY1hZamc2MFBTTlRLTzJTUDJHelRmTWdFbC1pLV9OVktldEh1Ym9WUm9VMGs3enZLeXp0azk2SW16dGxLdnJ6cXktak5fS0JDX3hIWHR0QmxRSkEtMmVpaDV3MDg0alZMUWgwTUNZQdIBd0FVX3lxTFBSM21ieFh5VE5sOXhtX2dHc1hLQ1BtV0ctTkdzQ0pYMEo4VDhlbExaWW9BN0c4X01GLVVJY1N2d0FTUFpJX1BvMHVoNk0ycGx1bVlzQmsyUjdVWTJkY2VRcThaWlJaRE1LaEVia0hVczd0Ym5FOXVr?oc=5",
+      "date": "Sun, 18 Oct 2026 20:13:25 GMT"
     },
     {
       "title": "山形市で無免許運転をした疑い 23歳の会社員の男が現行犯逮捕 速度違反取締で発覚",
@@ -83,38 +88,33 @@
       "title": "行方不明の6歳男児はいまだ見つからず 公園付近の検問や川での捜索続く（山形・酒田市）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92NkVWQnBJY2RxN3NHTVdiVk1pWE5JQTBlTmNvTlp4OXdNMEs2LUxzV0ZKREVGdWN6SkQ3ZGhDYzVWd1JrSUhtbWZUbl9neHI3bDZIRkpDS2pEN1MybElGRDBZYlRQd3c?oc=5",
       "date": "Wed, 09 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【山形】6歳男児が行方不明で家族がコメント 警察はきょうも検問・聞き込みを実施 川や海での捜索もこれまで有力な手掛かりなし（酒田市） | 山形のニュース│TUYテレビユー山形 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CcFNWQnZIaElvWjhBSnZIY2JXWHNOX3h2djAzalpnMDR3OEJ6NlM2U1RsZUJja2F5SGtaY0hWem1VRGNNa3B5UmRSdmZDSFA1aV9adUtqWk5GNDNlRU5jTUVTUWxwWnc?oc=5",
-      "date": "Wed, 09 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【山形】交通事故で高齢女性死亡（YTS山形テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkUXBjdk5wcjJJckpXZk1uTF9Idk9SWGkyQ1dtUVN2VV9CZm5KRkdQSGg1U1F0UXhhcWpzRXNOZmQ3TVFQY0xId29EdzZ6dFpHbEw3UEJSeVFJc3V1cUpOLUZCWlM3SW9lVjU2dXFnYXdXbG9nb3cxUW5SUFFTck0?oc=5",
-      "date": "Sun, 18 Oct 2026 03:15:03 GMT"
+      "title": "【続報】乗用車2台が衝突し茨城県の女性（72）が死亡 女性は家族3人で観光中（山形・長井市）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GUEFzSzNyTUFXTWM4Mi00NllWeGE3dGpWZWJqSnZ4WUZkZ1k5blBaY2RDVlp1YnpLQXVKUXl2YzlHQkNWb3FscG04U3RjTmdfLTJBRk52c2tmTDRySi11TzdNRjJlRmR2SUxMck9ZLUlwUzN3by1iSWh0Q3lVZWM?oc=5",
+      "date": "Sun, 18 Oct 2026 12:48:18 GMT"
     },
     {
-      "title": "夜光反射材で夜間の交通事故防止へ JA共済連山形が県警本部へ寄贈",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45SDV4SG9wbHByTmh5SnVhak9KTDVfNUI1UzhOOGdvZVZDUkR2Rlo4dGlSRkkxV0pfblhzalVCSkxPc1Jyd1RFU3NSVzc4Q3k2?oc=5",
-      "date": "Wed, 14 Oct 2026 06:38:19 GMT"
+      "title": "交通事故で高齢女性死亡(山形県)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWRDFQZ0VCbVlsT0QyVWl2bHBteHJXT0RPYXlRYVJsVS1VRGtGek5KaDB0LWVwLXBvNVN1UnV1VGsxSTZMYTdRcC1YeGNSS3FyMDJzVmtRWXE3eFVzMU9xY0wwY0gyUFNfYVZtT0ZZRjlPbEpp0gF6QVVfeXFMUDJXUXZ6ZXRkWFN5bWlVc1FXS0gydFY4Q0d5S2E3bU9OeWVHMnp2NkNOMU52bEpaSm4wRkc4YzV3ejBkZDFfaFcwckx5Wnp3TkRQbGtaNHVobjRsWU43ODh1UUNRMEpQWWZGOTg3aXdZV1h6dzZWbm9WbXc?oc=5",
+      "date": "Sun, 18 Oct 2026 03:14:00 GMT"
     },
     {
-      "title": "89歳の女性が車にはねられ死亡　車を運転していた83歳の男性にけがなし（山形・上山市）",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOamszTnBIZEtDOHAtclc3N2t0bENaREhidlNVVXpWcjNLdFZPTndWcm0zODJfZEtFbHdZcmRGUDQ2LVAyTDNmWE5vZ05iTWZZTG1WLUtiT3pZSFI4dGlSWGo4SHlhQnhwTFg1YTRFQThIUlNNN0YyVDRHUFdMenNEdXpBa2VINU9XQXljNmVuTVdFckJUb24tT0lnWDJSc1p2SnlWY3ppWW5yR0JoYzBtMHVONU9EZ3VzVGlMOXZPUVdEWkRR0gF0QVVfeXFMTmM1cVI4aWpfWWI0MXdtc2diazFKUWV3YW1pdzZqN21xMjY4c0c2bXNHczd1LThhYXIybTFpRTJKLVNad3poWUxjV3JiQUpHX3k5YzIwOFVfNWh5aDMzUFltWmU4UGZGUHFPZFpwel9ITEc5aFc?oc=5",
-      "date": "Sun, 18 Oct 2026 04:10:00 GMT"
+      "title": "交差点で車２台が衝突し１人が死亡 現場は過去にも事故が発生した信号機のない十字路交差点（山形・長井市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oeUR5XzBMc1hxUlgwWGl2YlI2X2N5NGx0V202bi1lR2ZQTUlBMlY4LVpSek1kOWhKckJOeHdVOXlkMXdRR0xWZ1RkeEY0Y2lZSWRpTzJMMkkzT2MxUm1sd1JQckttRWs?oc=5",
+      "date": "Sun, 18 Oct 2026 10:14:00 GMT"
     },
     {
-      "title": "「外壁に車が衝突している」山形市で民家に車が衝突 運転していた男性が意識不明で救急搬送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjUE80OVFyMXdud2xwc0pYVS0xZG5VWkhPSkF6Q1ZmUFMzLXZZcmZuRm1GUkZ4N2kxTjEwTVBpb3lhOEZWNFlES3dFbEZzLWJYQU5Ickc5OXgyUQ?oc=5",
-      "date": "Sat, 17 Oct 2026 09:31:00 GMT"
+      "title": "南陽市で車にはねられた男性は60代ぐらい 救急隊到着時にすでに意識不明…警察が身元や事故原因を調べる（山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMHhUTUR0SmplX0dFcy1TMGZqTGlCVDhxaVlzbG9lTnYwRlYwSTh1cGNMQ3V4UXI4bEliYWxtVGs0dnBpRmEwNjJYY3k3bC1jXzJwZTNfZVc1V3gxMWJFcUNDd3FYWFEtNUdhQ05MS1lvX2dlN0llcHJVX2Y3ZlE?oc=5",
+      "date": "Sun, 18 Oct 2026 13:30:35 GMT"
     },
     {
-      "title": "軽乗用車が自転車を引いて道路を横断中の高齢女性をはね高齢女性が死亡 山形県上山市",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEJVTW42ZERLUENQRzhTbnM2RVc4QVQwMzRQbGhXWDNYdTJqRThZSGpDRVdlQlhWWi1lQ3p1UHI1eXJpVWs2TkFPbExGU1NBV3AzYm5PeWR5ZEZEcFY3TGhWT19WNjZUNlJxWjIxMkE2ZmpIaUtsUDQweExEY0pfdDNhaGJYMGs?oc=5",
-      "date": "Sun, 18 Oct 2026 03:54:00 GMT"
+      "title": "「外壁に車が衝突している」山形市で民家に車が衝突 運転していた男性が意識不明で救急搬送（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sZFNXeW1rZnNXNHBqNW1VckxhdUQxeTdFWlQtWmRaZjkzdHNxTGxIVXdoWWxQSHVyU1JNOUt4Nk56V01Wc3FCWVBMQUpDbVlaMmdNYnEtU1lpenF0OFpvMmM5T182bzFncHRkX2hsQXZhSmZLUDZVU0QwLW1LWGs?oc=5",
+      "date": "Sat, 17 Oct 2026 09:32:13 GMT"
     }
   ],
   "official_links": [
