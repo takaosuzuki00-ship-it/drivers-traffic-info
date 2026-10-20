@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T09:23:06.239507",
+  "generated_at": "2026-10-20T15:02:06.896434",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 18.1,
+    "temp_max": 18.1,
+    "temp_min": 16.0,
+    "precip_prob_max": 100,
+    "precip_sum": 22.9,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 16.8,
+        "weather": "曇り",
+        "precip_prob": 33
+      },
+      {
+        "time": "06:00",
+        "temp": 16.0,
+        "weather": "曇り",
+        "precip_prob": 94
+      },
+      {
+        "time": "09:00",
+        "temp": 16.7,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 18.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 17.4,
+        "weather": "曇り",
+        "precip_prob": 65
+      },
+      {
+        "time": "21:00",
+        "temp": 16.7,
+        "weather": "曇り",
+        "precip_prob": 49
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宮城県内25か所で一斉検問 飲酒運転の摘発が増加傾向",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZU9hLXBQSWJWcmFWTlBHYkc1cHR2WnlJakc0S0RiQnNnRGV1U2RjMDJOWWJyQThuMXhnaGRCajd2TkZUZXBKcnAtMnJCWnY1LUVqZm9zNjIyRndZb3c?oc=5",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【9月1日から】生活道路の法定速度\"30キロ\"に引き下げへ60キロ走行で“一発免停”違反点数6点で30日間",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yWXhNUlpkMDRSaXZNdXY4ZVBrbElUdFRXNDgzVXJ4VThTQ0xhX1llNGh1N0RLQ3R2aHhmT1RoRW52aEMtVGQ0R3ZnSlk2TmtZbnFMTTVIZHAtNV9lUHVxOGtZZw?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "自衛隊トラックと軽乗用車が正面衝突 男性1人死亡 宮城・利府町（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ETzZjWjZjN1Myd3VPUU1uQ2RQRGk0S1BmdC1iOHZuWlQ1a0hoZi12MVRWbVRENXFlRmticlM0dkdMMFZpaDNucFpVNVdTclhCN05WQm4zbnQ2REVRVGpFM1JGREdEaHFXU1FqQVctMzVGdEszUFNVbkgtRzJpY0U?oc=5",
+      "date": "Tue, 20 Oct 2026 03:04:00 GMT"
+    },
+    {
+      "title": "陸上自衛隊車両と軽乗用車が正面衝突 男性死亡 宮城・利府町の仙台北部道路",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VGc0ZFk2ZDVNR2ZnQ3NXcnRNenE1ZmlTX0Y4WHI2YnozeDkwQVZ0TWRBdUZidEJYUk9kN2s5RXBmQnQ5VmdyRW5mNlcwNDA?oc=5",
+      "date": "Tue, 20 Oct 2026 02:40:00 GMT"
+    },
+    {
+      "title": "「正面衝突」仙台北部道路で自衛隊車両と軽乗用車が事故 利府JCT～利府しらかし台ICで上下線通行止め＜宮城・利府町＞",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkYVF1S00xZ1NqczdJZktTc0Q0N3RaUTJ4TmIwRTUxUGdhS1JZXzZMTmwzaGsweENGbXlJV1YxSURqNGQzUXRnaVhSU0VPYlA5NmFOYTUweDZtaEF6TEtySzg2WDZ4dFFrOFRDbV9ISk9rSWJ6cHRCQnhwYXBBdEU?oc=5",
+      "date": "Mon, 19 Oct 2026 23:34:00 GMT"
+    },
+    {
+      "title": "仙台北部道路で衝突事故 乗用車がポストコーンに衝突し反対車線にはみ出したか 一部通行止め〈宮城〉",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvSmpoWUZwQXVhdzd6c3NfbWRwSk1YenpoX051NDBZa3ZLaUJzVDdxdktJWm81VEYxaWtuYjFRdm1qOFAtS1pEWjVKS0JXdw?oc=5",
+      "date": "Sun, 18 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "title": "岩手 宮城で事故 2人死亡 盛岡ではトラックなど6台絡み…",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpRTktbFI2MGFGRTAzbkh5dFQtcGFNckxoWDNYeXM1WXFSVkdJMHltLWU4azBkMzQ1ODJHS0d1REFEVlZZSHdoQ1QxUXdGY3BYTnFsc093?oc=5",
+      "date": "Tue, 20 Oct 2026 03:11:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

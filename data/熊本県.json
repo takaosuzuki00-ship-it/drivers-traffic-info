@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T11:20:11.506951",
+  "generated_at": "2026-10-20T15:05:03.193141",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 27.9,
+    "temp_max": 28.4,
+    "temp_min": 20.0,
+    "precip_prob_max": 51,
+    "precip_sum": 0,
+    "wind_speed": 7.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 20.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.4,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 21.3,
+        "weather": "曇り",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 27.7,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "15:00",
+        "temp": 27.9,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "18:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 22.6,
+        "weather": "快晴",
+        "precip_prob": 2
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "10月20日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aGp0TUNIcXBRY25fc3MzTXZFQUdQU0VWZlpmTVZWS2RpeVBOY21zZ3F3d1NDUjBpcXlLQWlyLWVBSE1tSmN5amRkZk5Qa1lROV9kdFYxWVpJNnFMcXRhTXdpNGhLRjY2YXBmVXhja2xTZEFlSlNOeVd5XzlUNWs?oc=5",
+      "date": "Mon, 19 Oct 2026 20:02:14 GMT"
+    },
+    {
+      "title": "10月20日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmcjlmaktIRDcxb25PMGc5YldMMktMQjJKWVh3V2ZfUUVnM0VZMGd5dWQtQjFCRWhObVFxS3RURUpGNFB3U3loRmtSMFNjU2dUYkJBY3p1djR5TkQ1cjdQR0Rralk1clRUeXhTSWZfUlFzb2xf0gF0QVVfeXFMUGZyOWZqS0hENzFvbk8wZzliV0wyS0xCMkpZWHdXZl9RRWczRVkwZ3l1ZC1CMUJFaE5tUXFLdFRFSkY0UHdTeWhGa1IwU2NTZ1RiQkFjenV2NHlORDVyN1BHRGtqWTVyVFR5eFNJZl9SUXNvbF8?oc=5",
+      "date": "Mon, 19 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月11日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwSlhXdEJBSEJnOEZ1UHNIOERMY3hwQk81cFNuZ25fWTB0TWgxWkpDd0VlT1ROSExBMGFWdkVER2VRRlRhRUc0Qy02U3c2RTItRDRrMjBESQ?oc=5",
+      "date": "Sat, 10 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月19日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjb2U1bE5vLXIza3AxN1piQjJ1c2VGOWxOUEJsWVN0U1ZHamV4RTZZTWIyRVVWQXExV0NaeHowYk5XcTJMeUp2bkJjZlJuTmtMcEU3N3Y2aXN0ZmkzQ3RVci1XUGtwUHBPdUpNcmxXV1ZRbnY3Q0ZUZXhGeldDREE?oc=5",
+      "date": "Sun, 18 Oct 2026 20:02:14 GMT"
+    },
+    {
+      "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15cXFwV0JYRkM3dGN0X1cwbGpDaVZ1Qmd3NmlYZkI3NjEtc1VhX2ZvVXp2Q1g4UXBKcVFWX2NEbUdzOTBYQVFxM3UzOV9YeWg3eERPU3BNVC1lOWdicmdaZERrdDlvMzA?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "６キロの渋滞 九州自動車道下り菊水インター付近で複数台の車絡む事故【熊本】（TKUテレビ熊本）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeFlYcExMZ2VuVWx3b2pqM0Rka0tZMG1pcnIzMkhGSUlmRjMybDIzOUdNZXl0QWtwNFY2Y09wU0J5eXVBdG5ZZFhyR1lwZU1BZlRVampFcFBLU2dXOHJXMmdsMHM1U282cmREQVVoM0djTGtjaG1kNUg0czNXR00?oc=5",
+      "date": "Mon, 19 Oct 2026 03:58:01 GMT"
+    },
+    {
+      "title": "[TKUニュース 26.10.18 12:00 ] 交通事故防止へ ＪＡ共済 反射タスキ２万本を熊本県警に贈る",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51NjdhMlNPQ2p6Q2x4RVNJRUdZWlpweWhFZnZ3YVp1TEdoYmFCWHgtMXU4UWp0RkwyeVpmYVZUYWJTX3V4dFA4Szg2Ymdvc2prc2dxWHRkX3N2Wmo5ZzFRMHBPVQ?oc=5",
+      "date": "Sun, 18 Oct 2026 04:10:05 GMT"
+    },
+    {
+      "title": "交通事故防止へ ＪＡ共済 反射タスキ２万本を熊本県警に贈る",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtV0FONGhvTlRteUVMT0pYemprR1Fjcy0tTEE1VkEtNHpIX0VCWm0wY3FwQWp6cGVrT2NtT0VBQ2laVk1PODV6QUVnaWxnUQ?oc=5",
+      "date": "Sun, 18 Oct 2026 03:00:00 GMT"
+    },
+    {
+      "title": "去年は146件…夜間歩行中の事故を防げ 反射タスキ2万本を熊本県警に贈呈（熊本ニュース KAB ONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnNQM01lczl3SjRNQXlRcHJZaXFybHFXejVEdV8yWTN6aWFMVHJLS0tzTHB5SXo2aXkwM2lKQzJBTTVvZURfNTQ2UUFqZ3VFeUxDSVZzbUF2T0xYUWZKYUxjYnBkbW41cVY3aWxpTGxUNHFNS0E?oc=5",
+      "date": "Mon, 19 Oct 2026 03:18:00 GMT"
+    },
+    {
+      "title": "接触事故多発、車幅ギリギリのバスレーン…熊本市中心部の「大甲橋」車線を50センチ広げる方針 熊本市",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LMUp5b2NzMkVGaFJQS212aU81eGgxLWxNc2RUOFl1SmNXR19jR1MzY1hHZEEzSTVlX1VqeGlYNGJzeENaUDhUVnlPT1JGVTl5T3BEMVF6Tm1tZw?oc=5",
+      "date": "Wed, 14 Oct 2026 09:42:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

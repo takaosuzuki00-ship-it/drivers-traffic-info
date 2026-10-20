@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T10:38:08.565963",
+  "generated_at": "2026-10-20T15:04:03.057511",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 25.8,
+    "temp_max": 25.8,
+    "temp_min": 19.3,
+    "precip_prob_max": 98,
+    "precip_sum": 2.5,
+    "wind_speed": 1.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.5,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 20.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 75
+      },
+      {
+        "time": "06:00",
+        "temp": 19.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 21.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "12:00",
+        "temp": 25.2,
+        "weather": "晴れ",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 69
+      },
+      {
+        "time": "18:00",
+        "temp": 23.7,
+        "weather": "強い霧雨",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "10月20日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWRDlrWXF4ZU9vcVN3Qk1uWU96aU80RVRIdWVHQTZmLUxfemt1cUZ3czA5amx3NDNNMEtWdXI4VnEzemxCSWMzdHhXYzhpZVVGbVJHemV4VlUxeWN3WjZKemU5TVNMbk5SNWJSekFyVdIBdEFVX3lxTFBmcjlmaktIRDcxb25PMGc5YldMMktMQjJKWVh3V2ZfUUVnM0VZMGd5dWQtQjFCRWhObVFxS3RURUpGNFB3U3loRmtSMFNjU2dUYkJBY3p1djR5TkQ1cjdQR0Rralk1clRUeXhTSWZfUlFzb2xf?oc=5",
+      "date": "Mon, 19 Oct 2026 20:15:25 GMT"
+    },
+    {
+      "title": "10月17日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibU13dlRNbEZOLUtvRGZNUkRCSnU5bmtCMFl4ZG1CQWRvMnlzc09kRWRuQl9INHRCRFNDTmpnNmpNN0lmc1JESXEzMXI3eU0yQ1pqSDRRVXQxQQ?oc=5",
+      "date": "Fri, 16 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "「生活道路は時速30キロに」奈良県警、法改正後初の速度違反取り締まり（産経新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43alhxbWhXRmdiQnlrT1QtMWJrelljOWZMb1AxcVhjWGowVHJXdXJKVW5hb1dLT1dTWXVkY1hTb1RIeW9LbGgtMGd1ZlhfNy1aTzhSeHFnRmFuR0pneHVFV2tSSWtDQklnWmhZZ2ZoUnJxWkdVN0g3U0RuM0dpYVk?oc=5",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "１０月２０日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85VnVFaTZOQndSNTc3ODdpTi1kdkpTMmxWSUxxOXc3My1abmQ2eVFoRnpSd3BGSk5uZ3d1VjJPRnZhNElCTU13NkJ0Uk1WdU8tbDNRRzdibHlEUzFfODgteXlmSjBKWmtRVDU4NFF0Q08wUdIBd0FVX3lxTE5mYk8xd2k2b3FLZW1nR3RJMmhlVVVKb21zZEdsNlV2ZFBaZ3Z2c0g3eFp3Sk9kMHVkem9JNkhZRXRUbGJKLVl6Qi14cTlTY1AxWFhWZlZsVXRNRTR5NlFqcTI3dWo3MTNKd1B6d2d0eVgxYW9JbUc4?oc=5",
+      "date": "Mon, 19 Oct 2026 20:06:49 GMT"
+    },
+    {
+      "title": "「飲酒運転は重大な犯罪」 奈良県警が年末の一斉検問 12月20日まで重点的取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RDlrTzNCM01uSGlRbjBKdWxvQVlRQnU3eUdLYXotNm8tN0g0VUhRd09uZ3NVcVRnelJXWWVFYll5U1p2VXVUOG11TVZ6N005eDBpZDhOcDhnYjlRTURXZDBqQ3IyZEsybktrNktzcEhhZ01UZ3c?oc=5",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "奈良県御所市のトンネルで車2台が正面衝突、1人が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53UEpOblEwVVpFRzJyeXdERS1wOTZEdVdXSVYtbHR5cDVLQ2ZrYVcybnh6QjhjaWtwOHNjd29mZWFHRVlPQkNNRkdMcGphMDY4X05YbzFidmNucUd6NFFKa0VMNkNEMFk?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "事故防止へ啓発を 奈良県自動車販売店交通安全対策推進協議会の総会2議案を承認",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSEp6UzNndUNtcGItTk83VnA1bzVvNG4xR2cxMzZuU0N5N1Fnci1uTHNVWFg5MFFLNXd5Y3ZBdWFNRkV6M1FfNEZ1X1dnakNYWThJbFRfQzktb1dHN3NF?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良県内の令和7年の交通事故死者は25人 過去2番目に少なく半数超が高齢者",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub1BVNmRLSjM2b2w4UUdJc3dIZmFhMThuRmlFdWs4OWI0Y2QtZU11NlVYSFpPZFRJT3JuMC16ZzE1ZWFZNU9ZdkZ2V0ZyZ0pZOEpzSXMyekdJRnBZSmREQ0E2N2N0UmVxbElyckVYWUgwMzFJeUE?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良 県 交通 事故 ニュース 速報 - Rapid Note-Taking App For Android - App Store",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0kxajJmUkdfNGNzN1FlZVlkclVhYU8zTkUzazRnVnEtajhjX1hlQXJuQ1c1UWNUbmxmWm9HSTBrd3dQczB2eWV1ZzNvNHNhSUdpbExiUjFtZTVWSXJ0d1dwbmlMUmlxZXVJU2taenhfT1ktWmtGZG9BblYzVXoybk52dHBVcFFo?oc=5",
+      "date": "Tue, 13 Oct 2026 00:07:39 GMT"
+    },
+    {
+      "title": "車2台の正面衝突事故で2人死亡、1人重傷 どちらかが逆走か 奈良 [奈良県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV1pyOEQxN005Sl94UzJzb0FEYllhNkVuUWQ3QXVTaC1Oc1hnNE9BYVJ3dEQ0X3JlcF9vaFAtM3VFTzJXQXQ1Q3VtN2pMVkZ6VDdHYVpJd2NsRXhQeVpQb05ZWHlTdjg?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

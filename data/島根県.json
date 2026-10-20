@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T10:47:09.238559",
+  "generated_at": "2026-10-20T15:04:15.508357",
   "pref": "島根県",
   "region": "中国地方",
   "capital": "松江",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 20.9,
+    "temp_max": 22.1,
+    "temp_min": 18.9,
+    "precip_prob_max": 100,
+    "precip_sum": 17.8,
+    "wind_speed": 5.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 21.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 20.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 19.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 19.4,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 20.2,
+        "weather": "霧雨",
+        "precip_prob": 37
+      },
+      {
+        "time": "15:00",
+        "temp": 20.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "18:00",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "21:00",
+        "temp": 20.9,
+        "weather": "晴れ",
+        "precip_prob": 88
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "島根県警が速度違反の取り締まりミス、60キロ規制のところを50キロで反則切符 対象者17人に謝罪へ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03N2RyODcydHo0OXZ1S2RSRVFrNmxKOGVBeWtmVnpDNnM2dEJBRTZsZjduR3ptN0tMZWptVGVfbExLdEJraWlvUklINldraFJjVU9aNmdsN0FWdw?oc=5",
+      "date": "Tue, 26 Sep 2023 07:00:00 GMT"
+    },
+    {
+      "title": "岐阜県中津川署が可搬式速度違反自動取締装置で初めて速度取締り",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96elFnRThOYnFJc1JlN0ViOUJON1lnalYzY0JKQ0x4em1mNGpfQ2g1NWpBRTNrNDVxZ3JWbkJsRVJCS1VYZlRtcGpRcmhrVHVjd1JOclpDTWd4bVE?oc=5",
+      "date": "Fri, 12 Jun 2020 07:00:00 GMT"
+    },
+    {
+      "title": "検問現場 「違反切符？」 ドキッとしたらホットコーヒーが出てきた [島根県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15dDlMclFRd0xybEhpdFFNeUM3WUJvTTVTWkVfbHdoSHdLekRaZ0hwV3NxVlJWbW13c0xUWWJUMDV5clA3ZTNNV0tDaTZYbFFna1dlWFN2OXA0TThweTI5WGFzYndpbXM?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "道の駅で合同検問、安全運転呼びかけ 益田、津和野の関係者",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbF9TN21WRjJWTGJHdU81Z3ZqUkFhV21DMER6RUluNFVuX0F1UjlienU0dmRKTGhsdzFWZjAxVW1yYW40Vk91UWxhbFpzeXB2cFlBOVpDX0NIcEk?oc=5",
+      "date": "Thu, 08 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県（2026年6月19日掲載）｜日本海テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmp2NEhQV2JOUG40YnlEVzl1LU5SQnFuY3JhT2JxTk5uNTd3eDFUNHFHZG0tTXFmV1ZQSWViM0NfSFJ0dDBET2lTRE1jQkViYUE3M19mdUhaYkhDTzdsVzBIRERDMWVQRDlEdWFCcmpOLW13STVhV3hISG80REN5RGhydEF3UU0?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "浜田道を車で逆送し対向車と衝突 72歳の運転手の男を危険運転致傷の容疑で書類送検 島根県浜田市（日本海テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeHNYRGtqMFR1Tk5oUTFINWZwLTlYd0JYTWhSX0ZRakd5Zk5HYUZXTnI1OTBMWDgwRHk3VGhlUTR2SU83MUxGbENPV2lEM2hPMXdDeVVLSFhtVUZPVzVvejdGakZpb29SZUxEQVBybXc3VDZSSXlySWN0cFhMc1k?oc=5",
+      "date": "Mon, 19 Oct 2026 02:12:00 GMT"
+    },
+    {
+      "title": "島根 出雲 メーカー倉庫で事故 60代作業員が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NeGZxS2wxaVRFYnVFWkVqY0FlSWktUllWQlhSUGxtbjBzVk4tNHoteHBKZkwxclA4M2JYWE94WDFkeFJHNU1KVy1CSVdNZFdKeWJzSlBiSlVOZFpjNUZJ?oc=5",
+      "date": "Fri, 16 Oct 2026 09:48:00 GMT"
+    },
+    {
+      "title": "対向車線にはみ出したか…国道9号で3台絡む事故 一時全面通行止めで渋滞 島根県松江市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tbXZHbDhmY0dHMXYxenRwS2N5RHJvb0ZGSmo1YzdNbThzYklyVEdmSUlya3NoemFxVmotTkFqQmhKOFVzY1Z2aHkyVEhZT3NqLU9uWHlkUi1XMTR6OGc?oc=5",
+      "date": "Fri, 16 Oct 2026 14:45:00 GMT"
+    },
+    {
+      "title": "横断歩道を自転車で横断中 80代女性が運転する車にはねられ20代女性が意識不明の重体（島根・松江市）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5paUNuZExTcnpXZHREbWxTYlZXVFpLMGhVWTB1OThjNl90bGluZ0xSLTZNSm1nQ3dJRFI3c244V0VMRnRwTkN1NmpaR19yUQ?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "楽しい夏を安全に。７/13から島根で交通事故防止運動スタート",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56SnZscE9fUVNmZkN1VTRLVzljSkxBYzMxSUFpRVN4ay1FWTM2aGFRSFJNNElHaXVmRllfN2RPbHpoR3hZc2lrNWNGU19lN0pZOTM0?oc=5",
+      "date": "Sun, 12 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "島根県警察 公式サイトを検索",

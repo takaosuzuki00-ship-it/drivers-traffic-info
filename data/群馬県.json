@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T09:41:07.014584",
+  "generated_at": "2026-10-20T15:02:39.085704",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 21.3,
+    "temp_max": 21.8,
+    "temp_min": 16.7,
+    "precip_prob_max": 94,
+    "precip_sum": 2.2,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.7,
+        "weather": "弱い雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "03:00",
+        "temp": 17.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      },
+      {
+        "time": "06:00",
+        "temp": 16.7,
+        "weather": "曇り",
+        "precip_prob": 31
+      },
+      {
+        "time": "09:00",
+        "temp": 18.3,
+        "weather": "曇り",
+        "precip_prob": 43
+      },
+      {
+        "time": "12:00",
+        "temp": 20.7,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "15:00",
+        "temp": 21.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 20
+      },
+      {
+        "time": "18:00",
+        "temp": 19.6,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 18.9,
+        "weather": "晴れ",
+        "precip_prob": 29
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【続報】交通取り締まり中、違反車両に引きずられ転倒 男性警察官が重傷 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hQWxJc1lSN1N4WUJfWG5FNDFtWWJrMGdpY2JycUZMY0tKYm5WVGdULXMwRm5UWlNWY1dUNF9heUZKQmJZWVl1YXVOQWlZRzR2VW5iN2k1NWk?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の“歩道走行”は取締対象になる？「車道走行で命の危険」罰則強化に困惑の声も…正しいルールを解説【あなたの声で調査しました】",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBadldteFh3Ukt2enpSa2VBS0tKOURmSEJhWER5V2JTUzg3Wmk2bzRQWkZpenJmdmJYZFJ4bzRQVzJCdnJFQ1lfMmtBMHo?oc=5",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転防止へ検問 群馬県警、トラック対象に啓発 伊勢崎市の3人死亡事故を受け",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWhXcFNIeEpERGVoR19PMFl4cnh5MWNPQU1yZl93T1UyNHpsZWJTU2E4ZjltZ2k1dVYyVnVNeTZua2wyVHd0ZTJ3TG9tS21qUHZrRmdQemVCZVdrQTlObg?oc=5",
+      "date": "Thu, 29 Aug 2024 07:00:00 GMT"
+    },
+    {
+      "title": "酒気帯び運転疑い巡査逮捕 群馬県警、検問中に逃走",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSEFpc3BiTS1DSDQtaTdlQXB0NUlSaXYwSGx2MmoyeExwcUJwYnM2ekVaUXFoTXZwV19DbEtJWGh4R09tMkxLN0JaYkJaODJtdXFLQ1A2MGtYQzBwRFp1enFQcURLd0k5eVl5WmdabUUtdGoxUGc?oc=5",
+      "date": "Mon, 24 Aug 2020 07:00:00 GMT"
+    },
+    {
+      "title": "動画サイトで自慢するため、故意に速度超過違反を行った男を逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ya19GYlA1bzJNeEZ2RzVkTm1OellhVXlRR280VDVkS0c4Qk9BdHE0eFRJZk5TYkxiN3AyeHFyREN1TFhKbmo2NzBkNDhuNEV0UDhpWGk0RlprMDJaSGV3?oc=5",
+      "date": "Sun, 21 Jun 2015 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止に関する取組みについて",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
+      "date": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車とバイク計3台が絡む事故で4人が死傷 群馬・伊勢崎市の国道354号",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NeEVWMzdSTmFOaG9tZ0xJTk1kZ3hvWnJYSFgwVkdsTGM5Rlp2ZVlMaURrVkstd2FDUEZFaEptbl9ZZ29CWmRlWDJCZ09vT1hQeWNzN2N4UWlUUQ?oc=5",
+      "date": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "群馬・関越道の６７台絡む２人死亡事故、男女２６人を書類送検…速度調整など安全走行を怠った疑い",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53SmhWQU4yOS1EbHlLamZmN00wX294bWN2QnVqYnZVMnVjT29yVzNXX2dtYjBVRHR2cWg0M1FYQ2JZS2piZGRoSjA5b0JiMGlxa3p4aW5tLWhMa1ByOXBzbWxmakpiZw?oc=5",
+      "date": "Fri, 28 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "群馬・高崎市女性死亡 現場から逃走した車が埼玉で事故…運転の男性死亡 警察が関連を捜査（2026年6月23日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpMEhSaVpjSjhTSldiaWVjNk1IWExBR3FyT2o4WGNuVTVENGlKeHZ0OG1VcjM4SmxWZVd6N0I1Sm5abDNiN1dNeWtpLTBETHhmbUtDVG1ldWEtck9LNEFYU1BYc3lONnBZVkZ0Nk5YN0lhdXdVQ3JwT1hrNVA?oc=5",
+      "date": "Tue, 23 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の83歳女性がダンプにはねられ死亡 群馬・館林市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udkd4SjFnRXR1Tjl5SWRVcU5RZ1g4NXRDdnNRSFJPNVFIaV9oMUNERHN0bFQzb3FnWF85eXR5VWRJQV9EMzhXRjR3TWRnWmRwR3dybjJmQTdOUQ?oc=5",
+      "date": "Fri, 16 Oct 2026 14:35:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",

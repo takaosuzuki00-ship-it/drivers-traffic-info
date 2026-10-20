@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T09:17:06.160443",
+  "generated_at": "2026-10-20T15:01:58.236899",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 18.3,
+    "temp_max": 18.5,
+    "temp_min": 11.5,
+    "precip_prob_max": 29,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "06:00",
+        "temp": 12.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 15.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "１０月２０日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85VnVFaTZOQndSNTc3ODdpTi1kdkpTMmxWSUxxOXc3My1abmQ2eVFoRnpSd3BGSk5uZ3d1VjJPRnZhNElCTU13NkJ0Uk1WdU8tbDNRRzdibHlEUzFfODgteXlmSjBKWmtRVDU4NFF0Q08wUdIBd0FVX3lxTE5mYk8xd2k2b3FLZW1nR3RJMmhlVVVKb21zZEdsNlV2ZFBaZ3Z2c0g3eFp3Sk9kMHVkem9JNkhZRXRUbGJKLVl6Qi14cTlTY1AxWFhWZlZsVXRNRTR5NlFqcTI3dWo3MTNKd1B6d2d0eVgxYW9JbUc4?oc=5",
+      "date": "Mon, 19 Oct 2026 20:06:49 GMT"
+    },
+    {
+      "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53dldIcXU1NkJEZnpWQ3FtX1FVYk5DMkFWN0tfWE9OcjBrZE4tVXJFZmxUd1ItR1J3UU1oaVBZUUp2S1hDcW1od2FyT2c0ZWlwM0FmVWJ6ODFuUQ?oc=5",
+      "date": "Sat, 10 Oct 2026 20:00:00 GMT"
+    },
+    {
+      "title": "10月11日（日）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNzh2dVYyOXhxcXlGTUZSTlR6N3Z6QTNBYzllNkxIZGlCekE0UVFid2xWS1VXMjMwdE1BQ1hhRGMyajRILTc5R1F1cDFzWDJ5SEdYOHlULTVhWU5ZTHFxMXQyZ0xIX3Zrc01ZYXZkWXJzVlBxbnFrbFQ1ZUF4Nkk?oc=5",
+      "date": "Sat, 10 Oct 2026 20:00:33 GMT"
+    },
+    {
+      "title": "10月18日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xU3VBODJSQ2JFS3IySlFQbm5ILW9lb0dsUWJWb09lQkNIRzB2eUsyUFd0M2FhV0xWU2w0ck1CQmlzQjN6SHc3Q0tNOW1GMDBGOGNfTHV3QkZmLVFBMmFGaTNlV2I2UzZEZ05aMzNR?oc=5",
+      "date": "Sat, 17 Oct 2026 20:05:00 GMT"
+    },
+    {
+      "title": "10月17日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01R1FUNEMtUjh5Q2U0UHVUaDk4Q25yMXRmcGNza0xuVWlMa3RiRExzcnJIdTBoVEZMN2xNV3Vjd0JsU1NKMnNBaDJQSm12ZlI1bW9sX2hHTDdtbFVRWGdpX3FJQThvS250OERhd2N0QdIBdEFVX3lxTE9SNklOUlRxck90TzhYUVlnRS1nUVZ5amxPU255XzZuQWx6c2hKWFV1VDJ6NXQxZ0taRHJDTU9iT1NQMjUxTEx5cXlNa3N5NmdVeWpRT3RzLVJsTnZhekFTd1hFZUNteVY3TjBoQkFtUjBETkpv?oc=5",
+      "date": "Fri, 16 Oct 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "福島市の東北道で停車の軽乗用車に大型トラック追突 死亡は青森市の女性（38）、男女3人重傷 追突したトラック運転手も青森県の男性（TUFテレビユー福島）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMjlMcUVEcXlOU2JYVWFVYTBMei14Rkp4SGdiYmFlMlhFVlJYaEUzRXN4T3BkbFluMXo4Mkw0ZnpQcm5uVVMxSW13a0Ntb245a3Exb3FwVFF4dGdOY2d3NkRwZ1FJWjFBaEZlaDVtRzg2R05jQXhROFkzYk5HY3M?oc=5",
+      "date": "Sat, 17 Oct 2026 07:20:23 GMT"
+    },
+    {
+      "title": "青森県内交通事故相次ぐ 青森市で乗用車とトラックが衝突 つがる市で軽乗用車が川に転落",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQXhCelNUYkozX0dRM2JwdHU2MWpNalJjMjllLU01eDVMa0Voa25vcERKcHZ6Q1hTR3NGTHRVZlN2OWVwMFJBWjlmYkdtY2NEeGd3VUVBRzQ?oc=5",
+      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青森県七戸町の国道で車同士の衝突する事故 １０人けが | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14TzM2SWozZTZGU0hpcGlMclNvaE9UUHFmcmxmaDktRmQ1NUNZMFFqMF9QSEpfRWVWakRVUU1sdDd2UkZDdWpaUUpkWkpHVjE4cnFwTG4wS3ZsSnZ6UGlhbFlSSEJpb00?oc=5",
+      "date": "Sat, 15 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026年上半期の青森県内交通事故1096件で死者13人 自転車の負傷者減少に青切符導入が影響か",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGpSWE54Q2FqM201aVl3LWs5M3duUnFhVlh6NkZpdkg5T0lRcHRTaWVKcnJtVC14NGw2UFN2bEt0RzV2QjVYbFFDMXNQTGlRaEtpSks2MGNkOVZBNUc4Nmw5b25fNWdtdnJKR0ZYLV9xY1NYLTZtaVpVQkRRRWtqS0hqajEzbFE?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "女性が福祉施設の車両にはねられ死亡 「秋の全国交通安全運動」期間中に青森県内で初めての死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCbjYtQ2lZc2VVeWs4dXVRbmxsdVRYWTJ6MUFLcFNtY0NqNWZGWGRyb3NJU1ZTS1FnNGdHX3VWMEwwZDFiZWlnWndEYzU4N3lfMzJJUUFwejVZY3BpdURsSUZMdi1GYlU?oc=5",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

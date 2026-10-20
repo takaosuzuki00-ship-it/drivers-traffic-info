@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T10:23:07.934996",
+  "generated_at": "2026-10-20T15:03:40.299972",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 23.5,
+    "temp_max": 23.9,
+    "temp_min": 19.6,
+    "precip_prob_max": 100,
+    "precip_sum": 1.6,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.9,
+        "weather": "強い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "03:00",
+        "temp": 19.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 19.9,
+        "weather": "曇り",
+        "precip_prob": 20
+      },
+      {
+        "time": "09:00",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 23.7,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "15:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 23.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 22.1,
+        "weather": "晴れ",
+        "precip_prob": 55
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "10月20日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWRDlrWXF4ZU9vcVN3Qk1uWU96aU80RVRIdWVHQTZmLUxfemt1cUZ3czA5amx3NDNNMEtWdXI4VnEzemxCSWMzdHhXYzhpZVVGbVJHemV4VlUxeWN3WjZKemU5TVNMbk5SNWJSekFyVdIBdEFVX3lxTFBmcjlmaktIRDcxb25PMGc5YldMMktMQjJKWVh3V2ZfUUVnM0VZMGd5dWQtQjFCRWhObVFxS3RURUpGNFB3U3loRmtSMFNjU2dUYkJBY3p1djR5TkQ1cjdQR0Rralk1clRUeXhTSWZfUlFzb2xf?oc=5",
+      "date": "Mon, 19 Oct 2026 20:15:25 GMT"
+    },
+    {
+      "title": "１０月２０日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85VnVFaTZOQndSNTc3ODdpTi1kdkpTMmxWSUxxOXc3My1abmQ2eVFoRnpSd3BGSk5uZ3d1VjJPRnZhNElCTU13NkJ0Uk1WdU8tbDNRRzdibHlEUzFfODgteXlmSjBKWmtRVDU4NFF0Q08wUdIBd0FVX3lxTE5mYk8xd2k2b3FLZW1nR3RJMmhlVVVKb21zZEdsNlV2ZFBaZ3Z2c0g3eFp3Sk9kMHVkem9JNkhZRXRUbGJKLVl6Qi14cTlTY1AxWFhWZlZsVXRNRTR5NlFqcTI3dWo3MTNKd1B6d2d0eVgxYW9JbUc4?oc=5",
+      "date": "Mon, 19 Oct 2026 20:06:49 GMT"
+    },
+    {
+      "title": "10月13日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MdE0wajRsUmNxVmZ4bmp6MS15Q1hOVzNpQ0E2UlFvM0FqOGV3ZVhITjU1d243bVJpVkd5TDMtVmFjS3FoN2RDaENqZ1NDZ3EzNU5QcEY2MA?oc=5",
+      "date": "Mon, 12 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMl83RlpLZVpYTWVYbnU2bXJ1Z0pITnFyRVVJYkM3ei1yT1hjZ0pVaWg2QWdPal9MZUpOM2VvSFpnN2x6b1E0RGdjVFNTMW1ja3RPZDB0T2FIaGlTVEdsSE1WS0QzU2dsQXlGVXVZZGM?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転、三重県内で一斉検問 秋の全国交安運動合わせ 松阪署は垣鼻町などで（夕刊三重）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ydF9JNGtJOHRPaXAtQUtFTUxZUWE2Q3RMYUtncHJNVTBuMTM0MkVySUR0cXlPVTR2QWZxLU1CLUpTTHpKZGllTGpKc083YjAxaEprS2lrdUhTcE1GQk1taW9BVFRtYnRzMERYTVFkalFGblBobUpFY0xkN1dwLVk?oc=5",
+      "date": "Fri, 25 Sep 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "三重県四日市市の交差点で車と自転車が衝突 自転車の女子高校生が意識不明の重体（メ〜テレ（名古屋テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbERLdGdDS1pqaWVWVkVfOVVydzdlYks3LW0zNGlSTEdZeTVDQ2ZSa1dkQ29uaTMxeUtXbGxndHprSUNrdW1faG1qTXRoRWR3cUtJTFFWS0l5cE1LWXFhcncxSERRRVlTa2FiRWhPVklIdlVvbE5OUEZWdEozNEE?oc=5",
+      "date": "Sun, 18 Oct 2026 05:44:01 GMT"
+    },
+    {
+      "title": "三重県で交通死亡事故が急増…県警が出した答えは「赤色灯フル回転」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rampWVllYaVN0dnBsZy1OOTdMOFdiSXFhNDduU0dRRjFSYkEtRnBvak91ZFRyU1dDMnYzeGo1VUZodnhRc0xGX2R5MlZydzJyZEVwQWcyenpsOU9lOVBTM3VYdnFOSVU?oc=5",
+      "date": "Sun, 16 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMl83RlpLZVpYTWVYbnU2bXJ1Z0pITnFyRVVJYkM3ei1yT1hjZ0pVaWg2QWdPal9MZUpOM2VvSFpnN2x6b1E0RGdjVFNTMW1ja3RPZDB0T2FIaGlTVEdsSE1WS0QzU2dsQXlGVXVZZGM?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "原付に追突、救護せず逃走 男性(65)重傷 車運転の男(34)逮捕 三重・松阪（夕刊三重）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MnpCU3VUd013enF1aVlRdDE0OEdPQ0pBT0dCM2VTbmp4dEVrbnZQSXByRF9TQUl0Tjk3cDB3QVI0aGRpRzE5ME84WWJUZEFjZVBEVm52Y2o1bWxvRWdQMGNxVmRfT1RmcFNHU1M5UjN0Qk1wWGs5cVpfczVTeG8?oc=5",
+      "date": "Thu, 15 Oct 2026 09:03:40 GMT"
+    },
+    {
+      "title": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Wbm1ObkVpX25nZFJZdWpQMU5FaEVrMjI2S3BvWTZaQzl2RElnRFlwSWg0NDdMSEJ2TmRoZHE0WFpUdzh5TWJwNGR6aUJDbGlnUVMtVzlMMEhZNDl4THI4?oc=5",
+      "date": "Tue, 20 Oct 2026 02:59:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "三重県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T10:11:07.745363",
+  "generated_at": "2026-10-20T15:03:21.665928",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 19.5,
+    "temp_max": 19.7,
+    "temp_min": 17.1,
+    "precip_prob_max": 100,
+    "precip_sum": 6.0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 17.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "06:00",
+        "temp": 17.4,
+        "weather": "曇り",
+        "precip_prob": 82
+      },
+      {
+        "time": "09:00",
+        "temp": 17.9,
+        "weather": "弱い雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "12:00",
+        "temp": 18.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 19.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 17.7,
+        "weather": "晴れ",
+        "precip_prob": 49
+      },
+      {
+        "time": "21:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJX0ZBcWk5c2pCR2R2YXNnR0JHZjVOTjJUb29XdG83SnB4MWNlYlA4Mm5rNFE5R3IxQjA0Z0xLc0MxeUJBSlFpOWhHdlNQVEc2MFN3a0dJaw?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」（ＳＢＣ信越放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VHE1WXN6bV9vVG9mQjV5Ry1DNVZ6R29nYkhWU3E1dFJVcFBPVC1YdGJVS1pzX0ZCZkllT0hWUU50Sjk5ekkzX3dFdUxhTWp3MC0wQkVlRTJ1VWZZLTJFRnFpZWxmT3ZkVmtfZk4zWHMtYnd6bHNQNEhMT29welE?oc=5",
+      "date": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 警察が一斉検問 長野県内での飲酒運転の摘発は300件超 事故は去年より増加 「飲酒運転は犯罪」 自覚を持ってハンドル握って【長野】（2026年10月7日掲載）｜テレビ信州NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTFsbVJfSmtZTkJSa29wZ0pDeHdaeWJyWl9zNGF3M05GY2dYV3VYaTZUVm9maUJtMFNfcVJ1SmpUc2FtV0hFZnFyTE90TUxvbGZSYVEwQWJhYnQ5Z0xEY0hwNXVvbzcyTHhiRkgzQk42UTF4SE8tSE9zSFBfbmhiNlBwTG1PNXc?oc=5",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 警察が一斉検問 長野県内での飲酒運転の摘発は300件超 事故は去年より増加 「飲酒運転は犯罪」 自覚を持ってハンドル握って【長野】",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HZWJvanppZFVZeEYzQzJTUjNrRlhGWjd6ZGNnb3BGZnhEVzJ4OTY0Xy1zTnl2UF9oS3gyeF9fYzdsT0JDcXNUT0VsSQ?oc=5",
+      "date": "Wed, 07 Oct 2026 14:12:56 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "車が信号機に衝突 助手席の女性が意識不明、ドクターヘリで搬送 運転していた80代男性は会話ができる状態 警察が事故の状況調べる 長野・高森町（NBS長野放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOMi1QMzlnTUd5N0hSMFU1bGpnMk00WS1zdFhIVzhfRTNadVpMYTk2U0ozcjZvSElDc2t4aDdQcE1udFlrLUdKVElySzZ0dG1jb2pRN1d2V0E5UkxPZmpFeTdyc044RnpCR3VZRktsc29yWml4enNmQVNMNWZKYjQ?oc=5",
+      "date": "Mon, 19 Oct 2026 11:37:01 GMT"
+    },
+    {
+      "title": "横転する車に…激しく損傷した車 長野市中心部で車4台絡む事故 10歳未満の男の子を含む男女5人がけが 現場は交通量が多い直線道路【長野】（2026年10月12日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkdCS1czMHlVSUdHTFB5cW9TU202THFvQlZZaXFmMk9MalZTejFFWHI0UzJfWEUzUG4yS2FmMFkwMl9WSy1ZWFZQZHh6ZU10eS1SVy1qdDJxRmF5aUpXSDNSNG5DZEcwWktuangwV0hvMWNyMlhvb0ZMZUtnVUVTT094bjdSZHc?oc=5",
+      "date": "Mon, 12 Oct 2026 09:32:00 GMT"
+    },
+    {
+      "title": "トンネルで軽トラックが壁面衝突、運転していた上越市の男性死亡 長野県の上信越自動車道",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zNWVtamN3M2QzcWZkMGV3ejYyczdjbkRhT3ZPa2Rod0Y1WGdXbExCS2xtOU9VRGFFM3YxemJVVVhjSTd3cXZZUVZZbkpPbjk2OWhsNm8tYkhGMFU0NlE?oc=5",
+      "date": "Sat, 17 Oct 2026 05:50:00 GMT"
+    },
+    {
+      "title": "【緊迫する現場】夜の中心市街地に大勢の警察官が…何があった？？長野市の現場は一時、騒然…交通事故巡って当事者間でトラブルか…警察を取材すると「発表する案件ではないので、理由は言えません…」 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10b25hM09GNzJyNlBfNGcyNmpJZUVoa2s3SGVBU2hqdVhZLWY2Y3BYYUNEdWVCUVlvd0JhUVp2QWljeGc4dFZtcEtWWkxOTmNqWW1BUGhWR01mV2NCZUdlN1lmZk1PTjA?oc=5",
+      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "トンネル側壁に軽トラックが衝突し横転 上信越道の事故で死亡したのは上越市の77歳男性 長野（ＳＢＣ信越放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fSy1GdWdzREhGYTM2M2x4YkhYMUx1VDJneDNtaHJ3a1hwdTdnY1BfQVVwX05wTDhrUDRsX3ZrSC1BR1NqVnNhcjlBZlpGLU9ERzVadURrdTBTd01RejV4V3VpOHNjOVJ5aXdVS3BCOTJmcEpQLUtPSExuWHNYaVU?oc=5",
+      "date": "Sun, 18 Oct 2026 02:35:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

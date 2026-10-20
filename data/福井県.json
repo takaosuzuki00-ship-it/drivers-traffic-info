@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T10:05:07.673157",
+  "generated_at": "2026-10-20T15:03:13.967178",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 21.2,
+    "temp_max": 21.6,
+    "temp_min": 18.6,
+    "precip_prob_max": 98,
+    "precip_sum": 8.4,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 20.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 76
+      },
+      {
+        "time": "03:00",
+        "temp": 20.2,
+        "weather": "晴れ",
+        "precip_prob": 37
+      },
+      {
+        "time": "06:00",
+        "temp": 20.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "09:00",
+        "temp": 18.7,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "12:00",
+        "temp": 20.1,
+        "weather": "曇り",
+        "precip_prob": 86
+      },
+      {
+        "time": "15:00",
+        "temp": 21.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 19.3,
+        "weather": "霧雨",
+        "precip_prob": 57
+      },
+      {
+        "time": "21:00",
+        "temp": 19.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 76
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "『VIVANT』悪役俳優、『ラヴィット！』生放送にまさかの“遅刻” “同僚”が謝罪「うちの周がすみません！」→その後の“続報”に川島明「検問にひっかかったかも（笑）」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0M1A0YmhsQmV4Z0xwd3p4VGx0RWhWYlA4eGRUYmtqbGtIT3JEN09uRW90SllBbzF4YS1uUDNEb0RRMERHTXlObC1zYTFoVEp1TmVJUm1ZenlINkFsMnc?oc=5",
+      "date": "Sun, 18 Oct 2026 23:39:43 GMT"
+    },
+    {
+      "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SbDNoa2Y2T0d6UDB3dXUxdEFWT25XZDgzQTZ6V2ZUT3Zab25OZkRXWkxMeWFFdkk3SVFuNEFvTExDV1Q4VTdDRmE2THItNF9GNHFaQg?oc=5",
+      "date": "Thu, 25 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "昨年の密漁１４２人摘発・県外からが６割、４人でサザエ２０９個をとった事案も…海保「計画性があり悪質なケースも多い」",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpVElock1pZjBaU0dGNFdnVnItMjF0dFI0MDdBZ2pLUDdJWmY2N0hvN1RJTG9iS1otUUYwVXRUMzduNTlSenR0TEtXU0ktT0dKN2NSSTRYaTNOTkx0aU5ibzVrTlU5cFN0NWNteHR6bFpuZw?oc=5",
+      "date": "Tue, 10 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "４月から始まった自転車「追い抜き」新ルール 十分な距離あけず「一気に追い抜いてしまおう」は摘発の対象となる可能性",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXJqX3FqTFpPOWtNUUt3SnM0QUZBZDZYcEY5SEVTQlFjc05PbmtXTk44dGo1ZDVZb090NVJMVGhoOHhkbUxBMS1oRFlVT0haa0VZcFBOVXBVbzlQT3pob250NmpUQXBTYzFVNmVINEtmRnVRSm9mTzRLMS13dEN3aTV2QlZIdHRT0gGEAUFVX3lxTE91dElRS0gwTVBLTXZCc3p6SG5mWXBRZ2pZTEZ0d2Y1dU5tZmN4b0REVHluTy01aWNkZ192Q0dzSzhNN2RhYXppc2lCUGdkV3VDc2NOY3VnUldScWVfTUtkRGtGbW43Y2VxNGRpQ3ZKaC1ucEJfNVJyM3pncGtSX2wzX19paQ?oc=5",
+      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の身代わりはできません - www.think",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZnVjdU96YWZGNlFKOUJZQzdXYzdZT2Y5RnpWWEV2eGR5WkMxY0sxeC1SRjNsMFFhVVFfYzFET3oxVE4xVzJ1d0lZNU81Z01GTlRGVDJPeENjcS00RGVXVGlYa3lFSHduNlNGQVJVWQ?oc=5",
+      "date": "Wed, 26 Apr 2017 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "健康づくりや仲間づくりを楽しむ老人クラブメンバーが一層の活動推進誓う 福井市あじさい元気クラブが大会開く 特殊詐欺や交通事故に注意呼びかけも",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWpXekJqRGJRNnB1RV9DblE3TmpBM2tkVFBOOXNBZGZjOUdSN0lDRW92X1Fac2lNTF9udzgzQzZySnI2YWJseWxXakRIbkhxQnctbHBWajVDbnB1RUZ5LVdZakM5SU14S3d2N0d6dVV1Q1VUTHNOeW5nVHN6eFE1VXc1aEZXNjA?oc=5",
+      "date": "Tue, 20 Oct 2026 05:37:00 GMT"
+    },
+    {
+      "title": "交通事故の悲惨さを伝えるメッセージ展 福井 敦賀",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dndkUGQwc3ZabHh0NElFZWFxTjVWUTVQNDk0NnZxbk1zaWh3Y0Y0bklvTWNoNnNCMXExRnhDekhua2N4SURkVHE2MkFYeFdMRFV1SHFILWlDZnpOeGU0?oc=5",
+      "date": "Fri, 16 Oct 2026 04:20:00 GMT"
+    },
+    {
+      "title": "【速報】横断歩道で大型ダンプカーにはねられ歩行者が死亡 福井市豊島の通称・城の橋通り",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sb256b3pCcnFyS054bEZVTUVXMlR0M284UFJreHBEcXdhS2ZoNlpFOFF4NFJXd1FxUVdWMzI0QnozbGdscFVxdHlSY3VzZw?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "土砂運搬ダンプカーによる死亡事故から2週間 福井アリーナ建設予定地での作業再開は見通し立たず 28年秋開業には「影響なし」と福井市",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNEh0QWhET3BMX3NCSjU5ODh6dHhMQW1JWnpKMHYyU08tWThUNUp4QmNDbVpHTDRramtwTDJvRGh3d1JHQVI0NXhfVDlocDludUVxY2tHbmxzMjlFQVI4dENib0lrSW9TdjFhWVNaYVFWNGhzLUF3MHFKMDQxejgyelZHXzhJS1hZQU0xVldNN1pIVnlGMXR4S2RFcy1uLVpiTWQzZnBzVHUtMW5tbUFISmlQbEtBalBtbjREYUFLYkpIWkFJMXl1MWVhVmk4c29jaUxsQmF6OW01UlJ0WGhUMFdDY0ptb0YzTk5fV1NrZkthMm1fdUtaQ1hHNUVuSlMzVFBqZkRsM3BQVUtHaFpBZlo0Z1FQcDZyU0U5Z3AzMWRiWlVFZm9OUk9TaXh5dXkxMmpXQ2dZTXdOZUE2N2gzZFJ2T2NJWlE3Z2E0X015dW8wVlBzM3l0dXNB?oc=5",
+      "date": "Wed, 14 Oct 2026 10:58:00 GMT"
+    },
+    {
+      "title": "女性はねられ死亡、ダンプカー運転手の女を逮捕 過失致傷容疑 福井県警",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXN3hfaEFJSF9oZlFNaDRSNERHTnNka3dDRG5YMVVqRjJtcW5GX1JvYnNXek82am41REotbVBwMjZtdUE2Qy1PX1RGNTYyXzRzMDZLa0FmVGdET1lfOHc?oc=5",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",

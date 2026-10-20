@@ -1,11 +1,112 @@
 {
-  "generated_at": "2026-10-20T10:20:07.873294",
+  "generated_at": "2026-10-20T15:03:34.919065",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 25.3,
+    "temp_max": 25.3,
+    "temp_min": 19.0,
+    "precip_prob_max": 98,
+    "precip_sum": 3.3,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "03:00",
+        "temp": 19.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "06:00",
+        "temp": 19.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "09:00",
+        "temp": 20.5,
+        "weather": "曇り",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 25.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 59
+      },
+      {
+        "time": "18:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 61
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "霧雨",
+        "precip_prob": 92
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
+    },
+    {
+      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "道路法第47条第2項違反者（重量超過車両）の告発について",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交差点で車2台が衝突 軽乗用車運転の女性が意識不明の重体 愛知・瀬戸市（中京テレビＮＥＷＳ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HRlJUQXdyc0dDTExxdmpjVnkwNWJXTmp2RWJ3QkhzWExBRE9XVzFMSkM1MzBIWnFfUGhOTnhsdWNwd2VQUGlpNllqUDVMRk9oWEt6YV9pUVl3TWc3U0gwZVZ4LUNYT0RRMGVpbmhhX2UzdWxIZmpNWVZYYk1wVDA?oc=5",
+      "date": "Tue, 20 Oct 2026 03:01:00 GMT"
+    },
+    {
+      "title": "飲酒運転で追突事故を起こし女性にけがを負わせたか 岐阜県の61歳男を逮捕・送検【愛知・江南市】",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Y1hEdVZwU2Q3dkNRbXQ5blItTXRrZVdIbWE1UHdOVUttd1BLRHk3Z2FCNEN3NFYybUFleFZRNEpUcjJGc0MyMi00YVhFRjVFaXN3SnJ3MHRTQTQ?oc=5",
+      "date": "Mon, 19 Oct 2026 04:03:33 GMT"
+    },
+    {
+      "title": "愛知県設楽署がダンプカーパレードで交通事故防止を啓発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWb2V2VlpnbUdpRnBFTVl0LWF0NFR3ZU1QNjRGb3UzRFZxYWRFUnhNSnl2elpsS0NEWUw5N1cxb0dET09BQTVZLWVXb2Y1LW4tc0dQN3BseDQ4Mnc?oc=5",
+      "date": "Fri, 16 Oct 2026 01:30:24 GMT"
+    },
+    {
+      "title": "国道1号で介抱中の男性ら乗用車にはねられ1人死亡1人意識不明の重体 58歳の男を逮捕 愛知・豊明市（テレビ愛知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55U0YtVzdmMk9CTVRkTXpKMmZRV2hESTladFY0b0NGakxmN3U0TnQxVHRZNmwxY3dMSDdBUVJWMnVpbWpkS19zZHdxZ0IydkJGRUJwTXZKTVhfU0tUWG1od0Y4eFhieVJiZFBnWjEzQmhZWXBycGc0ZVZKTTl1cms?oc=5",
+      "date": "Sat, 17 Oct 2026 06:16:01 GMT"
+    },
+    {
+      "title": "愛知 ことしの交通事故死亡者43人で“全国ワースト” ｢自転車の青切符｣などルール徹底呼びかけ ｢春の全国交通安全運動｣",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTmtlc21MUk9sUms0QlNmSEprd3lfVWJuNlJDVGVTSnQ0anZfYjZYYk0zUDlPQm4yZlFtbFlScTE1TWNFZ3cwZ3Z5aURsXzVybWFkbFZveWNjOVVhVlpN?oc=5",
+      "date": "Mon, 06 Apr 2026 22:13:33 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "愛知県警察 公式サイトを検索",

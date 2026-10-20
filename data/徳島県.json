@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T10:59:10.097599",
+  "generated_at": "2026-10-20T15:04:32.117635",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 25.8,
+    "temp_max": 26.7,
+    "temp_min": 20.2,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 6.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "03:00",
+        "temp": 20.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 20.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 26.6,
+        "weather": "晴れ",
+        "precip_prob": 86
+      },
+      {
+        "time": "15:00",
+        "temp": 25.8,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 24.4,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "21:00",
+        "temp": 23.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【徳島県】10月5日・20日は「県民交通安全日」です！10月分も「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2V4QWlKQWlISkRNNTFxdTRVbllrVXFranM0VTZfQjR1NkR6TEdyTWhvXzZWODU3V25JVG12OTc5VnQzYjQ5c0ZORkRJTFN3d2ppUFdJNXoteVMzM3hHVGpXeDM0NnpnNGtyMm9rWW1SSjJZUkpwaVlUNzNRV0RIUHpOOA?oc=5",
+      "date": "Sun, 04 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1hQ1l4UWUyZHBURk9vR0pJVmh6bmdBU1hBcDRiZGVpQjlOVFQ1NjY5bC0wSHVtVmQ3akYxOC0wYjRqQk9NRTZUQjJXNDU5ZnNERU9yLXVCTjVCTDA2U01NTk8yUURmVWFvZTlWY2JhZVFIY1h5Y085b2k5Ylp3dDRpWQ?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "麻薬取締法違反の疑いで男を逮捕 鳴門署",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvcVlSTmRzampLRUhtM01YMGVHTVNtVFJELXZicWdENjByWldhSTlhTGNCdFJTQ1hsRU96d2NSbjlXV3dHX2o0eHd5N1VPcTNkbDBGemxR?oc=5",
+      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】5日は飲酒運転取締り強化日など6月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1RCUkpoNGE3REw2cUtvRm9NUXVPS3FaSWpKOHg4Um9JRC1YWHA3Y1kwand6ZTJWNHZpQ0dFVm5CZTFvcFNjVlV4cmlBZU1EZHlxSnVDdDY2M3FVTnR2ZTdGaFRucWwwdlp4UFJvRF9LbWI4WDNQcjZFeDJGU0JrTE43QzNGVXFFYVhnek5YeFNtRXNvZExmUkVIYUs?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "道路を横断中に車にはねられ80歳男性死亡 徳島市二軒屋町の国道【徳島】（2026年9月25日掲載）｜JRT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hKLXUxN3puNmhfQXRGekQyQjNkZUVfbE9YZHoyRlJtR2N6THE5eVFNaFp1aUlQb1lPSTlnaERmcE0tN0RMak1ieG9fUjVaZzBNRXVjZVltT2VtS0ktTUl6NE5tV0JpYWZWZS1YWmptVmFJbUd5SzFNMjJkVDR3S0paMHE4bFU?oc=5",
+      "date": "Fri, 25 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【第2報】徳島市内で交通事故 運転手の男性が病死",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6cjh6QmYweDR3T3JobDc3elE3TF9NV1JsQUJmQlVPZWpIak1qVm9iYV9sZDN5NXJ2b1E1ODBQN3RHQUdkQWhXWjhmeHZTRnF3QU5LTHVR?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故多発警報発令中！令和8年9月29日(火)～10月8日(木)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WblFqNk9xY1BGUkZrZTMxd2swbXN1aVlLR1VvaHlRTEpRQ0hXSUozNTRqV0REQ0RmcHVha2wxNTRnOTRYRVBUU0ZxX1ZGWlhMMjBxaXI3a2pGTE5VRjhVTXM2UktEMjBzbUgxbXRLZm8yTWk1aUxXVUZB?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "四国「8の字ルート」一部開通で交通が\"激変\"！ 「川渡りルート」完成で渋滞\"完全解消\"も!? 「事故多発の県道」もガラガラに \"タテ移動\"の新道路「徳島南部道」小松島南IC〜阿南ICの開通効果を発表",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RVVQzRWM3dTBySkJLUVNmUkxhSjFpVWhkN1RTVVZ3S3gxRmxtRWZ5ZjM5QUE0SGxrbVY1VXhKZ1hMYWJza0h2S09NQQ?oc=5",
+      "date": "Mon, 19 Oct 2026 21:20:00 GMT"
+    },
+    {
+      "title": "県内に「交通死亡事故多発警報」 10月8日まで【徳島】（JRT四国放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbVYyWng3OGlLY0pEWWl4MXRjcVBqMHhnLWJXZlI5bnFIUWZKREtSZHlodmtYOHg4TmVSaXFTd1Ixc3dFcmw0U2cwYmVqUEt0eUJDdXN1VHdMRlVyUlJ3MmNETFFBbmU5LVBEN1NKZENaWTM1VXpOREI1eE9hS2M?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "徳島県警察 公式サイトを検索",

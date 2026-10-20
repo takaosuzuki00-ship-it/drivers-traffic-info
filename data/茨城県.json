@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-10-20T09:35:06.577890",
+  "generated_at": "2026-10-20T15:02:28.030198",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 22.2,
+    "temp_max": 22.3,
+    "temp_min": 17.2,
+    "precip_prob_max": 63,
+    "precip_sum": 1.4,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 18.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "06:00",
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "09:00",
+        "temp": 19.4,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "15:00",
+        "temp": 22.2,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "18:00",
+        "temp": 20.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "21:00",
+        "temp": 19.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "きょうの交通取締",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOEVtdGtfYWowendTVDRxaDc4MFF1ck5MSXBjTmNJdWNRbUM5emlNaGxDdjR0Nmg2eTk0U0d4aVU5bmpKYmVScnlBdTQ0cERFeWd2YjdhaVE1cDNKeUFjdUZ0RnNKOUoyTE4tbzV4d1RzLWs?oc=5",
+      "date": "Mon, 19 Oct 2026 21:04:56 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 3県警合同検問 茨城県警境署",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZEptSTNBS09OaUJzdWJ1UjkyNlZBTkNaY1dlbk9aZkYzR1NrTHpRbW1GblZ1RW1UUlJQY0VQY3lEaHBReGN4LXVaT056bjAxUEJERXVDbmxUMkkxTHJUZnJmblZFck90Y3d4d3Zlb2VVRmc?oc=5",
+      "date": "Sat, 26 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "筑波山「ドリフト族」摘発 無免許など9件、車両6台に整備命令 茨城県警と運輸支局（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oQkxlZ1dIMEtyRE91bGtVN3dkYk1WNnVfdHZlS1ZxaEtsbjlhb3d1eUtpZGEtVVhSeGhVMHYtTkMxTV9WOTF4bGlqUXVvUk0xbVV4eWgybWxGTHIxSkl5cHk1dzNNV2Z6VGwtbVFUNlFVWHJGQmZRVlNQSUtPa28?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "好意抱く女性の車に紛失防止タグ　動画撮影、生活実態把握　ストーカー規制法違反容疑で57歳男再逮捕　茨城県警",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRGJ5YlRDTlVnUDJFOFQxSXZ5R2syUEpicHpzWTQzY19lT29XZWgyTXF5UVh0YzRXeTVEaXFManVVcG90M0RoUWJxNDBJczNXUXczUTAzR0FyVDNmbkpYRVlpdXcyU3ZwU2lGZXQ1SWN4MDdNalVBUWxJaFZ2cWdLMUQxRdIBiAFBVV95cUxOYlZ1ZkYwUndscGJNUkZ2MHNxQVFGVEROSUdrMzJSVlJ1ZWdVeGp3RUo1bFdZaUR4VUh4cjF6MHVCc1NrME10TmcwcU1DTXNDWkZsRi1ha196N0VHSnU0Zi12cUp2ajlZa0E2OUlQRFFaX2lXT3hPN0VMWjFqZDd3bGdhUllmQWlK?oc=5",
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【続報】乗用車2台が衝突し茨城県の女性（72）が死亡 女性は家族3人で観光中（山形・長井市）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GUEFzSzNyTUFXTWM4Mi00NllWeGE3dGpWZWJqSnZ4WUZkZ1k5blBaY2RDVlp1YnpLQXVKUXl2YzlHQkNWb3FscG04U3RjTmdfLTJBRk52c2tmTDRySi11TzdNRjJlRmR2SUxMck9ZLUlwUzN3by1iSWh0Q3lVZWM?oc=5",
+      "date": "Sun, 18 Oct 2026 12:48:18 GMT"
+    },
+    {
+      "title": "転機は自らの交通事故、営業職員から警察官に 茨城県警の柴沼さん [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVRwZnJnNmt1Y2Y3RS1WR0F2YU9TemUxS1Nlb2RJQ1dDOWxHSUhHa0thZHc3OHRxMDlWZF9YN041aU5PUDJnU0x0aXNzU3ZaekZkdVl1YVcxUmtvb2tPb3RyVE5vRnM?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "水戸連続強盗・同未遂事件　容疑で大阪の49歳男書類送検　関与浮上も事故で意思疎通できず　茨城県警水戸署",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlk5Wld2YzRjU1ZQRWJRY1JoM3RVQTlXNS0zMEwtelFCck5QdXpkUE9vSG9JcVFndnd6eHlXNE1GcXgwUEZZYVNEbkZhaHBYMEc1d0MxejdVQWlNM2NQS0h0ejdoYU9nQTRpb2RkVE9xaWVicjlySk5nVEhLenpKNXBGVdIBiAFBVV95cUxPV0w2bzRLSG1jNEhsYjQ1TGVvWDEzUWpYdEw1WlFEUW1uOVRCNFhSNEFaV1NqR2tIdmhLZmp3dnZQVGI3QXdLdzQzbmx5ZUhpTnhGWUkzb0tYY2UxQWdDXzdVVlZYdmtXcklHbDVKYjhjbExRNUxLaXFsTEdRTTVSbnVKRUR6UGZm?oc=5",
+      "date": "Mon, 19 Oct 2026 21:01:06 GMT"
+    },
+    {
+      "title": "茨城 ひたちなか 男女2人が海で溺れ死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QYXI0NHI3blNyM2FVOXlsU045cmpLWlVZSUtHZVdwVUZwQjd0b202NHpPbjhGMUFmcUVad0Rkd0xHX1F5MkQza0Y5SVhBWkh2UVBnVmFHSG9xUlBVQThv?oc=5",
+      "date": "Sat, 17 Oct 2026 09:02:09 GMT"
+    },
+    {
+      "title": "【続報】海で溺れた男女2人、死亡確認 茨城・ひたちなか（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxOFJXWHl3ajRadGtxYW5SRmI4QVd4eDZvLUxzVmt5aGk3aXVSa0RMMGZHalUyUXctTllZalJUamgwc2ZPWFBwa1ppMXlWYjdpdUEzOU1lTlJQakh3dkRsNFpwZlFUQmNtZFAzX0tyMjZKMU85T1JYRkhfMjVLWTQ?oc=5",
+      "date": "Sun, 18 Oct 2026 01:50:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",
