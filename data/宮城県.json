@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-20T21:01:11.857847",
+  "generated_at": "2026-10-21T00:01:34.664858",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 16.4,
+    "temp_max": 24.2,
+    "temp_min": 16.0,
+    "precip_prob_max": 100,
+    "precip_sum": 8.3,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.4,
+        "weather": "曇り",
+        "precip_prob": 43
+      },
+      {
+        "time": "03:00",
+        "temp": 16.4,
+        "weather": "霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "06:00",
+        "temp": 16.0,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 18.9,
+        "weather": "曇り",
+        "precip_prob": 90
+      },
+      {
+        "time": "12:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "15:00",
+        "temp": 24.2,
+        "weather": "晴れ",
+        "precip_prob": 75
+      },
+      {
+        "time": "18:00",
+        "temp": 21.0,
+        "weather": "雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 19.0,
+        "weather": "曇り",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
@@ -26,31 +85,31 @@
       "date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "【9月1日から】生活道路の法定速度\"30キロ\"に引き下げへ60キロ走行で“一発免停”違反点数6点で30日間",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yWXhNUlpkMDRSaXZNdXY4ZVBrbElUdFRXNDgzVXJ4VThTQ0xhX1llNGh1N0RLQ3R2aHhmT1RoRW52aEMtVGQ0R3ZnSlk2TmtZbnFMTTVIZHAtNV9lUHVxOGtZZw?oc=5",
-      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+      "title": "高知県の佐川町長が速度違反 １５キロ超過で６月に摘発",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95Z3ZSaVIzSU9Vamo4d1FDd2FvaU83NTNKcFhXcUZlNXQ5akRUZ0FRLUxUejNzRmZLUmthcUxBUUVKWHZtWjN0TEpxa2F2QXJSbzFtOWdZaVZSb3N2U2F3?oc=5",
+      "date": "Fri, 07 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "陸上自衛隊車両と軽乗用車が正面衝突 男性死亡 宮城・利府町の仙台北部道路（khb東日本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQW5KVkpFV1hRalU4RkZUQ0tzWm1xNWpaTHEyMkNMenpOVHViVDc2eHNmMFdMRFlTOXI2ZE45Zm1NWnN6SkNmaldRNzJmS3dHNEtROGpvR0xheThaWG1ydmNrTUpsQTZQY3hsUVpLcEpyQ3VoSkxZVzU0UlNoaTQ?oc=5",
-      "date": "Tue, 20 Oct 2026 09:19:39 GMT"
-    },
     {
       "title": "陸上自衛隊車両と軽乗用車が正面衝突 男性死亡 宮城・利府町の仙台北部道路",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VGc0ZFk2ZDVNR2ZnQ3NXcnRNenE1ZmlTX0Y4WHI2YnozeDkwQVZ0TWRBdUZidEJYUk9kN2s5RXBmQnQ5VmdyRW5mNlcwNDA?oc=5",
       "date": "Tue, 20 Oct 2026 09:10:00 GMT"
     },
     {
-      "title": "自衛隊車両と軽乗用車の事故 1人死亡2人搬送 宮城 利府町",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zcXpDRHF4NDVaZmI0YjdZM3lJY21rVXVVLVQ1UUtlczE5ZkZwQTJpb2lxZm9SMy1UUVpNUmFvWnIyWkQ2WmdZVjRFV3RfQUZOOWZoWm4zOGlYZk83am1n?oc=5",
-      "date": "Tue, 20 Oct 2026 07:13:00 GMT"
+      "title": "宮城の自動車専用道で陸上自衛隊の大型貨物車と正面衝突、軽乗用車の男性が死亡…隊員２人も足などにけが",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UDdBaFpIUTRvSkRBbjVNSlJKa0doYlI0Z01fUHp1ZV9BVjltY3l1OEVfUVd0RGN0cFpTaTJpM3hrSkRlQ2V4MlI0NWJIc0VhQUlUSE4wV2RFUXd3SDk5ZTBXUVN0d3gtSElfVGRoYlM0NW1UWDRFWVpGOE9ZeHc?oc=5",
+      "date": "Tue, 20 Oct 2026 04:20:11 GMT"
     },
     {
       "title": "仙台北部道路で自衛隊大型車両と軽乗用車正面衝突 軽乗用車の男性運転手（43）が死亡し20代の自衛隊2人もけが 宮城・利府町",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fNWgwczVCOGtnb2VzOFY1TVQwQl9VWmZuN29rR1N6YnF3NlBHU2RXcjgxWWR5WTY1ay1vR0ZDZmJ4SDk5a3ZHY0w3aWIzY3MyZE9SdlNsYXFpWmtqcHNsbmFCSFlENFE?oc=5",
       "date": "Mon, 19 Oct 2026 22:49:00 GMT"
+    },
+    {
+      "title": "自衛隊車両と軽乗用車の事故 1人死亡2人搬送 宮城 利府町",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zcXpDRHF4NDVaZmI0YjdZM3lJY21rVXVVLVQ1UUtlczE5ZkZwQTJpb2lxZm9SMy1UUVpNUmFvWnIyWkQ2WmdZVjRFV3RfQUZOOWZoWm4zOGlYZk83am1n?oc=5",
+      "date": "Tue, 20 Oct 2026 07:13:06 GMT"
     },
     {
       "title": "仙台北部道路で衝突事故 乗用車がポストコーンに衝突し反対車線にはみ出したか 一部通行止め〈宮城〉",
