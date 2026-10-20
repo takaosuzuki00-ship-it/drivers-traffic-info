@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-20T18:01:09.417191",
+  "generated_at": "2026-10-20T21:01:17.069507",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.2,
+    "temp_max": 19.1,
+    "temp_min": 15.2,
+    "precip_prob_max": 59,
+    "precip_sum": 0,
+    "wind_speed": 6.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 35
+      },
+      {
+        "time": "03:00",
+        "temp": 16.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 27
+      },
+      {
+        "time": "06:00",
+        "temp": 15.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.2,
+        "weather": "曇り",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 17.9,
+        "weather": "曇り",
+        "precip_prob": 59
+      },
+      {
+        "time": "15:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 15.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月19日（月）【岩手県】 日中・夜間の交通取締情報",
@@ -21,14 +80,14 @@
       "date": "Sun, 11 Oct 2026 20:07:00 GMT"
     },
     {
-      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
-      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
-    },
-    {
       "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MRkF6a2dtUUt6RkM3RzFuSG9Sbzl5NUVVeUpLOENmR0VMRzR1ZkdxelNYWHlYOGlwMEFOSjl1RDZYM3R1TTJEZHk1aU1RakM3cUhhNmk2VTNvTDJEenRmVlZ6ZkJRQm8?oc=5",
       "date": "Tue, 22 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZdU5IdlZ5MzE1LXFNa3NiOGdjSzdISzJMUmhPMnhXb254U3hpc0dnaVFQVUFpdmZnVVFLS1BYSElIY3didzZ6ME9LUkJyN2N1dXlJanNvX1FBcWJxb2p3RHhR?oc=5",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -53,9 +112,9 @@
       "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "バイク事故、男性２人死亡 佐賀・唐津の国道",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBONFNiU21Ra1AzWHJIWnVJMEs0M3RoYWJxN0hqdmtreWRUaE9CMXI3UlNhc3ZsMndrVjBGbmpwQ19IRV9aTlE0bkZPTWFSdU9uVG1pcFBpUEdPWDZuUlBPYW1R?oc=5",
-      "date": "Sun, 18 Oct 2026 13:05:57 GMT"
+      "title": "宗教行事で雑踏事故、１９人死亡 印",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80NFdlRDllb0d4Y1pNb0xpR0ExdTVuTG4yNElqWkFfZ3pwOFVvYnRiejlCM0oxcU9kQmpsQ0JtRmRJbktGR3FvX2QzRGRNY0tyU2c?oc=5",
+      "date": "Sun, 18 Oct 2026 07:35:58 GMT"
     }
   ],
   "official_links": [
