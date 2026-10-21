@@ -1,93 +1,34 @@
 {
-  "generated_at": "2026-10-21T06:01:49.176520",
+  "generated_at": "2026-10-21T09:02:05.066595",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 24.0,
-    "temp_max": 24.7,
-    "temp_min": 18.4,
-    "precip_prob_max": 100,
-    "precip_sum": 73.9,
-    "wind_speed": 21.7,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 18.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 86
-      },
-      {
-        "time": "03:00",
-        "temp": 21.4,
-        "weather": "霧雨",
-        "precip_prob": 80
-      },
-      {
-        "time": "06:00",
-        "temp": 24.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 39
-      },
-      {
-        "time": "09:00",
-        "temp": 24.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 41
-      },
-      {
-        "time": "12:00",
-        "temp": 23.4,
-        "weather": "弱い雨",
-        "precip_prob": 67
-      },
-      {
-        "time": "15:00",
-        "temp": 20.9,
-        "weather": "強い雨",
-        "precip_prob": 90
-      },
-      {
-        "time": "18:00",
-        "temp": 19.4,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "21:00",
-        "temp": 19.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
-      "title": "浅川町長選前に取締本部を設置 石川署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zVnFzQ0dNaEdVdkc1M25IWTZYQWJJM1NhYUdUdVFrUTBvN25JekIzM1g2ZzZoYzNCNHhUM1N2Y1lYazUxel9pWGJvQlhwRHM?oc=5",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+      "title": "10月19日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jR21oVGp5dDNiU2hEUW5xeDlhWGhieGZpSTBfZ3hJVzdoSmsweEtSYnRoMFBGUGJfQXM2dWZnV1h6Zy1YcmVWaDV4c0RFa01rOG8wcXlsN0w1YnNOTDU5WVBpc0tKQTdUc3BXRmdLQdIBdEFVX3lxTE1PSDJNZEdQRUwzZXd1ZU1fcmRkdW9qdXpCa3ROeVZYWEpvemU0TWhYM3ZmZ1hxZVpsclBVdTVxUEJ6R2hJTXBXaUJpNGxTalVObFdiQ3NKSTA0QnFIX1ctMF9hQ0xhRFVoOE9GZE5BNEpRNWxQ?oc=5",
+      "date": "Sun, 18 Oct 2026 20:10:10 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 ３月２９日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13dEwwSTNObzN2X1NjWk1xOGowYnl6bWs3Zmh2VzVmek15M1ktT1k4Z25BTU5JM1g4YTEyNWhlNWZScnhiNXhXWTJkaUJrbk9BdURaTEgxVGQ1WU1wU1E?oc=5",
-      "date": "Sat, 28 Mar 2026 07:00:00 GMT"
+      "title": "10月18日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MQWI5ZUZ4eXBhVVVnUG9uNnZnM0gzSXRrSVAwcXVtSjRRRk10bUlzWkl5Zjd1UU9YMFJfN25fbV9hYXQ0UmVjVjFKb1o1TDJQRnpVbi14MzU0dTdMenNHaTFzdE1QMVd3cFhBNHZFNNIBdEFVX3lxTFBDQUFwM3VSbGwwRHFLMWdOQVZtMDFKLTVtZzVpZG5hWkZrZWpXSUljY3pSS0tVdWRDRVdQUGhBT2FyTGFUcUdFV01vTU4xZFlrN1Jaa2l2LUxJdjc3eldFTE5CR21kbDhVaTBmeWlPa19BWDdi?oc=5",
+      "date": "Sat, 17 Oct 2026 20:02:00 GMT"
     },
     {
-      "title": "交通違反の男の車から大麻 石川・かほく市の25歳無職の男 麻薬取締法違反の疑いで逮捕（2026年3月4日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdDZGdm0wV3lxZTB0M1BzdzBqLWtGbHBiZzFYbzJEUEluS2p4OHRBa1VMZzhEZk1iRFYzaExKS1dqZTFVVnFGZDF5TndyT216bDNtSlVRZ0VXVEhJQ1M1WVhYMV8wVHNDWmdHM2pEeWw2LUxPdDh6NjluVW1nLWc?oc=5",
-      "date": "Wed, 04 Mar 2026 08:00:00 GMT"
+      "title": "繁華街の交通違反 ＫＴ４が行く！ 取り締まりチーム 金沢中署で出動式",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IOHRLT2J1bWc5cllYWGoxUGFURFJkMkFTWDJfelRCb0NhcW5abkFmb0pmcXE5bUNqel84X0dDaFo2aE5tZnZVaG5EaVpwX1RiQ1RlUg?oc=5",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
-      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
-      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +43,14 @@
       "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
+      "title": "車と自転車が衝突 49歳公務員男性が死亡 石川・金沢市（テレビ金沢）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DMDdxOUFVVXd3b1lLUzltZVJWU2tVYTMzdjZfM1owU0l1dkxtWVVzdDhreTdmQ29sODByVUpiVXR0RE5ZeDZNdkgxWDB3bkJDZTJSYmRpWXZjRndLYldHM0tteVplUWJHRld6dDZHa2gtak94VDd5WU9GSDZGeEk?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "金沢駅近く、昭和町で衝突事故 乗用車と軽 80代男性が軽傷｜社会｜石川のニュース",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3SDdERjJjWm5KWGgwYTZscWNUSm9jN0JGM053aDhoZ2ROQVdPZDhFU2prdWs0MDdDalBBMEtYYkREZ1RnazBiM0NTd0tDQXN4dnJvYU94TQ?oc=5",
       "date": "Tue, 20 Oct 2026 01:37:00 GMT"
-    },
-    {
-      "title": "のと里山海道で車とトラックが正面衝突 1人死亡2人けが 石川・志賀町（MRO北陸放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sbzJMNzNMLXhHbVl5bV9sQVRWN3AxbUxGVm43SUk1UUI3b2RlMjZEaHk1UE1ndUJTY2YtZDR2RTQtOTVTMzRiaGZkY3pZT3QxR0ZsV0ZUcy11dW1KM1E4RFVnbnpPRXFUblNlNVNXWGgyVGh1VmhSeXI2UWQzR0U?oc=5",
-      "date": "Thu, 15 Oct 2026 04:03:00 GMT"
     },
     {
       "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
