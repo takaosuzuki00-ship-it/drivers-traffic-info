@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-21T15:01:21.346658",
+  "generated_at": "2026-10-21T18:01:49.593999",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 22.9,
-    "temp_max": 24.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 20.7,
+    "temp_max": 23.8,
     "temp_min": 15.2,
     "precip_prob_max": 100,
-    "precip_sum": 7.2,
-    "wind_speed": 10.0,
+    "precip_sum": 6.7,
+    "wind_speed": 11.2,
     "hourly": [
       {
         "time": "00:00",
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 24.0,
-        "weather": "晴れ時々曇",
+        "temp": 22.5,
+        "weather": "曇り",
         "precip_prob": 73
       },
       {
         "time": "15:00",
-        "temp": 22.9,
-        "weather": "晴れ",
+        "temp": 22.4,
+        "weather": "弱い霧雨",
         "precip_prob": 92
       },
       {
         "time": "18:00",
         "temp": 20.7,
-        "weather": "弱い霧雨",
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 16.2,
-        "weather": "強い霧雨",
+        "temp": 15.7,
+        "weather": "弱い雨",
         "precip_prob": 100
       }
     ]
