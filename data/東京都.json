@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-21T09:01:49.130865",
+  "generated_at": "2026-10-21T12:01:57.923872",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 27.3,
+    "temp_max": 28.1,
+    "temp_min": 17.6,
+    "precip_prob_max": 8,
+    "precip_sum": 0.5,
+    "wind_speed": 12.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 19.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "03:00",
+        "temp": 18.4,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 17.7,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 25.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 27.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 27.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 25.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 25.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警視庁、8月の速度違反・重点取り締まり場所一覧",
@@ -38,9 +97,14 @@
       "date": "Sun, 18 Oct 2026 01:34:01 GMT"
     },
     {
-      "title": "東京・三軒茶屋で乗用車が衝突 女性は両足切断で意識不明",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ELUVXVE85bENfY3Y1N2lCYVRRODduVTB1Z0swS0NNZlpfWVRMRm9yR2NyemdrY3EtX2UtVUhTTUhxbnQ0N2s4UU8zNXBCZy1pSGhDUmpRVEpPaXZwV0JnaV92endrY29aZ1huOHN2NzJMZw?oc=5",
+      "title": "東京・三軒茶屋で乗用車が衝突 女性は両足切断で意識不明 – Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVQVQ3bU11SWlwSUJJQXdzVkdiSDFuM1BrVm9XTmVvcExTTFQ0UmVmSjE3ZnpKOTVENmk0NlFYUW9kRlVQZGpPZmZUUmxwVE96cnAxdmNjOVg?oc=5",
       "date": "Sun, 18 Oct 2026 03:12:19 GMT"
+    },
+    {
+      "title": "盛岡市の国道で交通事故、東京の男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14WUlmU3M5dWkybUlwbEVRcS14c2s0YTBiVWZHamxfdnRiQlhmVHZCV2JZeTJaeEY2dTB4UUZ3NXBrQXZfajVZV3kwNGVObzNsZ0lWSjdtZFlOemREalJtTlJn?oc=5",
+      "date": "Sun, 18 Oct 2026 01:20:00 GMT"
     },
     {
       "title": "東京・三軒茶屋で“荷おろし中”の軽トラック女性運転手に乗用車が衝突 両足切断で意識不明 乗用車運転の男を逮捕",
@@ -51,11 +115,6 @@
       "title": "ツーリング中、オートバイが転倒 運転していた東京の会社員男性（39）が出血性ショックなどで死亡 盛岡市（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MVmZGYk4xeVlZdnBSU3FmSFh5Vl8wMEoyTy11WVdqSGV3Q1RmYzg5dEhDYjZFZVdpNUVpNnVWUkdRU0hJRXBSaV8wT2YwbHdENEI3YzZwc0N1VHZ1QWFXMkw0U0lrZDE0ZTlsU2FDc3lIa0V1bFFHa3ctMVdYMjQ?oc=5",
       "date": "Mon, 19 Oct 2026 09:11:00 GMT"
-    },
-    {
-      "title": "東京・日の出町の住宅で火事 1人死亡 住人の70代女性か",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HLXQ1NmtpZEtkMGppMzY4ZHI5SmVOdWFLdDI1elZFalYzSFlSM05BaHJkWUFadFpmYUVMRF9kX1QtanNDZTlhR2pWU1VHeHAxaWlDcUZrYjdBcXJVRWhMdXpObE9qSnVQSkl2aDFkX0xhQQ?oc=5",
-      "date": "Tue, 20 Oct 2026 13:03:41 GMT"
     }
   ],
   "official_links": [
