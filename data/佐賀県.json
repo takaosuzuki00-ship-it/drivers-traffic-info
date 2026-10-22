@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-10-22T03:03:49.329185",
+  "generated_at": "2026-10-23T00:05:24.275119",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 14.4,
-    "temp_max": 21.8,
-    "temp_min": 13.4,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 6.5,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 17.1,
+    "temp_max": 19.8,
+    "temp_min": 16.9,
+    "precip_prob_max": 100,
+    "precip_sum": 51.4,
+    "wind_speed": 10.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.0,
-        "weather": "快晴",
+        "temp": 17.1,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.4,
-        "weather": "快晴",
+        "temp": 17.2,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.0,
-        "weather": "快晴",
+        "temp": 17.5,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 17.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.1,
+        "weather": "曇り",
+        "precip_prob": 14
       },
       {
         "time": "12:00",
-        "temp": 20.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.8,
+        "weather": "雨",
+        "precip_prob": 78
       },
       {
         "time": "15:00",
-        "temp": 21.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.0,
+        "weather": "雨",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 17.9,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.5,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 15.9,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 19.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月21日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aV2dWVEtKdVVWck1QQjlrMnRNZFFNMjJhNWk4NTgtcFNRQXdqajJ5Rml1Z3NRMEM4ZWVqd3pkUmItNTVwWGhuWFJyTWxRbmJtMHBaLTBNZkxoZTdzNFBjTFNkR2EtRllmWTVOQWNR?oc=5",
-      "date": "Tue, 20 Oct 2026 20:10:23 GMT"
+      "title": "10月20日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHE1RkF2UU92SUZxUjBxNkJ5T3lIT01WOS1kTG5oRTJVdFlpcjc2TFBTTUxXR1QybjZHelhhbFBUM1NFZjFGN3Nxa0QtUEU2UEdUZ1JlQ2duWmZ5NmlfMnJNckxwUC1rV2NmZTVPdHRyeXlWdUtVRFlPcVpJMXZaWGNR0gF0QVVfeXFMUGZyOWZqS0hENzFvbk8wZzliV0wyS0xCMkpZWHdXZl9RRWczRVkwZ3l1ZC1CMUJFaE5tUXFLdFRFSkY0UHdTeWhGa1IwU2NTZ1RiQkFjenV2NHlORDVyN1BHRGtqWTVyVFR5eFNJZl9SUXNvbF8?oc=5",
+      "date": "Mon, 19 Oct 2026 20:08:33 GMT"
     },
     {
       "title": "「きのう飲んだ」飲酒検問で基準値の3倍以上のアルコール検出 運転していた26歳女を逮捕【佐賀県】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CYXhfYU43Y0loaC02T0EzbjBMZVVodndQNXY1cnYwZE1CQjA5TE5DNzhEQUN0RGkwYjBEYXlIR3NzZlY4aVNEV1lMUi1Udw?oc=5",
-      "date": "Wed, 21 Oct 2026 09:04:00 GMT"
-    },
-    {
-      "title": "「アルコールが残っているとは思わなかった」飲酒検問で発覚 酒酔い運転の疑いで26歳飲食店従業員の女を現行犯逮捕 容疑を否認（RKB毎日放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMTk5SGs1d3A3ZE1wYl80UDdYLWlJWEhMUVpjeGxpTUU1ZUZLRm1IbTdKaEtTVm1xa2hnRXNVUkUwQVNSUHBSa2lmYktSLUVaUFdmRUZmSnN6QjhNcWhxd21BZnZ3QUZUMUdvYnNnMDRfWGF0UnpPWGVpMGRKQUk?oc=5",
-      "date": "Wed, 21 Oct 2026 02:02:14 GMT"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DOVg0UjhvYUhYSm1seXpYRkFYWHB4cm9GYm9wSGUxN2RVWDY1dE5HMGhfOE5sUUpfWFhFd3FMSWg0ZG9lV1hoSjdWR2JVTjNXSHNxdUNIQi1xbTNaYV82ZWZHQk1MNzB3RUJmNF9rX1ROaGVhMFlEeGlXTUw5UU0?oc=5",
+      "date": "Wed, 21 Oct 2026 09:08:01 GMT"
     },
     {
       "title": "｢アルコールが残っているとは思わなかった｣飲酒検問で発覚 酒酔い運転の疑いで26歳飲食店従業員の女を現行犯逮捕 容疑を否認 | 福岡のニュース｜RKB NEWS｜RKB毎日放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WSmZFd05taWV0MGg5dWUwb3V4dFFlczV5cFFJakJoTXhkRmV6SFZpaF9TLWdFVnVvR3VPMmE4MWxPV0ljTHdrSkNrdjJkTWZfWUd4Wkl4Z205dw?oc=5",
       "date": "Wed, 21 Oct 2026 02:00:00 GMT"
+    },
+    {
+      "title": "「きのう飲んだ」飲酒検問で基準値の3倍以上のアルコール検出 運転していた26歳女を逮捕【佐賀県】 (佐賀ニュース サガテレビ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHFIU29SOVBHVXFkcDBNdzg3QlR4Yy1HbVFOWTdWNmplbl9XcmJtU3ZRVFpDS0g2UUpod2FJVjI2UE41bGxhcThjQzFIOUhMZUo0SlBLd04yM0dIX3BRUU9IX18wdDJYMWdJTFBoc0tVLXVkX3FrcGdOZTFxNFhvS2VUV2dJZEo5Y0w5aXZ3?oc=5",
+      "date": "Wed, 21 Oct 2026 09:08:01 GMT"
     },
     {
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
@@ -92,29 +92,29 @@
   ],
   "accident_news": [
     {
+      "title": "死亡事故をノックアウト 佐賀市で交通安全啓発活動 ボクシング王者・京原さんら呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94djBaRnBqYmhMZmZRSUR1dGU0dDhHMnhsNlVXcTRtZVdlMUhqNVRsc08yeWUzX2lJRFRBMWZaTHhtMHp5c2NaX0tjSQ?oc=5",
+      "date": "Wed, 21 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "title": "10月だけで交通死亡事故3件・4人死亡 秋から年末は重大事故多発の傾向 警察が注意喚起【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SQWlfYzhPekdHV29ta0xaQWFCTC01N25CY211TTlVeGRGU3NmLV9DUmhOdk56T1RaNG4yV0tMUHdXdnFwTXlCN01HZlNJdC1NU1JCZGhodXpXWldKZEJtb3hB?oc=5",
+      "date": "Mon, 19 Oct 2026 09:10:00 GMT"
+    },
+    {
+      "title": "［佐賀県］死亡事故をノックアウト 佐賀市で交通安全啓発活動 ボクシング王者・京原さんら呼びかけ（西日本新聞me）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGphQVVUZHVTb2FIZDdkY3JmMWZISFJZRktZTG1qcjIxdTN3WWExc3hnMmNucWR6QkNtQzdUSkF4bUtlaF9ZVkZFeWhHc1FMQnNCalp3dVV3ZW5NQko1VHJXYjFCQzA0ZnJ6dFBlcmpRd01pVE5Ud2gxcUZBVnRETVFPOGI0eTBH?oc=5",
+      "date": "Wed, 21 Oct 2026 21:00:00 GMT"
+    },
+    {
       "title": "オートバイ同士が衝突、運転の2人死亡 佐賀・唐津の国道",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNGp3bG9lOWpNRHRucUtmZEtVbjhMeS1DNklCbkJxSmZMQmM2SmRCNmxfdDYxcllMU2N2MUVCTHRGSk1Ha1NHY1RVWjhqNXdqVFJaR0x0cGFwdktMTmVlZkZFWXBocHVj?oc=5",
       "date": "Sun, 18 Oct 2026 10:24:26 GMT"
     },
     {
-      "title": "交通事故は減ったのに死者は大幅増…夕暮れ時に事故多発 県警が警戒【佐賀県】｜佐賀のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1naTdpQWxnTXRQakpTNnNic1h3a2ZFOEdRdlpTSWtYVFlOYjRzUUYxcVZZcWl4WVJCdmN5VXA5ZVZCTGtRaG01WmVncjlmR0ZSLUxGT29ST2J1SzI1TXF1aDNB?oc=5",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "オートバイ同士が衝突し男性２人死亡 唐津市の国道 信号や交差点がない緩やかなカーブ（KBC九州朝日放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZzhpUDJxN2tvV2tUVldvSUhFcC1mRmp4bFNWYldyVWZfWVdyQ3RNQS16TGI2dHYxOFpYdVphenNITlB2Y1ZLUVYyVXVJcGlUdkVaU2NPS1Y1WWVrczdfT1pNYnpOVGtpQXN2NjQwcndJTEp6TE9OcVg5MmtfcXc?oc=5",
-      "date": "Mon, 19 Oct 2026 03:00:00 GMT"
-    },
-    {
       "title": "交通死亡事故「ゼロチャレンジ」実施 佐賀県警、10月から啓発強化 例年、年末にかけ増加傾向 | 行政・社会 | 佐賀県のニュース",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9venh0SDE1SzdXZkpUdzdwNFRVS01RWTJzX013QWNqQ2Y0Z1RVOFhwMjZqcVNTdXJPbENhQ0huQmo5RUJLSG5RREl4Z29KcmpPSFRSTlNR?oc=5",
       "date": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "佐賀・唐津市のバイク2台衝突事故、死亡の男性身元判明",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4dldNNXh4UXg4bzRBLVdQN21QNmRsNjBySnljRFM3NUJ4ZFI0UHFrSGNtdElrcEFOZG5weWpMbEMwT2w1VHl4M0stNm8yZnl2S1Jrc0hn?oc=5",
-      "date": "Mon, 19 Oct 2026 21:00:00 GMT"
     }
   ],
   "official_links": [
