@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-23T06:02:51.971131",
+  "generated_at": "2026-10-23T09:04:16.066067",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 15.5,
+    "temp_now": 17.2,
     "temp_max": 22.6,
-    "temp_min": 15.4,
+    "temp_min": 15.7,
     "precip_prob_max": 100,
-    "precip_sum": 14.3,
-    "wind_speed": 6.1,
+    "precip_sum": 16.7,
+    "wind_speed": 6.9,
     "hourly": [
       {
         "time": "00:00",
@@ -21,45 +21,45 @@
       },
       {
         "time": "03:00",
-        "temp": 16.2,
+        "temp": 16.7,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 15.5,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 17.0,
+        "temp": 15.9,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "09:00",
+        "temp": 17.2,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
         "time": "12:00",
-        "temp": 19.6,
+        "temp": 19.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 20.6,
+        "temp": 20.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 20.6,
+        "temp": 20.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 59
+        "precip_prob": 51
       },
       {
         "time": "21:00",
-        "temp": 22.1,
-        "weather": "強い霧雨",
-        "precip_prob": 98
+        "temp": 22.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
       }
     ]
   },
