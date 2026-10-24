@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-24T21:02:55.781748",
+  "generated_at": "2026-10-25T00:02:33.827352",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 18.9,
-    "temp_max": 19.3,
-    "temp_min": 16.7,
+    "temp_now": 18.8,
+    "temp_max": 21.9,
+    "temp_min": 18.4,
     "precip_prob_max": 100,
-    "precip_sum": 25.1,
-    "wind_speed": 6.2,
+    "precip_sum": 25.7,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.5,
+        "temp": 18.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 59
       },
       {
         "time": "03:00",
-        "temp": 16.7,
+        "temp": 20.2,
         "weather": "弱い霧雨",
-        "precip_prob": 94
+        "precip_prob": 53
       },
       {
         "time": "06:00",
-        "temp": 17.0,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 21.7,
+        "weather": "強い霧雨",
+        "precip_prob": 57
       },
       {
         "time": "09:00",
-        "temp": 17.6,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 21.6,
+        "weather": "雨",
+        "precip_prob": 96
       },
       {
         "time": "12:00",
-        "temp": 18.1,
-        "weather": "雨",
+        "temp": 19.4,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 19.3,
-        "weather": "霧雨",
-        "precip_prob": 67
+        "temp": 19.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 18.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 43
+        "temp": 19.0,
+        "weather": "霧雨",
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 18.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 96
       }
     ]
   },
@@ -92,9 +92,19 @@
   ],
   "accident_news": [
     {
+      "title": "石川・小松市で高齢男性車にはねられ死亡（テレビ金沢）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0b2I3cVFldmxkMnBZWjRSVi1NMTdublg5SzZmenZhblgwTTlQbkJWNjhJaUk5cW02YlZZRjgxU2pTSThjNnc0dVdqd0RPb2M3cjJFME1UMXplS2xGWEhCZUJ5SlNtLTEzZHFGRThUSHVnWnVSeWl6M3FxWWFUeTA?oc=5",
+      "date": "Sat, 24 Oct 2026 08:33:00 GMT"
+    },
+    {
       "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNUdtcEZiZy1WbGxsVXpROWlSR0JYb05GWVYwcXVIVTZTUFpPM2RJUjAzSjBjQ2NnVkJTNTFWMThYT01VTktMdW43T1JYNUZVMzRORnJHVktKUQ?oc=5",
       "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "石川・小松市で75歳男性が後ろから来た車にはねられ頭を強く打ち死亡",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSFVXOEhUd19lOEEwcWRJa1otendwZDIxZTNzelZSNmV4RkFCbmRIemU1Rk5GeTBlTEtIWmJOOWpQLTYxZHQ0STIwcEFySTAtREQyTnB0S3NwQXl2UVBEdXVFVUMwNU16VHl5QmdSTdIBdEFVX3lxTE4xOGcwYjgyaDRfa2RjT1VWdUpoTmdweVJOQ1VuYmlTY3Y4SG1hNENxVTlQSU1qRUZLLUZZdGF2b1VJQXlGOEJQdHpFWE1BZmpabXVrc0NibFR1SndING5iRUQtdE5CZHROemJ4TjBHZEpIdndo?oc=5",
+      "date": "Sat, 24 Oct 2026 10:33:00 GMT"
     },
     {
       "title": "交通安全運動中に死亡事故４件 石川県内、過去10年で最多｜社会｜石川のニュース",
@@ -105,16 +115,6 @@
       "title": "石川県警が交通死亡事故多発注意報を発令 9月下旬から死亡事故相次ぐ",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yX0tGcWFwSFhWam1SS3BQZHpVVm1tdG5XdzYtMVBiYS02SHZ1SnVKcHpUdWdsdi0wYTk2X0pXMFozY3NsUlZTTjRVMXM5QWdrcHVrRQ?oc=5",
       "date": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通安全運動中に死亡事故４件 石川県内、過去10年で最多",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVnFGR3JhRFBQVWZYUVRycXQzNmlUUXF4MG40YUZVa3JWWVlSVW8zeFBPRDlyWUxWWUNqTkZudmdkVmxaNWdRa0xfRQ?oc=5",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "石川県内に「交通死亡事故多発注意報」を発令 金沢市内の死亡事故が発生した現場で注意呼びかけ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyM0JvR0FubXI2RC1QSzl4dU44R19vYkthTTdaWUpKeUl4cmNsakN3dERTdnQ5WUV6S3k4MHZkZGh3aHBrbjlhUTR4U0lkai04RDlFMUVBRDJ0ekNrTGVqZTNLWHBuZHc?oc=5",
-      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

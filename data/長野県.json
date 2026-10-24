@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-24T21:03:12.950291",
+  "generated_at": "2026-10-25T00:02:44.875864",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 18.2,
-    "temp_max": 18.5,
-    "temp_min": 14.4,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 17.7,
+    "temp_max": 21.8,
+    "temp_min": 16.0,
     "precip_prob_max": 100,
-    "precip_sum": 20.0,
-    "wind_speed": 8.0,
+    "precip_sum": 23.0,
+    "wind_speed": 7.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 17.7,
+        "weather": "霧雨",
+        "precip_prob": 22
       },
       {
         "time": "03:00",
-        "temp": 15.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 33
+        "temp": 18.0,
+        "weather": "晴れ",
+        "precip_prob": 55
       },
       {
         "time": "06:00",
-        "temp": 14.4,
-        "weather": "弱い雨",
-        "precip_prob": 92
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 49
       },
       {
         "time": "09:00",
-        "temp": 15.1,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 21.5,
+        "weather": "晴れ",
+        "precip_prob": 76
       },
       {
         "time": "12:00",
-        "temp": 16.0,
-        "weather": "雨",
+        "temp": 18.3,
+        "weather": "強い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 16.8,
-        "weather": "霧雨",
+        "temp": 17.9,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 17.4,
+        "temp": 17.2,
         "weather": "弱い霧雨",
-        "precip_prob": 96
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 18.2,
-        "weather": "曇り",
-        "precip_prob": 14
+        "temp": 16.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
       }
     ]
   },

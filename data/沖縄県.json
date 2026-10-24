@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-24T21:06:05.802012",
+  "generated_at": "2026-10-25T00:04:19.679071",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 26.7,
+    "temp_max": 28.6,
+    "temp_min": 25.9,
+    "precip_prob_max": 71,
+    "precip_sum": 2.3,
+    "wind_speed": 36.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 26.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "03:00",
+        "temp": 26.7,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "06:00",
+        "temp": 26.6,
+        "weather": "曇り",
+        "precip_prob": 59
+      },
+      {
+        "time": "09:00",
+        "temp": 27.8,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "12:00",
+        "temp": 28.6,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
+        "time": "15:00",
+        "temp": 27.4,
+        "weather": "霧雨",
+        "precip_prob": 71
+      },
+      {
+        "time": "18:00",
+        "temp": 26.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 33
+      },
+      {
+        "time": "21:00",
+        "temp": 26.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "10月19日（月）【岩手県】 日中・夜間の交通取締情報",
@@ -43,19 +102,19 @@
       "date": "Tue, 20 Oct 2026 13:06:14 GMT"
     },
     {
-      "title": "沖縄自動車道でバイク事故 男性が死亡 （琉球新報）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QWVdyckZUdlpzQlIxb3hpV2g0cFVDYWRydmtfQ1BnSHY0djNvN1kyY1AzRmhhOFB4UWlGb2dBRThpaHB6UXEyaTd1QUQyT3FPX3Bma3FyM3dLc3VDSHgxMkI1RnBXRXE1LXpVb3BZcXo1RGwxaGhHZ0tKdDYtOVU?oc=5",
-      "date": "Wed, 21 Oct 2026 09:10:58 GMT"
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SSFgzeVEwOVU4Mm9maElLSk83ZXFDX2Z6aWc4NVRKeHB5WXZzUnp0R01uc3dmNTQwNy10MW5DRlZWUUxsR0JZTW5wbw?oc=5",
+      "date": "Thu, 15 Oct 2026 20:00:00 GMT"
     },
     {
-      "title": "中城村で軽自動車が街路樹に衝突し炎上 運転席から身元不明の遺体",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzSGlZRWxqVnV6VXBHcS1UQk9CVHZVT3Y1eXZLTG44bVRZbktfdE1FaU9DRFQ0YVBjMXA1S21KdkFGbFlMZjZnODVmN3dUeTZLTlBTVk5xVGlkNTh5VkE?oc=5",
-      "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+      "title": "宜野湾市の国道で車同士が衝突、86歳女性が死亡 同じ交差点で2日連続の事故",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RTDJhNUU0cXVpUGFsUjBLT3ExdnRrVUFaa2lVNkdwZ3BDVDBQNmEwSFNIS0hIOXhaeGdzd1lUeFhfWlAzY0tidG5MYTlWR1B5RTRGZVdvOUp6NDg5akE?oc=5",
+      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "歌手のちゃんみなさんが交通事故 停車中の電動キックボードなどに接触 けが人なし｜Quebee キュエビー",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BU2J1aTAydzNHazJnZGg0dGtYdUZzbnMycGlhcmx0QXktVFVqR2Rld2FxOEljMjZwZ0dfVkhhekl3UnJ6NWx2THB3NmNkSFF4RmRNVWNNbno?oc=5",
-      "date": "Thu, 22 Oct 2026 04:27:26 GMT"
+      "title": "1人死亡3人けが 交差点で軽乗用車の事故 10日にも同じ場所で意識不明のバイク事故",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tY2hmQUptc2J2Q3RCb1BkcWltOWtNVXRpWUhKZml3M0pZa3p0Ty1ZWDdYejJqeHBlVnZiV01wRkN5VXVKUTE2M0R4Z3Z4NFBhZ2dIVTZuVQ?oc=5",
+      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
