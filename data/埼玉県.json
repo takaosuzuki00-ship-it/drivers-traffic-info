@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-10-24T09:02:08.969100",
+  "generated_at": "2026-10-24T12:02:11.425370",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 15.0,
+    "temp_max": 15.5,
+    "temp_min": 14.2,
+    "precip_prob_max": 80,
+    "precip_sum": 22.8,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 14.4,
+        "weather": "弱い雨",
+        "precip_prob": 29
+      },
+      {
+        "time": "09:00",
+        "temp": 14.5,
+        "weather": "霧雨",
+        "precip_prob": 59
+      },
+      {
+        "time": "12:00",
+        "temp": 15.0,
+        "weather": "弱い雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 15.4,
+        "weather": "弱い雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "18:00",
+        "temp": 15.3,
+        "weather": "霧雨",
+        "precip_prob": 53
+      },
+      {
+        "time": "21:00",
+        "temp": 15.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "埼玉の国道で持ち運び可能なオービス盗まれる 速度取り締まり中",
@@ -53,9 +112,9 @@
       "date": "Wed, 21 Oct 2026 02:57:00 GMT"
     },
     {
-      "title": "埼玉 八潮陥没事故 死亡のトラックの運転手遺族が県を提訴",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keWlCUFY1NXdWU3h0TWx3cUl2M1pRZ3dISnFaUmNvOUJmVVZhRy11Q3JuRnNOUUM1cFhtaFdIbzVwcDc5dWhJSWlDTlo1Wi0tUHJ6UWJkNDgzaXpTYjhB?oc=5",
-      "date": "Wed, 21 Oct 2026 07:16:00 GMT"
+      "title": "埼玉・富士見市の国道で鹿と車の衝突事故 2頭のうち1頭が行方不明に 志木市が注意喚起（ABEMA TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyV3FTc2FCS3g3XzRxZ3Atak02VWM0Qjkyc1E2U0NvQTRwNEtHdlplLVFWZF9MWGFYTUQzVjZwemE2ejlZajBkQlVJQ2VsdkFrbFNvdGRwS2hacXk5R0ZBX3NCRTQ0MmNoVHoyZWg1M2pvMUQxa3lJZDJxQmo1dnc?oc=5",
+      "date": "Mon, 19 Oct 2026 07:54:15 GMT"
     }
   ],
   "official_links": [
