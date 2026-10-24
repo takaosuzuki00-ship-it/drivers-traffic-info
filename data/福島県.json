@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-10-25T00:02:03.500162",
+  "generated_at": "2026-10-25T03:02:18.456958",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 17.8,
-    "temp_max": 19.7,
-    "temp_min": 17.0,
-    "precip_prob_max": 96,
-    "precip_sum": 6.6,
-    "wind_speed": 8.2,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 17.6,
+    "temp_max": 20.0,
+    "temp_min": 16.6,
+    "precip_prob_max": 100,
+    "precip_sum": 3.5,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.8,
+        "temp": 17.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 31
+        "precip_prob": 67
       },
       {
         "time": "03:00",
-        "temp": 17.5,
+        "temp": 17.6,
         "weather": "弱い霧雨",
-        "precip_prob": 41
+        "precip_prob": 49
       },
       {
         "time": "06:00",
-        "temp": 17.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 63
+        "temp": 17.0,
+        "weather": "曇り",
+        "precip_prob": 71
       },
       {
         "time": "09:00",
-        "temp": 18.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 41
+        "temp": 18.2,
+        "weather": "曇り",
+        "precip_prob": 76
       },
       {
         "time": "12:00",
-        "temp": 18.6,
+        "temp": 19.3,
         "weather": "弱い霧雨",
-        "precip_prob": 61
+        "precip_prob": 82
       },
       {
         "time": "15:00",
-        "temp": 19.3,
-        "weather": "霧雨",
-        "precip_prob": 96
+        "temp": 19.2,
+        "weather": "弱い雨",
+        "precip_prob": 98
       },
       {
         "time": "18:00",
-        "temp": 18.0,
-        "weather": "曇り",
-        "precip_prob": 80
+        "temp": 18.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 17.7,
+        "temp": 17.9,
         "weather": "曇り",
-        "precip_prob": 41
+        "precip_prob": 73
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "10月23日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NMVUtc1lmdmFheEo2N2t4dmZRLUhoNkYwX2hHbmxZbnI5S3dlcXA1ekdrd2p2SGd0RzFBcUhBdENVSTdYTUJfS1QybGYxQVd4WnVjSmItbw?oc=5",
+      "date": "Thu, 22 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月24日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSEpfUVliYnUwTmgyZkk3U0hQSDFVeXE4UkN2SzlpalhZSGlqRDJxNklCYkFianR3S2psbC1DWU9UamJpaW5qRnp6b1BpUkt2dlo3ZFo4dnM5cW51Tko3cy1vNVVvOUFLS2M5RFc4b9IBdEFVX3lxTE5fRnNIbmFQN2ZvOGpZTi1ZOXo1dW93QlFhU1JRLXdfY2ZteFp4cDIzRktwZklNYWhlWlZweEtLa0ZaSjRtNURUSS15bUJTMEJoZFhfRTFDMmozcnJBTUhSX3VidmRFM2hHMnFrb01sVk5td0Fw?oc=5",
+      "date": "Fri, 23 Oct 2026 20:02:00 GMT"
+    },
+    {
       "title": "10月22日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQ2dxRjdYZV96ZTYtOHc2MmhKVEZOX3FDQ1E0ek43THJyZm53TkRodjlHOGlxaXhqdTFYTjBTZHJ5TTFrZUg3V3U1LTdBcmxDSzRGck1GTQ?oc=5",
       "date": "Wed, 21 Oct 2026 20:02:00 GMT"
-    },
-    {
-      "title": "１０月２４日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80N0ZPajN2NU1jOGt4YVZNc0hEMzlMLUV1MFdHRFd2cUFzNXo3VXRCOUNfRWN3emU0UFd6OVlKY1ZuU0NUcmxBdmN3aFVEVnpYc0JOcGZRVU1mS0dZVlE1V2lnOWxBN05OX3FMLVVKYzlOQdIBd0FVX3lxTE9jTVUtUFFsSS02VXRacFI4ZzdnS2dYcXJfOXV6SnJSTzhnVG5BVWoyN0I4TmZtS0h0YnZuX0h3Vmg3YVllSTBmS3FrZkNxc2JsenpMZUNuQUprazJURTgySGdPR2RyMjVnc2o4UVM1RkIwbDZsVkQ4?oc=5",
-      "date": "Fri, 23 Oct 2026 20:09:43 GMT"
     },
     {
       "title": "１０月２３日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -80,14 +85,9 @@
       "date": "Thu, 22 Oct 2026 20:00:00 GMT"
     },
     {
-      "title": "10月19日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HMWpUN0xIa1hTUU5lRFAwLUtRN1JDR3JTWC11SmxNRU5UakNYNXZodC1SVlBCZ0xHaU94V05WbmJCLWZtVWJfcllyd3F6Z3ZXRkg5dmpJcw?oc=5",
-      "date": "Sun, 18 Oct 2026 20:02:00 GMT"
-    },
-    {
-      "title": "国道４号で夜間検問実施 須賀川署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
-      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+      "title": "10月21日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZSm5GaTJnV1lTb1RNdHBJOXFpNmxzZUNxUzFYa0JVNEJ4YVRPcUVkcU5WaXBqR2xWSXRKdXU2eGJQV3czQ1JuTXU0SW1XS2x1aDM0anluSQ?oc=5",
+      "date": "Tue, 20 Oct 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,19 +102,19 @@
       "date": "Fri, 23 Oct 2026 10:14:01 GMT"
     },
     {
+      "title": "セーフティチャレンジで交通事故防止！",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veTd3ckZvZGVzZi0td0N1YUN6U0xOVDFFd2ZmTzBaOVFfSTRDMllMV2RuYUlieFp1WTduaFlyMlBXcHZ5Nm1DamxOQnZ0RHk0OXUtY25mZVVOWV8yVFlqcFJ3VXF1ejQ0c05CRjU1SjEwakE?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
       "title": "交通事故防止へ 事故多発の危険箇所で現地調査 警察や県の担当者に地域住民も参加 福島：ニュース",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhaUJseFNtbl9fR09DS2M4LVZna3VhSk15bWNRNTJNSENPV1ZKd2lXQmhWdzRMeWVYT2poTkhWRzVyb2FHUXZJMEpJWnA2TXVPX2ZUQWVTa3paWmpfWVg5RFk5bjNGSkF1ZUdWaXprbHJqR0FjNFY0bGt3?oc=5",
       "date": "Thu, 08 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "福島市の東北自動車道・下り線で事故 女性1人が死亡 男女3人ケガ",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55M1JhWjBLUDVpc21PVVR3RkZJMHFKQkFfT2gxdERVMk5RSmhzUTl1VDl1SThsa2xtZ1pRUFJja3BhWWo2ZTl1VndBZ25Xdw?oc=5",
-      "date": "Sat, 17 Oct 2026 02:00:00 GMT"
-    },
-    {
-      "title": "福島県内の事故件数減少もけが人は増加 反射材の着用・早めのライト点灯を",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWVhya2ZzS1FUN3hMSXJtV1JvYVI3YXY4cTdnUGJmZlNkYjdycHJFV0NJeXBHUEpldjZ2NkhnamU0SkoyR19jbE9JS1Nub0ZuSWZYS0J1UDdHS1Y2eTFMekZVeGxtYmc?oc=5",
-      "date": "Sun, 18 Oct 2026 07:55:00 GMT"
+      "title": "【交通事故】猪苗代町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVmdZV2l5Q3JMYzYyemVrelJ0T3dveUtldjFONVNJTEJPOVJXZ3JyU2JJLVA5R3N1UDR1Yjk2bTdEdV9ETWJsZFJjZ2VQd2c?oc=5",
+      "date": "Sat, 24 Oct 2026 00:27:00 GMT"
     }
   ],
   "official_links": [
