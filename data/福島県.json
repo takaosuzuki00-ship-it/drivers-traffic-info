@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-10-26T00:01:24.389710",
+  "generated_at": "2026-10-26T03:01:34.393317",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 17.2,
+    "temp_now": 14.4,
     "temp_max": 17.2,
     "temp_min": 13.7,
-    "precip_prob_max": 100,
+    "precip_prob_max": 95,
     "precip_sum": 0,
-    "wind_speed": 9.4,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
         "temp": 17.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
         "temp": 14.4,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "06:00",
         "temp": 13.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 25
+        "precip_prob": 18
       },
       {
         "time": "09:00",
         "temp": 15.2,
         "weather": "晴れ",
-        "precip_prob": 69
+        "precip_prob": 61
       },
       {
         "time": "12:00",
         "temp": 15.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 96
+        "precip_prob": 88
       },
       {
         "time": "15:00",
         "temp": 15.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 100
+        "precip_prob": 92
       },
       {
         "time": "18:00",
         "temp": 14.4,
         "weather": "曇り",
-        "precip_prob": 63
+        "precip_prob": 55
       },
       {
         "time": "21:00",
         "temp": 14.1,
         "weather": "曇り",
-        "precip_prob": 20
+        "precip_prob": 8
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "10月22日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQ2dxRjdYZV96ZTYtOHc2MmhKVEZOX3FDQ1E0ek43THJyZm53TkRodjlHOGlxaXhqdTFYTjBTZHJ5TTFrZUg3V3U1LTdBcmxDSzRGck1GTQ?oc=5",
+      "date": "Wed, 21 Oct 2026 20:02:00 GMT"
+    },
     {
       "title": "10月25日（火）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mVGRYNDRhT1Q0SDBzeVBvQ0N1Wlpab2FKamN5V2FUY3g1Y0ZQUVpkTzBNZzlhbkJqUVVYVm9ldDJwektCellzM2dKVTlWQ0JNVDE2cmUtbWVNMUpuUFdlX1ZKZHdCb0dpOTdNaElfd9IBdEFVX3lxTFBFQkVpXzhlalU2U1RHaFUtUGhwTTlJOGd2LXdiTWcySGlUUEFKdF83VC1ZbGVXRUdNTWM5dUk5RmY3YVBSWWphaklCejdMUGFjWml1aGxWc0RDSFpjYnpabmhtVk1JSmhQNE9UWnhrNjlBd083?oc=5",
       "date": "Sat, 24 Oct 2026 20:08:28 GMT"
     },
     {
-      "title": "10月22日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQ2dxRjdYZV96ZTYtOHc2MmhKVEZOX3FDQ1E0ek43THJyZm53TkRodjlHOGlxaXhqdTFYTjBTZHJ5TTFrZUg3V3U1LTdBcmxDSzRGck1GTQ?oc=5",
-      "date": "Wed, 21 Oct 2026 20:02:00 GMT"
+      "title": "１０月２５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNU01OXVRdVI4YWp2RUUxejlwb0RkMmtDcEdodzdLZ296MkZ0TUgzbFJRXzkxOWs3aWdIRjBGaXFnZmh3T3UzOWVWVjFCbHVBbUJkYXEwSVFHdlFCNl9WS1VYYmZUNTFlT2ExdnlLd2VSanNjSG5UVQ?oc=5",
+      "date": "Sat, 24 Oct 2026 20:18:27 GMT"
     },
     {
       "title": "１０月２５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -81,13 +86,8 @@
     },
     {
       "title": "10月21日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxS0tqTjhyQmc0RnMtaWhjandwNE9TTUFMNFdpaGZMN0Y1OEJ4bnFHVWFwQTc3VGp3NF93Vm1ldkN3Z3VUQXJZbndOdUxmZXIyaldfUlRjWDhmN3RoLWlBbEstSTEtay1ZRmM1VmhR?oc=5",
-      "date": "Tue, 20 Oct 2026 20:02:24 GMT"
-    },
-    {
-      "title": "１０月１６日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUc0lyWlYzUno3Y3I2ckdqVDFWVHlKN3pvY1dHc2U0UHRNUGJJQVdBaGROTGpFNnh1N2hnUVU0OUxuZWtRTVh4V2ZEU0U0dDBlbDVYemxCRDFHZ3lPUGZsb0V2M09URV9P?oc=5",
-      "date": "Thu, 15 Oct 2026 20:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZSm5GaTJnV1lTb1RNdHBJOXFpNmxzZUNxUzFYa0JVNEJ4YVRPcUVkcU5WaXBqR2xWSXRKdXU2eGJQV3czQ1JuTXU0SW1XS2x1aDM0anluSQ?oc=5",
+      "date": "Tue, 20 Oct 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
