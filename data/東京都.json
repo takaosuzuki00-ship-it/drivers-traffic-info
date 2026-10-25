@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-25T15:01:59.069128",
+  "generated_at": "2026-10-25T18:02:06.548220",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 19.6,
-    "temp_max": 26.1,
+    "temp_now": 19.2,
+    "temp_max": 27.1,
     "temp_min": 16.0,
     "precip_prob_max": 96,
-    "precip_sum": 8.4,
-    "wind_speed": 7.9,
+    "precip_sum": 8.2,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 16.0,
         "weather": "曇り",
-        "precip_prob": 76
+        "precip_prob": 2
       },
       {
         "time": "03:00",
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 25.7,
+        "temp": 27.1,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.6,
+        "temp": 20.1,
         "weather": "雨",
         "precip_prob": 18
       },
       {
         "time": "18:00",
-        "temp": 19.7,
-        "weather": "弱い霧雨",
+        "temp": 19.2,
+        "weather": "強い霧雨",
         "precip_prob": 57
       },
       {
         "time": "21:00",
         "temp": 18.8,
-        "weather": "晴れ",
+        "weather": "晴れ時々曇",
         "precip_prob": 92
       }
     ]
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "東京外環道内回りでトラックが渋滞の車列に突っ込む 運転していた男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eTlpSmd5UUl0dFhrcTY3NkhYamFMTlRBbVh6WTlfY281YUJGaFEzaW51V1R1RkdxT1ktRlZWdC10M0dXN1dsLWNGdXJNVHpycUV0X3JhUGZhSkk3RmZ2NDJjVkF4MHNoVGVkaHNET2lHUQ?oc=5",
+      "date": "Fri, 23 Oct 2026 05:53:37 GMT"
+    },
+    {
       "title": "違反車発端の事故、有罪判決 徐行しなかった男性に「予見義務ある」 東京地裁",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNVNXSWhJeGxYVDhkYV9MQl9RYjNDM2lLQ245dTNnX0lnWVdFR0FLTWtwYUFoRUNVYUo4NTVjLXVwQmhwLXV4N3o0U3ktRmYyd1JfUzFwTUVtQk11?oc=5",
       "date": "Tue, 20 Oct 2026 20:00:00 GMT"
@@ -110,11 +115,6 @@
       "title": "東京・三軒茶屋で乗用車が衝突 女性は両足切断で意識不明 – Quebee キュエビー",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVQVQ3bU11SWlwSUJJQXdzVkdiSDFuM1BrVm9XTmVvcExTTFQ0UmVmSjE3ZnpKOTVENmk0NlFYUW9kRlVQZGpPZmZUUmxwVE96cnAxdmNjOVg?oc=5",
       "date": "Sun, 18 Oct 2026 03:12:19 GMT"
-    },
-    {
-      "title": "高級外車と乗用車が衝突 交差点にガラス散乱…男性1人けが 東京・新宿区",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4VDg2bXE1cE9UX0dmallfR1p0Yl95V3AwWFdUd1NMMkMtellBSzVLY1lRRk8xMGNWYXdCTmtoMXpfX2dCNWRBMkhWSTZHdFU?oc=5",
-      "date": "Tue, 13 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
