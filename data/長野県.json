@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-26T15:03:34.742074",
+  "generated_at": "2026-10-26T18:04:56.044559",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
   "weather": {
     "code": 61,
     "weather": "弱い雨",
-    "temp_now": 17.4,
-    "temp_max": 17.6,
+    "temp_now": 16.5,
+    "temp_max": 17.5,
     "temp_min": 15.1,
     "precip_prob_max": 100,
-    "precip_sum": 16.9,
-    "wind_speed": 8.1,
+    "precip_sum": 17.1,
+    "wind_speed": 5.8,
     "hourly": [
       {
         "time": "00:00",
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 17.5,
+        "temp": 17.0,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 17.4,
-        "weather": "弱い雨",
+        "temp": 17.5,
+        "weather": "強い霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 16.6,
+        "temp": 16.5,
         "weather": "晴れ",
         "precip_prob": 39
       },
       {
         "time": "21:00",
         "temp": 16.2,
-        "weather": "晴れ時々曇",
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
