@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-10-26T21:05:41.188047",
+  "generated_at": "2026-10-27T00:03:49.226713",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 18.1,
-    "temp_max": 19.4,
-    "temp_min": 17.7,
-    "precip_prob_max": 100,
-    "precip_sum": 52.0,
-    "wind_speed": 3.3,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 18.4,
+    "temp_max": 23.6,
+    "temp_min": 16.4,
+    "precip_prob_max": 75,
+    "precip_sum": 0,
+    "wind_speed": 2.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 18.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 6
-      },
-      {
-        "time": "03:00",
         "temp": 18.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 10
-      },
-      {
-        "time": "06:00",
-        "temp": 18.7,
-        "weather": "弱い雨",
+        "weather": "晴れ時々曇",
         "precip_prob": 75
       },
       {
+        "time": "03:00",
+        "temp": 17.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 39
+      },
+      {
+        "time": "06:00",
+        "temp": 18.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
         "time": "09:00",
-        "temp": 18.1,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 21.3,
+        "weather": "快晴",
+        "precip_prob": 8
       },
       {
         "time": "12:00",
-        "temp": 19.3,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 23.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 19.2,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 23.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 20.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 53
+        "temp": 18.0,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月26日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ObXM5M1BIZ2xOSWlISm5Pb2tKLVd6MnZENXlpeU1UcWs2U2Y2U0FRNGtZLThtN1BYRXZQd3lta21tVHhYMXVERU12TG45U0RGZUtubFd4b2FjX0U4VklaYnRnbHpUbGZVWUl2c1ZZVdIBdEFVX3lxTE9CWkNMMHlCeXNPUHFVRDdKSnVFRnljOERmeHNqclY5U3VyZENIME9SeFVabHBsSjdQeXFOVDhJc0R3TjloM2JxaXQ4MVBDMjFCLVNNSHlXMWxZc0UtaTExUngzek1WOVpYVklxNkUzb0VpV3Fa?oc=5",
-      "date": "Sun, 25 Oct 2026 20:06:05 GMT"
+      "title": "10月22日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OR3VDSXJSd29jQzVYNGxpajBsQXU4OGdVcWJwTnZxVnZmXzkxeVdIbTBreC1zUk1HSjJRMXl1dkpHUm43ZVZNeWJNMmdieGtZNE1qS3VoRmJPVF90YngwOFpkc2Jyc3R2ZG56eVphQdIBdEFVX3lxTE44a09aVzF5T2hPN1hteXZlRURiSUMxOVFRZ0FyM2pVem9yS0tZcHZhaHhuaXZHNnRZTS1XcG1RdndaelVrNmFUYnEzMTdaRmtCeUxuT05SaGZob0VobEhqTmZBWHoxVEI2bmM3Q19wV3NZcHQx?oc=5",
+      "date": "Wed, 21 Oct 2026 20:02:00 GMT"
     },
     {
-      "title": "10月25日（火）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mVGRYNDRhT1Q0SDBzeVBvQ0N1Wlpab2FKamN5V2FUY3g1Y0ZQUVpkTzBNZzlhbkJqUVVYVm9ldDJwektCellzM2dKVTlWQ0JNVDE2cmUtbWVNMUpuUFdlX1ZKZHdCb0dpOTdNaElfd9IBdEFVX3lxTFBFQkVpXzhlalU2U1RHaFUtUGhwTTlJOGd2LXdiTWcySGlUUEFKdF83VC1ZbGVXRUdNTWM5dUk5RmY3YVBSWWphaklCejdMUGFjWml1aGxWc0RDSFpjYnpabmhtVk1JSmhQNE9UWnhrNjlBd083?oc=5",
-      "date": "Sat, 24 Oct 2026 20:08:28 GMT"
+      "title": "１０月２１日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hbERtdEpzWDNES0k4NVFwVEdTcFJGZUJydmdDNHlHZWdmdmdITmF1aGE3Qzc2U0NMdENoRnlKa2diQm9hOFp0Q3dCYnJLTkhFUXdGWW1GNEFlb3ZxdTZ6YXBBWDlzdloyWkx2ZkpHak9md9IBd0FVX3lxTFBPaWZuSWF4NUF4YTZPQ2xkanB5TXhMeVlQMDVzRW9uZXBwQXA4NHNWUnlRVkxpX3VLeTJvZ2w3X0lseEdWUEtOTWpnNW9ySmo3ZjhIOHFCaVRTV1hUMWRBRXczSkYzNUF0UWJkMHB3UjJWbVNuYkZr?oc=5",
+      "date": "Tue, 20 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "新皇崗検問所、きょう供用開始",
@@ -85,9 +85,9 @@
       "date": "Wed, 09 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "行方不明の6歳男児はいまだ見つからず 公園付近の検問や川での捜索続く（山形・酒田市）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92NkVWQnBJY2RxN3NHTVdiVk1pWE5JQTBlTmNvTlp4OXdNMEs2LUxzV0ZKREVGdWN6SkQ3ZGhDYzVWd1JrSUhtbWZUbl9neHI3bDZIRkpDS2pEN1MybElGRDBZYlRQd3c?oc=5",
-      "date": "Wed, 09 Sep 2026 07:00:00 GMT"
+      "title": "ラファ検問所、きょう開通見込み 支援物資トラックが待機",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5N0g0dzd2TWFFZkpud25wM1FpcWh5QWxBdWVqY3dMaXNUeDF6dU5od0VGWnp4cW55YUdWcndCRTFiUnRQNHhPRGtUUVZ0bG5ZcWZV?oc=5",
+      "date": "Fri, 20 Oct 2023 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Fri, 11 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "第二京阪上り線の城南宮南ICと城南宮北IC間で複数台が絡む事故　一時、渋滞発生",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcG9HbHZqd1gtejN1Q01LVzNEcDNvcVBic1RjT3VxWmVpbnNOR0hVbXp0ci1faXdoNGllNDV3UUgyV1NVWnJDNktmOXhMV1JiYS1Ga0Nyd2U0UDU3STlNUjNVZm5vbVhFU2RnV003dGU1M1BaSFdMNVFIR0JrVURiQzJ4UG1sQdIBiwFBVV95cUxQaWtsdHlLb3VwdklsRlRhVGFBZUFnVjZRR3hEUmR0SnZYR0VRcWtQNl96QzZJVkt6LXBmdm1veHJvd2VGaThXRVBVVmRrQ2VuV3liTUVmNmxXb2JkcC1HbFlnQzRhNmc0TWVtRTk4SjFad09rZURJTlpXM2c4c2V1bUxwV1B0V3V6ZC00?oc=5",
+      "date": "Tue, 13 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "わざと交通事故起こし保険金だまし取ったか 会社員の女ら３人逮捕 保険会社が不審な点に気づき警察に相談",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzYTdVRmd2aG9NbmtOZFpSVUFnRk43ckgzV1hoTWc4b0prdTJOTUdXeUZMRzl6UDNVTGNLbm9ZbFNGSS1zeEN6MExfNW1hLWV2MjAybVptZXp6MFpfNTBIdzJ3?oc=5",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中日嶋ヘッドコーチが交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yWFJvVlNXam5xZXR0X1JwMFdqRnZnTkhnSUV2b2U5NlVLUENhU2lKZy1nbVhXMGExOXdsRTE1V1RhWDhlQzlFQ01ETEJybzA4VmJWbkRYY2g?oc=5",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "死亡事故をノックアウト 佐賀市で交通安全啓発活動 ボクシング王者・京原さんら呼びかけ",
