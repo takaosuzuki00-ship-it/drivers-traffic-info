@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-10-27T21:03:05.548669",
+  "generated_at": "2026-10-28T00:02:11.397777",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 16.7,
-    "temp_max": 19.7,
-    "temp_min": 15.9,
-    "precip_prob_max": 100,
-    "precip_sum": 2.2,
-    "wind_speed": 33.5,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 16.2,
+    "temp_max": 16.2,
+    "temp_min": 11.8,
+    "precip_prob_max": 92,
+    "precip_sum": 0.8,
+    "wind_speed": 31.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.2,
+        "temp": 16.2,
+        "weather": "曇り",
+        "precip_prob": 47
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 13.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 12.5,
         "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
-        "time": "03:00",
-        "temp": 16.6,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 17.6,
-        "weather": "曇り",
-        "precip_prob": 6
-      },
-      {
-        "time": "09:00",
-        "temp": 18.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 27
-      },
-      {
         "time": "12:00",
-        "temp": 19.4,
-        "weather": "晴れ",
-        "precip_prob": 16
+        "temp": 12.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "15:00",
-        "temp": 19.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 11.9,
+        "weather": "曇り",
+        "precip_prob": 16
       },
       {
         "time": "18:00",
-        "temp": 18.2,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 16.7,
-        "weather": "晴れ",
-        "precip_prob": 80
+        "temp": 12.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月25日（火）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mVGRYNDRhT1Q0SDBzeVBvQ0N1Wlpab2FKamN5V2FUY3g1Y0ZQUVpkTzBNZzlhbkJqUVVYVm9ldDJwektCellzM2dKVTlWQ0JNVDE2cmUtbWVNMUpuUFdlX1ZKZHdCb0dpOTdNaElfd9IBdEFVX3lxTFBFQkVpXzhlalU2U1RHaFUtUGhwTTlJOGd2LXdiTWcySGlUUEFKdF83VC1ZbGVXRUdNTWM5dUk5RmY3YVBSWWphaklCejdMUGFjWml1aGxWc0RDSFpjYnpabmhtVk1JSmhQNE9UWnhrNjlBd083?oc=5",
-      "date": "Sat, 24 Oct 2026 20:08:28 GMT"
-    },
-    {
-      "title": "10月22日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQ2dxRjdYZV96ZTYtOHc2MmhKVEZOX3FDQ1E0ek43THJyZm53TkRodjlHOGlxaXhqdTFYTjBTZHJ5TTFrZUg3V3U1LTdBcmxDSzRGck1GTQ?oc=5",
-      "date": "Wed, 21 Oct 2026 20:02:00 GMT"
+      "title": "10月27日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1abUh1UXIyMTFRZFVGN2ZHNm9oSTZhVW84TVlGdkI2dllfQ2dkem5ncHd6QzN1Ull6MXlQZ1ZCYlZEaTJHZVgzdXMxOFJ4LTVsUEgzbW9BaE1JTzljdDF2ZEtlNlZzTkFIM3pad2pn?oc=5",
+      "date": "Mon, 26 Oct 2026 20:03:25 GMT"
     },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
@@ -80,21 +75,26 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "10月26日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTE1rdXpqeVBieHVCUU9fbDZpYklzbndKS0ZYbUxXUTJiZW5VZ1JPZi1IOTVNbUN2aUNtSHRyRkpHUGFjZ3RMR3RfV2dsTU01bDMwYUQ1LUpuSVI5V2xFZDRpM0FRbXozcXFHMmFR?oc=5",
-      "date": "Sun, 25 Oct 2026 20:04:23 GMT"
+      "title": "１０月２５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNU01OXVRdVI4YWp2RUUxejlwb0RkMmtDcEdodzdLZ296MkZ0TUgzbFJRXzkxOWs3aWdIRjBGaXFnZmh3T3UzOWVWVjFCbHVBbUJkYXEwSVFHdlFCNl9WS1VYYmZUNTFlT2ExdnlLd2VSanNjSG5UVQ?oc=5",
+      "date": "Sat, 24 Oct 2026 20:18:27 GMT"
     },
     {
-      "title": "１０月２５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DcVFaeDNKSFZHT2NxRHROdmVZT0NXalZWWTByck80ckZzcVZxejVITVhnTVphMFdFZFozZDIxZTI0UGtXa0IwMjNkUENXXzRwNk5IakdjempBNUxzMnZKajBqQjdQWHpCWXkzN2E0bWRQZ9IBd0FVX3lxTE4wUGdVMk5LWnctTm5ERFJPaXRDb0NkX3lsblRfaE5kWUQtY2R5Vk9odC1pY3FOZUhmclN4cFRiVUlodlJWTktJNks4VHZmUUkzbWo5Y09Xb2ZFNFE2eU5Ma0hFVzc3Ni1qTTMtVmJpS0ZoUGsxdFgw?oc=5",
-      "date": "Sat, 24 Oct 2026 20:07:22 GMT"
+      "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPT0FlTFVzM3VJNXhTMFZ0UEdjUDl6XzZTX2ZCVDB3N1lpaEl3T1ZKNVBXdkZ6MmZmWGx5WHhoSnlERF93cGRVRWUzaVYyb0ZyZWpfeHprUXhjU0QxVmE2REFOU2VQZ3NfWnNVYkNGcFZTbHZWSkNrRXZDbmEyUE1hZ1FIbXV0V1dhTmRDQkpUWktYYkZNZUlMR2xNZmRzWjF1WERGR0thNUpac0J6clZNdW1sSzNmY3JrV3JUMF9lVGlDd1d6VDNfeGJYT2F0d0tQLXpEaDhnWmtEb18wMS02MUdrMGxGZ3dPVUx3c2hUMmhZSWUxVTdzdU15bHlld3Z2NEhURG1wSW1ad05GckRMLUtmVzRieFZMMEU0QW5UVERBTk8tMGtZYTg1VjRWYWRmSmowbm5LTEZ6YzU1Q2JOalI4UzhJc1puS3lENWNKdw?oc=5",
+      "date": "Tue, 29 Sep 2026 13:24:50 GMT"
+    },
+    {
+      "title": "【交通取締情報】9月26日 新潟市中央区や長岡市など県内4地域で取り締まり強化",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYZkdUR001UzhLTlV6d0NPbm96Nm5SU3pLaVBoSWxvWUpQaGFzbzZGUWgybHVCbjJpamh6ZG5XTFZzVlY4?oc=5",
+      "date": "Thu, 26 Sep 2024 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "令和８年高齢者交通事故防止運動",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aNzcySkgxanYtUVJHT1FDd2ZwNFJ6UTdEdGZ5eUFZV0cyQ2pVOGMxQjBnb1U2dFpQWk8zcmFfTHZHcVYzSVQwWWNHRDFZcTE4QjZIbXhZZW4zdF95?oc=5",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+      "title": "バス待ちの10代女性がけが 路線バスが停車しようとして“雨風よけ”に衝突 新潟・中央区 （ＢＳＮ新潟放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nSU45S2JEUFJmb21MWDdNdTdyZnBMNFdXU3d2aDFhaWhpc1hTOUNNbE1oNE5jMWM3emZXdThWblo5NmF5dkVJUDFmVzYzQnhWRnpNSnRBWERuTE9ZMTVXSXE0clVKWHpfRElGNWxxWXRmY19uWDduMDJTaHRVWm8?oc=5",
+      "date": "Mon, 26 Oct 2026 06:22:15 GMT"
     },
     {
       "title": "【55歳男性が死亡】新潟県阿賀町の磐越自動車道で中型貨物自動車が路肩に停車、運転席で意識不明の状態で発見",
@@ -102,19 +102,19 @@
       "date": "Sun, 25 Oct 2026 02:23:46 GMT"
     },
     {
-      "title": "磐越自動車道でトラックがガードレールに衝突 運転手の55歳男性が死亡 死因は致死性不整脈【新潟】",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uek1qUWRTX21wdGg2YTY2YkNkOF9NNkhUenZxV0t1eGx3VnQtYXR3RUQ5eDV6VW53UF8yR3VnRnpDTFFvdGo1Sl9TU1VnenA3dnhoTVowSDgwMXVCT3p2UnlrMFcwS3NsQ0hnRkdMdU9OQdIBd0FVX3lxTE9iZEcwVDgwa1NlbnR2YkhoVzNtYldLbkwtMmczdk9sREsyTW11anIyTjJuUnZuOFNKYWt0dDJkZ0o0dW9YdHd5QWlFekFvLW9ybnVpaV9hcG1zaU9qRGdVaUZnQnVuWDdmdXkwVndleFlMdnVXRFVz?oc=5",
-      "date": "Sun, 25 Oct 2026 01:00:59 GMT"
+      "title": "令和８年高齢者交通事故防止運動",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aNzcySkgxanYtUVJHT1FDd2ZwNFJ6UTdEdGZ5eUFZV0cyQ2pVOGMxQjBnb1U2dFpQWk8zcmFfTHZHcVYzSVQwWWNHRDFZcTE4QjZIbXhZZW4zdF95?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "交通事故発生状況",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk52LUJsTWdrM20zZFFVUEZjM0dPV1Y1UlB5V3RNOTZyVXF0ZndSZ1BoenliVGFNYVpzZG91dlh0cHpYZU1XLUtKSndDbkUxbmcxZVh1TDBnSVR6a3Zpb2M5RGxMdTB5T042UGZvdXFxejUtRkViblpVYmQyX3hoVg?oc=5",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+      "title": "運転中に意識失ったか…新潟市西区で85歳男性が死亡、車同士が衝突",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40a29fejVUcU5DMkdyQjNaUzl5TWlHejB1aDdjcGpybENSSjNSWXBjMUQ0S0tacGZ4c1N0c2h3WjQxdXAxZVMwTU9PeWZISldGSldpNjVCSHFJTVF4X1E?oc=5",
+      "date": "Thu, 08 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "磐越自動車道でトラックがガードレールに衝突 運転手の55歳男性が死亡 死因は致死性不整脈【新潟】（UX新潟テレビ21）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41ZUJNa3JieVpPaElHZDEyZWxPNHdDb180QmFkNVJNdVBhMC1EV0ZDZUJXdmdxU1AtaG5ZTHhSRmZOSWg1RUs5Y01kbk5NYl9TQXpfTWpRQldrWWlIYlpybE8tU3V2RnpYTlJpTy1HYnBVbXZnd2ItZ0IxNTF5eTg?oc=5",
-      "date": "Sun, 25 Oct 2026 00:30:08 GMT"
+      "title": "「月光仮面」と書かれた封筒がパトカーのフロントガラスに置かれる 中に硬貨が入った封筒「交通事故などで困っている人に役立てば」と記載《新潟》",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2hQMWVUTXRMeVBkTjdPZndIbUFWM1NkVGtaQWh0QjBhUmQxeE5BRjV5MTQxUklieU9QZUNvY1BvN2VrWHk1Qzd6Vk5mMzAyZ0ZrUG1aQVl2M2dETVRlTThmUHlEZkFlVFFYM0JPRy1DNmcyQnpWeUM5dEo0Wjd5NFVxZ1d3RF9o?oc=5",
+      "date": "Wed, 21 Oct 2026 03:15:00 GMT"
     }
   ],
   "official_links": [
