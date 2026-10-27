@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-27T12:04:48.759992",
+  "generated_at": "2026-10-27T15:03:33.124176",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 22.9,
-    "temp_max": 23.8,
-    "temp_min": 18.1,
+    "temp_now": 23.5,
+    "temp_max": 23.5,
+    "temp_min": 18.2,
     "precip_prob_max": 94,
     "precip_sum": 0.1,
-    "wind_speed": 8.9,
+    "wind_speed": 9.0,
     "hourly": [
       {
         "time": "00:00",
@@ -29,41 +29,46 @@
         "time": "06:00",
         "temp": 19.4,
         "weather": "曇り",
-        "precip_prob": 4
+        "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 21.4,
+        "temp": 21.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "12:00",
         "temp": 22.9,
-        "weather": "快晴",
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.8,
+        "temp": 23.5,
         "weather": "晴れ",
-        "precip_prob": 20
+        "precip_prob": 6
       },
       {
         "time": "18:00",
-        "temp": 22.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 51
+        "temp": 22.5,
+        "weather": "晴れ",
+        "precip_prob": 59
       },
       {
         "time": "21:00",
-        "temp": 18.9,
+        "temp": 19.1,
         "weather": "快晴",
-        "precip_prob": 37
+        "precip_prob": 33
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "１０月２６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tRUlzbGRRYjZEQlItUFRYM09qc2REUUprRlJfS1QzOHotVDdrb0p5WmdEbTBSRy1YSE5XaWpmMWpoODlHTnNsZmpjMXd4eDhxY0R2SzZkLW9pVGJUdEtWMnd2YWwyOXFsamo3a1ZWXzQ2UdIBd0FVX3lxTE5IaFFIV1laTHZ6c1FwbXlDVUkyaGlHcWg0aUZrRFFMQTNYbkt1Uko4QVlITXViQkVlUkQxSGlyVXp2aDVESUZTeDFBbnI4eUk5dFE5cnk0ZVZZQmVIR2JaMXNuOEV1MVFVWDV1UmFsclFtVDB5YVow?oc=5",
+      "date": "Sun, 25 Oct 2026 20:00:00 GMT"
+    },
     {
       "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
@@ -75,11 +80,6 @@
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
     },
     {
-      "title": "「黙認されてきたのに、なぜ今」全国でソープランド摘発相次ぐ…“裏事情”と見落とされがちな“最大の被害者”とは【弁護士解説】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rblk2bWRiN01GblRvRk1yZGZhekZRTk9qQ05lNGF0ZXVjdjFGTS0ydHN6OU8zQmo2MGNaVS1SWlg4Tkx2WkpMa196SHhHUDNoWkp2OTdjMVFpRFRXMnZnZWcwNktwZFZhQUF5SGtwX25scUdQZWxjbnpLcDZ0MWM?oc=5",
-      "date": "Mon, 13 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "正体判明！最新のレーザー式速度測定機LSM-200はオービスではなくネズミ捕り用だった!!",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15UjJ3SWlGdlhEVTNsZkkzSWdkanFZQ0t5d245YVB3UUpGX20zQ3NjbmVUcXpMd1phekxDNkVqT0pzN01fMXltUGt2T0hOWkVf?oc=5",
       "date": "Wed, 11 Mar 2020 07:00:00 GMT"
@@ -87,14 +87,19 @@
   ],
   "accident_news": [
     {
+      "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOTlHRmt4VExKVE00OTNqZTQ0NmhFUFlIOE8yZERlbGtURDA4ZmZXNU91Sjdhc3BPUDVqM3pGWG1Yb2FvN1FJTlNKU2tQQXByVGNHcFZHVmloRmNheHN1cndLRnoxakhk?oc=5",
+      "date": "Tue, 19 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "交通事故ゼロへ 秋の行楽地で啓発、和歌山県串本",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JM2hZQlNWdm9CYmhRRUVlNnhOcUNFek9aemg0ZmNybjhmUW43MnYzQlNFaW9EcWZMT0hSdDJqbldWTUdOaDE0Z1l5bHFxbjQ?oc=5",
       "date": "Tue, 22 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "和歌山のトンネルで多重事故、20歳死亡 停車中の父の車に挟まれ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOTlHRmt4VExKVE00OTNqZTQ0NmhFUFlIOE8yZERlbGtURDA4ZmZXNU91Sjdhc3BPUDVqM3pGWG1Yb2FvN1FJTlNKU2tQQXByVGNHcFZHVmloRmNheHN1cndLRnoxakhk?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
+      "title": "近畿6府県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NQ2pYdXFMRzdwdldKdGhWaHhhM090RFRfbHpoLUp3RlV5cHhhTnJocHRWYlFwVjV6WU1GRzE0UHo3OFFiaXRlaXNJMDZHUHlnY3RrSUd3UW5mTDlVS1hCQk9BVmxhNVZoQ0hB?oc=5",
+      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "【速報】漁港沖合で水難事故 男性死亡 近くに浮いたサーフボード 和歌山・御坊市",
@@ -105,11 +110,6 @@
       "title": "川遊び中の男子高校生が死亡 川底で発見、おぼれたか 和歌山 [和歌山県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tVlc0VXZZb3N3UzhwMjVPNDd2b1RaMU5hcHJDVUx3MDJzU3p3Vk5hVlRIc3ZNeGZVWVo5Wmg1TnBhZXk3ajNiMU9PbnVCOFBBaXJJcXVuTld4S2xMQUM4ZGdYRG5STGM?oc=5",
       "date": "Tue, 14 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【多重死傷事故】女が無罪主張 「てんかん」でない可能性を主張 死亡女性遺族が申し立て再捜査を経て起訴 事故5年目の初公判で 和歌山市",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51MnJxbjVLWU1rTUZwZVBMWS1BLUJIbXI3dlZvaGpnbWZ2QXVIN05SUTFLM3pIcU4tTnpLM0VHeVdzZG4yWkNYS1c5NmRwdnliT0k0ZE43aw?oc=5",
-      "date": "Mon, 01 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
