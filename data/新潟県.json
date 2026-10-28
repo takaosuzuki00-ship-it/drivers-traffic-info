@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-10-28T21:03:00.398660",
+  "generated_at": "2026-10-29T00:02:33.757213",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 11.9,
-    "temp_max": 15.2,
-    "temp_min": 11.2,
-    "precip_prob_max": 92,
-    "precip_sum": 1.2,
-    "wind_speed": 24.0,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 12.2,
+    "temp_max": 16.1,
+    "temp_min": 10.0,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 22.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.2,
-        "weather": "曇り",
-        "precip_prob": 49
+        "temp": 12.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.3,
-        "weather": "曇り",
-        "precip_prob": 92
-      },
-      {
-        "time": "06:00",
-        "temp": 12.3,
-        "weather": "晴れ時々曇",
+        "temp": 12.4,
+        "weather": "晴れ",
         "precip_prob": 6
       },
       {
+        "time": "06:00",
+        "temp": 10.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "09:00",
-        "temp": 12.1,
-        "weather": "晴れ時々曇",
+        "temp": 12.3,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 11.6,
-        "weather": "晴れ時々曇",
+        "temp": 15.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 11.2,
+        "temp": 15.9,
         "weather": "晴れ時々曇",
-        "precip_prob": 10
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 11.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 15.4,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 11.9,
-        "weather": "晴れ時々曇",
+        "temp": 14.5,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "10月28日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zQmVJM2hNNGVUTGNOakFpOU90aWtGdHJNVTUyWWVlNmVSQnZHeFktZTBRenlIQmVjaFlsbXNfaWN1aGg1WWhzR1dpMU9zVTdxVVlTQVJCUDd6VWV4Z1Z5ZG8wcmxVUHM2al9FUl9xMNIBdEFVX3lxTE5qZTkwcXk1UlF2NDRVbjVoRWxkZ3hJdG9zbzJmU0F1bXViYkprTlRqcDlvUF9YVnZpMHEzZ09NOXhFdWIyd3phMlNMdkU3TllycnRYUGotRThDTDNyVFRoeGVBZWc4bmlfMWI3TjJtbFB1c3lC?oc=5",
-      "date": "Tue, 27 Oct 2026 20:09:25 GMT"
-    },
-    {
-      "title": "10月26日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTE1rdXpqeVBieHVCUU9fbDZpYklzbndKS0ZYbUxXUTJiZW5VZ1JPZi1IOTVNbUN2aUNtSHRyRkpHUGFjZ3RMR3RfV2dsTU01bDMwYUQ1LUpuSVI5V2xFZDRpM0FRbXozcXFHMmFR?oc=5",
-      "date": "Sun, 25 Oct 2026 20:04:23 GMT"
+      "title": "１０月２６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tRUlzbGRRYjZEQlItUFRYM09qc2REUUprRlJfS1QzOHotVDdrb0p5WmdEbTBSRy1YSE5XaWpmMWpoODlHTnNsZmpjMXd4eDhxY0R2SzZkLW9pVGJUdEtWMnd2YWwyOXFsamo3a1ZWXzQ2UdIBd0FVX3lxTE5IaFFIV1laTHZ6c1FwbXlDVUkyaGlHcWg0aUZrRFFMQTNYbkt1Uko4QVlITXViQkVlUkQxSGlyVXp2aDVESUZTeDFBbnI4eUk5dFE5cnk0ZVZZQmVIR2JaMXNuOEV1MVFVWDV1UmFsclFtVDB5YVow?oc=5",
+      "date": "Sun, 25 Oct 2026 20:12:05 GMT"
     },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
@@ -80,14 +75,19 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
+      "title": "10月26日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTE1rdXpqeVBieHVCUU9fbDZpYklzbndKS0ZYbUxXUTJiZW5VZ1JPZi1IOTVNbUN2aUNtSHRyRkpHUGFjZ3RMR3RfV2dsTU01bDMwYUQ1LUpuSVI5V2xFZDRpM0FRbXozcXFHMmFR?oc=5",
+      "date": "Sun, 25 Oct 2026 20:04:23 GMT"
+    },
+    {
       "title": "１０月２５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DcVFaeDNKSFZHT2NxRHROdmVZT0NXalZWWTByck80ckZzcVZxejVITVhnTVphMFdFZFozZDIxZTI0UGtXa0IwMjNkUENXXzRwNk5IakdjempBNUxzMnZKajBqQjdQWHpCWXkzN2E0bWRQZ9IBd0FVX3lxTE4wUGdVMk5LWnctTm5ERFJPaXRDb0NkX3lsblRfaE5kWUQtY2R5Vk9odC1pY3FOZUhmclN4cFRiVUlodlJWTktJNks4VHZmUUkzbWo5Y09Xb2ZFNFE2eU5Ma0hFVzc3Ni1qTTMtVmJpS0ZoUGsxdFgw?oc=5",
       "date": "Sat, 24 Oct 2026 20:07:22 GMT"
     },
     {
-      "title": "１０月２６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tRUlzbGRRYjZEQlItUFRYM09qc2REUUprRlJfS1QzOHotVDdrb0p5WmdEbTBSRy1YSE5XaWpmMWpoODlHTnNsZmpjMXd4eDhxY0R2SzZkLW9pVGJUdEtWMnd2YWwyOXFsamo3a1ZWXzQ2UdIBd0FVX3lxTE5IaFFIV1laTHZ6c1FwbXlDVUkyaGlHcWg0aUZrRFFMQTNYbkt1Uko4QVlITXViQkVlUkQxSGlyVXp2aDVESUZTeDFBbnI4eUk5dFE5cnk0ZVZZQmVIR2JaMXNuOEV1MVFVWDV1UmFsclFtVDB5YVow?oc=5",
-      "date": "Sun, 25 Oct 2026 20:12:05 GMT"
+      "title": "10月25日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xQmpEZmNXcWd5VGZCaUl5T2pOeEdqaXZVQ3RuNXVDdC1NZUFiazc1TUlwTmhma3N0WHExRmlvMWEyY1hoMnNtd1pST1lrQzNLQWQ2aGFKTndQNUpCNjBvQ2dYMk5IRkZKQmlHbTJsUdIBdEFVX3lxTE1Vb2s1Zm4yZ2d3czZuOHpkLWQ4VFBOUDJ0WDUtVWlmOHRSbnAyam41dkZTMHRDTWJJU2JqeXBWNzZiUE5FV1ZCZUJhb1hvMjR4Nkl4cnpUclJLUm1VRWZETUp1cm9lZmF0ZFd3OGNaam1FeGJ0?oc=5",
+      "date": "Sat, 24 Oct 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -95,6 +95,11 @@
       "title": "バス待ちの10代女性がけが 路線バスが停車しようとして“雨風よけ”に衝突 新潟・中央区 （ＢＳＮ新潟放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nSU45S2JEUFJmb21MWDdNdTdyZnBMNFdXU3d2aDFhaWhpc1hTOUNNbE1oNE5jMWM3emZXdThWblo5NmF5dkVJUDFmVzYzQnhWRnpNSnRBWERuTE9ZMTVXSXE0clVKWHpfRElGNWxxWXRmY19uWDduMDJTaHRVWm8?oc=5",
       "date": "Mon, 26 Oct 2026 06:22:15 GMT"
+    },
+    {
+      "title": "「大変危険な現場」“高速道路”事故への対応力競う大会　冬場のスリップ事故へ注意呼びかけも「慎重な運転を」新潟",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZoMTRuSTZScHRqSS1GVEsxbXlGTExBR2ZxYUhVZ2U2N0g3ZF9ROTc3dFdvWVVOVWppaFVDeGJmc0w5T0JQTjFBTG1fbTh6UWRuTXJ5dHhmb2t1T29LWk02UVdQakVHMGJtSkhJdnF3OGpFcEg2LWl0MWItVTFJQ1AzNzBhLXltOXRpX3gtSi1IREhWcmF6MDRIZS1UV0hmRUlQd0tNM1V5MFZZNllyVFA5SW8tQjUyX2hrbUtoMHpqTVRhYkpfZdIBd0FVX3lxTE8xeWw2Nnd6cUNCWFB3cW5EN2tRTUlOSUxnMzhwajBsMkluNEEtRGthNGpKSHJobmhIYXkyUE1zUk5Ta1N2aXdOMDNJNE9QaHdmN1F4aHQzVV9tZFRtbnl2Z0MxempLcUdGQkxBbTVVX0ZldzFrVkNZ?oc=5",
+      "date": "Wed, 28 Oct 2026 10:00:00 GMT"
     },
     {
       "title": "令和８年高齢者交通事故防止運動",
@@ -107,14 +112,9 @@
       "date": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "「大変危険な現場」“高速道路”事故への対応力競う大会 冬場のスリップ事故へ注意呼びかけも「慎重な運転を」新潟",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UbXNOMlFEVnU5OUpVcG93SEZxXzh6VUl2aGVBcXVHOWVPdjI0bmRjMlA4bF9TWENldW1Rc3JKMjUxZXJwMC04TERXQUkzN1pxcUxYcFFMS0tRWEw1WXRDWERMc29iNWNZdmFIcVRB?oc=5",
-      "date": "Wed, 28 Oct 2026 10:10:25 GMT"
-    },
-    {
-      "title": "運転中に意識失ったか…新潟市西区で85歳男性が死亡、車同士が衝突",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40a29fejVUcU5DMkdyQjNaUzl5TWlHejB1aDdjcGpybENSSjNSWXBjMUQ0S0tacGZ4c1N0c2h3WjQxdXAxZVMwTU9PeWZISldGSldpNjVCSHFJTVF4X1E?oc=5",
-      "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+      "title": "交通事故発生状況",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk52LUJsTWdrM20zZFFVUEZjM0dPV1Y1UlB5V3RNOTZyVXF0ZndSZ1BoenliVGFNYVpzZG91dlh0cHpYZU1XLUtKSndDbkUxbmcxZVh1TDBnSVR6a3Zpb2M5RGxMdTB5T042UGZvdXFxejUtRkViblpVYmQyX3hoVg?oc=5",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

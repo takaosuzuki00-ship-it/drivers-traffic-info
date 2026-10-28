@@ -1,95 +1,85 @@
 {
-  "generated_at": "2026-10-28T21:03:09.867690",
+  "generated_at": "2026-10-29T00:02:44.183434",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 10.5,
-    "temp_max": 14.6,
-    "temp_min": 8.9,
-    "precip_prob_max": 100,
-    "precip_sum": 1.1,
-    "wind_speed": 4.5,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 8.8,
+    "temp_max": 21.3,
+    "temp_min": 5.8,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.9,
+        "temp": 8.8,
         "weather": "快晴",
-        "precip_prob": 73
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.4,
-        "weather": "晴れ",
-        "precip_prob": 80
+        "temp": 7.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 12.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 5.8,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 13.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
+        "temp": 10.7,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 13.5,
-        "weather": "曇り",
-        "precip_prob": 78
+        "temp": 18.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 13.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 12.0,
+        "temp": 17.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 10.5,
-        "weather": "晴れ",
+        "temp": 16.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SbDNoa2Y2T0d6UDB3dXUxdEFWT25XZDgzQTZ6V2ZUT3Zab25OZkRXWkxMeWFFdkk3SVFuNEFvTExDV1Q4VTdDRmE2THItNF9GNHFaQg?oc=5",
-      "date": "Thu, 25 Dec 2025 08:00:00 GMT"
-    },
-    {
-      "title": "飲酒検問中の警官ひき逃げ、ゼブラゾーンで退避場所ないなど不備…車誘導の資機材設置場所も不適切",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtQTY2X0t0aEhhbGliekQxdUEyaWpyOEZZQjhadnFYRzNrTVZmOTdkTS1ZNFNmSnlyZ0lwTHZubGIzZ21UYTFpTnExYTNCYVFZaUlQdmZRLV8xdzZ6Yk82V0ZlMUZtdw?oc=5",
-      "date": "Thu, 28 Mar 2024 07:00:00 GMT"
-    },
-    {
       "title": "時速190キロで高速道路を走行した疑い 72歳男「速度違反はしていません」と否認 | 石川県のニュース｜MRO北陸放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzYk1zc0Zma3YtamhGTzl5a2xlb3JyUnVMeUpmZkF0a3BaWlA5WktydlI3NzNFMkd2Y0w1WTRzQndNQVA5bnU5SHRTczFLQlNVV0Nrd0ROdXd6UQ?oc=5",
       "date": "Tue, 02 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "４月から始まった自転車「追い抜き」新ルール 十分な距離あけず「一気に追い抜いてしまおう」は摘発の対象となる可能性",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXJqX3FqTFpPOWtNUUt3SnM0QUZBZDZYcEY5SEVTQlFjc05PbmtXTk44dGo1ZDVZb090NVJMVGhoOHhkbUxBMS1oRFlVT0haa0VZcFBOVXBVbzlQT3pob250NmpUQXBTYzFVNmVINEtmRnVRSm9mTzRLMS13dEN3aTV2QlZIdHRT0gGEAUFVX3lxTE91dElRS0gwTVBLTXZCc3p6SG5mWXBRZ2pZTEZ0d2Y1dU5tZmN4b0REVHluTy01aWNkZ192Q0dzSzhNN2RhYXppc2lCUGdkV3VDc2NOY3VnUldScWVfTUtkRGtGbW43Y2VxNGRpQ3ZKaC1ucEJfNVJyM3pncGtSX2wzX19paQ?oc=5",
-      "date": "Sat, 21 Mar 2026 07:00:00 GMT"
+      "title": "スピード違反の身代わりはできません - www.think",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZnVjdU96YWZGNlFKOUJZQzdXYzdZT2Y5RnpWWEV2eGR5WkMxY0sxeC1SRjNsMFFhVVFfYzFET3oxVE4xVzJ1d0lZNU81Z01GTlRGVDJPeENjcS00RGVXVGlYa3lFSHduNlNGQVJVWQ?oc=5",
+      "date": "Wed, 26 Apr 2017 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "横断歩道で82歳女性はねられ死亡 大型ダンプカー運転の56歳女を現行犯逮捕 現場近くの福井アリーナ建設予定地から土砂を運搬",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPcjR0c0pTemI1MllLMFJQRTIybjBraGxRbjl0Z0l2eklYQTdmX3Z1WWJaaF9laUJkRk93c2xvV3YyVllvekkwOFh0eDNpNmk0a1VzVjRpbzJCSVN4bG05WTFhdE5XaTdZRDU1dlI5aE80SDR4V2pyUEljQkVKaXpkbXU5NWpOS1BGQ25Hdm56UWd3WF9Ld1V4SHdxQW9mdS1PQVA0TmFQNVN0RGlvb3NDTlZ6LXpYdDJ0QWZoeWI5VlBkNndEeDVyN3FrTGhaSkZtSDF5cmNBVnBSUTlFT0NaTzJxMWJZWnFUZXVxQmtBVnBBRlo1Z3luajhQSkhpMld6ZmQ3NVJhTHZGaGVsOF9aMjhaNjMwcE9zNC1aRDRYZ0pPeHNtQWFWTzJCQjdnYm1HVlNFekJGWTZEQ0pJZFhBSVREcVU2YWFhdGF1UDc3UnRqYk9KbjdOYkppZw?oc=5",
-      "date": "Thu, 01 Oct 2026 13:33:13 GMT"
+      "title": "福井アリーナ27日から作業再開 現場近くでのダンプカーによる交通死亡事故を受け中断 当面は土砂運搬行わず",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNSjFjVHpBMUZ3R1c1bG5xaTlEOEVDVWpkMjVfdXM2UTg3NW5OQ1Q3TkVLWFlXeGMwNVB0OE90QzFzc3FtNUdteW9wbFFKeTBQM3B6eTg4b0tOb01oOVUzVG1EZG5kb1VVdHljREhBUHVaU1l2amZndWZTcFppa3ZDR3JlbjhxZlB3MC1Ealh1dFFHZVlmMmprU05WS3ZjRm9ENTVoU3hOZVhYZXJ0R1NLUmNnYnhrVWpUM1RIZEZZRDJCc0RpMGVfS2hrY3MxSjVvTV93V3dZNGJxVzdWY1NFM0dpc0dmR2tvRGNGNDJRRG9SS1NGNHE2ek9rZTh6eElQQmRQeldjaVM4X1FBNms1SmxGbC0wYzNMYVJaclVRX2tjZmQyRmJoRUU3Vm96X1NqU3g1X3liY0NmOXZ0RUo0V0ZfeDRPX05QQmZ0SVVYeXlWcDhpQUZ4bklWMA?oc=5",
+      "date": "Mon, 26 Oct 2026 06:48:00 GMT"
     },
     {
       "title": "交通事故に遭わないためドライバーに「見つけてもらう」ことが大切 園児が反射材や明るい色の服を着用する大切さを学ぶ",
@@ -97,19 +87,19 @@
       "date": "Tue, 27 Oct 2026 11:48:00 GMT"
     },
     {
-      "title": "福井アリーナ27日から作業再開 現場近くでのダンプカーによる交通死亡事故を受け中断 当面は土砂運搬行わず",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40WXUzUnhBRG5STDlSTzdub25YV1RIeTJCZzNOUXF6VHk0VFlUd0ZpVzhOWVpnREExbmpZb3JuSUZqYVA3UmppSUUwOHlwUQ?oc=5",
-      "date": "Mon, 26 Oct 2026 06:48:00 GMT"
+      "title": "フォークリフトに挟まれ85歳男性死亡 福井県勝山市の農業用倉庫、1人で作業",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xOGpZWUU0SUZQTF9KRmxVVkZqYVhIRjdvbnpyMm14bS04dm5Cc1dpUmJCdHh1NmhpLVE5UGptUGE4NnhpZ3hnUnVUVWFadFJMbzFCQkNKUXR3OUdmcVE?oc=5",
+      "date": "Fri, 23 Oct 2026 04:44:00 GMT"
     },
     {
-      "title": "愛知のサーフィン男性、海水浴場沖合で死亡 福井県高浜町、10月25日午後",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDLW5aajFrbXdlRVZTNG44ekh1cWl3SGstVVYtN1JiNkVwYmRkaUZMay1EaUpPMlVHcnV4RTBBVTFzYks5Ml9JMFo0eV9LTDA0ZlFoWHFBWS1Mck1uSGc?oc=5",
-      "date": "Sun, 25 Oct 2026 21:10:00 GMT"
+      "title": "死亡事故を受けてストップ 福井市のアリーナ建設予定地で発掘調査が3週間ぶりに再開 ダンプで土砂の運搬はせず 安全の確認を事業者に指示 地域住民からは不安の声",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON05vVl96RnRxX0JIWlR3UHZ5UjVDT0RiQ0U3bXd1bVowc3Jfb1FTZk1vbEEwSXl4N1NjckRyUWVyNTI5MmRiOU1zT1JlSmNFWGJDR3VwQTZJYnMxSFJDaF9CSXIzdDZ4aXB3anhvOXpwUmp4bTgyN1ZTVnF1WmttUy1VT2Ztb28?oc=5",
+      "date": "Tue, 27 Oct 2026 12:12:00 GMT"
     },
     {
-      "title": "福井アリーナ27日から作業再開 現場近くでのダンプカーによる交通死亡事故を受け中断 当面は土砂運搬行わず",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNSjFjVHpBMUZ3R1c1bG5xaTlEOEVDVWpkMjVfdXM2UTg3NW5OQ1Q3TkVLWFlXeGMwNVB0OE90QzFzc3FtNUdteW9wbFFKeTBQM3B6eTg4b0tOb01oOVUzVG1EZG5kb1VVdHljREhBUHVaU1l2amZndWZTcFppa3ZDR3JlbjhxZlB3MC1Ealh1dFFHZVlmMmprU05WS3ZjRm9ENTVoU3hOZVhYZXJ0R1NLUmNnYnhrVWpUM1RIZEZZRDJCc0RpMGVfS2hrY3MxSjVvTV93V3dZNGJxVzdWY1NFM0dpc0dmR2tvRGNGNDJRRG9SS1NGNHE2ek9rZTh6eElQQmRQeldjaVM4X1FBNms1SmxGbC0wYzNMYVJaclVRX2tjZmQyRmJoRUU3Vm96X1NqU3g1X3liY0NmOXZ0RUo0V0ZfeDRPX05QQmZ0SVVYeXlWcDhpQUZ4bklWMA?oc=5",
-      "date": "Mon, 26 Oct 2026 06:48:00 GMT"
+      "title": "サーフィンをしていた愛知県の58歳男性が死亡 若狭和田ビーチの沖合20ｍで知人が発見（福井テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ab3ZYMjJVbnYwSWRyeU9DZHprQTBqZjZrX1ZnN1dhXzNUWF9rcUZHLWQydXZrQ0pJNWpxTzBRTW1zU2dWd0RHc0FGVG5vU2tuaUdheUQyaHQ3c0JvZVJGS0xVcEJuNE9DYVZua2doRWQ4QU5ZNnFtVGdzWkJlMWc?oc=5",
+      "date": "Sun, 25 Oct 2026 11:08:02 GMT"
     }
   ],
   "official_links": [
