@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-30T09:00:41.454078",
+  "generated_at": "2026-10-30T12:00:42.518362",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 12.7,
-    "temp_max": 15.2,
-    "temp_min": 10.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 14.2,
+    "temp_max": 14.4,
+    "temp_min": 9.9,
     "precip_prob_max": 63,
-    "precip_sum": 3.2,
-    "wind_speed": 1.1,
+    "precip_sum": 1.5,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
@@ -21,54 +21,49 @@
       },
       {
         "time": "03:00",
-        "temp": 11.0,
-        "weather": "晴れ時々曇",
+        "temp": 10.4,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 11.0,
-        "weather": "曇り",
+        "temp": 10.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 12.7,
-        "weather": "曇り",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.2,
-        "weather": "曇り",
+        "temp": 14.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 14.0,
-        "weather": "霧雨",
+        "temp": 14.1,
+        "weather": "弱い霧雨",
         "precip_prob": 47
       },
       {
         "time": "18:00",
-        "temp": 12.9,
+        "temp": 13.1,
         "weather": "晴れ時々曇",
         "precip_prob": 63
       },
       {
         "time": "21:00",
-        "temp": 11.9,
-        "weather": "晴れ",
+        "temp": 12.4,
+        "weather": "弱い霧雨",
         "precip_prob": 22
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "１０月２７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYnhWUUNJM2hnRUtkUkpkd0hCcUdSa1pzS29oaThHdVlPT3hCdGhBcXZ3UndqRlpxLWkzVTZRUnppa1AyNEFEN3FmLUN3M21mdEFKVXFLUGJvSWpTMDV5aW5NQzhqNmhuN3NhQW5n?oc=5",
-      "date": "Mon, 26 Oct 2026 20:03:26 GMT"
-    },
     {
       "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
@@ -80,14 +75,19 @@
       "date": "Mon, 13 Apr 2026 02:50:58 GMT"
     },
     {
+      "title": "RV車事故飲酒事故から20年を受け 事故現場で飲酒運転検問を実施 宮城・多賀城市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kaEtEZF9JM0UtMEdLbG0xSnFsS2J3ejNiSFR5ZUFSQTBpRm96S2J6N25XQjFxMlB3TlozRVZFUmtDVzBvenYydGtFN29nMWFUU21fMURpUGR5T0hrSFVj?oc=5",
+      "date": "Tue, 13 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
       "date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "title": "宮城県内25か所で一斉検問 飲酒運転の摘発が増加傾向",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZU9hLXBQSWJWcmFWTlBHYkc1cHR2WnlJakc0S0RiQnNnRGV1U2RjMDJOWWJyQThuMXhnaGRCajd2TkZUZXBKcnAtMnJCWnY1LUVqZm9zNjIyRndZb3c?oc=5",
-      "date": "Sun, 02 Jul 2023 04:19:38 GMT"
+      "title": "【９月から】生活道路の法定速度30キロに引き下げへ60キロ走行で“一発免停”違反点数6点で30日間",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xWHQtRHNTX05IUTRxSjl1VzdLRlZUTlU2QkFSdG9NZXRLMURlbWhCM3E2WjVpUW1LQzZfSzBYd2J6TjRDWmdlU1pDQ2xxZm50dzlLMXNTNVJMSXA0STVxSzd2UQ?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Thu, 29 Oct 2026 08:00:00 GMT"
     },
     {
+      "title": "県内ワーストの「事故の多い交差点」は？2025年の人身事故7件、2026年もすでに3件の人身事故 警察が反射材配布で注意呼びかけ 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85ZjlITjB4cXVLRGxGa25hZFlHRms5a0pZbnJWWXRfcUtpTElDcHpic2podHJmZ2NHUTZwT3kyaVp6WjhYazJNTHBESkVHUGZDbDNYQ2U5dU9qTGlETVIyNmpnbFhzSHM?oc=5",
+      "date": "Mon, 26 Oct 2026 09:25:00 GMT"
+    },
+    {
       "title": "【続報】はねられた自転車に乗っていた男性（70）死亡 トラック運転のさいたま市の男（32）逮捕 宮城・栗原市",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVB4YjBSVGY3TjIzYTY3cGdJYURRRkxHVzVEYnNLUjBwYko4Z0t4RjVXZHN3V3pCaHV6Zlh3VnlNcmswUTlNbkthSmhaTnNURlBQLU9UTGRGcUZfV01jRjRiSm9rUks4VlRDdy1BcDB1N2RrZkJqcXc4SEwxM2FfLXExMzhyN2s?oc=5",
       "date": "Tue, 27 Oct 2026 22:30:00 GMT"
-    },
-    {
-      "title": "トラックにはねられ自転車の70歳男性が死亡 宮城・栗原市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5STNmdG9vejhfTmhKaWZqeVlKUXVwWDVhaDJxdS1fc3MwUmJyU2JsWXpjeTRrRl9wQkRxUU82ZC02bXFmVl85bUlMa2E4MFd2dEM2NGthWVJ0VnVLczhEUFRramtRZ1U?oc=5",
-      "date": "Tue, 27 Oct 2026 12:13:00 GMT"
     }
   ],
   "official_links": [
