@@ -1,78 +1,83 @@
 {
-  "generated_at": "2026-11-02T00:03:24.025731",
+  "generated_at": "2026-11-02T03:02:50.504763",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 14.9,
+    "temp_now": 17.1,
     "temp_max": 19.8,
-    "temp_min": 13.6,
+    "temp_min": 13.8,
     "precip_prob_max": 100,
-    "precip_sum": 11.5,
-    "wind_speed": 3.5,
+    "precip_sum": 10.6,
+    "wind_speed": 2.6,
     "hourly": [
       {
         "time": "00:00",
         "temp": 14.9,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 17.5,
-        "weather": "晴れ時々曇",
+        "temp": 17.1,
+        "weather": "弱い霧雨",
         "precip_prob": 65
       },
       {
         "time": "06:00",
-        "temp": 16.9,
+        "temp": 16.5,
         "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 17.4,
+        "temp": 17.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 18.6,
         "weather": "弱い霧雨",
         "precip_prob": 96
       },
       {
-        "time": "12:00",
-        "temp": 17.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 88
-      },
-      {
         "time": "15:00",
-        "temp": 19.6,
+        "temp": 19.5,
         "weather": "晴れ",
-        "precip_prob": 65
+        "precip_prob": 73
       },
       {
         "time": "18:00",
         "temp": 16.9,
         "weather": "晴れ",
-        "precip_prob": 8
+        "precip_prob": 22
       },
       {
         "time": "21:00",
         "temp": 15.0,
-        "weather": "快晴",
-        "precip_prob": 0
+        "weather": "晴れ",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "１０月２２日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95RkZnanJvU3RUbXlKV25IY0gzZGxCUUVBMnROSFVCVUJKVE80eUpiR0gtQzlBOXNvUkpuMXdWSFlyNFdFWndEY2dSUkpfajd5ZDVQUXlleXdsWTF3YkRLcXU3OFI5NVdGOUcxSTJB?oc=5",
-      "date": "Wed, 21 Oct 2026 20:18:19 GMT"
-    },
-    {
       "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
       "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "山口県の飲酒運転の摘発件数が２・３倍、自転車が４割…「自転車なら構わない」と考える人まだ多いか",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ONFJNeW8zMUh6TUhDQi16NXdpdi1aa21hX3hhV1FQekhhczFTWklwM1MxS1hWTnYxVjVacDFfa2VFaXp6VkYzWTd3TkZnYU1VSURWWEdWNkdSS2Q0UFhydnhQWjZ2aXR3Q0tFUkhoMUpGUQ?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "適切な廃棄物運搬を/県、岩国で車両検問",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZC1meU43TVYxOE5Qbk1hX2Q3U1RORTFteHBMR0hINU5odWJGanVQZ0ppTHY4X1NaUkU0YlJaY25ITmVRYUlmOWRaV2dUeDVPeXZzTjh0TU4xcUt4R01ZdWVpT0tFcTg1?oc=5",
+      "date": "Thu, 08 Sep 2022 07:00:00 GMT"
     },
     {
       "title": "道路法第47条第2項違反者（重量超過車両）の告発について",
@@ -83,38 +88,28 @@
       "title": "通行禁止違反、スピード違反…全国一斉取り締まり日に山口県内で８５件摘発",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTVZEcXR0SE1tQlB6UlBXVUlXTTA1d3AteENqZldyY2tXQ2NkaXhiY1Brd3JWdGlRay1UNlVPR3VKZ1EzSDJrdnJpYmpiMFdGSllJOUlnUk1GNlZZTEZnQXNNVG5lZw?oc=5",
       "date": "Wed, 19 Apr 2023 07:00:00 GMT"
-    },
-    {
-      "title": "酒気帯び運転など４９件摘発/県警が一斉取り締まり",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNlZYX21uMlo2akdUNUJhT2tjSXNEb05IUm50T1pBQmJDNHhtemg5UWJvWW1VamFuSWJ1RzBUZ3IzdXIzbXcxMkQxb0xQQWVHNDg2R2x5MHMyNm83ZEFXb3d4RzhZZzQt?oc=5",
-      "date": "Wed, 27 Nov 2024 08:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "山口市の県道で89歳女性がトラックにはねられ死亡～山口市内では26日にも高齢男性がはねられ死亡する事故",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KajRrRVJSeWpCQTRlTlpKT3QzemVzYzRlTDRpOUttRjBIZndhY0xqYklEUVgtbi1pUC1sVXpuQ25PQ1NCVnJSTU5qcHJQU25mdWU0c3Q2bGZHYTdBS3kzUFdtX1RQVURuYkd4bkpwdzQ4aV84Yk9acklYbHVKdDg?oc=5",
-      "date": "Fri, 30 Oct 2026 02:40:00 GMT"
-    },
     {
       "title": "【事故】山口市の89歳女性がトラックにはねられ死亡",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zY1ZhTXg1WWhBUDhBaGloSWdROWpZUkxxbjVvRHFjbVZZZGdGV213S25SaEI4eGVfSnc2OHZvWjVsN041a0JwUUZ1TEZHLS00WXQwQkhvYWdxZw?oc=5",
       "date": "Fri, 30 Oct 2026 10:11:55 GMT"
     },
     {
-      "title": "山口県内で交通死亡事故多発、事故抑止対策を指示/山口県警で緊急交通課長会議",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UdEZFRTRpWUQxenotcndreEpMZHozU3ZlVF9PU043bU10djNoUC12VGRlMVBNV3o5djV4cnBEVGUzTkJ2NmdWTFEyUmxJdG9qZU9TV0RJV0NpZ25ZYVA3RlZiM05oTFEyZ3c?oc=5",
-      "date": "Fri, 30 Oct 2026 21:00:00 GMT"
-    },
-    {
-      "title": "今年に入り36人 去年1年間を5人上回る 死亡事故多発受け県警が緊急会議 山口",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTXZSd1RPVUEwNUlvaDRpZmVTVklMNThtaDM5N3dmb1lhWUxMdTlYODk0aFBtVndMMnAwVGIySVhkZTJqNEJRUUt1YWI3ZThrWkVESXhYamJtZw?oc=5",
-      "date": "Fri, 30 Oct 2026 09:06:00 GMT"
+      "title": "山口市の県道で89歳女性がトラックにはねられ死亡～山口市内では26日にも高齢男性がはねられ死亡する事故",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHYzYmJseHdYUWs1THBtcVc4X2NCeXViRWpVZ1oyX0V3SkRRdFBoLThVaWtua2dERzIyLVJzT3J0WS1EZ1VGQjFLamRTOElwWmVFaUNucDNlMzMxcHhVdzFuTERkay11MHdjVUdOaXoyRmRDSTE2OVdNQUFwOW9yb3BTNHl6VDA?oc=5",
+      "date": "Fri, 30 Oct 2026 02:40:00 GMT"
     },
     {
       "title": "【速報】女性がトラックにはねられ死亡 現場付近は通行止めに 山口",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tbkJEZWU3N2RKRUx1Zkt2dDRVQ3dBYXUwd2VzQVAtMWw1Sm1HdWpfQlpiNlFvdzdtVWdMTmE4UXRDZ1lhdnljZnhIaHVsMnNmTFFPM2NQUQ?oc=5",
       "date": "Fri, 30 Oct 2026 00:05:00 GMT"
+    },
+    {
+      "title": "山口県内で交通死亡事故多発、事故抑止対策を指示/山口県警で緊急交通課長会議",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UdEZFRTRpWUQxenotcndreEpMZHozU3ZlVF9PU043bU10djNoUC12VGRlMVBNV3o5djV4cnBEVGUzTkJ2NmdWTFEyUmxJdG9qZU9TV0RJV0NpZ25ZYVA3RlZiM05oTFEyZ3c?oc=5",
+      "date": "Fri, 30 Oct 2026 21:00:00 GMT"
     }
   ],
   "official_links": [
