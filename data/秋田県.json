@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-03T00:01:09.944452",
+  "generated_at": "2026-11-03T03:00:51.779315",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 11.3,
-    "temp_max": 12.3,
+    "temp_now": 11.4,
+    "temp_max": 12.4,
     "temp_min": 10.1,
-    "precip_prob_max": 58,
+    "precip_prob_max": 31,
     "precip_sum": 0,
-    "wind_speed": 7.7,
+    "wind_speed": 10.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 11.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
@@ -27,25 +27,25 @@
       },
       {
         "time": "06:00",
-        "temp": 11.3,
+        "temp": 11.2,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "09:00",
+        "temp": 11.9,
         "weather": "晴れ",
         "precip_prob": 6
       },
       {
-        "time": "09:00",
-        "temp": 12.1,
-        "weather": "晴れ",
-        "precip_prob": 4
-      },
-      {
         "time": "12:00",
-        "temp": 12.3,
+        "temp": 12.4,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 12.0,
+        "temp": 12.1,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -57,22 +57,27 @@
       },
       {
         "time": "21:00",
-        "temp": 10.2,
+        "temp": 10.3,
         "weather": "晴れ",
-        "precip_prob": 25
+        "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "10月28日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uMEVsakhmZE4xOWJwVmRsTk5mejJUdk9pYlFtOEtlLXlLWlI5ZzJYZlRwNFVCWlRySDZHaHp0Z0ZRak10cW9kZXJtaEFmZGJvcFRZa25Kaw?oc=5",
+      "date": "Tue, 27 Oct 2026 20:00:00 GMT"
+    },
     {
       "title": "11月2日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PZXZ5NGlScmJxOWlSUEY3MnQwZ29yUkNtV3ZYNW9kdFFXQThIaWV0ekxsbmNoSm1fNWxUU21keFpnWDhkVDRQLVZ5ZDJOZ2VBZVZrbkVKZ245elNDdWZkanNES1Y0SDdmRGhIT256TdIBdEFVX3lxTFAtQnBGQ1B2eF9kV083ZWxJUjBfZmZKdC0wbFRKZkhsQ3hhTGxqNTRxdWJ3dXlhLTYyVWZQQjd5Rkw3THU2Mk5HYzVCUHFocmpBaGdFSGhBQ3EwM1QySEhHMlRwRW5tOVNzNWs3UFp1ODI5bGI0?oc=5",
       "date": "Sun, 01 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "10月28日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uMEVsakhmZE4xOWJwVmRsTk5mejJUdk9pYlFtOEtlLXlLWlI5ZzJYZlRwNFVCWlRySDZHaHp0Z0ZRak10cW9kZXJtaEFmZGJvcFRZa25Kaw?oc=5",
-      "date": "Tue, 27 Oct 2026 20:00:00 GMT"
+      "title": "10月28日（水）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OTZoZGdIVWRkclkxYkRRbXlmLWRzOFRrRXItWEFpRWZ6aWcxSnNrVkV1bjlhV2RWTXNCM2FsUHNoRWdvem9UOUU5QU1jdndaRFMyNDVCdE5tQkN4aW51WXVWTE1jQmk3WXFlU0oyU3l6OWhiQW9zU1FWWjc3Z28?oc=5",
+      "date": "Tue, 27 Oct 2026 20:00:32 GMT"
     },
     {
       "title": "乾燥大麻やＭＤＭＡ、秋田県内の男女６人を逮捕 麻薬取締法違反の疑い",
@@ -83,11 +88,6 @@
       "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
       "date": "Tue, 04 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MRkF6a2dtUUt6RkM3RzFuSG9Sbzl5NUVVeUpLOENmR0VMRzR1ZkdxelNYWHlYOGlwMEFOSjl1RDZYM3R1TTJEZHk1aU1RakM3cUhhNmk2VTNvTDJEenRmVlZ6ZkJRQm8?oc=5",
-      "date": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -107,14 +107,14 @@
       "date": "Mon, 02 Nov 2026 07:30:00 GMT"
     },
     {
-      "title": "交通ルール守り、事故のない地域に 大館市で市民大会",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15TGt1Q2UzejR4dm9kd1p6MFRDeDljSHZXZnVvaWFXeUk0a25JanhZWURLT2lyMnZBMXpzaDFDWjZMNjlfSzViak81amNKZnJXb240Y2JUdkRkMjYwbVpCTEQzbXhhVkJjM214TTln?oc=5",
-      "date": "Mon, 02 Nov 2026 07:30:00 GMT"
-    },
-    {
       "title": "【速報】秋田市土崎港相染町で大型トラックと乗用車の事故 乗用車の男性がけが 港湾道路の一部区間が通行止め 21日 秋田【内容修正】",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VaMFdIdk5hMTBmZ1I2RE9wUE5HaERJcDlQeE13eC0tMnlqa1RFQWNvWURhOHFKXzhhUlhvYThycTBTMy12Q3o0U1VXV21oc1lQemlCV0ZHcFpKTzI1S1FtSFBoSTFJMjFiR2ZrbGZLcXM2bnVXeE4tOHgxeC1yZ1doWVhCbEk?oc=5",
       "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通ルール守り、事故のない地域に 大館市で市民大会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15TGt1Q2UzejR4dm9kd1p6MFRDeDljSHZXZnVvaWFXeUk0a25JanhZWURLT2lyMnZBMXpzaDFDWjZMNjlfSzViak81amNKZnJXb240Y2JUdkRkMjYwbVpCTEQzbXhhVkJjM214TTln?oc=5",
+      "date": "Mon, 02 Nov 2026 07:30:00 GMT"
     }
   ],
   "official_links": [

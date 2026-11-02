@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-03T00:01:13.276476",
+  "generated_at": "2026-11-03T03:00:56.550173",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 10.1,
-    "temp_max": 14.2,
-    "temp_min": 7.8,
-    "precip_prob_max": 59,
+    "temp_now": 9.7,
+    "temp_max": 14.1,
+    "temp_min": 7.9,
+    "precip_prob_max": 65,
     "precip_sum": 0,
-    "wind_speed": 4.8,
+    "wind_speed": 4.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.1,
+        "temp": 10.3,
         "weather": "晴れ",
-        "precip_prob": 59
+        "precip_prob": 65
       },
       {
         "time": "03:00",
         "temp": 9.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 4
-      },
-      {
-        "time": "06:00",
-        "temp": 10.1,
-        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
+        "time": "06:00",
+        "temp": 10.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
         "time": "09:00",
-        "temp": 12.2,
+        "temp": 12.3,
         "weather": "晴れ",
         "precip_prob": 12
       },
       {
         "time": "12:00",
-        "temp": 14.2,
+        "temp": 14.1,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 13.2,
+        "temp": 13.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 9.6,
+        "temp": 9.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 8.1,
+        "temp": 8.3,
         "weather": "快晴",
         "precip_prob": 0
       }
