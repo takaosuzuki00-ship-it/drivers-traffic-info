@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.585534",
+  "generated_at": "2026-11-03T12:02:09.645639",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.7,
+    "temp_max": 17.4,
+    "temp_min": 12.1,
+    "precip_prob_max": 90,
+    "precip_sum": 0,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "晴れ",
+        "precip_prob": 90
+      },
+      {
+        "time": "03:00",
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 82
+      },
+      {
+        "time": "06:00",
+        "temp": 12.5,
+        "weather": "曇り",
+        "precip_prob": 65
+      },
+      {
+        "time": "09:00",
+        "temp": 14.2,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "12:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 17.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 14.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "１１月３日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4R0I3Z2xCamZfM2syYnBYRlh0NVFiN01ZYUMwWmxWVGhrYnVpNHFabXEwY1NsQlAxZlpQc3A5VkE5V0stQ3MxTmFFT3FlMzZRWUhmeXRadjBzcHVYalZXUWhybHp2ZmdrRVRWVEVqS0Jrd9IBd0FVX3lxTE1ZbjFodGx2anpGRUtkTnJCcHFwUXlBeWZUSVdHMjZ1WlZ2WXRlSE9Uc2k4NDVwbEhfek12X2ZuT3lKUzNmQlJaOGJqSXFNR2gzdEFoME9EYndSV0M4bnRIU0tUbndrT0pPU0VDS1FrUjlIZVBUaUJn?oc=5",
+      "date": "Mon, 02 Nov 2026 20:41:16 GMT"
+    },
+    {
+      "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wWUpPekhpd2J3WEVMQVlGcHhPVDdwNVB4dzhISzNIbXg4TXFkX2tnQU5OWWM1MWs5c05aS212N29EM1ZUX2FZejNueEgyemsxUHdTWEFKYzBZcm9WTGduWFM4QXV1STZRb0dzakUyY9IBdEFVX3lxTE4tTlNWbkUxR2QxbDRWZnpuNGc1N1lmOV9taVkxWWZMU2hBU0F2dkJ4UDhwM2lyUEhldGxxamVEcGtnX09YZTllY05GS0JhRTR1Zk5KZUJSM2RYSGxqYWoxSEhHaWVsSHFRYkNYQm5La2t3NHFz?oc=5",
+      "date": "Sat, 31 Oct 2026 20:14:33 GMT"
+    },
+    {
+      "title": "１０月３１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RTjlyYURPd1AxOEhKRHV2RjdrM3VqVWhrZ1VYZGNlZU91NXpER2ZVVE15WlFzUEFfQWlKajZsSkdOVzJxSGd1SDBSbFRaREEyM1ZxTXJJc0tVNUxtZEZCWDA4dTlvd0JWbG4wNW5wR1F4UdIBd0FVX3lxTE1GX1BXbkFzekYtSnZuMjVBM2hYWXZwU2RKWndBX19TLVU1N0w2WXVFVXJuSnZvUTZOLUVJSzhkR1Q4OHF2NVZYaF9wMjE0X0RFbmt6ZmJ2MUVzeFVDYU1zR0p4NDFOUl9NV2s0eFRsdDRnM0VRR2dF?oc=5",
+      "date": "Fri, 30 Oct 2026 20:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ 石川署が夜間検問",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNUdtcEZiZy1WbGxsVXpROWlSR0JYb05GWVYwcXVIVTZTUFpPM2RJUjAzSjBjQ2NnVkJTNTFWMThYT01VTktMdW43T1JYNUZVMzRORnJHVktKUQ?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "北陸自動車道上りが事故で一時通行止め 10月31日、石川県内区間",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjU0JqVHhGbFV2cjdkVmNDcEZqZHZ2eS16TlpsajlEV2tnX2NYWHV1Tk9ZMXBxSnNpXzU0VFA0Mi1BVDlPOF80LTB0R3BXel9KNG5GWGpfRXhkVDNxdVE?oc=5",
+      "date": "Fri, 30 Oct 2026 22:38:00 GMT"
+    },
+    {
+      "title": "北陸自動車道上りが事故で一時通行止め 10月31日、石川県内区間",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ST3VfT1FOcHpPd2xoS2stR3lrRVlvdUZqM3hDQ0lrbUlES3JnVkI2YVJnNnpFX0x2am5sdEZrTXVVOE9mSFNrdWFtWQ?oc=5",
+      "date": "Fri, 30 Oct 2026 22:38:00 GMT"
+    },
+    {
+      "title": "交通事故多発注意報【石川県交通安全推進協議会】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1seS1ncmpMR2pURjNBY3loQTRrMDJCUVlJN0x5aGdKcFdGZUpCZGxhNjRJcG5FNUtQWmk4MG0zaFYwYkZ2YmxNdW11SW5vZXR5bXB2b2MtNmVuZjJyMUQtWFBSSDA?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通安全運動中に死亡事故４件 石川県内、過去10年で最多｜社会｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOWWcwUDRyS2FVWFJsLTNaR1JVRDRoSFFkQ0swV3FpQnFIeGhXVFdvRW9MU2xXUUFXbHlfcXVzT0o4S2JsNU9IdWh0Uy1FaGpsY3BjaWwtUQ?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "石川県警察 公式サイトを検索",

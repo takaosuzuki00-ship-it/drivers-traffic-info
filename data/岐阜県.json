@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.646465",
+  "generated_at": "2026-11-03T12:02:36.947500",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 21.0,
+    "temp_max": 21.4,
+    "temp_min": 11.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 21.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【垂井警察署】交通死亡事故多発！速度取締り強化中！！",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44ZVpLaTA0NC1NMUFCY1dtM3RpVWcydEtZSVg3ZGsxblBjN3RmbkhSYmtKR2pJLWYyRkx6azAzWnJVZHpZWTVybVE3TmtGVzRzLUY2VnEyZ1h1bkRYeG1mSg?oc=5",
+      "date": "Fri, 14 Aug 2026 08:16:04 GMT"
+    },
+    {
+      "title": "麻薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
+      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
+    },
+    {
+      "title": "【岐阜北警察署】『岐阜中警察署、岐阜北警察署合同検問の実施！！』",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SODdHTzhWSFUzM3AwVHUtRGlTR3E5b0t5QTVwN3VuekhDLXdtMjhpUk5TM1FiQWZwa0FFZTNyMjJSSDUwTVNDTXlueW1kMjVSUDRzc2ZYVFIxaWo4VWVTaUdFZzdyNFpZ?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "お盆に合わせ飲酒検問、岐阜県内で一斉に 県警が県内１２カ所で",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQ0xGclRZcS1SQnU5djZaeS04RFJGQnEzU1pLelJZanA4N0lIQUdoSWxMTkVPVlM3Q3FBVVBVRFUwV0lnbTE0SlZIYTZHdmhtLVVKLVZR?oc=5",
+      "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岐阜県警が6所属合同の一斉検問 交通違反の取締りで連携",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RmFxRnZqSV9iazYwQV9ZcWoxNUptOEFtNUlkMVdPU1YtZGxyaTl5MUVESVptZUFUVC1QREZsRFE5X3Fhd2dIYm9wd20tTFdycDU2RW13WFFKekk?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "中央道で車3台がからむ事故 1人軽傷 追い越し車線に止まった車に後続車が次々と衝突 下り線「恵那IC」と「瑞浪IC」の間が一時通行止めに 岐阜県",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zdW9qemc2cmxjTmpJLThTcTBuMjRfRmlPUGZIdjM3SzdPMVpWcndXbTFNTHdxckgyc1FjM0xzYk9iVUZtcEhjbV96MXJQYm9GTnU3N01tVQ?oc=5",
+      "date": "Sat, 31 Oct 2026 04:50:00 GMT"
+    },
+    {
+      "title": "交通事故発生状況（9月末現在）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ubzRxNHk5MXg1YklOOHpDU09lVWVZdXA0RHZyc1ZDUDZtMW45QWw0eUlUNVdoMGFlbldYejUyUFRjSHA1anpaalA4bndQZFJOY3QwWlZzei1YUUNTZ1JBcWVlRQ?oc=5",
+      "date": "Tue, 27 Oct 2026 08:24:05 GMT"
+    },
+    {
+      "title": "路線バスと自転車の事故で自転車の男性（71）が死亡 バスの乗員乗客にはけがなし 岐阜市",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNG5NcmNzWURidjd1VlNWYzFXX1BnNjBmMHZQbDBzcE9VOFNkZ0pab04wMXVKSWtCM1JWZnB3bHRXQXVpYm02Z3ZaX2NBYW1pUDVJejY5TVNwaFQzZ19heDJDRGwtZnZnU0lKZnhiOTVXMjE5YkxWNE9JVlYwNGk1QldmdFFob2M?oc=5",
+      "date": "Sat, 10 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【垂井警察署】交通死亡事故多発！速度取締り強化中！！",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91Z0syY3RkeXFoQXZHOGtVNXY3MHZhd2gtUGVhR3RDM2V5WkdBbWh4aGpaQUJ6WHFONDhBUXlfUHJ5ZVE5TElDWmxRTFRFWXAwZXhuTG1ydDRmQnQ5MlFWZXc3OEM?oc=5",
+      "date": "Tue, 03 Nov 2026 00:14:50 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岐阜県警察 公式サイトを検索",

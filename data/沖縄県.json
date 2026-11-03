@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:45.256002",
+  "generated_at": "2026-11-03T12:04:51.707781",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 25.5,
+    "temp_max": 25.5,
+    "temp_min": 21.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 18.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 23.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 23.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 22.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 23.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 25.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 24.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 22.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 22.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTHAtSUdJdmEzY21ycGVrQ3lQNk9XMndWd3pCNUxhVExBTUJ0R1FSMHBnY0gyZ3R0aHlZRENaUVNST3VLZW53bTNUeTRlSllZQW5mQXpidWNvVERrX0J0TnBkOExDUFVVcHhEYTN2QdIBdEFVX3lxTE82VUs4QnoxSmliQWhvMDlIeWZidnYtQmtMQUE4MEFBcmFvclJ3NG5kbGFZaHJoU2F0dnBiZHNEa0FMS3EwZG9HVWVNaU9IOExqWnNOVUM0UUZlZkpYbnRBOU1PNXlyVk9QaFJ5THlYdl83SjdN?oc=5",
+      "date": "Mon, 02 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wWUpPekhpd2J3WEVMQVlGcHhPVDdwNVB4dzhISzNIbXg4TXFkX2tnQU5OWWM1MWs5c05aS212N29EM1ZUX2FZejNueEgyemsxUHdTWEFKYzBZcm9WTGduWFM4QXV1STZRb0dzakUyY9IBdEFVX3lxTE4tTlNWbkUxR2QxbDRWZnpuNGc1N1lmOV9taVkxWWZMU2hBU0F2dkJ4UDhwM2lyUEhldGxxamVEcGtnX09YZTllY05GS0JhRTR1Zk5KZUJSM2RYSGxqYWoxSEhHaWVsSHFRYkNYQm5La2t3NHFz?oc=5",
+      "date": "Sat, 31 Oct 2026 20:14:33 GMT"
+    },
+    {
+      "title": "県知事選を前に沖縄県警が取締本部を設置",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DUnNGdjBHbEI3RUU5UWxjYWszbmVKT2F2WmNtR2VCZURIa3FNR2NVaGxtSmdpZlctVlJiWVhmRzBtVENDc0J6Q1lJYzYzSTYtb3NTWUhDcDNGUmNPWFNYbg?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZmI1MktXaFdlenIwNnd4dXhROXoxUkN3c3lvaExaejlIZG1CRmJNR1hEQlVFWlRJSmFodHhrTkF0VUJOV19aZmphNjhuYzlLVkF6aHpJTG11c3VCMVE?oc=5",
+      "date": "Mon, 22 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZF81SzZQdUgtd1VWQzlwdGpFUVRHRkdQblk2YURwVXZFUjBnMEhwbEVmaHBFTVdDY016QWxXLUxTTlZGMGNrQWlIV3d0T0l0TWNVb1Z3ckU2akh0NnpYRg?oc=5",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "歩行者はねられ意識不明 名護市・沖縄市で事故相次ぐ 81歳と75歳女性が搬送",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVbjRNYVlwUk5Wc3k1RHMzd1hQZFZPd1pKdGlWQVF0UlczM1MyeExTbk15ejJrQTA3N284OTlrMnVtUVZBODVHQlVWMldrZFk4dnRLZFhxNA?oc=5",
+      "date": "Sat, 31 Oct 2026 06:18:00 GMT"
+    },
+    {
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHRnY0MWdFMHA0Mmt2SGlZUjVNSnpSaWdCRWpsbDJUUldIOVRRZ09kaDhMdkN3RTNWR3dsRGM1blR3VWZKendaTkZyNWt4X1phVHRITmZqVVhKZlE3QUxWUQ?oc=5",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車が歩行者はねる事故相次ぐ 81歳と75歳の女性が意識不明（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaFRtYjhQb1MzWmp5dE1rSGZQR0hNQkNtOXd5NzlmRjBKR0xaZ2RyZ1lLdG0yNlNCS0dUUHFsanhXQkM5LWxJRU5VdGNfSk1iQUQ3Rk44cnVCbHB3SG5qWkRrcmF3NElKTWNwcVctZUxoeEE5SnJvMnZvYzlJQlk?oc=5",
+      "date": "Sat, 31 Oct 2026 09:49:01 GMT"
+    },
+    {
+      "title": "八重山地域交通事故巡回相談のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNnpYUFhZU0lBbHpTSERuSl96QXlOUUY4RUg4NWlmbzBGcWs2aHhiOER1eUx1NEFXM0lULWh4RElWMDltcWMwNG8za0Q0eG40M2ZaZm9MdG5WajkwNXVtbmY1UG9nZUZmaUxXTWNKQjhwaGs?oc=5",
+      "date": "Wed, 28 Oct 2026 03:57:10 GMT"
+    },
+    {
+      "title": "宜野湾市のバイク事故、重傷の72歳女性が死亡 横断歩道でバイクにはねられる",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51Rk9DUDdrMllwRFJPN2tSdTNab083bU9TREIxaDNVWDV0LXZEa0lkZ3lUX0l3bFc1dGl4VjB2bUFsN2hpMnoyR2lTajdiblNEQlhxMTdCdExIZEVmR3c?oc=5",
+      "date": "Mon, 02 Nov 2026 03:15:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "沖縄県警察 公式サイトを検索",

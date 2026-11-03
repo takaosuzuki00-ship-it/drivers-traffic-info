@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.571376",
+  "generated_at": "2026-11-03T12:02:04.098001",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 16.1,
+    "temp_max": 16.5,
+    "temp_min": 9.9,
+    "precip_prob_max": 98,
+    "precip_sum": 2.0,
+    "wind_speed": 5.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      },
+      {
+        "time": "06:00",
+        "temp": 12.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 12.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 67
+      },
+      {
+        "time": "12:00",
+        "temp": 16.1,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "15:00",
+        "temp": 16.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 13.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "計画的か…白昼の路上で後ろから羽交い締めされ、現金200万円奪われる！外国人風3人組は午前中から「下見？」車で西方向へ逃走、警察が検問 富山",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rdlpOMDdSRGs3cDJZcW9CdXR3ZE0zY213WHY5SzBKY0JnUFhDdjhCT3A1eFpmZGNjYS1hSjNtZ0RSeTJqZ0xpN3lBa0RXX0RWa3ZORmlHN3JUNnctS3I2ODRvdnozM1U?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "高岡市白金町の住宅火災で放火の可能性浮上 火元の2階クローゼットに火の気なし、1階窓ガラスが割られた跡…警察が検問でドラレコ映像などの情報提供呼びかけ | 富山のニュース｜天気・防災｜チューリップテレビ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWmdnWnZ0Tm1GcXFBU3FQYmpmV1hGalNBTXFLOHV5eTVHXzlCczdOM29YbG4tZ0otRXdWMHd6UmloMjJNRGl6d0lnXzEyS1Q0UHNEUXlIZ1Rtdw?oc=5",
+      "date": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山県警が国際港湾で関係機関と合同検問",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TVGhNZXhfTjJPSGp0ajhETG56TUJSck5zX0FXb01SeEVJUm9TMmFXb3I4RWxiLUVHMkRuaEpPZFF3STVJUjJyXzNjVFNXYkNWYmJZUHJLWkZkcTQ?oc=5",
+      "date": "Fri, 18 Oct 2019 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "富山市で横断歩道を渡っていた78歳女性 車にはねられ死亡 昨夜（北日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RSjYyX25CVWpZSmR1R0NocTVaTFVkSkVqbW1BSktDTDJ4WEw0cTZTUWtCdHRPNV9XNTM5b0tQdWtQREFwdW45UGdlTWZxOXk0c181VVlwV25wUHBJaUcydExUNHdJNGR4WjUtT1R0YllZMUZMa3VvaEdRa09fQzA?oc=5",
+      "date": "Thu, 29 Oct 2026 01:16:00 GMT"
+    },
+    {
+      "title": "トラック運転手「勤務中の飲酒常習」 2人死亡事故で拘禁刑6年判決 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xb25fWk4xTGhjdElFS2RWWE1WcU04SG9oQU1XUkZUSW5sY3pldGpfQVktU3NIRjdwaVhXa0RHRXpRM2pyOHVudjdvSTZSV0pWbzhnVzRLQ0RyNnRUVmtGZ2U4VGFyLVU?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山がトップチームスタッフの交通事故を報告…双方に怪我はなし",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcmNIemMzRW9VcktfY3BZblRQaXIxeGZzeEhvVjYzLUo2MzE5MkJubmlIVVJOVUpfakJLYnVGeFhEc3k4YlNaZVJRRUhqS1AzMW03MzRSQ1RHNWFfNjB1N2tZT0ljYnF5X2Q3MWdR?oc=5",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富山市の交差点が3年連続ワースト 富山県内の「危険な交差点」5カ所を公表 一時停止の見落としで事故多発",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZR0pVaXJZdE96SDNsb0lqNFJ0QUEtNVRjRHdaS1h6ODdGMWZVSHRTYk5vNG1nc0Jwb0hpcGZwalRHSVRIRGJUd2oyR2VZZw?oc=5",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "呼気アルコール0.5mg超で富山県内初の危険運転罪適用へ 富山市八尾町の飲酒死亡事故を受け街頭で呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QOFdrb21fM3Z3U2xneWdycVBjaEh4Znlka2hURlprSGVPMTUtRzVSZHV3MllaTjl4dHBxbmJFVDBMSVV3dHdDem9OZ0FwSUVUaFdJUkpaWWZsdkQ3V3R3UHg4Mm0yZkE?oc=5",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

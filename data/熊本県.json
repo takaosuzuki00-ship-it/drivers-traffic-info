@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:45.172328",
+  "generated_at": "2026-11-03T12:04:34.816765",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 20.6,
+    "temp_max": 21.9,
+    "temp_min": 11.5,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OVjduU01DSC1mSk0tZmM2anI5Q0IyYV9fNThVU0V2Wmk3YlRNZ1J5cE55TGdlMjE4UUViRGVwYUlCU2NpSUNkNExkWDRXT2RaanhFYWFTcGpSaGVCeWxkQVBxT3Y0Z0NzRmVEUnF4YWcySXlsNmp2c3RZTl9WczQ?oc=5",
+      "date": "Mon, 02 Nov 2026 20:02:12 GMT"
+    },
+    {
+      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82VUs4QnoxSmliQWhvMDlIeWZidnYtQmtMQUE4MEFBcmFvclJ3NG5kbGFZaHJoU2F0dnBiZHNEa0FMS3EwZG9HVWVNaU9IOExqWnNOVUM0UUZlZkpYbnRBOU1PNXlyVk9QaFJ5THlYdl83SjdN0gF0QVVfeXFMTzZVSzhCejFKaWJBaG8wOUh5ZmJ2di1Ca0xBQTgwQUFyYW9yUnc0bmRsYVlocmhTYXR2cGJkc0RrQUxLcTBkb0dVZU1pT0g4TGpac05VQzRRRmVmSlhudEE5TU81eXJWT1BoUnlMeVh2XzdKN00?oc=5",
+      "date": "Mon, 02 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aYlRoeUZ1OVpFdFRyaVVxVzhEaU9TWmMyVnEtb2hCWERsZm9KX2RnMTZRT0UwRURfaTFySW5DZmRYaWZNdGlKZHdJSU1PcUJDeHBzbnpxUG8waTNPWU1OcFpSS2w?oc=5",
+      "date": "Sat, 31 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月2日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QkFRMmI3dkpsVS04clJMVXhhbFFrVUpxdzFwemNRX2NjWVo5NVMtTVVxRjRYWUFRX3RfMDVES2RNWDZCeTlrLVBYWW9ydmFWLXQybjFnSTNSVU1uUENYbE1mXzFPa1ZrcWREU0lxTnhJb3NGYzgwbHlGTWZndHc?oc=5",
+      "date": "Sun, 01 Nov 2026 20:02:15 GMT"
+    },
+    {
+      "title": "「飲酒運転の車にはねられ女性死亡」事故から2年を前に検問 事故件数は5年横ばい",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15cXFwV0JYRkM3dGN0X1cwbGpDaVZ1Qmd3NmlYZkI3NjEtc1VhX2ZvVXp2Q1g4UXBKcVFWX2NEbUdzOTBYQVFxM3UzOV9YeWg3eERPU3BNVC1lOWdicmdaZERrdDlvMzA?oc=5",
+      "date": "Sat, 13 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "阿蘇市でバイク2台と乗用車1台が関係する事故 ツーリング仲間の2人死傷（ＫＫＴ熊本県民テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GLS1GRXV0NzQyQ0wyYk5fa09YSnpteDBMdzlOaWs1a2Nzc0dmUHB2ODZyOFk4ejNyTlZwRnZDeU9pQzRzbko2T3BRMlgySER0RllDbm04SnJhOXBFQ3l4LWlGc1dPTU9HVkYtbW1iNTZnRldlSllMSXdTdEE4b0k?oc=5",
+      "date": "Sat, 31 Oct 2026 08:57:00 GMT"
+    },
+    {
+      "title": "ツーリング中 兵庫県の男性が事故で死亡 熊本・阿蘇市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZDZ0eUhUZk10dldNbGNveVlMcXBHVm5GYV9BT1FsZllJVGtsZk9BdmJCenpoaEVXY0p0QXVZcGE2NTdfMUxQZFlRVXhuTU02UWd5a01Mdw?oc=5",
+      "date": "Sat, 31 Oct 2026 09:05:00 GMT"
+    },
+    {
+      "title": "熊本市で未明に車3台が絡む事故 4人を搬送（熊本ニュース KAB ONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQmdRRkhnd21RVXJoTTlDWFdIN0Y0c2EyaXNEWVVDVkprenY4VVY5M3B5Q2RvaXVVZEhfRUhJSjMweUQyR2pzbzU3TnEzU25Fb0Ryc2xVcHBQMldmNURPVVVLVVVFRmxHZzZ3bVpXMGU?oc=5",
+      "date": "Sat, 31 Oct 2026 09:14:00 GMT"
+    },
+    {
+      "title": "[TKUニュース 26.10.19 12:00 ] ６キロの渋滞 九州自動車道下り菊水インター付近で複数台の車絡む事故【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MbGdJbzBIajAxX3lscG5ZazBLd3BTSWloX29rRE5BRHFob0V6S054a3pnX1hCLU9hWE9UajBTTjJrRUlSOTNhYnpTdVUwUm9mY0FMZ2Y5d3hqbTB3aDFjc3lBcw?oc=5",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "熊本県宇城市松橋町で交通事故 死亡した大型バイクの男性の身元分からず",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdkRnM244T1JhMU1YUHROekMyZ3F5bDh5U2ZxdnBKNER3Z1BCZTJhTTNjN3dIWDNzLW9lVDlSYVdycGpYb3pxNmV4NDFyUmpYZmZ6dENnSW5BMlZHRS1j?oc=5",
+      "date": "Thu, 29 Oct 2026 12:54:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

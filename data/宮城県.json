@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.439231",
+  "generated_at": "2026-11-03T12:00:56.569779",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 15.7,
+    "temp_max": 15.7,
+    "temp_min": 7.4,
+    "precip_prob_max": 71,
+    "precip_sum": 0,
+    "wind_speed": 11.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.1,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "03:00",
+        "temp": 10.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.6,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 15.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 14.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 11.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 9.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "衆院選へ 選挙違反取締本部を設置 宮城県警",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xRlVOUzJwUFpWYkJEMjY5b2VYcUxQaHBtQ3NnUW1XdzNHdGgxRE9GZ2hFRzJLVzZyQ0lGRW5Xbm1tWl9FUGFsajFPVXdHR1U?oc=5",
+      "date": "Sat, 24 Jan 2026 09:41:03 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "【緊急速報】週末の帰り道に要警戒！今夜は栃木で県下一斉の飲酒検問、滋賀・宮崎・富山・宮城でも26日まで速度・飲酒・一時不停止を取締り",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lVUtHMHFrQjVqckxGdVIxM2p1NkpkTHpZV0lqcDNjVnFPWHJ0OEs5aktEa1U1dncwZ2h1cTh0VXJpeUNCTDF2aUdRcG56eTBiUGxoSDFWbW1lQVZQVXpr?oc=5",
+      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "宮城・鳴子温泉で5人はねられる事故 車を運転していた73歳の男逮捕",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PRGEyV2EzTi1CdzRkQ29rNmo0RHRnNWdVOGhUVVNaWU1ESFlVV0NJRlhKY21nZHQzdkxSTW9tdzlaTlhwYkgwRXJkS3d0RGJTOFV1ZW9PRjJpMG8wZmRmM2R6UGI1SWE5NUpZb09UdVV4Zw?oc=5",
+      "date": "Sun, 01 Nov 2026 14:55:39 GMT"
+    },
+    {
+      "title": "【速報】鳴子峡近くで5人重軽傷の事故で73歳運転手の男性を現行犯逮捕 路線バス衝突後に歩行者はねる 宮城・大崎市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kRk5vS0VqNjVLblRXT2xvM2JWR0RKOVdxcU1jRjZHTVE2MWZONk8zTHRVS1lYY1JmeDJ0SXhPM18yd3gwYnVaa1RQWmkwMmV6WDA4REZfaw?oc=5",
+      "date": "Sun, 01 Nov 2026 10:10:00 GMT"
+    },
+    {
+      "title": "岩手 宮城で事故 2人死亡 盛岡ではトラックなど6台絡み…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OZHBCV3ZaYlBiQUQwd0xncDZ3SlZQVFJKMDNZSnBFVURmOTdZcUx3ZmpyWER1MG9uME0wcGg1YVFHY1RDa0FsOUN2b3hpRWFZZTZWMUF3Y2ZScE50cXBkQUUxRFlHQ2VDT1l2NjRlRHdZZw?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "陸上自衛隊車両と軽乗用車が正面衝突 男性死亡 宮城・利府町の仙台北部道路",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VGc0ZFk2ZDVNR2ZnQ3NXcnRNenE1ZmlTX0Y4WHI2YnozeDkwQVZ0TWRBdUZidEJYUk9kN2s5RXBmQnQ5VmdyRW5mNlcwNDA?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宮城の自動車専用道で陸上自衛隊の大型貨物車と正面衝突、軽乗用車の男性が死亡…隊員２人も足などにけが",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5QmE2WDdiZi1nem0tcTJ0dkhwOUNQRHNWZFVBUWQ1M3dCN0dOenVTcVRySzhTa3gxR2lQYWdoelRiUVROdkoxV2FWenJScU9wQTJaSFhDX2JNVW1vSGFkN1NWN2RzQQ?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

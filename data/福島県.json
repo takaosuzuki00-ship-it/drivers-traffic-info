@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.464707",
+  "generated_at": "2026-11-03T12:01:13.602611",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 16.0,
+    "temp_max": 16.0,
+    "temp_min": 7.7,
+    "precip_prob_max": 63,
+    "precip_sum": 0.1,
+    "wind_speed": 16.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.4,
+        "weather": "晴れ",
+        "precip_prob": 63
+      },
+      {
+        "time": "03:00",
+        "temp": 11.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 14.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 11.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 9.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTHAtSUdJdmEzY21ycGVrQ3lQNk9XMndWd3pCNUxhVExBTUJ0R1FSMHBnY0gyZ3R0aHlZRENaUVNST3VLZW53bTNUeTRlSllZQW5mQXpidWNvVERrX0J0TnBkOExDUFVVcHhEYTN2QdIBdEFVX3lxTE82VUs4QnoxSmliQWhvMDlIeWZidnYtQmtMQUE4MEFBcmFvclJ3NG5kbGFZaHJoU2F0dnBiZHNEa0FMS3EwZG9HVWVNaU9IOExqWnNOVUM0UUZlZkpYbnRBOU1PNXlyVk9QaFJ5THlYdl83SjdN?oc=5",
+      "date": "Mon, 02 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "10月31日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84YXUyOTlwMk1lY1ZicTN5ZC1CakNtemtXMkpZT3ZMcDJrb2lOcnkwM003VDg5dTdDMVdNVnkyc3U4UkdpbDlmQ0NpTGp1R2NocWdaWVUzbw?oc=5",
+      "date": "Fri, 30 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１０月２５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNU01OXVRdVI4YWp2RUUxejlwb0RkMmtDcEdodzdLZ296MkZ0TUgzbFJRXzkxOWs3aWdIRjBGaXFnZmh3T3UzOWVWVjFCbHVBbUJkYXEwSVFHdlFCNl9WS1VYYmZUNTFlT2ExdnlLd2VSanNjSG5UVQ?oc=5",
+      "date": "Sat, 24 Oct 2026 20:18:27 GMT"
+    },
+    {
+      "title": "10月25日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2Y0Z3anY5eFdrZF9pLThTdGF4dGhzZUNzSWN5dHhRUmpQdU1ZVk5OY1JGQUl1eWx0YVdwbzQ1WTRvTUhQbUMwdE9qb3BJMUJpd3JyLVgwWQ?oc=5",
+      "date": "Sat, 24 Oct 2026 20:02:00 GMT"
+    },
+    {
+      "title": "松明通りで夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSElLUmoweGJfR3pHNEN2bDE0U3pRVTNGWGVDbGtUS0l2Rk1Lb09tOEdrak9nWUNJMEJEMGlSTzZhUThQV3QxbXBTemdndGM?oc=5",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【交通事故】いわき市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hZXhLY0QtOVl5OEVoZ0oyRWlQcTVWWV84WUxBSFFfcDMyRUI3a1pBX1lXYXFZZTZfRkxyMl9qSGtFTnduYTRVeHM3dzg2cG8?oc=5",
+      "date": "Mon, 02 Nov 2026 23:49:00 GMT"
+    },
+    {
+      "title": "福島県で交通死亡事故相次ぐ 矢吹町で軽トラックと乗用車が衝突 いわき市ではトラックが飲食店に",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90NFNQdW1JNm1ZTXAyNnVuTEg1b3NFTHBzc21mZzBtNlNQODZWb1dPOXE0anlBcGVVXzF2REJ5WjRMOURIOUVsV1E0OG9tUQ?oc=5",
+      "date": "Fri, 30 Oct 2026 10:08:00 GMT"
+    },
+    {
+      "title": "矢吹町の県道で軽トラックとハイエースが衝突 男性が意識不明で搬送 福島（福島中央テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VYzFlWlZEUXhJOTBHNHFFOGVqQWtRbXpnUDJ6QXJnT2dZNFFZdmdUUmVvUzNJU21FYkc3Tl9mTFl0aVU0UmFUSzUzSGdHSGdkQ3VfR1F2eHdsSjNLVHM3YXBwV0VyemlDTXE2X1htUzdybDQ2Y3dKdERMNnpEVEU?oc=5",
+      "date": "Fri, 30 Oct 2026 03:25:00 GMT"
+    },
+    {
+      "title": "福島市の東北道で停車の軽乗用車にトラック追突 1人死亡3人搬送 通行止め午後1時前解除 17日",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QTXN1Qk9HdURIZDZFWVNPRU1GNE9rcy0xQVJaOFU5YWwwQmNPcmVuM1ZqTHNyWnZUdUpHajRzQnJ1NmdxeTZBRFl5MUpXOXBNeDI5TmtCaGY4bkNmaHNXU0EzUEhpMm8?oc=5",
+      "date": "Sat, 17 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "男性の身元判明 いわき死亡事故 トラック運転手",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5URmhhelZlazJqd3AxRmhZS0RoSC1LNW5Oenc1b0dXRnhQWDBTN0ZnNjctbWwyNWhWM1hOUTRSSDFZRW1SSmI1OTVvWTlEV3M?oc=5",
+      "date": "Mon, 02 Nov 2026 23:55:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

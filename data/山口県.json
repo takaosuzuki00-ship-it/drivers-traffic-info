@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.906313",
+  "generated_at": "2026-11-03T12:03:49.415056",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 18.9,
+    "temp_max": 19.2,
+    "temp_min": 11.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 7.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月2日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”複数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FLWZFVDJJMndLQWh1aXJyWlJmX3FZVFhXc0dneFFtTVpvYTlNQTJRRlZLV0NKWDd4SHhoeTNYYm5DMW45X0FqTjZ3OVVZVWx5S0VrRVNxSQ?oc=5",
+      "date": "Sun, 01 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "山口県の飲酒運転の摘発件数が２・３倍、自転車が４割…「自転車なら構わない」と考える人まだ多いか",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ONFJNeW8zMUh6TUhDQi16NXdpdi1aa21hX3hhV1FQekhhczFTWklwM1MxS1hWTnYxVjVacDFfa2VFaXp6VkYzWTd3TkZnYU1VSURWWEdWNkdSS2Q0UFhydnhQWjZ2aXR3Q0tFUkhoMUpGUQ?oc=5",
+      "date": "Mon, 29 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "道路法第47条第2項違反者（重量超過車両）の告発について",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12MzVsYkg2S0VqRlJtZ2VhNmVIcWNpQWstWjJKMWljc3psZzJ2UGFWWHl4dlVQTnlfQ2cxRzEwc0NNVXE5T3NqMnJoNWYyem9NYUVkdmJ4NVFNZ3Vxb2I0OUxCU0UzdGJaVW5jc0Q1X0dydG1fMG9z?oc=5",
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "通行禁止違反、スピード違反…全国一斉取り締まり日に山口県内で８５件摘発",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTVZEcXR0SE1tQlB6UlBXVUlXTTA1d3AteENqZldyY2tXQ2NkaXhiY1Brd3JWdGlRay1UNlVPR3VKZ1EzSDJrdnJpYmpiMFdGSllJOUlnUk1GNlZZTEZnQXNNVG5lZw?oc=5",
+      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
+    },
+    {
+      "title": "酒気帯び運転など４９件摘発/県警が一斉取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TNlZYX21uMlo2akdUNUJhT2tjSXNEb05IUm50T1pBQmJDNHhtemg5UWJvWW1VamFuSWJ1RzBUZ3IzdXIzbXcxMkQxb0xQQWVHNDg2R2x5MHMyNm83ZEFXb3d4RzhZZzQt?oc=5",
+      "date": "Wed, 27 Nov 2024 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "山口県内で交通死亡事故多発、事故抑止対策を指示/山口県警で緊急交通課長会議",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UdEZFRTRpWUQxenotcndreEpMZHozU3ZlVF9PU043bU10djNoUC12VGRlMVBNV3o5djV4cnBEVGUzTkJ2NmdWTFEyUmxJdG9qZU9TV0RJV0NpZ25ZYVA3RlZiM05oTFEyZ3c?oc=5",
+      "date": "Fri, 30 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "title": "今年に入り36人 去年1年間を5人上回る 死亡事故多発受け県警が緊急会議 山口",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTXZSd1RPVUEwNUlvaDRpZmVTVklMNThtaDM5N3dmb1lhWUxMdTlYODk0aFBtVndMMnAwVGIySVhkZTJqNEJRUUt1YWI3ZThrWkVESXhYamJtZw?oc=5",
+      "date": "Fri, 30 Oct 2026 09:06:00 GMT"
+    },
+    {
+      "title": "【検証】死亡事故多発→警察が緊急会議 特に事故が多い中国道「魔のカーブ」では過去に桜塚やっくん・女子大学生らが犠牲に…県警高速隊副隊長が話す事故を起こさないためのポイントとは（ｔｙｓテレビ山口）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pT2QwZ3NpTEZ0dEJ6UVZrLWowVkQ3UklYOXp4dVJJUmdOX0FnVGo4R0pPR19ydmF4U3pTZEx3N3ZmMGR6SW52OVpYWUd5cEpHRVB6T1V1UXlOajJzcHRHLTNxWi1Ucksyc3hLbEZKVkRuR08zZGp4YWFkWXJKcWs?oc=5",
+      "date": "Fri, 30 Oct 2026 22:27:16 GMT"
+    },
+    {
+      "title": "【事故】山口・宇部 高齢女性運転の乗用車がフェンスをやぶり4メートルの高さから転落～搬送時意識あり",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpTDRrbjdzRHQyOXd1bEtkdDNOZUxnSEZJMkIyQ19XeVhncEQxUFlMUUhKYUpDX2lrUjRna1lvbmlsYkEtZ1pGeVN0NWhhVEw1WWdBeXRKUzBQTDZEQ3BsQVBKNWlPS0NVcFVfUmRrVnhfMEhISmRScU03Z1ZjMTg?oc=5",
+      "date": "Sun, 18 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【事故】山口市の89歳女性がトラックにはねられ死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zY1ZhTXg1WWhBUDhBaGloSWdROWpZUkxxbjVvRHFjbVZZZGdGV213S25SaEI4eGVfSnc2OHZvWjVsN041a0JwUUZ1TEZHLS00WXQwQkhvYWdxZw?oc=5",
+      "date": "Fri, 30 Oct 2026 10:11:55 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山口県警察 公式サイトを検索",

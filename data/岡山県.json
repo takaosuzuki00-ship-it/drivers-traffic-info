@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-03T09:02:44.867731",
+  "generated_at": "2026-11-03T12:03:39.282092",
   "pref": "岡山県",
   "region": "中国地方",
   "capital": "岡山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 20.0,
+    "temp_max": 21.1,
+    "temp_min": 10.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 6.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 21.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTHAtSUdJdmEzY21ycGVrQ3lQNk9XMndWd3pCNUxhVExBTUJ0R1FSMHBnY0gyZ3R0aHlZRENaUVNST3VLZW53bTNUeTRlSllZQW5mQXpidWNvVERrX0J0TnBkOExDUFVVcHhEYTN2QdIBdEFVX3lxTE82VUs4QnoxSmliQWhvMDlIeWZidnYtQmtMQUE4MEFBcmFvclJ3NG5kbGFZaHJoU2F0dnBiZHNEa0FMS3EwZG9HVWVNaU9IOExqWnNOVUM0UUZlZkpYbnRBOU1PNXlyVk9QaFJ5THlYdl83SjdN?oc=5",
+      "date": "Mon, 02 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１１月３日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4R0I3Z2xCamZfM2syYnBYRlh0NVFiN01ZYUMwWmxWVGhrYnVpNHFabXEwY1NsQlAxZlpQc3A5VkE5V0stQ3MxTmFFT3FlMzZRWUhmeXRadjBzcHVYalZXUWhybHp2ZmdrRVRWVEVqS0Jrd9IBd0FVX3lxTE1ZbjFodGx2anpGRUtkTnJCcHFwUXlBeWZUSVdHMjZ1WlZ2WXRlSE9Uc2k4NDVwbEhfek12X2ZuT3lKUzNmQlJaOGJqSXFNR2gzdEFoME9EYndSV0M4bnRIU0tUbndrT0pPU0VDS1FrUjlIZVBUaUJn?oc=5",
+      "date": "Mon, 02 Nov 2026 20:41:16 GMT"
+    },
+    {
+      "title": "9月1日 生活道路の法定速度引き下げ 登校時間に速度違反の取り締まり 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01dGZYS2RyWTBrVm5NT0NPcE04clg5MUFNbTd5T0dsY3p5VTVfNk5ySFM5eU9nWVF0SzNDang2R0hKeC1waHcxaUdZSUF0aWpq?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "違反したら一発免停も 「生活道路」での自動車の法定速度が60キロから30キロに引き下げ その「生活道路」とは？【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CZGptMHNwZXVfLW4yX211MEZBSVBOMmptamRmTno3MWVrTE5Nb1c3czk1aGpEUFNxNEtodUQxSmZBSWQ2WXlmanhoemhwcTJWYjUwRWxBbmhOSW4tUk0xNW1kUTdfU3M?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "市長が４３キロ超のスピード違反、野焼きの不始末で１１９番…減給の条例案を市議会が否決",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZVHJFbXNib0tDOXVBOUZ5LXFhN0tnVzNIUjhOUDJ5RzBjakVONnJPd0VqTUZpZGJkOF9sZlhyLUVvdWUta1VFQi1yV05SZnZGQm5YUzhrdk95VVhZWll2Q1JzV1dsdw?oc=5",
+      "date": "Fri, 25 Oct 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "倉敷市の市道で軽自動車が電柱に衝突 小学１年生の６歳の女の子が重体【岡山・倉敷市】（OHK岡山放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTUdYRU9LNU1pZzFqSEx5WmY2ejcteTBnWkc1aS1ibG9pYmtGcEYzbm1zdzE0aHNnbDRrZ04zLURoZkNQRVpyeHVvMjlJdGRISlpyVkNEMGp0N2stel9mbUZlZWNwNWx3VUpQUDFORXpWUkRqWmM2czZaUy1RcEE?oc=5",
+      "date": "Mon, 26 Oct 2026 01:33:00 GMT"
+    },
+    {
+      "title": "【速報】倉敷市で軽自動車が電柱に衝突 同乗の女児(6)が重体 岡山",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zNlJOdFhVR3NYbXlPd3ppYTN3aHFabEkyQkJUQXNMQXN1ZVpSanMzRXBBb210ZTdMQ0xmVFFIZVRnbVJHRlJGV0hIX0NQZldx?oc=5",
+      "date": "Sat, 24 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岡山・笠岡市で80代女性が軽自動車にはねられ重体",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KQ0QyenJlM29VSGc1SDJoLV9mU3ZpWjZwZ3NGRVltNnZvMXJYemVzUDNBRzJjeU1DTVdYUF9uZXZoeUF4TmkwZ09ZUnRZNkpDcXFmWU9IcjBDekhGLVExUWREZmJsUXpkbERKbnVPRETSAXZBVV95cUxNZGlEaWdtZXpjaU5FbU1vZjhPRXkzdnMzUkdVSk5uRE52aGJfSC1qSUJneVRfVHdXeVU4NW9RcVhTVGJReUJGTWo1OFY1Vk9TOGxXcG9zQ2hjc0tpRmNxaTEtcElwR2xZNUIweFJHUFNKSkZ6bHF3?oc=5",
+      "date": "Mon, 02 Nov 2026 08:38:00 GMT"
+    },
+    {
+      "title": "リアルな可搬式速度取締り装置の看板登場 ほぼ原寸大で再現 事故多発地点4か所に設置【岡山】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mNVJMVzBFX0dRWW5DYXhUWW8tRDlpckpIamZaQU1SU1RqTHg2aWVyWmgxSms4Q0lYQmJtODlKSGU2WGxvR09oVFEzTDJlR2lWeUtaNGtsTQ?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "列車事故、邦人２人目の死亡確認",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pUG1JWURQZXdzT2d2N0JTV0gxWl8ycWFsTUd1WkVUenZDanJ5NE8tTHV3SVRwSENqeWRUVzQ2eHNvLWpPNElMa3BjV2ZIaUh6Wml5NQ?oc=5",
+      "date": "Tue, 03 Nov 2026 00:59:39 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "岡山県警察 公式サイトを検索",
