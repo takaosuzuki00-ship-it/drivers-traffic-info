@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-03T21:05:07.639164",
+  "generated_at": "2026-11-04T12:03:55.273837",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 14.7,
-    "temp_max": 21.5,
-    "temp_min": 12.1,
-    "precip_prob_max": 4,
-    "precip_sum": 0,
-    "wind_speed": 5.4,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 18.5,
+    "temp_max": 18.7,
+    "temp_min": 13.1,
+    "precip_prob_max": 100,
+    "precip_sum": 9.8,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.5,
+        "temp": 14.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.0,
+        "temp": 13.3,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.1,
+        "temp": 13.4,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 16.1,
-        "weather": "快晴",
+        "temp": 15.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 20.7,
-        "weather": "快晴",
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 21.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 18.3,
+        "weather": "曇り",
+        "precip_prob": 20
       },
       {
         "time": "18:00",
-        "temp": 17.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 16.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 33
       },
       {
         "time": "21:00",
-        "temp": 14.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 14.4,
+        "weather": "霧雨",
+        "precip_prob": 92
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMS1DTThFVll4dExNckRkMGFITkg3NkR4NE10NGw1bTdFUURTQXhCRHFWalZPdjNqYjYtNXVVUElXUWdJU3RfV2RheGRBZ1hrbjl2eFRKcE00UXhSWkl0SDkxMExDN1U?oc=5",
+      "date": "Sat, 31 Oct 2026 20:02:00 GMT"
+    },
     {
       "title": "１０月２７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GYnhWUUNJM2hnRUtkUkpkd0hCcUdSa1pzS29oaThHdVlPT3hCdGhBcXZ3UndqRlpxLWkzVTZRUnppa1AyNEFEN3FmLUN3M21mdEFKVXFLUGJvSWpTMDV5aW5NQzhqNmhuN3NhQW5n?oc=5",
@@ -73,11 +78,6 @@
       "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
       "date": "Fri, 10 Jul 2026 09:22:39 GMT"
-    },
-    {
-      "title": "自転車「青切符」開始1カ月が経過 名古屋で集中取り締まり 違反が絡む事故は全体の約8割",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zb0NLYkgya09tWDE2ZFF3cEJ4RXBVZmJiSjQyQnhBYVQ4NWs4MUh3RElaWmNtR1UtNmRGQ1I4Um5pcDJnTURuaVE0SVlMcjFPM196NmJNWVNndw?oc=5",
-      "date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
       "title": "20代女性看護師 スナックでテキーラ2分の1ショット飲んで運転… 免許取り消し中にも運転し再度摘発される 懲戒免職 愛知･豊橋市民病院",
@@ -92,7 +92,7 @@
   ],
   "accident_news": [
     {
-      "title": "愛知で交通事故相次ぎ2人死亡 豊橋市・豊田市 （2026年10月31日掲載）",
+      "title": "愛知で交通事故相次ぎ2人死亡 豊橋市・豊田市 （2026年10月31日掲載）｜中京テレビNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZlQwbmFhclViZjRsc3UwUHVXMFNwSVpmdmlNV2VQLVoxcWNXS2FILWNQSl91Yzd6Mm9jRVhDeVVHWlZHMDdvam5kVnhzY2QtX2RmRm0tUTRKOE5lSkVFMUVOeGN0djVqNXF0NW0taE92ajlrWnNXdy1vRHprbE9Rd2xRZ2tFUDQ?oc=5",
       "date": "Sat, 31 Oct 2026 08:51:00 GMT"
     },
@@ -100,11 +100,6 @@
       "title": "年末に向け高速道路で取り締まり強化 愛知県警高速隊が年末に急増する事故を防ぐため岡崎SAで出発式 ことし県内の高速道路で8件の死亡事故 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3QnBGUjMtZkM0Mlg5QVQ4NDJaQWQxbFRyRFkySXh0aUZvNWVLQXdjRE80RGZKcDh2aWpGVkljTURiSmYtbWpXTmVLblk2dy1uRGdFRzhhVW9RUQ?oc=5",
       "date": "Sat, 31 Oct 2026 01:58:00 GMT"
-    },
-    {
-      "title": "みよし市教育長が私用車で接触事故 交差点を横断中の歩行者と",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0UWVhOWhBZWo4T0dOLU0zUlFYSVZMcTE0WWZqSG5tem45dWlLbEs4Q2dtcEJaenNFbzJSekE4azZYaWpEWGRGd2x3T3NpbFNtTDFpMTVxOWFYWVZqYUIySGpB?oc=5",
-      "date": "Tue, 03 Nov 2026 09:56:06 GMT"
     },
     {
       "title": "交通事故「梨」なしキャンペーンを行いました",
@@ -115,6 +110,11 @@
       "title": "愛知県設楽署がダンプカーパレードで交通事故防止を啓発",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWb2V2VlpnbUdpRnBFTVl0LWF0NFR3ZU1QNjRGb3UzRFZxYWRFUnhNSnl2elpsS0NEWUw5N1cxb0dET09BQTVZLWVXb2Y1LW4tc0dQN3BseDQ4Mnc?oc=5",
       "date": "Thu, 15 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "土砂に埋まり男性2人が死亡 水道管工事の作業員 愛知・安城 [愛知県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaVlZkN0ZSbGl5MWV1RTF3NzV5ZFhKNTFkZ3hHUEZQdHpWUmhYRDRnN0pBeG16Rk4yRFV4aEZxbUJoRXB4VmlKWWwzanh3Szk1VFo3NUNLMEt3UTM4VmdOWFNHUWNOZHc?oc=5",
+      "date": "Thu, 29 Oct 2026 17:23:00 GMT"
     }
   ],
   "official_links": [
