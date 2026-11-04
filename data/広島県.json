@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-04T15:05:03.815646",
+  "generated_at": "2026-11-04T18:05:10.088947",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 18.0,
-    "temp_max": 18.5,
-    "temp_min": 13.1,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 15.7,
+    "temp_max": 18.9,
+    "temp_min": 12.8,
     "precip_prob_max": 24,
-    "precip_sum": 3.6,
-    "wind_speed": 4.7,
+    "precip_sum": 3.8,
+    "wind_speed": 3.6,
     "hourly": [
       {
         "time": "00:00",
@@ -39,45 +39,40 @@
       },
       {
         "time": "12:00",
-        "temp": 18.4,
+        "temp": 18.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 18.0,
-        "weather": "晴れ時々曇",
+        "temp": 18.1,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 16.4,
-        "weather": "曇り",
+        "temp": 15.7,
+        "weather": "弱い霧雨",
         "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 13.8,
-        "weather": "霧雨",
+        "temp": 13.4,
+        "weather": "強い霧雨",
         "precip_prob": 24
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTHAtSUdJdmEzY21ycGVrQ3lQNk9XMndWd3pCNUxhVExBTUJ0R1FSMHBnY0gyZ3R0aHlZRENaUVNST3VLZW53bTNUeTRlSllZQW5mQXpidWNvVERrX0J0TnBkOExDUFVVcHhEYTN2QdIBdEFVX3lxTE82VUs4QnoxSmliQWhvMDlIeWZidnYtQmtMQUE4MEFBcmFvclJ3NG5kbGFZaHJoU2F0dnBiZHNEa0FMS3EwZG9HVWVNaU9IOExqWnNOVUM0UUZlZkpYbnRBOU1PNXlyVk9QaFJ5THlYdl83SjdN?oc=5",
-      "date": "Mon, 02 Nov 2026 20:02:00 GMT"
-    },
-    {
-      "title": "竹原警察署 令和８年２月中の速度違反取締り計画",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLThqWjNpUTgtVUFEbHNuOGRuU3EycG1JRHp4TW83dVdUZHREX3lSQTF4QklhS0FfMmlEaTVlSk5kN0dXRmh1WkNzS0FPTmxnOVk0czR2TmJDNmJsdTNhZVJUckpKdXdiQzlVdXlsSmdOdDVOQlIwU3RsOWx5bzRXTUFxSQ?oc=5",
-      "date": "Mon, 02 Feb 2026 08:00:00 GMT"
-    },
-    {
       "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VeUhiZExPdURNTGhVWFJONVBhV2ZUaHdSWFU1SXdQUUFkeEFGcFVXaUE3djNVaGFNVzVYeGs0WEthVFJvcnVZNEJpbG02QXhwMjE3WjBmekljdWhtYm83MFE1RFJmMGowTVVEaVJB?oc=5",
       "date": "Sat, 31 Oct 2026 20:11:24 GMT"
+    },
+    {
+      "title": "11月3日（火）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害など",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTHAtSUdJdmEzY21ycGVrQ3lQNk9XMndWd3pCNUxhVExBTUJ0R1FSMHBnY0gyZ3R0aHlZRENaUVNST3VLZW53bTNUeTRlSllZQW5mQXpidWNvVERrX0J0TnBkOExDUFVVcHhEYTN2QdIBdEFVX3lxTE82VUs4QnoxSmliQWhvMDlIeWZidnYtQmtMQUE4MEFBcmFvclJ3NG5kbGFZaHJoU2F0dnBiZHNEa0FMS3EwZG9HVWVNaU9IOExqWnNOVUM0UUZlZkpYbnRBOU1PNXlyVk9QaFJ5THlYdl83SjdN?oc=5",
+      "date": "Mon, 02 Nov 2026 20:02:00 GMT"
     },
     {
       "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年、五日市港などで検問強化",
@@ -85,8 +80,13 @@
       "date": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も (中国新聞デジタル)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkwxXzlsNERPeHBNMVpheURaWlA3NEowbkQ0bXQxVHM0c2Q2UV84dHFQaU9XazhJU0dEV2EwN0lwblMzZ2x3cDZnLVpNbnBZMkEwSDg3SW1pc0FoQjhWeFdvdjZUbHE0cDNOMElyR3ZrdDhSSEVyOG1TSWNsODlMYmFsaHZCZW9lZFgwaHVR?oc=5",
+      "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年（中国新聞デジタル）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nbkVTaDFVYWpxc0NscHNPVHdlTmxST3pOaVZXMGNQSVVxb0JWRVktaTBhc1dqdHUyODRZczc1a1p2b3d3SXBMeTY4ZDk5ZERialpzXzdTR3FuWnctUEd5TEdhOV9aYm5Cek5IMm94ckc1ejlDT011NjcxM0J5QVU?oc=5",
+      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jQ3JSMmFsT2VFVTZHYjkxeWxGUzU4UU1uTEtZRnp3YlBhZzFUdXI4WjBlQzJYSk5QdVNKWnY5dUZ4TE5qZjZ1ZlVucw?oc=5",
       "date": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ],
@@ -102,6 +102,11 @@
       "date": "Tue, 27 Oct 2026 04:13:38 GMT"
     },
     {
+      "title": "【速報】広島自動車道下り 広島北IC～広島西風新都ICが通行止め 宮郷トンネル内でトラックと乗用車の事故 広島",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MYmhaUkpzT0RLYzlUN1hZVEVwdFJPU01Tdkp2SVpfcVJ6bzROb0NBZy0tRHUzUmRQQ2x6aVp6d1RpOUg5NFRZejdrejhsOUpIOVJtTkVhUQ?oc=5",
+      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "廿日市市の国道　3台絡む事故　軽自動車の女性が意識不明",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWk1jSDdPNVZoWWlONmN2ZEhhd25fUmVCV083S3lwNGxSbllHVnlublFmMkNGdVlZV0ZQZzVYMzdHUVVhenZxYmVVajJLMVFrbjNRRWthYkZHcGlZX3RsaEZJVk9MeFZlS21oZDB5WUxIOU42SWppQkp5eFJPc2J1RmU2WdIBiAFBVV95cUxNckFlM2NLS2lEc2xob3czRk8ySV9aNmhLdm5nc3p0YndmMnRTTmJkLTJZd0d6SUp0UVg2V2cxRVY1TW5SRW13QVlIc29ETUE4ZVZmeFdwa0N1a2tlQUxQSHR5cUNDMjhqWE1fZzlWYVFvdkhJeThPVmI3OGlsclozQVhVcE5uOTZn?oc=5",
       "date": "Wed, 04 Nov 2026 03:26:00 GMT"
@@ -110,11 +115,6 @@
       "title": "交通事故データ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBELVVhVkgwU3V3MkRXWG5ReU5iYzh1c3lBVkoxMXJaaS1PVXJEdmNKcC1QY1duZWhveVVVbXlFUTZQaVJFTEN4d0FOblhpd0RQSlJVVmctUGppcjFQdUUwdjZzcVFmRGxfbkV2aVJGTU54NHFuS3JaLVFXcw?oc=5",
       "date": "Fri, 02 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "道路を横断していた７９歳男性 車にはねられ死亡 見通しのよい直線道路 原因調べる 広島市安佐北区",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QTEpwbEpuWFJQZnVsbWxVWnpPS21uanJmZUllTGh4NE4zdy1xRmFXeTlmcW5udG1sTDlBOTBMNVRueE1xMTRUWUY3UHlKdw?oc=5",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
