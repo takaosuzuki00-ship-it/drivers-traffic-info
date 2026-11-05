@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-06T03:01:47.598687",
+  "generated_at": "2026-11-06T06:01:33.565826",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 13.2,
-    "temp_max": 20.6,
-    "temp_min": 11.9,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 14.1,
+    "temp_max": 20.8,
+    "temp_min": 11.1,
     "precip_prob_max": 100,
-    "precip_sum": 2.4,
-    "wind_speed": 3.5,
+    "precip_sum": 3.7,
+    "wind_speed": 7.2,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.9,
+        "temp": 13.1,
         "weather": "晴れ時々曇",
         "precip_prob": 37
       },
       {
         "time": "03:00",
-        "temp": 13.2,
-        "weather": "晴れ",
+        "temp": 12.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.6,
-        "weather": "弱い雨",
+        "temp": 14.1,
+        "weather": "雨",
         "precip_prob": 41
       },
       {
         "time": "09:00",
-        "temp": 17.7,
-        "weather": "晴れ時々曇",
+        "temp": 17.6,
+        "weather": "晴れ",
         "precip_prob": 25
       },
       {
         "time": "12:00",
-        "temp": 20.4,
+        "temp": 20.8,
         "weather": "快晴",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 19.5,
-        "weather": "快晴",
+        "temp": 19.6,
+        "weather": "晴れ",
         "precip_prob": 22
       },
       {
         "time": "18:00",
-        "temp": 16.3,
-        "weather": "晴れ",
+        "temp": 16.0,
+        "weather": "快晴",
         "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 14.0,
-        "weather": "晴れ",
+        "temp": 13.4,
+        "weather": "晴れ時々曇",
         "precip_prob": 12
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMjhReGRLZG9VcjFnRlZubGRzTTRUMEFKU21ZUHdkdWo4aG9kcHlYb0RUZHpQQTAxSVJWTmlHSkgzYWlTZVRPcDRwR2VTNlNkb0FBVmh6Yw?oc=5",
+      "date": "Sat, 31 Oct 2026 20:02:00 GMT"
+    },
     {
       "title": "11月5日（木）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aM0N3Q0xiTlJDaFlZOC1JMTNFOGkxQ0QxMndMcHBZd2NsRjNSbmJPYWdkTThadlpIOTBES19yc2t1M0p6SEtIcjM5UmRabFdwekFoSi1jSG5CSFh5MlZOWmJ5RklQVmhXOGhDaWF3SdIBdEFVX3lxTE93Q1lGbFZDclFIdkdrWFdENnBwbTF0dFcyRUlyLUJXNTJ4QlBNUDNrZzE1M0RZUUxHUS1kZ2lpd1ZWMUt1bFh2cHRzSkNPbUZQcUZyNTJRWXRrVk04S3JESXBod0RFNU9IVkdGZ0Y0Y3gwQXZK?oc=5",
@@ -75,19 +80,14 @@
       "date": "Mon, 02 Nov 2026 20:02:00 GMT"
     },
     {
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "１１月３日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4R0I3Z2xCamZfM2syYnBYRlh0NVFiN01ZYUMwWmxWVGhrYnVpNHFabXEwY1NsQlAxZlpQc3A5VkE5V0stQ3MxTmFFT3FlMzZRWUhmeXRadjBzcHVYalZXUWhybHp2ZmdrRVRWVEVqS0Jrd9IBd0FVX3lxTE1ZbjFodGx2anpGRUtkTnJCcHFwUXlBeWZUSVdHMjZ1WlZ2WXRlSE9Uc2k4NDVwbEhfek12X2ZuT3lKUzNmQlJaOGJqSXFNR2gzdEFoME9EYndSV0M4bnRIU0tUbndrT0pPU0VDS1FrUjlIZVBUaUJn?oc=5",
       "date": "Mon, 02 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "国道４号で夜間検問実施 須賀川署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
-      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnliNEgxdUF0WmFhNG0yU2xWVDlCcGR4STZVWGZYeU5rWEI3dkMtYnRWbF9SejVCWmNnY0NlTW5fd01STTZvcUlsb2tFV2txM3FwSXdOWGpZMmg1bTVqR3YzakFSWFR1YTRmdHRzOW1wa3haNGI1Qnp4Q0RwZzhPQWsyYkUzaDA?oc=5",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
