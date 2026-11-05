@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-05T21:04:04.573155",
+  "generated_at": "2026-11-06T00:01:10.959737",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 11.2,
-    "temp_max": 11.8,
-    "temp_min": 8.3,
-    "precip_prob_max": 100,
-    "precip_sum": 7.9,
-    "wind_speed": 2.8,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 10.8,
+    "temp_max": 16.9,
+    "temp_min": 6.6,
+    "precip_prob_max": 94,
+    "precip_sum": 3.8,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 8.4,
+        "temp": 10.8,
         "weather": "曇り",
-        "precip_prob": 0
+        "precip_prob": 51
       },
       {
         "time": "03:00",
-        "temp": 8.4,
+        "temp": 10.7,
         "weather": "曇り",
-        "precip_prob": 18
-      },
-      {
-        "time": "06:00",
-        "temp": 8.6,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 9.5,
-        "weather": "強い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
-        "temp": 11.8,
-        "weather": "曇り",
-        "precip_prob": 98
-      },
-      {
-        "time": "15:00",
-        "temp": 11.8,
-        "weather": "曇り",
-        "precip_prob": 31
-      },
-      {
-        "time": "18:00",
-        "temp": 11.3,
-        "weather": "晴れ時々曇",
         "precip_prob": 10
       },
       {
+        "time": "06:00",
+        "temp": 11.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 90
+      },
+      {
+        "time": "09:00",
+        "temp": 14.9,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 14.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 12.1,
+        "weather": "晴れ",
+        "precip_prob": 55
+      },
+      {
         "time": "21:00",
-        "temp": 11.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 31
+        "temp": 9.4,
+        "weather": "晴れ",
+        "precip_prob": 16
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "滝沢市の国道で交通事故 消防が出動",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3SVhjYVhEcFpvTUtxR0RraExSQXZuREFGcVkyUU5KTUFrWnlYRG9PdXdHTkJDalRnN0VKcndwc0J4VWZPM0dYZm9weFMzNXl0UmRzeGpnSzMxTFc1SWY2Ug?oc=5",
+      "date": "Thu, 05 Nov 2026 08:45:00 GMT"
+    },
+    {
       "title": "子どもに関する交通事故が増加傾向に 県内の死者34人で前年を超える 岩手（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RTEJWNDlfQXpzRXI1QjZhTVBER283WUxURkNjSURzUTI2YWpxRWlrYmNMeEZEbTRVT1RPRWMwUE1YOHZvZGlJOFlONTlDM0xqa25JWF9GRGJ0RHFPSU9hdUN1dXZxaW13YWdqck1ZZWljNm5GcnpUZ3lYSnpIR2c?oc=5",
       "date": "Thu, 05 Nov 2026 02:53:13 GMT"
@@ -100,11 +105,6 @@
       "title": "一時停止せず同乗者死亡　北上市の30代女性職員を停職1か月の懲戒処分　休暇に交差点でワゴン車と衝突事故起こす　岩手",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdExKUjZxZlBnNy13U003OXhmMTdGRVJ2OFVJSDFhYlFKT2pvLVNFT1ZrU1FrN1hoOUluRjF3eDhzRERiNU1PXzk4Smlkb2pfUmFGVmpEaWRTdTRnM2FoOVdzMl9BZ3d6d2liRGJBcnE5UjAzMXY5ZHQ4d2sxdFBneV9jVlhuNk93aENEX3Ata2lCSE03aEtsNzgyZFZHMDlYWnk4OW1FbDlXTEhBbk1QMmNxYi1ZWWFnVlRDcDI3OHRUdDN30gF0QVVfeXFMT0lGUmdMT29zbFM0d3hrUnZuTTRGZHJRUzRSSkdRMmNWSnl5cWFqSlBieDBNY2RpeU1PTm8tUENKWGI1cGxlVXFPenhMd1hKdC1ZYzV3SEJiVWJZTTYybWlIOWZuNXI1cm5kOHM5bkdFUzJ2b3U?oc=5",
       "date": "Thu, 05 Nov 2026 03:04:00 GMT"
-    },
-    {
-      "title": "滝沢市の国道で交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3SVhjYVhEcFpvTUtxR0RraExSQXZuREFGcVkyUU5KTUFrWnlYRG9PdXdHTkJDalRnN0VKcndwc0J4VWZPM0dYZm9weFMzNXl0UmRzeGpnSzMxTFc1SWY2Ug?oc=5",
-      "date": "Thu, 05 Nov 2026 08:45:00 GMT"
     },
     {
       "title": "子どもに関する交通事故が増加傾向に 県内の死者34人で前年超える 岩手 | IBC NEWS | IBC岩手放送",

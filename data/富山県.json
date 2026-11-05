@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-05T21:04:46.125584",
+  "generated_at": "2026-11-06T00:02:12.691173",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 16.2,
-    "temp_max": 20.1,
-    "temp_min": 11.9,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 15.1,
+    "temp_max": 19.7,
+    "temp_min": 11.3,
     "precip_prob_max": 100,
-    "precip_sum": 7.0,
-    "wind_speed": 3.3,
+    "precip_sum": 15.5,
+    "wind_speed": 4.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.8,
-        "weather": "弱い雨",
-        "precip_prob": 98
+        "temp": 15.1,
+        "weather": "霧雨",
+        "precip_prob": 90
       },
       {
         "time": "03:00",
-        "temp": 12.3,
-        "weather": "弱い霧雨",
+        "temp": 15.7,
+        "weather": "雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 11.9,
-        "weather": "曇り",
+        "temp": 14.9,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 14.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 17.3,
+        "weather": "快晴",
+        "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 19.5,
-        "weather": "晴れ",
-        "precip_prob": 4
+        "temp": 18.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 19.8,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 17.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 39
+        "temp": 15.8,
+        "weather": "晴れ",
+        "precip_prob": 86
       },
       {
         "time": "21:00",
-        "temp": 16.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 61
+        "temp": 12.5,
+        "weather": "雨",
+        "precip_prob": 98
       }
     ]
   },

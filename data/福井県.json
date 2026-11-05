@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-05T21:04:53.216617",
+  "generated_at": "2026-11-06T00:02:24.394655",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 17.2,
-    "temp_max": 22.3,
-    "temp_min": 13.3,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 16.4,
+    "temp_max": 19.8,
+    "temp_min": 13.9,
     "precip_prob_max": 100,
-    "precip_sum": 3.3,
-    "wind_speed": 7.6,
+    "precip_sum": 1.4,
+    "wind_speed": 7.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.1,
-        "weather": "霧雨",
+        "temp": 16.4,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 13.6,
-        "weather": "曇り",
-        "precip_prob": 92
+        "temp": 17.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 14.3,
-        "weather": "曇り",
-        "precip_prob": 35
+        "temp": 15.4,
+        "weather": "晴れ",
+        "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 15.6,
-        "weather": "晴れ",
-        "precip_prob": 2
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 94
       },
       {
         "time": "12:00",
-        "temp": 20.9,
+        "temp": 19.2,
         "weather": "晴れ",
-        "precip_prob": 4
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 22.2,
+        "temp": 18.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 86
       },
       {
         "time": "18:00",
-        "temp": 18.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 80
+        "temp": 15.7,
+        "weather": "晴れ",
+        "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 17.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 86
+        "temp": 13.9,
+        "weather": "晴れ",
+        "precip_prob": 69
       }
     ]
   },
