@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-05T00:02:09.911564",
+  "generated_at": "2026-11-05T15:03:07.340039",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 13.9,
-    "temp_max": 20.3,
-    "temp_min": 13.6,
+    "temp_now": 18.8,
+    "temp_max": 19.4,
+    "temp_min": 13.4,
     "precip_prob_max": 100,
-    "precip_sum": 7.2,
-    "wind_speed": 4.0,
+    "precip_sum": 8.3,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
@@ -21,49 +21,59 @@
       },
       {
         "time": "03:00",
-        "temp": 13.6,
+        "temp": 13.5,
         "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 14.0,
+        "temp": 13.9,
         "weather": "曇り",
-        "precip_prob": 82
+        "precip_prob": 69
       },
       {
         "time": "09:00",
-        "temp": 15.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
-      },
-      {
-        "time": "12:00",
-        "temp": 20.2,
-        "weather": "快晴",
+        "temp": 15.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "15:00",
-        "temp": 19.5,
+        "time": "12:00",
+        "temp": 19.4,
         "weather": "晴れ",
-        "precip_prob": 6
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 18.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 18.3,
+        "temp": 16.9,
         "weather": "弱い霧雨",
-        "precip_prob": 41
+        "precip_prob": 65
       },
       {
         "time": "21:00",
-        "temp": 16.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 51
+        "temp": 16.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 57
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月4日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbkhuR0REOHR1OEZWV3c3RlBkZW5uS3VpR1FnZi1CY1BPTmNweTY3MUlxaTRtRlkxTXktUXFzMm9jSE15U1ZFWkhMcTROV1hOYi1FQVNKcVk3NVVlekxMbmNjbEtlX1dWRnQ0UVR3?oc=5",
+      "date": "Tue, 03 Nov 2026 20:11:15 GMT"
+    },
+    {
+      "title": "10月26日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTE1rdXpqeVBieHVCUU9fbDZpYklzbndKS0ZYbUxXUTJiZW5VZ1JPZi1IOTVNbUN2aUNtSHRyRkpHUGFjZ3RMR3RfV2dsTU01bDMwYUQ1LUpuSVI5V2xFZDRpM0FRbXozcXFHMmFR?oc=5",
+      "date": "Sun, 25 Oct 2026 20:04:23 GMT"
+    },
     {
       "title": "北陸道で時速190キロ スピード違反で金沢の72歳男を逮捕 容疑を否認（2026年6月3日掲載）｜テレ金NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZjlLNXpHdzc4Y0pFUDE1MDRoanRuUzVhZlpCUzFXLU1WX20tem9vbGwzMFhBRWE4WlhYUTg1SDBBNVAwc0Q2bUYyNHdMcDFLY2UtU3ZyMTJkRFJ2S0dGMG1kUDFTUW5seTF0UHpHSGlyYWNTQ3BLUHhrMW9qOTg?oc=5",
@@ -78,16 +88,6 @@
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転根絶へ 石川署が夜間検問",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Sat, 24 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNUdtcEZiZy1WbGxsVXpROWlSR0JYb05GWVYwcXVIVTZTUFpPM2RJUjAzSjBjQ2NnVkJTNTFWMThYT01VTktMdW43T1JYNUZVMzRORnJHVktKUQ?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+      "title": "交通安全運動中に死亡事故４件 石川県内、過去10年で最多｜社会｜石川のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOWWcwUDRyS2FVWFJsLTNaR1JVRDRoSFFkQ0swV3FpQnFIeGhXVFdvRW9MU2xXUUFXbHlfcXVzT0o4S2JsNU9IdWh0Uy1FaGpsY3BjaWwtUQ?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

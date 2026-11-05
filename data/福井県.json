@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-05T00:02:14.524257",
+  "generated_at": "2026-11-05T15:03:12.004779",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 14.1,
-    "temp_max": 23.5,
-    "temp_min": 13.1,
-    "precip_prob_max": 98,
-    "precip_sum": 5.4,
-    "wind_speed": 1.5,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 21.7,
+    "temp_max": 21.9,
+    "temp_min": 13.3,
+    "precip_prob_max": 100,
+    "precip_sum": 2.7,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
         "temp": 14.1,
         "weather": "霧雨",
-        "precip_prob": 98
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 13.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "temp": 13.6,
+        "weather": "曇り",
+        "precip_prob": 92
       },
       {
         "time": "06:00",
-        "temp": 13.2,
+        "temp": 14.3,
         "weather": "曇り",
-        "precip_prob": 43
+        "precip_prob": 35
       },
       {
         "time": "09:00",
-        "temp": 15.4,
+        "temp": 15.6,
         "weather": "晴れ",
-        "precip_prob": 12
-      },
-      {
-        "time": "12:00",
-        "temp": 21.6,
-        "weather": "快晴",
         "precip_prob": 2
       },
       {
+        "time": "12:00",
+        "temp": 20.9,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
         "time": "15:00",
-        "temp": 23.4,
-        "weather": "快晴",
+        "temp": 21.7,
+        "weather": "曇り",
         "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 19.0,
-        "weather": "霧雨",
-        "precip_prob": 33
+        "temp": 18.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
       },
       {
         "time": "21:00",
-        "temp": 17.6,
+        "temp": 16.8,
         "weather": "弱い霧雨",
-        "precip_prob": 61
+        "precip_prob": 78
       }
     ]
   },
@@ -75,14 +75,14 @@
       "date": "Mon, 01 Nov 2021 07:00:00 GMT"
     },
     {
-      "title": "忘年会シーズン控え、芦原街道で飲酒検問 福井署",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cWRlMUZUQTBaUUVnYlNoTURCc081SWFaVzdtM2xWNE1OVjQxT21UeW1QMk9wY0hUS3RkeUFvS2QzNWRkdnhORGo5VlAwMk5qSXZN?oc=5",
-      "date": "Sun, 28 Nov 2021 08:00:00 GMT"
-    },
-    {
       "title": "一斉検問で飲酒運転２件摘発 県警と県内１１署",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXb1lwQlljaThlZnQwZFdCTXdnNk1RSl82ZDhBSjVxS0pnT2pRcWRXd0VnbFEtaFpHRGhrd21XZVNHRU5nREt2MGtUV0VoaF9DOGVn?oc=5",
       "date": "Fri, 26 Aug 2022 07:00:00 GMT"
+    },
+    {
+      "title": "忘年会シーズン控え、芦原街道で飲酒検問 福井署",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cWRlMUZUQTBaUUVnYlNoTURCc081SWFaVzdtM2xWNE1OVjQxT21UeW1QMk9wY0hUS3RkeUFvS2QzNWRkdnhORGo5VlAwMk5qSXZN?oc=5",
+      "date": "Sun, 28 Nov 2021 08:00:00 GMT"
     },
     {
       "title": "時速190キロで高速道路を走行した疑い 72歳男「速度違反はしていません」と否認 | 石川県のニュース｜MRO北陸放送",
@@ -92,14 +92,19 @@
   ],
   "accident_news": [
     {
-      "title": "土砂運搬ダンプカーによる死亡事故から2週間 福井アリーナ建設予定地での作業再開は見通し立たず 28年秋開業には「影響なし」と福井市",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNEh0QWhET3BMX3NCSjU5ODh6dHhMQW1JWnpKMHYyU08tWThUNUp4QmNDbVpHTDRramtwTDJvRGh3d1JHQVI0NXhfVDlocDludUVxY2tHbmxzMjlFQVI4dENib0lrSW9TdjFhWVNaYVFWNGhzLUF3MHFKMDQxejgyelZHXzhJS1hZQU0xVldNN1pIVnlGMXR4S2RFcy1uLVpiTWQzZnBzVHUtMW5tbUFISmlQbEtBalBtbjREYUFLYkpIWkFJMXl1MWVhVmk4c29jaUxsQmF6OW01UlJ0WGhUMFdDY0ptb0YzTk5fV1NrZkthMm1fdUtaQ1hHNUVuSlMzVFBqZkRsM3BQVUtHaFpBZlo0Z1FQcDZyU0U5Z3AzMWRiWlVFZm9OUk9TaXh5dXkxMmpXQ2dZTXdOZUE2N2gzZFJ2T2NJWlE3Z2E0X015dW8wVlBzM3l0dXNB?oc=5",
-      "date": "Wed, 14 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "「初めて自分事として考えられた」 交通事故犠牲者の遺族の思い伝える「生命のメッセージ展」越前市で10月12日まで",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMnZiUnY1aUhzR0VJQ2EwckV3aWxHaHZkZzY2QkZ3MzZpVzByQ1c0bGNIRmdVa1RWWFZGT1JmbVg0U2pIaU5qX0xyYjgwRjhEXzBuUWtSYWJCbEZfTlFEVEVwNmo1aHVkYTRTWXQ5MjRKQ3ZyV0d0cDkyUjRyR1lnUmp0bVFwSi1TM2dQeTVSanpvcnZ6OGhtTjBVaklNZGZvRWZFX3VEQXBQVnJLLXZXdXRsaUU5LXhqendtbzJMVzcydENyZTNqMGY2cVZFSFpDSExfMHRJbV9Kc0hSMERZVVFKRVZYdzh0cWU3aUFRT2tCU0pzWmZBN201ZUtKMHUzSFprS1hvLTJIQkFNMkdtTWwyckYzdlNxdkFTTU11X3JkUHRFb05JY1RsVURUQ2JCQmJ2ZzNkUkRJX2hRZkJMOGlOZHlfRzB0b241bV83S2JYLWNkcDU5Yg?oc=5",
       "date": "Mon, 12 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "82歳女性をひき逃げ疑い、90歳男逮捕 「交通事故の事実は一切ない」と容疑否認 福井県坂井市 (福井新聞ＯＮＬＩＮＥ)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGxacXVxNUZyT2Jseko1cW1nX0V2cmZ1RTdKWVYtX25pSG5VU2NNd1RfQmFuVklwM3AwUlNoRy1la2NNeHRFWmw4Q3ZNcVdQb3RDYmZNREh0dXk5MTNnMGwzMF96YTdfWXRLc0xIa1h2ZDhTc1VTWndxdXd3ZE9TVFR2bmhnb3lmdElpVHhn?oc=5",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "フェニックス通りを拡幅したいが予定区域には交通事故の慰霊碑が…持ち主不明で頭抱える福井市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RWllJZVQ5UzVDTXdnNnRaaUlUQTNtUWhGbVM1c3hkNE9EMFBBVFU1QlFnWEJEd1lmUnlWZkdra2F0dmdvUmhPNFh1WTg3aVRXWThMWnNrN2VUcjdlcHc?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "フォークリフトに挟まれ85歳男性死亡 福井県勝山市の農業用倉庫、1人で作業",
@@ -107,14 +112,9 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "大型バイクを運転の小浜市の24歳男性が死亡 若狭町熊川の国道で軽乗用車と衝突（福井テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMFo3cG83V0o5cV9iTGxBUHhGejBuS2swN2pLNWlTekJCMGwwc090WWJ0ajVXZ09Fd0pKOXpINk4tU3BUZnp1NTREOG9OLWwtYmUtbkxOcGh2aXprUjRVSUFfNVctR1lyNjZPSkgxLUdnSVdualhzZjFkQXBKOW8?oc=5",
-      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "死亡事故を受けてストップ 福井市のアリーナ建設予定地で発掘調査が3週間ぶりに再開 ダンプで土砂の運搬はせず 安全の確認を事業者に指示 地域住民からは不安の声",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON05vVl96RnRxX0JIWlR3UHZ5UjVDT0RiQ0U3bXd1bVowc3Jfb1FTZk1vbEEwSXl4N1NjckRyUWVyNTI5MmRiOU1zT1JlSmNFWGJDR3VwQTZJYnMxSFJDaF9CSXIzdDZ4aXB3anhvOXpwUmp4bTgyN1ZTVnF1WmttUy1VT2Ztb28?oc=5",
-      "date": "Tue, 27 Oct 2026 12:12:00 GMT"
+      "title": "土砂運搬ダンプカーによる死亡事故から2週間 福井アリーナ建設予定地での作業再開は見通し立たず 28年秋開業には「影響なし」と福井市",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNEh0QWhET3BMX3NCSjU5ODh6dHhMQW1JWnpKMHYyU08tWThUNUp4QmNDbVpHTDRramtwTDJvRGh3d1JHQVI0NXhfVDlocDludUVxY2tHbmxzMjlFQVI4dENib0lrSW9TdjFhWVNaYVFWNGhzLUF3MHFKMDQxejgyelZHXzhJS1hZQU0xVldNN1pIVnlGMXR4S2RFcy1uLVpiTWQzZnBzVHUtMW5tbUFISmlQbEtBalBtbjREYUFLYkpIWkFJMXl1MWVhVmk4c29jaUxsQmF6OW01UlJ0WGhUMFdDY0ptb0YzTk5fV1NrZkthMm1fdUtaQ1hHNUVuSlMzVFBqZkRsM3BQVUtHaFpBZlo0Z1FQcDZyU0U5Z3AzMWRiWlVFZm9OUk9TaXh5dXkxMmpXQ2dZTXdOZUE2N2gzZFJ2T2NJWlE3Z2E0X015dW8wVlBzM3l0dXNB?oc=5",
+      "date": "Wed, 14 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
