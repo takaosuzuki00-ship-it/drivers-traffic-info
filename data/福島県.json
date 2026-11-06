@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-06T06:01:33.565826",
+  "generated_at": "2026-11-06T09:03:07.182267",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 14.1,
-    "temp_max": 20.8,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 17.7,
+    "temp_max": 21.1,
     "temp_min": 11.1,
-    "precip_prob_max": 100,
-    "precip_sum": 3.7,
-    "wind_speed": 7.2,
+    "precip_prob_max": 98,
+    "precip_sum": 1.1,
+    "wind_speed": 8.4,
     "hourly": [
       {
         "time": "00:00",
         "temp": 13.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "precip_prob": 22
       },
       {
         "time": "03:00",
-        "temp": 12.8,
+        "temp": 12.5,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 14.1,
-        "weather": "雨",
-        "precip_prob": 41
+        "temp": 13.2,
+        "weather": "霧雨",
+        "precip_prob": 98
       },
       {
         "time": "09:00",
-        "temp": 17.6,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 17.7,
+        "weather": "快晴",
+        "precip_prob": 69
       },
       {
         "time": "12:00",
-        "temp": 20.8,
+        "temp": 21.0,
         "weather": "快晴",
-        "precip_prob": 100
+        "precip_prob": 96
       },
       {
         "time": "15:00",
-        "temp": 19.6,
-        "weather": "晴れ",
-        "precip_prob": 22
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 10
       },
       {
         "time": "18:00",
-        "temp": 16.0,
+        "temp": 16.3,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 12
       },
       {
         "time": "21:00",
         "temp": 13.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
+        "weather": "晴れ",
+        "precip_prob": 14
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月6日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmUjZrY0NIdjkwc0hvR0VHNnVlaGw5NUkwMlBjRXdObXhqci1VbWlmX3dWLWsxYzZVamJIQjF4ZWlZLVpNNmN3cVAzcWpvRW5WdG5UVlF3QVBubE9KM0xjYUg5eS1WckpzaXFXNjdLY9IBdEFVX3lxTE85M1hkN0ZuYnotUlUwSXJGQlEtUmtwVGw3eVFRRTQ3R1hPOEN4bXZGYjNiZkNybXMzSHZUSnNKWXVKNWU3ZkRoYTdpTjhxREtvdXN1UnpldHRfaTE4YVZPVzdnYmladTJNcklSWWFGUlM2SUNw?oc=5",
+      "date": "Thu, 05 Nov 2026 20:08:56 GMT"
+    },
     {
       "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMjhReGRLZG9VcjFnRlZubGRzTTRUMEFKU21ZUHdkdWo4aG9kcHlYb0RUZHpQQTAxSVJWTmlHSkgzYWlTZVRPcDRwR2VTNlNkb0FBVmh6Yw?oc=5",
@@ -80,14 +85,9 @@
       "date": "Mon, 02 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
-      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "１１月３日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4R0I3Z2xCamZfM2syYnBYRlh0NVFiN01ZYUMwWmxWVGhrYnVpNHFabXEwY1NsQlAxZlpQc3A5VkE5V0stQ3MxTmFFT3FlMzZRWUhmeXRadjBzcHVYalZXUWhybHp2ZmdrRVRWVEVqS0Jrd9IBd0FVX3lxTE1ZbjFodGx2anpGRUtkTnJCcHFwUXlBeWZUSVdHMjZ1WlZ2WXRlSE9Uc2k4NDVwbEhfek12X2ZuT3lKUzNmQlJaOGJqSXFNR2gzdEFoME9EYndSV0M4bnRIU0tUbndrT0pPU0VDS1FrUjlIZVBUaUJn?oc=5",
-      "date": "Mon, 02 Nov 2026 20:00:00 GMT"
+      "title": "国道４号で夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Sat, 17 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "接骨院院長が容疑認める　交通事故施術費を水増し請求疑い　ほかの事件にも関与か",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmYUNLbDMtS1lDS1RPakFpMU9uMzY2UnVlMHFtTkZyVmRWRDdiTGw5Z2dzdnR1YnFTeG83TlJaNWhzendlR0stX0hqVHotTGV2R0YwT2pnSHVtR055cVR1NENsbXhlVndCWnZ4YXhxaVFJcXR1cVJvZWlwd9IBgAFBVV95cUxQZjR5elNSLXpvZ25paTYwbmItdUFVMUVxd0FsSEEyX0N5UmJ4MTNoajlPcHpVVVl5MFpfTF95a211aFdNVVk3UEVoMkpobktneWRTTGZ2LWsxVkdIbEVMOWNjdHRWam41a3JpdU9fbFVuTHJLS2J0RmxDVEJNR2xlUw?oc=5",
-      "date": "Thu, 05 Nov 2026 02:59:00 GMT"
+      "title": "会津坂下町でトラックと軽自動車が正面衝突 男性（22）死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3NHhKMnlXb0NYTUZUejZYTVV5STMzdFJUeGhkYW5ZVWxKUFU0UlNQbWY3VlZqYVJnNlBOUk4xc0tjeHBCZjNuYTkydGJBWXhORGVWWHRB?oc=5",
+      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
