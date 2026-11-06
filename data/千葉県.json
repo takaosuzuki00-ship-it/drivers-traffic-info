@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-06T21:01:53.940287",
+  "generated_at": "2026-11-07T00:01:53.709026",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 18.4,
-    "temp_max": 23.7,
-    "temp_min": 15.3,
-    "precip_prob_max": 43,
-    "precip_sum": 0.8,
-    "wind_speed": 10.1,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 16.5,
+    "temp_max": 18.8,
+    "temp_min": 10.7,
+    "precip_prob_max": 27,
+    "precip_sum": 0,
+    "wind_speed": 12.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.3,
+        "temp": 16.5,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 27
       },
       {
         "time": "03:00",
-        "temp": 16.4,
+        "temp": 15.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 18.9,
+        "temp": 13.0,
         "weather": "快晴",
-        "precip_prob": 43
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 18.3,
+        "temp": 15.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 23.0,
+        "temp": 18.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 23.6,
+        "temp": 17.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 21.0,
-        "weather": "晴れ時々曇",
+        "temp": 14.0,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 18.4,
-        "weather": "晴れ",
-        "precip_prob": 6
+        "temp": 12.2,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "１１月４日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xREF2Y2R2WTE0bTlCOFMwMnJuYUhoSDZwRGxyOTZLTThDMWx2NUVRc2xuVkt5Zy11NGFhTWY0VUxHZ2pZS0QxSHhWUGprcnJSd1B3V28xeEhlS3FwR3pTVGlTcHZYU2NP?oc=5",
+      "date": "Tue, 03 Nov 2026 20:00:00 GMT"
+    },
     {
       "title": "11月4日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9peDk4N1B6NnlabmJPMFB3OC15MEwzTUtpSVdYUkVaNlVfYlNlTy1QNldyNDNnQm1WUXB2N3N5OE4zNnV0YUNoU051ZUdiVjNPcWNoZHJndmZVeG1SR1BjMHFIeXJzZXVHN3ByZkRLSdIBdEFVX3lxTE13REhuTDNTcVNnbXdtU19xd1FtNjVPQl9VckNfUzFqaFJJbmdtMjdleERqbzZaRzdpYjhDTXNOQ1hacDNxX2ptMGNSQjJBakxPT3lWXzdnNndRaDZVWFVDdnlGSGhfSXhDYUZmY0xPSDhWVVFZ?oc=5",
@@ -73,11 +78,6 @@
       "title": "１０月３０日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55NnlSeEVxb3BWSFRubHVSQVZfS25qNjRQaFdIT05lcFpVNHZnRWpLblVuQ0JRMlpMdzNtVFNPbFp4V1JGVm5zU1hYS19lTUhfaHdGYjNtS0ZOVXBhTDJJT1BYS3FfejJZ?oc=5",
       "date": "Thu, 29 Oct 2026 20:00:00 GMT"
-    },
-    {
-      "title": "１０月２９日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84a1hvQ0JIVlpkQ1VZYVA4M0FpeHIyQ0xZRzI0VWlqWmh2QktkVmhGS25hUzhhR291YzBxXzd2akVQS0w5MVREcHVndlQ4TFEtMGRBXzB1R0V4ZUQtdnZWb1hocUxhTjRu?oc=5",
-      "date": "Wed, 28 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
@@ -112,9 +112,9 @@
       "date": "Wed, 23 Sep 2026 01:15:35 GMT"
     },
     {
-      "title": "千葉・京葉道で車4台絡む玉突き事故 4人けが（ABEMA TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtNUtPaHZaMVk4TnBEdG1adkJIQUgwZENzR19qbmtwY0ItVlc2NHluM2lONUExZ2xXaDFFTllpNk82VmU2R2ZKWkVpbWtENlFpcjA4WElwQlVKLWNxOHJ6YXJneGk2LWwzV2Q0a1ZIU0hxMFJ3ZHZsVkdjdDBMWkE?oc=5",
-      "date": "Tue, 03 Nov 2026 06:54:15 GMT"
+      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
