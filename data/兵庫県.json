@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-06T09:04:44.261612",
+  "generated_at": "2026-11-06T12:02:49.333101",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 19.5,
+    "temp_max": 20.4,
+    "temp_min": 12.8,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 11.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 17.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 19.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 20.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 14.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
@@ -33,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "ひき逃げ疑いで大学教授の男逮捕 横断歩道を渡っていた女子高生が軽傷 神戸|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wWEVoS2hudHV6ZlFJNkRCb1hqeDRTQUt3Ymc4azh3WktRYUR6ZVZUVkZhdGxBa29iTkE2d1V3bW9ISi1oVEczX1NDVmhJWnp5SlRJYWg3VU5uODE2TlRQZEY2SmhjR3dqbkpnYjZreTExNUN0cWw4OEtfbw?oc=5",
+      "date": "Thu, 05 Nov 2026 22:39:50 GMT"
+    },
+    {
       "title": "信号待ちの車列に乗用車が衝突、男性1人死亡 神戸市バス含め計5台の玉突き事故 神戸・長田の県道",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QcnVCWWxRQjFubGZtM3lwWWJXX0ZyS2tQUTBRLWlaUWlyMkEybFBSTEs5dFk0dFNYYkF0QTZwdEFFMVBsV1k2TVFlR0RvVE5ldU5MZ2Nzd3JYczRrTUM5NWVrRFdBMWNBU0o1eVUwZV9aZ3RsTEl2aVJ0Zw?oc=5",
       "date": "Thu, 05 Nov 2026 10:35:00 GMT"
@@ -51,11 +115,6 @@
       "title": "兵庫県内の交通事故死者数100人に 昨年1年間の死者数を上回る 4割以上が歩行者 / 兵庫県（サンテレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBURDdQMVZrWEZxd04zb0YzTTdUYlJiSUxYNW1Da0hYT25HeUxzTDUyanBfRWExcExpZkVlUXpGbW9nRTJTZjJ0bDUtZGZrRXA5QVlFN3NNcXQzY2VjWHFQZVVvNEk0OEF3UjFEMHl4U25hclMxOXM5NEZ1U295S0k?oc=5",
       "date": "Thu, 22 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "【速報】外国人観光客を相手に「白タク」行為の疑い パキスタン国籍のグループ6人を逮捕 先月には客を乗せて事故も 兵庫県警",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pS1MzbGl3bjhEa3ZoVWRBT09SbmpFWXZMOHFBZE42WEJTYXpZMjRfeGFwN1N4QjB5SDIwaTJmTGVPTklqaWQzaU9NUGZEUVEzUFpfY21DeGowZDhaXzlwR2l4djdSRjQ?oc=5",
-      "date": "Wed, 04 Nov 2026 05:58:00 GMT"
     }
   ],
   "official_links": [
