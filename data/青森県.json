@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-07T21:03:01.815512",
+  "generated_at": "2026-11-08T00:02:25.281650",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 4.7,
-    "temp_max": 5.1,
-    "temp_min": 2.9,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 5.1,
+    "temp_max": 6.5,
+    "temp_min": 4.7,
     "precip_prob_max": 100,
-    "precip_sum": 6.1,
-    "wind_speed": 17.6,
+    "precip_sum": 0,
+    "wind_speed": 18.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 5.0,
-        "weather": "曇り",
-        "precip_prob": 88
+        "temp": 5.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 3.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 90
+        "temp": 5.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 3.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 4.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 92
       },
       {
         "time": "09:00",
-        "temp": 3.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 5.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
       },
       {
         "time": "12:00",
-        "temp": 3.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 6.5,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "15:00",
-        "temp": 3.0,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 6.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 3.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 5.1,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 4.7,
-        "weather": "曇り",
-        "precip_prob": 98
+        "temp": 5.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
       }
     ]
   },
