@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-08T15:03:17.151128",
+  "generated_at": "2026-11-09T06:05:27.224423",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 17.2,
-    "temp_max": 17.2,
-    "temp_min": 5.6,
-    "precip_prob_max": 41,
-    "precip_sum": 0,
-    "wind_speed": 1.3,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 9.8,
+    "temp_max": 14.6,
+    "temp_min": 9.4,
+    "precip_prob_max": 91,
+    "precip_sum": 9.8,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 7.7,
-        "weather": "快晴",
+        "temp": 10.9,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 6.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 10.3,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 5.8,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 9.8,
+        "weather": "霧雨",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 9.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 9.6,
+        "weather": "弱い雨",
+        "precip_prob": 12
       },
       {
         "time": "12:00",
-        "temp": 14.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 12.8,
+        "weather": "晴れ",
+        "precip_prob": 12
       },
       {
         "time": "15:00",
-        "temp": 17.2,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 14.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 45
       },
       {
         "time": "18:00",
-        "temp": 13.6,
-        "weather": "晴れ",
-        "precip_prob": 6
+        "temp": 13.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
       },
       {
         "time": "21:00",
-        "temp": 12.4,
+        "temp": 12.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 41
+        "precip_prob": 90
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月9日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZElaVGEwbW10UkpoUXVzZlFUZlJkeXZzSFJOUlRabnVsd3Qtd0Ria185TVJIOUZtU2M4bTNIcU95bkRndmJNRE9waTVONWNjUEU4SG8xVFlzME9YRXBSN3ZiNkFscWozYzh6U216Y9IBdEFVX3lxTE15cGJSaVdaMlBNeW4yQm5sMDJTMF81cGdRRmRHbW16Z3piZVVLT1NDNEZuMlpFTi1EUzVZaTBHckhHWGxBU3dSaXNvV0hPR2F2N3VpT2t3WW55ZVVMU0lJMVplbkZEUzJSNDV2UUdXdU1SZ3Rm?oc=5",
+      "date": "Sun, 08 Nov 2026 20:09:32 GMT"
+    },
     {
       "title": "一斉取り締まり 酒気帯び運転で１人 高速道路では車両通行帯違反で３人摘発 山梨 | 山梨のニュース | ＵＴＹテレビ山梨",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DeHdNSXd5QnF0OE9LSEp1SFdYZEY0Zy15bXZfdG0tRl9YRHkxY3BUVXZmYko4MEMtdEg5WkZzTTlrbzlfMjdqNkpUWmtiN1BJS1YtZlNmMFlJdw?oc=5",
@@ -78,11 +83,6 @@
       "title": "一斉取り締まり 飲酒運転で4人 その他の違反でも1人摘発 山梨",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2ektEZjZMX19CamJfODNtUGxGYVVwVWFlNlRMNUJzRFRObHJmWkhHOG16dXdiOTF1d0dzYjhrR0J2OUlxUEE3Rk9pYURYQy1hQ2E5bzNINA?oc=5",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "10月26日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTE1rdXpqeVBieHVCUU9fbDZpYklzbndKS0ZYbUxXUTJiZW5VZ1JPZi1IOTVNbUN2aUNtSHRyRkpHUGFjZ3RMR3RfV2dsTU01bDMwYUQ1LUpuSVI5V2xFZDRpM0FRbXozcXFHMmFR?oc=5",
-      "date": "Sun, 25 Oct 2026 20:04:23 GMT"
     },
     {
       "title": "飲酒運転取り締まり場所を公表 8月に実施予定の12か所 この他にも非公開の取締り 山梨県警",

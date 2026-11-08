@@ -1,78 +1,73 @@
 {
-  "generated_at": "2026-11-08T15:03:03.202700",
+  "generated_at": "2026-11-09T06:05:00.982761",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 11.5,
-    "temp_max": 11.8,
-    "temp_min": 10.0,
-    "precip_prob_max": 18,
-    "precip_sum": 0,
-    "wind_speed": 20.9,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 7.8,
+    "temp_max": 12.0,
+    "temp_min": 7.8,
+    "precip_prob_max": 67,
+    "precip_sum": 14.4,
+    "wind_speed": 9.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 18
+        "temp": 10.0,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 10.8,
+        "temp": 8.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 4
       },
       {
         "time": "06:00",
-        "temp": 11.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 7.8,
+        "weather": "強い霧雨",
+        "precip_prob": 61
       },
       {
         "time": "09:00",
-        "temp": 11.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 8.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
       },
       {
         "time": "12:00",
-        "temp": 11.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 9.1,
+        "weather": "霧雨",
+        "precip_prob": 35
       },
       {
         "time": "15:00",
-        "temp": 11.5,
+        "temp": 10.7,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 51
       },
       {
         "time": "18:00",
-        "temp": 11.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 10.9,
+        "weather": "曇り",
+        "precip_prob": 53
       },
       {
         "time": "21:00",
-        "temp": 11.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 12.0,
+        "weather": "雨",
+        "precip_prob": 57
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月8日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZkdvaHhUeGVIeUtGQ2ZtSUlVWGRtbjVrMlAyc2dpbXR3emRrcEM0M0hvMTNlTlduTDExX1puNmVFVTNQLWVWcGowLTdXcEp0SThVbnVOWTdQRGdSbkdjb3BIMHBLYk1hNW0wRTRDSdIBdEFVX3lxTE5JT2syVDNYbGZ6NEw3Rll5cnBObV95aWZWVGdseFZ3YXpod25DUENXOVJvVV9WSXFodm9MQUlWZ1VrSVRHLTMxT1ItWTNVV0xLN0VNOWZZaDZZZ18xR3VsSlVsZGhTM0VRVUtVdWRHRk5GanRf?oc=5",
-      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KMzhnNHpwcWJyZ1ByaTBVVVVuN19ITzJUYnNkNi1iRnpaTHF4R0gtNXJXR3Ryd0RQeGFnVk9JT1BZc29Mcm1lQVhibE1jYzV4LUdKZlNlWllLMjVSNF92d09NNFVIWm11M0l1Y0J3?oc=5",
-      "date": "Fri, 06 Nov 2026 20:04:23 GMT"
+      "title": "11月9日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZElaVGEwbW10UkpoUXVzZlFUZlJkeXZzSFJOUlRabnVsd3Qtd0Ria185TVJIOUZtU2M4bTNIcU95bkRndmJNRE9waTVONWNjUEU4SG8xVFlzME9YRXBSN3ZiNkFscWozYzh6U216Y9IBdEFVX3lxTE15cGJSaVdaMlBNeW4yQm5sMDJTMF81cGdRRmRHbW16Z3piZVVLT1NDNEZuMlpFTi1EUzVZaTBHckhHWGxBU3dSaXNvV0hPR2F2N3VpT2t3WW55ZVVMU0lJMVplbkZEUzJSNDV2UUdXdU1SZ3Rm?oc=5",
+      "date": "Sun, 08 Nov 2026 20:09:32 GMT"
     },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
@@ -80,14 +75,19 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
-      "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ea1dMdmNfUEp1SEN0QWVCS2t2RnNxNTdkUmZqTVptNTQ5N1RLNGlNSy1QdUtieWZxX1h1Z19uMGNyYXFaWjNlbWZDYzRlRjVoNUw2R3Q0MTlqdktUMi1QOG5icDk4TDAyMElpVVBrWdIBdEFVX3lxTE9oZEpPR3BBZVFyeWxWdlNJWjZtTEZpVUtabGxRb3dMU2tMTF9kcjVUM2ZicUFudFoxUWdoQWpnUmdHSEJ4ZzM0VllZWS1MT2JLYTd6bEVlNzRROEJKS0IxME9nMDlIUWJmSXY2ZDdWS1FHMTJr?oc=5",
-      "date": "Fri, 06 Nov 2026 20:02:00 GMT"
+      "title": "11月8日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZkdvaHhUeGVIeUtGQ2ZtSUlVWGRtbjVrMlAyc2dpbXR3emRrcEM0M0hvMTNlTlduTDExX1puNmVFVTNQLWVWcGowLTdXcEp0SThVbnVOWTdQRGdSbkdjb3BIMHBLYk1hNW0wRTRDSdIBdEFVX3lxTE5JT2syVDNYbGZ6NEw3Rll5cnBObV95aWZWVGdseFZ3YXpod25DUENXOVJvVV9WSXFodm9MQUlWZ1VrSVRHLTMxT1ItWTNVV0xLN0VNOWZZaDZZZ18xR3VsSlVsZGhTM0VRVUtVdWRHRk5GanRf?oc=5",
+      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "11月4日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbkhuR0REOHR1OEZWV3c3RlBkZW5uS3VpR1FnZi1CY1BPTmNweTY3MUlxaTRtRlkxTXktUXFzMm9jSE15U1ZFWkhMcTROV1hOYi1FQVNKcVk3NVVlekxMbmNjbEtlX1dWRnQ0UVR3?oc=5",
       "date": "Tue, 03 Nov 2026 20:11:15 GMT"
+    },
+    {
+      "title": "１１月７日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZlNNbGFZVkVqckRmYkVEQ3RWMmhHdlQxQzhzcjRKWF91a2xGU09wTDJtSFk2V240R21TZzRZRXpPTk5XR3hqdGVpcUlnQzNmWHBzRFN5YXgwcUtLV0staHRvOG9kbkFLVTgwNjNpdWRjUdIBd0FVX3lxTE9jQnVXd0xkcHlSdnVsVXVLblA4VHZnZ2pMTWdyZlJOLXlUbWZoMDAzOS1OQlIzSFBoYlhIQjUwbmE1blRYbThYMWszbEV5clBNR2xoYl8zakFrTXRaZ2IyU2hfbkpEdkpnT3pyQldscXZGYTJVa3NN?oc=5",
+      "date": "Fri, 06 Nov 2026 20:09:46 GMT"
     }
   ],
   "accident_news": [
@@ -102,19 +102,19 @@
       "date": "Thu, 05 Nov 2026 08:22:02 GMT"
     },
     {
-      "title": "【磐越道バス事故】高校生18人死傷から半年　生徒「ガードレールが車内を貫通する時の音が今でも頭から離れない」《新潟》",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXWXVJMExRSFROZWRrNG1MN3h1dGV3eFd6b19fQlFwcHNRbGhMRkxLZjRiOE13RnlsU3hLbmdlOXR6dXBIZUgyVHNCQnFYcVRQM2FtdEFCU1h6aXd6ZFU4ZnZ3dGlVdXlONERIOUQzTjllQl9LN3RWZFNGNlh3UdIBgwFBVV95cUxQdjVqZkVSRVJRT0FiSy1WaU1VYV81U1EzUHNDaDVIUElNZWdiWkJValFmTDM2YnY0YV9BRWJQWW1QY2xucFV0UDZWUGRkektSN00xeEVuYWZpN0lsQXhfTU9xdGVjNmhvNWw1OFNZQ3pkcFhfZ1Rqdmd5ZnN4cGxGaWhJZw?oc=5",
-      "date": "Fri, 06 Nov 2026 11:00:00 GMT"
+      "title": "【発令】交通死亡事故が相次ぎ「多発警報」 暑い時期の運転に注意《新潟》（2026年8月20日掲載）｜TeNY NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3RJMWxPS1pQTTZkYUR5eFlNalBYMS1tcHNKQjVxTjRuTFpQQnBpYzBuR1ZIckYzdmxQNXcwUTFVaXJINXFBOFFmM000bTUxdDlMX0pfMXpnV2IzSENFQ3VJbkp4TVFaLTdLLVhoZWMwc0xsdHZNdVFfRkhvcmJhNGVTNnNkOTdB?oc=5",
+      "date": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "【68歳男性が死亡】新潟県村上市桃川の市道で乗用車が車庫に衝突する事故",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1sT0oxU09BS285Z0lMT240X0hOb2FIeHVycXVfX1pfMkxqNnFmM1VGRlZiYy1Ub3pwT2ZhUVRLMWpXZl9s?oc=5",
-      "date": "Sun, 08 Nov 2026 01:20:11 GMT"
+      "title": "「本線上にバイクが倒れていた」 高速道で大型バイクに乗っていたとみられる男性が死亡した事故 新潟市西区の男性（22）の死因は多発外傷と判明《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZ2ljWkpjX2c2eW9ZVnFwUmZYYlRNdGhXck0xODdreGZucUplWXI0aWpSWHBMaDVrMEhMMkI0MFJPV3gySVhYREYySllOdkhGbEtVOERmNTdtLTY2M2FTSGZaeWwySjV2NTYtUTR4MWpiS1hON2R0SFd4VTN0emc?oc=5",
+      "date": "Thu, 05 Nov 2026 06:12:00 GMT"
     },
     {
-      "title": "関越道大型バイクによる死亡事故 死亡したのは新潟市西区の20代の男性と確認【新潟】",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13YlFyNVBISk5Mc0xGUEJfM1ZSN3pWTHlFdndZYlRuV3RBNXFJalJ6Q1l2Rm9wSnFRMnNpYWEwaXVFVnpjb2lybVdjQnM4M1YzWGxTb2p3TGw3dmVsMlMySXFqWnQxcVhhc0JaNjVhVkRZR3ZkTnAxZE9XbEpjWlk?oc=5",
-      "date": "Mon, 02 Nov 2026 05:03:01 GMT"
+      "title": "「歯医者にも行けない」男子中学生が死亡 救う手だては…電気・ガス止められ、自宅でテント暮らしの父子家庭",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tZ09Qbi1NWmR4NFRJVW5qMHVDYmxsSTFFNC1mRUxlNHp6aVBnSDFSeUk2d3RGS1E2Y3dTaHRWMnZyOGRqLWhRc2JucjRfWVprU0FMRDBnR3l3VnN0UGc?oc=5",
+      "date": "Sat, 07 Nov 2026 13:45:00 GMT"
     }
   ],
   "official_links": [

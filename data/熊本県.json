@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-11-08T15:05:12.285229",
+  "generated_at": "2026-11-09T06:06:42.396216",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 19.2,
-    "temp_max": 19.4,
-    "temp_min": 8.1,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 5.6,
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 13.9,
+    "temp_max": 18.6,
+    "temp_min": 13.1,
+    "precip_prob_max": 94,
+    "precip_sum": 15.1,
+    "wind_speed": 3.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 9.0,
-        "weather": "快晴",
+        "temp": 14.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 8.4,
-        "weather": "快晴",
+        "temp": 13.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 8.3,
-        "weather": "快晴",
+        "temp": 13.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 12.3,
+        "temp": 15.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 18.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 18.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
       },
       {
         "time": "15:00",
-        "temp": 19.2,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 16.6,
+        "weather": "曇り",
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 16.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 14.9,
+        "weather": "雨",
+        "precip_prob": 92
       },
       {
         "time": "21:00",
-        "temp": 14.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 13.5,
+        "weather": "弱い雨",
+        "precip_prob": 88
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反（RKK熊本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UM3B2VWE2bXhLeFVma2VzZndtUnNfd2dsMU9lM2k5UjRJRGxlMmQyaE5IaVpjRjVGSkd2Qjg0XzlDeU8xMWJ5NXFDd0dKNVdrQklqMjlmQTRSYUthcGlSNUxZN2pVUjBzR1JkUkhUaFpjS0ZHTHZPOFlmdDBTUmc?oc=5",
-      "date": "Sat, 07 Nov 2026 20:02:14 GMT"
-    },
-    {
       "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05cjh2eVZuMnd6amthcE5sNnMzUDRmWUZ5Z0hqcElEcVdjTU5HU2ZucnVqQ0I4QWNEXzVybFhBM1M2VjYtLTI1WUtyd3gwSlBFOS1YYkR4Y2RoNldjSjZLbXJSdko?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYWV5a25GVVpxTExkUWZPOWYxOUVNTmRETGtfUWxsTmZxc2lpZkU4UTZGMGhmR2NjMV9rMFZyem5nLTV1eGNXWGx6X2tybmpvZ0k5Zmkwa2h5dw?oc=5",
       "date": "Sat, 07 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反 (RKK熊本放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUJiWElTN0hqSnR4Ynd0czdKWUhYVzJMdWZuMmN5S1BrXzNMaXdzUlBLYmxKWkVDVmVoaTRuaTNrTC1ka3BnaUdpVkNTLTFwTFU3ekhqUWY5N05zS1MtNG1EQkt5NjQ0SE5fQVRrMHpSZWx3MkFCemZUQTlHa09xcGxBdmg3NHNJbFZ2Z3RR?oc=5",
-      "date": "Sat, 07 Nov 2026 20:37:07 GMT"
+      "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UM3B2VWE2bXhLeFVma2VzZndtUnNfd2dsMU9lM2k5UjRJRGxlMmQyaE5IaVpjRjVGSkd2Qjg0XzlDeU8xMWJ5NXFDd0dKNVdrQklqMjlmQTRSYUthcGlSNUxZN2pVUjBzR1JkUkhUaFpjS0ZHTHZPOFlmdDBTUmc?oc=5",
+      "date": "Sat, 07 Nov 2026 20:02:14 GMT"
     },
     {
       "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
@@ -85,9 +80,14 @@
       "date": "Fri, 06 Nov 2026 20:04:23 GMT"
     },
     {
-      "title": "11月1日（日）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMS1DTThFVll4dExNckRkMGFITkg3NkR4NE10NGw1bTdFUURTQXhCRHFWalZPdjNqYjYtNXVVUElXUWdJU3RfV2RheGRBZ1hrbjl2eFRKcE00UXhSWkl0SDkxMExDN1U?oc=5",
-      "date": "Sat, 31 Oct 2026 20:02:00 GMT"
+      "title": "盗んだバイクを無免許運転か 16歳の少年を逮捕 検問中の警察官が発見 熊本（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNko4ZmlBOUdOc2JtdlhvSEN1cnVSWDZEZUdIcGpRWjlQQVl3b3B5MU1pak5HMkhfaDV6aXJVMDVvRTZIaTRhbWsxMTZSc29Iakp3UTZURkhPS1dtSUJSc09vY3lnYy0yQWN4dDQ4TDNoa2p5OEU5cDF5dmV6SkE?oc=5",
+      "date": "Fri, 06 Nov 2026 03:02:14 GMT"
+    },
+    {
+      "title": "盗んだバイクを無免許運転か 16歳の少年を逮捕 検問中の警察官が発見 熊本",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zeHVmUTJwZjEwZHp1UE40ay1CWHFIQXNpd2VJTWVJbGdXMFNIS21RUnBHUXBrell1eUsxTVhxeWZZVUZicWtYbHhtT01IM3FGX2NKVlBRdw?oc=5",
+      "date": "Fri, 06 Nov 2026 03:01:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,19 +102,19 @@
       "date": "Fri, 06 Nov 2026 10:53:48 GMT"
     },
     {
+      "title": "熊本市電と乗用車が衝突 けが人なし（2026年11月6日掲載）｜KKT NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUJPSjh0OU9OcjkxVkgyeXIwd1FEbHk5cE9TanlhR1JhS3pRVFhGU0labUFISGd3VDlXamo3TFVNUTZXSmtDSExoWHhwOFF5am00UVREaUdFUDA0eWhLbnV3TlUzTlRyd3BBTWVQdUFYZENCNUpRSG8tcU5sVWI1YWJvMGYxbk0?oc=5",
+      "date": "Sat, 07 Nov 2026 02:17:01 GMT"
+    },
+    {
       "title": "熊本市議会・田上辰也議員 高校生との交通事故を警察に申告せず罰金20万円「名刺を渡した 警察に連絡する認識なかった」",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoUHdZNTA4UHFBQzdwQVNweFVRa1lKUzhCc1lNNnMwUFVubGdJTFhmY2diSnBTdERKX3psbm5ySTcyLVRkakpBRzZySUZ4bkM3Umx0VncxbjFoNlZHVWo4bXlHdXFzY28?oc=5",
-      "date": "Thu, 05 Nov 2026 10:01:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZaVJKU1JPS3prdmFhMU1na3dIdzAySDFkZFRjVHk0NUdHUVVGbVZfMGNCUkUxUVVkMjkxWDYyYUw5R0tHcXh3bVBhZkF2NmZBWkpYcEY1RlZUX1FUd1FPODNTWS1OeHctTzd1SERHWTk3bzB3UGI1SmNzNmhWWjA?oc=5",
+      "date": "Thu, 05 Nov 2026 10:02:14 GMT"
     },
     {
-      "title": "｢車の下敷きになり引きずられた｣軽自動車と原付が衝突 原付の60代男性が搬送 （2026年11月6日掲載）｜KKT NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXJEeXo2N254eEgydEJyUlNlc0szbEoxMk9PYnZBTDdrYk50VVBudEhvTWMxVmtoMXFsWUdEQTd0MEJQX0dxaGd2VUR3bWFadlNocFh0UzRqei16N3l4OWozM3FVenVkMU1kWHBYbDdWRTgtZUhNaTFnV3gxS3p2Tm1uR2VCOFk?oc=5",
-      "date": "Fri, 06 Nov 2026 10:57:01 GMT"
-    },
-    {
-      "title": "[TKUニュース 26.10.18 12:00 ] 交通事故防止へ ＪＡ共済 反射タスキ２万本を熊本県警に贈る",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51NjdhMlNPQ2p6Q2x4RVNJRUdZWlpweWhFZnZ3YVp1TEdoYmFCWHgtMXU4UWp0RkwyeVpmYVZUYWJTX3V4dFA4Szg2Ymdvc2prc2dxWHRkX3N2Wmo5ZzFRMHBPVQ?oc=5",
-      "date": "Sun, 18 Oct 2026 07:00:00 GMT"
+      "title": "[TKUニュース 26.10.19 12:00 ] ６キロの渋滞 九州自動車道下り菊水インター付近で複数台の車絡む事故【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MbGdJbzBIajAxX3lscG5ZazBLd3BTSWloX29rRE5BRHFob0V6S054a3pnX1hCLU9hWE9UajBTTjJrRUlSOTNhYnpTdVUwUm9mY0FMZ2Y5d3hqbTB3aDFjc3lBcw?oc=5",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
