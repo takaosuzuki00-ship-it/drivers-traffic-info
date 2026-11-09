@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-10T03:02:57.849732",
+  "generated_at": "2026-11-10T06:03:53.340157",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 10.1,
-    "temp_max": 10.9,
-    "temp_min": 9.3,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 9.5,
+    "temp_max": 10.4,
+    "temp_min": 9.4,
     "precip_prob_max": 92,
-    "precip_sum": 0,
-    "wind_speed": 23.4,
+    "precip_sum": 0.1,
+    "wind_speed": 24.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.9,
+        "temp": 10.4,
         "weather": "曇り",
         "precip_prob": 92
       },
       {
         "time": "03:00",
-        "temp": 10.1,
-        "weather": "曇り",
+        "temp": 10.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 31
       },
       {
@@ -34,41 +34,36 @@
       {
         "time": "09:00",
         "temp": 9.4,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "12:00",
-        "temp": 9.6,
+        "temp": 9.8,
         "weather": "晴れ時々曇",
         "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 9.6,
-        "weather": "晴れ時々曇",
+        "temp": 9.7,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 9.3,
+        "temp": 9.4,
         "weather": "晴れ時々曇",
         "precip_prob": 4
       },
       {
         "time": "21:00",
         "temp": 9.5,
-        "weather": "曇り",
+        "weather": "晴れ時々曇",
         "precip_prob": 25
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月8日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZkdvaHhUeGVIeUtGQ2ZtSUlVWGRtbjVrMlAyc2dpbXR3emRrcEM0M0hvMTNlTlduTDExX1puNmVFVTNQLWVWcGowLTdXcEp0SThVbnVOWTdQRGdSbkdjb3BIMHBLYk1hNW0wRTRDSdIBdEFVX3lxTE5JT2syVDNYbGZ6NEw3Rll5cnBObV95aWZWVGdseFZ3YXpod25DUENXOVJvVV9WSXFodm9MQUlWZ1VrSVRHLTMxT1ItWTNVV0xLN0VNOWZZaDZZZ18xR3VsSlVsZGhTM0VRVUtVdWRHRk5GanRf?oc=5",
-      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
-    },
     {
       "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KMzhnNHpwcWJyZ1ByaTBVVVVuN19ITzJUYnNkNi1iRnpaTHF4R0gtNXJXR3Ryd0RQeGFnVk9JT1BZc29Mcm1lQVhibE1jYzV4LUdKZlNlWllLMjVSNF92d09NNFVIWm11M0l1Y0J3?oc=5",
@@ -80,14 +75,19 @@
       "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
+      "title": "11月8日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aZkdvaHhUeGVIeUtGQ2ZtSUlVWGRtbjVrMlAyc2dpbXR3emRrcEM0M0hvMTNlTlduTDExX1puNmVFVTNQLWVWcGowLTdXcEp0SThVbnVOWTdQRGdSbkdjb3BIMHBLYk1hNW0wRTRDSdIBdEFVX3lxTE5JT2syVDNYbGZ6NEw3Rll5cnBObV95aWZWVGdseFZ3YXpod25DUENXOVJvVV9WSXFodm9MQUlWZ1VrSVRHLTMxT1ItWTNVV0xLN0VNOWZZaDZZZ18xR3VsSlVsZGhTM0VRVUtVdWRHRk5GanRf?oc=5",
+      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
+    },
+    {
       "title": "１１月７日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZlNNbGFZVkVqckRmYkVEQ3RWMmhHdlQxQzhzcjRKWF91a2xGU09wTDJtSFk2V240R21TZzRZRXpPTk5XR3hqdGVpcUlnQzNmWHBzRFN5YXgwcUtLV0staHRvOG9kbkFLVTgwNjNpdWRjUdIBd0FVX3lxTE9jQnVXd0xkcHlSdnVsVXVLblA4VHZnZ2pMTWdyZlJOLXlUbWZoMDAzOS1OQlIzSFBoYlhIQjUwbmE1blRYbThYMWszbEV5clBNR2xoYl8zakFrTXRaZ2IyU2hfbkpEdkpnT3pyQldscXZGYTJVa3NN?oc=5",
       "date": "Fri, 06 Nov 2026 20:09:46 GMT"
     },
     {
-      "title": "11月4日（水）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbkhuR0REOHR1OEZWV3c3RlBkZW5uS3VpR1FnZi1CY1BPTmNweTY3MUlxaTRtRlkxTXktUXFzMm9jSE15U1ZFWkhMcTROV1hOYi1FQVNKcVk3NVVlekxMbmNjbEtlX1dWRnQ0UVR3?oc=5",
-      "date": "Tue, 03 Nov 2026 20:11:15 GMT"
+      "title": "強盗致傷事件想定し情報収集、検問要請…県警が訓練 事件の初動対応強化図る",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LQm1QeVAwME9JWThoejRoWVZjZ0g0MFlKcWZ3MHRPTExHUVcwTExyTnN4MjVFNUJYY3VwS0RMZ195SEJtM0hlUlhWUQ?oc=5",
+      "date": "Sun, 08 Nov 2026 06:10:00 GMT"
     }
   ],
   "accident_news": [
