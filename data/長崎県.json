@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-09T21:04:41.579978",
+  "generated_at": "2026-11-10T00:05:29.303149",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 14.8,
-    "temp_max": 15.5,
-    "temp_min": 12.9,
-    "precip_prob_max": 93,
-    "precip_sum": 6.0,
-    "wind_speed": 5.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 14.2,
+    "temp_max": 18.7,
+    "temp_min": 13.0,
+    "precip_prob_max": 80,
+    "precip_sum": 0,
+    "wind_speed": 8.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 14.2,
+        "weather": "曇り",
+        "precip_prob": 80
       },
       {
         "time": "03:00",
-        "temp": 15.1,
-        "weather": "曇り",
-        "precip_prob": 10
+        "temp": 14.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 73
       },
       {
         "time": "06:00",
-        "temp": 13.5,
-        "weather": "弱い霧雨",
+        "temp": 14.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 20
       },
       {
         "time": "09:00",
-        "temp": 13.1,
-        "weather": "弱い雨",
-        "precip_prob": 84
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 10
       },
       {
         "time": "12:00",
-        "temp": 13.6,
-        "weather": "霧雨",
-        "precip_prob": 92
+        "temp": 18.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 13.6,
-        "weather": "曇り",
-        "precip_prob": 82
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 14.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 14.8,
-        "weather": "曇り",
-        "precip_prob": 84
+        "temp": 14.3,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },

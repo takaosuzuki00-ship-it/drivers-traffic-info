@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-09T21:04:56.430052",
+  "generated_at": "2026-11-10T00:05:44.695617",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 17.6,
-    "temp_max": 19.9,
-    "temp_min": 14.7,
-    "precip_prob_max": 92,
-    "precip_sum": 0.5,
-    "wind_speed": 12.1,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 15.1,
+    "temp_max": 18.9,
+    "temp_min": 13.3,
+    "precip_prob_max": 100,
+    "precip_sum": 5.0,
+    "wind_speed": 7.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 14.9,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 15.1,
+        "weather": "霧雨",
+        "precip_prob": 94
       },
       {
         "time": "03:00",
-        "temp": 15.0,
+        "temp": 14.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 14.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 90
+      },
+      {
+        "time": "09:00",
+        "temp": 15.5,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 18.3,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "15:00",
+        "temp": 18.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
-        "temp": 14.9,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 16.3,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 19.6,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 19.9,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
         "time": "18:00",
-        "temp": 19.1,
-        "weather": "曇り",
-        "precip_prob": 33
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 17.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 88
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
@@ -92,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "宮崎県都城市で死亡事故 自転車と一緒に倒れた７０代男性を発見",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUXR6QVJISkRfSmowVE9IQmJUeTNtWno1bkQxRm5Ldlh0Sk9qOG9RdTlRcmlWWnBQUTRTZjJsZ05rTFM4eGRMOXNwQ2U5dHAtdmp6ZWNXZi1aemVSQ3ZuR0ZnYlJJZ0E?oc=5",
-      "date": "Sun, 25 Oct 2026 07:00:00 GMT"
+      "title": "えびの市で歩行者の男性(88)が乗用車にはねられ死亡 運転の男を過失運転傷害の疑いで現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53S3ZiSG5yWmZWUURQSEFFN1lVemdtTjJJWFZIbnh6OG55VUFKMXFJZ2llQ1VOeWc2b1hqQWtvVFgyTWNIQUJDT3NzTW1ZMXdRZElJNmVCNlNyZw?oc=5",
+      "date": "Mon, 09 Nov 2026 03:08:00 GMT"
     },
     {
       "title": "宮崎市の交差点で軽乗用車と原付バイクが衝突、バイクの71歳男性が死亡",
@@ -107,14 +107,14 @@
       "date": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "宮崎県都城市で死亡事故 自転車と一緒に倒れた７０代男性を発見",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUXR6QVJISkRfSmowVE9IQmJUeTNtWno1bkQxRm5Ldlh0Sk9qOG9RdTlRcmlWWnBQUTRTZjJsZ05rTFM4eGRMOXNwQ2U5dHAtdmp6ZWNXZi1aemVSQ3ZuR0ZnYlJJZ0E?oc=5",
+      "date": "Sun, 25 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "追突される交通事故が発生…宮崎が報告「通りかかったファミリーの皆様から、多くのお気遣いとご支援をいただきました」",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16dUZlSTVWVHBmaDNLZDNfOHRLUVluNXN0emZFLVQ4WndwYTkzMFBGVHFvMGtSZ0x2UnROYk5Kak9NRXA4YXBwR0ZQVE43SHA5Rk14VzFIRmItRklHXzNYZEdQbVlqajlQWHN1QUtB?oc=5",
       "date": "Sun, 13 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "えびの市で歩行者の男性(88)が乗用車にはねられ死亡 運転の男を過失運転傷害の疑いで現行犯逮捕",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53S3ZiSG5yWmZWUURQSEFFN1lVemdtTjJJWFZIbnh6OG55VUFKMXFJZ2llQ1VOeWc2b1hqQWtvVFgyTWNIQUJDT3NzTW1ZMXdRZElJNmVCNlNyZw?oc=5",
-      "date": "Mon, 09 Nov 2026 03:08:00 GMT"
     }
   ],
   "official_links": [
