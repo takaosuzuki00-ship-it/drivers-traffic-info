@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-09T18:04:32.132740",
+  "generated_at": "2026-11-09T21:03:55.957749",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 14.2,
-    "temp_max": 15.8,
+    "temp_now": 12.1,
+    "temp_max": 15.9,
     "temp_min": 10.3,
-    "precip_prob_max": 99,
-    "precip_sum": 3.2,
-    "wind_speed": 2.6,
+    "precip_prob_max": 100,
+    "precip_sum": 17.1,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 15.3,
         "weather": "晴れ",
-        "precip_prob": 10
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 15.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 37
+        "temp": 14.0,
+        "weather": "曇り",
+        "precip_prob": 24
       },
       {
         "time": "18:00",
-        "temp": 14.2,
+        "temp": 12.8,
         "weather": "曇り",
-        "precip_prob": 86
+        "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 12.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 96
+        "temp": 12.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
       }
     ]
   },

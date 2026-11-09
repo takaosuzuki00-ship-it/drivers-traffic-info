@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-09T18:04:20.112601",
+  "generated_at": "2026-11-09T21:03:40.919240",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
   "weather": {
     "code": 55,
     "weather": "強い霧雨",
-    "temp_now": 13.1,
+    "temp_now": 13.2,
     "temp_max": 13.8,
     "temp_min": 12.5,
-    "precip_prob_max": 39,
-    "precip_sum": 3.4,
-    "wind_speed": 4.7,
+    "precip_prob_max": 83,
+    "precip_sum": 3.9,
+    "wind_speed": 6.2,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 13.2,
         "weather": "霧雨",
-        "precip_prob": 10
+        "precip_prob": 27
       },
       {
         "time": "15:00",
-        "temp": 13.5,
+        "temp": 13.1,
         "weather": "強い霧雨",
-        "precip_prob": 39
+        "precip_prob": 76
       },
       {
         "time": "18:00",
         "temp": 13.1,
         "weather": "曇り",
-        "precip_prob": 25
+        "precip_prob": 78
       },
       {
         "time": "21:00",
-        "temp": 13.0,
+        "temp": 13.2,
         "weather": "曇り",
-        "precip_prob": 29
+        "precip_prob": 27
       }
     ]
   },
@@ -85,12 +85,22 @@
       "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "解除の夜ですが…「飲んだら乗るな」 兵庫県警、飲酒運転警戒へ検問強化",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTVKcU1mNmttRjhNdkhINmZMR2NrdE9KODJDWlVEWnZvTmhfa3BXNVJPS1V4OWN3X3JmS1NCbnJzVmFqR1RFVjRiTU5NVjB3X28xTDNhbEsza2tLTGpSdE95QlZZWHpTSEJwajR3?oc=5",
-      "date": "Fri, 01 Oct 2021 07:00:00 GMT"
+      "title": "「まん延防止」解除で飲酒運転増えた 取り締まり強化へ大規模検問 兵庫県警",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vRnFJTWloaTBMTTc1WWE5SndCZHliWE5Ec2c2VGx3MWNhNEFMbUM2NjFxek84Tk5XUzVMcENuZVY5T04yN3RfX1IzM2d5YXJFcHBCRUxscUlxV1NIb0xnVl9VRFo5MDRKd3RncDVR?oc=5",
+      "date": "Sat, 25 Jun 2022 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "大型バイク転倒、運転していた63歳の住職男性死亡 友人らとツーリング中 兵庫県相生市（神戸新聞NEXT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZTTlncFBqWldTc1B3V28tcko2eTVvWWxrc2c3NkdleXlYekhNVTdPanRoMzk2NHRkV3RmeTgxMTNRd3dBVi1DZ180NWpWWkhvM25aT01ybW45SjBxblJqWFQzSWdYY1RRZTVxZU5HRi13NmRSeVJOOUlKUWNodGc?oc=5",
+      "date": "Sun, 08 Nov 2026 13:58:26 GMT"
+    },
+    {
+      "title": "令和8年度夏の交通事故防止運動",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQOENQLU1kTjNLdDBnU3N4RW5hV3locndLUzlwNFNSelN0SjBRUlhuY3VzSkZDZjNOVFNrRXZiWDVNeldFV3hVaUttaFRPOWlaektFTXpiOElpTVk?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    },
     {
       "title": "軽乗用車とバイクが衝突、バイク運転の男性が死亡 神戸・西区の県道交差点|交通事故",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkRUxpUzlmSVJaMWVDS2NWQ2FjRjQ2RmszcGtqU3lOcEdRZy1lTC13cjBvaFdGWl8yQjlKS29LSTlDN3lFNFE1cjJYeUZiaGo1a19XS3k1VExvODEzcFlyMDN5bWVWMDEzR2ttSVI5dFEyMUprVzl0eWJ6bw?oc=5",
@@ -102,19 +112,9 @@
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "介護タクシーとバイクが衝突、バイクの20代男性が死亡 西宮の県道交差点|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSN3FhYWZkMmxCNzJHbHRsUF9LaVlpT1AxbWtYMDFKZk5tLWM2QURXQTh2Vkdfa3FwWnNzWXNVdnZRVDJXaUdnM0RzazZTbTE5cjNLc255SFJmMkZXRnNJMGxpeWg5S1BDMXppV1lBSy04bU9JdG5hMVNTOA?oc=5",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "令和8年度夏の交通事故防止運動",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQOENQLU1kTjNLdDBnU3N4RW5hV3locndLUzlwNFNSelN0SjBRUlhuY3VzSkZDZjNOVFNrRXZiWDVNeldFV3hVaUttaFRPOWlaektFTXpiOElpTVk?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "大型バイク転倒、運転していた63歳の住職男性死亡 友人らとツーリング中 相生市|交通事故",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBodUxQbGF0ZzB4R2tRQXhKVmJETHlRYklqckZ1ajlhRkdWckFkSGV3SEFSU2N0WXNlQ2QxSTkzTUJlZTY0R19Iek9aV0xoWTk2Q1dwaVdRWGhybE1XdU5nc1hDQ2JRNTlVcy0yeGtGS1NvSE9RZlBKaEtVdw?oc=5",
-      "date": "Sun, 08 Nov 2026 13:28:22 GMT"
+      "title": "西宮で民家火災 年齢、性別不明の1人死亡 住人の男性と連絡取れず|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EeF9CLUJRZDQtMk5yYlVDQS1hald4S1YxVVdySFRfbVJuWXFkWDdJV2JHR3dKVWpiVnR2TFlzSG9fbkRRS0tPS2VQa0VoYXNNY205NVczTmFjMHFndFJMWXV3OG5JSFVZTkFZ?oc=5",
+      "date": "Sun, 08 Nov 2026 22:56:57 GMT"
     }
   ],
   "official_links": [
