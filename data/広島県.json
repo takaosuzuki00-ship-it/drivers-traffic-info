@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-10T00:04:48.967827",
+  "generated_at": "2026-11-10T03:04:04.127110",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
+    "code": 61,
+    "weather": "弱い雨",
     "temp_now": 11.6,
-    "temp_max": 16.6,
-    "temp_min": 9.6,
+    "temp_max": 16.0,
+    "temp_min": 9.5,
     "precip_prob_max": 100,
-    "precip_sum": 3.4,
-    "wind_speed": 8.8,
+    "precip_sum": 5.4,
+    "wind_speed": 9.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.6,
-        "weather": "強い霧雨",
+        "temp": 11.5,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
@@ -27,37 +27,37 @@
       },
       {
         "time": "06:00",
-        "temp": 12.0,
-        "weather": "晴れ",
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 61
       },
       {
         "time": "09:00",
-        "temp": 13.6,
+        "temp": 13.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 16.2,
+        "temp": 15.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 16.3,
-        "weather": "晴れ",
+        "temp": 15.9,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 13.5,
+        "temp": 13.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 10.9,
+        "temp": 10.8,
         "weather": "快晴",
         "precip_prob": 0
       }
