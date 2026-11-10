@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-10T21:05:48.003525",
+  "generated_at": "2026-11-11T00:04:13.195643",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 15.8,
-    "temp_max": 18.9,
-    "temp_min": 13.5,
-    "precip_prob_max": 100,
-    "precip_sum": 9.6,
-    "wind_speed": 10.5,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 13.3,
+    "temp_max": 18.3,
+    "temp_min": 11.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 8.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.8,
-        "weather": "霧雨",
-        "precip_prob": 98
+        "temp": 13.3,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.6,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "06:00",
-        "temp": 14.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 16.4,
-        "weather": "快晴",
-        "precip_prob": 24
-      },
-      {
-        "time": "12:00",
-        "temp": 18.7,
+        "temp": 11.7,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
-        "time": "15:00",
-        "temp": 18.9,
+        "time": "06:00",
+        "temp": 11.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.0,
         "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 17.7,
-        "weather": "快晴",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 15.8,
-        "weather": "快晴",
+        "temp": 15.5,
+        "weather": "晴れ",
         "precip_prob": 0
       }
     ]

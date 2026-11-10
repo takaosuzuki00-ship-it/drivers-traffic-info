@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-11-10T21:04:54.891098",
+  "generated_at": "2026-11-11T00:03:51.644148",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 12.2,
-    "temp_max": 16.3,
-    "temp_min": 11.1,
-    "precip_prob_max": 100,
-    "precip_sum": 10.0,
-    "wind_speed": 8.5,
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 11.0,
+    "temp_max": 17.0,
+    "temp_min": 9.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 7.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 82
+        "temp": 11.0,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 12.2,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 9.6,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 12.8,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 9.1,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 14.0,
-        "weather": "晴れ",
-        "precip_prob": 67
+        "temp": 12.5,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.8,
-        "weather": "晴れ",
+        "temp": 16.6,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 15.7,
+        "temp": 16.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 13.8,
+        "temp": 14.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 12.2,
+        "temp": 13.0,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "１１月１０日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wbm5BZDRyVkxKaVEtUE1TakdvOGNTcDU1cmtYX3J3eWgyOU8tbWJqUUN4SWtvRGxoOTlLczBvRm9wWW1mZVRlMnd5Sm1lM0N0X2NMaS1lZGdqbzA?oc=5",
-      "date": "Mon, 09 Nov 2026 20:00:00 GMT"
-    },
     {
       "title": "相次ぐ交通死亡事故 愛媛県警、可搬式オービスで取り締まり強化",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MWmZJVWRmamlYMWIzU3FUOWdvd1RsVGpXLW1aRk54UThJUkJoXzFiLXBHQkV1YU1aVmJoa0gwMC1ETmV5elMwU05GYUkxUER1WUdNSWZ2X2tnclRhUkh3UA?oc=5",
@@ -80,14 +75,19 @@
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
-      "title": "可搬式オービスで速度違反取り締まり 新居浜署が注意喚起 [愛媛県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wYVp0VVF3cHFDQWUzb0VqdlhfMW5mQVZRSWYxYmhJNnZoV2VGZ1ZsMU12eUNEeDRIRDJsZWdOQWozOXJkSWVoZEVMT0hnRDdtMGZYTlF3bjkxOTNZbXhVOHRoYl9nTkU?oc=5",
-      "date": "Wed, 28 May 2025 07:00:00 GMT"
-    },
-    {
       "title": "松山市内９カ所で大型飲酒検問、酒気帯び２件摘発 県警本部など",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdVZQLWhwTmlQVnhLZDltWkhuTTlXQk9kbWQ3MC1RSlJvdTdLRDJsT0ZCMnRPZUJhbFczWWRHWW9XcmFQQ0RNUFh1R1ZtaDhiMzk3SVo3OXRBMmd1ZEZLQw?oc=5",
       "date": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "酒酔い運転の「数値基準」導入を受け大規模飲酒検問 酒気帯び運転で2人摘発",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abkJjV1Z2NHV1cW1WZmtrVC1RMlFMX3NLWFlpN3hLQUVrWUxBRHJ2Y3FreXowMUtnYTJlRFRRbTFldlYzWWZuc2dUMHZOOFM5ZE5WdUthelhHWkJqd1ZVTk5zS1ZTNXM?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「酒酔い運転」アルコール濃度・呼気1リットル当たり0.5ミリグラム以上に明確化 改正道交法施行にあわせ大規模飲酒検問【愛媛】",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWtkMXQwVzNmZ3o3RG1ENS00Q090Tm5lbEtRekRMaTlER0M5TnN0eHA1MTh4a0JKclZKczVGUGxzVW9PN0VUQTJ0Qjd0YzdMRkFzRWt0eWl0NjYxMWpPZWNUMm94bkJsaTEzUkJOWk1QVVJ0S3puM1ZGLVZRLTZqcldDR3Q2OVU?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -103,18 +103,13 @@
     },
     {
       "title": "国道横断中の自転車とトラックが衝突 自転車の高齢男性死亡【愛媛・松山市】（2026年11月9日掲載）｜南海放送NEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1BMemt0S3hxX1BKWHNOUmhaY1ZXSjBQZG5xbnIyQnRZMHU0dkxPd3YyNWlyZF91dmVuTFhDQWdvNjVSWE5vQk83NWFXVThNUldqRnFVWTR0N3FHV3dKcnhXMXVhc2cwZ0ptWll0MGd6S2x0SWpLOEMzOXBDX1BkZUtMbnFJdWs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWXV5LWQxSG9XaFpoWVdTRlVWWEl2Uk5KaHJoR29DX2NmMkwweGpneTZoVkFsYVVnY09TWk84bkUtcjZYYjg4ckF0YkUzTm1kVlNfMGhiSkFOTnRIUGdYSmxOMTRSZUU0TkJhTlR5OGJ4S0x4dDlVOElVRVJwT0E?oc=5",
       "date": "Tue, 10 Nov 2026 06:35:01 GMT"
     },
     {
       "title": "愛媛県四国中央市：パラグライダーが墜落し女性死亡、初心者向けイベントに参加…単独飛行に挑戦中",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XU0xtMmRjbmhZM01JazQzN2NhZnRYcklUcDljOGxJTTZwVUhWYUItMkNhTGc0Z1VpWmVNNFRJV2p1Z2hYUEUwRzNGWnJ2cVRwWFBOVUNDa1hyTG5hQ2RIMTg0VnJrZw?oc=5",
       "date": "Sun, 08 Nov 2026 11:58:00 GMT"
-    },
-    {
-      "title": "パラグライダー墜落し参加者が死亡 初心者向けイベントで 愛媛・四国中央",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaT0o3N05hSE1CRU5lSlpoYVEzTUI2UHYtOVdJa3o1TkItSjNsSEl5SzhlOER1YXcyWVZoWG52VHRGaDlqbnAwdF9sUksyZm4zR0tyUE55dDMyV3Z4amRXMjhDN2R6N25oN1haWDJScEZ5ZVZXQXc?oc=5",
-      "date": "Sun, 08 Nov 2026 14:55:50 GMT"
     }
   ],
   "official_links": [

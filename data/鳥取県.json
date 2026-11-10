@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-10T21:04:20.518648",
+  "generated_at": "2026-11-11T00:03:22.454761",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 11.1,
-    "temp_max": 13.3,
-    "temp_min": 9.0,
-    "precip_prob_max": 100,
-    "precip_sum": 6.7,
-    "wind_speed": 4.3,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 8.5,
+    "temp_max": 17.5,
+    "temp_min": 8.3,
+    "precip_prob_max": 6,
+    "precip_sum": 0,
+    "wind_speed": 5.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 8.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 11.3,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 8.3,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 11.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 98
+        "temp": 8.5,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 13.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 39
-      },
-      {
-        "time": "12:00",
-        "temp": 12.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
-      },
-      {
-        "time": "15:00",
-        "temp": 12.6,
+        "temp": 12.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "12:00",
+        "temp": 16.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
         "time": "18:00",
-        "temp": 12.0,
+        "temp": 15.2,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 11.1,
+        "temp": 13.6,
         "weather": "晴れ",
         "precip_prob": 0
       }
