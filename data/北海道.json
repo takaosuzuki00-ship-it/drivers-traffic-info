@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-11T09:01:12.356862",
+  "generated_at": "2026-11-11T12:01:32.386594",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 45,
-    "weather": "霧",
-    "temp_now": 0.6,
-    "temp_max": 5.1,
-    "temp_min": -4.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 4.4,
+    "temp_max": 4.9,
+    "temp_min": -4.1,
     "precip_prob_max": 16,
     "precip_sum": 0,
-    "wind_speed": 5.0,
+    "wind_speed": 6.2,
     "hourly": [
       {
         "time": "00:00",
@@ -21,13 +21,13 @@
       },
       {
         "time": "03:00",
-        "temp": -3.5,
-        "weather": "霧",
+        "temp": -2.9,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": -3.7,
+        "temp": -3.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
@@ -39,26 +39,26 @@
       },
       {
         "time": "12:00",
-        "temp": 4.5,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 4.7,
+        "temp": 4.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "15:00",
+        "temp": 4.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "18:00",
-        "temp": -0.2,
+        "temp": -0.5,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": -2.4,
-        "weather": "曇り",
+        "temp": -2.2,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
