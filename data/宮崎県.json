@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-11-13T03:04:31.198154",
+  "generated_at": "2026-11-13T06:04:44.707736",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.7,
+    "temp_max": 20.6,
+    "temp_min": 15.7,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 15.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 16.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.6,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 19.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "自転車”青切符”取り締まり開始を前に 宮崎県警で自転車安全指導取締隊の出発式 飲酒運転はどうなる?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95Sk1fcV9MX3FZcUtFR3ZXdVZ5ekxQdkJsekxBRGVPbW5yLUZOUGdHN3JFeFFUUnR6ZmhsZ0RSZlR6VnI2czd3bWpCV20wc0IxNHhudzU5NlJrbkJjOVUtb1VlWURvY00?oc=5",
       "date": "Tue, 10 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "11月12日（木）【熊本県 交通取締情報 午前・午後・夜間】交差点違反など",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTRWdUWnpYU0RuOG1MclFfQjc1OFN1SFZ2MG52RDgtSl9Na1pWYWYwNmRkSE40cndkUjZiUERHUWpTajVobW5Ga0RiVXRJb01xNkcyWWtCOWRBaUZJRFBLYzNBejcyLXlERTg2RTFxNNIBdEFVX3lxTE9wd0p2elFxQUZUVlpaRnNsRU1nZk43M0hQdzZnS2JOZVZkRzR2aUlLajlQeEtPZXUyT2IxWmZMdjBJQ0UtNXA2SlNlQnYtV3RmUi1TeVdsdXdIUUJfbUpfVDlySUVQODlHdFVNX3lnNmlSOHJl?oc=5",
-      "date": "Wed, 11 Nov 2026 20:02:00 GMT"
     },
     {
       "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問",
