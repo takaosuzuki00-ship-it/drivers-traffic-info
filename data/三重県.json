@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-11-12T21:05:22.311605",
+  "generated_at": "2026-11-13T00:05:31.834631",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 13.0,
-    "temp_max": 16.3,
-    "temp_min": 8.6,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 6.9,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 11.5,
+    "temp_max": 17.4,
+    "temp_min": 11.0,
+    "precip_prob_max": 31,
+    "precip_sum": 2.6,
+    "wind_speed": 6.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.6,
+        "temp": 11.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 9.5,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 8.6,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 12.5,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 15.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 16.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 15.0,
+        "temp": 11.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "06:00",
+        "temp": 11.0,
+        "weather": "強い霧雨",
+        "precip_prob": 25
+      },
+      {
+        "time": "09:00",
+        "temp": 12.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 29
+      },
+      {
+        "time": "12:00",
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 17.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "21:00",
-        "temp": 13.0,
+        "temp": 13.4,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ea1dMdmNfUEp1SEN0QWVCS2t2RnNxNTdkUmZqTVptNTQ5N1RLNGlNSy1QdUtieWZxX1h1Z19uMGNyYXFaWjNlbWZDYzRlRjVoNUw2R3Q0MTlqdktUMi1QOG5icDk4TDAyMElpVVBrWdIBdEFVX3lxTE9oZEpPR3BBZVFyeWxWdlNJWjZtTEZpVUtabGxRb3dMU2tMTF9kcjVUM2ZicUFudFoxUWdoQWpnUmdHSEJ4ZzM0VllZWS1MT2JLYTd6bEVlNzRROEJKS0IxME9nMDlIUWJmSXY2ZDdWS1FHMTJr?oc=5",
-      "date": "Fri, 06 Nov 2026 20:02:00 GMT"
-    },
     {
       "title": "11月9日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZElaVGEwbW10UkpoUXVzZlFUZlJkeXZzSFJOUlRabnVsd3Qtd0Ria185TVJIOUZtU2M4bTNIcU95bkRndmJNRE9waTVONWNjUEU4SG8xVFlzME9YRXBSN3ZiNkFscWozYzh6U216Y9IBdEFVX3lxTE15cGJSaVdaMlBNeW4yQm5sMDJTMF81cGdRRmRHbW16Z3piZVVLT1NDNEZuMlpFTi1EUzVZaTBHckhHWGxBU3dSaXNvV0hPR2F2N3VpT2t3WW55ZVVMU0lJMVplbkZEUzJSNDV2UUdXdU1SZ3Rm?oc=5",
@@ -88,6 +83,11 @@
       "title": "１１月３日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4R0I3Z2xCamZfM2syYnBYRlh0NVFiN01ZYUMwWmxWVGhrYnVpNHFabXEwY1NsQlAxZlpQc3A5VkE5V0stQ3MxTmFFT3FlMzZRWUhmeXRadjBzcHVYalZXUWhybHp2ZmdrRVRWVEVqS0Jrd9IBd0FVX3lxTE1ZbjFodGx2anpGRUtkTnJCcHFwUXlBeWZUSVdHMjZ1WlZ2WXRlSE9Uc2k4NDVwbEhfek12X2ZuT3lKUzNmQlJaOGJqSXFNR2gzdEFoME9EYndSV0M4bnRIU0tUbndrT0pPU0VDS1FrUjlIZVBUaUJn?oc=5",
       "date": "Mon, 02 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "警察「空から取締りします！」 三重県警がヘリ連携の「スカイアイ取締り」を実施へ 鈴鹿PAで啓発イベントも！ 新東名で、4月7日に（くるまのニュース） | 自動車情報・ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFBMdFVHd2JUcERRbGVTT2YxM0pmV3NhSzRUUXhaTWxEbnFvUGM5N2ZPekxRVG1hSHVqbDcyUWY1LWFtZGctQnRzUzc1R2VpTklNTDZtSGVXenNkSzRfV1p2TG55Y2E5SmFBaklkTXhzdW1hNHgzMmpIUWZuWHd3bHVYbUJUVnZC?oc=5",
+      "date": "Sat, 04 Apr 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
