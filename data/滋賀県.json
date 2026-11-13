@@ -1,68 +1,9 @@
 {
-  "generated_at": "2026-11-13T09:02:45.564681",
+  "generated_at": "2026-11-13T12:07:50.876569",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
-  "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 14.9,
-    "temp_max": 19.7,
-    "temp_min": 12.3,
-    "precip_prob_max": 25,
-    "precip_sum": 0,
-    "wind_speed": 6.7,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 12.6,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 12.4,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
-      },
-      {
-        "time": "06:00",
-        "temp": 12.8,
-        "weather": "晴れ",
-        "precip_prob": 8
-      },
-      {
-        "time": "09:00",
-        "temp": 14.9,
-        "weather": "晴れ",
-        "precip_prob": 4
-      },
-      {
-        "time": "12:00",
-        "temp": 17.8,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 19.6,
-        "weather": "快晴",
-        "precip_prob": 25
-      },
-      {
-        "time": "18:00",
-        "temp": 16.8,
-        "weather": "晴れ",
-        "precip_prob": 4
-      },
-      {
-        "time": "21:00",
-        "temp": 15.3,
-        "weather": "晴れ",
-        "precip_prob": 0
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
       "title": "11月12日（木）【熊本県 交通取締情報 午前・午後・夜間】交差点違反など",
@@ -70,24 +11,24 @@
       "date": "Wed, 11 Nov 2026 20:02:00 GMT"
     },
     {
+      "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "11月9日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZElaVGEwbW10UkpoUXVzZlFUZlJkeXZzSFJOUlRabnVsd3Qtd0Ria185TVJIOUZtU2M4bTNIcU95bkRndmJNRE9waTVONWNjUEU4SG8xVFlzME9YRXBSN3ZiNkFscWozYzh6U216Y9IBdEFVX3lxTE15cGJSaVdaMlBNeW4yQm5sMDJTMF81cGdRRmRHbW16Z3piZVVLT1NDNEZuMlpFTi1EUzVZaTBHckhHWGxBU3dSaXNvV0hPR2F2N3VpT2t3WW55ZVVMU0lJMVplbkZEUzJSNDV2UUdXdU1SZ3Rm?oc=5",
       "date": "Sun, 08 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "１１月８日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ST0FMcnlaTTA0VHZXMFN5X0txdUltYkN4TF9IUENpSmIzVUM2ODlmaWJEeHZpWUxrQkRwcGhqV3d2STQ2cjBLQnFub3lmbmJTanh1TEV2V1V6eFdQTGMtaGRCajRFQXpqeG8zS0hKYWp6QdIBd0FVX3lxTE4xZy1YTmtxdi1tT2VydVpTS0JFQ3Y0bU9BLXdaYjFpTlhOZzhKV01zX243cHVBT0txMnNKaXozZ0xidzdNNFB5aWs3RGZqYmtJcHJIMXdIaUNDMkkxRjRiOHU5YUd2VXNHUkRfRWJXemk5TWpfSmE0?oc=5",
-      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "１１月６日（金）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TUGdqOFJQYWhHdlZrRWE3ejhkdTVuUll2UGFHbnU4c1FucnNmWm5CbHFNTUVuWGFzZGFLZmM1Z2tlSUNoQ1ZGSWc5LVZ4WjNldDBiUDh3REZ5WjJ0Rk5uRlB2d3U1d3FWeUNkWGVsM09XQdIBd0FVX3lxTE1wc3g5RXJGdjh2Ym1kSXkyUEgxekp6STVaYzlvejJNZkV0WEUyUXBwY0hDcXJHelNPNHc3YzI2TjRvSWRGamxUUldRUjltQmUtN0U3MElIU2ZaNlNQZnNRSHh5eEdLQWZrYXh2QUttYlZITGwyQ2g4?oc=5",
-      "date": "Thu, 05 Nov 2026 20:00:00 GMT"
-    },
-    {
       "title": "検問や警戒活動など「一掃大作戦」奏功か 滋賀・大津署管内 昨年の飲酒人身事故が大幅減",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rd2JUSUtEZWNlMGgzdGdfYzN6aHpTbnhyejU3SW9hZUFlQXJaZXZhTk1Rb0cyWENnaE95bmNuTEUtQ1BXMmIwcEdPOWFTT2Z5TlU5bUNTOW1TT1ZZczNhS0ZILVlyVWN3VmVaNnZCemZ3Z3Z6VXc?oc=5",
       "date": "Thu, 05 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転取り締まり、初の昼検問 県警、千葉の児童死傷事故受け",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TQW9EV0xMZWFWaEdIWGhEQ2loazZSOXFsRndSUW5RS0xCTDg2Rm5PNVQ0OGhRTktBQm5FZDJMNEVvVmFpeVVvTEhGN3llMm00XzB3?oc=5",
+      "date": "Sat, 25 Sep 2021 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,19 +38,19 @@
       "date": "Wed, 11 Nov 2026 08:34:00 GMT"
     },
     {
-      "title": "トレーラーと中型トラックが正面衝突「トレーラーが大破…運転手が見えない」トレーラー運転の男性が死亡 滋賀・野洲市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2RXJ4RTkxWVduV0FteV9nTnRvdHFndTVmak95eHdVV0FZUk5GVlpqWi1ETndDeTV6OUlnQlhkc0wwdV9MLVhmMDViS3VzVlJUNEdMU1plbDFlSHhMWm03WHZBWDh3cmRnVy1KUXJjRGVZLUlEZ1YtcEtoaDVORFk?oc=5",
-      "date": "Mon, 09 Nov 2026 03:04:45 GMT"
-    },
-    {
-      "title": "トレーラーと中型トラックが正面衝突「トレーラーが大破…運転手が見えない」トレーラー運転の男性が死亡 滋賀・野洲市",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGUXFBZ3prVE9sZ2UxeUF2MjhFa3BwRkFfQ1Jpa3J1azlVdlBDcDlBc3ZvRENrQXd5MklWOFRIeThPYTNRR3NLbVJ4MFFYZjdyeERWSzlpc0lZcHJ2N2Fzc1AzdlVXVG8?oc=5",
-      "date": "Mon, 09 Nov 2026 03:06:00 GMT"
-    },
-    {
       "title": "9月10日【びわ湖放送ニュース】”交通事故のない滋賀”を目指して県交通安全推進大会",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rVEtDc0Z4Zzl3RFVxSWtYNUIzZmhEamI5MHVUNXF1aHBnT1UtcXp6NmwwaEcxZmJVQkdHdENDYndxUHM2aVVkMWtHa3FuQQ?oc=5",
       "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jNTZRYmtYeGRsQWxSRXhLcWZSbGZfa25wUUZiV2ZhaHo3T2tyNUNLT00teGYybWhFcDN4RkFKVHRhRDdyRjd1ZDBHV1VLcjlLVFEwaFEtSDFnanNVc0Y5MmV6eFAxWVI1Mjc1QWlyTV9pVTU1QU4zVg?oc=5",
+      "date": "Fri, 25 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "滋賀県で「ロードキル」が集中する「魔の国道」 大型動物とぶつかれば重大事故の恐れ、国が注意喚起",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95LWhuWEFlbU1aMmYtWXpzUzljaklLUUpWQ0lvbFV0NTNCZ1NPVkRMSS1ibUVXdGdsbHA0emYtQ3pEZ1BJQnUzU3NWU1JUeEJOMHVlN2h4akc?oc=5",
+      "date": "Tue, 10 Nov 2026 20:05:00 GMT"
     },
     {
       "title": "「トレーラーが大破」…トレーラーと中型トラックが正面衝突 トレーラーの運転手が死亡 滋賀・野洲市",

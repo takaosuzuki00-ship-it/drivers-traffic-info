@@ -1,73 +1,14 @@
 {
-  "generated_at": "2026-11-13T09:02:27.966390",
+  "generated_at": "2026-11-13T12:06:16.703736",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 14.1,
-    "temp_max": 21.0,
-    "temp_min": 10.9,
-    "precip_prob_max": 45,
-    "precip_sum": 0,
-    "wind_speed": 2.8,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 10.9,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 11.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 10.9,
-        "weather": "晴れ",
-        "precip_prob": 20
-      },
-      {
-        "time": "09:00",
-        "temp": 14.1,
-        "weather": "晴れ",
-        "precip_prob": 45
-      },
-      {
-        "time": "12:00",
-        "temp": 20.3,
-        "weather": "快晴",
-        "precip_prob": 6
-      },
-      {
-        "time": "15:00",
-        "temp": 20.8,
-        "weather": "快晴",
-        "precip_prob": 4
-      },
-      {
-        "time": "18:00",
-        "temp": 16.2,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "21:00",
-        "temp": 13.2,
-        "weather": "晴れ",
-        "precip_prob": 0
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
     {
-      "title": "【交通取締情報】福井県警 ３月２９日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13dEwwSTNObzN2X1NjWk1xOGowYnl6bWs3Zmh2VzVmek15M1ktT1k4Z25BTU5JM1g4YTEyNWhlNWZScnhiNXhXWTJkaUJrbk9BdURaTEgxVGQ1WU1wU1E?oc=5",
-      "date": "Sat, 28 Mar 2026 07:00:00 GMT"
+      "title": "【交通取締情報】福井県警 ４月１２日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50clc5MG5jcW9Wc0xPNFowV21PQk5vOW9jZS1Ebko4d2xRb2JIeHI4dDZwRmI5WnZGUzU4bzV3c0ZmZzlpYnZYZXBNY1NYQ0Qtc2VVWVczQ3FYUl9wS0E?oc=5",
+      "date": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
@@ -102,19 +43,19 @@
       "date": "Thu, 01 Oct 2026 13:33:13 GMT"
     },
     {
-      "title": "フォークリフトに挟まれ85歳男性死亡 福井県勝山市の農業用倉庫、1人で作業",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xOGpZWUU0SUZQTF9KRmxVVkZqYVhIRjdvbnpyMm14bS04dm5Cc1dpUmJCdHh1NmhpLVE5UGptUGE4NnhpZ3hnUnVUVWFadFJMbzFCQkNKUXR3OUdmcVE?oc=5",
+      "title": "トラックと衝突、軽の女性が重傷 あわら | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tNmxDREY5dC03cEZQQ3kyb0xRWVBKbUREcXFHR05LSDZfOWZvQS1FMDFtTFY2aGpkNTY5U2Fjc3k2MFJCM19Kdk1NRUwwa3hRTkkxZFJVNmJaTm9TSkE?oc=5",
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "ダンプカーによる死亡事故で「福井アリーナ」文化財調査を中断 西行市長は韓国訪問取り止め 現場は住宅密集地…市が安全対策急ぐ",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPU09vVmZNVHduU3ktUWdhRHlZczNZWXhpZ3ZLN01HRGZRMUI4dlI5VW9Bd1RpbWJnTlY1clpIc1pWbW5tRmQtM3BqVFVibGc3WWJZWjY4YVpKTEk3YmR3X0J6YWNONHRHQzVqd3FzbWdCclVrMXRRVVNCU0hueEh5cFczaGZFVHBUMHJxOG5YR0ota21wZWF6bG1yTXRaVHJVVHdjWDk0WjAtSW9RYXBLZXZST0dvMzBRakhYeEJRU09UaGREbjJ3TkhYSUI3S3RhMURPUm9SZXlHVlpZcnVWVmwxZnVfdWI2QjZzTEc5NHpDb2xvbl9UdXNVOWZNY3JwWjQxdUJXd21xcWRVU1k1Y240T3RnU3N3ZllkcW9BeTlrTHA5TXBndHZNdEUzaHI0VFh6emRSNEs3eXJtRWpnaVBHWFl4LWc2LXBxc1ZjZmlQX3pQLVN4ag?oc=5",
-      "date": "Fri, 02 Oct 2026 13:26:24 GMT"
+      "title": "フェニックス通りを拡幅したいが予定区域には交通事故の慰霊碑が…持ち主不明で頭抱える福井市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IbDJ2bzN2VTg2RlVQZUMxTFdBa3p1dGxOcUl6RUVrTHNxSThnUGdtUUpkY3VOdkdoVEFvaF9XOTd1SmZWRGpEcGpiaw?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "福井の山林で見つかった遺体は野々市市の26歳女性 首に圧迫痕、監禁後まもなく死亡か",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OaEl2ZHp0aC0ydUY0MFJySkU2czM2SEkzYmxUemd3NTlZOEo1Zl9WLWZpRDZHNXRWUXRFOERoU2txSGEtNzJpY0Z3T0l2dw?oc=5",
-      "date": "Mon, 09 Nov 2026 02:39:00 GMT"
+      "title": "フォークリフトに挟まれ85歳男性死亡 福井県勝山市の農業用倉庫、1人で作業",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xOGpZWUU0SUZQTF9KRmxVVkZqYVhIRjdvbnpyMm14bS04dm5Cc1dpUmJCdHh1NmhpLVE5UGptUGE4NnhpZ3hnUnVUVWFadFJMbzFCQkNKUXR3OUdmcVE?oc=5",
+      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
