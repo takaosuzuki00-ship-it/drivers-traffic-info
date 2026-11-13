@@ -1,13 +1,77 @@
 {
-  "generated_at": "2026-11-14T00:03:09.643786",
+  "generated_at": "2026-11-14T03:03:20.442531",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 12.5,
+    "temp_max": 18.6,
+    "temp_min": 11.7,
+    "precip_prob_max": 24,
+    "precip_sum": 0,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 11.7,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "09:00",
+        "temp": 13.5,
+        "weather": "晴れ",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 18.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１１月１１日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NbThrMmRBUGVWbm9NdDc2SnY3RkdkYlQ2Qks0cmN1d0tVdTQyajVyLVNreXFyblBsSWJBY2xlVDFVR3pGT08xN1VUYl9hdFZaT0ZGRzhEdjQ2V1RiUHlkRW9Melg0Vm9KN1J3VzBRbGt6d9IBd0FVX3lxTE5BV0FrYjMycGk3X0YxSFdRczMzeE4wQ1JrcHZrcmtUeUo3VHA0Wnl4NnRSMWJSaXh1aVVLU2xRdmhhX1BFbHBCTFFVMy1hbktxbGxtZU9meTBJdGtLTGZhNHVQaFUyOWJpd2VyVnFvSTJ1RUNUeGVn?oc=5",
+      "date": "Tue, 10 Nov 2026 20:10:22 GMT"
+    },
+    {
+      "title": "11月11日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCSmJZem5YSGVaNXZVbmJCTVdiYkpKZ0QyZ2VmaV93eWhyM0k5OEd3TWp5ajNldktkeXpMSEFoSEpmMUtfdDJzRktPZERxN3dFZkJYaDYxbFZRandKbEVzbUZBRVlnWk1sQW5SMWNpTdIBdEFVX3lxTE1hR0RUbWhjMTRGczU0Zi14eHNhUGxJME1mWjl2dnJ6Z3lSMHRUekpJYVZaSDFlTk1LbURVNlhXZ3NvenJfNkNxcmE0WmFvaVhHUHRhc0FVX1hBNGdreHA1YllUd2JqS1B0QnFyMm56Q2xwSGhf?oc=5",
       "date": "Tue, 10 Nov 2026 20:10:22 GMT"
     },
     {
@@ -24,11 +88,6 @@
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒検問から逃走、自称会社役員を逮捕 酒酔い運転の疑い 千葉市内 (千葉日報オンライン)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjN0czRvZlNldVUyWHVDX1dxRUJ5VWlCaXhrN3lPNktzdjMycXJuSDZwY0ZMT2pGd1BlbmYwcUtBUWNHVm1hSnplOXhzQ0NoNmRkZWRPMXA3QmtfLW1ZcHBWc3JBdlJaVGl0c0F4OHZBTGJVUGs5a3pKV1ZJeVZRTUd6TFBuN0ZfbnhmX25R?oc=5",
-      "date": "Sat, 07 Nov 2026 04:20:37 GMT"
     }
   ],
   "accident_news": [
@@ -36,6 +95,11 @@
       "title": "千葉県香取署が保育園児と詐欺や交通事故への注意を呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05NHdUS2FKOXBBZUxTR05lY2MwT0VkSkFOQ2hMSW9QQk52eEJROU1CR0F1OUN0S0lRemhxYjZDMHJGRzU2N2ZGM0YwTkROSDY0dnpnWVlxQTBfWFk?oc=5",
       "date": "Fri, 13 Nov 2026 01:30:14 GMT"
+    },
+    {
+      "title": "千葉市美浜区でトレーラーと乗用車の事故 事故の衝撃でトレーラーが中央分離帯を乗り越え別の乗用車に衝突 3人が軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZQWpGQWpSNVE3aDE0SUZETnFTc01qcFoxNVpNa2NlVE45V0VDb3dIU3M3NDYzbmp6TmRoVTZoTmFvTGVXTGJLM0VoOEs1U2N2ZDcyd0Z4cw?oc=5",
+      "date": "Tue, 10 Nov 2026 05:07:30 GMT"
     },
     {
       "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
@@ -51,11 +115,6 @@
       "title": "飲酒後に事故起こし、さらに飲酒 酒酔い運転発覚免れようとした疑い 千葉市内（千葉日報オンライン）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTW85bnV0NlhIa0RmeW4tbXozdUx4QWxtOUs3eEMtV1ZUVERjQWtnZG5aNVJGal9VNjkzRk00Tm9XU0hKX1FPQUxKZWY4V2I0NkVGOTM4ZEo4WTdIRTBRVGw5Z1NzQlgycUQ1bS1xWkV4RnAtdmROcHgwV3ZWQ1k?oc=5",
       "date": "Tue, 10 Nov 2026 10:03:41 GMT"
-    },
-    {
-      "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
