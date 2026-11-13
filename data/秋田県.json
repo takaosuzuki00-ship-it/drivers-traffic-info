@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-13T21:00:57.756988",
+  "generated_at": "2026-11-14T00:02:15.401718",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 13.3,
+    "temp_max": 17.1,
+    "temp_min": 9.0,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 11.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 12.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 16.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 12.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 11.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１１月１０日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -43,14 +102,14 @@
       "date": "Thu, 12 Nov 2026 08:56:01 GMT"
     },
     {
+      "title": "交通ルール守り、事故のない地域に 大館市で市民大会",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NY3hvQmhCVldmclF5TWk4Skttd0FxRzZBRjFHVW9kWTgxYjVwWnpHZXNHNVNhTjF3VzRKQUZzS2VzdjBVcW1sVDY3VzNPUWhvNEdIOHl2aTFOYWtERFVpOTZn?oc=5",
+      "date": "Mon, 02 Nov 2026 08:00:00 GMT"
+    },
+    {
       "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQVFFZ096dEc1Y0xxakxLZ29KXy1kSmVIeEwwYXR2UkNNSzEyX3FMVmJrZWIzbDNHUEJxcWMtY3RSbGdKQzNEdnlBN211SUh5akY0ZUI3bHJYNXl5Wl9TU24wWktJTXlfSnRB?oc=5",
       "date": "Wed, 16 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "秋田県警の交通担当の署員、飲酒運転で物損事故か 逮捕せず任意捜査 [秋田県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wem5MdGN0aEVtOUdBZTh1YzNoSkszdjVWa05DZmZ3aHgxV1JGR25HTUp5eDh5WXFxZnN6bE1IUE1VS3lma1VvTXJxbHZNSFQ5eVk0bURfcVVwNVU5blg5UzkyUDZ5cFk?oc=5",
-      "date": "Mon, 02 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "秋田市の港湾道路で衝突事故、乗用車の男性死亡",

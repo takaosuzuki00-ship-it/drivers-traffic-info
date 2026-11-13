@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-13T21:02:44.338264",
+  "generated_at": "2026-11-14T00:04:59.429618",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 15.1,
-    "temp_max": 20.3,
-    "temp_min": 13.2,
-    "precip_prob_max": 2,
-    "precip_sum": 0,
-    "wind_speed": 3.1,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 14.2,
+    "temp_max": 16.6,
+    "temp_min": 13.4,
+    "precip_prob_max": 100,
+    "precip_sum": 48.2,
+    "wind_speed": 3.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.5,
+        "temp": 14.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 13.2,
+        "temp": 14.1,
         "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.4,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 13.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
       },
       {
         "time": "09:00",
-        "temp": 14.4,
+        "temp": 14.3,
         "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "precip_prob": 39
       },
       {
         "time": "12:00",
-        "temp": 19.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 15.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
       },
       {
         "time": "15:00",
-        "temp": 20.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 15.3,
+        "weather": "雨",
+        "precip_prob": 92
       },
       {
         "time": "18:00",
-        "temp": 16.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 15.2,
+        "weather": "雨",
+        "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 15.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 15.7,
+        "weather": "雨",
+        "precip_prob": 100
       }
     ]
   },
