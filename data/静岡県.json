@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-13T12:07:09.957909",
+  "generated_at": "2026-11-13T15:02:54.585887",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 19.6,
+    "temp_max": 19.6,
+    "temp_min": 10.3,
+    "precip_prob_max": 34,
+    "precip_sum": 0,
+    "wind_speed": 4.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.5,
+        "weather": "晴れ",
+        "precip_prob": 31
+      },
+      {
+        "time": "15:00",
+        "temp": 19.6,
+        "weather": "快晴",
+        "precip_prob": 29
+      },
+      {
+        "time": "18:00",
+        "temp": 16.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 13.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "速度取締り指針",
@@ -53,9 +112,9 @@
       "date": "Mon, 20 Apr 2026 07:00:00 GMT"
     },
     {
-      "title": "自動車専用道路のセンターライン付近に歩行者 大型トラックにはねられ死亡 運転手を逮捕 （テレビ静岡NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wem1FaHRaRE44eU9FN25fbEhPN2N6aWpyZVlvdjZUcVFNMXZKZ3lNLW9Ja2c5cHdFTEFGcjFPNkVJb2pmSGlMTnpNR1I0STFZZnhlR0VSLTlZd05fNTdfYnFCVFV4MzFzUHFHV2lLUkQ5V3dPVkZobGhFS2VwRG8?oc=5",
-      "date": "Mon, 09 Nov 2026 01:45:02 GMT"
+      "title": "高波で釣り客2人が海に転落 54歳男性が死亡 8月以降同じ堤防で8人が海に落下=静岡・東伊豆町（静岡放送（SBS））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92MzM0SGpHdjItRmQ3MkpqTTZDWTVqS2RTYkhCZVdnbU8tRmQ5N2JwY0lHUU1udkJkTl9sZ2JJRDRyeXZZNHU1NWQ3b2hEMUVOMGl6U1BEWkdMZ1FDY3FKWVdNM0tBOVBWRzExNC1ibkJ6alRyY1lkQjZsWlh3dTA?oc=5",
+      "date": "Wed, 11 Nov 2026 10:45:30 GMT"
     }
   ],
   "official_links": [

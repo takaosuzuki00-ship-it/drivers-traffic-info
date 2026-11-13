@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-13T12:08:16.220991",
+  "generated_at": "2026-11-13T15:03:07.179994",
   "pref": "大阪府",
   "region": "近畿地方",
   "capital": "大阪",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 20.5,
+    "temp_max": 20.7,
+    "temp_min": 11.6,
+    "precip_prob_max": 18,
+    "precip_sum": 0.4,
+    "wind_speed": 4.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 11.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 12
+      },
+      {
+        "time": "09:00",
+        "temp": 13.8,
+        "weather": "快晴",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 18.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１１月１０日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",

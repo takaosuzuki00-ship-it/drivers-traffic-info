@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-11-13T12:07:36.046216",
+  "generated_at": "2026-11-13T15:02:59.415894",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 17.9,
+    "temp_max": 17.9,
+    "temp_min": 10.5,
+    "precip_prob_max": 51,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 12.8,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "12:00",
+        "temp": 16.7,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "15:00",
+        "temp": 17.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMl83RlpLZVpYTWVYbnU2bXJ1Z0pITnFyRVVJYkM3ei1yT1hjZ0pVaWg2QWdPal9MZUpOM2VvSFpnN2x6b1E0RGdjVFNTMW1ja3RPZDB0T2FIaGlTVEdsSE1WS0QzU2dsQXlGVXVZZGM?oc=5",
-      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
     {
       "title": "11月9日（月）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZElaVGEwbW10UkpoUXVzZlFUZlJkeXZzSFJOUlRabnVsd3Qtd0Ria185TVJIOUZtU2M4bTNIcU95bkRndmJNRE9waTVONWNjUEU4SG8xVFlzME9YRXBSN3ZiNkFscWozYzh6U216Y9IBdEFVX3lxTE15cGJSaVdaMlBNeW4yQm5sMDJTMF81cGdRRmRHbW16Z3piZVVLT1NDNEZuMlpFTi1EUzVZaTBHckhHWGxBU3dSaXNvV0hPR2F2N3VpT2t3WW55ZVVMU0lJMVplbkZEUzJSNDV2UUdXdU1SZ3Rm?oc=5",
       "date": "Sun, 08 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMl83RlpLZVpYTWVYbnU2bXJ1Z0pITnFyRVVJYkM3ei1yT1hjZ0pVaWg2QWdPal9MZUpOM2VvSFpnN2x6b1E0RGdjVFNTMW1ja3RPZDB0T2FIaGlTVEdsSE1WS0QzU2dsQXlGVXVZZGM?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "警察「空から取締りします！」 三重県警がヘリ連携の「スカイアイ取締り」を実施へ 鈴鹿PAで啓発イベントも！ 新東名で、4月7日に（くるまのニュース） | 自動車情報・ニュース",
@@ -26,9 +85,9 @@
       "date": "Wed, 04 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "死亡事故多発で一斉取り締まり 三重県警、速度超過など摘発",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKcS1IV2QtMFcyMFJJV0VKc05Ca0REVUVxaTZDN0pJX3ZLOTlHalpUX01HMTJ3OEdKVkp5VGpiSTlwMHR3ZTdtT3g3T0JneWdQcUxlaA?oc=5",
-      "date": "Thu, 11 Sep 2025 07:00:00 GMT"
+      "title": "減らぬ三重県内の飲酒運転、摘発件数が大幅増 根絶目指し、続く地道な取り組み",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NRjVWOWtVZllXS3VKaDdxdmZjVlhvMUFHNlNGSWs5T2FjSTd1QVhBVWpLWjFfTUZlZy1NVjg1N1NtMkV4U1NiM0xoRW5Fak5OMWIzRw?oc=5",
+      "date": "Mon, 14 Apr 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [

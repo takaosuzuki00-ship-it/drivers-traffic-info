@@ -1,14 +1,78 @@
 {
-  "generated_at": "2026-11-13T12:06:16.703736",
+  "generated_at": "2026-11-13T15:02:35.979441",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.7,
+    "temp_max": 21.0,
+    "temp_min": 10.8,
+    "precip_prob_max": 12,
+    "precip_sum": 0,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.8,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 14.7,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "12:00",
+        "temp": 20.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【交通取締情報】福井県警 ４月１２日",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50clc5MG5jcW9Wc0xPNFowV21PQk5vOW9jZS1Ebko4d2xRb2JIeHI4dDZwRmI5WnZGUzU4bzV3c0ZmZzlpYnZYZXBNY1NYQ0Qtc2VVWVczQ3FYUl9wS0E?oc=5",
       "date": "Sat, 11 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通取締情報】福井県警 ３月２９日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13dEwwSTNObzN2X1NjWk1xOGowYnl6bWs3Zmh2VzVmek15M1ktT1k4Z25BTU5JM1g4YTEyNWhlNWZScnhiNXhXWTJkaUJrbk9BdURaTEgxVGQ1WU1wU1E?oc=5",
+      "date": "Sat, 28 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
@@ -24,11 +88,6 @@
       "title": "児童下校時間に合わせ飲酒運転検問 福井署が実施",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83S2ZOZlc2S2E1TVFFZnA5MWhMV21IUkkzdURVVWU0NnJHMm1oV3RvamVuY1NVOUNfWG1CZGVwN2tVS1pOXzBuZzY0bDlveHFFckxN?oc=5",
       "date": "Mon, 01 Nov 2021 07:00:00 GMT"
-    },
-    {
-      "title": "忘年会シーズン控え、芦原街道で飲酒検問 福井署",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cWRlMUZUQTBaUUVnYlNoTURCc081SWFaVzdtM2xWNE1OVjQxT21UeW1QMk9wY0hUS3RkeUFvS2QzNWRkdnhORGo5VlAwMk5qSXZN?oc=5",
-      "date": "Sun, 28 Nov 2021 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -53,9 +112,9 @@
       "date": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "フォークリフトに挟まれ85歳男性死亡 福井県勝山市の農業用倉庫、1人で作業",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xOGpZWUU0SUZQTF9KRmxVVkZqYVhIRjdvbnpyMm14bS04dm5Cc1dpUmJCdHh1NmhpLVE5UGptUGE4NnhpZ3hnUnVUVWFadFJMbzFCQkNKUXR3OUdmcVE?oc=5",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
+      "title": "トラック荷台から落ちたガードレールが首に当たり26歳男性が死亡 越前市北山町の国道365号上 ガードレールの設置作業中",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOazg2Y2tvU2JTNEt2LVZGdTVOOXY2OVh3SGM4RHpuWVNjaGNmYmd6cURCNkxsdjQ3bjJDeGVVTHNyTHJDTm5TRmFhQng2Sk9jaU9nMnlKSkxZMVNmb0RNT1FKbE9hOTNJdUROQVdlNEhtclRYYmVydTNZc2pIb3NpOGxuZ1VUNU1DVy1NSkNMWmpQZGhBQ3VMdm9qdnFlNlQwQ29mdGhwSjgyNDEycTZTODNObUIxX2xUYW1CNlAxM3JVY0IyM1FoRGlpa2hhcWcwcks5U1UyT3lEelpOV3NTVVp5NzBvVWozRDFWYl9FLVhxNVFvTENyOW1XVy12aXM0RlhyMnBhVmhFbmpyaExVT3d6Rm8yM19xSjFlM25weDR3eEtsYTc0OE1SbGV4NjhuVG9xdzBnUHZPN21HQzB3aDRFSjdhVDUyQUp2cFR1dTZQWGlPV3F0cjZHMA?oc=5",
+      "date": "Fri, 06 Nov 2026 13:10:00 GMT"
     }
   ],
   "official_links": [

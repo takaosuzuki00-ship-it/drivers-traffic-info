@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-13T12:04:20.559676",
+  "generated_at": "2026-11-13T15:02:13.066178",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 18.8,
+    "temp_max": 19.0,
+    "temp_min": 6.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 6.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 6.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 14.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",

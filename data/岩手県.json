@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-11-13T12:02:51.575170",
+  "generated_at": "2026-11-13T15:01:46.531630",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 17.1,
+    "temp_max": 17.7,
+    "temp_min": 6.3,
+    "precip_prob_max": 88,
+    "precip_sum": 0.4,
+    "wind_speed": 10.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 6.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 7.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 8.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      },
+      {
+        "time": "09:00",
+        "temp": 12.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 65
+      },
+      {
+        "time": "12:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 88
+      },
+      {
+        "time": "15:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "18:00",
+        "temp": 13.1,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 10.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月13日（金）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13MWg2eWtBalJKajRIYjZjTE43LUlDYWphT0x2RzlLSEp4dUxZZDZUMHdQTzVrQlFwX3FsS0d0aU40dVBMcllHNXlkLUxRbWhfclRuVE9NN2ZtamxLeUpaYkJ0WnJNazI0ckJMTUJZOXFiWVRYeUk5cUhtOVRTbGM?oc=5",
-      "date": "Thu, 12 Nov 2026 20:03:43 GMT"
+      "date": "Thu, 12 Nov 2026 20:00:32 GMT"
     },
     {
       "title": "11月10日（火）【岩手県】 日中・夜間の交通取締情報",
@@ -53,9 +112,9 @@
       "date": "Fri, 06 Nov 2026 08:45:00 GMT"
     },
     {
-      "title": "一時停止せず同乗者死亡 北上市の30代女性職員を停職1か月の懲戒処分 休暇に交差点でワゴン車と衝突事故起こす 岩手",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxdWlUemtwdVdzOS1ZdTAwSktaMy1JS2RYbzRRZ2l3WlZNUGJTcFRUdEVEN2prRExTRG9uRnFNX2J4MWVPRzl1eW80bGhJc2M1ZWszNFZvS29tVC10cEFMckdEeHpGWS1oVlpwa0pfczFpdVhkUGlPRy13MVo4Tnc?oc=5",
-      "date": "Fri, 06 Nov 2026 08:47:00 GMT"
+      "title": "労災死亡事故多発「極めて異例かつ深刻」 岩手県内で10件発生、半数は盛岡管内 労基署が対策緊急要請",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLMW4wNUNwSnZWbDk4akM3dXMxVVdGd0VJdWFFVHNXMW55SFhrNkxrWURoZzc0a3dZTV9meFl1bV9SajFxWFFiYWdCalNMRlh1Ujk1cmgxSjUtcnhZd2ZURktn?oc=5",
+      "date": "Tue, 27 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

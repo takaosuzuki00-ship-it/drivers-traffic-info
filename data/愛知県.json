@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-11-13T12:07:21.921191",
+  "generated_at": "2026-11-13T15:02:57.228295",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 20.0,
+    "temp_max": 20.1,
+    "temp_min": 9.4,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 1.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 20.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "11月8日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83TjVHVG5LcUh0Mm1OQW9TMHUyQ2RsN3N4akIwb2NrY2J4d1VCR0pxYkJSWmZQSTROSVp1SEN0b3ZRTVZ5bWhMeXd3b2Q0RHRmS1pLcmdMSQ?oc=5",
-      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "11月11日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCSmJZem5YSGVaNXZVbmJCTVdiYkpKZ0QyZ2VmaV93eWhyM0k5OEd3TWp5ajNldktkeXpMSEFoSEpmMUtfdDJzRktPZERxN3dFZkJYaDYxbFZRandKbEVzbUZBRVlnWk1sQW5SMWNpTdIBdEFVX3lxTE1hR0RUbWhjMTRGczU0Zi14eHNhUGxJME1mWjl2dnJ6Z3lSMHRUekpJYVZaSDFlTk1LbURVNlhXZ3NvenJfNkNxcmE0WmFvaVhHUHRhc0FVX1hBNGdreHA1YllUd2JqS1B0QnFyMm56Q2xwSGhf?oc=5",
-      "date": "Tue, 10 Nov 2026 20:10:22 GMT"
+      "title": "11月13日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11bDRQaEZVSkpMSy1Va2lRa3liWVhpVXNla2txOTMzY1c2TGNYdUQ4cE05UjA3ZS1zYnpkU1AtSTlCT2gxRE1fanY4UXVaN205TnJLYjNLX2pJTzF3R0dyWktNUjBNc3hDbExZeHlpd9IBdEFVX3lxTE9nRE1VcU5YV1FBbkpRNU8tUEVVa182aW94ZzBLbFM0enVodFdpV3JVdTVCMG05WGxtNFVCVXNsOVpQVmhNdTNoWU5lUDd6bUVXdlBDVXU3bGxFTDdKb0dmeGxTNm9WaGttVk1sOWJqS2RQSElP?oc=5",
+      "date": "Thu, 12 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
@@ -21,9 +75,14 @@
       "date": "Fri, 06 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "１１月８日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ST0FMcnlaTTA0VHZXMFN5X0txdUltYkN4TF9IUENpSmIzVUM2ODlmaWJEeHZpWUxrQkRwcGhqV3d2STQ2cjBLQnFub3lmbmJTanh1TEV2V1V6eFdQTGMtaGRCajRFQXpqeG8zS0hKYWp6QdIBd0FVX3lxTE4xZy1YTmtxdi1tT2VydVpTS0JFQ3Y0bU9BLXdaYjFpTlhOZzhKV01zX243cHVBT0txMnNKaXozZ0xidzdNNFB5aWs3RGZqYmtJcHJIMXdIaUNDMkkxRjRiOHU5YUd2VXNHUkRfRWJXemk5TWpfSmE0?oc=5",
-      "date": "Sat, 07 Nov 2026 20:00:00 GMT"
+      "title": "11月11日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCSmJZem5YSGVaNXZVbmJCTVdiYkpKZ0QyZ2VmaV93eWhyM0k5OEd3TWp5ajNldktkeXpMSEFoSEpmMUtfdDJzRktPZERxN3dFZkJYaDYxbFZRandKbEVzbUZBRVlnWk1sQW5SMWNpTdIBdEFVX3lxTE1hR0RUbWhjMTRGczU0Zi14eHNhUGxJME1mWjl2dnJ6Z3lSMHRUekpJYVZaSDFlTk1LbURVNlhXZ3NvenJfNkNxcmE0WmFvaVhHUHRhc0FVX1hBNGdreHA1YllUd2JqS1B0QnFyMm56Q2xwSGhf?oc=5",
+      "date": "Tue, 10 Nov 2026 20:10:22 GMT"
+    },
+    {
+      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
     },
     {
       "title": "「交通事故抑止に県境はない」県境の橋で愛知県警と岐阜県警が合同で飲酒検問",
@@ -38,24 +97,24 @@
       "date": "Thu, 12 Nov 2026 07:25:00 GMT"
     },
     {
+      "title": "「すごい事故…」 愛知県の「走り屋男」を検挙 「スポーツカー」で“時速100km超走行”し衝突事故 同乗者は死亡 「重大な交通犯罪」で「一発免取＆欠格8年」に どんな事故なのか",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93Z09iQ2FsbVJHRnpMNzk0dDBPbjVjRnJqWlhrY1dKZDVvTzYxZXo2UE1RTnlDQXJvMUItWTJHUE9WeDVocU8zSkVJeDRlRF9hVVlJd1NxX3IwMG1zQ3FoVHM1RTE3QdIBa0FVX3lxTE5ObmVPMUJpOFVCdzJNYWtuX011RmktenNCX0k1VXpxVGc3QklQbXA3ZlU2YzY4TWRmTFZLbGxjbm90TkRlSkZVSHNlNnplQmZ4dVVvV25OTXRaYkVTaUFKbFZXazhEWHNONEFv?oc=5",
+      "date": "Fri, 13 Nov 2026 05:20:00 GMT"
+    },
+    {
       "title": "交通事故「梨」なしキャンペーンを行いました",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1VHUFBVTjF4V25neU12UUZzSnRYMW5fajRnNHQxRi01VVB3T2VGRDdNSjAzb1JJX19qOXhSbWlpbF84NUsyVUNpYTQ0VkRPbkdwY0dVeThBVmVRLVdZS3BXYW93T1lpSVFMa28zRTlDSUtHOVJNenJ1LWNrR3hzdUx3?oc=5",
       "date": "Tue, 15 Sep 2026 06:47:00 GMT"
     },
     {
-      "title": "山道を高速で…ガードレールに衝突し男性死亡 危険運転致死の疑いで運転した男性を書類送検 連なって走っていた2人は“ほう助”の疑い 愛知・新城市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3QURTdHVBbENZZ2JmQTNKZG9PTFZLbWFCVjVQekpEay12MWVkbVYzbWVYQXJHc2dkNnc2MlpleDdiWHlEdlpFYzIwVmE5TW9UUDBsejNHMjBQZTB4X0V2cDdxaEhhOE0?oc=5",
-      "date": "Thu, 12 Nov 2026 11:18:00 GMT"
+      "title": "愛知 ことしの交通事故死亡者43人で“全国ワースト” ｢自転車の青切符｣などルール徹底呼びかけ ｢春の全国交通安全運動｣",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTmtlc21MUk9sUms0QlNmSEprd3lfVWJuNlJDVGVTSnQ0anZfYjZYYk0zUDlPQm4yZlFtbFlScTE1TWNFZ3cwZ3Z5aURsXzVybWFkbFZveWNjOVVhVlpN?oc=5",
+      "date": "Mon, 06 Apr 2026 22:13:33 GMT"
     },
     {
       "title": "愛知の妊婦死亡事故、運転の女に実刑判決 胎児の障害にも言及",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YWdFSVhZZU5wTFdEV2RIOUE1azhUTm5fZFFOVTZaVUFMMm9YbTA3TllmMGRTbU9WaExJMktZYlJndG5meV9Rcmp3cWtMODdPN3pkaURuc2VsZFZQZHcwbVlQQTZHVGxzVlFuYg?oc=5",
       "date": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2025年の愛知県内の交通事故死者数は112人 過去最少を更新 [愛知県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNVVwT2lJRldjd29GMlBORTk4azdFeHBoS3VMVEp4NmlJYlhFMUhIa2lnaVlMdVBEX0hzRjZHeU1YeDE1aHBUbXBqSlVsOEtwQkJGaTEzRHdZXzB1QTFTRi1XTWt3bWc?oc=5",
-      "date": "Tue, 06 Jan 2026 08:00:00 GMT"
     }
   ],
   "official_links": [
