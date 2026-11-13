@@ -1,74 +1,69 @@
 {
-  "generated_at": "2026-11-14T03:07:31.564192",
+  "generated_at": "2026-11-14T06:06:17.784159",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 80,
-    "weather": "にわか雨",
-    "temp_now": 23.5,
-    "temp_max": 27.6,
-    "temp_min": 23.4,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 23.8,
+    "temp_max": 27.1,
+    "temp_min": 23.5,
     "precip_prob_max": 82,
-    "precip_sum": 4.2,
-    "wind_speed": 10.7,
+    "precip_sum": 0.7,
+    "wind_speed": 12.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 23.3,
+        "temp": 23.7,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 23.5,
-        "weather": "曇り",
+        "temp": 23.6,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 24.0,
+        "temp": 23.8,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 26.3,
+        "temp": 25.7,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 27.2,
-        "weather": "晴れ時々曇",
+        "temp": 26.5,
+        "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 27.2,
-        "weather": "晴れ時々曇",
+        "temp": 27.1,
+        "weather": "曇り",
         "precip_prob": 31
       },
       {
         "time": "18:00",
-        "temp": 25.0,
-        "weather": "弱い霧雨",
+        "temp": 24.9,
+        "weather": "曇り",
         "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 25.3,
-        "weather": "霧雨",
+        "temp": 24.6,
+        "weather": "弱い霧雨",
         "precip_prob": 65
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月13日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtdE94cGtEQ3NEQlJNZEZTQnlwVUllLWJ0NGItTThpQU14bWdILVVybjJFSUpGeUZjenBjX05DUV93MU95SmZXREhxSXhyNV9JaHZuNHBhRUtyOEhCVmIzdHYtT1ppSFkzdlhsMURIc9IBdEFVX3lxTE96UjE0VWd0UEZ5OFZyTFA5dU0ycFdHMTlzMHRlZ0xTUVd2cklLbXBEZmpTd0lFZzRocGpIRUtRMWJjd1Vza2Y5TFl1T3ByYVRVSVZUZEt4NTAyRGlQbF9veGhOaEFSME1NRC1WaDNwejFUc0RP?oc=5",
-      "date": "Thu, 12 Nov 2026 20:02:00 GMT"
-    },
     {
       "title": "11月12日（木）【熊本県 交通取締情報 午前・午後・夜間】交差点違反など",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTRWdUWnpYU0RuOG1MclFfQjc1OFN1SFZ2MG52RDgtSl9Na1pWYWYwNmRkSE40cndkUjZiUERHUWpTajVobW5Ga0RiVXRJb01xNkcyWWtCOWRBaUZJRFBLYzNBejcyLXlERTg2RTFxNNIBdEFVX3lxTE9wd0p2elFxQUZUVlpaRnNsRU1nZk43M0hQdzZnS2JOZVZkRzR2aUlLajlQeEtPZXUyT2IxWmZMdjBJQ0UtNXA2SlNlQnYtV3RmUi1TeVdsdXdIUUJfbUpfVDlySUVQODlHdFVNX3lnNmlSOHJl?oc=5",
@@ -78,6 +73,11 @@
       "title": "県知事選を前に沖縄県警が取締本部を設置",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DUnNGdjBHbEI3RUU5UWxjYWszbmVKT2F2WmNtR2VCZURIa3FNR2NVaGxtSmdpZlctVlJiWVhmRzBtVENDc0J6Q1lJYzYzSTYtb3NTWUhDcDNGUmNPWFNYbg?oc=5",
       "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月13日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtdE94cGtEQ3NEQlJNZEZTQnlwVUllLWJ0NGItTThpQU14bWdILVVybjJFSUpGeUZjenBjX05DUV93MU95SmZXREhxSXhyNV9JaHZuNHBhRUtyOEhCVmIzdHYtT1ppSFkzdlhsMURIc9IBdEFVX3lxTE96UjE0VWd0UEZ5OFZyTFA5dU0ycFdHMTlzMHRlZ0xTUVd2cklLbXBEZmpTd0lFZzRocGpIRUtRMWJjd1Vza2Y5TFl1T3ByYVRVSVZUZEt4NTAyRGlQbF9veGhOaEFSME1NRC1WaDNwejFUc0RP?oc=5",
+      "date": "Thu, 12 Nov 2026 20:02:00 GMT"
     },
     {
       "title": "沖縄県警が一斉検問 2時間で12人摘発、酒気帯び運転の疑い",
@@ -92,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHRnY0MWdFMHA0Mmt2SGlZUjVNSnpSaWdCRWpsbDJUUldIOVRRZ09kaDhMdkN3RTNWR3dsRGM1blR3VWZKendaTkZyNWt4X1phVHRITmZqVVhKZlE3QUxWUQ?oc=5",
-      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "那覇空港でひき逃げか 赤いSUV車と衝突、バイク男性けが 沖縄（琉球新報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ud3ZtQ2paU3ZtYllnN00yUmVpaTc3N04wczhncmdDZ2JzVkFXOUVENjVxUXN5eUJSTGpmTzRtakF1TDdnVDFDbk82YWt0bkFKOUxnY1pQSjMwRnE0ai1zNEVMMjVxMW9lNEkzcTNtMDhuUTU1aXNGX0xWaWV1SVE?oc=5",
       "date": "Thu, 12 Nov 2026 00:41:22 GMT"
+    },
+    {
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHRnY0MWdFMHA0Mmt2SGlZUjVNSnpSaWdCRWpsbDJUUldIOVRRZ09kaDhMdkN3RTNWR3dsRGM1blR3VWZKendaTkZyNWt4X1phVHRITmZqVVhKZlE3QUxWUQ?oc=5",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "沖縄自動車道で事故 兵庫県の39歳男性を搬送、死亡確認",
