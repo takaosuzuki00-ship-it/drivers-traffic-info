@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-14T21:03:51.556291",
+  "generated_at": "2026-11-15T00:01:23.689708",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 13.1,
-    "temp_max": 20.0,
-    "temp_min": 7.0,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 2.2,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 12.0,
+    "temp_max": 13.6,
+    "temp_min": 11.5,
+    "precip_prob_max": 100,
+    "precip_sum": 7.1,
+    "wind_speed": 1.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 9.8,
-        "weather": "快晴",
+        "temp": 12.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 7.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 11.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
       },
       {
         "time": "06:00",
-        "temp": 7.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 11.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
       },
       {
         "time": "09:00",
-        "temp": 11.7,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 12.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       },
       {
         "time": "12:00",
-        "temp": 18.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 13.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 19.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 13.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 15.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 12.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 13.1,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 12.1,
+        "weather": "曇り",
+        "precip_prob": 65
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月12日（木）【熊本県 交通取締情報 午前・午後・夜間】交差点違反など",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hNk1qbG9XcW42RjY4MTJiZ3hndmMzZ2U5V2paTDNIbVdHWDVQSEFzLWYzcmw5TjNVdU1JMDRwOTBlY3BGSnFlVmlGNTdNVWxNZ253MFAtQQ?oc=5",
+      "date": "Wed, 11 Nov 2026 20:02:00 GMT"
+    },
     {
       "title": "１１月１３日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SUR1bW5WalBvZWRCYmJ4X2JlamRhRHpLcmdRVWZxVnhPOWt6RV9DaVBOQ1ItblpsT0pYTzlBODNVSHhqTVJ2RGRrZTZxMjRfME5yVWlpWjRONWt3NTh1aU1acF82eG90M1JDOWRR?oc=5",
@@ -75,17 +80,12 @@
       "date": "Thu, 12 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "朝の交通指導取締中に職務質問で発覚 酒気帯び運転の疑いで会社員の男（32）現行犯逮捕 福島・棚倉町（TUFテレビユー福島）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkbXlCb3RpdjdXMUZjRnE1QTVNLXpwYnEzU2s0aXBfSGpnSjZMTEJUdXRfY1dUQ2d2YW90MVFqMzczYWlwLVdXQmhqcGZQWEJqV2MzN0FtTWN0bHRvM0IyTjNrek9RblVVMjNvSUFGdmQ0NXdBUkQyb2xoSUcwVk0?oc=5",
-      "date": "Fri, 06 Nov 2026 04:33:16 GMT"
-    },
-    {
       "title": "国道４号で夜間検問実施 須賀川署",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
       "date": "Thu, 23 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）",
+      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）｜中テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnliNEgxdUF0WmFhNG0yU2xWVDlCcGR4STZVWGZYeU5rWEI3dkMtYnRWbF9SejVCWmNnY0NlTW5fd01STTZvcUlsb2tFV2txM3FwSXdOWGpZMmg1bTVqR3YzakFSWFR1YTRmdHRzOW1wa3haNGI1Qnp4Q0RwZzhPQWsyYkUzaDA?oc=5",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     }
