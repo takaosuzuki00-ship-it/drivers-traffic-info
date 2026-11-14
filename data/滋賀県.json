@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-14T12:06:43.720337",
+  "generated_at": "2026-11-14T15:07:24.929322",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.5,
+    "temp_max": 16.5,
+    "temp_min": 11.2,
+    "precip_prob_max": 38,
+    "precip_sum": 0,
+    "wind_speed": 2.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 12.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 16.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 14.9,
+        "weather": "曇り",
+        "precip_prob": 8
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月12日（木）【熊本県 交通取締情報 午前・午後・夜間】交差点違反など",
@@ -48,9 +107,9 @@
       "date": "Fri, 25 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "近畿6府県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NQ2pYdXFMRzdwdldKdGhWaHhhM090RFRfbHpoLUp3RlV5cHhhTnJocHRWYlFwVjV6WU1GRzE0UHo3OFFiaXRlaXNJMDZHUHlnY3RrSUd3UW5mTDlVS1hCQk9BVmxhNVZoQ0hB?oc=5",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+      "title": "道路横断中の死亡事故、歩行者はどちらからが多い？ 思い込み影響か [滋賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SRHdTUGlUTEpxSm1CLXZWZElhSzFfYzFhanUzRHItRjZ6cHNqUHR0bTE2dWNpczRCSmxpN1VjM1IwbDRCZExZbzdHaW9vVG1ma3hoZ1JFV2hlWEpEdGtNMlcxVTloSEU?oc=5",
+      "date": "Tue, 05 May 2026 07:00:00 GMT"
     },
     {
       "title": "交差点で右折車と横断歩道の自転車が衝突 自転車の74歳男性が死亡（京都新聞）",
