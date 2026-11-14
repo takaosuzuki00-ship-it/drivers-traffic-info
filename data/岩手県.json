@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-14T15:02:39.303993",
+  "generated_at": "2026-11-14T18:03:51.473461",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 12.0,
+    "temp_max": 17.4,
+    "temp_min": 7.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 8.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 7.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 10.8,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 16.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 12.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 10.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
@@ -26,9 +85,9 @@
       "date": "Mon, 09 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "11月12日（木）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xRHhsNTV5OVExTTljLTk5MUZKd1Q2dlI1cUVjcnltM04xRHpLeGxhZXhzbnBEZG5Zd1M2V0dTQXU4UzZTVUY2WV9tTDYtSVpCYWF3YlJJQzh0ZGdHeHRwZUl4bzhYdzlzdjRFY19USXpncjJWMjRybmNXQ3E5bzA?oc=5",
-      "date": "Fri, 13 Nov 2026 07:08:00 GMT"
+      "title": "11月13日（金）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13MWg2eWtBalJKajRIYjZjTE43LUlDYWphT0x2RzlLSEp4dUxZZDZUMHdQTzVrQlFwX3FsS0d0aU40dVBMcllHNXlkLUxRbWhfclRuVE9NN2ZtamxLeUpaYkJ0WnJNazI0ckJMTUJZOXFiWVRYeUk5cUhtOVRTbGM?oc=5",
+      "date": "Thu, 12 Nov 2026 20:00:32 GMT"
     }
   ],
   "accident_news": [
@@ -40,7 +99,7 @@
     {
       "title": "子どもに関する交通事故が増加傾向に 県内の死者34人で前年を超える 岩手",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBISlBzQUYzdkZqeEdEdjZNZHRmeTY1XzMxdUJUd0N6UjFhTmEta1lmUkRZcXRkTkFNTnVFazBoVVZNQk0xU0g5TmNXQndoNHFVT3JYVkRmVQ?oc=5",
-      "date": "Wed, 04 Nov 2026 01:48:00 GMT"
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "岩手 宮城で事故 2人死亡 盛岡ではトラックなど6台絡み…",

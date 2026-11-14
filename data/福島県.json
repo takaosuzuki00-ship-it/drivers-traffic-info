@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-14T15:03:36.364669",
+  "generated_at": "2026-11-14T18:04:03.626399",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 15.4,
+    "temp_max": 20.0,
+    "temp_min": 7.0,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 4.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 7.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 7.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１１月１３日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -16,36 +75,36 @@
       "date": "Thu, 12 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "11月11日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCSmJZem5YSGVaNXZVbmJCTVdiYkpKZ0QyZ2VmaV93eWhyM0k5OEd3TWp5ajNldktkeXpMSEFoSEpmMUtfdDJzRktPZERxN3dFZkJYaDYxbFZRandKbEVzbUZBRVlnWk1sQW5SMWNpTdIBdEFVX3lxTE1hR0RUbWhjMTRGczU0Zi14eHNhUGxJME1mWjl2dnJ6Z3lSMHRUekpJYVZaSDFlTk1LbURVNlhXZ3NvenJfNkNxcmE0WmFvaVhHUHRhc0FVX1hBNGdreHA1YllUd2JqS1B0QnFyMm56Q2xwSGhf?oc=5",
-      "date": "Tue, 10 Nov 2026 20:10:22 GMT"
-    },
-    {
-      "title": "１１月９日（月）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3QTdrSHlFV2VodkxHaEhiTlBEYVFfUmY2WGMyb19MaWRSMlZIeXlGSWV4ajY3Sk5hUXM2Y1NKSE91N0NoLWYtTlg2c3Z1a1l2R2FVSE5aQU5ZUF9MeXRwc0xPOEJJY1p3dmtJYTd3?oc=5",
-      "date": "Sun, 08 Nov 2026 20:11:27 GMT"
+      "title": "朝の交通指導取締中に職務質問で発覚 酒気帯び運転の疑いで会社員の男（32）現行犯逮捕 福島・棚倉町（TUFテレビユー福島）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkbXlCb3RpdjdXMUZjRnE1QTVNLXpwYnEzU2s0aXBfSGpnSjZMTEJUdXRfY1dUQ2d2YW90MVFqMzczYWlwLVdXQmhqcGZQWEJqV2MzN0FtTWN0bHRvM0IyTjNrek9RblVVMjNvSUFGdmQ0NXdBUkQyb2xoSUcwVk0?oc=5",
+      "date": "Fri, 06 Nov 2026 04:33:16 GMT"
     },
     {
       "title": "国道４号で夜間検問実施 須賀川署",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
       "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnliNEgxdUF0WmFhNG0yU2xWVDlCcGR4STZVWGZYeU5rWEI3dkMtYnRWbF9SejVCWmNnY0NlTW5fd01STTZvcUlsb2tFV2txM3FwSXdOWGpZMmg1bTVqR3YzakFSWFR1YTRmdHRzOW1wa3haNGI1Qnp4Q0RwZzhPQWsyYkUzaDA?oc=5",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
-    {
-      "title": "タンクローリー車とライトバンが正面衝突 22歳男性が死亡 福島・会津坂下町の国道49号線：ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ha0tzdnV1SzdOWm44SlhzS1BBcGM4cFZVQmNIM19ZSGpfVXphS05lWTctY3JXcl9oN19KTzlIVDlKQkItNlB4ZTRad1l6VXcwakc3SlFPRHdxOThiaVFqcUxtOEhMejdvbEVHTjRfY3FBMWtsMlF1a01n?oc=5",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
     {
       "title": "交通事故で無免許発覚 54歳男を現行犯逮捕 福島（福島中央テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXVvMnlaTlJFR0Z0MkpvV1hQaWpha1hjM1lNNlA5c2VOWUw1TTR3b1BIcm9hbU1CR3NqZzQ1czZfazJ5UUo5QmczQ002LVQxRml4dWhqWTRUNnRzdlN0djNTaVNlSUh1Um1URnMwOURCNmE5OThocFp4LVZUTFU?oc=5",
       "date": "Thu, 12 Nov 2026 07:25:01 GMT"
     },
     {
-      "title": "福島県教委、教職員２人を懲戒処分 虚偽報告や重傷交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96ZUFnWW90ZG9peU04elNmU2YwTGFueHUwdkVTZ213VTlSNVQ3SEt3Slg0a2RNMjBxUVBONF9OT0VwTVlkV3lybnRzOGRrTzA?oc=5",
-      "date": "Fri, 13 Nov 2026 11:44:00 GMT"
+      "title": "タンクローリー車とライトバンが正面衝突 22歳男性が死亡 福島・会津坂下町の国道49号線：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ha0tzdnV1SzdOWm44SlhzS1BBcGM4cFZVQmNIM19ZSGpfVXphS05lWTctY3JXcl9oN19KTzlIVDlKQkItNlB4ZTRad1l6VXcwakc3SlFPRHdxOThiaVFqcUxtOEhMejdvbEVHTjRfY3FBMWtsMlF1a01n?oc=5",
+      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通事故】白河市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54ZGhmVzZNNnNMM2JNR2ZhR3BaNm1XSWJmUkt3c1JHZDBnWk45ZDZRY1g0WXBLWi05X1RWSjJOMUhiZnM1T2wwRXdycDBaNmM?oc=5",
+      "date": "Thu, 12 Nov 2026 23:55:00 GMT"
     },
     {
       "title": "福島県で交通死亡事故相次ぐ 矢吹町で軽トラックと乗用車が衝突 いわき市ではトラックが飲食店に",

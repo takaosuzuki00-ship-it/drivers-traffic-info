@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-14T15:04:57.328735",
+  "generated_at": "2026-11-14T18:04:21.738295",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.5,
+    "temp_max": 17.8,
+    "temp_min": 8.7,
+    "precip_prob_max": 4,
+    "precip_sum": 0,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 8.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 17.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月13日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
@@ -38,9 +97,9 @@
       "date": "Wed, 11 Nov 2026 08:30:00 GMT"
     },
     {
-      "title": "【速報】東京・青梅市の圏央道外回りのトンネル付近で5台が絡む事故 1人が死亡 大型車の運転手を現行犯逮捕 警視庁",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04WUp1WkJuQl9TUDhQR2ZSYUNjQjdkdzZocnlBV2JuLVZmLTFPNm9JbWNGVEpGS2FOaFF5V2hmQXFlR3Fkc3dFNERoSy1YTTJCRXBWZUtHUQ?oc=5",
-      "date": "Wed, 11 Nov 2026 05:20:00 GMT"
+      "title": "東京・青梅市の圏央道で5台からむ事故 追突された車の男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OM2ZLTzBfeUdNNnpMMGJucTRBTGgwd0dzVjhUVTRXcGN6ZlBfX2lIWkF4b3U1YkI3TnpMT1ZUWThkak1DMTdNN1NaQUdReXlWczFxMkRDNVVTelV0QjF6dmpPbE9qM29RclFZQzZOMERHZw?oc=5",
+      "date": "Wed, 11 Nov 2026 04:38:40 GMT"
     },
     {
       "title": "圏央道で5台絡む事故 1人心肺停止",
@@ -49,13 +108,13 @@
     },
     {
       "title": "東京・青梅市の圏央道で5台からむ事故 追突された車の男性死亡",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OM2ZLTzBfeUdNNnpMMGJucTRBTGgwd0dzVjhUVTRXcGN6ZlBfX2lIWkF4b3U1YkI3TnpMT1ZUWThkak1DMTdNN1NaQUdReXlWczFxMkRDNVVTelV0QjF6dmpPbE9qM29RclFZQzZOMERHZw?oc=5",
-      "date": "Wed, 11 Nov 2026 04:38:40 GMT"
-    },
-    {
-      "title": "東京・青梅市の圏央道で5台からむ事故 追突された車の男性死亡",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UQ3NWaTFoalZ1QUdsanJwenBEUkNkMUw3dk1xUXo4MkVTMTN4VjVmdXU2QmlqNFlJQmI4bEp4YUNmbVpFTlN1dWZCUmpxNmM?oc=5",
       "date": "Wed, 11 Nov 2026 04:47:34 GMT"
+    },
+    {
+      "title": "東京・浜離宮近くで多重事故か、3人搬送意識あり ごみ収集車が横転 [東京都]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LYzU4TmdfQnU0NHNfMThQVVJBZWdZT1N2d0NLWW9Jb3FVN09QQWpheTRsam9Zd1lLRzJpanNVdmRwTkthejdUT19USG42dDJIVkU0RE5UdDNZYy10N2JCZWdxcTRjdWc?oc=5",
+      "date": "Fri, 30 Oct 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

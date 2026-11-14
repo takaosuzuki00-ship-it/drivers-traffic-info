@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-14T15:05:23.232940",
+  "generated_at": "2026-11-14T18:04:28.400862",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.2,
+    "temp_max": 19.1,
+    "temp_min": 12.5,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 7.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 12.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 18.2,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "15:00",
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 17.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 15.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -16,14 +75,14 @@
       "date": "Mon, 09 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
-      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
-    },
-    {
       "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82UEFubzdVM3pVZndkMk1YODJ6MVJCOVVVbHUzMVFTaUNOMlp6MmVXYTc0c0VvWnJ0SkU0VkljQnc0NW8yb3dIT2pEV0hLY1QtdFNSb2kteTV2WlNpbWJ0WjRXWk5RTTVWUnhBbGZfVdIBdEFVX3lxTE9zQS1LYmVmeTFXOFo1NlkxX29ReG04a0h4Nmo2ZVExWWNEdHFoczRXUDdOZWg3WFd2YkFIZ2Z6YmFncS1oV0RTZ28yVDZrMTdab25WYXhYMTRmRV9qM0JqMmcwWld3T2xzTlBtY2d5dklOOEYy?oc=5",
       "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "１１月１１日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
@@ -33,9 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "［道路情報］新潟バイパス桜木ICなどで事故のため一時通行規制（11月13日）",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Oa2pkdXZGZ3lhazhacGdmcThLTGEtREVKUzl2d1JfdFVZNXNueElLYVFlbkxIMWprd3pMbGdmUFpXX3d2OUZIQnFvU3RIWTdiMmtidEl1aFJFb2l0RlE?oc=5",
-      "date": "Fri, 13 Nov 2026 09:40:00 GMT"
+      "title": "［道路情報］新潟バイパス、事故で一時車線減少（11月13日）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vYlFuQy1BWmxnNE5ZaldURGxiWjZNbnItSnMwd0E3UmVNWGZIZFVtcHVMU1lQNXFWQWJMZnFxbnFnckJpejFYUG8zMmc4SE5ORkJ6WkZ4ZWhrekZ1Snc?oc=5",
+      "date": "Thu, 12 Nov 2026 22:50:00 GMT"
     },
     {
       "title": "交通事故発生状況",
@@ -43,9 +102,9 @@
       "date": "Mon, 26 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "［道路情報］新潟バイパス、事故で一時車線減少（11月13日）",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vYlFuQy1BWmxnNE5ZaldURGxiWjZNbnItSnMwd0E3UmVNWGZIZFVtcHVMU1lQNXFWQWJMZnFxbnFnckJpejFYUG8zMmc4SE5ORkJ6WkZ4ZWhrekZ1Snc?oc=5",
-      "date": "Thu, 12 Nov 2026 22:50:00 GMT"
+      "title": "［道路情報］新潟バイパス桜木ICなどで事故のため一時通行規制（11月13日）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Oa2pkdXZGZ3lhazhacGdmcThLTGEtREVKUzl2d1JfdFVZNXNueElLYVFlbkxIMWprd3pMbGdmUFpXX3d2OUZIQnFvU3RIWTdiMmtidEl1aFJFb2l0RlE?oc=5",
+      "date": "Fri, 13 Nov 2026 09:40:00 GMT"
     },
     {
       "title": "安全安心:新潟県交通死亡事故多発警報の発令について",

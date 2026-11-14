@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-14T15:04:18.754986",
+  "generated_at": "2026-11-14T18:04:14.176295",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 15.2,
+    "temp_max": 18.6,
+    "temp_min": 8.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 15.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 13.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【続報】交通取り締まり中、違反車両に引きずられ転倒 男性警察官が重傷 群馬・渋川市",
@@ -33,24 +92,24 @@
   ],
   "accident_news": [
     {
+      "title": "群馬・北関東道で転倒し車と衝突 バイクの男性死亡 一時通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkUTA5cnFKbHRXTk1VVXVhUVdscEtvdnlEX2ZTQzFEaXpSMVdzR2Q3NHdCcS16c2h6bFRqUHNXRFNucHExcW5mcDRXQUtlTlBfUHBwOGk3RjE0QQ?oc=5",
+      "date": "Sat, 14 Nov 2026 08:04:00 GMT"
+    },
+    {
       "title": "乗用車にはねられ88歳男性が死亡 群馬・富岡市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZU1pYcFVnMzNiREJaQ2RJZ0RLZklld1lYVjVXSGEzb1JsWkhQZUpvWG1yTjdvakVTa0J2dWhZeFA1eFZFYWtXMC1BeU5lNl9XM0RWNWpRaTZPUQ?oc=5",
       "date": "Thu, 12 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "交通事故防止に関する取組みについて",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
-      "date": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "住宅火災で1人死亡 住民の高齢男性と連絡とれず 群馬・高崎市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSnItZmo4SnRzRUdqYlRUN3dOdjM4Y3VSYUt4M2pfclV0XzRHYk8wa0c0MWFBQ3Q1TDhNN2VwSEJsSzhJXzBPeDBIQUJoSHhlWVlqeW1lal9wYlY5RFh2Zzc0Y1ZSdHFTWGk5ZGJWUVU2UQ?oc=5",
+      "date": "Sat, 14 Nov 2026 04:14:57 GMT"
     },
     {
       "title": "軽乗用車と衝突しオートバイの男性死亡 群馬・伊勢崎市（群馬テレビ）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdElwamNZNGFiMDM1RWt5bmNjLWROMThJZGwxWktUOFRfWE0xclZUdGlKbE1xc3NaUzB4S2s3TzV2aGttVnNLelkzbzRmZFpHajFIWTBHNm5UWFQ3LXV3SmNZVWFyVTNFQ0dLenJfQ0JpWDNvYTZ0QnU1NlJuSGM?oc=5",
       "date": "Mon, 09 Nov 2026 09:32:21 GMT"
-    },
-    {
-      "title": "住宅火災で1人死亡 住民の高齢男性と連絡とれず 群馬・高崎市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSnItZmo4SnRzRUdqYlRUN3dOdjM4Y3VSYUt4M2pfclV0XzRHYk8wa0c0MWFBQ3Q1TDhNN2VwSEJsSzhJXzBPeDBIQUJoSHhlWVlqeW1lal9wYlY5RFh2Zzc0Y1ZSdHFTWGk5ZGJWUVU2UQ?oc=5",
-      "date": "Sat, 14 Nov 2026 04:14:57 GMT"
     },
     {
       "title": "群馬 伊勢崎３人死亡事故 ２審も懲役２０年の判決",
