@@ -1,93 +1,34 @@
 {
-  "generated_at": "2026-11-14T09:02:10.873569",
+  "generated_at": "2026-11-14T12:05:48.097985",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 12.8,
-    "temp_max": 18.0,
-    "temp_min": 10.2,
-    "precip_prob_max": 15,
-    "precip_sum": 0,
-    "wind_speed": 1.5,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 12.1,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 10.8,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 10.2,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 12.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 17.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 17.4,
-        "weather": "曇り",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 16.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "21:00",
-        "temp": 14.6,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
-    {
-      "title": "11月11日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55YTRhOVpvb1A3UnAtZi01X2otSFJSVUlFenNOems5Rk9DLWtRU29MeWZ1S0hLaUM2YVNtS1ZMTzZWUFM0cmF1Y0JOWU5hdHJhUmVZa2ZFQXprQ0tyNDhXMVRIcHhyRG8?oc=5",
-      "date": "Tue, 10 Nov 2026 20:02:00 GMT"
-    },
     {
       "title": "岐阜市のアパート火災 出火元に住むトルコ国籍の男逮捕 麻薬取締法違反の疑い（ぎふチャンDIGITAL）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNElSanY3QU42Q1QtME5MWWZCYnM5WDc0WUQzNkVEbVNLUUJ1czFVT19uMzR2RG1zWDVlbWZlaHVNZUk3emItV096ZGozMTJfZm9LNE81U204RVJhdVZQbzF2NGVuUTYwY2Zxa0pHdTNfSndvZ2JQcGJDa0VDS2M?oc=5",
       "date": "Wed, 11 Nov 2026 12:02:21 GMT"
     },
     {
-      "title": "【各務原警察署】覚醒剤取締法違反被疑者の逮捕（10月22日）",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VEVEOElXWmltRml1ZXZ3TUswSm1xemsyVW0wTWE3bWVoYmpDcmJwSlNGQnFYTU1CWU9fSWUzdDBJaGVGdzVWUlJhNC1sU0kxTno1bXYyZEZhRlZLVjNIeTV1QkVjX2NKXy1kVkV3?oc=5",
-      "date": "Fri, 23 Oct 2026 03:59:22 GMT"
+      "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UY3h0a2NTaG9FTVhWVXhaVU8yWDRZU0JnTV9vNXBjZFJUTVBGUmN4ZWtlUHRIdWF2c0NBc1pkUm1kYVZMSDgxOFp1SV90SkVwMjhiZ3ZoUW5QaC1aU0Z5Mm5ONGtCRnM?oc=5",
+      "date": "Sat, 07 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYWV5a25GVVpxTExkUWZPOWYxOUVNTmRETGtfUWxsTmZxc2lpZkU4UTZGMGhmR2NjMV9rMFZyem5nLTV1eGNXWGx6X2tybmpvZ0k5Zmkwa2h5dw?oc=5",
-      "date": "Sat, 07 Nov 2026 20:02:00 GMT"
+      "title": "麻薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
+      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
     },
     {
       "title": "岐阜県警が6所属合同の一斉検問 交通違反の取締りで連携",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RmFxRnZqSV9iazYwQV9ZcWoxNUptOEFtNUlkMVdPU1YtZGxyaTl5MUVESVptZUFUVC1QREZsRFE5X3Fhd2dIYm9wd20tTFdycDU2RW13WFFKekk?oc=5",
       "date": "Thu, 07 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【岐阜北警察署】『岐阜中警察署、岐阜北警察署合同検問の実施！！』",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SODdHTzhWSFUzM3AwVHUtRGlTR3E5b0t5QTVwN3VuekhDLXdtMjhpUk5TM1FiQWZwa0FFZTNyMjJSSDUwTVNDTXlueW1kMjVSUDRzc2ZYVFIxaWo4VWVTaUdFZzdyNFpZ?oc=5",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,9 +43,9 @@
       "date": "Mon, 09 Nov 2026 15:04:00 GMT"
     },
     {
-      "title": "【現場の状況】交通情報 国道19号 岐阜県中津川市 中村交差点付近 車線塞ぐ横転転覆事故で規制渋滞11月12日 #岐阜",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ILVRBQUpYbFMyMnBOY1NIS0x0c3A2MkVSZHZvWGdobFlxRVpZT3I1VEZCS3UxMlN6TVVB?oc=5",
-      "date": "Thu, 12 Nov 2026 02:42:51 GMT"
+      "title": "【現場の状況】交通情報 東海北陸道 西乙原トンネル付近 交通事故で規制渋滞11月14日 #東海北陸道 #岐阜",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5IZGh1VG5vaVU2dDZJY0Zsb3Z3QjBLRUpMWmtiMUtCSHBaa3c1d1RvMnZ5cmFlamlseGRR?oc=5",
+      "date": "Sat, 14 Nov 2026 00:57:24 GMT"
     },
     {
       "title": "薄暮時の交通事故防止",
@@ -112,9 +53,9 @@
       "date": "Sat, 07 Nov 2026 06:28:02 GMT"
     },
     {
-      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
-      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+      "title": "【現場の状況】交通情報 国道19号 岐阜県中津川市 中村交差点付近 車線塞ぐ横転転覆事故で規制渋滞11月12日 #岐阜",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ILVRBQUpYbFMyMnBOY1NIS0x0c3A2MkVSZHZvWGdobFlxRVpZT3I1VEZCS3UxMlN6TVVB?oc=5",
+      "date": "Thu, 12 Nov 2026 02:42:51 GMT"
     }
   ],
   "official_links": [
