@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-15T12:08:01.250415",
+  "generated_at": "2026-11-15T15:03:59.158256",
   "pref": "和歌山県",
   "region": "近畿地方",
   "capital": "和歌山",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 17.5,
+    "temp_max": 19.8,
+    "temp_min": 16.2,
+    "precip_prob_max": 100,
+    "precip_sum": 28.5,
+    "wind_speed": 6.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.2,
+        "weather": "霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "03:00",
+        "temp": 16.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 16.6,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 19.1,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 18.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 17.5,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "21:00",
+        "temp": 16.5,
+        "weather": "晴れ",
+        "precip_prob": 22
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
@@ -14,11 +73,6 @@
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
-      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "２人逮捕、35件検挙 和歌山県内で一斉検問",
@@ -38,14 +92,14 @@
       "date": "Tue, 19 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「1台が横転 中に人が…」6台絡む事故で4人を救急搬送 和歌山",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3RzFwUVJYTFB2bTVTV01XZDhPM0RNMlZQelRDNGpsS282SEtDUFJnTVMta3ZReWZWaElwaVZnMkx3NmFlNnpnSUtlMldsdGJoYVVGazFPSEVrWmlNN01FRW0zeHBWLUFUTnVxQ3VqeVdzUQ?oc=5",
-      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "近畿6府県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NQ2pYdXFMRzdwdldKdGhWaHhhM090RFRfbHpoLUp3RlV5cHhhTnJocHRWYlFwVjV6WU1GRzE0UHo3OFFiaXRlaXNJMDZHUHlnY3RrSUd3UW5mTDlVS1hCQk9BVmxhNVZoQ0hB?oc=5",
       "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「1台が横転 中に人が…」6台絡む事故で4人を救急搬送 和歌山",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3RzFwUVJYTFB2bTVTV01XZDhPM0RNMlZQelRDNGpsS282SEtDUFJnTVMta3ZReWZWaElwaVZnMkx3NmFlNnpnSUtlMldsdGJoYVVGazFPSEVrWmlNN01FRW0zeHBWLUFUTnVxQ3VqeVdzUQ?oc=5",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "列車事故、邦人２人目の死亡確認",

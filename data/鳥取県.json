@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-15T12:08:13.246379",
+  "generated_at": "2026-11-15T15:04:02.048942",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 17.5,
+    "temp_max": 17.7,
+    "temp_min": 15.5,
+    "precip_prob_max": 100,
+    "precip_sum": 19.6,
+    "wind_speed": 2.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 15.5,
+        "weather": "強い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "03:00",
+        "temp": 16.0,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 15.6,
+        "weather": "雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 15.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 17.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 17.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 17.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 84
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "可搬式オービス取締り予定 11月2日午前に米子市内 鳥取県警（2026年10月30日掲載）｜日本海テレビNEWS NNN",

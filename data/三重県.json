@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-15T12:06:44.361876",
+  "generated_at": "2026-11-15T15:03:39.914501",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 16.9,
+    "temp_max": 16.9,
+    "temp_min": 14.3,
+    "precip_prob_max": 100,
+    "precip_sum": 19.6,
+    "wind_speed": 4.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 14.3,
+        "weather": "強い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 14.6,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 14.8,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 15.9,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 16.9,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 16.0,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 43
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月13日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
@@ -27,15 +86,15 @@
     },
     {
       "title": "死亡事故多発で一斉取り締まり 三重県警、速度超過など摘発",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKcS1IV2QtMFcyMFJJV0VKc05Ca0REVUVxaTZDN0pJX3ZLOTlHalpUX01HMTJ3OEdKVkp5VGpiSTlwMHR3ZTdtT3g3T0JneWdQcUxlaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQR1RBcTdNYzhraVdXZXkwRTZ2QTZUbzR5YTd6TlJUQkpDYURZbUkxbHZoWDB5ckNuVnA4ZFZ2OUREVHdTZFZ4YVJjdjhTTkdXeXp0YUJITU56VHVOV1o3M1BnUzlXMGVYSUZMQkVPUUNXWk85NG51dEQ2SS1RN0F4Z3dKUnoyQzMyWUtReFlRVlJIOVliRENzblRDMGIzc2hMSzZIWTloQlBoMXg5elFzZlFpb3p5Q0VKRzdHclJRbjBoLUQ2d1lwR1hpMmpxUWkzeXktODRuOW4tWm1iWDQ2bEFlZzMyYVRqVjFxdWN2TkpMTDIza3hFREhCMWpQQi1lQUtFWnhZRUVWbUdqZXl3MlZaUk9uVHF2ZWJTdkVwR3ZIRGFYTTlPYXNFZWFRVERNaUJFYWt4OENEMTF5Zlk0RENGWVpLWDRXQzNITUVsUHNRblFyQmNmaFd1cDVnZw?oc=5",
       "date": "Thu, 11 Sep 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "軽四衝突、バイクの男性(22)死亡 三重・明和の町道交差点で（夕刊三重）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSHg1ZDROVWRhdmN3XzFWN2VBSEx5YUVZbjFaWFNwSFo1ZHhUdm51THpSaVQzR1ZDTUhoREczb3ktdnJPTnBFVGYybGx6b1BQTVNlc2pOVUtQQnpQRFNiNlNHSVNvd2pOM0hkUmNoaTFMMFNUY3R1NWhkNVRmbzQ?oc=5",
-      "date": "Fri, 13 Nov 2026 10:21:35 GMT"
+      "title": "県道を北進中のバイクと右折車の衝突事故でバイクを運転の22歳男性が死亡 三重・明和町（メ〜テレ（名古屋テレビ））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zU1YtX3FXZzJudjdqZjFvcVlFZ1J2UDB4clJBQjBIZFhHeW45SkxhNUgwV3BEdWZEUFpDSUdKVlRUWHNHNDB0b0RNV1Vhejh6YUZXNnJVb25LRUdEYWZRdEQ5bVE5TkxIcVR2akQtYnlpM3NHd1kwNVM3bjVzQ2s?oc=5",
+      "date": "Thu, 12 Nov 2026 17:27:01 GMT"
     },
     {
       "title": "名阪国道でトラック２台の追突事故 車両火災で焼け跡から１人の遺体 三重・伊賀市（2026年11月12日掲載）",
@@ -53,9 +112,9 @@
       "date": "Thu, 12 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "名阪国道で5台がからむ多重事故　最初に追突した大型トラックの運転手ら3人けが　三重・伊賀市",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95Nk12bFBsckktTVk1Q2toNFNNN19QMG00UklvRE0zaEcyWVFSQ2FKbGxRTnp2NS03RDRuSFdIZGxmS1dVanRYYkdMTGF4SkttbWfSAWRBVV95cUxOSGNTeFJfMUwwUEFuRkd3ZTJpaElVSnpCeWtza3RuNjVVNHZyaV81TjdmX21tWFRVY1NwcEhPbWo4WjU5bGgwREctanN5TnoyYkl4TUVHV0JoQW40Y1pZUjBVc29T?oc=5",
-      "date": "Wed, 11 Nov 2026 07:51:00 GMT"
+      "title": "軽四衝突、バイクの男性(22)死亡 三重・明和の町道交差点で（夕刊三重）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSHg1ZDROVWRhdmN3XzFWN2VBSEx5YUVZbjFaWFNwSFo1ZHhUdm51THpSaVQzR1ZDTUhoREczb3ktdnJPTnBFVGYybGx6b1BQTVNlc2pOVUtQQnpQRFNiNlNHSVNvd2pOM0hkUmNoaTFMMFNUY3R1NWhkNVRmbzQ?oc=5",
+      "date": "Fri, 13 Nov 2026 10:21:35 GMT"
     }
   ],
   "official_links": [

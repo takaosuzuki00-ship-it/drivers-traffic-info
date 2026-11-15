@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-15T12:02:18.908333",
+  "generated_at": "2026-11-15T15:02:29.141242",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 10.6,
+    "temp_max": 10.7,
+    "temp_min": 8.1,
+    "precip_prob_max": 98,
+    "precip_sum": 7.4,
+    "wind_speed": 1.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 8.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 9.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 8.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "09:00",
+        "temp": 9.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "12:00",
+        "temp": 10.4,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 10.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 9.7,
+        "weather": "霧雨",
+        "precip_prob": 69
+      },
+      {
+        "time": "21:00",
+        "temp": 9.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 55
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月15日（日）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",

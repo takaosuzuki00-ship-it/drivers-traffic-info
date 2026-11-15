@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-11-15T12:07:47.662655",
+  "generated_at": "2026-11-15T15:03:55.440273",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 16.1,
+    "temp_max": 16.2,
+    "temp_min": 13.9,
+    "precip_prob_max": 100,
+    "precip_sum": 23.5,
+    "wind_speed": 0.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 41
+      },
+      {
+        "time": "03:00",
+        "temp": 14.5,
+        "weather": "霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "06:00",
+        "temp": 14.4,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 15.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 15.8,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 16.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 14.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 78
+      },
+      {
+        "time": "21:00",
+        "temp": 14.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "１１月７日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wMlFiV1UwM3A0NFVRblgxSmRMYTdFYzhzUk5PSi1iUVRZTGVsQ2RIUjBtRWFaUkJyalZVb19jVUU1VmNzQXNDX1VQTGY1NmR5YW1HcUFWRFd6YUdhVVV0VXJrS1RfR1pN?oc=5",
-      "date": "Fri, 06 Nov 2026 20:00:00 GMT"
-    },
     {
       "title": "１１月１４日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BLUFTak9SUUFpYTFXM25JNC1ORUdXbnZhNjUtVjBPNGFSSWJBUlZFc1RyTi1UUVJvTExfd3lNeDBMd2kzbUFzdXNDczgtMXFDVmpIaDM5aWxiYjZDTXlPWF9KSl9PRG5peTltb21VTzVEZ9IBd0FVX3lxTE9Uc3hEejlnM2xmczB6VVdVZG5oNnExME5laFBZampUTFdCalZVZ25za0liMndUd21QS3lDLVFKTExKYTk1TThVOXNxclAzUC1OMFQ4XzdXd3VPY0dDZXRqT3JKUk9vSDVWay1qTVhSWm56SDV5X2pJ?oc=5",
       "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "１１月７日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wMlFiV1UwM3A0NFVRblgxSmRMYTdFYzhzUk5PSi1iUVRZTGVsQ2RIUjBtRWFaUkJyalZVb19jVUU1VmNzQXNDX1VQTGY1NmR5YW1HcUFWRFd6YUdhVVV0VXJrS1RfR1pN?oc=5",
+      "date": "Fri, 06 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
@@ -53,9 +112,9 @@
       "date": "Sun, 01 Nov 2026 21:15:17 GMT"
     },
     {
-      "title": "奈良・名阪国道で10台近く絡む玉突き事故 負傷者有無を調査中",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVEtidDJTcFlKS3VKWlpTekVmUzhibk5NTWljM25MOUVwQTlzQkhJSHV4Ynp3THgwUDFxLXNFbFFxeHBySnlCN2JfbkVFVkFZanJnVGc4ZnNxUGx5RkZTSS1jYV9zWjNR?oc=5",
-      "date": "Fri, 04 Sep 2026 07:00:00 GMT"
+      "title": "京都府木津署・奈良県奈良署・三重県伊賀署が合同で交通事故防止啓発",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zdE5XU29MMmFMWkVGOE0xVklWMTM1TkVyQVZJV0N4T2Fncy1LblZnSkFGb0lyUExmMXBRTmM1OVV5WUpLRWVndEdHVzVGa3l3Q1VwSUIxbEJwZ0U?oc=5",
+      "date": "Thu, 21 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
