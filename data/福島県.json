@@ -1,83 +1,24 @@
 {
-  "generated_at": "2026-11-15T09:01:51.739056",
+  "generated_at": "2026-11-15T12:03:09.818531",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 12.4,
-    "temp_max": 13.5,
-    "temp_min": 11.0,
-    "precip_prob_max": 100,
-    "precip_sum": 11.6,
-    "wind_speed": 1.0,
-    "hourly": [
-      {
-        "time": "00:00",
-        "temp": 12.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 11.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 10
-      },
-      {
-        "time": "06:00",
-        "temp": 11.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 88
-      },
-      {
-        "time": "09:00",
-        "temp": 12.4,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
-      },
-      {
-        "time": "12:00",
-        "temp": 13.2,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "15:00",
-        "temp": 13.4,
-        "weather": "強い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "18:00",
-        "temp": 12.5,
-        "weather": "強い霧雨",
-        "precip_prob": 96
-      },
-      {
-        "time": "21:00",
-        "temp": 11.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 65
-      }
-    ]
-  },
+  "weather": {},
   "enforcement_news": [
+    {
+      "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95VVg0UTRCYkgxVWF2eG0wMGxZRjAxYWQtRElqdFh5TldQYWstS0NBbHhlYm5BeF9VMEJINlJ1SmlMY2ZTWjZSdk1Ed2JaY3JIV0ZySXhMMXRPd3BXclU4V2dtdkl0Q2YydWtJSmFENNIBdEFVX3lxTE50eWZJSXNpbHZibFNCNDNWamowTVhqbzBDNXFUYVRicFd4UW9nVFpOWkFQclFWc184R2x3TDRNcmIzSTFJMnUwblo1dldLVGJKVmVSeWVGaDNrMVRiS1pEUXpDM3hEc3hOTUtTTi0yUmZ5MzJn?oc=5",
+      "date": "Sat, 14 Nov 2026 20:02:00 GMT"
+    },
     {
       "title": "１１月１５日（日）【高知県 交通取締情報】午前・午後　各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUVNZ2lEQlFNMlVwWjRUWHFuYlUwWVBYbjdaUkx1cjQ0bHpBX1l1djZwVjFCaFVmaHQybnYtV1FNcUZWV2ppeG0ycHNwbEdkM3hpc1oxYzh2MExJYlM4bFFxY3kzQ0ZJYTlqLWxBaXdzdE9yOFR0enRya2Q4dURyVHR6eDhTcFZDUlkwY2RQV29TWlVnLVhNbEhvZ1JmUUFVclZiV0lzTXNTU1Z5QmFma1N4aFc5MEZIMmg5a0VXRzRIdmVyNDRR0gF3QVVfeXFMTmlQVkhDcVBUS3QyREZsdzJSQXpKdVNfeHhPei1yaGZpbHdhSW1KQW5aN2FwRUFkRTYxbnN1TjNZUklrODczWjE4NGlFMWNNWjZkUENZTzVyRFJYZlhldFUxczN1SlVlbGdPdU1xdy1LdkZ6Y21DSFk?oc=5",
       "date": "Sat, 14 Nov 2026 20:15:49 GMT"
     },
     {
-      "title": "11月12日（木）【熊本県 交通取締情報 午前・午後・夜間】交差点違反など",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hNk1qbG9XcW42RjY4MTJiZ3hndmMzZ2U5V2paTDNIbVdHWDVQSEFzLWYzcmw5TjNVdU1JMDRwOTBlY3BGSnFlVmlGNTdNVWxNZ253MFAtQQ?oc=5",
-      "date": "Wed, 11 Nov 2026 20:02:00 GMT"
-    },
-    {
-      "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82UEFubzdVM3pVZndkMk1YODJ6MVJCOVVVbHUzMVFTaUNOMlp6MmVXYTc0c0VvWnJ0SkU0VkljQnc0NW8yb3dIT2pEV0hLY1QtdFNSb2kteTV2WlNpbWJ0WjRXWk5RTTVWUnhBbGZfVdIBdEFVX3lxTE9zQS1LYmVmeTFXOFo1NlkxX29ReG04a0h4Nmo2ZVExWWNEdHFoczRXUDdOZWg3WFd2YkFIZ2Z6YmFncS1oV0RTZ28yVDZrMTdab25WYXhYMTRmRV9qM0JqMmcwWld3T2xzTlBtY2d5dklOOEYy?oc=5",
-      "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
       "title": "国道４号で夜間検問実施 須賀川署",
