@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-15T21:02:08.216570",
+  "generated_at": "2026-11-16T00:02:03.378659",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 11.1,
-    "temp_max": 12.0,
-    "temp_min": 10.5,
-    "precip_prob_max": 100,
-    "precip_sum": 8.3,
-    "wind_speed": 2.5,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 10.1,
+    "temp_max": 17.9,
+    "temp_min": 9.8,
+    "precip_prob_max": 47,
+    "precip_sum": 0,
+    "wind_speed": 4.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 12.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 0
+        "temp": 10.1,
+        "weather": "快晴",
+        "precip_prob": 47
       },
       {
         "time": "03:00",
-        "temp": 10.9,
+        "temp": 12.0,
+        "weather": "快晴",
+        "precip_prob": 12
+      },
+      {
+        "time": "06:00",
+        "temp": 13.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 15.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 13.7,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
-        "time": "06:00",
-        "temp": 10.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 8
-      },
-      {
-        "time": "09:00",
-        "temp": 10.7,
-        "weather": "弱い霧雨",
-        "precip_prob": 18
-      },
-      {
-        "time": "12:00",
-        "temp": 11.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 69
-      },
-      {
-        "time": "15:00",
-        "temp": 11.1,
-        "weather": "霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "18:00",
-        "temp": 11.1,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
         "time": "21:00",
-        "temp": 11.1,
+        "temp": 12.6,
         "weather": "曇り",
-        "precip_prob": 94
+        "precip_prob": 2
       }
     ]
   },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "「ひき逃げ」で32歳男逮捕 路上の男性に衝突か 男性は死亡 埼玉・越谷市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00V2NlYi1oVXRqVW1RaVlZUEYwM28zSE4yUzZHNDRaanVNZ1pVU2xMTU5HdGdrdmlfNWJpR1N5aENJZjcwTkhMbVhIV0NSMl9aYlB5TUlQeHlsclBlS1JhS0hoVG0xMm5Wa1VaRFF3OGQyQQ?oc=5",
+      "date": "Sun, 15 Nov 2026 00:00:07 GMT"
+    },
+    {
       "title": "ひき逃げなどの疑いで32歳男を逮捕 路上で男性を車ではね死亡させ逃走か 埼玉・越谷市（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNmllQmZwT05ia3ZidlR6RmhFQU11VTV2ajFMZTJaQXNKZmFqQ1BFZUE1ZWNtLXEzZVAwelBBWm1VRlpPSE1wTVZtVUZGSVlDcXhfcGtCQ0U3LXhBeDlyYXlvVVlSckIya25VNDkzYzhmUXl3UWhRQ1lpa1N4c1E?oc=5",
       "date": "Sun, 15 Nov 2026 00:56:01 GMT"
@@ -102,19 +107,14 @@
       "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "「ひき逃げ」で32歳男逮捕 路上の男性に衝突か 男性は死亡 埼玉・越谷市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00V2NlYi1oVXRqVW1RaVlZUEYwM28zSE4yUzZHNDRaanVNZ1pVU2xMTU5HdGdrdmlfNWJpR1N5aENJZjcwTkhMbVhIV0NSMl9aYlB5TUlQeHlsclBlS1JhS0hoVG0xMm5Wa1VaRFF3OGQyQQ?oc=5",
-      "date": "Sun, 15 Nov 2026 00:00:07 GMT"
-    },
-    {
       "title": "バイクの男性死亡…信号待ちで停車したバイクに車が追突 事故を目撃した近隣店舗の従業員が110番",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55S19NV3NOZEtOM0FiV3Q5enBmMVp0OWNtbGJyWnJhazVfcFBzOEpqR2JsLUJYRnFGaG1NRFdfVkdaNWdnMGhPeW1vbHdzZnV6VTJMVG9Hcw?oc=5",
-      "date": "Sat, 14 Nov 2026 23:56:24 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMzVNdXlPTFQzWU85R0dsN2xuYWl3VGg1aTdfWFN2UGJIRnpmY3NmaGtPX3dtTU16c2lqbWhSbFlyRkpaRm0xWGNfX0NBUUxSZzIzdVVQRDRmV1VmX1B0T2J2aTAxZw?oc=5",
+      "date": "Sun, 15 Nov 2026 01:38:23 GMT"
     },
     {
-      "title": "埼玉で死亡ひき逃げ容疑 32歳の男を逮捕「人だった認識なかった」 [埼玉県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTDBnaHd6bEVQYXVydVR6YnlQSDNRdjhmVk9mQVBqSW1Dd0lNZFNPU2hneHdsclN6eDlidy1nWGluSjZaV1M2LV9pVjR1TE9WbEwzNUcyZ0NVbUdjNHZCUHI3bXdVZW8?oc=5",
-      "date": "Sun, 15 Nov 2026 01:50:00 GMT"
+      "title": "「人だったという認識はなかった」埼玉・越谷市の男性死亡ひき逃げ事件で32歳の男逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PN3d6Y2lBdXZFaElwTFl3blJ0Z2pVRldaU2hHZGhpa0dtdkZOVE5aQ000QzhyWklYd3RjZ2NYWm01M0NCYkQ4eGw2blI1QQ?oc=5",
+      "date": "Sun, 15 Nov 2026 06:45:00 GMT"
     }
   ],
   "official_links": [

@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-15T21:02:27.266922",
+  "generated_at": "2026-11-16T00:02:21.704430",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 17.3,
-    "temp_max": 17.3,
-    "temp_min": 13.9,
-    "precip_prob_max": 100,
-    "precip_sum": 25.2,
-    "wind_speed": 14.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 16.5,
+    "temp_max": 16.5,
+    "temp_min": 11.0,
+    "precip_prob_max": 98,
+    "precip_sum": 0,
+    "wind_speed": 19.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 67
-      },
-      {
-        "time": "03:00",
-        "temp": 13.9,
-        "weather": "強い霧雨",
+        "temp": 16.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 98
       },
       {
+        "time": "03:00",
+        "temp": 15.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      },
+      {
         "time": "06:00",
-        "temp": 15.6,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 13.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
       },
       {
         "time": "09:00",
-        "temp": 16.3,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 13.7,
+        "weather": "曇り",
+        "precip_prob": 10
       },
       {
         "time": "12:00",
-        "temp": 16.8,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 14.5,
+        "weather": "曇り",
+        "precip_prob": 27
       },
       {
         "time": "15:00",
-        "temp": 17.3,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 14.6,
+        "weather": "晴れ",
+        "precip_prob": 8
       },
       {
         "time": "18:00",
-        "temp": 17.2,
-        "weather": "霧雨",
-        "precip_prob": 84
+        "temp": 13.1,
+        "weather": "曇り",
+        "precip_prob": 4
       },
       {
         "time": "21:00",
-        "temp": 17.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 84
+        "temp": 11.6,
+        "weather": "曇り",
+        "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月13日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtdE94cGtEQ3NEQlJNZEZTQnlwVUllLWJ0NGItTThpQU14bWdILVVybjJFSUpGeUZjenBjX05DUV93MU95SmZXREhxSXhyNV9JaHZuNHBhRUtyOEhCVmIzdHYtT1ppSFkzdlhsMURIc9IBdEFVX3lxTE96UjE0VWd0UEZ5OFZyTFA5dU0ycFdHMTlzMHRlZ0xTUVd2cklLbXBEZmpTd0lFZzRocGpIRUtRMWJjd1Vza2Y5TFl1T3ByYVRVSVZUZEt4NTAyRGlQbF9veGhOaEFSME1NRC1WaDNwejFUc0RP?oc=5",
+      "date": "Thu, 12 Nov 2026 20:02:00 GMT"
+    },
     {
       "title": "【交通取締情報】福井県警 ３月２９日",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13dEwwSTNObzN2X1NjWk1xOGowYnl6bWs3Zmh2VzVmek15M1ktT1k4Z25BTU5JM1g4YTEyNWhlNWZScnhiNXhXWTJkaUJrbk9BdURaTEgxVGQ1WU1wU1E?oc=5",
@@ -83,11 +88,6 @@
       "title": "飲酒運転根絶へ 石川署が夜間検問",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIemJvTTRyblN5c0NHUW9mRHdNdVZKRjFoZDV1NkNZS2ExamVNNVJYSUxwSFc0TTZER2E5Z2x1X0pzYjVGRmNwQld2SQ?oc=5",
       "date": "Tue, 29 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転根絶へ 石川署が夜間検問",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9reWpFTTEtRlNmTjVmV0RaTkU3SU1PRFc5UDY1RHJfckxOckt5TEwydXc0aHVNci1HRkpmZ2RoWDVCTGlZVDhzWVY2bWhUMW8?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,24 +97,24 @@
       "date": "Fri, 13 Nov 2026 15:50:26 GMT"
     },
     {
+      "title": "繁華街の国道を横断中の男性 車にはねられ意識不明の重体に 石川・金沢市（2026年11月12日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14OUpZN1hLdWg5czJYVmcwWFRKbEJlM3VjWUl1TVc2MXdDZzVYZ1N4TVBrRjlTYWUyRHAtN3pKa2ZvblVyMk5yc2htSnozaTVwczVlNFRhdUtjRkMtOU5YTlpVbXFjRmJKc0dQZUFrQjN4WFpFN2NSd1NiZDVWZUk?oc=5",
+      "date": "Fri, 13 Nov 2026 02:45:02 GMT"
+    },
+    {
       "title": "国道8号で“スポーツカー”が街灯に衝突 石川・白山市の54歳男性死亡 「交通安全運動」中に死亡事故急増",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNUdtcEZiZy1WbGxsVXpROWlSR0JYb05GWVYwcXVIVTZTUFpPM2RJUjAzSjBjQ2NnVkJTNTFWMThYT01VTktMdW43T1JYNUZVMzRORnJHVktKUQ?oc=5",
       "date": "Tue, 29 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "石川県珠洲市で単独の死亡事故 軽乗用車が電柱に衝突",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Jd0xEeW93Skl5UjVuTXBLQ1JBRjdydW9sbWh6bWVGVzZwSHF4eHVjYlpfRlRoQVdKMlh5cGVUT2RCc3V0MHI4anVmOA?oc=5",
+      "date": "Sun, 15 Nov 2026 10:35:00 GMT"
+    },
+    {
       "title": "交通事故多発注意報【石川県交通安全推進協議会】",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1seS1ncmpMR2pURjNBY3loQTRrMDJCUVlJN0x5aGdKcFdGZUpCZGxhNjRJcG5FNUtQWmk4MG0zaFYwYkZ2YmxNdW11SW5vZXR5bXB2b2MtNmVuZjJyMUQtWFBSSDA?oc=5",
       "date": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "横断中の女性はねられ死亡 石川で交通死亡事故相次ぐ 5年ぶり交通死亡事故多発注意報を発令",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVJyVnd3aV9KYTRsbTFNQU80cE9ER1F2RGd1ZzlQR0p1a2I2Ums3by1zVWlkNjFMWVd2emRZaE12ZHFVRkp3MUZNMy0zVGlPRHFWeXRTRHVHc2hjOHNqc0x0eTdVYXpzeGhvdl9jZ1VtZnhOMkZScUpvb2lZSThuR005UWNKZTg?oc=5",
-      "date": "Thu, 01 Oct 2026 09:50:01 GMT"
-    },
-    {
-      "title": "繁華街の国道を横断中の男性 車にはねられ意識不明の重体に 石川・金沢市（テレビ金沢）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JSE1DSEJ2eWkzdGNKdDQ1RDE2dXlPbXdjdHp4NmtDMjZEc0t0bGc1ZGpJcmFOXzdEMXAwVHlrRlc5YklVQ0ItMk5MNUdJdEVVSzVUMVpxV1dpaFdETWFoSWVNbXdXMkdQOFdpdlByWnA2NXA5TGRURl9Hc2VLTmM?oc=5",
-      "date": "Fri, 13 Nov 2026 02:45:02 GMT"
     }
   ],
   "official_links": [

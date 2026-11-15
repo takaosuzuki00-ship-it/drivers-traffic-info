@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-15T21:02:53.749693",
+  "generated_at": "2026-11-16T00:02:47.992849",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 16.2,
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 17.0,
     "temp_max": 17.0,
-    "temp_min": 14.8,
-    "precip_prob_max": 100,
-    "precip_sum": 30.4,
-    "wind_speed": 7.2,
+    "temp_min": 12.5,
+    "precip_prob_max": 2,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.1,
-        "weather": "霧雨",
-        "precip_prob": 55
+        "temp": 17.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "03:00",
-        "temp": 15.4,
-        "weather": "霧雨",
-        "precip_prob": 94
+        "temp": 16.1,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
         "temp": 15.3,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 15.7,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 16.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.9,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 16.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 16.4,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 15.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 15.7,
+        "temp": 14.0,
         "weather": "晴れ時々曇",
-        "precip_prob": 71
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 16.2,
-        "weather": "晴れ",
-        "precip_prob": 10
+        "temp": 13.3,
+        "weather": "快晴",
+        "precip_prob": 0
       }
     ]
   },
@@ -70,6 +70,11 @@
       "date": "Sun, 08 Nov 2026 20:02:00 GMT"
     },
     {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
@@ -78,11 +83,6 @@
       "title": "警察の交通取り締まり不正 過去に福岡で違反1600件取り消しも",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NamJDVkdBUHJVV2MyYmNHaEo2cWZCdG9MMEdtclNfU3Y1b3lHU2JiZWxha3pqbm9vdE40cUhXRkc4dC00ZmVjU2FtdTFMN3dWRWpvZGFTbGswdktoTEdnaVEyMnNXUkdX?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "検問や警戒活動など「一掃大作戦」奏功か 滋賀・大津署管内 昨年の飲酒人身事故が大幅減",
@@ -97,9 +97,9 @@
       "date": "Sat, 14 Nov 2026 08:30:35 GMT"
     },
     {
-      "title": "滋賀県で「ロードキル」が集中する「魔の国道」 大型動物とぶつかれば重大事故の恐れ、国が注意喚起",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95LWhuWEFlbU1aMmYtWXpzUzljaklLUUpWQ0lvbFV0NTNCZ1NPVkRMSS1ibUVXdGdsbHA0emYtQ3pEZ1BJQnUzU3NWU1JUeEJOMHVlN2h4akc?oc=5",
-      "date": "Tue, 10 Nov 2026 20:05:00 GMT"
+      "title": "「スピッツ」ドラマーが交通事故で入院",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KUFZxcS1tSlF0eWI1bjF1VllfNS1vdk95a1IybWNIdEttWFc0cjl6aEl6dHNtMEViR0pzMnF0dWd2czJQYXNjeS1TWURjSmVsZmVENlBOdF8?oc=5",
+      "date": "Sun, 15 Nov 2026 12:07:57 GMT"
     },
     {
       "title": "9月10日【びわ湖放送ニュース】”交通事故のない滋賀”を目指して県交通安全推進大会",
