@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T00:06:03.420296",
+  "generated_at": "2026-11-17T03:03:00.614392",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 11.3,
+    "temp_max": 15.1,
+    "temp_min": 11.0,
+    "precip_prob_max": 99,
+    "precip_sum": 7.8,
+    "wind_speed": 2.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 11.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 12.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "12:00",
+        "temp": 14.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
+      },
+      {
+        "time": "15:00",
+        "temp": 15.1,
+        "weather": "曇り",
+        "precip_prob": 53
+      },
+      {
+        "time": "18:00",
+        "temp": 13.2,
+        "weather": "弱い雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "21:00",
+        "temp": 12.7,
+        "weather": "霧雨",
+        "precip_prob": 98
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月16日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
@@ -11,14 +70,14 @@
       "date": "Sun, 15 Nov 2026 20:02:00 GMT"
     },
     {
+      "title": "１１月１４日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yQmNqSVBpWklJdjlQTjR4TVZ1eXM2aEdwYlBYUFAzTExQb0NKdkFUTm03Mk1JV1NWVVBDY2RhYkoyQUFrY3ctM3BnbldURm1QMEw2TWZnOU9aUWRiNG4tYkstUTdjRVZv?oc=5",
+      "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+    },
+    {
       "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QeEJ1NEp0WFROV0dYcm5GbGh1U0NWa1FhUFIxWk9zbHJRWllVLXZxX0VGOWRXbnZIdUxVSEczQmdSUUg3ZEREOVV0a1dQeUZJTFZ1Rml0STNmRi11cWRmbkVJOGVBeE0?oc=5",
       "date": "Fri, 13 Nov 2026 20:02:00 GMT"
-    },
-    {
-      "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LQVlZVkp1TTlqQ2t2ZmlfOWg5OGVPaFVvZEdOeWxIQ2theXd3MnVmM1h5S3p1TEdudk1LcU1hMDZ0UU44anlLakRtS1NVUQ?oc=5",
-      "date": "Fri, 10 Jul 2026 09:22:39 GMT"
     },
     {
       "title": "「交通事故抑止に県境はない」県境の橋で愛知県警と岐阜県警が合同で飲酒検問",

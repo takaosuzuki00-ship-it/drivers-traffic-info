@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T00:02:49.198364",
+  "generated_at": "2026-11-17T03:01:50.641918",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 6.0,
+    "temp_max": 10.6,
+    "temp_min": 4.3,
+    "precip_prob_max": 100,
+    "precip_sum": 5.0,
+    "wind_speed": 4.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 6.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 4.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 6.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 9.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 10.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 8.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 20
+      },
+      {
+        "time": "21:00",
+        "temp": 7.4,
+        "weather": "霧雨",
+        "precip_prob": 94
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月15日（日）【岩手県】 日中・夜間の交通取締情報",
@@ -48,14 +107,14 @@
       "date": "Fri, 30 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通事故】西郷村",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTDRvX3BXRzRlQm9qTEJHVmZfNTFqOXAxMFdSQ0JQWVo2TkNuY29XdWtUWnVFaFg4bVhOWS16a3ZNNDFKd2k4eUFwY3FQaFU?oc=5",
-      "date": "Mon, 16 Nov 2026 00:40:00 GMT"
-    },
-    {
       "title": "セーフティチャレンジで交通事故防止！",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veTd3ckZvZGVzZi0td0N1YUN6U0xOVDFFd2ZmTzBaOVFfSTRDMllMV2RuYUlieFp1WTduaFlyMlBXcHZ5Nm1DamxOQnZ0RHk0OXUtY25mZVVOWV8yVFlqcFJ3VXF1ejQ0c05CRjU1SjEwakE?oc=5",
       "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【交通事故】西郷村",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTDRvX3BXRzRlQm9qTEJHVmZfNTFqOXAxMFdSQ0JQWVo2TkNuY29XdWtUWnVFaFg4bVhOWS16a3ZNNDFKd2k4eUFwY3FQaFU?oc=5",
+      "date": "Mon, 16 Nov 2026 00:40:00 GMT"
     }
   ],
   "official_links": [

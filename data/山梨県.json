@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T00:05:14.932467",
+  "generated_at": "2026-11-17T03:02:41.308021",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 11.1,
+    "temp_max": 15.4,
+    "temp_min": 10.0,
+    "precip_prob_max": 100,
+    "precip_sum": 16.8,
+    "wind_speed": 0.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 63
+      },
+      {
+        "time": "03:00",
+        "temp": 11.1,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "06:00",
+        "temp": 10.1,
+        "weather": "晴れ",
+        "precip_prob": 39
+      },
+      {
+        "time": "09:00",
+        "temp": 12.4,
+        "weather": "晴れ",
+        "precip_prob": 6
+      },
+      {
+        "time": "12:00",
+        "temp": 15.4,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "15:00",
+        "temp": 12.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 10.9,
+        "weather": "弱い雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 10.4,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
@@ -16,6 +75,11 @@
       "date": "Sat, 14 Nov 2026 20:11:24 GMT"
     },
     {
+      "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ZEJSQWFSUjRvanF2YzYtcHVOT3lDZmFjQ3BWblFpcFJ2NXJIS0hWTkl6VFk5QkJkbHJVMFZjUm9yWFdpRVNXNlB2bXpHME5UMGc5V0V0N2d0emRZc3dvc0tRZXZibUFuNU9DclhwNNIBdEFVX3lxTE1EV0JEaWRyZjdrQjJUX2hSVHRfb0EtdF9hWGpQWlUyU3M5aUM0MUxrbFcxVERLWkRfRWVCcnh3ckZMX09yOUo3VE1EQ1FVcjNsZ0xxcnpKY2R1VjU1SnBnRmxaVHdPUThCLU40aG9VY0x1UjNk?oc=5",
+      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
+    },
+    {
       "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWWW1HUXZHQ2RRRnJTTnZ6N2xDNUJLaTktQVV1X0o1YjVhdzFSSUtsbTN6UGJBNHhTNFM1NjFzNHpYSWtEMVM0R2YyaXdsN0FPdDBqVVpHcw?oc=5",
       "date": "Fri, 13 Nov 2026 20:02:00 GMT"
@@ -24,11 +88,6 @@
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
       "date": "Tue, 26 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転取り締まり場所を公表 8月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83ZjVwUDNNYjJpZmtvVGRBLTNRT3hzWVhfWGoyNTNPTUo4RGJHYm1kWlFLSHFOM2NzLUZfSEJjSEFQajItX1BmdG9KN3V5ZlNCeDRoSjZvQQ?oc=5",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -48,14 +107,14 @@
       "date": "Fri, 13 Nov 2026 07:16:00 GMT"
     },
     {
-      "title": "飲酒運転 20代～80代の男6人を飲酒運転で摘発 中央道で事故をきっかけに発覚も 山梨",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UajRTM01FMHhZY2hDQklRakFJcmZ6VkxxMGZJc0YtUmgySG43ZXRtVUlYemcza0J2VHJWV01veThkTmxVQkFmb2MydWVMSlhFbHFFeUJSMTZRSGhRR0pSbjJEdkItaWxWcVFMaVBR?oc=5",
-      "date": "Mon, 16 Nov 2026 09:13:36 GMT"
-    },
-    {
       "title": "飲酒運転　20代〜80代の男6人を飲酒運転で摘発　中央道で事故をきっかけに発覚も　山梨",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zLTRuV2JpWVZselk2TFF0VjVoOUxhZmZROUxiVFFMQXNsMF9rU3RIR2RNdnYyNURMYkJEM0UtQmhZZVZUdlJmLVpMMUNCNThsMkhwZDZJaUVBeE00UnBqcE5OOHBwY3dzQ01RWjRKY9IBdEFVX3lxTFBLT2l4MGdscWxFVW45Wk9LNnNHYXJ6b3c3LVJFNnFsczBpNjY4WVR1cVRhRUQxc0FjSHZRd0N0SW15Q0xSeUp0UlVVblk2Ulo1UEYtSFQ1XzY0azdwaW13ZHZ3aG84QnRrREdVbFA3dzNvQkpH?oc=5",
       "date": "Mon, 16 Nov 2026 09:07:00 GMT"
+    },
+    {
+      "title": "【通行止め】大型トラックが事故 中部横断道・下り線 南アルプスIC－白根ICが通行止め 午後5時50分～ 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ic2JxYVAtM2F3bk9RSmk3S05FVEJsVm1WSXFRR0p4RkRHUjVxY2JYWWNWa0lSclhrdUstZ0xydlFnR2RsZjVoS1o2QmptT2plSkk0MFRWSTBRZw?oc=5",
+      "date": "Fri, 13 Nov 2026 09:15:00 GMT"
     }
   ],
   "official_links": [

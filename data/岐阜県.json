@@ -1,19 +1,83 @@
 {
-  "generated_at": "2026-11-17T00:05:38.444151",
+  "generated_at": "2026-11-17T03:02:49.572386",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 10.6,
+    "temp_max": 15.5,
+    "temp_min": 10.2,
+    "precip_prob_max": 100,
+    "precip_sum": 10.1,
+    "wind_speed": 3.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 10.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "09:00",
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "12:00",
+        "temp": 14.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 65
+      },
+      {
+        "time": "15:00",
+        "temp": 15.4,
+        "weather": "曇り",
+        "precip_prob": 53
+      },
+      {
+        "time": "18:00",
+        "temp": 13.4,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 13.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "57人に対して「不適切な取締り」岐阜県内の信号機ない横断歩道3608カ所で“標識の設置に不備” 反則金の返還など行う",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zVVkxV1J1cXI3dURLYjJUYTIyZFNhU2tmVlZzM3Vzb3NmbDh4c0lrYmRzVlhMU2p0a2QzbFFhVXAzSnNHR3pYMWxYQmxGUQ?oc=5",
+      "date": "Mon, 16 Nov 2026 09:58:22 GMT"
+    },
     {
       "title": "岐阜市のアパート火災 出火元に住むトルコ国籍の男逮捕 麻薬取締法違反の疑い（ぎふチャンDIGITAL）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUNElSanY3QU42Q1QtME5MWWZCYnM5WDc0WUQzNkVEbVNLUUJ1czFVT19uMzR2RG1zWDVlbWZlaHVNZUk3emItV096ZGozMTJfZm9LNE81U204RVJhdVZQbzF2NGVuUTYwY2Zxa0pHdTNfSndvZ2JQcGJDa0VDS2M?oc=5",
       "date": "Wed, 11 Nov 2026 12:02:21 GMT"
     },
     {
-      "title": "11月7日（土）【熊本県 交通取締情報 午前・午後・夜間】歩行者妨害",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YTm44bkRuWEtoNnlSbUZiTG9xbmh4NGNSVVVBQURPMzBmd0ZvNngxLWJ1U1dTejBncFkwMVhuQ24wT3NqZm4zN2txejlfaG5OV3VGM0xTX0dhUQ?oc=5",
-      "date": "Fri, 06 Nov 2026 20:02:00 GMT"
+      "title": "11月8日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYWV5a25GVVpxTExkUWZPOWYxOUVNTmRETGtfUWxsTmZxc2lpZkU4UTZGMGhmR2NjMV9rMFZyem5nLTV1eGNXWGx6X2tybmpvZ0k5Zmkwa2h5dw?oc=5",
+      "date": "Sat, 07 Nov 2026 20:02:00 GMT"
     },
     {
       "title": "【岐阜北警察署】『岐阜中警察署、岐阜北警察署合同検問の実施！！』",
@@ -24,11 +88,6 @@
       "title": "お盆に合わせ飲酒検問、岐阜県内で一斉に 県警が県内１２カ所で",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQ0xGclRZcS1SQnU5djZaeS04RFJGQnEzU1pLelJZanA4N0lIQUdoSWxMTkVPVlM3Q3FBVVBVRFUwV0lnbTE0SlZIYTZHdmhtLVVKLVZR?oc=5",
       "date": "Sat, 08 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "岐阜県警が6所属合同の一斉検問 交通違反の取締りで連携",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RmFxRnZqSV9iazYwQV9ZcWoxNUptOEFtNUlkMVdPU1YtZGxyaTl5MUVESVptZUFUVC1QREZsRFE5X3Fhd2dIYm9wd20tTFdycDU2RW13WFFKekk?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [

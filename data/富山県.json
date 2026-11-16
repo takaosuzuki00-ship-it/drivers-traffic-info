@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-11-17T00:04:38.924230",
+  "generated_at": "2026-11-17T03:02:26.788669",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 8.7,
+    "temp_max": 13.9,
+    "temp_min": 8.7,
+    "precip_prob_max": 100,
+    "precip_sum": 18.1,
+    "wind_speed": 3.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 8.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 9.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 13.6,
+        "weather": "晴れ",
+        "precip_prob": 25
+      },
+      {
+        "time": "15:00",
+        "temp": 13.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 12.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 63
+      },
+      {
+        "time": "21:00",
+        "temp": 10.9,
+        "weather": "雨",
+        "precip_prob": 96
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16TU96clI2Nl9iZnRqVjRyUzRLZ184QTRYLWxaTTliYldkaVBZMVVhM1JIVzE0bVlDdzJYNmRFN2RRX2NuZ0Q5VVJSMGRVdkNQUmJ0dUoyTXQ5aDJoMEVRdy1BSC01cEFQRWJQTDFn?oc=5",
-      "date": "Fri, 13 Nov 2026 20:13:14 GMT"
-    },
     {
       "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SLU1TdzY0UHVKV0hMcWIyXzdBcFJjekhQVWt4QkJlRE80Z0FQRzZjaWFlZUVTN3lVSjFsRzMybHNHV3pVX1pZWS1rb0dXMTNKVFhHR3RWNlhjQXNRVGpMRUJzd1BhNWpkY214ZmxR?oc=5",
       "date": "Sun, 15 Nov 2026 20:13:16 GMT"
+    },
+    {
+      "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16TU96clI2Nl9iZnRqVjRyUzRLZ184QTRYLWxaTTliYldkaVBZMVVhM1JIVzE0bVlDdzJYNmRFN2RRX2NuZ0Q5VVJSMGRVdkNQUmJ0dUoyTXQ5aDJoMEVRdy1BSC01cEFQRWJQTDFn?oc=5",
+      "date": "Fri, 13 Nov 2026 20:13:14 GMT"
     },
     {
       "title": "コカインを営利目的で20代女性に譲渡の疑い 富山県内の山口組系暴力団の組長ら3人を麻薬取締法違反で逮捕",
@@ -48,14 +107,14 @@
       "date": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "富山市の交差点が3年連続ワースト 富山県内の「危険な交差点」5カ所を公表 一時停止の見落としで事故多発",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZR0pVaXJZdE96SDNsb0lqNFJ0QUEtNVRjRHdaS1h6ODdGMWZVSHRTYk5vNG1nc0Jwb0hpcGZwalRHSVRIRGJUd2oyR2VZZw?oc=5",
-      "date": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "呼気アルコール0.5mg超で富山県内初の危険運転罪適用へ 富山市八尾町の飲酒死亡事故を受け街頭で呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QOFdrb21fM3Z3U2xneWdycVBjaEh4Znlka2hURlprSGVPMTUtRzVSZHV3MllaTjl4dHBxbmJFVDBMSVV3dHdDem9OZ0FwSUVUaFdJUkpaWWZsdkQ3V3R3UHg4Mm0yZkE?oc=5",
       "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "工事車両とトラック絡む多重事故、作業員が1人死亡 もう1人も重体 [富山県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5WmwxdnRBTFJoWWNEZGNBNUw0a3lOaHhWYW5YNng5eE9tWXJ0UVEtVzJac0h0c2pwSzFUZXVXTlZzcXZwTUhSQW05VlFhSmYtemFvTXJtSUpkNFAwbjBTRjJlbVFmajA?oc=5",
+      "date": "Fri, 05 Jun 2026 07:00:00 GMT"
     }
   ],
   "official_links": [

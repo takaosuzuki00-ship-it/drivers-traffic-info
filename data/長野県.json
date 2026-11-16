@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T00:05:26.303396",
+  "generated_at": "2026-11-17T03:02:44.232139",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 6.6,
+    "temp_max": 14.2,
+    "temp_min": 6.3,
+    "precip_prob_max": 92,
+    "precip_sum": 2.8,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.5,
+        "weather": "晴れ",
+        "precip_prob": 20
+      },
+      {
+        "time": "03:00",
+        "temp": 6.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 6.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 8.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 12.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 10.5,
+        "weather": "曇り",
+        "precip_prob": 24
+      },
+      {
+        "time": "21:00",
+        "temp": 9.6,
+        "weather": "強い霧雨",
+        "precip_prob": 76
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」 | SBC NEWS | 長野のニュース | SBC信越放送",
@@ -16,6 +75,11 @@
       "date": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "１１月１０日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lWnVSSkVUWGN2ZUFTbkJHTXgwaGR1MDE1QXAxRWlmbkFmRy1FTmxBNXZOM1VQbnZrdGQxT1JlaFJNTnpKZWM3d3hEUFBLUG9VQWpDY3lrMUlYWko0VmMwT1VuT0ltWnNFU1hPT3RR?oc=5",
+      "date": "Mon, 09 Nov 2026 20:11:27 GMT"
+    },
+    {
       "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
       "date": "Fri, 10 Jul 2026 07:37:30 GMT"
@@ -24,11 +88,6 @@
       "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRFBBaFZYLUlvWUdKWkdwdC1TWVZISnlaMk9aVlg2TEdXU1BiZlAzY3R5MHBoM0psQVRHV2luOWJVTS1JOGpCRmlQVDRRbU15VmNrcEY0dzRuN25qcUdn?oc=5",
       "date": "Wed, 02 Sep 2026 09:49:49 GMT"
-    },
-    {
-      "title": "「朝車を飛ばす人を見ます」生活道路でスピード違反の取り締まり 法定速度「時速30キロ」に引き下げから２か月余 警察「制限速度を守って」【長野・須坂市】（2026年11月9日掲載）",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDRubHFwemxyNTR0cWYwTjBLNUNNcHlxYnV6OVN1aS15NVpvUUFIdU10X3g5d0ZOa2JtVms3aGxCMlp2ZVZOQkJ6OFFMQ2QwRTBjeWtnNk5CSnpQSGJ5MndnRV9tVENyTk5iNHNoaHlMT2FCNTFZSloyVnFjOTBpTzZRM2xWbkk?oc=5",
-      "date": "Tue, 10 Nov 2026 07:35:00 GMT"
     }
   ],
   "accident_news": [

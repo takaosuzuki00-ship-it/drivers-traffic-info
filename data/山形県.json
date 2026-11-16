@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T00:02:36.853118",
+  "generated_at": "2026-11-17T03:01:48.084842",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 4.1,
+    "temp_max": 9.6,
+    "temp_min": 2.9,
+    "precip_prob_max": 95,
+    "precip_sum": 1.6,
+    "wind_speed": 4.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 5.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 4.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 3.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 6.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 9.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 9.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 8.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "21:00",
+        "temp": 7.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 73
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
@@ -11,8 +70,8 @@
       "date": "Sat, 14 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
+      "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ZEJSQWFSUjRvanF2YzYtcHVOT3lDZmFjQ3BWblFpcFJ2NXJIS0hWTkl6VFk5QkJkbHJVMFZjUm9yWFdpRVNXNlB2bXpHME5UMGc5V0V0N2d0emRZc3dvc0tRZXZibUFuNU9DclhwNNIBdEFVX3lxTE1EV0JEaWRyZjdrQjJUX2hSVHRfb0EtdF9hWGpQWlUyU3M5aUM0MUxrbFcxVERLWkRfRWVCcnh3ckZMX09yOUo3VE1EQ1FVcjNsZ0xxcnpKY2R1VjU1SnBnRmxaVHdPUThCLU40aG9VY0x1UjNk?oc=5",
       "date": "Sun, 15 Nov 2026 20:00:00 GMT"
     },
     {
@@ -21,9 +80,9 @@
       "date": "Fri, 13 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ZEJSQWFSUjRvanF2YzYtcHVOT3lDZmFjQ3BWblFpcFJ2NXJIS0hWTkl6VFk5QkJkbHJVMFZjUm9yWFdpRVNXNlB2bXpHME5UMGc5V0V0N2d0emRZc3dvc0tRZXZibUFuNU9DclhwNNIBdEFVX3lxTE1EV0JEaWRyZjdrQjJUX2hSVHRfb0EtdF9hWGpQWlUyU3M5aUM0MUxrbFcxVERLWkRfRWVCcnh3ckZMX09yOUo3VE1EQ1FVcjNsZ0xxcnpKY2R1VjU1SnBnRmxaVHdPUThCLU40aG9VY0x1UjNk?oc=5",
-      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
+      "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zc0EtZVRmOXdOS28yZjV0RHYyRzlWQlBDWDlWTGR0X3FpYlRkVHU5aDN2dzFSRVpzWGpIVFJFcFdMRV9LemE1Njl4b2c2bEVabk5JeUNNZkk5eUJDd2JKalZfOVhwN0NzTEJOLW03RdIBdEFVX3lxTE1iWUZlSXNZUklUb1hPSl9yVlNtWTlvTklMcGluVUI5bGtaRk5zdWRvZGJGUV9RU2JHM2dBRy12WlVFNmc2dFFaZjdmdnJrQ1V0Q3JtamNKYVRTZFl0V0ZkRnY0ZWVnd2thZlhNZ3lPakxraXlX?oc=5",
+      "date": "Fri, 13 Nov 2026 20:13:55 GMT"
     },
     {
       "title": "11月13日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
@@ -33,14 +92,9 @@
   ],
   "accident_news": [
     {
-      "title": "県道でワゴン車にはねられた男性(77)が死亡 死因は多発外傷（山形・鶴岡市）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94bldvOUQ5YmJpbFdlQkJ5LVhCRlpRQ0NidGRibGFMeHNsWUZFMjRTemxlanozS04wMWFlX1RsbFJrM3VSOXkzRnh6T0ZHV3NDcU5ibHRNMkpFdw?oc=5",
-      "date": "Mon, 16 Nov 2026 02:08:00 GMT"
-    },
-    {
-      "title": "道路を歩いていた男性（77）ワゴン車にはねられ死亡 山形・鶴岡市｜ニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aTjYyekVRSE1aTlJEU0phQ1VyMUJXa1dvY21FblZCenFFaW1XaXljd1lCNG94Y0R1SzVQS3h3b2VkT25wb3dtRU94VFNxSGxXZDh1T1diUGg5TEt0OEV0YTVCOHRualB2RG5oYUhtN08taXc?oc=5",
-      "date": "Mon, 16 Nov 2026 03:00:00 GMT"
+      "title": "鶴岡市で車と歩行者の衝突事故 70代男性が意識不明の重体（山形）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94VGdNcUpvenk0cGF1emxHM3Q2UmZwX1B6Z2RxZjRSZHZwdXk5Zl9KOC1TdHdSMnhoVFdud0FkanlJTE0xY2xqOGkxQzlUSVJ5aGFfU0xELXJIZw?oc=5",
+      "date": "Sun, 15 Nov 2026 10:37:00 GMT"
     },
     {
       "title": "鶴岡市で車と歩行者の衝突事故 70代男性が意識不明の重体（山形）（テレビユー山形）",
@@ -48,14 +102,19 @@
       "date": "Sun, 15 Nov 2026 10:41:13 GMT"
     },
     {
-      "title": "鶴岡市で車と歩行者の衝突事故 70代男性が意識不明の重体（山形）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94VGdNcUpvenk0cGF1emxHM3Q2UmZwX1B6Z2RxZjRSZHZwdXk5Zl9KOC1TdHdSMnhoVFdud0FkanlJTE0xY2xqOGkxQzlUSVJ5aGFfU0xELXJIZw?oc=5",
-      "date": "Sun, 15 Nov 2026 10:37:00 GMT"
+      "title": "県道でワゴン車にはねられた男性(77)が死亡 死因は多発外傷（山形・鶴岡市）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94bldvOUQ5YmJpbFdlQkJ5LVhCRlpRQ0NidGRibGFMeHNsWUZFMjRTemxlanozS04wMWFlX1RsbFJrM3VSOXkzRnh6T0ZHV3NDcU5ibHRNMkpFdw?oc=5",
+      "date": "Mon, 16 Nov 2026 02:08:00 GMT"
     },
     {
-      "title": "県道でワゴン車にはねられた男性(77)が死亡　死因は多発外傷（山形・鶴岡市）",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03MEV6Zk9OeE1IbGlsU1ZMUFBnODFKaXltN2VrU29taFg3aUdLU3NWUy10cVlXR05ZWEZWbVFvTF9hWExzcWVISHA4aHFsVGRYaXNPVXBZN3ZkWGZ0cEhQS2lhaVNlYzVyZUE0ZWFQVdIBdEFVX3lxTE5VS21YZHNtQzJHNFhQSWFaYUYzTFd4VGFHeW4wQmxUakFGTjZfNW9sZ3B2eGtBaVZLLWoxQ3FaUTg2dkxmRlVURDdyN1hFWk1VVzhCMGllSDh2dTFwVHByYVlTVGpUVUlTUEIzWEJKQ3ZfT004?oc=5",
-      "date": "Mon, 16 Nov 2026 02:08:00 GMT"
+      "title": "道路を歩いていた男性（77）ワゴン車にはねられ死亡 山形・鶴岡市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxbmpramdkdjVpeTFUbk90Z0dweU83NkVLOGdSNlh4bDVzWGM2N2R5dElwdHYzRHBTRU5mYVotM0hVM3J0OHRlLWkyanhFQQ?oc=5",
+      "date": "Mon, 16 Nov 2026 03:00:00 GMT"
+    },
+    {
+      "title": "道路を歩いていた男性（77）ワゴン車にはねられ死亡 山形・鶴岡市｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aTjYyekVRSE1aTlJEU0phQ1VyMUJXa1dvY21FblZCenFFaW1XaXljd1lCNG94Y0R1SzVQS3h3b2VkT25wb3dtRU94VFNxSGxXZDh1T1diUGg5TEt0OEV0YTVCOHRualB2RG5oYUhtN08taXc?oc=5",
+      "date": "Mon, 16 Nov 2026 03:00:00 GMT"
     }
   ],
   "official_links": [

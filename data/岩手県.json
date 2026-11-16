@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T00:02:00.931522",
+  "generated_at": "2026-11-17T03:01:37.200203",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 1.2,
+    "temp_max": 8.4,
+    "temp_min": 0.8,
+    "precip_prob_max": 51,
+    "precip_sum": 1.4,
+    "wind_speed": 3.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 2.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 1.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 0.9,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 3.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 7.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 8.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 5.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 4.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
@@ -38,11 +97,6 @@
       "date": "Fri, 13 Nov 2026 10:01:00 GMT"
     },
     {
-      "title": "子どもに関する交通事故が増加傾向に 県内の死者34人で前年を超える 岩手",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBISlBzQUYzdkZqeEdEdjZNZHRmeTY1XzMxdUJUd0N6UjFhTmEta1lmUkRZcXRkTkFNTnVFazBoVVZNQk0xU0g5TmNXQndoNHFVT3JYVkRmVQ?oc=5",
-      "date": "Wed, 04 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "交通事故多発交差点、盛岡・向中野と西見前の2カ所がワースト 岩手 [岩手県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMDlSamtETHdIeHg1cVlJaXpIOEpTM01jaXJkbGtMRVZzNXRYdW9weHJFdnJ3QmFqbTI3aUhvM0h2UDRwYUFqbHZwV3piVnhXeVFIWFRkVEtTQnVScnFWZVFhSjJpQ2s?oc=5",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "労災死亡事故多発「極めて異例かつ深刻」 岩手県内で10件発生、半数は盛岡管内 労基署が対策緊急要請",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLMW4wNUNwSnZWbDk4akM3dXMxVVdGd0VJdWFFVHNXMW55SFhrNkxrWURoZzc0a3dZTV9meFl1bV9SajFxWFFiYWdCalNMRlh1Ujk1cmgxSjUtcnhZd2ZURktn?oc=5",
       "date": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故5年間発生なし 県警が山田町を表彰 「町民全員心にシートベルトをかけるような心がけで」 岩手",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlRElYeEZYSU9lZTdDdGQ3QlVCRFJRSDM4UXBJTEtnbkJWWXo1LVotQzQtMWhNMnNEd3ZaZ0tyVlNoU0dBME5ncm5aZnJMM0tFMnd6d3Q4eHlJT0kzZjlUdV9SN1N5OEE?oc=5",
+      "date": "Mon, 02 Nov 2026 08:00:00 GMT"
     }
   ],
   "official_links": [

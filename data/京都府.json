@@ -1,19 +1,73 @@
 {
-  "generated_at": "2026-11-17T00:06:41.984096",
+  "generated_at": "2026-11-17T03:03:12.854314",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 8.6,
+    "temp_max": 16.7,
+    "temp_min": 8.0,
+    "precip_prob_max": 100,
+    "precip_sum": 9.3,
+    "wind_speed": 2.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 8.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 8.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 10.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 15.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 13.6,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 13.2,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１１月１５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bDI3M2g1bmNpeGlwcUV6SjU5VVdyMFl6Z3oydGtUb2lVUjE4dk1LS0hyYXFSRmhaZ3dKVWQzaEhNVU9WSDN1Q3dRdnE4TGxvdzVwcThIaGJ5MXJRY2FaaDRqM01rQ205?oc=5",
       "date": "Sat, 14 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
-      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "１１月１４日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -24,6 +78,11 @@
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通指導・取締情報",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
+      "date": "Mon, 29 Jan 2024 12:34:12 GMT"
     },
     {
       "title": "【山形】6歳男児が行方不明で家族がコメント 警察はきょうも検問・聞き込みを実施 川や海での捜索もこれまで有力な手掛かりなし（酒田市） | 山形のニュース│TUYテレビユー山形 (1ページ)",
