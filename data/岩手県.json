@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-17T03:01:37.200203",
+  "generated_at": "2026-11-17T06:01:28.168062",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
-    "code": 55,
-    "weather": "強い霧雨",
-    "temp_now": 1.2,
-    "temp_max": 8.4,
-    "temp_min": 0.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 0.6,
+    "temp_max": 8.2,
+    "temp_min": 0.5,
     "precip_prob_max": 51,
-    "precip_sum": 1.4,
-    "wind_speed": 3.6,
+    "precip_sum": 1.9,
+    "wind_speed": 3.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 2.1,
+        "temp": 2.2,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -27,43 +27,48 @@
       },
       {
         "time": "06:00",
-        "temp": 0.9,
+        "temp": 0.6,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 3.5,
-        "weather": "晴れ",
+        "temp": 3.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 7.0,
-        "weather": "晴れ",
+        "temp": 6.4,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 8.3,
+        "temp": 8.1,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 5.5,
-        "weather": "晴れ時々曇",
+        "temp": 5.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 4.5,
+        "temp": 4.8,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OSzdIRGxncWpvcm9BLXJEMklzTHFhUXN4V1htMmx2Vi1WcVJVUWpuclhvbFZmUVRQSWNlMFFaTHhuSHY1R3JXQnVMaVRSdXMwaE5HYU9nZ21ic3E3Yk93a1lsOHNsX1d0T2ZJQnFB?oc=5",
+      "date": "Mon, 16 Nov 2026 20:13:21 GMT"
+    },
     {
       "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZXVDazRtVlZEUlJWQ0I0UmVlWVEyQW1yVjJrZi1MX0xBb0xZRzJNOVlTX01TcDhZV2RQemlHS0FFSnF5ZVhPRGF3eW94anpZUy1XTmdMZGdsNjA4b0NXeF9MeUsxZ3Y2WmZrT2p6bGs0UFBhbjBEYi1ZXy1FUDA?oc=5",
@@ -75,14 +80,9 @@
       "date": "Sat, 14 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報 (IBC岩手放送)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzJlUDQ1ZzFiLTlrU1N0TUtUMkR2X0E4b0ZHVWl0bGNjZjVzbVo2MWhCQ1JwbnQ3bUlQUm1IYTZ5eGFvc01Ha1R2THkwUWsycnNHUmtmMmRKWTQtblZwODREOFVCVG9YSUFuMkV2SE1oVXd5OEpfOWtwRjV3YTdhdFFxMzR4ai1WcjQxM3Z3?oc=5",
-      "date": "Sun, 15 Nov 2026 21:47:42 GMT"
-    },
-    {
-      "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwc0g1bXB3TFZnR0dtcDZJdmNUMS1WeVVjVTIxdUMxcWhkT0FPRGl5NllDLWVZS3hRcTdMREIyX21ER0xGQ25PT1hYUFNybnNZYjFaVUl2OUV5QQ?oc=5",
-      "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50N0U4M0g4VFptLXotUHdqd1R1d1hBbjZoNzdVQnY3UmRuZzR6cDFjMVhIdGlFX1BlSlZRZ1kweG1oQmJORnhfTUkyelVXTVU2aUdvYWl6ZEplejMtaDZ1NDZST1dqLUV3WGY2V0Fvc9IBdEFVX3lxTE5zOUxnUlJxNW9tYjNkMEFkbUMyUVBEZi00U3lBeW5RYldNdmhzTndoZ3hMMlRDbHFxQWRjTkhZVWwxblozZEtJU25UWkFETW85blFEMjBrNE11dmtQc0c0OWwwaENCVXV3Z2dKYTFiQzJlQ3Zf?oc=5",
+      "date": "Mon, 16 Nov 2026 20:05:45 GMT"
     },
     {
       "title": "11月15日（日）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
@@ -92,9 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "奥州・国道4号で80代の車と自転車衝突、重傷負う交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4aEVJem5KaE9KVlNSU2xhLXNJbURTY0hhVXdDOXY3M1hRQUZFRTZyajRQelJlcm82cFZNc0JwTVFBYzNZZHNFYTNObjhuVC0yemd3bndpcTVuaEFsVWRlbUpR?oc=5",
-      "date": "Fri, 13 Nov 2026 10:01:00 GMT"
+      "title": "車とスクールバスが衝突 久慈市で交通事故",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBleEQxNjVPdXpEOWdMRm1PcG9mdVBLV1BhZ0YwTDROMzZ1Tkh0TnFEd0NUQ2xYQ2NOTVhEemFlck5XdjFGSWktcTRVOGVpU3FiLTh6NEVIbU9HaHFPY2V0eQ?oc=5",
+      "date": "Mon, 09 Nov 2026 00:56:44 GMT"
+    },
+    {
+      "title": "子どもに関する交通事故が増加傾向に 県内の死者34人で前年を超える 岩手",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBISlBzQUYzdkZqeEdEdjZNZHRmeTY1XzMxdUJUd0N6UjFhTmEta1lmUkRZcXRkTkFNTnVFazBoVVZNQk0xU0g5TmNXQndoNHFVT3JYVkRmVQ?oc=5",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "交通事故多発交差点、盛岡・向中野と西見前の2カ所がワースト 岩手 [岩手県]",
@@ -110,11 +115,6 @@
       "title": "労災死亡事故多発「極めて異例かつ深刻」 岩手県内で10件発生、半数は盛岡管内 労基署が対策緊急要請",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLMW4wNUNwSnZWbDk4akM3dXMxVVdGd0VJdWFFVHNXMW55SFhrNkxrWURoZzc0a3dZTV9meFl1bV9SajFxWFFiYWdCalNMRlh1Ujk1cmgxSjUtcnhZd2ZURktn?oc=5",
       "date": "Tue, 27 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "交通死亡事故5年間発生なし 県警が山田町を表彰 「町民全員心にシートベルトをかけるような心がけで」 岩手",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlRElYeEZYSU9lZTdDdGQ3QlVCRFJRSDM4UXBJTEtnbkJWWXo1LVotQzQtMWhNMnNEd3ZaZ0tyVlNoU0dBME5ncm5aZnJMM0tFMnd6d3Q4eHlJT0kzZjlUdV9SN1N5OEE?oc=5",
-      "date": "Mon, 02 Nov 2026 08:00:00 GMT"
     }
   ],
   "official_links": [
