@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-17T18:05:24.699447",
+  "generated_at": "2026-11-17T21:06:01.637347",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 10.2,
+    "temp_max": 14.0,
+    "temp_min": 10.0,
+    "precip_prob_max": 100,
+    "precip_sum": 21.8,
+    "wind_speed": 2.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.9,
+        "weather": "晴れ",
+        "precip_prob": 92
+      },
+      {
+        "time": "03:00",
+        "temp": 11.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 88
+      },
+      {
+        "time": "06:00",
+        "temp": 10.7,
+        "weather": "晴れ",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 13.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "12:00",
+        "temp": 13.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 11.3,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 10.7,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 10.2,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -21,26 +80,26 @@
       "date": "Fri, 13 Nov 2026 20:02:00 GMT"
     },
     {
-      "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWWW1HUXZHQ2RRRnJTTnZ6N2xDNUJLaTktQVV1X0o1YjVhdzFSSUtsbTN6UGJBNHhTNFM1NjFzNHpYSWtEMVM0R2YyaXdsN0FPdDBqVVpHcw?oc=5",
-      "date": "Fri, 13 Nov 2026 20:02:00 GMT"
-    },
-    {
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
       "date": "Tue, 26 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWWW1HUXZHQ2RRRnJTTnZ6N2xDNUJLaTktQVV1X0o1YjVhdzFSSUtsbTN6UGJBNHhTNFM1NjFzNHpYSWtEMVM0R2YyaXdsN0FPdDBqVVpHcw?oc=5",
+      "date": "Fri, 13 Nov 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "【通行止め】大型トラックが事故 中部横断道・下り線 南アルプスIC－白根ICが通行止め 午後5時50分～ 山梨",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ic2JxYVAtM2F3bk9RSmk3S05FVEJsVm1WSXFRR0p4RkRHUjVxY2JYWWNWa0lSclhrdUstZ0xydlFnR2RsZjVoS1o2QmptT2plSkk0MFRWSTBRZw?oc=5",
-      "date": "Fri, 13 Nov 2026 09:15:00 GMT"
-    },
-    {
       "title": "レンタカー事故で外国人ドライバー逮捕 1人軽傷 山梨",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtUlR0SXlOZDVQTEdUd1JCc2lBM0FMSEdXQ1VvRGp1eUxLYVN0dDJhZm83RS0yRFZ3Ni1pX1ZRTnF4VS1nSjdJdFBSQW1KTEV4MHVPWmJ0anRoWTVEdjc4?oc=5",
       "date": "Fri, 13 Nov 2026 07:16:00 GMT"
+    },
+    {
+      "title": "夜の国道20号 交差点で軽乗用車と乗用車が衝突 女性2人が負傷 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CWDJteXRuc3lZWU8xcGgwU3BwWTQ5cGtsVHBxb055bGNCczc2aVZKLV9uVXNtRVVBWFBTYTN6UEVhOGd4cHVKMDN4MnUyZ3N2NnhQUTRHNnNYcGE0dG85MnUtS3BtZE0?oc=5",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "【通行止め】大型トラックが事故 中部横断道・上下線で南アルプスIC-白根ICが通行止め 山梨 【午後7時50分現在】",
@@ -53,9 +112,9 @@
       "date": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "飲酒運転 20代～80代の男6人を飲酒運転で摘発 中央道で事故をきっかけに発覚も 山梨",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UajRTM01FMHhZY2hDQklRakFJcmZ6VkxxMGZJc0YtUmgySG43ZXRtVUlYemcza0J2VHJWV01veThkTmxVQkFmb2MydWVMSlhFbHFFeUJSMTZRSGhRR0pSbjJEdkItaWxWcVFMaVBR?oc=5",
-      "date": "Mon, 16 Nov 2026 09:13:36 GMT"
+      "title": "交通死亡事故1,000日間連続ゼロ達成！",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWXc2ZXJWc19zZnNZaGhLYkpMNEt4OHI4RkUzSldKbzJLRkwzZGxTYnlRRU5oTGxwVGF4VUtlcWl4Z3JuODFMYm1OWkxLQTVwSlRwTWhQWVloT1NNY1FyazdyS3BCOXJDdDdXWVZ5dzNaX2I2dGhwWmNDTQ?oc=5",
+      "date": "Fri, 07 Aug 2026 19:35:14 GMT"
     }
   ],
   "official_links": [

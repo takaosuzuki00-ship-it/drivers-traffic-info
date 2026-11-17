@@ -1,18 +1,77 @@
 {
-  "generated_at": "2026-11-17T18:03:46.700616",
+  "generated_at": "2026-11-17T21:05:25.972629",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 8.9,
+    "temp_max": 12.6,
+    "temp_min": 8.9,
+    "precip_prob_max": 100,
+    "precip_sum": 19.8,
+    "wind_speed": 8.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 11.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 10.9,
+        "weather": "曇り",
+        "precip_prob": 16
+      },
+      {
+        "time": "12:00",
+        "temp": 10.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "15:00",
+        "temp": 10.1,
+        "weather": "霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "18:00",
+        "temp": 9.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 8.9,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
-    {
-      "title": "持ち運びできるオービスが盗まれる 埼玉の国道 重さは約20キロ [埼玉県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQ0NMeXFnWV9JRDB6d1lIVW1seWVXb0dfWjlOQVh4bWpDeHBzWFJRb3RjdUJMNjh0bTNJMWtYakpzWTR0SGJZZlhYb3M5M1pqbVNsMmlfQ2g1VGxFYXNudDE0TmFhVG8?oc=5",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
-    },
     {
       "title": "埼玉の国道で持ち運び可能なオービス盗まれる 速度取り締まり中",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bnpQSzhaZUlGOFNpcmhudFZ1UGJwbjVxTTFQYXJGV3RDMGZMbEpGM2RzWTBTNjhpRjVJT2NNNVJIQ3FjU29pWThuekhFNlEtU0lTaFpNU3pfbFNEOUp5SktVN0VWbmZG?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "持ち運びできるオービスが盗まれる 埼玉の国道 重さは約20キロ [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQ0NMeXFnWV9JRDB6d1lIVW1seWVXb0dfWjlOQVh4bWpDeHBzWFJRb3RjdUJMNjh0bTNJMWtYakpzWTR0SGJZZlhYb3M5M1pqbVNsMmlfQ2g1VGxFYXNudDE0TmFhVG8?oc=5",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
@@ -21,13 +80,13 @@
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
+      "title": "移動式オービスが取り締まり中に盗まれる、埼玉で全国初…県警「犯人確保に向け捜査尽くす」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vd0FqRlBRb0lFR2EzX05KVmZLb1NaMWx4T0ZHY1g0cEVQTXQyTVNoeUpxV0F6S3RQT3F3cGZfcWNIMUlkZkdHbEtHSU5DVng3NGtYNnhEcG1DRWdMczQ2dU1NV1hyQQ?oc=5",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "移動式オービスが取り締まり中に盗まれる、埼玉で全国初…県警「犯人確保に向け捜査尽くす」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vd0FqRlBRb0lFR2EzX05KVmZLb1NaMWx4T0ZHY1g0cEVQTXQyTVNoeUpxV0F6S3RQT3F3cGZfcWNIMUlkZkdHbEtHSU5DVng3NGtYNnhEcG1DRWdMczQ2dU1NV1hyQQ?oc=5",
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
       "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     }
   ],
@@ -48,14 +107,14 @@
       "date": "Mon, 22 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "【交通事故死者2026】埼玉県で下期計49件50人に［11/16］上期より55日早く",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vWURBc2toWEJoUE5kMzR4VlNrQ2w5MzZwdmN1dTlaMUY5ekU5dnFZQ0ZtTDNIcEViVW5vZm9rZ3RoWlpvN25DRjljY2RTd1JWWjg5RmVYXzA4YUx4c3dj?oc=5",
-      "date": "Tue, 17 Nov 2026 06:00:00 GMT"
-    },
-    {
       "title": "ひき逃げなどの疑いで32歳男を逮捕 路上で男性を車ではね死亡させ逃走か 埼玉・越谷市（日テレNEWS NNN）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNmllQmZwT05ia3ZidlR6RmhFQU11VTV2ajFMZTJaQXNKZmFqQ1BFZUE1ZWNtLXEzZVAwelBBWm1VRlpPSE1wTVZtVUZGSVlDcXhfcGtCQ0U3LXhBeDlyYXlvVVlSckIya25VNDkzYzhmUXl3UWhRQ1lpa1N4c1E?oc=5",
       "date": "Sun, 15 Nov 2026 00:56:01 GMT"
+    },
+    {
+      "title": "軽トラと乗用車が衝突 男の赤ちゃんが全身骨折で意識不明、母親とみられる女性は重傷 2人軽傷 現場は埼玉県内で事故が最も多い交差点",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5UVAtb09wMWxhZ3p3RGhpUXlneTVETUpwOWd6NmFpS3podTh5b1g3VVJGb0F3R3hLcElUY2pfYUNwUGRVUU5keVNMZkVEUQ?oc=5",
+      "date": "Mon, 16 Nov 2026 03:52:00 GMT"
     }
   ],
   "official_links": [
