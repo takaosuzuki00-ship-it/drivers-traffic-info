@@ -1,95 +1,69 @@
 {
-  "generated_at": "2026-11-17T06:04:20.240814",
+  "generated_at": "2026-11-17T09:08:57.175617",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 18.3,
-    "temp_max": 20.8,
-    "temp_min": 16.4,
+    "temp_now": 20.7,
+    "temp_max": 20.9,
+    "temp_min": 15.9,
     "precip_prob_max": 100,
-    "precip_sum": 96.6,
-    "wind_speed": 10.9,
+    "precip_sum": 56.4,
+    "wind_speed": 19.2,
     "hourly": [
       {
         "time": "00:00",
         "temp": 18.6,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "03:00",
-        "temp": 18.3,
+        "temp": 18.1,
         "weather": "晴れ",
-        "precip_prob": 45
+        "precip_prob": 41
       },
       {
         "time": "06:00",
-        "temp": 18.3,
-        "weather": "弱い雨",
-        "precip_prob": 73
+        "temp": 19.4,
+        "weather": "雨",
+        "precip_prob": 84
       },
       {
         "time": "09:00",
-        "temp": 19.5,
-        "weather": "雨",
+        "temp": 20.7,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 18.9,
+        "temp": 19.0,
         "weather": "強い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 19.1,
-        "weather": "晴れ",
-        "precip_prob": 80
+        "temp": 19.5,
+        "weather": "霧雨",
+        "precip_prob": 73
       },
       {
         "time": "18:00",
-        "temp": 19.0,
-        "weather": "晴れ",
-        "precip_prob": 25
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
       },
       {
         "time": "21:00",
-        "temp": 17.9,
+        "temp": 17.5,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 39
       }
     ]
   },
-  "enforcement_news": [
-    {
-      "title": "都城市で知人に覚醒剤約0.3グラムを譲渡か 熊本県の暴力団組員を覚醒剤取締法違反容疑で逮捕",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03Zy1tZ2lyeDgwNkpvdC1RQ29JTExIb1V4dDNPc05hSVJMZGVNWi1wTlI5UnRCcjIxcXNrNHl0NHVnZWY0YVdFZlJFQ3ZWb2RJd2hjbWw2WWM5RTVtajBQMnRmMWlUZlJUSkg1Wi1n?oc=5",
-      "date": "Wed, 04 Nov 2026 10:01:21 GMT"
-    },
-    {
-      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
-      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UN0hYaDVaeE50SXd1ZU1aejVhaXJ4UlJkbnlNZjBNTGFMbEhRcmdsaTcxajlzTlJDTWVkcWZYTmlONnF6ZnhLWHh5RnVJTmZEekMtM2U1YktEZnExMWw4STJPTUJuZHhKOWlfMmVLRG5iQQ?oc=5",
-      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「二日酔い運転も飲酒運転」今月からアルコールチェックの義務化 \"5類\"移行後初の忘年会シーズン 警察の飲酒運転取締りに密着 | MRTニュース ｜ ＭＲＴ宮崎放送 (2ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrWnVsQlIxMmZ1MjBmZDlFdmIwa19NV1ZmUG1abU14a3BIUURzSmU3cno0VUNFOEFMNFpLdkpablpIUVhqbkVqR0lHT0d2Unh5X2xpazBXbmhhRzFjUlU5X0J3?oc=5",
-      "date": "Wed, 06 Dec 2023 08:00:00 GMT"
-    },
-    {
-      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
-    }
-  ],
+  "enforcement_news": [],
   "accident_news": [
     {
       "title": "クラブスタッフの交通事故について",
