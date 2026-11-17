@@ -1,10 +1,74 @@
 {
-  "generated_at": "2026-11-17T15:05:28.887836",
+  "generated_at": "2026-11-17T18:05:26.603434",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 11.0,
+    "temp_max": 15.0,
+    "temp_min": 6.6,
+    "precip_prob_max": 100,
+    "precip_sum": 7.6,
+    "wind_speed": 10.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.5,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "03:00",
+        "temp": 7.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 6.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 9.8,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "12:00",
+        "temp": 14.5,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "15:00",
+        "temp": 12.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      },
+      {
+        "time": "18:00",
+        "temp": 11.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 16
+      },
+      {
+        "time": "21:00",
+        "temp": 9.7,
+        "weather": "弱い雨",
+        "precip_prob": 92
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "「車が信号に合わせて加速する」“速度違反自動取締装置”で取り締まり 住民が要望「スピードを出す車が多い」 “生活道路”の法定速度30キロに引き下げ…警察「住民が行き来する道路、速度を守り安全に走行を」（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tck9mRTQzUjRhS2toOEx1eEtwTENLUmV4eDRoQkhHc3VWX2M4RnZvTVdubkdYcG9KNnRBQ2hGWDBoakdyNUkwdUF1Y1pRdi1kb3dDTlZJY3ppX0lJUUUxSUU0UUx6dVIyZWJxVkFCb3pSQkVBZFRhVDRESWl6amc?oc=5",
+      "date": "Fri, 13 Nov 2026 10:02:20 GMT"
+    },
     {
       "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」 | SBC NEWS | 長野のニュース | SBC信越放送",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SkpfcTh2bGh2T1F3SnYxaHcyTWVUeGduSUVFcWdzZEZjN0dLQmhRbHE5U1JvMHlhejN0TUw1UTFNdHI1eWlVY1BZUXoyMS12ZExxQzN0M2xCdw?oc=5",
@@ -24,14 +88,35 @@
       "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRFBBaFZYLUlvWUdKWkdwdC1TWVZISnlaMk9aVlg2TEdXU1BiZlAzY3R5MHBoM0psQVRHV2luOWJVTS1JOGpCRmlQVDRRbU15VmNrcEY0dzRuN25qcUdn?oc=5",
       "date": "Wed, 02 Sep 2026 09:49:49 GMT"
-    },
-    {
-      "title": "生活道路の法定速度30キロに引き下げ受け 須坂市でオービスによる速度違反取り締まり 生活道路での事故死者12人【長野】",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamoyRlAwSEdmN2d4a3pXNHhrVWcwRjJibk5WLVFQbzA2c2hHcTMxSWpxTmJuQkhzNzZhMEp0NjdoY3ZMVk9BR2ktTWEwckFXeWJtRWYtMnZrN2t4RGJ1Z0NwQ2Jpbl92X2paZkVldy15OUVwZ0VnTnpxendDMUdSUXY4NWRDT1k?oc=5",
-      "date": "Tue, 10 Nov 2026 03:11:00 GMT"
     }
   ],
-  "accident_news": [],
+  "accident_news": [
+    {
+      "title": "急カーブを曲がり切れなかったか…軽乗用車が道路脇の壁に衝突 運転していた町内の70代男性が死亡【長野・松川町】",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZjl4YVFCM3JpYjYtbDN3TXlVeVBPZEJlMHN6YWR6QWVtWE9iVDB4b2FQSExwV210elNKM0NsNGUzbHh5T3JPRDJndjhkN3AtdF91X0ZFamNqMlNFR0h1c3k4WG16cU1yWU51OWQwd3luZ2dqamVrVWNVUElaNFk?oc=5",
+      "date": "Mon, 16 Nov 2026 03:18:01 GMT"
+    },
+    {
+      "title": "「軽がブレーキ踏まずに…バーンとひっくり返った」子ども2人を含む5人を病院に搬送 長野市中心部の大通りで車4台が絡む事故",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14X3NaN3F5TVQ4Tm5MRmszNkdTVktsOXRGMGZXTmktWVRYd1ZvNU9CaklreHRES2RFU3ZGRlN3UkdHMWwzY25qcktGdGlCT19yRXFSektEUlM4Zw?oc=5",
+      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "長野県警が緊急対策…県内で5日間に3件の交通死亡事故 慎重な運転や安全運転相談ダイヤルに相談などを呼び掛け【長野】",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREkwSGstX2Z4NDhJejRrZFBzQTFqVWpncVhxWjIyZ281MW9DMHJNRWxIVEhvV3RIQkxEbUNBME0wcjR0N2ZWaHRkUjVHaVAxTndfbFl0cVZDYXNGRnRHX3VCYl9BbEI4dUtsZC1LdWxFUW9kRlJnX1B6N2tjVmhGTVVsWGF4LVk?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "長野県南箕輪村長が交通事故 帰宅途中、信号のない交差点で",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdkNKLU1leVZoVUJKSmZHemc5MW95VnkwQXJyd1p6MkFOcW5uZlpwclM3QnpnSzVJYkpBTWlMb0cya3YtMWppcUtGNXNYcDctWnMwVg?oc=5",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【緊迫する現場】夜の中心市街地に大勢の警察官が…何があった？？長野市の現場は一時、騒然…交通事故巡って当事者間でトラブルか…警察を取材すると「発表する案件ではないので、理由は言えません…」 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10b25hM09GNzJyNlBfNGcyNmpJZUVoa2s3SGVBU2hqdVhZLWY2Y3BYYUNEdWVCUVlvd0JhUVp2QWljeGc4dFZtcEtWWkxOTmNqWW1BUGhWR01mV2NCZUdlN1lmZk1PTjA?oc=5",
+      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

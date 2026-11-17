@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-17T15:07:07.221012",
+  "generated_at": "2026-11-17T18:06:49.805819",
   "pref": "大分県",
   "region": "九州・沖縄地方",
   "capital": "大分",
   "weather": {
-    "code": 63,
-    "weather": "雨",
+    "code": 65,
+    "weather": "強い雨",
     "temp_now": 15.7,
     "temp_max": 17.7,
-    "temp_min": 15.0,
+    "temp_min": 15.4,
     "precip_prob_max": 100,
-    "precip_sum": 23.2,
-    "wind_speed": 20.9,
+    "precip_sum": 20.4,
+    "wind_speed": 20.3,
     "hourly": [
       {
         "time": "00:00",
@@ -39,36 +39,62 @@
       },
       {
         "time": "12:00",
-        "temp": 16.4,
+        "temp": 16.3,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 15.7,
-        "weather": "雨",
+        "temp": 15.9,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 15.4,
-        "weather": "曇り",
+        "temp": 15.7,
+        "weather": "弱い霧雨",
         "precip_prob": 98
       },
       {
         "time": "21:00",
-        "temp": 15.7,
+        "temp": 16.1,
         "weather": "曇り",
         "precip_prob": 73
       }
     ]
   },
-  "enforcement_news": [],
+  "enforcement_news": [
+    {
+      "title": "11月17日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hdjFUdDhldlRzbmhnWWl4S0dYTHhweDRpcE55QTBQYkZYaXZRTUkxZDNMSHJpSHc0elRNN2FQcVJWaVRsRUNwSE9TRV9pMnNBM3BLTHFSWGVXT1l5eEpCOWJNRFhjdjhWeUhOS09SONIBdEFVX3lxTE85RktQRjJ2M1dZUEdXM3VlT3I5MGMwTURGbVVCNk1VQTdnR1BnWW52azQ3aG5rMEh0ZXd2Ri1KMlBvX0FrOC1rOWdidHo4eF92eFhYZnJwYTE2bTlaVkhUbE9jTUNTVVNyd19pbi1uT0Q3Um9S?oc=5",
+      "date": "Mon, 16 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１１月７日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wMlFiV1UwM3A0NFVRblgxSmRMYTdFYzhzUk5PSi1iUVRZTGVsQ2RIUjBtRWFaUkJyalZVb19jVUU1VmNzQXNDX1VQTGY1NmR5YW1HcUFWRFd6YUdhVVV0VXJrS1RfR1pN?oc=5",
+      "date": "Fri, 06 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "11月14日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82UEFubzdVM3pVZndkMk1YODJ6MVJCOVVVbHUzMVFTaUNOMlp6MmVXYTc0c0VvWnJ0SkU0VkljQnc0NW8yb3dIT2pEV0hLY1QtdFNSb2kteTV2WlNpbWJ0WjRXWk5RTTVWUnhBbGZfVdIBdEFVX3lxTE9zQS1LYmVmeTFXOFo1NlkxX29ReG04a0h4Nmo2ZVExWWNEdHFoczRXUDdOZWg3WFd2YkFIZ2Z6YmFncS1oV0RTZ28yVDZrMTdab25WYXhYMTRmRV9qM0JqMmcwWld3T2xzTlBtY2d5dklOOEYy?oc=5",
+      "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "大規模飲酒検問を実施 ドライバー200人超の呼気確認 5件摘発 大分県警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMi1aQTIzUDJGUXlrdUpud0l3T3F4VkhJTnJGUG9ZZHRzaHVITmFkMmVuZDhmdXFzcXg3SUdveFNzdEhPbjYwMDVVLVVGYUlRcG83TlZlQnRrQQ?oc=5",
+      "date": "Sat, 13 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転ゼロへ地道な検問 大分・日田署の取り締まりに記者が同行",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01allENlVRX0lDNTI5OV8yOTZ3YS1sRGE2SnQ2UXBncXk2WWJuWTFNVzZTRkNZR24tVDFNa3hyWFZDYUVLeGxWMnNYeE81LWg4QldqZWhn?oc=5",
+      "date": "Wed, 21 Feb 2024 08:00:00 GMT"
+    }
+  ],
   "accident_news": [
     {
-      "title": "「スピッツ」ドラマーが交通事故で入院",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JenI1Z0xpM2REWVd4bzRoMTNvemUxLWJmX09TNUVoMmg2RTJaWDlVZ3B5WWc5Nl9YdG5fc0wyVGduci1Ib1paM0tRODFWNTJteDNvZVJmNVUtamVXb0g2Z0xPWTdUWG9JZC1oaWpuSmNHb1hyYWIyWNIBhAFBVV95cUxQTUdkQ1VtZjRtNF9zQjFVbmNyVllreVBDLWpTWUtudHcwOFk2R242WGVYbHBwY2cxLWtnMEo1ZVN2bWIzSFhvaVExYjNoclZGNlZrRGhXYTFTRUw5dkd0UDdKX2psbzRnTG5mTDdncmc4ckYweGZLNURtVWlYRndGS05tNnQ?oc=5",
-      "date": "Sun, 15 Nov 2026 13:40:29 GMT"
+      "title": "日没時の交通事故防止へ、大分県警が「サンセット」活動　車・自転車・歩行者に３項目の注意点",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03LXhmMjdabFdLVzhVTVJHVGJmakFuMWw4MjJoZmdYbGVfQmtESEhiNVdlaXBXRkF4YVd4UVd6WG9zM0ZFSmdIX3NCMklxeVhRUUEtNUNNa1FiQ1ZRV0lpX1MtXzlPcG9oRTJSYng2UlktcnVBZkHSAYIBQVVfeXFMTnAwSElEQ25Fc3g0Q0lpbGhfYjQwZXotVXp1OTd5VXItTEtWMVgzZkFzSF8tU05pLUZ4N1pjeEpKY3NvaEZVQWFxMVkyYjFDeWRKNUdWNU9oSV84MW1Qd3Y4NTRMNERtY2kzXzQxcENYeW10VFNmRDF3S0p0Z1pkSVdDdw?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "高齢者運転者の交通事故防止について(大分県警)",
@@ -76,19 +102,19 @@
       "date": "Thu, 27 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "青森で大分市の女性死亡　ひき逃げの疑いで７６歳の男を逮捕　２台目の車を運転か",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNklWdVhIRFZvamNxV3NFb0thVDMzSHRjZ3pkSjZ6U0xZUkFtVTJDbFVlazU2TUdGTE1CdWtRQV9kTWhkZVhibUp3d0swMnlUVkNqc0hvXy1Kb3FORTFHTzlWZklpVlQ2U01nUG5HMjB3SFRKUkHSAXtBVV95cUxQSk1pQU1MeWlEQVhqZEd6SWdGTkw2UG9DUDNoalVhZnZKQjZCWU1YOHJfZEVzV25JMjUwVnZiM25fbDZFcVZ0Ql9kWXBqdnl5WGZ0Sk5GZGhlazNWdzc3ZVRKazNsWUtpQW54eVA3QjIwTUtDWGlkejRkdzg?oc=5",
-      "date": "Sun, 15 Nov 2026 09:00:00 GMT"
-    },
-    {
       "title": "観光バスなど計5台絡む事故 乗客ら10人以上搬送 大分自動車道",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNWpxcWp1YlJqQW1aa1RfeWVCblZkZTV5Q2xuQzdfSVZQS2lLYzlGQnlfd05SR1d5SEF4Y1ZURG5aVU5DejFyVTdZNkR4ZW1hZThUdThVenBqenFKRHFMQ1hOV3dDODQ?oc=5",
       "date": "Mon, 27 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "日没時の交通事故防止へ、大分県警が「サンセット」活動　車・自転車・歩行者に３項目の注意点",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03LXhmMjdabFdLVzhVTVJHVGJmakFuMWw4MjJoZmdYbGVfQmtESEhiNVdlaXBXRkF4YVd4UVd6WG9zM0ZFSmdIX3NCMklxeVhRUUEtNUNNa1FiQ1ZRV0lpX1MtXzlPcG9oRTJSYng2UlktcnVBZkHSAYIBQVVfeXFMTnAwSElEQ25Fc3g0Q0lpbGhfYjQwZXotVXp1OTd5VXItTEtWMVgzZkFzSF8tU05pLUZ4N1pjeEpKY3NvaEZVQWFxMVkyYjFDeWRKNUdWNU9oSV84MW1Qd3Y4NTRMNERtY2kzXzQxcENYeW10VFNmRDF3S0p0Z1pkSVdDdw?oc=5",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+      "title": "令和８年度 大分県交通事故遺児等援護基金等への寄付金贈呈式について",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0RxM0VnLUdmQ0pIWkhoRmtDRzJYc2IwLVd0WGpkUjVEMjM2TFdGZjlHTmEycVd3REJVOUZacllYaVVoM1djYVEwUm01RU5IaGRBckhLdU11MWhDT1A3eHluQ0FSZ3JFZTRjaDdtR0lYOXhabVJ5V1cwM3F3N0xEYg?oc=5",
+      "date": "Thu, 04 Jun 2026 03:51:14 GMT"
+    },
+    {
+      "title": "自転車の交通事故、大分県内は去年290件 過去10年で最少 最多は「出合い頭」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSNmtUNEdHUnNKb2NpRmFPemdYVjJVX1FMV3cxU09vbTNGRkdwbFZXUUxlWmktTEt5ODZiMExnMXViR0ZmV0V1Wnk4SlJ1U2xmMVdZR0YtTQ?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
