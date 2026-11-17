@@ -1,41 +1,100 @@
 {
-  "generated_at": "2026-11-17T12:05:59.113539",
+  "generated_at": "2026-11-17T15:05:45.383656",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 13.8,
+    "temp_max": 16.2,
+    "temp_min": 13.2,
+    "precip_prob_max": 100,
+    "precip_sum": 28.2,
+    "wind_speed": 8.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 13.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 13.8,
+        "weather": "晴れ",
+        "precip_prob": 12
+      },
+      {
+        "time": "09:00",
+        "temp": 15.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
+      },
+      {
+        "time": "12:00",
+        "temp": 14.7,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 13.8,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "18:00",
+        "temp": 13.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 13.6,
+        "weather": "雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
-      "title": "川のレジャーから車で帰宅「飲酒運転やめて」 静岡中央署が啓発や検問",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13bG50eGRqLUhldlBFOThJSXhsMGZNZncyNHBiVU9lQmd5d1QwNnE1clFPdFIwSVI5bVllWTF1MF9PTGhleTdsTjh6bjZUQQ?oc=5",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+      "title": "速度取締り指針",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnNnUzRmWDJGcVd2MVJISkZlTnp5MjA3WDNRWmwwaFpiblFOVEozV2VJOVNFc3JkS202X1BZRERUTnphdXZNd3FBSk4xRDhTTzR6TnVMdG5NU2IybzdzY2ZSQlhwU0dHMk1sR19UNGJvWm51QjdfenhHb2toWGRLdlNEYTl5dkdfSnk4UmhocEdMaDNtMlE?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "「秋の交通安全運動」繁華街で飲酒検問 静岡中央署と県警",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SM0FCcHZpdEIxZkFRcUUzMDNaRmlmRjdWZk96MElVZ0ZVM3M0OE5NLXh2LTNpSWY2eHF6SDVfZVRoby01c1RvSVc0V0FfUQ?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50N0U4M0g4VFptLXotUHdqd1R1d1hBbjZoNzdVQnY3UmRuZzR6cDFjMVhIdGlFX1BlSlZRZ1kweG1oQmJORnhfTUkyelVXTVU2aUdvYWl6ZEplejMtaDZ1NDZST1dqLUV3WGY2V0Fvc9IBdEFVX3lxTE5zOUxnUlJxNW9tYjNkMEFkbUMyUVBEZi00U3lBeW5RYldNdmhzTndoZ3hMMlRDbHFxQWRjTkhZVWwxblozZEtJU25UWkFETW85blFEMjBrNE11dmtQc0c0OWwwaENCVXV3Z2dKYTFiQzJlQ3Zf?oc=5",
+      "date": "Mon, 16 Nov 2026 20:05:45 GMT"
     },
     {
-      "title": "交通指導・取締情報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5CWmhjSXk5ZW1UTlBfVDZEUjNOU1dHcktEdTZtRmdoTUpjN1NyVkk3VExwXzA1MFJPZEE4bzFwdXNlcW1LMFkzRGgzOHM1UENOempNN3hSVjNLYUpONHBaRnBteGozVzVhUlVPa0VXU2NwVEhUQjNVSldsVGlEWm1oQWl6SnRzaWFTRA?oc=5",
-      "date": "Mon, 29 Jan 2024 12:34:12 GMT"
+      "title": "連休中の事故防止へ 静岡県警高速隊・交機隊が交通取締りの強化の出発式",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTkZmTlBwNlNfOFEyTy1SVEVOMWZwZGowcWl2d3dOeFE2b05icWh6SWl5YnZ3ZVZIQm43RXdMbktOREtjU1NNOVhYalhNOHEwQjBvZUczVk1Qd0k?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
     },
     {
-      "title": "「改造車は排除します！」 爆音＆シャコタンの「不正改造車」を\"一斉摘発\" 道の駅で集結した「国産スポーツカー」など11台をその場で検挙！ 「改善命令」も発出 静岡",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZmlFTmJWTEh0eVVHYy1lanFSS3pITnVCY0g4Zk14cThXWG1tdE9YaDFBemlQSDJXYk4zc25SN19GaXlSbjNhVmdlWQ?oc=5",
-      "date": "Fri, 15 May 2026 07:00:00 GMT"
+      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
+      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "「飲酒運転は大変危険な犯罪」警察が抜き打ちの飲酒検問＝静岡市 | 静岡のニュース | SBSNEWS | 静岡放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBycENIdF9FS3E3anZocGUxZlJpN0lOS0ZFOGJGTXdaU2ZibGFIM28yWlljVmwybktOR1VhOHhrc3pyRUZPajBvZUNLSHRybkRXZEk5Z25UZTRBZw?oc=5",
-      "date": "Sun, 14 Jul 2024 07:00:00 GMT"
+      "title": "「安全運転に努めて」下校中の児童3人はねられ重軽傷の事故受け 通学路で速度違反取り締まり=静岡県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yVUt5OTRjWFBDMUNzeUdSSmtfVTBIUGp3RTMtbXdpSGdJajNuVzZVN29MNlUzeGtlck4zNEVvc3EzaUZQNTQ1QTBmRXJHNm5SQ1p5LVNpaEVjdV82VHl2WHhGUG9lc0U?oc=5",
+      "date": "Mon, 11 Mar 2024 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "富士山スカイラインで会社員の男性が車２台にはねられ死亡 警察が事故の経緯を捜査 静岡・富士市（静岡朝日テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAza2dnRkRRaWZYb3JqZUpJZU1oSUdiUVI5MTVaU1d5WTZfWGM2anRjSUc1ZGs4dXFDZWh1aFprbTFXM2M2X3YtNmVmU3pfYjJKQzBuU2hZeUJWUkF5ZG9ZWWowZC14aWIyUTFJSDJmbm1wMWVCcVU0S0tPaVdEV3c?oc=5",
-      "date": "Sun, 15 Nov 2026 03:05:09 GMT"
+      "title": "事故の瞬間をドライブレコーダーが捉えた 静岡市の国道１号で乗用車とトラックが衝突（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dmlTNS1NejNfUl9PLV9rZ0diZ3pmRll5Q2YyMWtSS1hPVUEyUk5uRjJ2QmZuX0hLd1NKbmRVbTNqRkdyNDR4c1lQMFJzUXNxUEpIc2lmZ0Z3dzlmZHZxMjVjck5Ddmp0eWdRaGl0RHU2ZW9SclEzTnBWV2lSS0U?oc=5",
+      "date": "Mon, 16 Nov 2026 10:14:04 GMT"
     },
     {
       "title": "静岡市葵区の静清バイパスで交通事故 男性1人が死亡 警察は乗用車を運転していた静岡市清水区の会社員（２５）の男を過失運転致傷の疑いで現行犯逮捕",
@@ -43,14 +102,19 @@
       "date": "Fri, 13 Nov 2026 12:09:00 GMT"
     },
     {
-      "title": "富士山スカイラインで歩行者の男性が2台の車にひかれ死亡＝静岡・富士市 | 静岡のニュース | SBSNEWS | 静岡放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LUzVpUnd2Ukh6enBWU0FPdHBkSTFmbkFhZ3JaMnFLM0EzdzEzZ09sYXZCUUdKZU5uYkV4eUc5NWtEVXg1QThQQkotUTVkS3BsZTdXcDJDY0NSYWY1MWhVQVFVQkxHSDA?oc=5",
-      "date": "Sun, 15 Nov 2026 03:13:00 GMT"
+      "title": "交通事故統計情報",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjdFcWthUGlGV3Z4eUVTeUFuMjVoRW5TZXB4YUtkWm5JNlNHYUVwSUVhMkxWRlAzRXNLZFJMTm56T25ieU5iNEJkWGVjakVBYlN3X1Q0NmJvcjFSeU5udmFfZTF1YzNaaldXR3UzUEJmNXJGSHJpSE5NbFlmeW5FNlUtWQ?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "富士山スカイラインで横断中の40歳男性 車2台にひかれ死亡 事故現場に横断歩道なし（テレビ静岡NEWS）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSFRhRHEwS3k5U2ZDTk9KNWNpMjNmV1R3OTFwS3I4TEQ2QW1HeE5FN1lrRVdvdmNoeXlrNERBOENodEtqZ2RUVGoyOUZ5aHJYLWlUZ0NkeUVlTmswZUJVU1dEeXoteXNaczFTZFg2V3JTMktEby03dUJQbGZpS1k?oc=5",
-      "date": "Sun, 15 Nov 2026 03:15:01 GMT"
+      "title": "車外にいた作業員の男性が後ろから来た乗用車にはねられ死亡 静岡市の静清バイパス（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZzR3VXh0WXBseUQ4QWFrSkREZEFJNVNaUVFRTVVhZ0Rvc0dqbU1UQVU4dE5Gc202MV9xY0VaZ2UtSkRKaEFQbVdCdnhWb3R4REdNajZGTUx1enhFTkdFNWUwRHJaWmNzcTFrWGgxOEZDYlNlLWFCcjN5VDBESGs?oc=5",
+      "date": "Fri, 13 Nov 2026 09:57:18 GMT"
+    },
+    {
+      "title": "富士山スカイラインで会社員の男性が車２台にはねられ死亡 警察が事故の経緯を捜査 静岡・富士市（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAza2dnRkRRaWZYb3JqZUpJZU1oSUdiUVI5MTVaU1d5WTZfWGM2anRjSUc1ZGs4dXFDZWh1aFprbTFXM2M2X3YtNmVmU3pfYjJKQzBuU2hZeUJWUkF5ZG9ZWWowZC14aWIyUTFJSDJmbm1wMWVCcVU0S0tPaVdEV3c?oc=5",
+      "date": "Sun, 15 Nov 2026 03:05:09 GMT"
     }
   ],
   "official_links": [
