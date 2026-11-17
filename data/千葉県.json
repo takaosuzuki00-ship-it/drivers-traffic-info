@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-18T03:04:48.578244",
+  "generated_at": "2026-11-18T06:04:51.195745",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 10.8,
+    "temp_max": 18.7,
+    "temp_min": 10.0,
+    "precip_prob_max": 100,
+    "precip_sum": 39.7,
+    "wind_speed": 11.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.0,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 10.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 10.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "09:00",
+        "temp": 13.7,
+        "weather": "快晴",
+        "precip_prob": 4
+      },
+      {
+        "time": "12:00",
+        "temp": 17.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 17.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
@@ -11,14 +70,14 @@
       "date": "Mon, 16 Nov 2026 20:13:21 GMT"
     },
     {
-      "title": "11月17日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hdjFUdDhldlRzbmhnWWl4S0dYTHhweDRpcE55QTBQYkZYaXZRTUkxZDNMSHJpSHc0elRNN2FQcVJWaVRsRUNwSE9TRV9pMnNBM3BLTHFSWGVXT1l5eEpCOWJNRFhjdjhWeUhOS09SONIBdEFVX3lxTE85RktQRjJ2M1dZUEdXM3VlT3I5MGMwTURGbVVCNk1VQTdnR1BnWW52azQ3aG5rMEh0ZXd2Ri1KMlBvX0FrOC1rOWdidHo4eF92eFhYZnJwYTE2bTlaVkhUbE9jTUNTVVNyd19pbi1uT0Q3Um9S?oc=5",
-      "date": "Mon, 16 Nov 2026 20:02:00 GMT"
+      "title": "11月16日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wREIyNXR5U1ItSlRuUEV5VDhMaW0xdVg0ck1VQ0FpUHMxc0tpdkZlSnk4TUlxUXlJejBvQXc4bl9MaVJyXzhMLVpmcXBfbHBlekdKUVBzNGI5MHlQZXZ4Y3QwZGJibTVkdWU5YmFta9IBdEFVX3lxTFBrOTRmNU8xQjBzdk1kVTFRNTNDbkd2LXJESTRKR1AwbmVuU3Y5NXh4UDVmZnRpQ0NPVmJRZFBNb3ZqZ2ZXQ1VUeFhhejRYZ1NwTnlkUER5S2REdG5mbVhtX2FCdHNfT0UwLVRrUVhsbGhpZzEt?oc=5",
+      "date": "Sun, 15 Nov 2026 20:07:05 GMT"
     },
     {
-      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50N0U4M0g4VFptLXotUHdqd1R1d1hBbjZoNzdVQnY3UmRuZzR6cDFjMVhIdGlFX1BlSlZRZ1kweG1oQmJORnhfTUkyelVXTVU2aUdvYWl6ZEplejMtaDZ1NDZST1dqLUV3WGY2V0Fvc9IBdEFVX3lxTE5zOUxnUlJxNW9tYjNkMEFkbUMyUVBEZi00U3lBeW5RYldNdmhzTndoZ3hMMlRDbHFxQWRjTkhZVWwxblozZEtJU25UWkFETW85blFEMjBrNE11dmtQc0c0OWwwaENCVXV3Z2dKYTFiQzJlQ3Zf?oc=5",
-      "date": "Mon, 16 Nov 2026 20:05:45 GMT"
+      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
+      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
@@ -26,9 +85,9 @@
       "date": "Sat, 14 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "11月16日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wREIyNXR5U1ItSlRuUEV5VDhMaW0xdVg0ck1VQ0FpUHMxc0tpdkZlSnk4TUlxUXlJejBvQXc4bl9MaVJyXzhMLVpmcXBfbHBlekdKUVBzNGI5MHlQZXZ4Y3QwZGJibTVkdWU5YmFta9IBdEFVX3lxTFBrOTRmNU8xQjBzdk1kVTFRNTNDbkd2LXJESTRKR1AwbmVuU3Y5NXh4UDVmZnRpQ0NPVmJRZFBNb3ZqZ2ZXQ1VUeFhhejRYZ1NwTnlkUER5S2REdG5mbVhtX2FCdHNfT0UwLVRrUVhsbGhpZzEt?oc=5",
-      "date": "Sun, 15 Nov 2026 20:07:05 GMT"
+      "title": "11月17日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hdjFUdDhldlRzbmhnWWl4S0dYTHhweDRpcE55QTBQYkZYaXZRTUkxZDNMSHJpSHc0elRNN2FQcVJWaVRsRUNwSE9TRV9pMnNBM3BLTHFSWGVXT1l5eEpCOWJNRFhjdjhWeUhOS09SONIBdEFVX3lxTE85RktQRjJ2M1dZUEdXM3VlT3I5MGMwTURGbVVCNk1VQTdnR1BnWW52azQ3aG5rMEh0ZXd2Ri1KMlBvX0FrOC1rOWdidHo4eF92eFhYZnJwYTE2bTlaVkhUbE9jTUNTVVNyd19pbi1uT0Q3Um9S?oc=5",
+      "date": "Mon, 16 Nov 2026 20:02:00 GMT"
     }
   ],
   "accident_news": [
@@ -43,11 +102,6 @@
       "date": "Sat, 14 Nov 2026 05:16:01 GMT"
     },
     {
-      "title": "トレーラーと乗用車2台が絡む事故 4人軽傷も命に別状なし 付近では約4キロの渋滞発生 東関東道・四街道インターチェンジ付近 千葉",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtM29ZS0toZVJRZVdSS1RrNWRXSE5vWUtOenhIRjU0N19ReFRFYTVuTFJuOTdjN1drU0dFb1pIWHVpSlNnUVZsRjNKemFVRTlPeFR1Z3NUYw?oc=5",
-      "date": "Sat, 14 Nov 2026 05:10:31 GMT"
-    },
-    {
       "title": "千葉の５人死傷事故、１９歳を過失運転致死傷容疑で逮捕…対向車線にはみ出しトラックと衝突「右にハンドルを切ったらスリップ」",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14WDZ3ZEhFSFF6OFpMUXpvWGRlVU9sOHczUWItVkY4aFhFRzNVU0xUOXhCT01SdEgxTDRvS1FjbzZkd01mbVh2WkNMdmZrLWVHQXZrVGxpMDd2ZENpZ2U0Nk1HLVMxZw?oc=5",
       "date": "Tue, 13 Oct 2026 07:00:00 GMT"
@@ -56,6 +110,11 @@
       "title": "千葉 乗用車炎上で3人死亡 住人が目撃“緊迫の現場”",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RNV95b1IwaGs0cnJNcGw5a1U4Y2JXQVVqZUZTNnNTcW1BU292dFgzQk1kQzBaN05QR2RIVmR4OU1fN01wWFlHSWFkbHFvV3RjcXFYRkNPVmFSU3hwNTdXX1QyVF80VVpuMlJLdGM3X1VTdw?oc=5",
       "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ＪＲ稲毛駅で人身事故、男性死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFQ0g5eF8tQ05USEpiRS0wYUxKLWFLUkRjNmVwYnpqeUQxU003emxwR3A0dEdSeEJITWdsZnJJMWVzaHlVX1ZNRjRiUnJMeDNLOGVhR3NHMWc?oc=5",
+      "date": "Sat, 14 Nov 2026 20:00:00 GMT"
     }
   ],
   "official_links": [
