@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-17T21:06:39.744861",
+  "generated_at": "2026-11-18T00:05:40.282594",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 15.0,
-    "temp_max": 15.8,
-    "temp_min": 10.8,
-    "precip_prob_max": 100,
-    "precip_sum": 22.0,
-    "wind_speed": 7.3,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 13.3,
+    "temp_max": 19.8,
+    "temp_min": 12.4,
+    "precip_prob_max": 94,
+    "precip_sum": 1.6,
+    "wind_speed": 7.6,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 11.9,
+        "temp": 13.3,
+        "weather": "霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "03:00",
+        "temp": 13.1,
+        "weather": "晴れ",
+        "precip_prob": 57
+      },
+      {
+        "time": "06:00",
+        "temp": 12.5,
+        "weather": "晴れ",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 15.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
-        "time": "03:00",
-        "temp": 11.4,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 11.0,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 12.2,
-        "weather": "曇り",
-        "precip_prob": 31
-      },
-      {
         "time": "12:00",
-        "temp": 14.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 86
+        "temp": 19.1,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 14.4,
-        "weather": "曇り",
-        "precip_prob": 67
+        "temp": 19.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 15.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 16.5,
+        "weather": "快晴",
+        "precip_prob": 6
       },
       {
         "time": "21:00",
-        "temp": 15.0,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 14.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
       }
     ]
   },

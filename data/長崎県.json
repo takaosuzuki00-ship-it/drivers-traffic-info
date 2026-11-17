@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-17T21:07:48.537248",
+  "generated_at": "2026-11-18T00:06:35.019837",
   "pref": "長崎県",
   "region": "九州・沖縄地方",
   "capital": "長崎",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 15.3,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 14.8,
     "temp_max": 17.4,
-    "temp_min": 14.9,
-    "precip_prob_max": 100,
-    "precip_sum": 16.1,
-    "wind_speed": 2.9,
+    "temp_min": 13.0,
+    "precip_prob_max": 84,
+    "precip_sum": 2.2,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 17.4,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 17.0,
-        "weather": "晴れ",
-        "precip_prob": 2
-      },
-      {
-        "time": "06:00",
-        "temp": 15.9,
-        "weather": "曇り",
+        "temp": 14.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 8
       },
       {
+        "time": "03:00",
+        "temp": 14.7,
+        "weather": "晴れ",
+        "precip_prob": 4
+      },
+      {
+        "time": "06:00",
+        "temp": 15.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
         "time": "09:00",
-        "temp": 15.2,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 16.3,
+        "weather": "晴れ",
+        "precip_prob": 18
       },
       {
         "time": "12:00",
-        "temp": 15.5,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 16.6,
+        "weather": "霧雨",
+        "precip_prob": 84
       },
       {
         "time": "15:00",
-        "temp": 16.5,
-        "weather": "晴れ",
-        "precip_prob": 100
+        "temp": 16.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 61
       },
       {
         "time": "18:00",
-        "temp": 16.0,
+        "temp": 15.4,
         "weather": "晴れ",
-        "precip_prob": 45
+        "precip_prob": 25
       },
       {
         "time": "21:00",
-        "temp": 15.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 16
+        "temp": 15.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 49
       }
     ]
   },
@@ -87,19 +87,9 @@
   ],
   "accident_news": [
     {
-      "title": "県内で事故相次ぐ 長崎市でトラックの運転手が死亡 佐世保市で男性が車にはねられ重体《長崎》（長崎国際テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LLXdWbzV5d1JEb09ucTU4SkZfemhZcGYxWUFVa19fNUVxeF9KVHVxdFBCZ3FsR1RPc2NuQ3B1aXdYUDg3WC1oNmhBblhpZlpWRmIwVnNuNDd1SnF0RW5raGhtelhJVl9GWFo2N3BnVjh2QjBkWDBRSXJiVGlKUTg?oc=5",
-      "date": "Mon, 16 Nov 2026 03:03:01 GMT"
-    },
-    {
-      "title": "「死因は交通事故に起因せず」長崎市古河町の国道でトラックが看板などに衝突、運転手（52）が死亡（NBC長崎放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RblBoY0xfQ1VySVVlYXMwTDZodWpXX3Rmck5WQWY2OXdtMjl2U0wxZjhHYV9ObFlucHoyZklWV09UZm1hYVBWQ0ctU3hjaWlyLVFjSm5KSEY4QzNMVlRSb29fa1NGNDkwaV9CTHJ2MUZjeEJhWnkzUVNZQV96Rnc?oc=5",
-      "date": "Mon, 16 Nov 2026 08:54:17 GMT"
-    },
-    {
-      "title": "知人同士で交通事故を偽装か「整骨院の通院水増し 保険金だまし取る詐欺などの疑い」男4人逮捕《長崎》（長崎国際テレビ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ld3BOOUNjQ25xWnVYc2F2cmJtYW9oS2VfWGJzYjJ4S0lKb2FrUjg3OTNoUXpfLWZ5aURQZEduTFdBbERJZkF4LUZZSXhVdGkyV0dNZmRHbWJwQ3YwMVFIdWszM3UwWlp5RUY5Wk44dGczLUdxbllET1R4M0lpZE0?oc=5",
-      "date": "Sun, 15 Nov 2026 10:18:00 GMT"
+      "title": "「死因は交通事故に起因せず」長崎市古河町の国道でトラックが看板などに衝突、運転手(52)が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0UXJrSW9hR2JfOG1mdzQ1Q01GUHF1YzEyT0s0VjBpQnpROGdQN3owRlhLWldBaUJZaGlRal8wbUFHM0pjbjFZOTR4ZnRKS2ZFdThVMnlBdFo5UQ?oc=5",
+      "date": "Mon, 16 Nov 2026 08:51:00 GMT"
     },
     {
       "title": "交通事故を偽装し保険金をだまし取ったか 詐欺容疑などで知人同士の男4人を逮捕｜ニュース",
@@ -107,9 +97,19 @@
       "date": "Mon, 16 Nov 2026 03:00:00 GMT"
     },
     {
-      "title": "交通事故偽装に保険金水増し請求…男4人を詐欺などの疑いで逮捕【長崎】 | 長崎のニュース | 天気 | NBC長崎放送 (1ページ)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Nck01X2U0X0NhUUJNT05sZ2gzUHNzeXl2R09LMEtleVNLTEVfSVFoWnZhbnZEdVl5Z2c2UGpFbzE0VlVGQ01sRVJKenZTLWlqX04xOElvcW1hdExGVWRxTFVqYTZGWG8?oc=5",
-      "date": "Sun, 15 Nov 2026 03:35:00 GMT"
+      "title": "車と歩行者の接触事故を偽装した疑い…３０～４０代の男４人を逮捕、保険金の詐取が目的 長崎県警（長崎新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUjEtNkQyLVIwWGpybWROMlZxd0ZKbFBNREJTMll0OGp1NXJJem54cXdENUlaRS0wS1hNY0lOeUpZc3c1Sk53Q0cxNzd0a0NQMW1IMDVkbk5FNFlhUm1hR3NETk1ZeVp5aWFKNkJIUEdhWmpERFh0SUlCR2c1Zjg?oc=5",
+      "date": "Mon, 16 Nov 2026 02:00:21 GMT"
+    },
+    {
+      "title": "長崎県内で交通事故相次ぐ 1人死亡1人重体",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3aUFLY1Z6WEJNT1ZPa2VIVGtkT05wRktvVy1TRDFJeXFDdjUxTWE5SXpFN1Q5Zk5ldktITjAwbmlpUmlDbFR1UUJmd3BkUVAxT0MwMGdFeHVtRDQwbE84?oc=5",
+      "date": "Mon, 16 Nov 2026 02:49:00 GMT"
+    },
+    {
+      "title": "【事故】長崎市の国道「カーブ曲がれず建物に衝突し1人死亡」佐世保市では車にはねられ男性重体《長崎》",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOal9yejhTb0NobHB6OVR5Smo2RnI5VkVEU0lvX3lUSUczYjRMN3RmZE9YZlgxcXJyOUNLaXZzRzZCMTRtaUVHLXhsaTRkRVZoRjRrYWVYN1pmMHctM09RREpXakdpczJadW91c2F0RXJJUVpXdlF4dnBSYy1yZ0R4ZndiNWpTT1E?oc=5",
+      "date": "Mon, 16 Nov 2026 11:20:00 GMT"
     }
   ],
   "official_links": [
