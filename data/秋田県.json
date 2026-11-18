@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-18T21:02:40.304971",
+  "generated_at": "2026-11-19T00:03:52.463312",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 10.9,
+    "temp_max": 11.5,
+    "temp_min": 3.4,
+    "precip_prob_max": 100,
+    "precip_sum": 21.9,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 10.8,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 9.0,
+        "weather": "強い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "09:00",
+        "temp": 8.5,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 7.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 5.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "18:00",
+        "temp": 4.3,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 4.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -26,9 +85,9 @@
       "date": "Sat, 29 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWUt6bXVpUzJjT0Zab2FWbmYxbTg1LTRvektfZTVDbEt3cFhiYzBpRXdvaTd6N2lCVkZYa1BFc2lsbW16Q2djSWtIY0RNMXg1U1pIRkFfN0ZjNUtwLXNob1hR?oc=5",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+      "title": "3歳児死亡事故時間帯に飲酒検問を実施福岡市",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MRkF6a2dtUUt6RkM3RzFuSG9Sbzl5NUVVeUpLOENmR0VMRzR1ZkdxelNYWHlYOGlwMEFOSjl1RDZYM3R1TTJEZHk1aU1RakM3cUhhNmk2VTNvTDJEenRmVlZ6ZkJRQm8?oc=5",
+      "date": "Tue, 22 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -43,9 +102,9 @@
       "date": "Wed, 18 Nov 2026 06:10:00 GMT"
     },
     {
-      "title": "能代市、交通死亡事故ゼロ３６５日達成 秋田県警が顕彰状",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xeXBLalBveVBYQXdReTRYSE9oMTA2MEU4Z0ZQVzJMOHN6R1VJRWxCaDVIUEJoc0dWMXVwQmpQcHNKRnZFblpIbUwwNA?oc=5",
-      "date": "Wed, 18 Nov 2026 06:12:00 GMT"
+      "title": "にかほ市、交通死亡事故ゼロ７３０日達成 秋田県と県警が表彰",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9USGszalE3RkJ0WWY3QVdFdDdfYWJKbjNwbkFsRWxsUHpHWllPaXhwREFaOFJDUEVWWk8wczROTFhDS0xBejhHWjB4MA?oc=5",
+      "date": "Wed, 18 Nov 2026 06:10:00 GMT"
     },
     {
       "title": "にかほ市、交通死亡事故ゼロ730日達成 秋田県と県警が表彰",
@@ -53,9 +112,9 @@
       "date": "Wed, 18 Nov 2026 06:10:00 GMT"
     },
     {
-      "title": "にかほ市、交通死亡事故ゼロ７３０日達成 秋田県と県警が表彰",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9USGszalE3RkJ0WWY3QVdFdDdfYWJKbjNwbkFsRWxsUHpHWllPaXhwREFaOFJDUEVWWk8wczROTFhDS0xBejhHWjB4MA?oc=5",
-      "date": "Wed, 18 Nov 2026 06:10:00 GMT"
+      "title": "能代市、交通死亡事故ゼロ３６５日達成 秋田県警が顕彰状",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UZUtkUnpvb2JnMlJSOE9DdjIxb3lPNS10Xy1IR1p6d2JBN0NxLVBTZnMxLUpXZUdPQ3p5SnNyanZxYVZmWHhnVWExWGVZQWxILXotOXpMWXFXWUU3TFB0b2pn?oc=5",
+      "date": "Wed, 18 Nov 2026 06:12:00 GMT"
     }
   ],
   "official_links": [

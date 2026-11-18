@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-18T21:02:53.749651",
+  "generated_at": "2026-11-19T00:03:55.827407",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 11.2,
+    "temp_max": 11.2,
+    "temp_min": 3.1,
+    "precip_prob_max": 100,
+    "precip_sum": 18.8,
+    "wind_speed": 3.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.2,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 9.4,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 8.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 7.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 7.5,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 6.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 4.4,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 3.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月18日（水）【岩手県】 日中・夜間の交通取締情報",
@@ -11,14 +70,14 @@
       "date": "Tue, 17 Nov 2026 20:07:23 GMT"
     },
     {
-      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50N0U4M0g4VFptLXotUHdqd1R1d1hBbjZoNzdVQnY3UmRuZzR6cDFjMVhIdGlFX1BlSlZRZ1kweG1oQmJORnhfTUkyelVXTVU2aUdvYWl6ZEplejMtaDZ1NDZST1dqLUV3WGY2V0Fvc9IBdEFVX3lxTE5zOUxnUlJxNW9tYjNkMEFkbUMyUVBEZi00U3lBeW5RYldNdmhzTndoZ3hMMlRDbHFxQWRjTkhZVWwxblozZEtJU25UWkFETW85blFEMjBrNE11dmtQc0c0OWwwaENCVXV3Z2dKYTFiQzJlQ3Zf?oc=5",
-      "date": "Mon, 16 Nov 2026 20:05:45 GMT"
-    },
-    {
       "title": "11月15日（日）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRd3p5VG5mRDNpWDV3ekRUaGRaLV96VHBWc1JWT3paQmVLNmlNQU9sTDJUVlpicG5HZG9uUEhUTmJqUllQdXYwQ0pBV3Q5OHpuNmpHZnV1M093Tm85aXRrRWR1NEplYkM2Vk9UN0pwSdIBdEFVX3lxTFAxY2tIWlFzendsS3RSb1JHeDZyYXhFRmtKRXdNWXVXejRHLTdMel9XQXh0eXRQakYwRm9FWHF0aU9mRXVLTXI0bHhyem94V0t3REVMUTVkOE9qcFA1Z3dqLWJZQVJFdVNvTTdRMzJrRHVqR0VJ?oc=5",
       "date": "Sat, 14 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
+      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "「スピード違反自動取締装置」を使った取り締まり この時期は通勤・通学時の交通事故が増える傾向に（山形・天童市）",
@@ -54,8 +113,8 @@
     },
     {
       "title": "死亡事故現場で横断歩道の必要性など検討へ 男性がワゴン車にはねられた道路を警察らが点検（山形・鶴岡市）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zODkyTnQydnJ0VDFZbjFVc3NPVUFHMUpOSFFKRVZlUTRVMUI4ZG1yOWdmQ2loSUEtTXd3WVh0MWtiNV83T2k3b0pQRjRsRmNwdmE2OFE1ZEdDNU5hb1d1N1JKeXVTMjR3WjJqZEpXZjgxOHFMWHdjS3RWckNhN2s?oc=5",
-      "date": "Wed, 18 Nov 2026 09:39:16 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWHV5ZFpEUU8yN1JZY1ZMcmxXT1k5ODZZTjFib2draHJwd1RFT294cWRwejlEVVN3MWFiTzZiUUpIeU5IMDkyQzBoX0JIdjlIWWIyMngxNFJRQVRUejdnNk12YmdNMW8?oc=5",
+      "date": "Wed, 18 Nov 2026 09:37:00 GMT"
     }
   ],
   "official_links": [

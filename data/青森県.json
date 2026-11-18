@@ -1,29 +1,93 @@
 {
-  "generated_at": "2026-11-18T21:02:00.717690",
+  "generated_at": "2026-11-19T00:03:41.891780",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 9.7,
+    "temp_max": 9.7,
+    "temp_min": 1.8,
+    "precip_prob_max": 100,
+    "precip_sum": 14.3,
+    "wind_speed": 8.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.7,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 8.5,
+        "weather": "晴れ",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 7.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
+      },
+      {
+        "time": "09:00",
+        "temp": 5.7,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 6.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 4.2,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 2.4,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "21:00",
+        "temp": 3.0,
+        "weather": "晴れ",
+        "precip_prob": 96
+      }
+    ]
+  },
   "enforcement_news": [
+    {
+      "title": "11月18日（水）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTTE5aEF0VGV6WG9vQm92UzNKZnhtTlpFUE81TmFZNVRESmdoRHNUOTlwTS1UZWhhWmFQWEpvVnVLVzBsSFN0eEVSdkdlaTgzS3Ria09CV3NfcG8wQVFYN09YamdLMkRJUTI2M200SGpVa3JPVVdGZ0hsY3FLcjA?oc=5",
+      "date": "Tue, 17 Nov 2026 20:00:33 GMT"
+    },
+    {
+      "title": "１１月１６日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTGFJN1NTTjJMZTRQTnZjek16VlJLV0ZWYTdmUC1Lb19weWhpRGJqYVZ0MDQwTWVKcWxqRWV5LXR2UWdLU3BlbEVseVI4RUFOME1xRWZWX1Fyc2pZUXR6MklSOXU2R2JCMmNCbzRaekZid9IBd0FVX3lxTE9Pc0RzeXM3a09JNzNiSEJKb2JzQ1hZUXN6V2kyQ2xhNGItVGZ0RDNNaVU5S0FyT2x1alB0S2RxTGpVb3Y0RHBGV3VUVkxxZUcwSlhzbDhKY3RhczY0UTRUbmhiSGVaNlVsdFQ2N212YkRoOGVNX0tz?oc=5",
+      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
     {
       "title": "ひき逃げ事件現場で同時間帯に検問 警察が情報提供を呼び掛ける（2024年12月17日掲載）｜青森放送NEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTI4WjhCVXR4NnJiYW1MZ09rcS1IZTRaRFJWSHhYa1RYOWc5QUlGTjdJMVhHbURibXctUjZ3M0ZQeVVtVFU4cUNQSjI3cVZIMXlyUTktMzVIZ2NEMTNyeEItV0d4aXNpSW93ZUFvdFgyTDZIcklYSTd1SlNuellEX3Z2NzBLanc?oc=5",
       "date": "Tue, 17 Dec 2024 08:00:00 GMT"
-    },
-    {
-      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
-      "date": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "七戸町長と町議を公職選挙法違反の疑いで書類送検 去年の町長選挙巡り事前運動などの疑い",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGZFWmdnVmhxakJpdFlYN19DTGw4TVJ1RFotUnM4azY2eU1oTGxJWFFmQ3dHeml1LUlsSXZnSFN1eWFEdW1oeUJzNzV5WWNkRnhiVXFqS1Ryc3d2WFEwdHQ5QjVCSTNsOVJqOFNwb1BCdm9aSk51ZldveXliZDZyamlINmhDVGha?oc=5",
-      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Ｊ２ヴァンラーレ八戸の元役員が酒気帯び運転の疑いで摘発 クラブは９か月後に事案を把握 コンプライアンス違反として発表 ２１日に下平社長が記者会見へ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kWXhRY2lGSGlTRldGa0RlWGdmX01JUDBxc29YRVdjZFYzUldFUlZ6eDZGUDNPMEZ2R0hRYkFlWkJ5QmRLb1pUVVRwSE0xZlJQMkxESFN3SDBqQnZuUGp4VzIzdGJNbFk?oc=5",
-      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
