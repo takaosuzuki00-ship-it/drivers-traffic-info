@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-18T18:03:27.829599",
+  "generated_at": "2026-11-18T21:03:49.933708",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 16.0,
+    "temp_max": 20.2,
+    "temp_min": 9.1,
+    "precip_prob_max": 100,
+    "precip_sum": 18.4,
+    "wind_speed": 7.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.1,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 9.4,
+        "weather": "強い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 10.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 13.2,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "12:00",
+        "temp": 18.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 16.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "埼玉の国道で持ち運び可能なオービス盗まれる 速度取り締まり中",
@@ -33,11 +92,6 @@
   ],
   "accident_news": [
     {
-      "title": "令和8年夏の交通事故防止運動を実施します",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
-      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "埼玉で死亡ひき逃げ容疑 32歳の男を逮捕「人だった認識なかった」 [埼玉県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTDBnaHd6bEVQYXVydVR6YnlQSDNRdjhmVk9mQVBqSW1Dd0lNZFNPU2hneHdsclN6eDlidy1nWGluSjZaV1M2LV9pVjR1TE9WbEwzNUcyZ0NVbUdjNHZCUHI3bXdVZW8?oc=5",
       "date": "Sun, 15 Nov 2026 01:50:00 GMT"
@@ -56,6 +110,11 @@
       "title": "バイク男性が死亡、原付で走行中…19歳の乗用車と衝突 早朝4時半すぎ、信号のある交差点 車の会社員は腕にけが、自ら110番 原付の男性は50代ぐらい",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbktFZnVNaHh3VHRDOUk3eGIwVzhTOS1pSnd3Zjl2RHNfVnlVeXE0dUxjMkNTd2ZVTmJsSHRaMC1zWWttcXhzSTMyckZrb1lfa2JqS2E1Yw?oc=5",
       "date": "Mon, 16 Nov 2026 23:29:00 GMT"
+    },
+    {
+      "title": "バイクの男性死亡…信号待ちで停車したバイクに車が追突 事故を目撃した近隣店舗の従業員が110番（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTU9ZRkNyeDhHc3hmWXA5WE40LUo2ZjBVelVTZE9Bc3JwcGJEbGNBNHVJUGc5c1NMNy1nbWNhc1VnSGNNaWFyQ1hYaVUtSTE2b0ctSkpoNWE0WlVIUFFETnFLZ08yWVdiNFpTWFJzekZaVGxiUXZHQmh2SGxyUDQ?oc=5",
+      "date": "Sun, 15 Nov 2026 00:04:00 GMT"
     }
   ],
   "official_links": [
