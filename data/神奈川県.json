@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-18T09:04:09.070915",
+  "generated_at": "2026-11-18T12:04:33.464080",
   "pref": "神奈川県",
   "region": "関東地方",
   "capital": "横浜",
-  "weather": {},
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 17.6,
+    "temp_max": 19.0,
+    "temp_min": 9.6,
+    "precip_prob_max": 100,
+    "precip_sum": 20.5,
+    "wind_speed": 6.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.6,
+        "weather": "強い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 10.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "06:00",
+        "temp": 11.0,
+        "weather": "霧雨",
+        "precip_prob": 51
+      },
+      {
+        "time": "09:00",
+        "temp": 13.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 18.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "神奈川県警第二交通機動隊隊員らによる不適正な取締り事案等への対応",
@@ -33,14 +92,14 @@
   ],
   "accident_news": [
     {
-      "title": "死亡事故の連続発生受け、神奈川ト協が緊急要請",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PZFQzQXl1ZTNqWW9ZU3NibUluVGRtZWRvTjMzQWx4OTN5b0c5d3ZJYXlUSWd1X1Z0UmtLNmhfTFNFMS1ydWVNTFh3?oc=5",
-      "date": "Tue, 17 Nov 2026 09:02:09 GMT"
-    },
-    {
       "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認 [神奈川県]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxT1RFdFBZQlcyUV8xSE1WbHN0NWdLYXpQMlh2ZFZHdFdVTEV0YVI2V3F1ZGk1WWFxTkhfemJmNkxMVGhmQlJCQXZaeDNrZWZXTDNXYzAwam1hZnVyV1FhMjVfQWVLem8?oc=5",
       "date": "Fri, 13 Nov 2026 20:21:18 GMT"
+    },
+    {
+      "title": "死亡事故の連続発生受け、神奈川ト協が緊急要請",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PZFQzQXl1ZTNqWW9ZU3NibUluVGRtZWRvTjMzQWx4OTN5b0c5d3ZJYXlUSWd1X1Z0UmtLNmhfTFNFMS1ydWVNTFh3?oc=5",
+      "date": "Tue, 17 Nov 2026 09:02:09 GMT"
     },
     {
       "title": "【速報】神奈川・海老名で死亡ひき逃げ事件 高齢女性2人死亡 「トラックと歩行者の交通事故」と通報",
@@ -53,9 +112,9 @@
       "date": "Fri, 13 Nov 2026 12:40:03 GMT"
     },
     {
-      "title": "神奈川・海老名でトラックがひき逃げ、高齢女性２人死亡…相模原市でトラック発見・運転手から話聞く",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV1Z0a1ZnVWI3NE1GMWNtWFl5aXV0SjdfYWpiaEZEZDBCSkphNDA3YktoLUdYUDNYaEJFMXVvemJ0bGZPUi0zUnhER3ROb1EtbDJmTmxSSk93YV80NU1VaTZqYXpVdw?oc=5",
-      "date": "Fri, 13 Nov 2026 09:55:00 GMT"
+      "title": "海老名市でトラックと歩行者2人が交通事故 歩行者2人は死亡 トラックは現場から逃走中",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vV3YtUzl1Q2F6S1ZBY0JHSDQ5WVBxamd6ckM1Vk9oLWw0clVrVjdoZUo3MUZZRU5USmpBTGRDOGZLaWhrQmp5RlhjaHJJQ094ajNaTlRsbVRHRWs0ak5hMU9mazVBa09QNUk2NlBuUHV3QQ?oc=5",
+      "date": "Fri, 13 Nov 2026 07:35:51 GMT"
     }
   ],
   "official_links": [
