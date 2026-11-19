@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-11-20T00:02:37.935407",
+  "generated_at": "2026-11-20T03:02:41.562948",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 7.6,
+    "temp_now": 7.0,
     "temp_max": 10.0,
-    "temp_min": 5.5,
-    "precip_prob_max": 2,
+    "temp_min": 5.4,
+    "precip_prob_max": 4,
     "precip_sum": 0,
-    "wind_speed": 13.3,
+    "wind_speed": 12.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 7.6,
-        "weather": "晴れ時々曇",
+        "temp": 7.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
         "temp": 7.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 6.0,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 6.4,
+        "weather": "快晴",
+        "precip_prob": 2
       },
       {
         "time": "09:00",
         "temp": 7.3,
         "weather": "快晴",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 9.6,
+        "temp": 9.8,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 9.6,
+        "temp": 9.7,
         "weather": "晴れ",
-        "precip_prob": 2
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 7.8,
+        "temp": 8.1,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -92,6 +92,11 @@
   ],
   "accident_news": [
     {
+      "title": "滋賀県で交通死亡事故が連続発生",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNcUZndlBiX1dmTTBuY1AxX0dhOHM4SWozdmw1OFlIOHB4ZkZhWVNMeElsWVViek4tZGIxY05yd2dwVzZPMjZIdFZxZEptQ1dzYnVwVV92enNuRW45Q0lteE50ZTlNTU82MnM5RzJldjdmUU9iX2JYYjFwbWZJNXk2Njd1Q2lEWHNsQlRfNWU1QTJsX094U0prcEpCXy1wdkdpUFl5TXVWcE9iSDRlWWllcEo3RGlGa1JlZnBBbnBoRW1NQTgtbmdhWUU0dWIzVm9laUtJVFBHQzYwb2xPU3JzSXpGWnVLZGtnRUtSeHd2UTh6dkxoWVdja1hJdkh5UWhRNVdBSlpjN0JtVlZpMDNKdUVUQWZGMmU3UjdlQTVNQTA?oc=5",
+      "date": "Wed, 18 Nov 2026 12:35:39 GMT"
+    },
+    {
       "title": "道路工事の車線規制していた男性、軽ワゴンにはねられ死亡 滋賀の県道",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ycWVYRktvVzNLTm9KQ0JZZDBwWmNPTWFpaFBiNWhFT212MWFLaTVfQWlwbVdrOE5LNnhyZGgxcTF0dV9TalNUeW5PRUw2X2dNS1d2a0RxaUE?oc=5",
       "date": "Wed, 18 Nov 2026 23:40:00 GMT"
@@ -100,11 +105,6 @@
       "title": "滋賀・高島市 県道の交通整理の作業をしていた市職員が軽四貨物自動車と衝突し死亡 市職員は交通整理の準備をしていたとみられる",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SM2hqcHJyQ0hwSU04OFNJamg0Q1VadjVyeURYanJRdm90TG1MOHRCUHp6WjhONXA2WF8wd1l0d2UwM0NOVjFGcm40eWpxMTBTbk1oV3pqdDhZeWxEdEg3UFVKejA5cF9pR0hRNDNvaDNlWEF2QTdRdmFlcHVFNW8?oc=5",
       "date": "Thu, 19 Nov 2026 03:40:43 GMT"
-    },
-    {
-      "title": "滋賀県で交通死亡事故が連続発生",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNcUZndlBiX1dmTTBuY1AxX0dhOHM4SWozdmw1OFlIOHB4ZkZhWVNMeElsWVViek4tZGIxY05yd2dwVzZPMjZIdFZxZEptQ1dzYnVwVV92enNuRW45Q0lteE50ZTlNTU82MnM5RzJldjdmUU9iX2JYYjFwbWZJNXk2Njd1Q2lEWHNsQlRfNWU1QTJsX094U0prcEpCXy1wdkdpUFl5TXVWcE9iSDRlWWllcEo3RGlGa1JlZnBBbnBoRW1NQTgtbmdhWUU0dWIzVm9laUtJVFBHQzYwb2xPU3JzSXpGWnVLZGtnRUtSeHd2UTh6dkxoWVdja1hJdkh5UWhRNVdBSlpjN0JtVlZpMDNKdUVUQWZGMmU3UjdlQTVNQTA?oc=5",
-      "date": "Wed, 18 Nov 2026 12:35:39 GMT"
     },
     {
       "title": "市役所職員の男性（59）はねられ死亡 夜の県道で水道工事の交通整理中 ライトバン運転の男性「人に気づかず」 滋賀・高島市",
