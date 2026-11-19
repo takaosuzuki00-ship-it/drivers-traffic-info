@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-11-19T15:00:53.982717",
+  "generated_at": "2026-11-19T18:00:59.897152",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
     "code": 81,
     "weather": "強いにわか雨",
-    "temp_now": 2.9,
-    "temp_max": 8.3,
-    "temp_min": -1.2,
+    "temp_now": 0.2,
+    "temp_max": 7.9,
+    "temp_min": -1.4,
     "precip_prob_max": 100,
-    "precip_sum": 13.8,
-    "wind_speed": 10.5,
+    "precip_sum": 15.0,
+    "wind_speed": 3.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 7.5,
+        "temp": 7.4,
         "weather": "強いにわか雨",
         "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 7.6,
+        "temp": 7.0,
         "weather": "にわか雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 5.6,
+        "temp": 5.5,
         "weather": "晴れ",
         "precip_prob": 84
       },
       {
         "time": "09:00",
-        "temp": 6.3,
+        "temp": 5.8,
         "weather": "曇り",
         "precip_prob": 80
       },
       {
         "time": "12:00",
         "temp": 5.6,
-        "weather": "晴れ時々曇",
+        "weather": "弱い霧雨",
         "precip_prob": 98
       },
       {
         "time": "15:00",
-        "temp": 2.9,
-        "weather": "弱い雪",
+        "temp": 2.8,
+        "weather": "晴れ",
         "precip_prob": 90
       },
       {
         "time": "18:00",
-        "temp": 0.3,
-        "weather": "弱い霧雨",
+        "temp": 0.2,
+        "weather": "弱い雪",
         "precip_prob": 86
       },
       {
         "time": "21:00",
         "temp": -0.5,
-        "weather": "弱い霧雨",
+        "weather": "弱い雪",
         "precip_prob": 86
       }
     ]
@@ -70,11 +70,6 @@
       "date": "Sat, 21 Feb 2026 08:00:00 GMT"
     },
     {
-      "title": "北海道警察 高速道路 速度取締指針",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
-      "date": "Thu, 28 May 2026 07:00:00 GMT"
-    },
-    {
       "title": "GO TO警察はまっぴらごめん! 北海道警の「3密(秘密/隠密/綿密)」な交通取り締まりを回避せよ! 【交通取締情報】",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmUnBJUFpnQmpXMHFfaXBLSnpScFp2UXdkb3FibXlaZlR2eWxhaUdHcm84dU15QUNfay16NXJiZmE2TGdOSFJtLVFtOEZWQQ?oc=5",
       "date": "Sun, 01 Oct 2017 07:00:00 GMT"
@@ -83,6 +78,11 @@
       "title": "速度違反を捏造、有罪判決 元道警警部補に札幌地裁",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53d3ZUWG1sWldYZHBGQi1Xd0RRcjdUN1BWMWFaUkRnYXZiQVFGOTI1WHNLTE8wUUZCUHpYeTAzZ0lwdUpsMFhRam5JSjdnSmhVM01NdXp0eTkxR1RveHR4YTZmSkMtUW1pbVdBMTU2Sy1pc01sVUE?oc=5",
       "date": "Wed, 13 Jan 2021 08:00:00 GMT"
+    },
+    {
+      "title": "でっち上げははなぜ繰り返される？ スピード違反捏造の道警・警部補逮捕に「本当に遺憾」、小此木国家公安委員長",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12dmdkNlE2SGozNUVlXzdLLUFZb2wwTnZDbzZXUmo3WnljWWFuY0JYeE5RTUMtUmYzRkZnUTZmb1FkakZaZ21XSEVua1YyT21BQ3c?oc=5",
+      "date": "Tue, 20 Oct 2020 07:00:00 GMT"
     },
     {
       "title": "重大事故防止へ検問 道警北本など、北見の国道で運転手に注意呼びかけ 冬の交通安全運動",
@@ -97,19 +97,24 @@
       "date": "Fri, 13 Nov 2026 02:02:00 GMT"
     },
     {
-      "title": "北海道が交通死亡事故多発警報 3日間で5人死亡受け 22日まで",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DN1R2MF9lenA2WFZTUTdxYU1JVGF0LThoVk0xdG1UZ0tJS09ONmt4RUJqZnVTaTZhY3pxbnI3cnZDYWxfRjFnRjU1MlZaTmhPdTg2X0phcjRrUQ?oc=5",
-      "date": "Mon, 09 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "【交通事故相次ぐ】札幌市で乗用車など“3台絡む事故”10～60代の男女4人ケガ…千歳市で道路横断中の30代女性2人が軽乗用車にはねられ病院に搬送〈北海道〉",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0Y3V3VmtRRFZlek80X1J6TTc4YWZoR0JLcGNVeWh6QndBZnFtQXpGUFQtTmtCakc1OHByRld4Sjc2RlVNWEZ4ajBJR0s5QQ?oc=5",
       "date": "Tue, 17 Nov 2026 02:55:00 GMT"
     },
     {
+      "title": "北海道が交通死亡事故多発警報 3日間で5人死亡受け 22日まで",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DN1R2MF9lenA2WFZTUTdxYU1JVGF0LThoVk0xdG1UZ0tJS09ONmt4RUJqZnVTaTZhY3pxbnI3cnZDYWxfRjFnRjU1MlZaTmhPdTg2X0phcjRrUQ?oc=5",
+      "date": "Tue, 10 Nov 2026 08:00:00 GMT"
+    },
+    {
       "title": "加害者生まない社会を 海星学院高、北海道交通事故被害者の会前代表が講演",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnR0ZKSncxR0dialhERzJzb3llWWx3WkVyUFdrUHpjbGxrZm1kT0pyNVJuVVI1c1REam1CcnZxUDJnb3ZGRXdzZ3dzUQ?oc=5",
       "date": "Fri, 13 Nov 2026 21:00:00 GMT"
+    },
+    {
+      "title": "北海道内の交通事故死者が今年100人に 凍結路面の交差点で乗用車とダンプカーが衝突 北海道鷹栖町",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMHByOUt5UGtiZkFRY1g0aDZXaWlNeWljbEl0eDZRekJ1dHhBYjNScXQwUnpsREdZQmFua1A3T19jM2l5WHdZUE4zbkdYc05KU0pnMFZvbw?oc=5",
+      "date": "Wed, 11 Nov 2026 06:28:00 GMT"
     }
   ],
   "official_links": [
