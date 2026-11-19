@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.817124",
+  "generated_at": "2026-11-19T09:01:48.380829",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 11.1,
+    "temp_max": 13.0,
+    "temp_min": 7.9,
+    "precip_prob_max": 100,
+    "precip_sum": 22.6,
+    "wind_speed": 29.3,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.0,
+        "weather": "曇り",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 11.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 12.3,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 11.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 10.9,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "15:00",
+        "temp": 9.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 8.8,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 8.0,
+        "weather": "霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OVA0SGdlYTZtNmoxTlZLaTJBd2RPb2ZESjNGM2lWb21vRmk1eHQweEV3TEM5VWpnbGpzazZnSU9PUWhBZTNsWUIxTFFGLWtQNkwwN0pwNnVJeHpYMTJGeUwxejFmVElhd3VacTdmWdIBdEFVX3lxTE5tRm5xRjdpbGl0dTdPVmlEM0hONzVzMWRqZjFMN0x4LTlJZll2clJ5QzVIenhuYVI4RWR6MHh1NFhBQjVhazdVOXVYcGhkY0VBdUxMYzFJT0w2VldIeERXV09Ndk9PdjEtSTdjRUNkR2xHRkdi?oc=5",
+      "date": "Wed, 18 Nov 2026 20:01:37 GMT"
+    },
+    {
+      "title": "１１月１４日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wOHFGUmRadTlGQjZ2SUhxT0JBc2hFSXQxWVpxclRSa0l2dXF5MGNaRGFGSktwcExuZmZSaXNCMzdWT2MxX2dBWEJ1WEdLRml6dmt4NUpYYw?oc=5",
+      "date": "Fri, 13 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
+      "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "コカイン約20グラムを48万円で譲渡 麻薬及び向精神薬取締法違反の疑い 会社員の男(41)を逮捕《新潟》（TeNYテレビ新潟）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HaEhYcHBCdUZoMWhwWWdaZXhWenFwTWV3dXVnb3IwcDZZdzhtTVBKQWZyOTl3Y3ladW42R1NpYS11WEs1TzMwRkFfTWFvVUZfalJkcEY0N2VseHhaNnNER01vUkNmcm9Gd29iZ0lxMEhVUml2S055V1dGU01Ja28?oc=5",
+      "date": "Fri, 13 Nov 2026 07:22:01 GMT"
+    },
+    {
+      "title": "強盗致傷事件想定し情報収集、検問要請…県警が訓練 事件の初動対応強化図る",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LQm1QeVAwME9JWThoejRoWVZjZ0g0MFlKcWZ3MHRPTExHUVcwTExyTnN4MjVFNUJYY3VwS0RMZ195SEJtM0hlUlhWUQ?oc=5",
+      "date": "Sun, 08 Nov 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故発生状況",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk52LUJsTWdrM20zZFFVUEZjM0dPV1Y1UlB5V3RNOTZyVXF0ZndSZ1BoenliVGFNYVpzZG91dlh0cHpYZU1XLUtKSndDbkUxbmcxZVh1TDBnSVR6a3Zpb2M5RGxMdTB5T042UGZvdXFxejUtRkViblpVYmQyX3hoVg?oc=5",
+      "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「スピッツ」のドラマー﨑山龍男さんが交通事故で入院 バイク運転中、乗用車に追突される",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13RzdyS0FsZVZLamQzLUMxMXIwdHRRdGZrZTlnVjFpX2xpaS1mRzAzem0yQnQzRjN0ZXdpVmZrU1dfUHFScXRJLU1VNA?oc=5",
+      "date": "Sun, 15 Nov 2026 12:25:00 GMT"
+    },
+    {
+      "title": "【日録交通死亡事故】4県4人［11/15］新潟県刈羽村で3年11か月ぶり",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sa0UyWldDMXVoelZES3lqLVluUWxmZWFSUVpKcEw1RWR0SDVCMjlCMUFHXzVTTGExX1FYU1VnY3ZHcFBBMnRSaS0yeWx3akM1U0R2cVo2NWt4cEMzcnJv?oc=5",
+      "date": "Mon, 16 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "安全安心:新潟県交通死亡事故多発警報の発令について",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JeWVuM2pkcVRIOG13c2RoQkg0dTBNYTdPNG9kWDEzRDctUW1XcmhCSldqN3lBMDY5ZTQxcm5CS2U2UkhKTWQ1MHZIVmVPZzV1emowQWdn?oc=5",
+      "date": "Fri, 14 Aug 2026 08:33:50 GMT"
+    },
+    {
+      "title": "【続報】大型トラックと衝突 軽乗用車を運転していた10代男性が死亡、死因は脳挫傷と判明【新潟】（UX新潟テレビ21）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12V2ZoWkMtSHBBSnV3S1hFazhPb2RJZmM1V1ltelZxTkF3U01XNzd0U3o1QTA0Wi05ZmYtQk95YTA0SmFaY1lrWlR0NTQxeGtXYnlNN3JuTjF2M0kxMy1LczE1SnM1Z3ViSlVEd0JfOGRjdVhpcTFsMVc1WWRqQmM?oc=5",
+      "date": "Mon, 16 Nov 2026 03:20:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "新潟県警察 公式サイトを検索",

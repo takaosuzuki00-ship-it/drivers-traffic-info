@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-11-19T06:00:19.839052",
+  "generated_at": "2026-11-19T09:02:02.207279",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 13.3,
+    "temp_max": 15.4,
+    "temp_min": 5.9,
+    "precip_prob_max": 98,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 98
+      },
+      {
+        "time": "03:00",
+        "temp": 11.5,
+        "weather": "快晴",
+        "precip_prob": 31
+      },
+      {
+        "time": "06:00",
+        "temp": 10.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 15.3,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 9.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 7.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "一斉取り締まり 酒気帯び運転で１人 高速道路では車両通行帯違反で３人摘発 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aN3ZpYWVvTjlzbFJsU3JhUW4wTTNiNDVpUC1iUkY5MndoWjVRRS1IQ0pWUThtUFZoRThtbmttNzlFRDRjNDVYa0hzNk9TblRkNXJSNUp6cw?oc=5",
+      "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "不同意性交、児童ポルノ違反などの疑い 会社員の55歳の男を再逮捕 押収したスマホから発覚 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CY3VEVG5SVEktX3lPN2J2Q2xucjBVRWdKbUNNRDFadFdrbU1PSHBYeU9tazFybFpoczV5QnBPdE5mbEY1dzBubmY2U3UtZl95anJvcXpJTzZqNkg1UUgzUw?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "一斉取り締まり 飲酒運転を2件摘発 速度違反やシートベルト未着用なども15件 山梨県",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWdnVWWmQ1aTBkeW12MVdzTV96cUU0RnZGX0E3ZklUamR5YmxESVhuVVpIYlNhbjZWMFF3MUhUSHZyZWpHQzc0ajFLMWE5eTQ2VWpEQ0JsUQ?oc=5",
+      "date": "Mon, 20 May 2024 07:00:00 GMT"
+    },
+    {
+      "title": "中央道 移動式オービスで速度取り締まり 相次ぐ事故を受け11月6日に実施 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NSWFaWkdZLUpNTk9SNVN0b0ItTFlvOHJ4Y0xSeGV3NlVFTEowV2RFRkdja0Zhb3ZBZl9NRldlRkZwR0RCTzFDb3dwbUhsdHByOFR3VW13?oc=5",
+      "date": "Thu, 02 Nov 2023 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "事故で片腕の機能を失った女性カメラマン 独自の撮影スタイルを生み出しフォトツアーも開催 今気になる存在は「ライバルはAI」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85TDNlam5wSFRsYnhpVThOMHlZRzd6c0ZJZUhURmQ3TU5YQzI2Y1hCZ0x4eERSaDdPTmRGR0FyRExkd1U0SlJrZ0tVSDlmbFRnMGROdVRpampUQQ?oc=5",
+      "date": "Wed, 18 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "title": "中央道・上り線 トラックなど４台が関係する事故 相模湖IC付近から11㎞渋滞 【午後6時05分現在】",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6YmNnbjRWYW1OZjlNMTlib0wwVkVqM0Ftc3kzSXZOeHowcXZmSXdyRXhqN2Q3aFZyY2dxTlVwRU5Ic2xqaHhYM2xQdmZJZlVmMXpSVC1UR1FqQVphZHdRWmJXVVhZcUk?oc=5",
+      "date": "Wed, 18 Nov 2026 09:22:00 GMT"
+    },
+    {
+      "title": "「二度と起きてほしくない」 死亡事故の遺族 “信号機”の設置求め署名提出 山梨（2026年8月18日掲載）｜YBS NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkh2MkJKNHptRXNJLTlHa1kyNlQyeEVKS1BYNVpaMFlOOWVSVXBHRUlBNUFybGl3Qkc3S1dKdHM1Tm9SVkVfODY4dU0tTDd2cVZxdlJjRDRiYko5ZkhOTVZJbXpSdndXakR0RVZDbnFxSDhDS3FrSVpOakhtekdIWlVWaXFZOXc?oc=5",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故1,000日間連続ゼロ達成！",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWXc2ZXJWc19zZnNZaGhLYkpMNEt4OHI4RkUzSldKbzJLRkwzZGxTYnlRRU5oTGxwVGF4VUtlcWl4Z3JuODFMYm1OWkxLQTVwSlRwTWhQWVloT1NNY1FyazdyS3BCOXJDdDdXWVZ5dzNaX2I2dGhwWmNDTQ?oc=5",
+      "date": "Fri, 07 Aug 2026 19:35:14 GMT"
+    },
+    {
+      "title": "夜の国道20号 交差点で軽乗用車と乗用車が衝突 女性2人が負傷 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CWDJteXRuc3lZWU8xcGgwU3BwWTQ5cGtsVHBxb055bGNCczc2aVZKLV9uVXNtRVVBWFBTYTN6UEVhOGd4cHVKMDN4MnUyZ3N2NnhQUTRHNnNYcGE0dG85MnUtS3BtZE0?oc=5",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山梨県警察 公式サイトを検索",

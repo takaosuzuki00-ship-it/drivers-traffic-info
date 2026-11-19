@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-11-19T06:00:19.760962",
+  "generated_at": "2026-11-19T09:01:10.082187",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 11.6,
+    "temp_max": 11.9,
+    "temp_min": 4.2,
+    "precip_prob_max": 100,
+    "precip_sum": 2.4,
+    "wind_speed": 9.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 10.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 9.9,
+        "weather": "晴れ",
+        "precip_prob": 76
+      },
+      {
+        "time": "06:00",
+        "temp": 8.5,
+        "weather": "快晴",
+        "precip_prob": 80
+      },
+      {
+        "time": "09:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 92
+      },
+      {
+        "time": "12:00",
+        "temp": 11.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 8.3,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 6.3,
+        "weather": "快晴",
+        "precip_prob": 94
+      },
+      {
+        "time": "21:00",
+        "temp": 5.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "宮城県内25か所で一斉検問 飲酒運転の摘発が増加傾向",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZU9hLXBQSWJWcmFWTlBHYkc1cHR2WnlJakc0S0RiQnNnRGV1U2RjMDJOWWJyQThuMXhnaGRCajd2TkZUZXBKcnAtMnJCWnY1LUVqZm9zNjIyRndZb3c?oc=5",
+      "date": "Sun, 02 Jul 2023 04:19:38 GMT"
+    },
+    {
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "忘年会シーズン 宮城県警が一斉の飲酒検問 「飲んだらハンドル握らない」",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oRjdaUldjWjcyTHNnS1VmMUJaUENOcHNKWVZXWUhFYl9nc09sWi1MX05zY2tjN0JPdUVaZjg3VHMwTG0zbjZjS3p3X3JURG8?oc=5",
+      "date": "Sat, 16 Dec 2023 09:32:16 GMT"
+    },
+    {
+      "title": "1時間半で11人摘発 小学校の通学路で警察官が速度違反取り締まり 仙台",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PZldObHVxRUsyMkI1a1ZsM0RTQ2JTaU1saFZVM0RPd3JwcGdRdFV1N1RsRzdtZG1aYm90dTQ5SjBtODA0OXpESnBmamlyU0pCMENmMkFkUlAtdDVJeDJXREpzaW04a2s?oc=5",
+      "date": "Mon, 08 Apr 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故防止へ誓い新た 宮城・大河原で県民大会",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMXdKWklQOG9JUF8yaXhkVDBmdWxDSzNobE5SeDBzS2t3b1pCQjNHYUhiRWRkd0w0alpUeGV3Q2J6a3VPZUlwS2M3a2FzeUt4X1h3cFhRbFdPZ3c?oc=5",
+      "date": "Wed, 18 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "軽自動車と大型バイク衝突 バイク運転の５０代男性が足など複数個所骨折〈宮城〉（仙台放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRYWtjQlNFODdRbVgyQm9yZGJidHk5R01RNHhjdVYwSndSSWlwLV9lZF9KbkpxX1dvZm9mVFVTS2VKS21DRmd1YXBXREt3VElBbEJUU25ZRm1vRnF6Z2JyX01BSEdUUUtWZHZ6Wk5ZQ2prRUszcllLemN5V1BLcHM?oc=5",
+      "date": "Sat, 14 Nov 2026 09:29:02 GMT"
+    },
+    {
+      "title": "秋の交通安全運動期間中 宮城県内の人身事故47件で2025年より1件増加 県警が早めのライト点灯や反射材着用などの徹底を促す",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVElEZEpKbVZZRERCVFpoY1c3a1dWeWtPVTRWVmxBZUFmdVBuRXNVeUlMWVpkSXpydEcwQlN5OHNoUTF6MDE0bHZSdEcyZW5pZE5kc1h5VGJDVi1hQVhnMDh5YlhkUEE?oc=5",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "日没が早まる秋 夕方の交通事故に注意",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWkp6MG13QnhoVzNkOVpBRmkyWGRPelVQcEhvYVUzbU5jbDhHX1l1c01KNmJ6OHFUMXBfSURCQU52bTVSYms4TFVVTFA4UzQ?oc=5",
+      "date": "Tue, 06 Oct 2026 09:42:01 GMT"
+    },
+    {
+      "title": "仙台市の国道45号で車4台絡む事故 2人けが＜宮城＞（2026年10月8日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81ZE1DbjdnQVdsSnZVdGJPWi1YazVfTktnYkN0ZG9keV9uSkNmM3VDS19EYjIxYXB5YWRLMEFwNThZWkdtWGxKUVZTVXRxMmlyRkI0VXQtMmtMRjJsbHg0Q1ZRa3A0aEk5RmxUeVBvWlRiN1RRUlVPQ0NDcmdaRzQ?oc=5",
+      "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "宮城県警察 公式サイトを検索",

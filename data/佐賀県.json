@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.958678",
+  "generated_at": "2026-11-19T09:03:20.998042",
   "pref": "佐賀県",
   "region": "九州・沖縄地方",
   "capital": "佐賀",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 11.1,
+    "temp_max": 12.6,
+    "temp_min": 9.3,
+    "precip_prob_max": 41,
+    "precip_sum": 0.4,
+    "wind_speed": 13.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.1,
+        "weather": "晴れ",
+        "precip_prob": 24
+      },
+      {
+        "time": "03:00",
+        "temp": 10.4,
+        "weather": "晴れ",
+        "precip_prob": 16
+      },
+      {
+        "time": "06:00",
+        "temp": 10.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 12.2,
+        "weather": "曇り",
+        "precip_prob": 4
+      },
+      {
+        "time": "18:00",
+        "temp": 10.7,
+        "weather": "曇り",
+        "precip_prob": 25
+      },
+      {
+        "time": "21:00",
+        "temp": 10.2,
+        "weather": "曇り",
+        "precip_prob": 41
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "麻薬取締法違反など容疑のベトナム人女性、不起訴 佐賀地検 | 事件・事故 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJSW5ITWwzYXFfWWZGV1ZyUC1VczNVckFfMGxPZlFqUWFYX2ZzdUgtSHNmQUg1Rnp0RzRBOUp1c0NucG8tejJFQUY3RDR0R0lmUFNhTXZ3?oc=5",
+      "date": "Wed, 28 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
+      "date": "Sat, 14 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「きのう飲んだ」飲酒検問で基準値の3倍以上のアルコール検出 運転していた26歳女を逮捕【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YMDV1b2VObkxaUmNwaXIwX1BxY25ITDYycDlaWFcxbG9MdmltRUlyMGhRSlJQWUJmUDZkdTU4MlM0NlF6aU51TVhBbm02QzZTMGk2MWd6anhRZGhncnhEaF93?oc=5",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "佐賀県下一斉飲酒運転取り締まり 夜間に県内12カ所で、摘発はゼロ 福岡・海の中道大橋3児死亡事故20年で実施",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTDJ5S2J0OGR2Q3B2N3owelpsc3kwdmJVZEZXYmtWbmZ0ckpOYWdtbGN4clFxd3ZWZDgxaW9FUGpEb1Y0ZGdvdm1Tek5PUk5Eb0FmSEtR?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "検問で酒の臭い、車内にこもって飲酒検知を５０分拒否…助手席側の窓ガラス割って２２歳女の容疑者逮捕",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52TXZES0NONWlXQUJwWEpaX3dIWkc1RVU1Z185RG4tc2U0czJTa3ZUOGoteW1MUU5Na0pUdktPbzBrazRUZ1Q4czJEWnROUjZVSE5uYmdlT3duRk5za1kzR2lYTHlDbXpIWUI5TVpkclVHQQ?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽乗用車が衝突事故 酒酔い運転疑い、佐賀市の67歳男を現行犯逮捕 佐賀南署 | 事件・事故 | 佐賀県のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mUTJZdGdZVHgxQkNSYlY2NXRpMnFZVUdtRWM2Wk8yeWxjcW1QWW5OVURvSFdPQlZfRDIyQmZZY05iUm9CZW9jMlZPc2xaNVk5Ym1qSFFn?oc=5",
+      "date": "Tue, 17 Nov 2026 10:35:00 GMT"
+    },
+    {
+      "title": "交通事故死者の約6割が高齢者…事故防止へ高齢者180人が交通安全学ぶゴルフ大会【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNYlFkaVhkbGIzU3Zwck4tQ2s3bWNUTmhZTFFwYnNfSmpfLXNLMGF4ZnlIbWJhOC1OU1c0c1hPZmtodVFzWVRucDdyejU1RGdWRHZvZkNFa3kzRUlYZ3pReHJB?oc=5",
+      "date": "Thu, 12 Nov 2026 09:11:00 GMT"
+    },
+    {
+      "title": "「スピッツ」ドラマーが交通事故で入院",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuSnR5NEgzaGIzTDZyenJoNW91NEdDMkxGT0dtTFhpNWFrcm9LdlJfYTl2aTBVM3QzdHk5LVlINnJNem50bXMxdDRuR210SkktVEJMdVhn?oc=5",
+      "date": "Sun, 15 Nov 2026 12:07:00 GMT"
+    },
+    {
+      "title": "佐賀・鳥栖IC付近で多重事故 高校のバスに乗っていた11人搬送 [佐賀県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rbnFzczJaVEl0TTlaNjc1RDV3b0lTYlppZHVqdnVtZFhkZkZ4cXlHUGtsaENvOGdZMW1vc2xiYnE1dDItb3JHTHdTX21pekota190eFM5TVhpWGRIODgyeGdNdGx2cmc?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「普通の交差点なのに…」佐賀県内で事故最多の場所は？見通しがよくても危険な理由【佐賀県】｜佐賀のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80MGt1LURSVE5iemEyYmNXdEFMSFFEVU1qU0ZmSGtrOWF1aEYwYk1SS1BtUnlLSUEtaTR2ckhPWVBqMlJNS0NuT1JaNGxhUTQ3U3ZydzgtOUw4YVFKWHh3clB3?oc=5",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "佐賀県警察 公式サイトを検索",

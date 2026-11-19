@@ -1,10 +1,95 @@
 {
-  "generated_at": "2026-11-19T06:00:19.807582",
+  "generated_at": "2026-11-19T09:01:40.605339",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 15.4,
+    "temp_max": 18.8,
+    "temp_min": 8.9,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 7.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 12.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.1,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 15.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 18.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 16.8,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 12.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 10.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORzFWX0gxenNYVmpqa3VTaVAzanVWWEd2emI2SnNGdG95Q0h5LVZ0SjRjajVyLUhSS1pOZDBfSzV6LTZyNzZuX0VWZzhlbWpBMXcxRkpSc3pLVU1pb29NUTVSUW1OTmM?oc=5",
+      "date": "Sat, 14 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月17日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hdjFUdDhldlRzbmhnWWl4S0dYTHhweDRpcE55QTBQYkZYaXZRTUkxZDNMSHJpSHc0elRNN2FQcVJWaVRsRUNwSE9TRV9pMnNBM3BLTHFSWGVXT1l5eEpCOWJNRFhjdjhWeUhOS09SONIBdEFVX3lxTE85RktQRjJ2M1dZUEdXM3VlT3I5MGMwTURGbVVCNk1VQTdnR1BnWW52azQ3aG5rMEh0ZXd2Ri1KMlBvX0FrOC1rOWdidHo4eF92eFhYZnJwYTE2bTlaVkhUbE9jTUNTVVNyd19pbi1uT0Q3Um9S?oc=5",
+      "date": "Mon, 16 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "交通違反「ノルマ」の波紋と4月から厳罰化される自転車取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wX1Bkb0hvM1IzQmNKRXJqeWkzYWsyTTM5VlFYT20wYy02QlRFWDJfc2RDcWJuS0VZTlM3RnJINXpNY1NjOHB6T2xKVXlqWDA?oc=5",
+      "date": "Fri, 13 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月18日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ud3hONFE0a0tHTnlHS1lNcDFWX1A1dkNkYnZXMUc1TTA3WmNpdmVlNUh3Nk1aOTlyVVBfbFJHc3hNRGhaS0lsczVkN1VrUGZTUVJDT0hiM2xPSS1oczd4aVptUkI1YWkzX2RTamxGTdIBdEFVX3lxTE10WEVKREdIaENQd3B5WDN1c01sY3IzVmpuVl9EQ294Nk9wOEJJY29WaW0xbUgzeUpCcDFTOThkdC1sNEhDNUQ1YWtSNDh4Qm5INUJ2Zll0MXhhTTcxb1BOMUJ6QnRiRFpYUlNPc201UU1nbzZn?oc=5",
+      "date": "Tue, 17 Nov 2026 20:09:15 GMT"
+    },
+    {
+      "title": "東京都江東区で「不正改造車」一斉取締り実施 スポーツカーなど9台に整備命令",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm5ySU1QZ3ZPX2Y5WjZNRWJmWVVXZ2JSMnV4UVJQdmJBUDFEWXR2TGxJUGtJZi0tTXN4VEo2T1pDM3N4Zjc3YmRReXVucm9NQXFqdFAzZ19XcFludHBEQlpPYXVqNGFEcWtpdXdha3NSQlA3eDNtaFR3Y1NhQmlaZk1nVU4ySE1z?oc=5",
+      "date": "Tue, 16 Jun 2026 07:00:00 GMT"
+    }
+  ],
   "accident_news": [],
   "official_links": [
     {

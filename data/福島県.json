@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.773086",
+  "generated_at": "2026-11-19T09:01:19.720807",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 12.2,
+    "temp_max": 12.5,
+    "temp_min": 4.7,
+    "precip_prob_max": 100,
+    "precip_sum": 4.6,
+    "wind_speed": 5.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 11.2,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "06:00",
+        "temp": 9.5,
+        "weather": "快晴",
+        "precip_prob": 80
+      },
+      {
+        "time": "09:00",
+        "temp": 12.2,
+        "weather": "晴れ",
+        "precip_prob": 82
+      },
+      {
+        "time": "12:00",
+        "temp": 11.8,
+        "weather": "霧雨",
+        "precip_prob": 88
+      },
+      {
+        "time": "15:00",
+        "temp": 10.5,
+        "weather": "霧雨",
+        "precip_prob": 84
+      },
+      {
+        "time": "18:00",
+        "temp": 6.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 75
+      },
+      {
+        "time": "21:00",
+        "temp": 5.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 86
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OVA0SGdlYTZtNmoxTlZLaTJBd2RPb2ZESjNGM2lWb21vRmk1eHQweEV3TEM5VWpnbGpzazZnSU9PUWhBZTNsWUIxTFFGLWtQNkwwN0pwNnVJeHpYMTJGeUwxejFmVElhd3VacTdmWdIBdEFVX3lxTE5tRm5xRjdpbGl0dTdPVmlEM0hONzVzMWRqZjFMN0x4LTlJZll2clJ5QzVIenhuYVI4RWR6MHh1NFhBQjVhazdVOXVYcGhkY0VBdUxMYzFJT0w2VldIeERXV09Ndk9PdjEtSTdjRUNkR2xHRkdi?oc=5",
+      "date": "Wed, 18 Nov 2026 20:01:37 GMT"
+    },
+    {
+      "title": "11月14日（土）【熊本県 交通取締情報 午前・午後・夜間】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWWW1HUXZHQ2RRRnJTTnZ6N2xDNUJLaTktQVV1X0o1YjVhdzFSSUtsbTN6UGJBNHhTNFM1NjFzNHpYSWtEMVM0R2YyaXdsN0FPdDBqVVpHcw?oc=5",
+      "date": "Fri, 13 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１０月８日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fdGY1M1pnajBEZUg0RTZGSVIxdzhDeFloWkZlLWN0a3hLOTU2bzNpcHJrWVhnTm83WWFqaVJBdHdHWnpQOGtPSS1VZEtONVAwOHV5RmtBODlsYVdHYndWSm5KMFNjalpfc2dpa053?oc=5",
+      "date": "Wed, 07 Oct 2026 20:03:00 GMT"
+    },
+    {
+      "title": "国道４号で夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnliNEgxdUF0WmFhNG0yU2xWVDlCcGR4STZVWGZYeU5rWEI3dkMtYnRWbF9SejVCWmNnY0NlTW5fd01STTZvcUlsb2tFV2txM3FwSXdOWGpZMmg1bTVqR3YzakFSWFR1YTRmdHRzOW1wa3haNGI1Qnp4Q0RwZzhPQWsyYkUzaDA?oc=5",
+      "date": "Wed, 05 Aug 2026 10:16:53 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "※更新 土湯温泉町のトンネルで交通事故 運転手の50代男性は死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02djNzMWxSN0pWNlhSUFdHaF9KZEg5dWg5Z0NiMzFjSzg4TXJRclgwTFVsNlFRSDBqZmxHR3JFZUYxZS1nQW83N3VIdmxGTURVdDdzUC1B?oc=5",
+      "date": "Mon, 16 Nov 2026 23:23:00 GMT"
+    },
+    {
+      "title": "福島市の国道115号で交通事故 50代男性が死亡・福島（2026年11月16日掲載）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlhqRUthTHNIa1BDTE5EMW4xSG1LTEZ0UE4zRWxVZnJjTUZ2X3hJOFUzbGtIYVlTd3YyWHJQc0Nkc2xlTWRYaHdidngxeE80ZVRCMGF5QkhpbnljdUFDVjJjMDUtbWJ6T1NGVmwxSlAzZDYtNGFmOWk1R1lDNjFObGVQMi1NN0E?oc=5",
+      "date": "Mon, 16 Nov 2026 23:23:00 GMT"
+    },
+    {
+      "title": "乗用車が横断歩道を横断中の男性(59)と衝突 男性は肋骨骨折の重傷か 西郷村・福島（福島中央テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMEtTdGthdGFGaDJVRE9vY0xXbEtwdTlwS21KOFZENXBvQ0llZUhpNTduRFB2YTJHWEdlQ0U1Ti1hR0dPeFRzNnlrd2ZieU5sYzg5UlJMSGFZZXh5OGtiOUlqR0kzUjVJSHNDeEc0ZTk1Tmxfei1icUVTdnpENVk?oc=5",
+      "date": "Mon, 16 Nov 2026 04:04:01 GMT"
+    },
+    {
+      "title": "【真相深層】福島５人死傷事故から４年 ブレーキ、アクセル踏み間違い後絶たず 今年すでに３３件 半数が高齢者",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GbUJrSUotcUNkNG9OcVhYbUhyVTdQdGRIa19CdkNZeDRHY0wzOC1DcUwtb3J5bmhFdUMxUndRLWRzZGR3SVZrUUZJVU9ET00?oc=5",
+      "date": "Wed, 18 Nov 2026 21:56:00 GMT"
+    },
+    {
+      "title": "福島県で交通死亡事故相次ぐ 矢吹町で軽トラックと乗用車が衝突 いわき市ではトラックが飲食店に",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90NFNQdW1JNm1ZTXAyNnVuTEg1b3NFTHBzc21mZzBtNlNQODZWb1dPOXE0anlBcGVVXzF2REJ5WjRMOURIOUVsV1E0OG9tUQ?oc=5",
+      "date": "Fri, 30 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

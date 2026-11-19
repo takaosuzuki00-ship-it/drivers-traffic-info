@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.858713",
+  "generated_at": "2026-11-19T09:02:12.639078",
   "pref": "静岡県",
   "region": "中部地方",
   "capital": "静岡",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 14.2,
+    "temp_max": 16.4,
+    "temp_min": 7.8,
+    "precip_prob_max": 14,
+    "precip_sum": 0,
+    "wind_speed": 15.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 16.4,
+        "weather": "快晴",
+        "precip_prob": 14
+      },
+      {
+        "time": "03:00",
+        "temp": 15.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 13.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 15.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 13.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 10.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 9.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "速度取締り指針",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnNnUzRmWDJGcVd2MVJISkZlTnp5MjA3WDNRWmwwaFpiblFOVEozV2VJOVNFc3JkS202X1BZRERUTnphdXZNd3FBSk4xRDhTTzR6TnVMdG5NU2IybzdzY2ZSQlhwU0dHMk1sR19UNGJvWm51QjdfenhHb2toWGRLdlNEYTl5dkdfSnk4UmhocEdMaDNtMlE?oc=5",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月18日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJdURtaFI3LWxuTk4yaUxhbDdPSXNEcWpaNXZUUTE2UnV4V0ExM1R4ZnZnMktjRjJRRUltMWlNUWpQLVdhdXVjS3BzWnJCUEFaNHpDUkNWYw?oc=5",
+      "date": "Tue, 17 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "連休中の事故防止へ 静岡県警高速隊・交機隊が交通取締りの強化の出発式",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTkZmTlBwNlNfOFEyTy1SVEVOMWZwZGowcWl2d3dOeFE2b05icWh6SWl5YnZ3ZVZIQm43RXdMbktOREtjU1NNOVhYalhNOHEwQjBvZUczVk1Qd0k?oc=5",
+      "date": "Mon, 25 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95VVg0UTRCYkgxVWF2eG0wMGxZRjAxYWQtRElqdFh5TldQYWstS0NBbHhlYm5BeF9VMEJINlJ1SmlMY2ZTWjZSdk1Ed2JaY3JIV0ZySXhMMXRPd3BXclU4V2dtdkl0Q2YydWtJSmFENNIBdEFVX3lxTE50eWZJSXNpbHZibFNCNDNWamowTVhqbzBDNXFUYVRicFd4UW9nVFpOWkFQclFWc184R2x3TDRNcmIzSTFJMnUwblo1dldLVGJKVmVSeWVGaDNrMVRiS1pEUXpDM3hEc3hOTUtTTi0yUmZ5MzJn?oc=5",
+      "date": "Sat, 14 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "静岡県警高速隊など、東名静岡ＩＣ過積載取り締まり １件摘発",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXSXRYZURWUmcya3huZ1RhU0gzYkt0Mlo2SEN4blpXOWVqMmxqQmhIX3pMbU9xU0w2Q2xRbkZZaVhvZGd6Y0Nia1oxUkw5dw?oc=5",
+      "date": "Wed, 26 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "事故の瞬間をドライブレコーダーが捉えた 静岡市の国道１号で乗用車とトラックが衝突（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dmlTNS1NejNfUl9PLV9rZ0diZ3pmRll5Q2YyMWtSS1hPVUEyUk5uRjJ2QmZuX0hLd1NKbmRVbTNqRkdyNDR4c1lQMFJzUXNxUEpIc2lmZ0Z3dzlmZHZxMjVjck5Ddmp0eWdRaGl0RHU2ZW9SclEzTnBWV2lSS0U?oc=5",
+      "date": "Mon, 16 Nov 2026 10:14:04 GMT"
+    },
+    {
+      "title": "静岡市葵区の静清バイパスで交通事故 男性1人が死亡 警察は乗用車を運転していた静岡市清水区の会社員（２５）の男を過失運転致傷の疑いで現行犯逮捕",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUZENWo4ZlJ2TWJjNjlMVW5TYW1QZWNnMm1fREpPVTNkUTN2d2I3cGJKVm5Id2d1WEtlcWVybnJndjlTVnQzb2JtMkZsRFBhWXV5aWk2OGc0SG1LV205QUdib29FNHd2ZnFjMU5hcU9tM1dEcHBBbmpzd0ZPYnNNSDhyRU5CRDA?oc=5",
+      "date": "Fri, 13 Nov 2026 12:09:00 GMT"
+    },
+    {
+      "title": "出合い頭に衝突し乗用車が仰向けに 焼津市の国道150号で事故 4人軽傷 交差する県道約1時間通行止めに（静岡）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3VrS2NrVmZCSkV5N21GemFHS2dJNnRycG5Gbjd6S3dHYjdLQzBrZE1PQWJRNEhIdTdMUFhoLS14aXlFQllldDk0QlJscFRrOFc1MEdlcURRSmNodDBfRDBoblNUYmhfeXVUdFQ2M2VuTmxjMWtBaHR1dHAxdU84ZWtQdTdTSUU?oc=5",
+      "date": "Tue, 17 Nov 2026 03:14:00 GMT"
+    },
+    {
+      "title": "交通事故統計情報",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjdFcWthUGlGV3Z4eUVTeUFuMjVoRW5TZXB4YUtkWm5JNlNHYUVwSUVhMkxWRlAzRXNLZFJMTm56T25ieU5iNEJkWGVjakVBYlN3X1Q0NmJvcjFSeU5udmFfZTF1YzNaaldXR3UzUEJmNXJGSHJpSE5NbFlmeW5FNlUtWQ?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "富士山スカイラインで会社員の男性が車２台にはねられ死亡 警察が事故の経緯を捜査 静岡・富士市（静岡朝日テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAza2dnRkRRaWZYb3JqZUpJZU1oSUdiUVI5MTVaU1d5WTZfWGM2anRjSUc1ZGs4dXFDZWh1aFprbTFXM2M2X3YtNmVmU3pfYjJKQzBuU2hZeUJWUkF5ZG9ZWWowZC14aWIyUTFJSDJmbm1wMWVCcVU0S0tPaVdEV3c?oc=5",
+      "date": "Sun, 15 Nov 2026 03:05:09 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "静岡県警察 公式サイトを検索",

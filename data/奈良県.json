@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.897858",
+  "generated_at": "2026-11-19T09:02:38.041762",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 12.1,
+    "temp_max": 13.7,
+    "temp_min": 6.7,
+    "precip_prob_max": 29,
+    "precip_sum": 0,
+    "wind_speed": 14.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.7,
+        "weather": "曇り",
+        "precip_prob": 29
+      },
+      {
+        "time": "03:00",
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 12.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 11.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 8.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 7.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OSzdIRGxncWpvcm9BLXJEMklzTHFhUXN4V1htMmx2Vi1WcVJVUWpuclhvbFZmUVRQSWNlMFFaTHhuSHY1R3JXQnVMaVRSdXMwaE5HYU9nZ21ic3E3Yk93a1lsOHNsX1d0T2ZJQnFB?oc=5",
+      "date": "Mon, 16 Nov 2026 20:13:21 GMT"
+    },
+    {
+      "title": "11月17日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hdjFUdDhldlRzbmhnWWl4S0dYTHhweDRpcE55QTBQYkZYaXZRTUkxZDNMSHJpSHc0elRNN2FQcVJWaVRsRUNwSE9TRV9pMnNBM3BLTHFSWGVXT1l5eEpCOWJNRFhjdjhWeUhOS09SONIBdEFVX3lxTE85RktQRjJ2M1dZUEdXM3VlT3I5MGMwTURGbVVCNk1VQTdnR1BnWW52azQ3aG5rMEh0ZXd2Ri1KMlBvX0FrOC1rOWdidHo4eF92eFhYZnJwYTE2bTlaVkhUbE9jTUNTVVNyd19pbi1uT0Q3Um9S?oc=5",
+      "date": "Mon, 16 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１１月１５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IRldpNGd5ZFN0VXVNOXYyTFAzcldSUWNoeFhZdlFLdnNqaV9sS2dpeF8wSlFwMUZWUV9walVFVFotbFQwOUxHeGpUOGRPRERwc2luZEFZc0tBazNybXNsbHZiWVVTVGtjLXk4SEV3?oc=5",
+      "date": "Sat, 14 Nov 2026 20:11:24 GMT"
+    },
+    {
+      "title": "「生活道路は時速30キロに」奈良県警、法改正後初の速度違反取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2pacFVrdHVNSkYwX2ZmTVBOY0hGclhSUzJrMlBhbkJNQUVodkFTb1hobEhSTExpX0xnNmtpMU50VmFSWXdaSnZ1SG4xSGZrSmVVSGR3bVBpOUJJY2lBZEhRaWRBOWp2ZFIxdlZCdTJrSGNKS2RXQ3M1dUFWZ2d3TUdmQmNjdVVoaGtEeQ?oc=5",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月10日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qdHY5aV9tWG1qT0dqeVF5VWRKLWFUM1FLMUVReVE4TnZ6amp4cVZ3MEZfazZRTGdLUmlvZXVYNzNkNmJyeEd4eXZpeFI2VjNrYmJBTmxiY0VxZ3pMRHRqZ1ZZMVRBdVJTQUF5RHJsMNIBdEFVX3lxTE1kU3owM1Y5TXROSmlDa3dkT01MUHBTdl9CY2J5OW1lRUNWUlBFSHpZWDU2RmFrMFBwUFZMU21FRFMwUktRLUxvbml3UU05VW9Kcm5neEpMb2ZzN045aEFSZ0Z1XzVSUlVQZzc4bVFCbVB0UEhY?oc=5",
+      "date": "Mon, 09 Nov 2026 20:02:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "奈良県御所市のトンネルで車2台が正面衝突、1人が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53UEpOblEwVVpFRzJyeXdERS1wOTZEdVdXSVYtbHR5cDVLQ2ZrYVcybnh6QjhjaWtwOHNjd29mZWFHRVlPQkNNRkdMcGphMDY4X05YbzFidmNucUd6NFFKa0VMNkNEMFk?oc=5",
+      "date": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "事故のない地域願って 奈良県天理市の大和神社で交通安全祈願",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qak5GeTRxcFFoUHR4U0VRemJPVEhqa1BVdEJmZHZ5dDRRRnozNFdMMnhUalhBRElrV3BzcDNJbC1TZDZyeWNUZXdCNA?oc=5",
+      "date": "Sun, 01 Nov 2026 21:15:17 GMT"
+    },
+    {
+      "title": "軽トラックがガードレールに衝突、助手席の妻死亡、奈良県五條市の国道24号",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OYThsZF85eDZydzJTWVJQWm1xWFJzc3F4clRqZGtQRnNrUF9ZZ0paQ2UxM2hHVGpSYWxvcXhyS3lQT3N5RHM2N2ZPVE5NYUUzRW1jY3FTT3pCMTZsREs4?oc=5",
+      "date": "Sat, 22 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良・名阪国道で10台近く絡む玉突き事故 負傷者有無を調査中",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVEtidDJTcFlKS3VKWlpTekVmUzhibk5NTWljM25MOUVwQTlzQkhJSHV4Ynp3THgwUDFxLXNFbFFxeHBySnlCN2JfbkVFVkFZanJnVGc4ZnNxUGx5RkZTSS1jYV9zWjNR?oc=5",
+      "date": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "奈良・御所のトンネルで車正面衝突 2人死傷、容疑で21歳男を逮捕 車線はみ出したか",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2a2NfYzM1cVRsWDFXNFpvYjhhbWw0OTQ2SjFURGdiVEdyYnBNdW93Zkx5VHNHV3lsMHlKeF81Vjg2bHNzaGNQa1BtQnpSVGdoLWJOcVdmc0lXZjktMEVWQ1NrV1NrX2lCTGdFQ3BMSWdVZTBwSFE?oc=5",
+      "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

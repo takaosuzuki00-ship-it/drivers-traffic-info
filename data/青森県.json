@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-11-19T06:00:19.751332",
+  "generated_at": "2026-11-19T09:01:04.205579",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 6.0,
+    "temp_max": 9.0,
+    "temp_min": 2.0,
+    "precip_prob_max": 100,
+    "precip_sum": 10.4,
+    "wind_speed": 11.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 9.0,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 7.8,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 7.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 41
+      },
+      {
+        "time": "09:00",
+        "temp": 6.0,
+        "weather": "弱い雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 6.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 4.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 2.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 3.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月18日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCaHl6Sk5POEhIQ0lXd01ISFhEaHlDRnZSN3NlaUx1NXdSZnBzSGhiQW1vcWlSZVJVSjBubFZPQ0JoY3h5WG0xWFNkSDlkWUd3YUg2aDQwUQ?oc=5",
+      "date": "Tue, 17 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "11月18日（水）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTTE5aEF0VGV6WG9vQm92UzNKZnhtTlpFUE81TmFZNVRESmdoRHNUOTlwTS1UZWhhWmFQWEpvVnVLVzBsSFN0eEVSdkdlaTgzS3Ria09CV3NfcG8wQVFYN09YamdLMkRJUTI2M200SGpVa3JPVVdGZ0hsY3FLcjA?oc=5",
+      "date": "Tue, 17 Nov 2026 20:00:33 GMT"
+    },
+    {
+      "title": "安全運転支援企画！ 紅葉狩りドライブのメッカ、東北自動車道のオービスはここが危ない!!【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2JIQ0Z4WEI2T3FNbnhrcGJ3T1RWd24wU2hTV0U3QXdjck9CYjhFdTlzRkdxcGVuNmVtc05rdHp6ekkwbV95S3dNZERfUQ?oc=5",
+      "date": "Thu, 11 Jun 2026 09:31:18 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "青森県内で交通事故相次ぐ 青森市と中泊町で2人重傷 | ABAニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00VGQtUDE1Uk1BeG5rbU9mdWx5RW5PZDlZRjVvUVJJdU0zXzE1WjBYVlkxRklSdHZRalVWd0RHZGYzNER1OG1PNWNtbEVWeVU1WkRQbFlDSVE?oc=5",
+      "date": "Thu, 29 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "青森県南部町の死亡ひき逃げ 容疑の76歳男逮捕（Web東奥）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdmVwVXFPUU1XRWhiaVVnVzRERGFqOGJpZkh6Z3AxMUg1V3pSbWpNREtVeUl4N1J3YVdHaTJ4ZTlRZFh3YmRNRncxR0poQnVBOHVwQy1paFFXeGQtcGw3U20yOWp5SENCdWR3ZkItVVhxd2dDZDhOalNBaHNjc1k?oc=5",
+      "date": "Mon, 16 Nov 2026 02:43:00 GMT"
+    },
+    {
+      "title": "冬の交通事故 4件に1件が「スリップ」に起因 朝の通勤・通学時間帯に多く発生 昨年度の冬に起きた青森県内の交通事故について 県警察本部のまとめで判明",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QjdralhmYnhTME85Ml9FUVU2ZkJ5eG9mNmZtMnVUbXpnX2VYWFVkWmI2SlYya3VQeVQ2S0RiUW5remZlZGhUdWJjQkdkX21Zb1R6UTR5UQ?oc=5",
+      "date": "Thu, 05 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "青森市で乗用車と自転車の事故 80代男性 救急搬送 | ABAニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VcHB5QkZwMU8xWUhQRXYxLVgxd2M0YW9YYmhWQnhETkpfX0RwX1lEVnFiUFRuSzdUR2hZVFo2V3ZmNjdqX0xCcklrSUwxbWJwdEk2M1pVbzI?oc=5",
+      "date": "Thu, 29 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026年上半期の青森県内交通事故1096件で死者13人 自転車の負傷者減少に青切符導入が影響か",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGpSWE54Q2FqM201aVl3LWs5M3duUnFhVlh6NkZpdkg5T0lRcHRTaWVKcnJtVC14NGw2UFN2bEt0RzV2QjVYbFFDMXNQTGlRaEtpSks2MGNkOVZBNUc4Nmw5b25fNWdtdnJKR0ZYLV9xY1NYLTZtaVpVQkRRRWtqS0hqajEzbFE?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

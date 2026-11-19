@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.892234",
+  "generated_at": "2026-11-19T09:02:35.423934",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 11.5,
+    "temp_max": 13.5,
+    "temp_min": 6.0,
+    "precip_prob_max": 4,
+    "precip_sum": 0.4,
+    "wind_speed": 18.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 4
+      },
+      {
+        "time": "03:00",
+        "temp": 11.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 11.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 11.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 8.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OSzdIRGxncWpvcm9BLXJEMklzTHFhUXN4V1htMmx2Vi1WcVJVUWpuclhvbFZmUVRQSWNlMFFaTHhuSHY1R3JXQnVMaVRSdXMwaE5HYU9nZ21ic3E3Yk93a1lsOHNsX1d0T2ZJQnFB?oc=5",
+      "date": "Mon, 16 Nov 2026 20:13:21 GMT"
+    },
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "兵庫：改造車爆音走行 ストップ 近年増加 兵庫県警が取締部隊 ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQVlxR0lPRWlESmIzMGNkbWs2TzJxbS1CTmlDSTdSbXdma2ktSUdLd1FnYzlyX1FydlRWX0IyVzJFRG9BcElxNU1yd2dzMktSZTRybkRzX1d5Q0tVZkEwOHhYMENfV1ZnV0lPVXZhSi0?oc=5",
+      "date": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「六甲山」で不正改造車を取締り 10台に整備命令 兵庫陸運部による街頭検査で",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fb1hrR2VqTVU0NFF0VVBONkd6cWJqSjM0TkRSNGxUNGpGcXM3OVY1ZF9vRGtyUjRnN2E3blV6SzBJRFB3NUF0V00yb0pvR2JYcFFMVVF4MDBFcWxLOE0tQ1lXOFR1RUFLckdON09YbmRKTlBxN0xha01hS3JBUzQ?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「まん延防止」解除で飲酒運転増えた 取り締まり強化へ大規模検問 兵庫県警",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vRnFJTWloaTBMTTc1WWE5SndCZHliWE5Ec2c2VGx3MWNhNEFMbUM2NjFxek84Tk5XUzVMcENuZVY5T04yN3RfX1IzM2d5YXJFcHBCRUxscUlxV1NIb0xnVl9VRFo5MDRKd3RncDVR?oc=5",
+      "date": "Sat, 25 Jun 2022 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "神戸市兵庫区の海上に男性変死体|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9scm9PVlZseENvVnI0VnVBOXBORHJkWDVJV0x5RGhvYU9kS1VEaGMxUFNDbkV2UjgwVGY5djA2ME5iUXJSaG5LejM3bUN5TGpqQUgtTmJDRjM3aWxNRXN2b2RiWmdVU25xWHFV?oc=5",
+      "date": "Mon, 16 Nov 2026 13:07:10 GMT"
+    },
+    {
+      "title": "年末の事件・事故に注意！ コベルコ神戸スティーラーズ・山下裕史選手が一日警察署長／兵庫県（サンテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55NV9XdjE3RnRkZFlRXzhoTm50SFk5V3pOVFQ2cDRrNWx1QmdZN2wybi01TnM0dmhuN2NES01DNUE1ZGIzUl9QS0VpUXpDYXRsc2tsVEwtZlVxX1NaeTlCNExza2lPb3I1clFFNkRVUlVmcFJzUFp5YmJMR1pNMnM?oc=5",
+      "date": "Wed, 18 Nov 2026 09:05:17 GMT"
+    },
+    {
+      "title": "交差点の横断歩道を渡っていた男性、ミニバイクにはねられ重体 加古川|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWUmNHSzBObkFTSmpYcWZ4S0VSY0NCZTZCZHRyQ1dQbEE5ZlZPd2xpSmR4elNtWTI1VWdjZ0ZyZ0xXWFJOcC1YdnFPQWc3cHIyMkgwZm9CRGxaOU42cGYwcnJKVnZEVVY4d1FJZFRGUUFSNGxyZmYyUzU2OA?oc=5",
+      "date": "Mon, 16 Nov 2026 12:13:59 GMT"
+    },
+    {
+      "title": "兵庫県内の交通事故死者数が急増 県警音楽隊が園児らと交通安全PR [兵庫県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZVpJQ0xJN3I4R2RvNXdCcG5LaU1QVno4SHB1VnI1NFhIMWZSVGoxTkdRa2VXOU1YWV9DS0p1ZVZUZzZWTFRDNHdOdHJaTmJENUNic0hFRlpTbFpub3VBYkdGaDBKNEk?oc=5",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車にはねられ74歳女性死亡 神戸市灘区の交差点|交通事故",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BSjl2cXZyNDhTRl91a1p1UXBtYTJUbFNWQmdXcEtpeFh4dzZLNzBpSDA1WlpqRVVMNGFqc09USHkwdUx4ZlNjN2QyT0hTd2VYME5va2QtWjhJUFhzSGJjNHFSRHFzRkxiZnAyVlh2TXhEQjNtS3JxbldjQQ?oc=5",
+      "date": "Wed, 18 Nov 2026 15:11:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",

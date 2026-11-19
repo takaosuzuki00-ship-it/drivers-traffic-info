@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.933849",
+  "generated_at": "2026-11-19T09:03:04.393950",
   "pref": "徳島県",
   "region": "四国地方",
   "capital": "徳島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 12.9,
+    "temp_max": 13.4,
+    "temp_min": 7.7,
+    "precip_prob_max": 100,
+    "precip_sum": 0,
+    "wind_speed": 23.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.4,
+        "weather": "晴れ",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 12.6,
+        "weather": "快晴",
+        "precip_prob": 35
+      },
+      {
+        "time": "06:00",
+        "temp": 12.2,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 12.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 11.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 10.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【徳島県】5月分の「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1hQ1l4UWUyZHBURk9vR0pJVmh6bmdBU1hBcDRiZGVpQjlOVFQ1NjY5bC0wSHVtVmQ3akYxOC0wYjRqQk9NRTZUQjJXNDU5ZnNERU9yLXVCTjVCTDA2U01NTk8yUURmVWFvZTlWY2JhZVFIY1h5Y085b2k5Ylp3dDRpWQ?oc=5",
+      "date": "Mon, 11 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【徳島県】10月5日・20日は「県民交通安全日」です！10月分も「交通取締計画」が発表されています。チェック＆把握して安全運転につなげてください。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2V4QWlKQWlISkRNNTFxdTRVbllrVXFranM0VTZfQjR1NkR6TEdyTWhvXzZWODU3V25JVG12OTc5VnQzYjQ5c0ZORkRJTFN3d2ppUFdJNXoteVMzM3hHVGpXeDM0NnpnNGtyMm9rWW1SSjJZUkpwaVlUNzNRV0RIUHpOOA?oc=5",
+      "date": "Sun, 04 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "徳島県警が、持ち運びできる速度違反自動取締装置「可搬式オービス」による取り締まりを強化しています🚥 2023年の摘発件数は1631件で、前年の3倍以上に！道幅が狭い通学路などで使える利点を生かし、交通事故防止を図ります🚙 ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ 徳島新聞デ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OWGhQUEhUYjF4b3kxdTRkanZxVmNZN20zY3JldUFWcWhYTFdRS1U2OGVSRm1TMnJKRGZyRWxFZW5yNHNrdHhScjR3TDJNQ1lka1E?oc=5",
+      "date": "Wed, 17 Apr 2024 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／11月の公開交通取締り情報更新、速度違反などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTlA0OWI2YVNrSDlabTVUMHF6ZGdYVlpKb2M4TEFEdzJ6UTRuQk5pZUYyeWxvSENGR1kycFVlMUtEdmQ5N3QyaDEzYkZCeVR2d2hQVQ?oc=5",
+      "date": "Fri, 07 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "title": "大型車運転「安全確認を」鳴門署など検問所で呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tc1Fvd0ZGaWhnWEpGamRQMjNMLXpQanZoMnFEbWs5OU4xTVJhT2VUYjFGeHp5UHNUX001Z19YZTFVWUpueS1mUHItdXNSYUN2TEtPV1d3?oc=5",
+      "date": "Sat, 10 Oct 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "交通事故遺族、二次被害の苦しみ語る 徳島市で講演",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xSC1URXQ5RmhCUnp4T3p2RXhWOWh4UkRRay1QMEdSX1NKSVlUM2dhMUVWcnE5ZXV5UTRMWE5YRHBCWHRzOWFkVnU1X2YzVWg4a256b0p3?oc=5",
+      "date": "Wed, 18 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "徳島県阿波市長を逮捕 物損事故の修理費350万円を市から詐取容疑",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxUGVraW93T1drTnlHTW9ER0tNRHhSTy1WVDJSX3Z5ZmVDeWVkdExIUFZvVWtvSlBuWFhmNlRKTXNkemN1RU84eTNIam5zci1aTkFBN0FhZUM1RFk5N1gwYkd6Yy1nTm8?oc=5",
+      "date": "Tue, 10 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "逮捕の阿波市長、交通事故の修理費用３５０万円を自動車保険で賄えず、工事代金に含めて水増しして工面か",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtWjloRTNoRDlfV3RxcGE0UzJmc1Q4NmszU3VWUXQ1a2dhb0FJcC1hcldRTmRRWTVRLXg0cFNOWDJsb29lNUQ3VG5vZTRqdS1pbTVpQXkzNlAwQnRzSWpueHcyYUlIVnJGVWlMTV8tUzZWQQ?oc=5",
+      "date": "Fri, 13 Nov 2026 02:00:00 GMT"
+    },
+    {
+      "title": "交通死亡事故多発警報発令中！令和8年9月29日(火)～10月8日(木)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WblFqNk9xY1BGUkZrZTMxd2swbXN1aVlLR1VvaHlRTEpRQ0hXSUozNTRqV0REQ0RmcHVha2wxNTRnOTRYRVBUU0ZxX1ZGWlhMMjBxaXI3a2pGTE5VRjhVTXM2UktEMjBzbUgxbXRLZm8yTWk1aUxXVUZB?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "徳島市の死亡事故、県警や県など現場周辺を点検 再発防止策を協議",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yVWZUMkFkZlVuNGhZanhPWk0xZXJ1YmU1ZW5OdDAwM0dpN3g1YlVaMVBBQ2lheVhKVWFNWS11T194c3NQZUtSYk1ZNTdfd1RvTDNkUmxR?oc=5",
+      "date": "Sat, 14 Nov 2026 20:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "徳島県警察 公式サイトを検索",

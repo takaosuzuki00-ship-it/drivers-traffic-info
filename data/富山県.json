@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.821134",
+  "generated_at": "2026-11-19T09:01:51.218487",
   "pref": "富山県",
   "region": "中部地方",
   "capital": "富山",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 10.1,
+    "temp_max": 11.1,
+    "temp_min": 5.7,
+    "precip_prob_max": 100,
+    "precip_sum": 15.0,
+    "wind_speed": 12.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "03:00",
+        "temp": 10.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 9.6,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 10.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 10.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 9.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 7.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 6.3,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Mm5PZGluTWQ0NTZ4QUZuQzZ6MUQyLWdYRmtGdi15M0JJaTJRaXV0T3MwU3VqV1VicmZ6ZVFyZlRfaWh3MFhWUjBQd3pkRkdfRjlfWGF3X0ZhMUpMeEZCRm5ueFF0SENNU0Q5S213?oc=5",
+      "date": "Mon, 16 Nov 2026 20:15:37 GMT"
+    },
+    {
+      "title": "コカインを営利目的で20代女性に譲渡の疑い 富山県内の山口組系暴力団の組長ら3人を麻薬取締法違反で逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWjJaMENLcy1MUjZ4N25jaGNVRTRieGdRRGR5dFBERXZNSkFZZGhDMjVzT2tDMnYzSW1LUnh6YjFvU1V5aWVQcjBRNWRnc2xXQkpPWWloUEJsQQ?oc=5",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "オービス取り締まり「やめて」「ズルい」⇨警察官が真剣回答。車のレーダー探知機にも言及、富山県警",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80Tk9VcWlrQkZxZnRueHdlbVZwQ1dINkNYS3BBdDBoQkJfYlFXY1BGdVlsZDlKYkRNeUY1T3Q5Um03Q3R3cUNCNGZFV0FCd3N2N1RUb2tIc2x1ZDhRNnZ4emhIUTVuM3RJaUphanhrMll5S0t6UE51RA?oc=5",
+      "date": "Wed, 24 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "１１月１２日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MUEptWWMyVUphajE3clE3b2xZcTB6U3M2SHNrd3UtNGhLR3c4NTZDU1EzUm1wcFEwcXJLZ3dlaWRDWUJpLVo3dVpHYnk2c1JmVXpCMFhOSnBDdk42NFBOdnZmdjNhMk9PcjBMajd3?oc=5",
+      "date": "Wed, 11 Nov 2026 20:11:21 GMT"
+    },
+    {
+      "title": "計画的か…白昼の路上で後ろから羽交い締めされ、現金200万円奪われる！外国人風3人組は午前中から「下見？」車で西方向へ逃走、警察が検問 富山",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rdlpOMDdSRGs3cDJZcW9CdXR3ZE0zY213WHY5SzBKY0JnUFhDdjhCT3A1eFpmZGNjYS1hSjNtZ0RSeTJqZ0xpN3lBa0RXX0RWa3ZORmlHN3JUNnctS3I2ODRvdnozM1U?oc=5",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【富山地鉄】人身事故で一時運転見合わせ 現在は通常運転（北日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EX25tX2J6cnpwSnhrblRjVVA2R2U1YTJBN3gxNXUzLWZsSlJQYm54UF9lSW1KcHFZNUN0YXNyd1BjVkNUc3lXdGtUVjNtQVlUVGZBSFJSYUpmT25rcEZtYUN0OHAwWFNSWDRWQVE5bEYtdTMzMUxCcEh2VFByVWc?oc=5",
+      "date": "Sun, 15 Nov 2026 22:13:00 GMT"
+    },
+    {
+      "title": "富山がトップチームスタッフの交通事故を報告…双方に怪我はなし",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcmNIemMzRW9VcktfY3BZblRQaXIxeGZzeEhvVjYzLUo2MzE5MkJubmlIVVJOVUpfakJLYnVGeFhEc3k4YlNaZVJRRUhqS1AzMW03MzRSQ1RHNWFfNjB1N2tZT0ljYnF5X2Q3MWdR?oc=5",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ｜社会｜デジタル版オリジナル｜富山新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZ0ltNnZGLS00N0JMWHFnVUNnNEhKam5qMFl2R0RlaGVkZGZ0Q255Nmw5ei1KWHNXcldpbDY3OUVIb0FZS2dwTVExWDVJdWRTck5QYnpCa2ZUUQ?oc=5",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "甲信越・北陸6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5MlFOS0VoZjM0ZUhYN1ZMNGtRcjdXV3NYTURzdHNLQktrczdmaUdacHM4Y1R4bmxGeUt1cXdNUWVpRC1Rb2daTTBOSlgtamFXcEZxVk1GdXhEQTdxTlBySjJIOUVGOW15dUlj?oc=5",
+      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故多発交差点、富山県のワーストは？ 日本損保協まとめ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxb1gtTHpyZ1JjRXNFMmp4Zk9veXhWOFhuLUplQVREd3NZTmZocUxzMG0ycmhkVVBjSkRNUmRYOEkwQ0NSR0NjNlp0aw?oc=5",
+      "date": "Thu, 17 Sep 2026 07:45:23 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "富山県警察 公式サイトを検索",

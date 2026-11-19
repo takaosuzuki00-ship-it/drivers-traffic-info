@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.924932",
+  "generated_at": "2026-11-19T09:02:56.936830",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 9.5,
+    "temp_max": 11.6,
+    "temp_min": 7.5,
+    "precip_prob_max": 80,
+    "precip_sum": 0.2,
+    "wind_speed": 11.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 73
+      },
+      {
+        "time": "03:00",
+        "temp": 10.9,
+        "weather": "快晴",
+        "precip_prob": 43
+      },
+      {
+        "time": "06:00",
+        "temp": 10.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 80
+      },
+      {
+        "time": "09:00",
+        "temp": 9.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 10.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 10.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 9.7,
+        "weather": "曇り",
+        "precip_prob": 8
+      },
+      {
+        "time": "21:00",
+        "temp": 8.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 51
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OVA0SGdlYTZtNmoxTlZLaTJBd2RPb2ZESjNGM2lWb21vRmk1eHQweEV3TEM5VWpnbGpzazZnSU9PUWhBZTNsWUIxTFFGLWtQNkwwN0pwNnVJeHpYMTJGeUwxejFmVElhd3VacTdmWdIBdEFVX3lxTE5tRm5xRjdpbGl0dTdPVmlEM0hONzVzMWRqZjFMN0x4LTlJZll2clJ5QzVIenhuYVI4RWR6MHh1NFhBQjVhazdVOXVYcGhkY0VBdUxMYzFJT0w2VldIeERXV09Ndk9PdjEtSTdjRUNkR2xHRkdi?oc=5",
+      "date": "Wed, 18 Nov 2026 20:01:37 GMT"
+    },
+    {
+      "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Mm5PZGluTWQ0NTZ4QUZuQzZ6MUQyLWdYRmtGdi15M0JJaTJRaXV0T3MwU3VqV1VicmZ6ZVFyZlRfaWh3MFhWUjBQd3pkRkdfRjlfWGF3X0ZhMUpMeEZCRm5ueFF0SENNU0Q5S213?oc=5",
+      "date": "Mon, 16 Nov 2026 20:15:37 GMT"
+    },
+    {
+      "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年、五日市港などで検問強化",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JbU9LNVd5WUg1ZHdXR1RYRi1jb1Q2WFhRN3hIZnNSWDByTGw4WDI5N29NMl9KNVVyb0p2THZaTnBIaEl5dE8wTVlTZjAyTm1HSnFTZFlYaEFUQQ?oc=5",
+      "date": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jQ3JSMmFsT2VFVTZHYjkxeWxGUzU4UU1uTEtZRnp3YlBhZzFUdXI4WjBlQzJYSk5QdVNKWnY5dUZ4TE5qZjZ1ZlVucw?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fODdMcHBWMzNrYy1VWEhCNFc1eEhTd25SSUZrOFdOdWV3VlZFYzFVMjM5TVRmT0IyejlYa0R3UVV4Zmk4WHdPR2JhT0xWM2w5clFUMEJxYUd5dw?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
+      "date": "Thu, 05 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "未明の交通死亡事故 ２１歳の男子大学生が車にはねられる 広島・福山市の国道２号（テレビ新広島）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kamlYYnJnMDMwdTdORVV2RDdoelBDN2xSRXhDcl9NTkM0NllGbnU4Tk5MMno5ckt5R25BZmZURGt0T05yUTBrZXpNSWVST0NNU1d6MzNDbV9NalBxeWg3UzAyaEZNaGFpZUdQWTdMQWE0UEhnVzVCM284djNpM2s?oc=5",
+      "date": "Sun, 15 Nov 2026 09:26:01 GMT"
+    },
+    {
+      "title": "【事故】広島市中区で路線バスと乗用車が接触",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13aG53el94aDlCQmhKMklWVm1wb3RkWml1OHpRY3hzeEpJTjRaT0xGRnlxaVNxam5jUzR5Ym1LUDVBYzlVSExobnJadEgwSUVwT1ZUQ0ZhLThGUQ?oc=5",
+      "date": "Tue, 17 Nov 2026 02:19:00 GMT"
+    },
+    {
+      "title": "【事故】山陽道の広島・五日市トンネル内で4台絡む事故 五日市IC―廿日市JCT間で通行規制",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tS1c1OHRKM3BGOUpxREd4X0N6NWxXUEhSc0NLUTVzcjU0UVJ6QnJLMnhiRnBpQXNtTlUwVUtPS1RsRmhobmMwWDNOOVp3LUo2dVFRaWRfZTdodw?oc=5",
+      "date": "Tue, 17 Nov 2026 09:21:00 GMT"
+    },
+    {
+      "title": "「路面の凹凸放置が原因」バイクで死亡事故の遺族 広島市に1億円超の賠償求め提訴",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83ekZYWk10enZLTUY0clJDV0dZRFZTYlhKLS1OcHVkSnlKTTdyQlpKR3lzZTFiWmFRS0R6OGJsbFJ1M1ptUXVLZ1V1ZEV6RENlMzR1ZzhCSjBQQQ?oc=5",
+      "date": "Mon, 16 Nov 2026 08:01:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "広島県警察 公式サイトを検索",

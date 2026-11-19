@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.970351",
+  "generated_at": "2026-11-19T09:03:27.325577",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 11.8,
+    "temp_max": 13.0,
+    "temp_min": 10.0,
+    "precip_prob_max": 91,
+    "precip_sum": 1.9,
+    "wind_speed": 9.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 11.7,
+        "weather": "晴れ",
+        "precip_prob": 41
+      },
+      {
+        "time": "03:00",
+        "temp": 12.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 11.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 12.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 11.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 31
+      },
+      {
+        "time": "21:00",
+        "temp": 10.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 82
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月19日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ub0lLSG5zbWZUOUNKRVpzOXNqTlkxZ0JQUkZ0aF9hdS12eV9EU1JZUmpPVVhwclFBOUIyZTk5ODE5bFRHWGM0TzRQbTYzOU1lS3pQazkyajlUaWZ3cEZINEdVSjR4UDlnWEE1V2psYzFpSkE1eXlSbllYMUxFdjg?oc=5",
+      "date": "Wed, 18 Nov 2026 20:06:29 GMT"
+    },
+    {
+      "title": "11月19日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWFVFaFlOZFdOcDFrVzdFRUtMeFpvU0N4U3pxd2NaZGQtbXBMS1V2Ynp4QXNqQi1YSWhaZVZEQ2Rqa1NTb0ZveDd2ZVVuamxnUFVCSHdJWmJLdw?oc=5",
+      "date": "Wed, 18 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月16日（月）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6MHNReW0xWjlETE9aTUdRVDVERmZjZno5d3lYdElhNmVNM1dUTEtvWHppQVhmLWcwQ3lKQUNya1ZIbFp6ZFdUQUxNbkJNZTJfQ3lDMlJRQQ?oc=5",
+      "date": "Sun, 15 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月18日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど（RKK熊本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yV0Q2WFlBaTQ4SkZGbVVWUS1FaHN0MUlCdDF3dGt1U2xKWHdYU2c1N3NjUHVNbl82R29La0FWZklQUFJqakRsVWFCMXNSU1g2WjJpRVBfeVFvLWZxRHRJMXZPaUFRWXpNTmRiUzZrSVNucGdhVGFsMWRRM0tWeXc?oc=5",
+      "date": "Tue, 17 Nov 2026 20:02:14 GMT"
+    },
+    {
+      "title": "飲酒検問で検挙…酒酔い運転の容疑で50代男を逮捕 無免許運転の可能性も（熊本ニュース KAB ONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yTDBpTGlJaEFEN1NqNHRzMk81NlUwT2tPV0E1bTlsUDlqaW9yOHVNTHVVc0JfaGhSWTBiVk5POWQ3T19wM2ZtOFVVWWRKYkx0c1NLdkpPdENGT05zTVFVdl92RHoyZ1QxalFmXzVjeVlqRGh3bnFtb1JnMi1wQ28?oc=5",
+      "date": "Wed, 18 Nov 2026 04:02:51 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "「早めの点灯を」天草市でドライバーに呼びかけ 夜間の交通事故を防げ【熊本】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52UVJoeGpuZF8xZ1dZRExPM1FRd25UdnNfV0xYVmhmQTlodTBGSnN6Z0RqVi1iZjloNjhFM2xqQVJSSmx5ZzdQUGZBaGx3Zw?oc=5",
+      "date": "Tue, 17 Nov 2026 11:59:00 GMT"
+    },
+    {
+      "title": "夜間の交通事故防止「ピカピカ安全に」 熊本県警とオクロック熊本歌劇団、反射材着用呼びかけ 熊本市（熊本日日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWkpIbjN1N2h5YVJCTk9tNXZDUDVCQ1daem84SGt3dUJzT0VjMEp2T0MtdklTUVBlTDF1QUEyZnkzQkRMRzROWXJLRVhGX3NyUGd1RHpiQVZnT1kwTk9wNy15S3pHcy1naTQwVWRzRjZtYmZQZUVablBVc0Q3aHc?oc=5",
+      "date": "Thu, 12 Nov 2026 00:35:28 GMT"
+    },
+    {
+      "title": "熊本市議会・田上辰也議員 高校生との交通事故を警察に申告せず罰金20万円「名刺を渡した 警察に連絡する認識なかった」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoUHdZNTA4UHFBQzdwQVNweFVRa1lKUzhCc1lNNnMwUFVubGdJTFhmY2diSnBTdERKX3psbm5ySTcyLVRkakpBRzZySUZ4bkM3Umx0VncxbjFoNlZHVWo4bXlHdXFzY28?oc=5",
+      "date": "Thu, 05 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【とぴっく・長洲町】 交通事故「ナシ」キャンペーン",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WUGt2R29ZbzdMM0Y4OGVFZkg3bDVWYWpaenpZNlp5VkRJNldzQmJHODRrNjVVY09aWUZYbktzYjhTQzdibVBwWGhITnYtWGM?oc=5",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夜間の交通事故防止「ピカピカ安全に」 熊本県警とオクロック熊本歌劇団、反射材着用呼びかけ 熊本市 (熊本日日新聞)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVdnc0xKaWNLekhZWGJRSi1nMnRUYUs3dDB2VGo4dWdGM2hmVDYxcFEwTzBpdk1ZTDNYU0FFVEtkMk41bEFfTVprcVVNajNjcmhOYkF5MF9FREdrc2JreWNoeE1SUzFCSzFrYVlQRzduck1CdzFrT2lQTFFCZ19QNFZObjAweFptcmE2d2lR?oc=5",
+      "date": "Thu, 12 Nov 2026 00:35:28 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "熊本県警察 公式サイトを検索",

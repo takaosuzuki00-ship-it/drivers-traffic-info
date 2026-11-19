@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-19T06:00:19.796609",
+  "generated_at": "2026-11-19T09:01:34.530229",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.4,
+    "temp_max": 19.0,
+    "temp_min": 8.8,
+    "precip_prob_max": 10,
+    "precip_sum": 0,
+    "wind_speed": 5.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 13.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 10
+      },
+      {
+        "time": "03:00",
+        "temp": 12.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 10.7,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "09:00",
+        "temp": 14.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 19.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 10
+      },
+      {
+        "time": "18:00",
+        "temp": 12.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 10.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "埼玉の国道で持ち運び可能なオービス盗まれる 速度取り締まり中",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bnpQSzhaZUlGOFNpcmhudFZ1UGJwbjVxTTFQYXJGV3RDMGZMbEpGM2RzWTBTNjhpRjVJT2NNNVJIQ3FjU29pWThuekhFNlEtU0lTaFpNU3pfbFNEOUp5SktVN0VWbmZG?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "持ち運びできるオービスが盗まれる 埼玉の国道 重さは約20キロ [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQ0NMeXFnWV9JRDB6d1lIVW1seWVXb0dfWjlOQVh4bWpDeHBzWFJRb3RjdUJMNjh0bTNJMWtYakpzWTR0SGJZZlhYb3M5M1pqbVNsMmlfQ2g1VGxFYXNudDE0TmFhVG8?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の取り締まり中に「可搬式オービス」どこかに消えた 900万円 前代未聞 埼玉県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUFBTXzVJSEstYW5ucW9IY1hLU1Q2WHhndTVtNTFrcTdVeHZEZFZkRDNJNGRjazltV3Y2S1lQN3pEcWY4VmFLN3VYcEI5RUtIam9N?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "移動式オービスが取り締まり中に盗まれる、埼玉で全国初…県警「犯人確保に向け捜査尽くす」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vd0FqRlBRb0lFR2EzX05KVmZLb1NaMWx4T0ZHY1g0cEVQTXQyTVNoeUpxV0F6S3RQT3F3cGZfcWNIMUlkZkdHbEtHSU5DVng3NGtYNnhEcG1DRWdMczQ2dU1NV1hyQQ?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "全国初、可搬式オービス盗まれる…配送業の男を窃盗容疑で逮捕 取り締まり中に速度超過か 「光った」ことに気付き現場へ戻る 900万円相当、いまだ見つからず（埼玉新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYWduYVRCVjdnVENYV2Rtbi1HT2FEeTMxX0dYNmNMdTZhcVFCYjFqS0hxRF9SckpEeTZPQVdXalNWbW9qOHFuXzhwT3VfY0g2QkdoTFVlTFIzUEFTOXdGczZBSTlMZ050OGs3QUpsUUI0RE5XN0E1WFpYd0twd1E?oc=5",
+      "date": "Tue, 28 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "埼玉で死亡ひき逃げ容疑 32歳の男を逮捕「人だった認識なかった」 [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTDBnaHd6bEVQYXVydVR6YnlQSDNRdjhmVk9mQVBqSW1Dd0lNZFNPU2hneHdsclN6eDlidy1nWGluSjZaV1M2LV9pVjR1TE9WbEwzNUcyZ0NVbUdjNHZCUHI3bXdVZW8?oc=5",
+      "date": "Sun, 15 Nov 2026 01:50:00 GMT"
+    },
+    {
+      "title": "ひき逃げなどの疑いで32歳男を逮捕 路上で男性を車ではね死亡させ逃走か 埼玉・越谷市（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNmllQmZwT05ia3ZidlR6RmhFQU11VTV2ajFMZTJaQXNKZmFqQ1BFZUE1ZWNtLXEzZVAwelBBWm1VRlpPSE1wTVZtVUZGSVlDcXhfcGtCQ0U3LXhBeDlyYXlvVVlSckIya25VNDkzYzhmUXl3UWhRQ1lpa1N4c1E?oc=5",
+      "date": "Sun, 15 Nov 2026 00:56:01 GMT"
+    },
+    {
+      "title": "軽トラと乗用車が衝突 男の赤ちゃんが全身骨折で意識不明、母親とみられる女性は重傷 2人軽傷 現場は埼玉県内で事故が最も多い交差点",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5UVAtb09wMWxhZ3p3RGhpUXlneTVETUpwOWd6NmFpS3podTh5b1g3VVJGb0F3R3hLcElUY2pfYUNwUGRVUU5keVNMZkVEUQ?oc=5",
+      "date": "Mon, 16 Nov 2026 03:52:00 GMT"
+    },
+    {
+      "title": "バイク男性が死亡、原付で走行中…19歳の乗用車と衝突 早朝4時半すぎ、信号のある交差点 車の会社員は腕にけが、自ら110番 原付の男性は50代ぐらい",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbktFZnVNaHh3VHRDOUk3eGIwVzhTOS1pSnd3Zjl2RHNfVnlVeXE0dUxjMkNTd2ZVTmJsSHRaMC1zWWttcXhzSTMyckZrb1lfa2JqS2E1Yw?oc=5",
+      "date": "Mon, 16 Nov 2026 23:29:00 GMT"
+    },
+    {
+      "title": "路上で倒れていた男性が死亡 「頭部から出血」近隣住民が通報 埼玉 [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpOFB0Q2tXa002WDdQRWlLTEhqV3lYMXR4Q1FqNXVtNDNkUk1leE9iRGJfSDhjM2NHVG56aXdGeTJiRzhNMjV3VExxYzlTd2hnNjRFLWdlQ3RuT3Bmd1Q1U0tWRlBLZGs?oc=5",
+      "date": "Fri, 13 Nov 2026 23:40:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

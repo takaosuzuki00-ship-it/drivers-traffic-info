@@ -1,11 +1,112 @@
 {
-  "generated_at": "2026-11-19T06:00:19.783854",
+  "generated_at": "2026-11-19T09:01:26.462614",
   "pref": "栃木県",
   "region": "関東地方",
   "capital": "宇都宮",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 14.1,
+    "temp_max": 16.7,
+    "temp_min": 6.7,
+    "precip_prob_max": 71,
+    "precip_sum": 0,
+    "wind_speed": 7.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 12.6,
+        "weather": "晴れ",
+        "precip_prob": 71
+      },
+      {
+        "time": "03:00",
+        "temp": 10.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 10.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 16.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 14.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 10.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "栃木・上三川町強盗殺人事件 中核人物摘発に向け警視庁に情報集約 警察庁長官が指示 国内の広域事件への対象は初",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vZ3J2Qm1RUVkwRkIzd3JocnJWT09WQjBiMkxMa0R0a2lsRTEyMjVWTm5RSkRrSkw1enJEbGw4T3djQ2t5NjZxTGpuX3dDc2RQMEpueFBvMA?oc=5",
+      "date": "Sat, 23 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "時速17kmオーバーで「逮捕」!? 速度違反で\"住所\"と\"氏名\"隠した84歳男はなぜ「青切符」で済まなかったのか？ 元警察官が解説",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80S09BQ1VHZEdiQkIyd1dZSVp4eHZhVVZOTVF5dFctOXZUU2pYdzdYZlpyb3dBSDVHanYtZVBWS3REVjFvNWVfTTFYOHY?oc=5",
+      "date": "Fri, 24 Apr 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "宇都宮の県道で重傷交通事故 当事者など判明",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXTlQ5Xy0zZzJGa2plMnFUcDBzR1RISUVFUkw2ZkpDTWROai1uOTBhVDFlMFlqcGJadHhBX1BFZEwtdWp2MzBDRWE4MA?oc=5",
+      "date": "Wed, 18 Nov 2026 03:26:00 GMT"
+    },
+    {
+      "title": "第72回 薄暮（夕暮れ時）の事故を防ぐ！「薄暮が危い」",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5dm1OeG44Y0FOc2lNVzdnVkRud3luREc3YmVndC1rQ002YjY3UDN0b1dBb1YtUGlmYVc4ajliMHFPODZleEE4NmVjblFpcklTVW5WMTVVNzNPTmM?oc=5",
+      "date": "Tue, 17 Nov 2026 07:39:11 GMT"
+    },
+    {
+      "title": "交通事故死者数、栃木県は全国ワースト10位 人口10万人当たり",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrLVpGMnVFZDV6Y3MydlBWZG9Vc0xoUGdycGhsOWtiREtpTE8tVmJjNlJJTy1Jc3gyUWZNS0dSRGJVUnlKMEI3SVFOS2FTNFRJbEM3M3hDZVZXVVZHNF9iNkF4cmtTUmc?oc=5",
+      "date": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "栃木Cが所属選手の交通事故を報告",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1anRsbmFVQVc5X1o4VmR4R1hsYk5rOVRWdTJxa2tZc1I2OVlyVFhwRGJDWDJMZFlNWm9Md2hCaEIxZ3pPei1MYVNuSFQxTWtXWUdodDY0cFlIM1ZOR2ViLU1vWHE4RTFhdXg2WWRB?oc=5",
+      "date": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡男性の身元判明、芳賀町の交通死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzaUZEZFNqekVFaHgzOVFGbmsxSTZEaEI3MEdtUWljWVMwLUhyQ3U3NWd0LU5IRTMzQ3FSSnlCSl9LcE5iLXEyX2ptcE9fZzVLUWIxNk9vNjZQM0E?oc=5",
+      "date": "Fri, 13 Nov 2026 03:03:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "栃木県警察 公式サイトを検索",
