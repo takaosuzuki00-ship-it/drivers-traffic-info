@@ -1,79 +1,69 @@
 {
-  "generated_at": "2026-11-19T21:01:13.376753",
+  "generated_at": "2026-11-20T00:01:40.687995",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 10.4,
-    "temp_max": 18.0,
-    "temp_min": 8.7,
-    "precip_prob_max": 24,
+    "code": 0,
+    "weather": "快晴",
+    "temp_now": 8.9,
+    "temp_max": 12.7,
+    "temp_min": 6.4,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 9.3,
+    "wind_speed": 8.9,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 24
+        "temp": 8.9,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 11.8,
+        "temp": 6.9,
         "weather": "快晴",
-        "precip_prob": 10
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 10.2,
+        "temp": 6.6,
         "weather": "快晴",
-        "precip_prob": 18
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 15.1,
+        "temp": 10.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 17.9,
+        "temp": 12.5,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 17.0,
+        "temp": 12.1,
         "weather": "快晴",
-        "precip_prob": 12
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 12.9,
+        "temp": 9.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 10.4,
+        "temp": 8.0,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "自転車の交通違反に青切符導入 県警が導入初日に指導取締を実施 | 社会 | ニュース一覧",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3N3k4RWtKVEwyRXMwLWd3RnpQYU0yTEVJREl6V0lXaFdhdWdNTHlGVXEyeTcySXpkSUhlM0ZyUXZNejhXWFFoci1jUG1JSy16S19qU3V3?oc=5",
-      "date": "Thu, 02 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "過積載の摘発、昨年最多681件 つくばの宅地工事影響か 茨城県警 [茨城県]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41WnY3dEpPRDdWUm85WU90azB6cnNpSzROby1HOGJ2RzdXUDBSMUktUUJuWG5EcGRyMW5KdF84bWlsTEkxLXFuYi1OZUxVMTFpMWhpd0RvTXFrQ0tUR2dWbDFDOEN6UlE?oc=5",
-      "date": "Tue, 03 Feb 2026 08:00:00 GMT"
-    },
     {
       "title": "県警が9月19日に新国道4号で大検問実施 交通安全運動期間に先立ち実施",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xQnJscmxCOVo3RGFCXzIyTkMwcE5ULXN2bHpZMW1sdVpvM24xOWYwTFJwbWxBcjRtbm1ZT0lVaW9xWHVobVhCWjhKc0Y5dXYwdlVpQ2ZR?oc=5",
@@ -88,33 +78,43 @@
       "title": "茨城県警と国土交通省が合同で検問 持ち運びできるナンバー自動読取装置で無車検車両の取り締まりも",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yRGlYN1VzOVRqcTB3RjlnVGdoMUozUjh0cC1VVmpuNExMOTdDeEVWSVR4WTdaUGkyNFpoMHg3endGUEt5S2s4ZHhPeVBFMmp5Y1BpODhOOA?oc=5",
       "date": "Sat, 21 Jun 2025 07:00:00 GMT"
+    },
+    {
+      "title": "「暴走族・旧車會」への対策を強化する茨城県警！ 年末年始にも“検問”を実施！ 結果は？ 今後の方針も聞いた",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90R3lkZ0lwSkpjYWw3STkyNWN3SkVTRXJNQVdCMTdUVXNKT1FSczFFbWphREV2UTE0eG1Nakc1elIybnA4N1Uwc0JablRrc2hMbGV0SDNEUmRKUk9zVEtobk5uVTfSAWpBVV95cUxOOHp4bWlRT3U0WDNsMHkyekctVDFzeE9DTEpmczRad01WbnVoRDBHX2c3QXhtU1htWTdOX19vYzNhRmpKVFpudVNKM29KVElVXzBhbG1ibnlQd1pCNWJnZzFiSEM1Nk10UE9n?oc=5",
+      "date": "Fri, 09 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「検挙しました！」 超キケンな\"残土爆積み\"ダンプ＆「改造大型トラック」をその場で摘発！ 国道4号で「一斉取り締まり」実施し\"悪質違反者\"を排除！ 茨城県警が街頭検査を公開",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LbzAtMEVtYkZJVUJYX1Q2YXM0SHJ1WXQwMl9WclZtd0dPa3J3dVRmWUNlUlZPRkNLS3BYTF9UNlBsd2lSYTg1a1hn?oc=5",
+      "date": "Mon, 06 Oct 2025 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "【更新】乗用車が電柱に衝突 62歳男性死亡 土浦（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QVNodWlYaFZKOFMxRVZJNlJlRTR3eWREVDNLVEVabkU1S3Q3RVlEUDRSbjZwY2ROYmJRekxIVEVrWDJtSXFhM0V1OG1ibXZiN3VKUC1yN0M3OFAtTEtiWjBxa21CT1I2QmJEOXJmaGJIWC1Ca0lVN3JHX2NickE?oc=5",
+      "date": "Wed, 18 Nov 2026 08:40:00 GMT"
+    },
+    {
+      "title": "常磐道で多重事故 2人搬送うち1人重傷 ダンプカーなど7台玉突き [茨城県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QcFJ3S1JLMXZ0NTNoek1sdU1ianhiX2lvMXJ5V2NhXzA1bDFnZ2RTQWgtbmlrdmMwZ19lWUUtcEVoalJadHh3M240LURBRU1hejNKcHZJekR2YjRMWU1TZmswd1JZejg?oc=5",
+      "date": "Mon, 16 Nov 2026 01:40:00 GMT"
+    },
     {
       "title": "注意！交通死亡事故が多発しています",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVJWZHVKdFo3WlJSV1o5Y0RaN2VkVkczM2pOM3BseTJPdkVUdjNfbk9mdmhvbjJCM1BQekY5a2RIdXJlV2tURWVtSnhMVXpOdDFUNEplUk16TUlVTjhvQWpxcThPRkVERWItdEluV2laak54bmpQUWJ6NkZMVG0zRjVoQVVLbDMwOU1NVXR2bTJwQTdINElubW9xbjNWODBSemRj?oc=5",
       "date": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "【速報】茨城・かすみがうら市 常磐自動車道下り 千代田石岡IC付近で車7台絡む事故 12人がけがか",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xZFVIMTBwMGpqUnVQTEFNd1FDbWVwaVFzU1BaRkYwcE1FazZya0JUYVJleC1WN1I3TFcyWXlvREd2Y3p6R0ZRNGFfbU1FNEhkSHZLblBSZw?oc=5",
-      "date": "Mon, 16 Nov 2026 01:32:00 GMT"
+      "title": "【更新】ごみ収集車と衝突 軽ワゴン車の86歳男性死亡 龍ケ崎（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54QWJQdzVITzdZTFAyc1NlTHVJdUpNdElOeDBNRnJrSTlOcU10ams1ei1BenJwLVRwQ3VQNVZaUVFBTGZXR19oYzRPN0xwWW5ta0wyMDMtb1JybXlZcEl6bDF5UWlVSlozUWVZSW1lTnpKM2Z3M1JZbTNuYnp3NTQ?oc=5",
+      "date": "Thu, 19 Nov 2026 03:13:00 GMT"
     },
     {
-      "title": "常磐道で7台絡む玉突き事故 2人搬送、1人重傷…通行止めは解除 茨城（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jS0pHR1BxYkhpdFBTMl9sVElvOTJLcFZFaG1CbXZDS3dwbnhlNHR2ZjdkMG1kYm83QjRYbDYxTHlLV3pBbUhXeTFmT1NCSXFmRTJaeDduNlpwWWxObUtYZ0ZNRkpWWGVzR3k3YVVxaWlSbENid1plenpaYXVQX0k?oc=5",
-      "date": "Mon, 16 Nov 2026 07:38:00 GMT"
-    },
-    {
-      "title": "【速報】茨城・かすみがうら市の常磐道で7台絡む多重事故 十数人がけがとの情報 消防",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xT2lPUGcxOXNIV2taSGQwUkpteHVqQlJWaUc2NlZJME5VRjhndmZqaHgzZnFDWldPQTNsbTM5QUNpd0xZamVFUHItYmNRTC1sT3p0SWR1SGIzcEFMXzNIQ0ZKOEZJNzFZNmx2eTFCOUpOZw?oc=5",
-      "date": "Mon, 16 Nov 2026 01:01:49 GMT"
-    },
-    {
-      "title": "【更新】乗用車が電柱に衝突 62歳男性死亡 土浦（茨城新聞クロスアイ）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QVNodWlYaFZKOFMxRVZJNlJlRTR3eWREVDNLVEVabkU1S3Q3RVlEUDRSbjZwY2ROYmJRekxIVEVrWDJtSXFhM0V1OG1ibXZiN3VKUC1yN0M3OFAtTEtiWjBxa21CT1I2QmJEOXJmaGJIWC1Ca0lVN3JHX2NickE?oc=5",
-      "date": "Wed, 18 Nov 2026 08:40:00 GMT"
+      "title": "【更新】トラックと軽乗用車衝突 男女3人死傷 利根（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Yd3B4QXFBVy1SVGdod212WjhGeXRBcGVhSWF5RzZDZi1Qa09OOHg5akstNFZtdWVzeDNiLTZHQloxUldfUHNvQjM0ejNjci1tUi1FLVFxRFdxbnZvUWJYTVZxelQ5Vi1hMldZM1draWt1N1lDR0FqVTNwYmhGU0E?oc=5",
+      "date": "Mon, 16 Nov 2026 07:51:00 GMT"
     }
   ],
   "official_links": [

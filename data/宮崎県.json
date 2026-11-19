@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-11-19T21:03:40.336964",
+  "generated_at": "2026-11-20T00:04:00.557345",
   "pref": "宮崎県",
   "region": "九州・沖縄地方",
   "capital": "宮崎",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 12.7,
-    "temp_max": 16.2,
-    "temp_min": 12.5,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 10.1,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 12.5,
+    "temp_max": 15.1,
+    "temp_min": 10.1,
+    "precip_prob_max": 2,
+    "precip_sum": 0.1,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 15.1,
-        "weather": "快晴",
+        "temp": 12.5,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 14.0,
-        "weather": "快晴",
+        "temp": 11.9,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 13.4,
+        "temp": 10.7,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 14.3,
+        "temp": 12.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.9,
+        "temp": 14.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 15.5,
-        "weather": "晴れ",
+        "temp": 15.1,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 13.5,
-        "weather": "晴れ",
+        "temp": 12.7,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 12.7,
+        "temp": 11.3,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRaHNBM0VHeXJPazBRbkVsVFVPVkxUUmlRMTJacjRUSWp4eEI1bkJEWVBVanpMNmlycldqUEhsVkNrMlBXLU92U2czYjJJblpmczRoSXhrbDZlbE1QYktHMm85QVhzaHdlb3FZTnNn?oc=5",
+      "date": "Wed, 18 Nov 2026 20:13:23 GMT"
+    },
+    {
+      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OVA0SGdlYTZtNmoxTlZLaTJBd2RPb2ZESjNGM2lWb21vRmk1eHQweEV3TEM5VWpnbGpzazZnSU9PUWhBZTNsWUIxTFFGLWtQNkwwN0pwNnVJeHpYMTJGeUwxejFmVElhd3VacTdmWdIBdEFVX3lxTE5tRm5xRjdpbGl0dTdPVmlEM0hONzVzMWRqZjFMN0x4LTlJZll2clJ5QzVIenhuYVI4RWR6MHh1NFhBQjVhazdVOXVYcGhkY0VBdUxMYzFJT0w2VldIeERXV09Ndk9PdjEtSTdjRUNkR2xHRkdi?oc=5",
+      "date": "Wed, 18 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95VVg0UTRCYkgxVWF2eG0wMGxZRjAxYWQtRElqdFh5TldQYWstS0NBbHhlYm5BeF9VMEJINlJ1SmlMY2ZTWjZSdk1Ed2JaY3JIV0ZySXhMMXRPd3BXclU4V2dtdkl0Q2YydWtJSmFENNIBdEFVX3lxTE50eWZJSXNpbHZibFNCNDNWamowTVhqbzBDNXFUYVRicFd4UW9nVFpOWkFQclFWc184R2x3TDRNcmIzSTFJMnUwblo1dldLVGJKVmVSeWVGaDNrMVRiS1pEUXpDM3hEc3hOTUtTTi0yUmZ5MzJn?oc=5",
+      "date": "Sat, 14 Nov 2026 20:02:00 GMT"
+    },
     {
       "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UN0hYaDVaeE50SXd1ZU1aejVhaXJ4UlJkbnlNZjBNTGFMbEhRcmdsaTcxajlzTlJDTWVkcWZYTmlONnF6ZnhLWHh5RnVJTmZEekMtM2U1YktEZnExMWw4STJPTUJuZHhKOWlfMmVLRG5iQQ?oc=5",
@@ -73,23 +88,18 @@
       "title": "「二日酔い運転も飲酒運転」今月からアルコールチェックの義務化 \"5類\"移行後初の忘年会シーズン 警察の飲酒運転取締りに密着 | MRTニュース ｜ ＭＲＴ宮崎放送 (2ページ)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrWnVsQlIxMmZ1MjBmZDlFdmIwa19NV1ZmUG1abU14a3BIUURzSmU3cno0VUNFOEFMNFpLdkpablpIUVhqbkVqR0lHT0d2Unh5X2xpazBXbmhhRzFjUlU5X0J3?oc=5",
       "date": "Wed, 06 Dec 2023 08:00:00 GMT"
-    },
-    {
-      "title": "【速報】れいわの山本太郎代表が法定速度違反で摘発",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWHd3QXhPQ0dIN0dNS3J3dHhDWWRIWUp3dEJfTGJrdmZmRVFxby1QTHRkd2lpaFhEREEtQ0N2Y0JndVpPMkpncHdCUQ?oc=5",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "宮崎市の交差点で軽乗用車と原付バイクが衝突、バイクの71歳男性が死亡",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ09qMmF5OHZucGdwd3NZeG1BUEZvSGlqRy1saTlqWllNaU1pMWdRSXpqWWZuY3NRaVZMUFNiVkdsZG1ETTRibzlzR29IZw?oc=5",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "宮崎市の複雑な6差路で記者実感「なかなか向こう側の対向車の様子が見えない」事故多発の実態",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kSmZZSlNraGpTS2JWbmxuRlM3RWtuYWNyaFNNa1V3TXlQcEdNbk1BNHg0OWpySU5WeDFRTjEtNy1OSVdPVjNXQTRLVXF3MXRlaWJDTFdkaw?oc=5",
       "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "宮崎市の交差点で軽乗用車と原付バイクが衝突、バイクの71歳男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ09qMmF5OHZucGdwd3NZeG1BUEZvSGlqRy1saTlqWllNaU1pMWdRSXpqWWZuY3NRaVZMUFNiVkdsZG1ETTRibzlzR29IZw?oc=5",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "クラブスタッフの交通事故について",
