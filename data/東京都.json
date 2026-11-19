@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-19T12:01:44.894557",
+  "generated_at": "2026-11-19T15:01:33.667947",
   "pref": "東京都",
   "region": "関東地方",
   "capital": "新宿",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 18.6,
-    "temp_max": 18.7,
-    "temp_min": 9.1,
-    "precip_prob_max": 10,
+    "temp_now": 17.4,
+    "temp_max": 18.6,
+    "temp_min": 9.3,
+    "precip_prob_max": 24,
     "precip_sum": 0,
-    "wind_speed": 9.0,
+    "wind_speed": 9.7,
     "hourly": [
       {
         "time": "00:00",
@@ -33,7 +33,7 @@
       },
       {
         "time": "09:00",
-        "temp": 13.9,
+        "temp": 15.1,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -41,44 +41,29 @@
         "time": "12:00",
         "temp": 18.6,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 17.3,
+        "temp": 17.4,
+        "weather": "快晴",
+        "precip_prob": 24
+      },
+      {
+        "time": "18:00",
+        "temp": 13.3,
         "weather": "快晴",
         "precip_prob": 10
       },
       {
-        "time": "18:00",
-        "temp": 13.1,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
         "time": "21:00",
-        "temp": 11.0,
+        "temp": 11.2,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OVA0SGdlYTZtNmoxTlZLaTJBd2RPb2ZESjNGM2lWb21vRmk1eHQweEV3TEM5VWpnbGpzazZnSU9PUWhBZTNsWUIxTFFGLWtQNkwwN0pwNnVJeHpYMTJGeUwxejFmVElhd3VacTdmWdIBdEFVX3lxTE5tRm5xRjdpbGl0dTdPVmlEM0hONzVzMWRqZjFMN0x4LTlJZll2clJ5QzVIenhuYVI4RWR6MHh1NFhBQjVhazdVOXVYcGhkY0VBdUxMYzFJT0w2VldIeERXV09Ndk9PdjEtSTdjRUNkR2xHRkdi?oc=5",
-      "date": "Wed, 18 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "11月15日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORzFWX0gxenNYVmpqa3VTaVAzanVWWEd2emI2SnNGdG95Q0h5LVZ0SjRjajVyLUhSS1pOZDBfSzV6LTZyNzZuX0VWZzhlbWpBMXcxRkpSc3pLVU1pb29NUTVSUW1OTmM?oc=5",
-      "date": "Sat, 14 Nov 2026 20:02:00 GMT"
-    },
-    {
-      "title": "11月17日（火）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hdjFUdDhldlRzbmhnWWl4S0dYTHhweDRpcE55QTBQYkZYaXZRTUkxZDNMSHJpSHc0elRNN2FQcVJWaVRsRUNwSE9TRV9pMnNBM3BLTHFSWGVXT1l5eEpCOWJNRFhjdjhWeUhOS09SONIBdEFVX3lxTE85RktQRjJ2M1dZUEdXM3VlT3I5MGMwTURGbVVCNk1VQTdnR1BnWW52azQ3aG5rMEh0ZXd2Ri1KMlBvX0FrOC1rOWdidHo4eF92eFhYZnJwYTE2bTlaVkhUbE9jTUNTVVNyd19pbi1uT0Q3Um9S?oc=5",
-      "date": "Mon, 16 Nov 2026 20:02:00 GMT"
-    },
     {
       "title": "東京都江東区で「不正改造車」一斉取締り実施 スポーツカーなど9台に整備命令",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdm5ySU1QZ3ZPX2Y5WjZNRWJmWVVXZ2JSMnV4UVJQdmJBUDFEWXR2TGxJUGtJZi0tTXN4VEo2T1pDM3N4Zjc3YmRReXVucm9NQXFqdFAzZ19XcFludHBEQlpPYXVqNGFEcWtpdXdha3NSQlA3eDNtaFR3Y1NhQmlaZk1nVU4ySE1z?oc=5",
@@ -88,33 +73,48 @@
       "title": "ガザ 知らなかったと言えぬ/イスラエルの検問制圧抗議/東京・池袋",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81djR4U0hac0xNNDUycm1LZlo0clltNGNtdnhVMV9GQ0lyZlVuWk1HdlhlbWNaWDV3a0NGTGRkd1hHek95eEN4NzdfUkRjemVHdnJpRVRzVzd0X050SWdlcmszb3h4cnBOQWVqdkZxc0FOM3o0d2c?oc=5",
       "date": "Thu, 09 May 2024 07:00:00 GMT"
+    },
+    {
+      "title": "「息ハァ～ってして……酒気帯びだね」 東京全域“大規模検問”で全乗りもの一網打尽！ でも「クルマは3人だけ」いかにも令和な結果に!?（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfYzhvbFI5WTROd0psdnRQd3hSMXZ6YXZ2eFdMblg2bUY0VUZESXZsMDA5TTNWMHhOT0ZpZml3a3lYNzlyc2FvWWdR?oc=5",
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "都内で飲酒運転の一斉検問、警視庁「飲酒運転は犯罪」（2025年7月4日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15VnhuRkhaVnJaYjdtLUR6MUhrekdWMTdyLXBManlHalViNVJLeEpRbnhTM0JuQ2gzV3ZaWGZPNUpkazlEUnYzdXMxRGlMUm4xNE1uWFNQMmRaUmZMSWp0YUdNczdNUE02cWxLb29ZTEs5bTFNTEcwMDg2WkI?oc=5",
+      "date": "Sun, 06 Jul 2025 07:00:00 GMT"
+    },
+    {
+      "title": "日中も「飲酒」警戒 午後4時から市原署が検問",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSOXpZNFA4SUtFZlk5R2YtdGhfQUdYdk9mdDFrNEI2SGwxSDkyeHoxRElWTDBrUDh1YXVFR0RyeEoxZ3NxX2toU3pKcG9xOHlJb04w?oc=5",
+      "date": "Wed, 22 Sep 2021 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "東京・港区路上で乗用車が衝突 歩行者の70代女性が意識不明の重体（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WaDAwaTg5YXNMRFJnX19ETU83N3o3SWhwblBfQ0ZweEFCclh4b3NtdW9tNk94c1RSbWo4X29Jb2I4N0lUYjJxdC0wYXU2MVo0U29UazlmNG85M1NRMkZlZTBFalpsY3kxTVZzU1RZRnFZVzFmTnl1elprRVZPV1k?oc=5",
-      "date": "Tue, 17 Nov 2026 10:19:00 GMT"
+      "title": "【速報】東京・国立市の交差点で大型トラックと自転車の事故 自転車の60歳くらいの女性死亡 トラック運転の61歳男を現行犯逮捕 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42OUhqNjZzUjJSSmtlWjBqYzJoV3FLcF8teDczX1prUUZnTUJRdmpOS3pMa0M2aGhPSG5OeGo0cE1mSWVzYTJieE1FYXBGNWJoMllmbUVNSQ?oc=5",
+      "date": "Thu, 19 Nov 2026 02:10:48 GMT"
     },
     {
-      "title": "東京外環道内回りでトラックが渋滞の車列に突っ込む 運転していた男性死亡",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eTlpSmd5UUl0dFhrcTY3NkhYamFMTlRBbVh6WTlfY281YUJGaFEzaW51V1R1RkdxT1ktRlZWdC10M0dXN1dsLWNGdXJNVHpycUV0X3JhUGZhSkk3RmZ2NDJjVkF4MHNoVGVkaHNET2lHUQ?oc=5",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "都内の1~8月の交通事故死80人 警視庁が街頭指導や摘発を強化へ [東京都]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TbUZMU0NWdHRINXNFQTBtbEk2cDNGUGM5VXhFWHdCQVdpQ0lNeXZFUndiUDZWVF9PSTQ5SzhyOUU2UnptbWdGYlU4ekZwWUcyMVBJTUF5V1YzNU02VlFCNTF3Ml9NMUk?oc=5",
-      "date": "Fri, 18 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "関東7都県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxYjBHam1abl9wZHpnRnNzTkxQSWFxZ0k1d2lBc0hhNWN1U0lfdEJiYkhQamFHLVJDeUoyYmtmaVpNMGYxWjE5X0N1R2pFNVB2YzR5WHY2bG5UUWRMTXFkbzEyLTQ4UWJoemhr?oc=5",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+      "title": "自転車が左折する大型トラックに巻き込まれ女性死亡 60代運転手を過失運転致傷の疑いで逮捕 東京・国立市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Sb2NkTTB5clV3UHpHR3RuYXVaRnF6M1d4ZUdHUmJGdFhtS2tsVUFnSGQ2MU1fM1AyenFpVHhFRFd1elFjeUpNdjZxeEhyUQ?oc=5",
+      "date": "Thu, 19 Nov 2026 03:35:00 GMT"
     },
     {
       "title": "クレーン車に追突され原付きの男性が死亡 英国大使館近くの内堀通り [東京都]",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6S2NpR09PbEhzcmdmd2xndURQbzJIX1Y4UkQ2WlFrSGc3dHhVSjJHNTc1YmNieXFxQThYMjNPZGJiaHB2STZ3a2RTSENCTUJ1Y3NUejhfd1VqU1otM1dvUlAyR285Y1U?oc=5",
       "date": "Mon, 16 Nov 2026 14:02:11 GMT"
+    },
+    {
+      "title": "車が歩行者と衝突 74歳女性死亡 運転していた中国籍の女を逮捕 東京・港区（日テレNEWS NNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02QmVFU0pLVVRlU0I2OHR3b0N4VnlIUktaa2w1SjBZSlFmUGVCN2UwbmE3LWpENkZFSWFfYlpmVlB3aEVselM2bU1BSHU1Tm42SWRhRU16RTVadjZ1MTFacFh6T2VPMXJ0TERiNGpJYk05TUt4NUFfUlJRS1V1ME0?oc=5",
+      "date": "Tue, 17 Nov 2026 15:16:00 GMT"
+    },
+    {
+      "title": "【速報】東京・中野区で刺され重体の女性死亡 東中野駅で男を緊急逮捕 警視庁",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HWENxR1JvUHRFMVMtLTJ3ZlRvNnhFclpROGk3eVRQMF9PUzZsRHlfTlhycS1NeVc4V041akJ3ZXc3ckFyYXpuUjk3M1RYdHQ3TmcwdFRHLVRSa3NTQjNPOTFPYUJRM0pzUUtlVTBUclpzdw?oc=5",
+      "date": "Mon, 16 Nov 2026 12:14:27 GMT"
     }
   ],
   "official_links": [
