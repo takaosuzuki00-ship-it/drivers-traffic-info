@@ -1,83 +1,73 @@
 {
-  "generated_at": "2026-11-20T21:02:16.132407",
+  "generated_at": "2026-11-21T00:02:21.473137",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 6.1,
-    "temp_max": 8.3,
-    "temp_min": 5.4,
+    "temp_now": 5.6,
+    "temp_max": 9.1,
+    "temp_min": 5.1,
     "precip_prob_max": 100,
-    "precip_sum": 35.2,
-    "wind_speed": 10.3,
+    "precip_sum": 22.8,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 7.1,
-        "weather": "雨",
+        "temp": 5.6,
+        "weather": "強い霧雨",
         "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 6.8,
-        "weather": "弱い霧雨",
+        "temp": 5.4,
+        "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 6.8,
-        "weather": "霧雨",
+        "temp": 5.7,
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "09:00",
-        "temp": 6.6,
-        "weather": "弱い雨",
-        "precip_prob": 100
+        "temp": 6.8,
+        "weather": "霧雨",
+        "precip_prob": 98
       },
       {
         "time": "12:00",
-        "temp": 8.3,
-        "weather": "霧雨",
+        "temp": 9.1,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 6.5,
-        "weather": "弱い雨",
+        "temp": 7.4,
+        "weather": "強い霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
         "temp": 6.2,
-        "weather": "強い霧雨",
+        "weather": "弱い雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
-        "temp": 6.1,
-        "weather": "強い霧雨",
+        "temp": 6.3,
+        "weather": "霧雨",
         "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "【交通取締情報】福井県警 ３月２６日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdW4zZWIyNEpNeFZENVhxZGZYRDNrVlVNUUhxRmpmbVhiWFZibVlGQjFkZHBOZkoxNVRFanU0U19RS3hBcE5fa3gxSk9GcUpPMmlwaDBYU2pzM1NTUkE?oc=5",
-      "date": "Wed, 25 Mar 2026 07:00:00 GMT"
-    },
-    {
       "title": "【交通取締情報】福井県警 ２月１９日 | 社会 | 福井のニュース",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DWlNaUXRlZ0w2TlQtTFpzUnpOUjdhUUJCdFQwcUduZTZDY2J5d3lBdFJlcGF6T2tNekRRcFEzY3pVcnNqM3A4cEpRMmM3QWlXaGRqZ3NlM3IwMV9KdXc?oc=5",
       "date": "Thu, 19 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "【交通取締情報】福井県警 １２月１５日 | 社会 | 福井のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKZjJBaWZyWE9VcGlVZnZrajZ6TE55UkZRSm1pYlptU2xhamNNQ0x2RnpKNWNNUnliVVFMQy1KOEVJclRxOFJnNHJpY24xVldwcGdtVVhQZUhjQnkwZFE?oc=5",
-      "date": "Mon, 15 Dec 2025 08:00:00 GMT"
     },
     {
       "title": "【交通取締情報】福井県警 １２月３１日 | 社会 | 福井のニュース",
@@ -85,9 +75,19 @@
       "date": "Wed, 31 Dec 2025 08:00:00 GMT"
     },
     {
-      "title": "【交通取締情報】福井県警 １２月１９日",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rclZlUU5ON2ZCUWE3LUpmeElZRjZ6dTR0RkRIY1NhbE9vYmIwTFNrUzFPMW1yQjhoZUtPU0xOQy16NU1HdDRzbE5Yc1liX0JzU092RUNpcF8yaEJaS1E?oc=5",
-      "date": "Thu, 19 Dec 2024 08:00:00 GMT"
+      "title": "【交通取締情報】福井県警 １２月１５日 | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKZjJBaWZyWE9VcGlVZnZrajZ6TE55UkZRSm1pYlptU2xhamNNQ0x2RnpKNWNNUnliVVFMQy1KOEVJclRxOFJnNHJpY24xVldwcGdtVVhQZUhjQnkwZFE?oc=5",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒検問中の警官ひき逃げ、ゼブラゾーンで退避場所ないなど不備…車誘導の資機材設置場所も不適切",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtQTY2X0t0aEhhbGliekQxdUEyaWpyOEZZQjhadnFYRzNrTVZmOTdkTS1ZNFNmSnlyZ0lwTHZubGIzZ21UYTFpTnExYTNCYVFZaUlQdmZRLV8xdzZ6Yk82V0ZlMUZtdw?oc=5",
+      "date": "Thu, 28 Mar 2024 07:00:00 GMT"
+    },
+    {
+      "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SbDNoa2Y2T0d6UDB3dXUxdEFWT25XZDgzQTZ6V2ZUT3Zab25OZkRXWkxMeWFFdkk3SVFuNEFvTExDV1Q4VTdDRmE2THItNF9GNHFaQg?oc=5",
+      "date": "Thu, 25 Dec 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -112,9 +112,9 @@
       "date": "Fri, 20 Nov 2026 07:03:01 GMT"
     },
     {
-      "title": "福井アリーナ27日から作業再開 現場近くでのダンプカーによる交通死亡事故を受け中断 当面は土砂運搬行わず",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNSjFjVHpBMUZ3R1c1bG5xaTlEOEVDVWpkMjVfdXM2UTg3NW5OQ1Q3TkVLWFlXeGMwNVB0OE90QzFzc3FtNUdteW9wbFFKeTBQM3B6eTg4b0tOb01oOVUzVG1EZG5kb1VVdHljREhBUHVaU1l2amZndWZTcFppa3ZDR3JlbjhxZlB3MC1Ealh1dFFHZVlmMmprU05WS3ZjRm9ENTVoU3hOZVhYZXJ0R1NLUmNnYnhrVWpUM1RIZEZZRDJCc0RpMGVfS2hrY3MxSjVvTV93V3dZNGJxVzdWY1NFM0dpc0dmR2tvRGNGNDJRRG9SS1NGNHE2ek9rZTh6eElQQmRQeldjaVM4X1FBNms1SmxGbC0wYzNMYVJaclVRX2tjZmQyRmJoRUU3Vm96X1NqU3g1X3liY0NmOXZ0RUo0V0ZfeDRPX05QQmZ0SVVYeXlWcDhpQUZ4bklWMA?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+      "title": "道路を横断中の84歳男性が右折車にはねられ死亡 勝山市の信号がある国道157号交差点｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOdDFUNTNaeVBwbnVnQVphOWVOU3ROMG43MXdyZUxNZlQ5SVlUdl9KOUJZb0swQkVBTzFIcmROaVBJMWg0Qm44MmRZQmdJRnBBTC1kTEdXajVUaE5xbVBlU1hFSExPb2hZWTJlOEZaS2ZHSkdSc09YdjhFVDYxV2xfdnY0dkZMTVZIa2MwOXNwNXU1RlV5S1lyaGdmbVVQdXFwclVXT0gwV040a21TN3NfZmF5RjN5NWxLWmh0OHVMYThhR1NBOTRnUmFmdWJtbTNTQkxQdXVjeUJVWGF0MzhlWl9Eb3pWSUVCd00zaHF5cnBudkVwRTNaLWR3elBVcGVNWjYwQV9sY0ZaRDJpU215dzljMkxsWmlHZnR0MnNlNFN3akp2eWJIWE5FNEczSXQwWGNXNzFfZEhTQ3BFYjlQbEphMWZ0VlRIYTRudW92RGJ5b0hLTk1xZkFiOA?oc=5",
+      "date": "Fri, 20 Nov 2026 06:30:10 GMT"
     }
   ],
   "official_links": [

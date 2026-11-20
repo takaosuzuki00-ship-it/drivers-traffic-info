@@ -1,83 +1,73 @@
 {
-  "generated_at": "2026-11-20T21:03:34.628510",
+  "generated_at": "2026-11-21T00:03:47.731352",
   "pref": "愛媛県",
   "region": "四国地方",
   "capital": "松山",
   "weather": {
-    "code": 3,
-    "weather": "曇り",
-    "temp_now": 9.2,
-    "temp_max": 11.0,
-    "temp_min": 8.5,
-    "precip_prob_max": 100,
-    "precip_sum": 0,
-    "wind_speed": 15.9,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 8.8,
+    "temp_max": 10.6,
+    "temp_min": 7.0,
+    "precip_prob_max": 98,
+    "precip_sum": 5.4,
+    "wind_speed": 19.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.7,
-        "weather": "曇り",
-        "precip_prob": 100
+        "temp": 8.8,
+        "weather": "晴れ",
+        "precip_prob": 27
       },
       {
         "time": "03:00",
-        "temp": 10.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
+        "temp": 7.8,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 9.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 75
+        "temp": 7.6,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 9.5,
+        "temp": 8.8,
         "weather": "晴れ時々曇",
-        "precip_prob": 71
+        "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 10.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 78
+        "temp": 10.3,
+        "weather": "晴れ",
+        "precip_prob": 2
       },
       {
         "time": "15:00",
-        "temp": 10.3,
-        "weather": "晴れ時々曇",
-        "precip_prob": 84
+        "temp": 9.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 71
       },
       {
         "time": "18:00",
-        "temp": 9.9,
-        "weather": "晴れ",
-        "precip_prob": 39
+        "temp": 8.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 9.2,
-        "weather": "曇り",
-        "precip_prob": 14
+        "temp": 8.2,
+        "weather": "強い霧雨",
+        "precip_prob": 94
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zNUUwZEMzZFRJVzBFQUl6WmlqV2ttZzlHclpmWm8tcTVOT0NjSzBwLU0yQ1padDB2U3dNY2ZSLXBLM3R4aHdPbVZFdngyVUx4S1BvU25RdHlzQTA?oc=5",
-      "date": "Mon, 16 Nov 2026 20:00:00 GMT"
-    },
-    {
       "title": "１１月１５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bDI3M2g1bmNpeGlwcUV6SjU5VVdyMFl6Z3oydGtUb2lVUjE4dk1LS0hyYXFSRmhaZ3dKVWQzaEhNVU9WSDN1Q3dRdnE4TGxvdzVwcThIaGJ5MXJRY2FaaDRqM01rQ205?oc=5",
       "date": "Sat, 14 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
-      "date": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "１１月１４日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -85,9 +75,19 @@
       "date": "Fri, 13 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
-      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+      "title": "「飲酒運転」検挙の4割は自転車…松山市の中心部で飲酒検問（南海放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUnN1dVo2STZKc1prUVNCc200T2RWYlM3LW55bkprSzlfdUs3Ukh3NUp6Y0lEc256c1FkU1hwNWd5Y3VnOHpYS2lmRklJT0pRaWxOVHZwTnNSY015YnowbFZGSjhGWjlQY01SS09iMVRNT0U0ZjhTS0lnWmktb1E?oc=5",
+      "date": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "１１月１０日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wbm5BZDRyVkxKaVEtUE1TakdvOGNTcDU1cmtYX3J3eWgyOU8tbWJqUUN4SWtvRGxoOTlLczBvRm9wWW1mZVRlMnd5Sm1lM0N0X2NMaS1lZGdqbzA?oc=5",
+      "date": "Mon, 09 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "１１月１３日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTWxMWm81YUhIaWh3ZF8xSzVhbi14WGRiSV9xTmh6MUx5d2xZVWlDX1NkdUJEV0ZqQUQ5OE8xTlNIVXAtTTBzNm5zdnhGb1c5MjFzWWprR054di1qbGMzMWZKd3dyemxn?oc=5",
+      "date": "Thu, 12 Nov 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [

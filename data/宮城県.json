@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-11-20T21:01:11.394231",
+  "generated_at": "2026-11-21T00:01:07.209457",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 3.0,
-    "temp_max": 6.2,
-    "temp_min": 2.5,
-    "precip_prob_max": 100,
-    "precip_sum": 7.3,
-    "wind_speed": 1.3,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 2.5,
+    "temp_max": 6.1,
+    "temp_min": 1.8,
+    "precip_prob_max": 90,
+    "precip_sum": 2.2,
+    "wind_speed": 2.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 4.8,
+        "temp": 2.5,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 82
       },
       {
         "time": "03:00",
-        "temp": 4.4,
+        "temp": 1.9,
         "weather": "晴れ",
-        "precip_prob": 100
+        "precip_prob": 90
       },
       {
         "time": "06:00",
-        "temp": 4.0,
-        "weather": "弱い霧雨",
-        "precip_prob": 100
+        "temp": 1.9,
+        "weather": "晴れ",
+        "precip_prob": 73
       },
       {
         "time": "09:00",
-        "temp": 4.8,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 3.6,
+        "weather": "晴れ",
+        "precip_prob": 67
       },
       {
         "time": "12:00",
-        "temp": 5.8,
+        "temp": 6.1,
         "weather": "弱い霧雨",
-        "precip_prob": 100
+        "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 3.7,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 5.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
       },
       {
         "time": "18:00",
-        "temp": 3.2,
+        "temp": 3.1,
         "weather": "弱い霧雨",
-        "precip_prob": 100
+        "precip_prob": 86
       },
       {
         "time": "21:00",
-        "temp": 3.0,
+        "temp": 2.0,
         "weather": "弱い霧雨",
-        "precip_prob": 98
+        "precip_prob": 53
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
-      "date": "Fri, 22 May 2026 07:00:00 GMT"
+      "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
+      "date": "Mon, 13 Apr 2026 02:50:58 GMT"
+    },
+    {
+      "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
+      "date": "Wed, 15 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "宮城県内25か所で一斉検問 飲酒運転の摘発が増加傾向",
@@ -75,12 +85,17 @@
       "date": "Sun, 02 Jul 2023 04:19:38 GMT"
     },
     {
-      "title": "忘年会シーズン 宮城県警が一斉の飲酒検問 「飲んだらハンドル握らない」",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oRjdaUldjWjcyTHNnS1VmMUJaUENOcHNKWVZXWUhFYl9nc09sWi1MX05zY2tjN0JPdUVaZjg3VHMwTG0zbjZjS3p3X3JURG8?oc=5",
-      "date": "Sat, 16 Dec 2023 09:32:16 GMT"
+      "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tcG1ZbXVNV2NDRHBNb2xJV0tHQXdpUk9oX1REYW1xQkhlMEVqcW9uRDlUR2tyeWllczhjRnc3TFZGUDlXRzgwUTViMUNzZjV5SlM5TE05UktmX1diWXJyWGtqR3o4SG5l?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
+    {
+      "title": "フェンスをなぎ倒し停車…若林区卸町東の交差点で乗用車同士の事故 男性1人けが 宮城・仙台市（ミヤギテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peG1NVEg0dDJlQVE2X3RnNlhJWFVXczNodURvazdJTnI5azhSTlF6MEVGdnRnNXlTV2VfWnR2SzkwN20yajJ1RmFpYmVwTWVqWnhRd0JKVDdYMmUzRDg5eVNWY2lIT3JBOGhMTFZxOERVNWwyYU5SUnJNSXoxdTg?oc=5",
+      "date": "Fri, 20 Nov 2026 14:14:00 GMT"
+    },
     {
       "title": "秋の交通安全運動期間中 宮城県内の人身事故47件で2025年より1件増加 県警が早めのライト点灯や反射材着用などの徹底を促す",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVElEZEpKbVZZRERCVFpoY1c3a1dWeWtPVTRWVmxBZUFmdVBuRXNVeUlMWVpkSXpydEcwQlN5OHNoUTF6MDE0bHZSdEcyZW5pZE5kc1h5VGJDVi1hQVhnMDh5YlhkUEE?oc=5",
@@ -92,9 +107,14 @@
       "date": "Tue, 06 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQVFFZ096dEc1Y0xxakxLZ29KXy1kSmVIeEwwYXR2UkNNSzEyX3FMVmJrZWIzbDNHUEJxcWMtY3RSbGdKQzNEdnlBN211SUh5akY0ZUI3bHJYNXl5Wl9TU24wWktJTXlfSnRB?oc=5",
-      "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+      "title": "宮城・南三陸町、「交通死亡事故ゼロ」4500日達成 継続中では県内最長",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CWDMtUldBUkQ0N0pxRjhlOUowNk5ReDVvVF9PdWdpdHNveWNTeUczTk1lczVBSDRBLWtmWjI2dkxMYVNBdVp2SjJfX0p4WGctMExib29pdlVsX3JETmxpSQ?oc=5",
+      "date": "Sat, 26 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "【謎】仙台北部道路で死亡事故 安全な「ワイヤーロープ」はなぜ現場になかったのか？",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1scVpRNVdDdE1SV0I3SndIajVWN1lEWC1GNG5xTUdVRFpMSjdaU0dBY2U3OW1MX1pXMlktM0JURm5BYnYzNTNDdUNqS0ktcWdia3RqV0lDQQ?oc=5",
+      "date": "Wed, 18 Nov 2026 10:08:00 GMT"
     }
   ],
   "official_links": [
