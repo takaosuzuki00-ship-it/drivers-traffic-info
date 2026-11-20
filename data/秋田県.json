@@ -1,84 +1,69 @@
 {
-  "generated_at": "2026-11-21T00:01:11.491900",
+  "generated_at": "2026-11-21T03:01:23.043807",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 4.1,
+    "temp_now": 3.8,
     "temp_max": 5.8,
-    "temp_min": 1.0,
-    "precip_prob_max": 94,
-    "precip_sum": 9.6,
-    "wind_speed": 21.9,
+    "temp_min": 0.9,
+    "precip_prob_max": 100,
+    "precip_sum": 11.0,
+    "wind_speed": 19.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 4.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 92
+        "temp": 4.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 3.9,
+        "temp": 3.8,
         "weather": "弱い霧雨",
-        "precip_prob": 84
+        "precip_prob": 90
       },
       {
         "time": "06:00",
         "temp": 3.7,
         "weather": "弱い霧雨",
-        "precip_prob": 71
+        "precip_prob": 67
       },
       {
         "time": "09:00",
-        "temp": 4.9,
+        "temp": 5.0,
         "weather": "弱い霧雨",
-        "precip_prob": 49
+        "precip_prob": 51
       },
       {
         "time": "12:00",
         "temp": 5.8,
         "weather": "晴れ",
-        "precip_prob": 67
+        "precip_prob": 78
       },
       {
         "time": "15:00",
-        "temp": 5.5,
+        "temp": 5.6,
         "weather": "晴れ時々曇",
-        "precip_prob": 55
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 4.0,
-        "weather": "霧雨",
-        "precip_prob": 84
+        "temp": 3.5,
+        "weather": "強い霧雨",
+        "precip_prob": 90
       },
       {
         "time": "21:00",
-        "temp": 1.1,
+        "temp": 1.0,
         "weather": "強い霧雨",
-        "precip_prob": 94
+        "precip_prob": 92
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rSExNd3MyQmdMNDdId0RIQ1VGTERSaVU0dFdsc3Q4X0MxTXI1aDFxQUs4ZThvNnljRU9SWm1VM3NjZXlvT2RfSjJTRlpJUWNtTUswVU1YVV9BQQ?oc=5",
-      "date": "Mon, 16 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSlhjakVUXzlkbFFUWlY5TUNELWRaTEV0bGRnZ245dEx4VURicmFPWHcxcWQxZVpGN0Rib05rUzU0U1dFTGZZTG1iSlMwQWZJOHJ1eUUzZnVJSVdPejIxcUNrb2wxb1huSkRhNWFxZllZbmFQT21QRFVWbnVKaVE?oc=5",
-      "date": "Mon, 16 Nov 2026 20:00:34 GMT"
-    },
-    {
-      "title": "覚せい剤取締法違反などの容疑　密売グループの愛知県の男3人を逮捕　/秋田",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6YTJpTzl6YnIybGlWWHB4Y0ZZYmRrWkNpdWx4M3o1T0h5V2tZM2hIY1oxa3pFR2pTLUg2NFNHWVNnWTlTTjU3VjhNUVNnNUlWTFdMcjVrVnNQUl9TZDZRZTh6dTJkUmpiY3FFLdIBckFVX3lxTE9xWnVhdXRNbjhTTXhKWlRNY3pySnNsWGRLNTRpNFlGdW44MlJ2OFFqb0FYa21VUDJJSUJueDJINVNtZjNmMnJaRFoyQzdMV19md0xOWHpIb002dnotYWlnZXpHQlBiVExrNFVkM01CdS1LQQ?oc=5",
-      "date": "Thu, 19 Nov 2026 09:33:00 GMT"
-    },
     {
       "title": "秋田・速度取締りで起訴無効の判決",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSlIxQ2lEVWs0aTNDOWg5MnBCU1Bua2JmNkRCeTN0SFJ3NU5TT3dfWlhid2czQkktOVBlTmhEWnhlZUJXbDVldk91RGZ2dk1weU5jZUpTWVM0ang0T1hQdm13aUYxLWVGRXBsME5BT3l3UkxyZWhyT1hVWEhOdjVKekxraVNKTE9MTHdvaE5ya09IR1EyNVYyUlBXaXFsX1RRZmJXLVNZNUg2ZHVtSjJySklrSUZleEhQNDZORV9IcmdrcVlsLWZST1J1a3Q2SDZNV2NkSVkwU0tYODNRSVN4MzBOcFZfQ2tCT05RWk9hY3ZyaUJ4U1hJb1VMQmltVFFWX1hV?oc=5",
@@ -92,9 +77,9 @@
       "date": "Fri, 20 Nov 2026 02:31:00 GMT"
     },
     {
-      "title": "にかほ市、交通死亡事故ゼロ７３０日達成 秋田県と県警が表彰",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tLUV6Mm1aNG1mSU95QnYtdDhCYWpaT3JHNTRHOWFrazc3RTZvc084TlowZ3pWbUw5cGlIbC1WVUY5UWZqVkNnZ0NkYk5ndzhxVGZGZUVIQl9PTHA2V29XNDl3?oc=5",
-      "date": "Wed, 18 Nov 2026 06:10:00 GMT"
+      "title": "車にはねられ６２歳女性死亡 にかほ市平沢の市道",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBORDlGbkxKbE5GRVV6V3k5eUF0OWxSSzRlbjdGVE9LUFhiZGVCUjFRc3I0MmxsNXdjWWpFMlMyaGdrS0pfRU92bEFQc0Z1Rm1NNWlnNlNpTUtxOTVkeDc3TzdB?oc=5",
+      "date": "Fri, 20 Nov 2026 03:05:01 GMT"
     },
     {
       "title": "防犯カメラが事故の一部始終捉える 車が歩道に乗り上げ横転 運転手の命に別条なし 秋田市",
@@ -102,14 +87,14 @@
       "date": "Thu, 19 Nov 2026 10:00:00 GMT"
     },
     {
-      "title": "にかほ市の市道で交通事故 60代女性が車にはねられ死亡 /秋田（秋田朝日放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSTZ5ZGw5clNJZnU5VzVranVWQlZUQ3RkSUdVemEyQlZISHZPZDVlTWJkRVY1bzdqNzRkUVVGUTB1LTIwUmVfRU9WYVoyZVQzaDcyYU9HNTRKWVZXV2ZHZXJxOHhvUXo4UEl0S251Y3cwTVBYVkJQYVpzRFhnNDg?oc=5",
-      "date": "Fri, 20 Nov 2026 03:23:01 GMT"
+      "title": "事故の瞬間をカメラがとらえる １４日秋田市の臨海十字路で車同士が衝突（秋田朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93VUcyQ1huaXpSNUJIRkR1T2ZnMmlpTE9xR21BdUIxSkJtTDc2UDVkQ3cwMzhmNk1HWnF4TzRQYWc1SkpxMFg1QjhOOWRHUDh0M1pEamd0MWhsckM4NzFrcWlEQ1ZBTWpzcnNWOWJHSDlmakRSNVVTX0V6TGVKREE?oc=5",
+      "date": "Mon, 16 Nov 2026 03:03:02 GMT"
     },
     {
-      "title": "軽乗用車がガードレールに衝突 「運転手が脱出できない」と通行人が通報 運転していた女性は死亡 秋田・大館市",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWdzRWo0NFBZazNXMHZ0TWI4WElJNVdwUEdveEZoNTBYZHZqeFREN0J1OUdwZHE0ejhyaXF4U2ZXanNYNmFjVzJUdXAtNDY4V004cTI0eDcwS29ZbmpiN0Y5aUtHTU9YVkZ2cFN6OUFrMXp4aUF4TFBlNnY2RjU0NGNaeTB6YUE?oc=5",
-      "date": "Fri, 20 Nov 2026 09:08:00 GMT"
+      "title": "乗用車がガードレールに衝突 運転手が死亡 /秋田・大館市（秋田朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tN0d3VzhMeWlMXzdEak84WUpjaFhZSTFlVG9KM0c4dkxNS3ZROVFCLWNFUjZKZGU4bnZsbC1UUHFwTzVVeWd5dldEenk2b3JqcTJIMUd0M3pKMlZpN2g2aGxnODhqMld1TWg4TnF0YU1WZjZ1bjZkOVd0dGsydTg?oc=5",
+      "date": "Fri, 20 Nov 2026 08:25:01 GMT"
     }
   ],
   "official_links": [

@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-11-21T00:02:46.020526",
+  "generated_at": "2026-11-21T03:02:38.212247",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 7.5,
+    "temp_now": 7.4,
     "temp_max": 11.5,
-    "temp_min": 6.6,
-    "precip_prob_max": 2,
+    "temp_min": 6.9,
+    "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 16.2,
+    "wind_speed": 18.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 7.5,
+        "temp": 7.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 7.5,
+        "temp": 7.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 6.8,
+        "temp": 7.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 8.5,
+        "temp": 8.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 11.0,
+        "temp": 11.1,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -51,23 +51,28 @@
       },
       {
         "time": "18:00",
-        "temp": 9.1,
+        "temp": 9.0,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 7.4,
-        "weather": "晴れ",
+        "temp": 7.3,
+        "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月20日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTYmdUV1pRUFNKQUdpdkkzRy1kMGVJcVRzS0RmQ2xoQ2JMaUluMWd0c2gtZlNSbTFqZWMzNUh4VlpibHQtMXNPWHRqNVNaV1doMVpVbUlfQnZtQjN5NjhBaWFtWFBmbFNFOEpwRUZlWdIBdEFVX3lxTFBYc3M3bjNURGFCSmFfVExRaWg5SjZyeDctY3Z0aWFaUTNIUV9WS2EyTndyaEJVY25fQ2k0WnVudG9kaGphRVVnYWpPZHNGbHZZTDlXUXExcHpHbWlHU2d2eG1GOGtHNkFUeHpZcVB0TjdDR1cz?oc=5",
-      "date": "Thu, 19 Nov 2026 20:00:00 GMT"
+      "title": "11月20日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeFdnb0YwdkQwOThLV2JHOEEwVkI1YlRLLTlUVHZraWRuSDY2U2JUQVhtSzBTNnRvMktTNVlCd1hJQV9fWFFiSWpJb2dQTVFTY0xzczBjWTE5ZWt1dVRuSnVpbllHZExDMHMta195RdIBdEFVX3lxTE9LRUhpY21va0RWSXNGb2c3R3JGVjlidUZBdkMyd0RYVWpPYUktY1cxLWlTVVRzVUstSWJfQzNjNFY2QUxOUHBkVFVCMkc1aGdTNlJqWUo3R3k0Z3c0eEtoQjhXXy1DdV9fb2c2STZLWG1mOGhF?oc=5",
+      "date": "Thu, 19 Nov 2026 20:10:38 GMT"
+    },
+    {
+      "title": "１１月１５日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IRldpNGd5ZFN0VXVNOXYyTFAzcldSUWNoeFhZdlFLdnNqaV9sS2dpeF8wSlFwMUZWUV9walVFVFotbFQwOUxHeGpUOGRPRERwc2luZEFZc0tBazNybXNsbHZiWVVTVGtjLXk4SEV3?oc=5",
+      "date": "Sat, 14 Nov 2026 20:11:24 GMT"
     },
     {
       "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
@@ -75,19 +80,14 @@
       "date": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "11月19日（木）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44OVA0SGdlYTZtNmoxTlZLaTJBd2RPb2ZESjNGM2lWb21vRmk1eHQweEV3TEM5VWpnbGpzazZnSU9PUWhBZTNsWUIxTFFGLWtQNkwwN0pwNnVJeHpYMTJGeUwxejFmVElhd3VacTdmWdIBdEFVX3lxTE5tRm5xRjdpbGl0dTdPVmlEM0hONzVzMWRqZjFMN0x4LTlJZll2clJ5QzVIenhuYVI4RWR6MHh1NFhBQjVhazdVOXVYcGhkY0VBdUxMYzFJT0w2VldIeERXV09Ndk9PdjEtSTdjRUNkR2xHRkdi?oc=5",
-      "date": "Wed, 18 Nov 2026 20:01:37 GMT"
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
     },
     {
       "title": "死亡事故多発で一斉取り締まり 三重県警、速度超過など摘発",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKcS1IV2QtMFcyMFJJV0VKc05Ca0REVUVxaTZDN0pJX3ZLOTlHalpUX01HMTJ3OEdKVkp5VGpiSTlwMHR3ZTdtT3g3T0JneWdQcUxlaA?oc=5",
       "date": "Thu, 11 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "title": "低速から高速までの速度違反を繰り返し、約60kmを走行",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdm5jZG5DTWYwMEZxbFlhVExXVGJZQWFtaGJhaFNVTlFrcDVUVVBKMWFoMmlmaENXZjJRWF9KQnFtWVcydVVFMVYzc2c5X3BHU29oc3NudmpGajV1YlY0?oc=5",
-      "date": "Wed, 28 Mar 2018 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,14 +102,14 @@
       "date": "Thu, 19 Nov 2026 21:27:00 GMT"
     },
     {
-      "title": "県道を北進中のバイクと右折車の衝突事故でバイクを運転の22歳男性が死亡　三重・明和町",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CaDBTQ3QzcGtrT18wR3ExSHNiZ0hrcFNjWXNfY3pVV2xzWkxaYm5aY2szNDNyeV9vTDFVbUdDZnFVbzhHYXplcFc5MV9UaXlRR1HSAWRBVV95cUxQNUZGNnlZOUhOdXpWMWVJVTNTS2dsLVNSZHozRDZMNmtBYkJFaDg2T2RPYkpIQm9IQnNBVk5manRnMXNVSVo1QUZ3a0NURXhSeWcxMGs4TWliY1c0R3NXTmVIS1JC?oc=5",
-      "date": "Thu, 12 Nov 2026 17:28:00 GMT"
-    },
-    {
       "title": "日没早まり交通事故増加に警戒 三重県警が一斉パトロール 死者は今年50人（三重テレビ放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lZGpYbU9TUzBNR2JEUDl0MU9CS09xTTAtLVRHMkpEVHZmQXVnTC0yV3owbGtHcjRuMHJVcmNoX0doQkQwbDRqM2lqdnVuZHdHQ0tMaUtYZjh6eDVwUFlkYWx1NUNJTXpKcVBpOVB2S0RoOXRZSWJtV1JiSU1SNW8?oc=5",
       "date": "Thu, 19 Nov 2026 01:01:24 GMT"
+    },
+    {
+      "title": "国道23号でバイクと大型トラックが衝突する事故　バイク運転の17歳の男子高校生が死亡　三重・四日市市",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtUVNiaXlOV25FRkpRUkppX1FqUmFyVHJvSHZrX2tkWTc1YXB6bzZLM3AxeXllZ0xPNWk0VkJCMkhYOWFWT0Jqeml4VzY0WnIwSnfSAWRBVV95cUxQeF9DMFdLX21vbWRSM2cybktEbmFWQlQ3RU5QamlENDVqYXQ4WnR3amU0dlctZEFRaWdzcjhhay1GcU5PSDlZWXkwQkppZHE1Y2VDLUQtV293a3JpdEdoYnlSdndK?oc=5",
+      "date": "Thu, 19 Nov 2026 06:38:00 GMT"
     },
     {
       "title": "三重県で交通死亡事故が急増…県警が出した答えは「赤色灯フル回転」",
