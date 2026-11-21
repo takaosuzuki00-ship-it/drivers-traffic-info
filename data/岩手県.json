@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-22T03:01:28.628453",
+  "generated_at": "2026-11-22T06:01:45.199893",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": -0.1,
-    "temp_max": 6.9,
+    "temp_now": -0.4,
+    "temp_max": 6.7,
     "temp_min": -0.6,
     "precip_prob_max": 57,
     "precip_sum": 0,
-    "wind_speed": 3.1,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 0.4,
+        "temp": 0.5,
         "weather": "晴れ時々曇",
         "precip_prob": 57
       },
       {
         "time": "03:00",
-        "temp": -0.1,
-        "weather": "晴れ",
+        "temp": 0.1,
+        "weather": "晴れ時々曇",
         "precip_prob": 25
       },
       {
         "time": "06:00",
-        "temp": -0.5,
+        "temp": -0.4,
         "weather": "晴れ時々曇",
         "precip_prob": 14
       },
       {
         "time": "09:00",
-        "temp": 2.7,
-        "weather": "快晴",
+        "temp": 2.6,
+        "weather": "晴れ",
         "precip_prob": 6
       },
       {
         "time": "12:00",
-        "temp": 6.8,
+        "temp": 6.6,
         "weather": "快晴",
         "precip_prob": 4
       },
       {
         "time": "15:00",
-        "temp": 5.9,
+        "temp": 5.8,
         "weather": "快晴",
         "precip_prob": 4
       },
       {
         "time": "18:00",
         "temp": 3.3,
-        "weather": "晴れ",
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 2.4,
+        "temp": 2.3,
         "weather": "晴れ",
         "precip_prob": 0
       }
@@ -65,9 +65,19 @@
   },
   "enforcement_news": [
     {
+      "title": "11月22日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GSXhWTHB6YllPRjE3WHliUlg3dERPNDA3OHJYaFk4WUJXSlZHMmkzSFFoSWF1X0oxdlplNmh1cy1iWHBMTHJ5YnlpeWstbnA3V1pyZER1NndKNmpJSm5wRlZfRURQbWFvblZySzZB?oc=5",
+      "date": "Sat, 21 Nov 2026 20:13:21 GMT"
+    },
+    {
       "title": "11月21日（土）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02Nm83YmlGa0tpN0R6OGpOdklTMVl3b2RtbnRZV2h6bzBHVXhtZjlPc0k5cTJMUTl6RnV6UTROZWkzWUNNUnc1V0NjWGZQQ0xyNEpNRExLbFhNQ050SFNfU1FBZkk0MkxIREtTVUIwTnhKbDNXNTlzVzJGd3VCNkk?oc=5",
       "date": "Fri, 20 Nov 2026 20:00:32 GMT"
+    },
+    {
+      "title": "11月22日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnY5UXBzRi1zT1kwWmg1WEJMYzVuZmFtZm5UXzlxaFRzN1o1REswZi1SejhsLWplbGxNMWNxYVhaNTFBY2YtSDJ5Z0dpWUJLNURVRlVIVy1XX04zSEprTkxlTFdVTkozZTRXdWhBeTF0QnpSLXpzN2hEbl9NVlJwZmtwQXIxQjJZZFVlcWlwaVJ5UVVhZnpoQ1JZclUzNUhaWkN5Ym11R3BuUk0zM1V5VDRkcWQ0Wlh3TmdKZUdsY1UzOVIx0gF0QVVfeXFMTjNSODVqWS1mS2RpNDIxdUFZSWREOEtNelo3SXZvbGxkVHBKaTRrazdMbTYzdUctYnl5X19BejRUcEFfcFJoUmV0MG1zUXV4SDRWcFNUNlAxbzBBQXlvdGp0YnJNUFRBLWRuQkdJNF93RTBmR0E?oc=5",
+      "date": "Sat, 21 Nov 2026 20:09:07 GMT"
     },
     {
       "title": "11月17日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -75,19 +85,9 @@
       "date": "Mon, 16 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "11月20日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTYmdUV1pRUFNKQUdpdkkzRy1kMGVJcVRzS0RmQ2xoQ2JMaUluMWd0c2gtZlNSbTFqZWMzNUh4VlpibHQtMXNPWHRqNVNaV1doMVpVbUlfQnZtQjN5NjhBaWFtWFBmbFNFOEpwRUZlWdIBdEFVX3lxTFBYc3M3bjNURGFCSmFfVExRaWg5SjZyeDctY3Z0aWFaUTNIUV9WS2EyTndyaEJVY25fQ2k0WnVudG9kaGphRVVnYWpPZHNGbHZZTDlXUXExcHpHbWlHU2d2eG1GOGtHNkFUeHpZcVB0TjdDR1cz?oc=5",
-      "date": "Thu, 19 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "11月20日（金）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XY3A5enB6VUZDeUYxYmc5aS1ncTlYT2xQTF93YjNrcmdnVi04dWs2NlJGTTlmZjExYVhfMkdSeG9nY203clBQc04tZ2MybmtxYktqUG9YT0lxd25UY1ZKZTg4Vmg3NFJtdmI4Y1ln?oc=5",
-      "date": "Thu, 19 Nov 2026 20:13:17 GMT"
-    },
-    {
-      "title": "11月16日（月）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGQVVUZGZMVXljb3FBd2h5TDN3QnMyUGR4TVlWRW5wUDZvRTVxUlc1bDNtSkw1RDNzS2VaNkstamJiT0Q4NkVzOHdTSUJMM1RYV2hKWGtsejhnZw?oc=5",
-      "date": "Sun, 15 Nov 2026 20:00:00 GMT"
+      "title": "11月20日（金）【岩手県】 日中・夜間の交通取締情報（IBC岩手放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUVhhSXdUbHZjMThEUDd0WjdwbXp3NDlIdGJxSUdwUV9nRnNpVVZBTlU2Z1FPUGtSdTFUeTBuRXZlUFRldTFFcDdIeWw2X1FCTGl0TnB4aW1oYXVhcllOLV95RGFUamFWaFNoV2RLdkVqNHpzdE81VERHV1ZlaUk?oc=5",
+      "date": "Thu, 19 Nov 2026 20:00:34 GMT"
     }
   ],
   "accident_news": [
@@ -95,6 +95,11 @@
       "title": "金ケ崎町で全面通行止め 交通事故のため",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXbnFhUzE0eW0tT19oUllxNnJMSUpjV0JiR1hBaDY5aXpnZWZ4RE9heUM4UWpWZkdoTlBwNlRDTUdRTEh1cW5NUTRzMkZuRWNyLTVPZ2F2bDF4NXpicEZFdGNR?oc=5",
       "date": "Fri, 20 Nov 2026 09:40:00 GMT"
+    },
+    {
+      "title": "事故撲滅へ一丸 交通ルール守る県民大会 各種表彰、決意表明【岩手】 (岩手日日新聞社)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZXRpZ1dKTkhRbTJ4Q2VPc3BkVnc3ZC1XS0N5NThEMkUzb1k4WUdIeTE3cVZDQTRMdzN2SmVhZ0todWZscmtVVExvbjNpTk1fcjBpeVVQdTFnd0R3cEx6bDFvb3l5QUdYaHBhekpFM3Qxa0lBWkV3TXY3QmRfcTZEZ3phQldjVEhYOEhRZFVn?oc=5",
+      "date": "Thu, 19 Nov 2026 20:01:29 GMT"
     },
     {
       "title": "子どもに関する交通事故が増加傾向に 県内の死者34人で前年を超える 岩手 | IBC NEWS | IBC岩手放送 (1ページ)",
@@ -110,11 +115,6 @@
       "title": "金ケ崎町で道路横断中の女性が軽乗用車にはねられ死亡 事故当時は雪が降っていた（IBC岩手放送）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUUd2TmNrT0tLaGs4SkhOTmJXTGtSUFFla1BlTnVfUmVVdzhOcWxfMTdGbEE3aHhpZDZnQXRLbzBaWUpiNDRGcDJZc2s4bnhSQUZLNFl5N2NaUTV6SlBnUEpEUnVCLTZndERIMnZTd0tJVTRnSFhGT1pJNWZtaEE?oc=5",
       "date": "Sat, 21 Nov 2026 01:28:13 GMT"
-    },
-    {
-      "title": "金ケ崎町で道路横断中の女性が軽乗用車にはねられ死亡 事故当時は雪が降っていた",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Qc2kzaVVqTXY1d3A2UEh1MVhma2Z5UHBWNHF6SEdNT0FmLUdBT2FySHB4NXRLbkJUaVozSXhjV0ZuTkg1bERfU0MwcGEzY19nanUyWl96bw?oc=5",
-      "date": "Sat, 21 Nov 2026 00:14:00 GMT"
     }
   ],
   "official_links": [
