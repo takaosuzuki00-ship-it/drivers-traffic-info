@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-11-21T21:01:51.409797",
+  "generated_at": "2026-11-22T00:02:38.730437",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
   "weather": {
     "code": 1,
     "weather": "晴れ",
-    "temp_now": 6.2,
-    "temp_max": 13.1,
-    "temp_min": 4.0,
-    "precip_prob_max": 27,
+    "temp_now": 4.9,
+    "temp_max": 11.4,
+    "temp_min": 3.7,
+    "precip_prob_max": 2,
     "precip_sum": 0,
-    "wind_speed": 3.8,
+    "wind_speed": 5.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 5.3,
+        "temp": 4.9,
         "weather": "快晴",
-        "precip_prob": 27
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 4.6,
+        "temp": 3.9,
         "weather": "快晴",
-        "precip_prob": 12
+        "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 4.5,
+        "temp": 4.0,
         "weather": "快晴",
-        "precip_prob": 8
+        "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 7.8,
-        "weather": "快晴",
-        "precip_prob": 4
-      },
-      {
-        "time": "12:00",
-        "temp": 12.0,
+        "temp": 7.5,
         "weather": "快晴",
         "precip_prob": 2
       },
       {
-        "time": "15:00",
-        "temp": 12.7,
+        "time": "12:00",
+        "temp": 10.9,
         "weather": "快晴",
-        "precip_prob": 4
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 10.2,
+        "weather": "晴れ",
+        "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 8.7,
+        "temp": 7.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 6.2,
+        "temp": 5.3,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月21日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb3JWbVJKSHY4Rlg5ZkVCRm5senc1LVJFZWlqMHJnSXpCSVBRaEl5WGdDUmFRZTZkYnhObUI0Tmp2YjRuX0k3NWpnRHl6ZUNGbWV0YXI2ay1hdXlya2JRSnRHZ3o5Y3l5eWs2cDZNVdIBdEFVX3lxTFBQRFU0NWlFaGpOLURoa0t5UVlydWpsN1dicmF4d1dOSnB2U2FjeVpaakZKdnowOUF2bi13dC1jNFZKVVRnSmVrbmp5bjlPZ3hpSUFmR256ZjNReW9PVVBodUFKNmJPVHFwZVpMTVprc0MxUXpk?oc=5",
+      "date": "Fri, 20 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "【続報】交通取り締まり中、違反車両に引きずられ転倒 男性警察官が重傷 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hQWxJc1lSN1N4WUJfWG5FNDFtWWJrMGdpY2JycUZMY0tKYm5WVGdULXMwRm5UWlNWY1dUNF9heUZKQmJZWVl1YXVOQWlZRzR2VW5iN2k1NWk?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の“歩道走行”は取締対象になる？「車道走行で命の危険」罰則強化に困惑の声も…正しいルールを解説【あなたの声で調査しました】",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBadldteFh3Ukt2enpSa2VBS0tKOURmSEJhWER5V2JTUzg3Wmk2bzRQWkZpenJmdmJYZFJ4bzRQVzJCdnJFQ1lfMmtBMHo?oc=5",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
     {
       "title": "飲酒運転防止へ検問 群馬県警、トラック対象に啓発 伊勢崎市の3人死亡事故を受け",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWhXcFNIeEpERGVoR19PMFl4cnh5MWNPQU1yZl93T1UyNHpsZWJTU2E4ZjltZ2k1dVYyVnVNeTZua2wyVHd0ZTJ3TG9tS21qUHZrRmdQemVCZVdrQTlObg?oc=5",
@@ -73,21 +88,6 @@
       "title": "酒気帯び運転疑い巡査逮捕 群馬県警、検問中に逃走",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOSEFpc3BiTS1DSDQtaTdlQXB0NUlSaXYwSGx2MmoyeExwcUJwYnM2ekVaUXFoTXZwV19DbEtJWGh4R09tMkxLN0JaYkJaODJtdXFLQ1A2MGtYQzBwRFp1enFQcURLd0k5eVl5WmdabUUtdGoxUGc?oc=5",
       "date": "Mon, 24 Aug 2020 07:00:00 GMT"
-    },
-    {
-      "title": "広域凶悪犯罪防げ 足利署、県境で初の合同検問 群馬・太田署と",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQU9HanVsQld0Z0dtMnVTMUdLWDRsdVFLSm5fQ2ZuVzVlcEZGR2piQXZsX3FNQkk3ODN5TjBZSDJfeE4yLTBYdHhhWTlxeTI0c1A1ZXJHTW1aZlE?oc=5",
-      "date": "Mon, 23 Dec 2024 08:00:00 GMT"
-    },
-    {
-      "title": "トラック計141台を飲酒検問 5月の群馬・伊勢崎5人死傷事故受け",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zUlRWSHRTMFp5RXR0NnZna1NQcGRXRWN4cnp1aFZQcG80R1pGd3RudEVsbFlxVVo2Zm51cXpKTXhEMExHR1dTNFVJb2h4TEU5VTFzdGV5SDlkdk9ycnlLZWNSaUZZTENK?oc=5",
-      "date": "Thu, 29 Aug 2024 07:00:00 GMT"
-    },
-    {
-      "title": "2024年12月の一斉検問や集中職質で35人を摘発 闇バイトなど警戒 群馬県警",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Z0RGSXhMMkZKMUlJbzNqN2VfWmdjMWwyRWVRV1ltVG00RDR3MDBOeE9rRzdjTm9aWDFvMUhQWXEwa1F3TUpQcWdFR2ZPVWZSM1RibDNQZ2E?oc=5",
-      "date": "Thu, 30 Jan 2025 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -102,17 +102,17 @@
       "date": "Tue, 17 Nov 2026 08:40:00 GMT"
     },
     {
-      "title": "群馬・藤岡市の重体事故 女性の身元判明",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4TTBLM0NhejZMdERfYTBlQXhvZVowbGkyUTFPMzBtZUJRYVlCTHMxZjc3OWJySU14XzVYYjdlbUhaRDhGZ0tIU2wxb3ExQ2lwd3FwOWZwTHJsZw?oc=5",
-      "date": "Tue, 17 Nov 2026 08:40:00 GMT"
+      "title": "群馬・伊勢崎家族3人死亡事故 トラック運転手への懲役20年判決が確定 遺族「この結果を見て少しでも飲酒運転をする人が減ってくれれば」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jMXdZdEIyTDBaYVlkTzN5djNfeTd2YURvSkloVFFZUDZlWnZmUmRReDlnTm9pd1ZkaGtRYVRzU2dlUFNYMFg0UmJoOG5jeUlGek1adkFBTQ?oc=5",
+      "date": "Fri, 20 Nov 2026 09:53:20 GMT"
     },
     {
-      "title": "交差点内で車4台衝突 車に乗っていた男女4人いずれも軽傷 群馬・前橋（TBS NEWS DIG Powered by JNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUmw4MzlHZWRSQjRUSWFfM2d3TlhIXzFpSUM1UlJYZzk3SWtEQS1LN0lnVHB2WXR6ZVBzdkJheEN6dzBEbm9HNEdwbWItQzRtQW9hYS03MWpwMW9pRER3OWc3cUxXNU1nMDRrNWJ4Q1BSdWcyZTJrZVZxb1VkT00?oc=5",
-      "date": "Wed, 18 Nov 2026 03:16:01 GMT"
+      "title": "群馬・伊勢崎市の死亡事故 女性の身元判明 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJZFo1MHNaRTI5cVV1NkZleEhGcE5PaEFjYW1neVcwQmJJQmZ1bmZqNWsySVk0ZFlTYjA5ZElmMHd4RnVkUDlYYW12MXlKNUl3cXpGXzlqUkZ2Zw?oc=5",
+      "date": "Wed, 18 Nov 2026 08:30:00 GMT"
     },
     {
-      "title": "ひき逃げで８７歳の女性大けが 群馬・大泉市 (26/11/21)（群馬テレビ）",
+      "title": "ひき逃げで８７歳の女性大けが 群馬・大泉町 (26/11/21)（群馬テレビ）",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qNzczU2FMcGl4TFkxaEdTUG1fVE5mVzFJbE44Qy01YmtsT1ZuOXpQY2VicE4tUnd3Qm9uVmlwdmFzcmlZdFNQS2w0SWF6bVNqc3ZadGt3TzZDWUdIekNlYThLZkZSYzNQOGp0NVVtSFpSZzhr?oc=5",
       "date": "Sat, 21 Nov 2026 10:06:00 GMT"
     }

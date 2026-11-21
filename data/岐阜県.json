@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-21T21:02:32.684745",
+  "generated_at": "2026-11-22T00:03:15.442450",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
-    "code": 1,
-    "weather": "晴れ",
-    "temp_now": 6.0,
-    "temp_max": 11.4,
-    "temp_min": 5.1,
-    "precip_prob_max": 82,
-    "precip_sum": 0,
-    "wind_speed": 2.1,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 5.4,
+    "temp_max": 10.0,
+    "temp_min": 2.3,
+    "precip_prob_max": 18,
+    "precip_sum": 1.2,
+    "wind_speed": 4.5,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 6.7,
-        "weather": "快晴",
-        "precip_prob": 39
-      },
-      {
-        "time": "03:00",
-        "temp": 5.9,
-        "weather": "快晴",
-        "precip_prob": 27
-      },
-      {
-        "time": "06:00",
-        "temp": 5.6,
-        "weather": "晴れ",
-        "precip_prob": 57
-      },
-      {
-        "time": "09:00",
-        "temp": 7.4,
-        "weather": "晴れ",
-        "precip_prob": 51
-      },
-      {
-        "time": "12:00",
-        "temp": 10.8,
-        "weather": "晴れ",
-        "precip_prob": 82
-      },
-      {
-        "time": "15:00",
-        "temp": 10.9,
-        "weather": "晴れ",
-        "precip_prob": 31
-      },
-      {
-        "time": "18:00",
-        "temp": 8.5,
+        "temp": 5.4,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 4.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 2.7,
+        "weather": "快晴",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 5.2,
+        "weather": "快晴",
+        "precip_prob": 8
+      },
+      {
+        "time": "12:00",
+        "temp": 8.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 18
+      },
+      {
+        "time": "15:00",
+        "temp": 9.9,
+        "weather": "快晴",
+        "precip_prob": 6
+      },
+      {
+        "time": "18:00",
+        "temp": 8.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
         "time": "21:00",
-        "temp": 6.0,
+        "temp": 5.9,
         "weather": "快晴",
         "precip_prob": 0
       }
