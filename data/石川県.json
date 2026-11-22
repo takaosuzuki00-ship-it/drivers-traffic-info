@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-22T06:03:22.995160",
+  "generated_at": "2026-11-22T09:02:11.653257",
   "pref": "石川県",
   "region": "中部地方",
   "capital": "金沢",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 4.8,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 6.0,
     "temp_max": 9.0,
-    "temp_min": 4.1,
+    "temp_min": 4.9,
     "precip_prob_max": 100,
-    "precip_sum": 11.2,
-    "wind_speed": 11.7,
+    "precip_sum": 6.4,
+    "wind_speed": 11.5,
     "hourly": [
       {
         "time": "00:00",
@@ -21,53 +21,63 @@
       },
       {
         "time": "03:00",
-        "temp": 7.2,
+        "temp": 7.4,
         "weather": "弱い霧雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "06:00",
-        "temp": 4.8,
-        "weather": "霧雨",
         "precip_prob": 100
       },
       {
+        "time": "06:00",
+        "temp": 5.8,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
         "time": "09:00",
-        "temp": 5.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 90
+        "temp": 6.0,
+        "weather": "晴れ",
+        "precip_prob": 98
       },
       {
         "time": "12:00",
         "temp": 8.3,
         "weather": "晴れ",
-        "precip_prob": 84
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": 7.9,
-        "weather": "弱い霧雨",
-        "precip_prob": 57
+        "temp": 6.8,
+        "weather": "弱い雨",
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 7.0,
+        "temp": 6.1,
         "weather": "晴れ",
-        "precip_prob": 22
+        "precip_prob": 25
       },
       {
         "time": "21:00",
-        "temp": 5.7,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 5.2,
+        "weather": "快晴",
+        "precip_prob": 4
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月22日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnY5UXBzRi1zT1kwWmg1WEJMYzVuZmFtZm5UXzlxaFRzN1o1REswZi1SejhsLWplbGxNMWNxYVhaNTFBY2YtSDJ5Z0dpWUJLNURVRlVIVy1XX04zSEprTkxlTFdVTkozZTRXdWhBeTF0QnpSLXpzN2hEbl9NVlJwZmtwQXIxQjJZZFVlcWlwaVJ5UVVhZnpoQ1JZclUzNUhaWkN5Ym11R3BuUk0zM1V5VDRkcWQ0Wlh3TmdKZUdsY1UzOVIx0gF0QVVfeXFMTjNSODVqWS1mS2RpNDIxdUFZSWREOEtNelo3SXZvbGxkVHBKaTRrazdMbTYzdUctYnl5X19BejRUcEFfcFJoUmV0MG1zUXV4SDRWcFNUNlAxbzBBQXlvdGp0YnJNUFRBLWRuQkdJNF93RTBmR0E?oc=5",
-      "date": "Sat, 21 Nov 2026 20:09:07 GMT"
+      "title": "１１月２２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZ2tFQ2I0ZUJnNFpiNTBpek51VEdpVDNiNzhCOUlwMGhQNVVFUk9KMnJZaXlkQVFFRTg5d3A2ZkwtRklSRlpmRGJEeFV2VEpxQlQ2NWlCMFNtQlBQV1JVclVseGRVb09a?oc=5",
+      "date": "Sat, 21 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "11月20日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XY3A5enB6VUZDeUYxYmc5aS1ncTlYT2xQTF93YjNrcmdnVi04dWs2NlJGTTlmZjExYVhfMkdSeG9nY203clBQc04tZ2MybmtxYktqUG9YT0lxd25UY1ZKZTg4Vmg3NFJtdmI4Y1ln?oc=5",
+      "date": "Thu, 19 Nov 2026 20:13:17 GMT"
+    },
+    {
+      "title": "１１月２１日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3OFBGMXNGVlZFMHVPOGFoS1BXTVlmaUNnT3RqUUFETEJveU9mYmJiT0FtVVl6OWk1dFZrVFpzMEpvWTZfU1V4aFI1ckFHNzBTVklUMW9CSV9lSWRTYXhDVVNVOU9uSmRU?oc=5",
+      "date": "Fri, 20 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "１１月１９日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
@@ -75,19 +85,9 @@
       "date": "Wed, 18 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zNUUwZEMzZFRJVzBFQUl6WmlqV2ttZzlHclpmWm8tcTVOT0NjSzBwLU0yQ1padDB2U3dNY2ZSLXBLM3R4aHdPbVZFdngyVUx4S1BvU25RdHlzQTA?oc=5",
-      "date": "Mon, 16 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "１１月２１日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWRJbDQ0cGNHdC16TV9aMm9jM3JLOVhnMHdUZno3OWVXc1ViYkJFb3NNaHpybTBDOUktWVFBU0VvRHNuZS1tdVZfUFB5OFNwM3dNSWlCczN5blJiMkhhR2RBZ0pabWNtNTB0SUE1cXVnWkJVUmpHejMwVnBadHI0amtZQjd0UTJVakxhVlpxTl83bzZJZk0tdHYxRnpPZ25yaEQyTEt1ZjR3ZVFWdDdxVVRBMmV6TnNUc3hjblVoZ0dRTGo1ZW5B0gF3QVVfeXFMUE5vNF9xcEJTUnd1X0RaQmpmN21hWEE5Q05YSk1mOC1UNlJWVlYyOXdSV05wX0pLR0ZXdlhlRzJwQUlFdVR4YzlyRFFPcTlDQXlwdDcxNGgwdjZMdGFsODJwTFBYZ1hZNy1HYXpDNDRsZEFMY2JkcU0?oc=5",
-      "date": "Fri, 20 Nov 2026 20:08:43 GMT"
-    },
-    {
-      "title": "繁華街の交通違反 ＫＴ４が行く！ 取り締まりチーム 金沢中署で出動式",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IOHRLT2J1bWc5cllYWGoxUGFURFJkMkFTWDJfelRCb0NhcW5abkFmb0pmcXE5bUNqel84X0dDaFo2aE5tZnZVaG5EaVpwX1RiQ1RlUg?oc=5",
-      "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+      "title": "１１月１８日（水）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vU2NIZlZ2WURqeGZwdy1fSHpHQlN0UHV4ZF9vWkM3a0NaOXRIOVAtRFNKZFFELU8xMDJxVFQ2c1RTdTZ6eVlOMEIwcE41dmVhdU90dkVEOWpkYVFFUlN4VGFCZnlfMHhm?oc=5",
+      "date": "Tue, 17 Nov 2026 20:00:00 GMT"
     }
   ],
   "accident_news": [
