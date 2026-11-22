@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-22T18:02:10.853209",
+  "generated_at": "2026-11-22T21:04:40.217704",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
     "code": 63,
     "weather": "雨",
-    "temp_now": 6.6,
-    "temp_max": 8.7,
+    "temp_now": 4.6,
+    "temp_max": 8.6,
     "temp_min": 3.0,
     "precip_prob_max": 100,
-    "precip_sum": 23.5,
-    "wind_speed": 5.1,
+    "precip_sum": 23.9,
+    "wind_speed": 4.0,
     "hourly": [
       {
         "time": "00:00",
@@ -41,25 +41,25 @@
         "time": "12:00",
         "temp": 6.9,
         "weather": "晴れ",
-        "precip_prob": 71
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 8.6,
+        "temp": 8.0,
         "weather": "弱い霧雨",
-        "precip_prob": 71
+        "precip_prob": 88
       },
       {
         "time": "18:00",
-        "temp": 6.6,
-        "weather": "快晴",
-        "precip_prob": 35
+        "temp": 6.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 47
       },
       {
         "time": "21:00",
-        "temp": 4.8,
+        "temp": 4.6,
         "weather": "晴れ",
-        "precip_prob": 12
+        "precip_prob": 10
       }
     ]
   },
@@ -90,7 +90,33 @@
       "date": "Thu, 28 Mar 2024 07:00:00 GMT"
     }
   ],
-  "accident_news": [],
+  "accident_news": [
+    {
+      "title": "福井県内で交通死亡事故が多発 県警が警報発令 交通指導や取り締まり、啓発を強化 11月30日まで",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mUm5LamxYVUI5WldYYjB6VjFwazVJcU9pVWw2a2tqU1pjdnQtRWxESGh6MUlwQTNnU0ZEb3laUXpGZFFsNGZUX1VTeG1rQm9CUEJFQ0pGcWd6Ym1DRXc?oc=5",
+      "date": "Sun, 22 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "鯖江と勝山で交通死亡事故 福井",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fVVRJSERKS0ZhUlBPd3pVcFY4aEFyM1NrVTVEZXFvSFIxSE4zUkRoMDNVZGdxd1VyaGc5d2dBbE91STRaeXIyWUllVXZFYnV0dUd6ZTJDVVEtY1ZzYy1r?oc=5",
+      "date": "Fri, 20 Nov 2026 02:59:00 GMT"
+    },
+    {
+      "title": "福井で交通事故相次ぐ 横断中の高齢男性2人が車にはねられ死亡 勝山市と鯖江市で",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80UEJ6RHk0SGl1cGFCQTlGRWdHbnhrYzhUVW8yWmZvR0psUUNyVGdUTXZvNjZMTWh2WS1jZEd6MEtvWjFBeFMxWGlmNW5SQQ?oc=5",
+      "date": "Fri, 20 Nov 2026 08:07:00 GMT"
+    },
+    {
+      "title": "バックしてきた除雪車にはねられ女性死亡 国道交差点付近で作業中 福井県勝山市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OUDQxWWw0ZjcwdjBkcFpmUXkxcEVJQ2k0SFByeGVobkt3RVJYSUFYc19nVDA2X2RKYmRwaS1jYXl4YWk5S1JDdmxiN3hYRUhIc3BOSUNEQjJKNkRZdlE?oc=5",
+      "date": "Sat, 21 Nov 2026 21:10:00 GMT"
+    },
+    {
+      "title": "【速報】除雪車にはねられ女性死亡 バックした先に…道路横断中 事故当時の積雪10センチ 福井県勝山市･国道157号",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUEE3Z3V5eVVwMHQwMkl4NmN5eW5iNENoYTAzN0tWTjZlQkxpRmhKV0F6VFRNbm1UeVAwUTYwajVEanlZOWZIYWxzZHpHTFd6TWlBeW81R1NKakFUZFFkZ1FzbmhPOHhReVZ0VjZBVThxNmVKaWk3ZXF0SmcxRGc?oc=5",
+      "date": "Sat, 21 Nov 2026 07:37:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",
