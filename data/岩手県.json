@@ -1,9 +1,68 @@
 {
-  "generated_at": "2026-11-22T12:01:52.597495",
+  "generated_at": "2026-11-22T15:00:44.325538",
   "pref": "岩手県",
   "region": "東北地方",
   "capital": "盛岡",
-  "weather": {},
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 5.9,
+    "temp_max": 6.4,
+    "temp_min": -0.8,
+    "precip_prob_max": 47,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 0.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 47
+      },
+      {
+        "time": "03:00",
+        "temp": -0.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 8
+      },
+      {
+        "time": "06:00",
+        "temp": -0.6,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
+      },
+      {
+        "time": "09:00",
+        "temp": 1.8,
+        "weather": "晴れ",
+        "precip_prob": 18
+      },
+      {
+        "time": "12:00",
+        "temp": 6.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 5.9,
+        "weather": "晴れ",
+        "precip_prob": 14
+      },
+      {
+        "time": "18:00",
+        "temp": 3.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 2.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
   "enforcement_news": [
     {
       "title": "11月22日（日）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
@@ -43,14 +102,14 @@
       "date": "Fri, 20 Nov 2026 09:40:00 GMT"
     },
     {
-      "title": "花巻市で女性はねられ死亡 交差点で交通事故",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xeWlzWkN4MHAzOXYwbXNwbnBtNUFlZkEza083TTBjWklNcmFyWUsyVEdnNDhjanpXWURxSnUtRGxQVmZEMmItak9oeGlIYV9xUHExUUNOZW9OT090WWp6N1pR?oc=5",
-      "date": "Sun, 22 Nov 2026 01:35:00 GMT"
+      "title": "交通事故多発交差点、盛岡・向中野と西見前の2カ所がワースト 岩手 [岩手県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMDlSamtETHdIeHg1cVlJaXpIOEpTM01jaXJkbGtMRVZzNXRYdW9weHJFdnJ3QmFqbTI3aUhvM0h2UDRwYUFqbHZwV3piVnhXeVFIWFRkVEtTQnVScnFWZVFhSjJpQ2s?oc=5",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "金ケ崎町で道路横断中の女性が軽乗用車にはねられ死亡 事故当時は雪が降っていた",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Qc2kzaVVqTXY1d3A2UEh1MVhma2Z5UHBWNHF6SEdNT0FmLUdBT2FySHB4NXRLbkJUaVozSXhjV0ZuTkg1bERfU0MwcGEzY19nanUyWl96bw?oc=5",
-      "date": "Sat, 21 Nov 2026 00:14:00 GMT"
+      "title": "県内で2日続けて歩行者の死亡事故 花巻市で道路横断中の高齢女性が車にはねられ死亡 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkeE5iQWRUOGFQM1hHcHM0UWRwRnplS1g4UTdQS09McjA0YU9Ic3ZmUnc2cFRGTzRqV0liS0o3NGNPblpTYUJmTDI2UjhJb0lzelRhd29aNFd5UQ?oc=5",
+      "date": "Sun, 22 Nov 2026 03:34:00 GMT"
     },
     {
       "title": "金ケ崎町で女性はねられ死亡",
