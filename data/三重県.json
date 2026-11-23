@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T19:23:10.068125",
+  "generated_at": "2026-11-23T21:50:06.152869",
   "pref": "三重県",
   "region": "近畿地方",
   "capital": "津",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 1,
+    "weather": "晴れ",
+    "temp_now": 8.1,
+    "temp_max": 13.0,
+    "temp_min": 4.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 6.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 5.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 4.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 7.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 11.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 10.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOGkwYkNQNVcwcDZpbEpHMjgwWHFQRHJuQ0Y0WDlfcUMtOEh5aEF5bWdVUkpneHVHaEdlMnFVMFNpOU9qTGN4ZnFrV0VWQzZoM2c5V1Q0Ykk4R2lTb2pwNk5yU1ZwZ2dCemF4dmt3d9IBdEFVX3lxTE5NRVZoYm1FSU9CTDJPTjMzZlR1MnFPd0xCaXVKVlJsWTl0VWw2aUs3NE9fdjI2TnN6NzBjQnREVDlCMHR5dUowMGVUUm9CdEV6U0F3ZHdEVFFwcl9meFRzcHotUk0xLTlpZzJjQksxcDVwdHRv?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "三重県警一斉取り締まり 「ながらスマホ」６５件摘発…死亡事故多発受け：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMl83RlpLZVpYTWVYbnU2bXJ1Z0pITnFyRVVJYkM3ei1yT1hjZ0pVaWg2QWdPal9MZUpOM2VvSFpnN2x6b1E0RGdjVFNTMW1ja3RPZDB0T2FIaGlTVEdsSE1WS0QzU2dsQXlGVXVZZGM?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "警察「空から取締りします！」 三重県警がヘリ連携の「スカイアイ取締り」を実施へ 鈴鹿PAで啓発イベントも！ 新東名で、4月7日に（くるまのニュース） | 自動車情報・ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFBMdFVHd2JUcERRbGVTT2YxM0pmV3NhSzRUUXhaTWxEbnFvUGM5N2ZPekxRVG1hSHVqbDcyUWY1LWFtZGctQnRzUzc1R2VpTklNTDZtSGVXenNkSzRfV1p2TG55Y2E5SmFBaklkTXhzdW1hNHgzMmpIUWZuWHd3bHVYbUJUVnZC?oc=5",
+      "date": "Sat, 04 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡事故多発の三重県で一斉取り締まり 移動式オービスで“速度違反”に目を光らせる 名張市は5人死亡事故が起きたばかり",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JeVBkV3BjS2pzYi1Ld2FSMUlxbUtYOFJIUzY2Q2dUSmt2NGZPU0gwSVNQeGlPTTRsQjEyTzRLNnd4SDVua0daZ0xkelRfeUcyZXM0RlRlNkpFQQ?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
+      "date": "Thu, 09 Oct 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "日没早まり交通事故増加に警戒 三重県警が一斉パトロール 死者は今年50人（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lZGpYbU9TUzBNR2JEUDl0MU9CS09xTTAtLVRHMkpEVHZmQXVnTC0yV3owbGtHcjRuMHJVcmNoX0doQkQwbDRqM2lqdnVuZHdHQ0tMaUtYZjh6eDVwUFlkYWx1NUNJTXpKcVBpOVB2S0RoOXRZSWJtV1JiSU1SNW8?oc=5",
+      "date": "Fri, 20 Nov 2026 08:02:00 GMT"
+    },
+    {
+      "title": "三重県で交通死亡事故が急増…県警が出した答えは「赤色灯フル回転」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rampWVllYaVN0dnBsZy1OOTdMOFdiSXFhNDduU0dRRjFSYkEtRnBvak91ZFRyU1dDMnYzeGo1VUZodnhRc0xGX2R5MlZydzJyZEVwQWcyenpsOU9lOVBTM3VYdnFOSVU?oc=5",
+      "date": "Sun, 16 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "国道23号でバイクと大型トラック衝突 17歳高校生死亡 三重・四日市市（三重テレビ放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NX09aZ0k3R3BrNDhfYlFxd1BaLXFZOEJqNXd6Zm9IUEVXQVV4aXFSZ0dtM1ZtdmIyNENMZm5WR1ZzZE5KYVFvNmRyWDJ4OWhES1FjT1g5Z1pIbFNvXzdvNmp2b3BGRDJKaDJwNkdDTnlzc1ZCUlh4LVp1bkw3dUU?oc=5",
+      "date": "Fri, 20 Nov 2026 01:01:04 GMT"
+    },
+    {
+      "title": "バイク運転の男子高校生死亡 大型トラックと出合い頭に衝突 三重・四日市市（2026年11月19日掲載）｜中京テレビNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaC1TSTZnRjNOcDNkdGxTUTBhX3NoQ3hDZWRvOVhWUHN0TGd6TVRlMUJPdXZ5T21vN2lBekVtaUw5M1dSQ24xWk00Q1NHVS1JTkt4T0h1SzZidkhZTmNScm9jNXFaWDhTZDJ4cTZjSTBtQzNReUV0VC11b1RMSkdJRi1Ub2k1QUE?oc=5",
+      "date": "Thu, 19 Nov 2026 21:27:00 GMT"
+    },
+    {
+      "title": "新名神の6人死亡事故 遺族が事故車両と対面 ｢想定以上の状態｣｢本当にひどいものだったと感じる｣ 三重",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sSHdDZ3ZMb04wOUo0a0lIRjg2M2VYbWU4dmdzdUtEdFZyeU1tdDltNnI4OUlPQ3FkNUl0Ml9zd3YwR2djUTlYd3RPeExVQ1p2Uk45QmR2Zw?oc=5",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "三重県警察 公式サイトを検索",

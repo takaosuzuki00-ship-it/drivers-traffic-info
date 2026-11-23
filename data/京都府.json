@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T19:29:10.473692",
+  "generated_at": "2026-11-23T21:50:33.632665",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 8.1,
+    "temp_max": 12.2,
+    "temp_min": 4.1,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 1.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 6.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 5.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 4.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 5.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 10.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 12.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 9.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "１１月２２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZ2tFQ2I0ZUJnNFpiNTBpek51VEdpVDNiNzhCOUlwMGhQNVVFUk9KMnJZaXlkQVFFRTg5d3A2ZkwtRklSRlpmRGJEeFV2VEpxQlQ2NWlCMFNtQlBQV1JVclVseGRVb09a?oc=5",
+      "date": "Sat, 21 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOGkwYkNQNVcwcDZpbEpHMjgwWHFQRHJuQ0Y0WDlfcUMtOEh5aEF5bWdVUkpneHVHaEdlMnFVMFNpOU9qTGN4ZnFrV0VWQzZoM2c5V1Q0Ykk4R2lTb2pwNk5yU1ZwZ2dCemF4dmt3d9IBdEFVX3lxTE5NRVZoYm1FSU9CTDJPTjMzZlR1MnFPd0xCaXVKVlJsWTl0VWw2aUs3NE9fdjI2TnN6NzBjQnREVDlCMHR5dUowMGVUUm9CdEV6U0F3ZHdEVFFwcl9meFRzcHotUk0xLTlpZzJjQksxcDVwdHRv?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１１月２１日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3OFBGMXNGVlZFMHVPOGFoS1BXTVlmaUNnT3RqUUFETEJveU9mYmJiT0FtVVl6OWk1dFZrVFpzMEpvWTZfU1V4aFI1ckFHNzBTVklUMW9CSV9lSWRTYXhDVVNVOU9uSmRU?oc=5",
+      "date": "Fri, 20 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "１１月１９日（木）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEVk5ISThfaWhCRDF5ZjlTTWplTGRCRkQwdkN1cXQ5V3U1RFFLM1ZNd2llaW9veDhxNXpucUZBYjR3Nk15bUNnN2tDeVVJWjZuZzlqdlBUd3M0dFUtbnFuUE9hazB2bnVG?oc=5",
+      "date": "Wed, 18 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "E9京都縦貫自動車道 綾部安国寺IC～京丹波わちIC（上下線）で交通事故実況見分のため通行止めを実施します─通行止めの時間帯は、国道27号へのう回をお願いいたします─",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OeDNkMzRpWEtBUjBWa1NvbHIxLW44eFJ3dHllcGgwc1ROanUwOUxvZTZPSlppdU44dHJZX1ZOa2RBVWY2UzU0cEpFYV80WmJ1dXp1Q25LUF85NWdNaFFhLVp3VmFLS1p3cFVQcnkyY0E?oc=5",
+      "date": "Fri, 11 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "わざと交通事故起こし保険金だまし取ったか 会社員の女ら３人逮捕 保険会社が不審な点に気づき警察に相談",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzYTdVRmd2aG9NbmtOZFpSVUFnRk43ckgzV1hoTWc4b0prdTJOTUdXeUZMRzl6UDNVTGNLbm9ZbFNGSS1zeEN6MExfNW1hLWV2MjAybVptZXp6MFpfNTBIdzJ3?oc=5",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "死亡事故も発生、冠水の危険あるアンダーパス 事前に確認を【きょうの数字】 | 福島のニュース│TUF (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HWkhfaEVSTVZMZGF6MGF4Ym1HZGRvRlFMT3o4d0w2U3cxcE5yczNIZi04SGxYWWtla3kxdzRPLURXLWc2eks4Ri1GVVRLS1FET054eUstVksyRDR5MF9ZZXo1LUE0TUE?oc=5",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "群馬・上武道路3人死亡事故 きょう29日に控訴審初公判 弁護側、アルコール影響ないと主張か",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PNjdaYXRDRi1FN3JuX0ItZXc0V2Y5VUFTYjJFaWx2MHRPMnZuTXMtTGpOckZvQnVfMmwwamxpcHFsSWZpWVg5SURLME1Ldnd3WUNYUC1Nd0pBZw?oc=5",
+      "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "逗子の斜面崩落で賠償命令 生徒死亡で管理側に100万円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQWZFcGVoeGZNRGY2dWI2b2FIX0Nsb0t3OEIyNGViX3NQbW16QUhfRTByclhOZGVFTGw3aXR1UUc5a01lcFlwZ0xMQTZKY0cyT0JBamQ0LTRPQUhwa1hpMEZ6bUZtcmg5ZjJyaQ?oc=5",
+      "date": "Fri, 15 Dec 2023 08:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "京都府警察 公式サイトを検索",

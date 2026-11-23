@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T19:11:09.898951",
+  "generated_at": "2026-11-23T21:49:26.990804",
   "pref": "長野県",
   "region": "中部地方",
   "capital": "長野",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 3,
+    "weather": "曇り",
+    "temp_now": 6.4,
+    "temp_max": 11.7,
+    "temp_min": 0.2,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 5.5,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 1.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 0.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 0.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 4.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 9.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 11.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 8.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 6.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」 | SBC NEWS | 長野のニュース | SBC信越放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45SkpfcTh2bGh2T1F3SnYxaHcyTWVUeGduSUVFcWdzZEZjN0dLQmhRbHE5U1JvMHlhejN0TUw1UTFNdHI1eWlVY1BZUXoyMS12ZExxQzN0M2xCdw?oc=5",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「車が信号に合わせて加速する」“速度違反自動取締装置”で取り締まり 住民が要望「スピードを出す車が多い」 “生活道路”の法定速度30キロに引き下げ…警察「住民が行き来する道路、速度を守り安全に走行を」（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tck9mRTQzUjRhS2toOEx1eEtwTENLUmV4eDRoQkhHc3VWX2M4RnZvTVdubkdYcG9KNnRBQ2hGWDBoakdyNUkwdUF1Y1pRdi1kb3dDTlZJY3ppX0lJUUUxSUU0UUx6dVIyZWJxVkFCb3pSQkVBZFRhVDRESWl6amc?oc=5",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "【生活道路の法定速度・30キロに引き下げ】「オービス・速度違反自動取締装置」設置して長野県警が違反の取り締まり「速度抑止によって交通事故をなくす、これが一番のねらい」（ＳＢＣ信越放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VHE1WXN6bV9vVG9mQjV5Ry1DNVZ6R29nYkhWU3E1dFJVcFBPVC1YdGJVS1pzX0ZCZkllT0hWUU50Sjk5ekkzX3dFdUxhTWp3MC0wQkVlRTJ1VWZZLTJFRnFpZWxmT3ZkVmtfZk4zWHMtYnd6bHNQNEhMT29welE?oc=5",
+      "date": "Thu, 03 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "都道府県警格付けバトル!! 香川県警の「移動オービスによる公開取り締まり情報」が、なぜか太っ腹な件！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0l0Y3hyTnNnTFd0Q0dmM0VnbnVZQlA5LUFUSUtTajNzcHE2RG5yVnlQTk9QSkpuWk5KcGNPTGJPMFJKSjhUck5QOUtuUQ?oc=5",
+      "date": "Fri, 10 Jul 2026 07:37:30 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 警察が一斉検問 長野県内での飲酒運転の摘発は300件超 事故は去年より増加 「飲酒運転は犯罪」 自覚を持ってハンドル握って【長野】（テレビ信州）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtT1lhNkV3ZnJyQTQwLXdEUVFjdDNwZUo2ZnRDS0lWTjJlRlNSYml2WFNPeW1OeEljRGJUZkRyc0lpNUd3UkJWNE5qbk9DNFJmTTlDYlpKR0ltcHRMaXltTTM3cGxZNVdZc013Z2ZEOHFFRHFnODRHM2FqWHk5Wnc?oc=5",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "長野県内で死亡事故相次ぐ…2年ぶりに「交通死亡事故多発警報」 死者は今年に入り42人で前の年に比べ6人増加 10月と11月だけで9件と多発 長野 （ＳＢＣ信越放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHVGVFRWN0N2VsM3JVcDFjSWZlb3lfYUJtakZpdTRSdnBvMkVGQ29QQ3ZGbEFTbV8zeGxTN0tGeXNxN1djZFBJZGdkdy1sVUhES09vTldPbV9sS3NQMTlPdHBNUTBKQTNaaWlzcjRxOTk0cmEwcVUzZTYxUDR4T0k?oc=5",
+      "date": "Thu, 19 Nov 2026 04:49:00 GMT"
+    },
+    {
+      "title": "長野市の通称「七曲り」でトラックの単独事故 スノーシェッドの柱などに衝突 意識不明だった助手席の男性が死亡",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14QnRQMHpFdHRSTzhONVRjVkdkWjVDalYyTGlRRktwS05yWjB2ZWI3YkdmY1AxNVA2Z3pWREttX1JGa2hYYS1XMXlFOERUc1ppTjMxc2ltWQ?oc=5",
+      "date": "Thu, 19 Nov 2026 20:04:00 GMT"
+    },
+    {
+      "title": "死亡事故で雪よけ破損 長野市の｢七曲り｣通行止め2～3カ月か",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DYVdFbE5TcHRiZDZoNlpwLTZGMk91TFJNSU9jUXAwMENzaTdZQm9sLVhXaVJwRVppYlNRRURjSTR0bVJzSF84Ukk0MFBpdnpMX2U1V3E4VzVQYkY3S1pfWWFMeHhzaHdWcGs0VGhGOVo?oc=5",
+      "date": "Fri, 20 Nov 2026 13:14:00 GMT"
+    },
+    {
+      "title": "カーブが連続する「七曲り」で50歳男性が死亡 2、3か月通行止めが続く見通し 「スノーシェッド」にトラックが衝突、20ｍに渡り壊れる 長野市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51Q04wUlltTDNqNDNFTWpEMWZNX3pSbXRTZ1lITUdMRzN1R1BUZTdGeDBhczl6WGNWbGZFdjljZGlxZkJJcWo2V0hXZ1RLRUI1UlE3ZHA4dGlCamNYM1E?oc=5",
+      "date": "Fri, 20 Nov 2026 09:47:00 GMT"
+    },
+    {
+      "title": "助手席の58歳男性が死亡 トラックが右カーブを曲がり切れず、スノーシェッドなどに衝突 運転の58歳男性は軽傷 現場はつづら折りの道が続く「七曲り」通行止めを継続中 長野市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiLVRhTEJFTFptUXJIMW10TVB4SzBMbGs2X0dVV0RIQzhIYkNMUEhyVWpueDdPc2YzOThrRWR3blo3d21pQUxmUWdOMGdqTW5zdWJJeEQySWFPQTRTTWc?oc=5",
+      "date": "Fri, 20 Nov 2026 02:40:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "長野県警察 公式サイトを検索",

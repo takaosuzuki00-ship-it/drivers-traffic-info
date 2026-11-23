@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T19:05:09.791480",
+  "generated_at": "2026-11-23T21:49:03.238335",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 9.2,
+    "temp_max": 13.3,
+    "temp_min": 4.6,
+    "precip_prob_max": 2,
+    "precip_sum": 0.7,
+    "wind_speed": 9.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 4.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 5.3,
+        "weather": "霧雨",
+        "precip_prob": 2
+      },
+      {
+        "time": "06:00",
+        "temp": 5.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
+      },
+      {
+        "time": "09:00",
+        "temp": 8.3,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 13.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 9.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.9,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【交通取締情報】福井県警 １２月１５日 | 社会 | 福井のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKZjJBaWZyWE9VcGlVZnZrajZ6TE55UkZRSm1pYlptU2xhamNNQ0x2RnpKNWNNUnliVVFMQy1KOEVJclRxOFJnNHJpY24xVldwcGdtVVhQZUhjQnkwZFE?oc=5",
+      "date": "Mon, 15 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "鯖江、越前署が合同の飲酒検問：日刊県民福井Web",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SbDNoa2Y2T0d6UDB3dXUxdEFWT25XZDgzQTZ6V2ZUT3Zab25OZkRXWkxMeWFFdkk3SVFuNEFvTExDV1Q4VTdDRmE2THItNF9GNHFaQg?oc=5",
+      "date": "Thu, 25 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "一斉検問で飲酒運転２件摘発 県警と県内１１署",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXb1lwQlljaThlZnQwZFdCTXdnNk1RSl82ZDhBSjVxS0pnT2pRcWRXd0VnbFEtaFpHRGhrd21XZVNHRU5nREt2MGtUV0VoaF9DOGVn?oc=5",
+      "date": "Fri, 26 Aug 2022 07:00:00 GMT"
+    },
+    {
+      "title": "忘年会シーズン控え、芦原街道で飲酒検問 福井署",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cWRlMUZUQTBaUUVnYlNoTURCc081SWFaVzdtM2xWNE1OVjQxT21UeW1QMk9wY0hUS3RkeUFvS2QzNWRkdnhORGo5VlAwMk5qSXZN?oc=5",
+      "date": "Sun, 28 Nov 2021 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転の撲滅へ 福井署が検問強化 県内摘発数増受け：日刊県民福井Web",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DN0UzZ2V2QVVadi1SSlJNRS04QnVNUElGbjFlSmdwbXRXZHpHT1FsbkRQN3hqakZ3UFl4cUxsWm14ZWJRMWFQRmVhSjRMUzNMdzRv?oc=5",
+      "date": "Fri, 30 Aug 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "福井で交通事故相次ぐ 横断中の高齢男性2人が車にはねられ死亡 勝山市と鯖江市で",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80UEJ6RHk0SGl1cGFCQTlGRWdHbnhrYzhUVW8yWmZvR0psUUNyVGdUTXZvNjZMTWh2WS1jZEd6MEtvWjFBeFMxWGlmNW5SQQ?oc=5",
+      "date": "Fri, 20 Nov 2026 08:07:00 GMT"
+    },
+    {
+      "title": "福井県内で交通死亡事故が多発 県警が警報発令 交通指導や取り締まり、啓発を強化 11月30日まで",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mUm5LamxYVUI5WldYYjB6VjFwazVJcU9pVWw2a2tqU1pjdnQtRWxESGh6MUlwQTNnU0ZEb3laUXpGZFFsNGZUX1VTeG1rQm9CUEJFQ0pGcWd6Ym1DRXc?oc=5",
+      "date": "Sun, 22 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "横断歩道で82歳女性はねられ死亡 大型ダンプカー運転の56歳女を現行犯逮捕 現場近くの福井アリーナ建設予定地から土砂を運搬",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPcjR0c0pTemI1MllLMFJQRTIybjBraGxRbjl0Z0l2eklYQTdmX3Z1WWJaaF9laUJkRk93c2xvV3YyVllvekkwOFh0eDNpNmk0a1VzVjRpbzJCSVN4bG05WTFhdE5XaTdZRDU1dlI5aE80SDR4V2pyUEljQkVKaXpkbXU5NWpOS1BGQ25Hdm56UWd3WF9Ld1V4SHdxQW9mdS1PQVA0TmFQNVN0RGlvb3NDTlZ6LXpYdDJ0QWZoeWI5VlBkNndEeDVyN3FrTGhaSkZtSDF5cmNBVnBSUTlFT0NaTzJxMWJZWnFUZXVxQmtBVnBBRlo1Z3luajhQSkhpMld6ZmQ3NVJhTHZGaGVsOF9aMjhaNjMwcE9zNC1aRDRYZ0pPeHNtQWFWTzJCQjdnYm1HVlNFekJGWTZEQ0pJZFhBSVREcVU2YWFhdGF1UDc3UnRqYk9KbjdOYkppZw?oc=5",
+      "date": "Thu, 01 Oct 2026 13:33:13 GMT"
+    },
+    {
+      "title": "作業中の除雪車にはねられ、女性が死亡 福井・勝山、積雪10センチ [福井県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jSTZqSTM1RlFtdHY0ZzVTbnpOQ0RQaU0zdHlLRGxkdzYzd3hRUlFWcDJZUEVmZVFjSnFkaUVfRUxnOENlTVlRRXFkYVVUSmVLcy13dkJDelVmU2lWbE04WjU5cF83YmM?oc=5",
+      "date": "Sat, 21 Nov 2026 09:18:16 GMT"
+    },
+    {
+      "title": "【速報】除雪車にはねられ女性死亡 バックした先に…道路横断中 事故当時の積雪10センチ 福井県勝山市･国道157号",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUEE3Z3V5eVVwMHQwMkl4NmN5eW5iNENoYTAzN0tWTjZlQkxpRmhKV0F6VFRNbm1UeVAwUTYwajVEanlZOWZIYWxzZHpHTFd6TWlBeW81R1NKakFUZFFkZ1FzbmhPOHhReVZ0VjZBVThxNmVKaWk3ZXF0SmcxRGc?oc=5",
+      "date": "Sat, 21 Nov 2026 07:37:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福井県警察 公式サイトを検索",

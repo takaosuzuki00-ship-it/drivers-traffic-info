@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T19:38:11.144424",
+  "generated_at": "2026-11-23T21:51:12.288434",
   "pref": "奈良県",
   "region": "近畿地方",
   "capital": "奈良",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 8.2,
+    "temp_max": 12.5,
+    "temp_min": 2.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 2.9,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 5.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 4.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 3.2,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 6.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 10.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 12.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 9.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 8.1,
+        "weather": "晴れ",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「生活道路は時速30キロに」奈良県警、法改正後初の速度違反取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2pacFVrdHVNSkYwX2ZmTVBOY0hGclhSUzJrMlBhbkJNQUVodkFTb1hobEhSTExpX0xnNmtpMU50VmFSWXdaSnZ1SG4xSGZrSmVVSGR3bVBpOUJJY2lBZEhRaWRBOWp2ZFIxdlZCdTJrSGNKS2RXQ3M1dUFWZ2d3TUdmQmNjdVVoaGtEeQ?oc=5",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「人に優しい運転を」高知県庁で交通取締隊の出発式 「春の全国交通安全運動」始まる",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1idXVEMDMyYXF0ZDdNSVBJaDlIZW13djlvc3JnSWptZTQ2RFdRaU0xckU0akNvOVBfZ3RqWm82VXEtTFBqLXkzX3dXLTBvZVBneGFOWVNYdktZNEE?oc=5",
+      "date": "Mon, 06 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "年末年始に向けて県内一斉飲酒検問 奈良県警、主要幹線道路で",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1aU1xNlFXSVhwLWY0cFN5dF92WjFnVWttNWNUUm1nY2VhTjNybTc2aGNSM0ZScC1RNWlQOHlmQVl3TlZOYjdqdXd1TFNjY1BWeEVoVWdnWXlRTU94Yk9v?oc=5",
+      "date": "Sat, 13 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "「飲酒運転は重大な犯罪」 奈良県警が年末の一斉検問 12月20日まで重点的取り締まり",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RDlrTzNCM01uSGlRbjBKdWxvQVlRQnU3eUdLYXotNm8tN0g0VUhRd09uZ3NVcVRnelJXWWVFYll5U1p2VXVUOG11TVZ6N005eDBpZDhOcDhnYjlRTURXZDBqQ3IyZEsybktrNktzcEhhZ01UZ3c?oc=5",
+      "date": "Fri, 12 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "年末年始に向けて県内一斉飲酒検問 奈良県警、主要幹線道路で",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EMU1IUTFlN3BFclhPcXBKOVZBcVhDMFFHdGZXOF9CT2hoUWEyTFFXSzJLUlZoMENXUW1ES2ZQRVB1YUFEYmN0TTQxSQ?oc=5",
+      "date": "Fri, 12 Dec 2025 21:12:18 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "電動車いすの79歳、踏切で電車にはねられ死亡 奈良・大和高田市 [奈良県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01eTZaQXBTSVFEa0I1dWtDN0NpVkxtLUF3TTZVMnpoS1NMQnVBbndlRW4tZHdIQ0VDanpydnNldG9jZkJ1LVBTZVhreEhXTXlhS1A5TXFnTFBhM3lzX0tfSURiMFBweEE?oc=5",
+      "date": "Sun, 22 Nov 2026 10:27:25 GMT"
+    },
+    {
+      "title": "奈良:踏切内を進んでいたシニアカーの79歳男性、列車にはねられ死亡…近鉄大阪線",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Mb2M3cTVkM2NFSkNIUzRZMGM3bTk3alUyTFg1ODJ5aThpdWlMaW00RmdDUVlkZ21UT0dMZ0NMalNMeDc0ZkZZNXYwRzNwaWdiRWJJVWpfbWxNUE5VNzB2cklsdXJicWdlbDV5X3hLWE1pZw?oc=5",
+      "date": "Mon, 23 Nov 2026 01:42:00 GMT"
+    },
+    {
+      "title": "近鉄大阪線の踏切で電動車いすの７９歳男性が近鉄電車と衝突し死亡 １万５０００人に影響",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQajFFSHBCeVRHV0NtR3dTOHNEYVNPa0p0RGczZUZyMno3Ui1QcmtEbEVvSlk4dWd3WXVxQWp4VXFORlQ2MG5BZHRXWmhYVEpRTHJtN1R3Tk5uVmswYmQxandR?oc=5",
+      "date": "Sun, 22 Nov 2026 11:41:00 GMT"
+    },
+    {
+      "title": "近鉄大阪線で踏切死亡事故 ７９歳男性が死亡 踏切は遮断機下りていて男性は踏切内を「シニアカー」で移動していたか 乗員乗客にケガなし、約１万５０００人に影響 奈良・大和高田市",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEUEhjUEN4dWlpVE1DNG5iRkczakFUNTkxYVN2enhuTkgtaERRZkpyZmVQdmJhY3lBR3lFY25FbFpncnpOdzkzV1RkVjFMUQ?oc=5",
+      "date": "Sun, 22 Nov 2026 11:52:00 GMT"
+    },
+    {
+      "title": "軽トラックがガードレールに衝突、助手席の妻死亡、奈良県五條市の国道24号",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OYThsZF85eDZydzJTWVJQWm1xWFJzc3F4clRqZGtQRnNrUF9ZZ0paQ2UxM2hHVGpSYWxvcXhyS3lQT3N5RHM2N2ZPVE5NYUUzRW1jY3FTT3pCMTZsREs4?oc=5",
+      "date": "Sat, 22 Aug 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "奈良県警察 公式サイトを検索",

@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T19:35:10.913276",
+  "generated_at": "2026-11-23T21:50:57.205692",
   "pref": "兵庫県",
   "region": "近畿地方",
   "capital": "神戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 11.8,
+    "temp_max": 13.0,
+    "temp_min": 6.6,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 7.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 7.5,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 6.8,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 8.9,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 10.6,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "18:00",
+        "temp": 11.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 11.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "全国ワースト、交通事故死急増の「汚名」返上 兵庫県警が取締隊発足、速度オーバーを抑制へ|社会",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdzZXbXlXQkdGVF9ONjE5VngzQzFDUFhQTEY5Q042cFBKQ1JKYmQxQ0Qtckp3NWJSbVhFMEJpLXVWOTRaWTk3MUtvVVVmUzJQVmRVeTlyaURiS1VRN1pJdkx0Tmw1WnhlSzZCM25n?oc=5",
+      "date": "Wed, 01 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Mm5PZGluTWQ0NTZ4QUZuQzZ6MUQyLWdYRmtGdi15M0JJaTJRaXV0T3MwU3VqV1VicmZ6ZVFyZlRfaWh3MFhWUjBQd3pkRkdfRjlfWGF3X0ZhMUpMeEZCRm5ueFF0SENNU0Q5S213?oc=5",
+      "date": "Mon, 16 Nov 2026 20:15:37 GMT"
+    },
+    {
+      "title": "兵庫：改造車爆音走行 ストップ 近年増加 兵庫県警が取締部隊 ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQVlxR0lPRWlESmIzMGNkbWs2TzJxbS1CTmlDSTdSbXdma2ktSUdLd1FnYzlyX1FydlRWX0IyVzJFRG9BcElxNU1yd2dzMktSZTRybkRzX1d5Q0tVZkEwOHhYMENfV1ZnV0lPVXZhSi0?oc=5",
+      "date": "Thu, 24 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「六甲山」で不正改造車を取締り 10台に整備命令 兵庫陸運部による街頭検査で",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fb1hrR2VqTVU0NFF0VVBONkd6cWJqSjM0TkRSNGxUNGpGcXM3OVY1ZF9vRGtyUjRnN2E3blV6SzBJRFB3NUF0V00yb0pvR2JYcFFMVVF4MDBFcWxLOE0tQ1lXOFR1RUFLckdON09YbmRKTlBxN0xha01hS3JBUzQ?oc=5",
+      "date": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "「まん延防止」解除で飲酒運転増えた 取り締まり強化へ大規模検問 兵庫県警",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vRnFJTWloaTBMTTc1WWE5SndCZHliWE5Ec2c2VGx3MWNhNEFMbUM2NjFxek84Tk5XUzVMcENuZVY5T04yN3RfX1IzM2d5YXJFcHBCRUxscUlxV1NIb0xnVl9VRFo5MDRKd3RncDVR?oc=5",
+      "date": "Sat, 25 Jun 2022 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "乗用車など5、6台が絡む事故 数人がけが 山陽自動車道下り線の目坂トンネル入り口付近 赤穂|事件・事故",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94X1ctd3EtTHdWbHphbjUzbUtnWHQ3TGhNQW5xN3F3V0pFazlkcWloSkVOLTk4YU1DcHpuVm5IWkVIbGpaS3h2a0VvcFMtSWV3VnV0WU5tMWYyem9nRFU4TmFjRkdaYWlTUTFB?oc=5",
+      "date": "Sat, 21 Nov 2026 03:29:08 GMT"
+    },
+    {
+      "title": "兵庫県内の交通事故死者数が急増 県警音楽隊が園児らと交通安全PR [兵庫県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZVpJQ0xJN3I4R2RvNXdCcG5LaU1QVno4SHB1VnI1NFhIMWZSVGoxTkdRa2VXOU1YWV9DS0p1ZVZUZzZWTFRDNHdOdHJaTmJENUNic0hFRlpTbFpub3VBYkdGaDBKNEk?oc=5",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "令和8年度夏の交通事故防止運動",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQOENQLU1kTjNLdDBnU3N4RW5hV3locndLUzlwNFNSelN0SjBRUlhuY3VzSkZDZjNOVFNrRXZiWDVNeldFV3hVaUttaFRPOWlaektFTXpiOElpTVk?oc=5",
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "出勤途中 警察官が交通事故 女性が重体 富山",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mTFR6WkxuZnJMMjVYRWdnNGdqLXV0VjRaeXBXdUhTVFZxUjhmaGpFTFZUVV9HRHNXZVY3N1FmUkxaam1JRkxISVVRMkNUd0FtY3NRQ2ZDb1lOMVgzOEpaUkN5UTQ4Z0x4Ri1mWmRvenF0UQ?oc=5",
+      "date": "Sat, 21 Nov 2026 09:00:49 GMT"
+    },
+    {
+      "title": "【交通情報】交通事故で山陰道の多伎・朝山道路が通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DS2d1R09QeXdVdERCWE9KZkxfbG5JaGcteTVKSlc5Y2hUU2dFUmpUeEZLX0dFUzZjTjFDZEpYNDh5NVFSN1RiMGNhWQ?oc=5",
+      "date": "Mon, 23 Nov 2026 11:17:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "兵庫県警察 公式サイトを検索",
