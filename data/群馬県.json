@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T21:41:07.665131",
+  "generated_at": "2026-11-24T00:02:04.347963",
   "pref": "群馬県",
   "region": "関東地方",
   "capital": "前橋",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 6.0,
+    "temp_max": 13.7,
+    "temp_min": 4.9,
+    "precip_prob_max": 100,
+    "precip_sum": 3.4,
+    "wind_speed": 4.8,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 6.0,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 5.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 5.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 7.4,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 12.1,
+        "weather": "晴れ",
+        "precip_prob": 80
+      },
+      {
+        "time": "15:00",
+        "temp": 12.1,
+        "weather": "強い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 11.5,
+        "weather": "曇り",
+        "precip_prob": 98
+      },
+      {
+        "time": "21:00",
+        "temp": 9.9,
+        "weather": "晴れ",
+        "precip_prob": 37
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "【続報】交通取り締まり中、違反車両に引きずられ転倒 男性警察官が重傷 群馬・渋川市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hQWxJc1lSN1N4WUJfWG5FNDFtWWJrMGdpY2JycUZMY0tKYm5WVGdULXMwRm5UWlNWY1dUNF9heUZKQmJZWVl1YXVOQWlZRzR2VW5iN2k1NWk?oc=5",
+      "date": "Mon, 04 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "自転車の“歩道走行”は取締対象になる？「車道走行で命の危険」罰則強化に困惑の声も…正しいルールを解説【あなたの声で調査しました】",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBadldteFh3Ukt2enpSa2VBS0tKOURmSEJhWER5V2JTUzg3Wmk2bzRQWkZpenJmdmJYZFJ4bzRQVzJCdnJFQ1lfMmtBMHo?oc=5",
+      "date": "Thu, 30 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "title": "ゼンリン、オービス設置情報＆取締実施エリアを知らせるAndroidアプリ「オービス＆取締通知」をリリース - ITmedia Mobile",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UYXhWSFQ0UV9UaXV4MTBCb0o4UEpicXlFVHNuM242a0NyNTBhcWxrZE50N1E2aEE2Wk5yQUZQS0NUTlQyaEZHWGpGLWd2X3g2aXQ5bGxVY2NGMHVPbDBEMG9ndUlZdjhkTFluWGZtZ9IBaEFVX3lxTFBWM29UX0VFbmxlWkppR2s5RUpjVVpkTzc1bnFoRmhxckloS1dBM1N1R2pLbzBwZGhQTmtJUmdWTVZQaTg3WWVCem5XNnpvdmtTeHlBYWxTTnc1bFNVNGd6M2xDUkhxSmJJ?oc=5",
+      "date": "Wed, 10 Dec 2014 08:00:00 GMT"
+    },
+    {
+      "title": "関越道にも「半固定式オービス」新登場！ 新たに首都圏近郊へ続々導入！ 「“シン”速度取締り機」はどこが「斬新」なのか",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczR1azhlam43R1ptOU5MR2RjZ1lUWk5XWS1mYWxEVHh4dVZOSFhSWnZ5TUhQd19uWGV4THpEWXBzRUprUHRHTVh4VXlmZWE0UDVTWmVKWXc5UGN1VnYxOFR2am9rYUVkOEdBNEdtb1lURDNSRkRMNkV2NjB3UTgxbEZfYVdMVTl5?oc=5",
+      "date": "Fri, 01 Mar 2024 08:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転防止へ検問 群馬県警、トラック対象に啓発 伊勢崎市の3人死亡事故を受け",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWhXcFNIeEpERGVoR19PMFl4cnh5MWNPQU1yZl93T1UyNHpsZWJTU2E4ZjltZ2k1dVYyVnVNeTZua2wyVHd0ZTJ3TG9tS21qUHZrRmdQemVCZVdrQTlObg?oc=5",
+      "date": "Thu, 29 Aug 2024 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "軽乗用車と衝突、ミニバイクの男性が死亡 群馬・太田市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSTlmekZUa2dSaGJjVGs1VUdHZ1hka050LXg4RmlwM1dKbUVfS1RWbFBOLTB4STZuUXUyZFhObHp3bFFZYWYxTU1hQzlUbFFpbmF4b2FLREozQQ?oc=5",
+      "date": "Mon, 23 Nov 2026 03:15:00 GMT"
+    },
+    {
+      "title": "群馬・伊勢崎家族3人死亡事故 トラック運転手への懲役20年判決が確定 遺族「この結果を見て少しでも飲酒運転をする人が減ってくれれば」",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jMXdZdEIyTDBaYVlkTzN5djNfeTd2YURvSkloVFFZUDZlWnZmUmRReDlnTm9pd1ZkaGtRYVRzU2dlUFNYMFg0UmJoOG5jeUlGek1adkFBTQ?oc=5",
+      "date": "Fri, 20 Nov 2026 09:53:20 GMT"
+    },
+    {
+      "title": "群馬・高崎市の重傷事故 女性が死亡 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZ0hvbkNzSkdNc2FwYkNVRzFsRnlBTjhTN3hobDlidmpxSHA2LXhLbEcycEdyN0JMekUyOEdLQU5maGxVY3pIQmFJcmUtU3FtLUxWYUFxbWNMdw?oc=5",
+      "date": "Tue, 17 Nov 2026 08:40:00 GMT"
+    },
+    {
+      "title": "交通事故防止に関する取組みについて",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSHlPbzl3elhBSVQ5N283NHJZMUItT0gtU3dmM1JjNmFGNmdpa3JYZ3VEeHpobi1VcTAyZi1ZNnFLc2szRTRPelhlcTJPeTlsX1ZkTQ?oc=5",
+      "date": "Mon, 16 Feb 2026 07:54:28 GMT"
+    },
+    {
+      "title": "群馬・伊勢崎の3人死亡事故、判決確定 飲酒危険運転の男に法定刑上限となる懲役20年",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LNWpyTTRSZWlSRzA5cVV3akp4bUlnektiQWF1elpHTlgyczh3NTJKMlp6Q1VOd1cwYUFDeWNPYU05RndjRG1OTHpFLUdKVkNjUWp1MGNFUHdoUmpEYzFMMEw3ZWExZ0lGOWNHNnFaaEs3UEdPekE?oc=5",
+      "date": "Fri, 20 Nov 2026 06:43:24 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "群馬県警察 公式サイトを検索",

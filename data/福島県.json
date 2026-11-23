@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T21:32:07.467673",
+  "generated_at": "2026-11-24T00:01:50.947964",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 5.0,
+    "temp_max": 13.1,
+    "temp_min": 5.0,
+    "precip_prob_max": 100,
+    "precip_sum": 0.7,
+    "wind_speed": 3.1,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 5.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 5.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 6.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 10.0,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 13.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 14
+      },
+      {
+        "time": "15:00",
+        "temp": 12.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "18:00",
+        "temp": 10.5,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 9.2,
+        "weather": "快晴",
+        "precip_prob": 63
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "１１月２２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZ2tFQ2I0ZUJnNFpiNTBpek51VEdpVDNiNzhCOUlwMGhQNVVFUk9KMnJZaXlkQVFFRTg5d3A2ZkwtRklSRlpmRGJEeFV2VEpxQlQ2NWlCMFNtQlBQV1JVclVseGRVb09a?oc=5",
+      "date": "Sat, 21 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "11月23日（月）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MzRYZEo4WmdFaWs0c0MxYXVpR21kNndUU2FGNl9LclVMNnBWZXc3dWx5ai01Tnd3S1M5ekk2WmpPQkRQNl9VNFNDWGxPYmtRMFBfWXUtcGhqblVPcGdtM3BmQlFGLTZFZ1QyTVhPUdIBdEFVX3lxTFBQTUNtTmUyaHk2RTJyTmtfcTVmR25wM1NYdmdfbEhiUm5sM0c4SjZkZ044aVVNUDVuZ0hWOTY4S0l5bzJCTi1ycTc4OURNYzZ0RmNYTFBKZWpSdGFaQ25oNmh6UWw5V1EzV19YSklFYjBPM0M0?oc=5",
+      "date": "Sun, 22 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "１１月２１日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3OFBGMXNGVlZFMHVPOGFoS1BXTVlmaUNnT3RqUUFETEJveU9mYmJiT0FtVVl6OWk1dFZrVFpzMEpvWTZfU1V4aFI1ckFHNzBTVklUMW9CSV9lSWRTYXhDVVNVOU9uSmRU?oc=5",
+      "date": "Fri, 20 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "１１月２０日（金）【高知県 交通取締情報】午前・午後 各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRnJ4OTBaN1JzelNwRUVPanREVmFrMm9SOFRBQzlZOTZWeUY5QWRraUFWTlpMRXBMd1RQcjA5TXp2RW9aS083RGRpNVI5UHpIVWdVUW1xNnlicUxxTFR1RlBvVUt1YVFy?oc=5",
+      "date": "Thu, 19 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "国道４号で夜間検問実施 須賀川署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
+      "date": "Thu, 23 Jul 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "福島市御山の国道13号線で救急車とトラックが衝突する事故 救急車に患者は乗っておらずケガ人なし",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yUzhTNnNGVjQzTWlnRUxiSXJ1a0ZxLVZQMWRJamtzNVkyQndSUTFYMWs5Ul9Jb0JiaHBoX1J2TWNxSnhweE51bzI5RnhTZw?oc=5",
+      "date": "Mon, 23 Nov 2026 02:56:00 GMT"
+    },
+    {
+      "title": "82歳男性運転の軽乗用車が自転車と衝突 自転車の77歳女性が重傷 福島（福島中央テレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRjhLaGg2UUVPM0RUM0JBU1lGLWJZemh0dkNBYkJpenV1eFJIdDZYdGhPUzhYaHhWYmo5ZUJSbm1jbm9ZSm5jQTVUUmxTU2Ytb2ZESHZ0ZWFPUTZ5dkhUYTlZT0xneDc2ZjRObnUyT0tOX29SeGJiVHdnd3E1eHM?oc=5",
+      "date": "Fri, 20 Nov 2026 03:07:00 GMT"
+    },
+    {
+      "title": "福島市の国道115号で交通事故 50代男性が死亡・福島（2026年11月16日掲載）｜中テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlhqRUthTHNIa1BDTE5EMW4xSG1LTEZ0UE4zRWxVZnJjTUZ2X3hJOFUzbGtIYVlTd3YyWHJQc0Nkc2xlTWRYaHdidngxeE80ZVRCMGF5QkhpbnljdUFDVjJjMDUtbWJ6T1NGVmwxSlAzZDYtNGFmOWk1R1lDNjFObGVQMi1NN0E?oc=5",
+      "date": "Mon, 16 Nov 2026 23:23:00 GMT"
+    },
+    {
+      "title": "【交通事故】福島市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81SWhWLXdocmdLZU42SUgwQXBIMFVMdEVOZjY4NDU5Y3JGWEs0YTd0aFpRRUkwa2U0WHFBZk5rSElpcFRLOFE4UGlibVNnUTA?oc=5",
+      "date": "Fri, 20 Nov 2026 00:17:00 GMT"
+    },
+    {
+      "title": "セーフティチャレンジで交通事故防止！",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veTd3ckZvZGVzZi0td0N1YUN6U0xOVDFFd2ZmTzBaOVFfSTRDMllMV2RuYUlieFp1WTduaFlyMlBXcHZ5Nm1DamxOQnZ0RHk0OXUtY25mZVVOWV8yVFlqcFJ3VXF1ejQ0c05CRjU1SjEwakE?oc=5",
+      "date": "Mon, 30 Mar 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "福島県警察 公式サイトを検索",

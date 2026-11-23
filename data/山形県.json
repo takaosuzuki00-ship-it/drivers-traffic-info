@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T21:29:07.396512",
+  "generated_at": "2026-11-24T00:01:47.047351",
   "pref": "山形県",
   "region": "東北地方",
   "capital": "山形",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 7.2,
+    "temp_max": 12.3,
+    "temp_min": 4.4,
+    "precip_prob_max": 100,
+    "precip_sum": 8.2,
+    "wind_speed": 5.0,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 7.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 6.8,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 7.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 11.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 11.2,
+        "weather": "霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 10.4,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 9.0,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 7.9,
+        "weather": "晴れ",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "11月23日（月）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaE9kdzlqWEZSZXROVnlDX0x5djhiMmpGck1ya08xM3o0NEVqSHBDYWxKSmw5QTRxMFl2MWhjYWdkRHpxUnBwWERVMXY5aG14YnJMc1Uwaw?oc=5",
+      "date": "Sun, 22 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月21日（土）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsLXVtckR1VnpudmIxZmxaYlZQNV9TYWdzVlYxUUhOa1lxM2t5OW9IU2Z6ZnBsZ3N5dk1BWURjZ1RsRVBYMFNJNDBEMTlONDJnOEZJbC1FU3Rzd05PQjFJUHVja2dQVXNlbE0xdXVHNNIBdEFVX3lxTE80YnE2bVBsS3I3NUlBQUlmQjNFRko0YTJ6S0Y3ZEhSYTd3eUhCUWtLdklGS2tJS3laUXZraHZBNGFVTms5TnVxNnlVT3pkLWljME41N29wMGtWVlp6TzFsQXpqSlgzdEhsdTVfdmxhbGVNNFZr?oc=5",
+      "date": "Fri, 20 Nov 2026 20:06:56 GMT"
+    },
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01YTRjTGpadkZkWHR2dk1TaE8yU3V4T3R6aFcwSlFVbnNjeWNHaDJqOUp0Zy1jYWdrODJPNks4MWpydzVmbjlhUlhtRTlqOTJhYUlhOXR2RQ?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "11月21日（土）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nNkdHa1Z0VDJpV3JaQndabFZ4OEdSWUFzZDVBNXN2bE9QWU42R1d0RmE1OEZCRHJyWExvR0tSdlF4VjQ0eEpaTnRLa3JXN25LUHFlMFlhWQ?oc=5",
+      "date": "Fri, 20 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "【現場動画】雪積もる月山道路で...夏タイヤの軽ワゴン車が高速バスと衝突 20代男性意識不明 （山形・西川町）（テレビユー山形）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNFBFeXJqbjRSai1ETndWanRzaFJhaGoxUmNVWEQ1OWQ5b2xOQUg1eE5fZ19sNGVNQ0JkdldOTkxHUVB0Mk9QTEN6cVA4Z09QS1lhMHhYQzRXNWYwTEF3QXRnVUIyY2E4bDhXZUVoOGRDSVRHRjVOSld0bzRqOU0?oc=5",
+      "date": "Fri, 20 Nov 2026 03:11:12 GMT"
+    },
+    {
+      "title": "車3台が絡む事故で4人死傷 31歳男を過失運転傷害の疑いで現行犯逮捕 男が赤信号を見落としたか（山形・鶴岡市）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaUdqVEpFTm1RaVpDYkVUV01pNHhPMmhXcDFqOXpFY1FROFAxR0R0QUhCNWFmaDdUdExnTmVJNC1aR2M5MDRPMVU3cmVkVnFqUWxKQVk4QkZSMHFLNHBTeDNQTm1iUnM?oc=5",
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "夜明け前の道路を歩行中の男性（38）車にはねられ死亡（山形・米沢市）（2026年10月11日掲載）｜YBC NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2pFdkhScm5veUx0QmhTb1J4cXNGdFZBbjYxdmZlaFRHVnFoWWdkYzZ6X0dLcHQyUU5la1BPRUw0ZWs4bjllTUVfTDY1enFLcTlVN2hUaVBRa2xadWhPY3Jodm4tWlNkZlJyRExjdDF0aFItb3ZSTElNLV9RM25kQ1QtMUhHTGc?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "山形 県水産研究所の潜水死亡事故 県が現場に慰霊碑設置へ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxaXh6MlFWQldKV191akcySjdhcjVQSHh3Y0tuOG1UZFRnMjBheEotZE12RHNoOHFGMVROWUtYVkdEa25pOU1fMDFjUEJMUXB0MDByM2NJZng?oc=5",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "副所長、単独潜水助長発言か 山形・水産研究所職員の死亡事故",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LMEt6NllXUEI5dE90R3Z4dksxc2ZrckRVWmZFNmFtNjlCWm5DbkhfRFdDU3Y2bDJtdm1qaGlXZzAteWdpczZwdkFGVEE5Y0ZMVnNYOHU2NlRJTnVaLVZ3Wk1qQXRGc0Rk?oc=5",
+      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "山形県警察 公式サイトを検索",

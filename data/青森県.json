@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-11-23T21:17:07.197745",
+  "generated_at": "2026-11-24T00:01:29.532974",
   "pref": "青森県",
   "region": "東北地方",
   "capital": "青森",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 8.1,
+    "temp_max": 11.1,
+    "temp_min": 1.2,
+    "precip_prob_max": 100,
+    "precip_sum": 29.3,
+    "wind_speed": 16.4,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 8.1,
+        "weather": "強い霧雨",
+        "precip_prob": 92
+      },
+      {
+        "time": "03:00",
+        "temp": 9.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 94
+      },
+      {
+        "time": "06:00",
+        "temp": 11.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
+      },
+      {
+        "time": "09:00",
+        "temp": 9.3,
+        "weather": "霧雨",
+        "precip_prob": 98
+      },
+      {
+        "time": "12:00",
+        "temp": 7.9,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 7.4,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "18:00",
+        "temp": 6.2,
+        "weather": "快晴",
+        "precip_prob": 86
+      },
+      {
+        "time": "21:00",
+        "temp": 2.5,
+        "weather": "霧雨",
+        "precip_prob": 100
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "「第三新興街」と呼ばれる場所で 風営法違反の疑い 男女３人逮捕／青森市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aHlxQ01YU19nU2xabGFmMUtYR3l2M3BBM0RaNkF6emUzMjFSU285VTVBS3VhOE9mUUF1Vkp4UXhLTkpkT1d0QWhXd3J4ekxrVUdhblZGTjM?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "七戸町長と町議を公職選挙法違反の疑いで書類送検 去年の町長選挙巡り事前運動などの疑い",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGZFWmdnVmhxakJpdFlYN19DTGw4TVJ1RFotUnM4azY2eU1oTGxJWFFmQ3dHeml1LUlsSXZnSFN1eWFEdW1oeUJzNzV5WWNkRnhiVXFqS1Ryc3d2WFEwdHQ5QjVCSTNsOVJqOFNwb1BCdm9aSk51ZldveXliZDZyamlINmhDVGha?oc=5",
+      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "八戸市のひき逃げ事件 車にはねられた58歳女性が死亡（ABA青森朝日放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42clZFbDg1bldvTF81S3I0bks3eUdaTUFGeXZXd0xxS2RiOXNhbGJxMGNaLXozc0lyWk95eHA3YmUtY1IzamdQT2VHZG5IeDZreTZKLXM0TFE1THZiTWgyeFJidTZDTzR6NVBTNVR5eUZKdm1LS3Baa2RfMjFxSlk?oc=5",
+      "date": "Mon, 23 Nov 2026 03:38:22 GMT"
+    },
+    {
+      "title": "前方部分が壊れた車を押収 死亡ひき逃げ事件を捜査中の八戸警察署（2026年11月23日掲載）｜青森放送NEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFRpTXIyck45WnppZ1RUUXh0OW9fNmpNM2R0aTZGMVBRenJmX3h1ZDNRVlowdG1wbVN2SkxqX1ZXQ1d6NGxpcFh6RV9NWlQwNWpRT1ZEdFlOdjBaNldZdkRKNnhJUk04ZV9uczl2U0dCbTU3SXR5X1hwMzR1d19hcU52NEpwbHM?oc=5",
+      "date": "Mon, 23 Nov 2026 11:26:00 GMT"
+    },
+    {
+      "title": "ひき逃げで重体の女性会社員死亡／八戸｜社会｜青森ニュース｜Web東奥",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aZ1EteFpRV2lHdFRBQjlPLVBtbW5GTFRNZk5QN093Q3lLclBEY1VHaVU5b3dhTzV2OFVzVEp2a2VVMmtzcUpDZkt1TlRDZHEzYjBNQ2J1TDA?oc=5",
+      "date": "Mon, 23 Nov 2026 10:31:00 GMT"
+    },
+    {
+      "title": "現場にブレーキの跡なし 青森・南部町死亡ひき逃げ事件 送検された76歳の男は容疑否認",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Scjd5dmtOYzAtU0NUcXZPLTlKejNpRUNmOGlFU2JnQXlLaVJyVS1DSHkxVHJ1VThDc2lTcmhmRDQ2RHdvc1otaVBVZW1WTFV2MWkzV2dxbXo?oc=5",
+      "date": "Mon, 16 Nov 2026 09:45:00 GMT"
+    },
+    {
+      "title": "青森県八戸のひき逃げ、重体の女性死亡",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuNkRBWWpLSXR0aHU1UTMwUkFKdm9IZjJCUVhKNklYNVdDYU1pNkRuSnFncDd0aDVTNnZkR25jMlBNcVFneTNBZFJ5Yk9jdkY2UWdTTTVacTFXR08zMW1HaWFXT0xBT0tndmxqUFFwMEJteC1SaTZaRmtBRdIBgAFBVV95cUxPUHJUVVNmUnV0UDdKdEplSFdTSTNWR0w1bjU3Q2t3UnBvZm9CeS03U3FOR3pDQmpYc3pDRWNOWEVsSllHbm1FTFRLaFZ3SjU4Y0F0czZiSXM5Vy1CcEhwY1p1V0FPd2dEUHlFdnNneFViazNuV01VRGwtRkNvSTNRcg?oc=5",
+      "date": "Mon, 23 Nov 2026 04:01:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "青森県警察 公式サイトを検索",

@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-11-23T21:14:07.155951",
+  "generated_at": "2026-11-24T00:01:18.410122",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
-  "weather": {},
-  "enforcement_news": [],
+  "weather": {
+    "code": 81,
+    "weather": "強いにわか雨",
+    "temp_now": 4.7,
+    "temp_max": 8.2,
+    "temp_min": -1.1,
+    "precip_prob_max": 100,
+    "precip_sum": 15.2,
+    "wind_speed": 18.2,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 4.7,
+        "weather": "曇り",
+        "precip_prob": 12
+      },
+      {
+        "time": "03:00",
+        "temp": 7.2,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "06:00",
+        "temp": 7.2,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 8.1,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 7.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
+      },
+      {
+        "time": "15:00",
+        "temp": 6.1,
+        "weather": "晴れ",
+        "precip_prob": 51
+      },
+      {
+        "time": "18:00",
+        "temp": 2.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 6
+      },
+      {
+        "time": "21:00",
+        "temp": 0.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 25
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "北海道警察 高速道路 速度取締指針",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ua1pkTGgzQVluVlpNX2ZRWG83RHlueXo3VVdxQ280alhXSW5MX0NtcEY5dFRWeHZISkI4LTFCcVJabEMxci1ZeTN3S0p1dWxjX0x3XzhSRTNLMl9WU0s0cVc0QlJDZmM4?oc=5",
+      "date": "Thu, 28 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "GO TO警察はまっぴらごめん! 北海道警の「3密(秘密/隠密/綿密)」な交通取り締まりを回避せよ! 【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmUnBJUFpnQmpXMHFfaXBLSnpScFp2UXdkb3FibXlaZlR2eWxhaUdHcm84dU15QUNfay16NXJiZmE2TGdOSFJtLVFtOEZWQQ?oc=5",
+      "date": "Sun, 01 Oct 2017 07:00:00 GMT"
+    },
+    {
+      "title": "速度違反を捏造、有罪判決 元道警警部補に札幌地裁",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53d3ZUWG1sWldYZHBGQi1Xd0RRcjdUN1BWMWFaUkRnYXZiQVFGOTI1WHNLTE8wUUZCUHpYeTAzZ0lwdUpsMFhRam5JSjdnSmhVM01NdXp0eTkxR1RveHR4YTZmSkMtUW1pbVdBMTU2Sy1pc01sVUE?oc=5",
+      "date": "Wed, 13 Jan 2021 08:00:00 GMT"
+    }
+  ],
   "accident_news": [],
   "official_links": [
     {

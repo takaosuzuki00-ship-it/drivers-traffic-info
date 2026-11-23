@@ -1,11 +1,122 @@
 {
-  "generated_at": "2026-11-23T21:44:07.720829",
+  "generated_at": "2026-11-24T00:02:09.336420",
   "pref": "埼玉県",
   "region": "関東地方",
   "capital": "さいたま",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 6.4,
+    "temp_max": 18.5,
+    "temp_min": 6.0,
+    "precip_prob_max": 100,
+    "precip_sum": 10.4,
+    "wind_speed": 2.6,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 6.4,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 6.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 8.5,
+        "weather": "曇り",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 14.1,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.6,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.8,
+        "weather": "晴れ時々曇",
+        "precip_prob": 71
+      },
+      {
+        "time": "18:00",
+        "temp": 12.0,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 11.4,
+        "weather": "快晴",
+        "precip_prob": 82
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "埼玉の国道で持ち運び可能なオービス盗まれる 速度取り締まり中",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93bnpQSzhaZUlGOFNpcmhudFZ1UGJwbjVxTTFQYXJGV3RDMGZMbEpGM2RzWTBTNjhpRjVJT2NNNVJIQ3FjU29pWThuekhFNlEtU0lTaFpNU3pfbFNEOUp5SktVN0VWbmZG?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "持ち運びできるオービスが盗まれる 埼玉の国道 重さは約20キロ [埼玉県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQ0NMeXFnWV9JRDB6d1lIVW1seWVXb0dfWjlOQVh4bWpDeHBzWFJRb3RjdUJMNjh0bTNJMWtYakpzWTR0SGJZZlhYb3M5M1pqbVNsMmlfQ2g1VGxFYXNudDE0TmFhVG8?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "スピード違反の取り締まり中に「可搬式オービス」どこかに消えた 900万円 前代未聞 埼玉県警が捜査",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUFBTXzVJSEstYW5ucW9IY1hLU1Q2WHhndTVtNTFrcTdVeHZEZFZkRDNJNGRjazltV3Y2S1lQN3pEcWY4VmFLN3VYcEI5RUtIam9N?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "埼玉・加須市で交通違反取締中に移動式オービス盗難「犯人確保に向け捜査を尽くす」埼玉県警",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhV1F5NGFNSnA4VDM1N25ud3BhMk5PT2pOUUN3UUpLMFVKOE5wdkt4QTdfenRMR1o2bHF0V3hhZ21TTnhhTXNHM0xTR1F6LWRKWEM3TVhnYjdUNjQzT3FaOFZ6Qm1EM1plZ09aR21aUTBWTkEwcjZYZnhpTVI?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "移動式オービスが取り締まり中に盗まれる、埼玉で全国初…県警「犯人確保に向け捜査尽くす」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vd0FqRlBRb0lFR2EzX05KVmZLb1NaMWx4T0ZHY1g0cEVQTXQyTVNoeUpxV0F6S3RQT3F3cGZfcWNIMUlkZkdHbEtHSU5DVng3NGtYNnhEcG1DRWdMczQ2dU1NV1hyQQ?oc=5",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "埼玉県八潮市の道路陥没事故 遺族が埼玉県に対し約1億2500万円の損害賠償求める訴え 第一回口頭弁論で県側「責任があることは認める」さいたま地裁（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yNV8zZ1ZYTzAzOXZncnBfcGRscWxwRXdWVVk2WE44VXdPYzRpd0x3amxZa2xrWkdxOHhSR3ZxeWFiQm9RWDIyUVdLdV8xQTVrSjJnVGZuSjZUN1REZDUweUg5dFpiamllNzdMYmpfaTJ2LWRIN0ViandTLXRDb1k?oc=5",
+      "date": "Fri, 20 Nov 2026 10:28:21 GMT"
+    },
+    {
+      "title": "埼玉八潮陥没事故 死亡の男性遺族が民事訴訟 県は賠償額を争う姿勢",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZFMwZERSYVMweEU1Ukg0RWFRblRFVjZWd1AtNlJELUh1bjV6bk5RNllUWUJvZlp3enB4TXdkOXNiM1ZJVkhoeUZNZ2VOSTRFWVRRZlM0b2tKV1dJa2w2Zl93R2ZaRXhDSHBlQURqLWVGZw?oc=5",
+      "date": "Sat, 21 Nov 2026 01:34:51 GMT"
+    },
+    {
+      "title": "埼玉八潮陥没事故 死亡の男性遺族が民事訴訟 県は賠償額を争う姿勢",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96N29kcWhDYTN3MUVia25jN0NTZkJ1OVZzanlXaHctNjJmRWZDRHZvZDlSVkd1cFdVdXJpRmt6MmpQdU5DbnFZbGNBV0xPTnhidHNCNWhhbE5weWgtVTJaQ2FZYms0UU5m?oc=5",
+      "date": "Sat, 21 Nov 2026 01:34:00 GMT"
+    },
+    {
+      "title": "令和8年夏の交通事故防止運動を実施します",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIdE9lcEx6Zzd3cEFQc1RlOW53cEU3ZGQySF9ZaDg1OGNNamkyRDRwdktiVUlQS0hTa3ZRWnYtdlZhMjNia09peXFmYndTeDV2RWh1Zm1rRHE3MzdEMjE0SHRySW5jenZoZDJ1d0F3?oc=5",
+      "date": "Mon, 22 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "事故当時は会話も、生還信じていた…救助に3カ月以上「不安と心配を抱え過ごした」　埼玉・八潮の道路陥没で死亡、トラック運転手男性の遺族が賠償訴訟　地裁で初弁論　県、事故責任認める　損害額は争う姿勢示す",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjBydlo2T0c1eGVYbXdra05JVXRlUGJfdTc2ZklJMmg2c2hjZUpVdEdnSzBhTDZLQ3Nvdjd3Skg2OF92OGJQX0laQnUwLWZrYjRzUW5Ec00xci1NU2lhdEpDOTQ3c2xkYS1OTENkNzhsanRfVUlCOG9mbGVfZ2ctT3NWZ9IBiAFBVV95cUxOY3pwRTlpcjVIODREYTRsaUNJNjVzV05KQkVfcUR0eXdiV1ZOd2RydDB2VWxqOGFVV2JwTWJQb0NKS05PY3VYbUVzTzNMOHVaOVY3OW9sOVg5ZWE4RWJMVlVCSTR2MWRTdy10YkZnb0VtUGhlaTY5d184MTFKMW51OTNrZ19oYWpM?oc=5",
+      "date": "Mon, 23 Nov 2026 00:05:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "埼玉県警察 公式サイトを検索",

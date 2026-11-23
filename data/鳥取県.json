@@ -1,73 +1,83 @@
 {
-  "generated_at": "2026-11-23T21:51:38.271516",
+  "generated_at": "2026-11-24T00:03:39.432272",
   "pref": "鳥取県",
   "region": "中国地方",
   "capital": "鳥取",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 10.7,
-    "temp_max": 13.9,
-    "temp_min": 3.1,
-    "precip_prob_max": 0,
-    "precip_sum": 0,
-    "wind_speed": 13.0,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 12.0,
+    "temp_max": 13.1,
+    "temp_min": 5.9,
+    "precip_prob_max": 100,
+    "precip_sum": 9.0,
+    "wind_speed": 14.4,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 4.6,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "03:00",
-        "temp": 3.7,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "06:00",
-        "temp": 3.7,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "09:00",
-        "temp": 8.2,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "12:00",
-        "temp": 12.9,
-        "weather": "快晴",
-        "precip_prob": 0
-      },
-      {
-        "time": "15:00",
-        "temp": 13.8,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 10.8,
+        "temp": 12.0,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 12.6,
+        "weather": "曇り",
+        "precip_prob": 6
+      },
+      {
+        "time": "06:00",
+        "temp": 12.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "09:00",
+        "temp": 12.1,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 12.0,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 10.9,
+        "weather": "曇り",
+        "precip_prob": 82
+      },
+      {
+        "time": "18:00",
+        "temp": 9.1,
+        "weather": "曇り",
+        "precip_prob": 76
+      },
+      {
         "time": "21:00",
-        "temp": 10.6,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 8.1,
+        "weather": "曇り",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
     {
+      "title": "11月23日（月）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zaE9kdzlqWEZSZXROVnlDX0x5djhiMmpGck1ya08xM3o0NEVqSHBDYWxKSmw5QTRxMFl2MWhjYWdkRHpxUnBwWERVMXY5aG14YnJMc1Uwaw?oc=5",
+      "date": "Sun, 22 Nov 2026 20:02:00 GMT"
+    },
+    {
       "title": "可搬式オービス取締り予定 11月10日午前に八頭町内、11日午前に境港市内 鳥取県警",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTBIQndmR3FDaVBsOEMxMkpQYUc4eDhsT0ZzeWYtakNwdmNnV2tMcWlraEUyTXd4X2JWUjMydGtpZzFLRDMyUGNTMl81VTNSZGtSMDZhQVVJYkpfd2ZWWjdGM1RiYnQ5czItc043bXU1R1JkN1pRTjFDVkFIMnNQOXRPQU9Wc1k?oc=5",
       "date": "Mon, 09 Nov 2026 10:36:19 GMT"
+    },
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01YTRjTGpadkZkWHR2dk1TaE8yU3V4T3R6aFcwSlFVbnNjeWNHaDJqOUp0Zy1jYWdrODJPNks4MWpydzVmbjlhUlhtRTlqOTJhYUlhOXR2RQ?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
     },
     {
       "title": "鳥取：生活道路にオービス 智頭署など 法定速度３０キロ取り締まり ：地域ニュース",
@@ -78,16 +88,6 @@
       "title": "可搬式オービス取締り予定（米子市） 9月10日の予定を14日に変更 鳥取県警（2026年9月9日掲載）｜日本海テレビNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlozbTBwVUtnNkdlRENRXzg0VTlvQ3JjdElXel9lbmtZR3dGM2s0cUY2ZzgxMXE2bnRnTGVMTUlBN0ZzdFVXS2FJZGJBRUV6bHg3ODZmcFFYVUtsRHhBQ2RmWjUwYXd4Yno5TDQtYzJwaENnUk5KZjlYVWpyczRjVV85UG9fcHc?oc=5",
       "date": "Thu, 10 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "可搬式オービス取締り予定 9月9日（午前）鳥取市 10日（午前）米子市 鳥取県警",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWVRWFJzbjNKU0Y5YXZaSk9oU19mQzhsTmZ5RWpzUm9XRnE5NHRhN245Z3dlZEdzWlR6R1pYZnJoNE1zU2JhV3lhSGxqdEpFWmNhclhtUXZ5Q1Z4SWVuVnZES0FPbTRxc2llNF9ueHVrZDBkdlpzelIyNGtOeUhFRE1HS2dlS0U?oc=5",
-      "date": "Tue, 08 Sep 2026 10:24:46 GMT"
-    },
-    {
-      "title": "島根・鳥取県警が合同訓練を実施 情報共有や県境をまたいだ緊急配備や検問を確認 今後もさらなる連携対応の強化に努める 島根県・鳥取県（2026年6月19日掲載）｜日本海テレビNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmp2NEhQV2JOUG40YnlEVzl1LU5SQnFuY3JhT2JxTk5uNTd3eDFUNHFHZG0tTXFmV1ZQSWViM0NfSFJ0dDBET2lTRE1jQkViYUE3M19mdUhaYkhDTzdsVzBIRERDMWVQRDlEdWFCcmpOLW13STVhV3hISG80REN5RGhydEF3UU0?oc=5",
-      "date": "Fri, 19 Jun 2026 10:00:59 GMT"
     }
   ],
   "accident_news": [

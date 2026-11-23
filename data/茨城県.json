@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-11-23T21:35:07.531506",
+  "generated_at": "2026-11-24T00:01:56.267719",
   "pref": "茨城県",
   "region": "関東地方",
   "capital": "水戸",
-  "weather": {},
-  "enforcement_news": [],
-  "accident_news": [],
+  "weather": {
+    "code": 63,
+    "weather": "雨",
+    "temp_now": 6.0,
+    "temp_max": 17.7,
+    "temp_min": 5.3,
+    "precip_prob_max": 100,
+    "precip_sum": 12.1,
+    "wind_speed": 2.7,
+    "hourly": [
+      {
+        "time": "00:00",
+        "temp": 6.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 0
+      },
+      {
+        "time": "03:00",
+        "temp": 5.7,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 5.5,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 13.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 17.3,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 17.5,
+        "weather": "晴れ時々曇",
+        "precip_prob": 69
+      },
+      {
+        "time": "18:00",
+        "temp": 13.5,
+        "weather": "雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "21:00",
+        "temp": 11.0,
+        "weather": "快晴",
+        "precip_prob": 94
+      }
+    ]
+  },
+  "enforcement_news": [
+    {
+      "title": "１１月２３日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1INGhBZk52RjlOaTF0bVJTYVdTN2gzYlZWeUhiaENZc1B6QW01bk5FcVVFV29UVUJaZXhQanN3cHZjNlVYVTh2eDk3ZkdaTlNMZWVTaUdrUjd2dFZPMVNTSy1NQ25jSUxKTFdpczZLdldGUdIBd0FVX3lxTE9GXy1lOTl2YXNncjdoWmFGUjZ2M1Q1eWYzTVhQR2RzRk1fV3ZlM1JFcHFfZzlQSWNSdEFySEtMc1NUOUNqTTMwREFLTmFoNDhHeGtyTzVUUmhoV3VRZ3JmZldMdXRPeDlrMkFkMGF2T2tCZHMzbFYw?oc=5",
+      "date": "Sun, 22 Nov 2026 20:06:29 GMT"
+    },
+    {
+      "title": "7月16日（木）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54c1U4c3llSTlCZ0M3NlQ0MXJUWXpCdEJZNk9xbW5RaFlabHZQYWhZbHNJTHNOTXJMMEQ3UjdYNFVvM3pyLWJPYl9lS3BTdTVxZV9lN0h0cG5hZw?oc=5",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOGkwYkNQNVcwcDZpbEpHMjgwWHFQRHJuQ0Y0WDlfcUMtOEh5aEF5bWdVUkpneHVHaEdlMnFVMFNpOU9qTGN4ZnFrV0VWQzZoM2c5V1Q0Ykk4R2lTb2pwNk5yU1ZwZ2dCemF4dmt3d9IBdEFVX3lxTE5NRVZoYm1FSU9CTDJPTjMzZlR1MnFPd0xCaXVKVlJsWTl0VWw2aUs3NE9fdjI2TnN6NzBjQnREVDlCMHR5dUowMGVUUm9CdEV6U0F3ZHdEVFFwcl9meFRzcHotUk0xLTlpZzJjQksxcDVwdHRv?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "title": "水戸女性殺害、被害者の車に紛失防止タグ…ストーカー規制法違反容疑で男を再逮捕へ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vQ3lMbEVfeEJPZ2liSl96b3AxQW1tVTVmWnpEX3B1Y1hIVTYySlVrVXhxS2h1M0p4TkVFbEhrWW5sWVVrMm1SUURpa0wyNkw5NzU4b18ycENSTFlnenNETTBIM0RqZw?oc=5",
+      "date": "Sat, 28 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "茨城内26か所で検問実施 311件検挙 つくばでは自動車盗の防犯対策呼びかける | 社会 | ニュース一覧",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNGxsUFFTRHRGdkxrZmliZU4yQWpUelpCcFdFQ1JSWXNXckVHQ0x2bFJVdVM5NlViYURHQUxzV0wtOGY5S0JacU5jbzJlUHN3SU15eWF3?oc=5",
+      "date": "Mon, 29 Sep 2025 07:00:00 GMT"
+    }
+  ],
+  "accident_news": [
+    {
+      "title": "海上に浮いた女性 死亡確認 ひたちなか（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRYUF0WVFaaWVQRzVEMm1INGZtOEdZMWt5Q3ZNdmhfNG50Y0JMYS1KMC1fVHlZNzB4Y3JYQkdSV1JVV1pJVHBVR29pSGU5LWFYWFJERzFoTWRRNUwwM0xGR08yMjFQcU0wV0hGT1Rxb2JPSE93V1MybmhFRkpCcDg?oc=5",
+      "date": "Sun, 22 Nov 2026 07:11:00 GMT"
+    },
+    {
+      "title": "注意！交通死亡事故が多発しています",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVJWZHVKdFo3WlJSV1o5Y0RaN2VkVkczM2pOM3BseTJPdkVUdjNfbk9mdmhvbjJCM1BQekY5a2RIdXJlV2tURWVtSnhMVXpOdDFUNEplUk16TUlVTjhvQWpxcThPRkVERWItdEluV2laak54bmpQUWJ6NkZMVG0zRjVoQVVLbDMwOU1NVXR2bTJwQTdINElubW9xbjNWODBSemRj?oc=5",
+      "date": "Wed, 11 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "1トンの敷鉄板落下 下敷きで76歳男性死亡 水戸（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nb3BQYlo4SFpHLV9ZTzcwN0xjRlRxNXVnck5kcnhxeTlVVzFIdTlXaVNHQnM0MmVXUVJSMU5qU3B6eExMQmY5WG1RdXJBaVpieWZ6NWVMTVRJRU5SLVdPWkdDSGN6WjNjbVE1QUIybHpYR01xZUZnYkJHM1NrMXM?oc=5",
+      "date": "Fri, 20 Nov 2026 10:22:00 GMT"
+    },
+    {
+      "title": "【更新】乗用車が電柱に衝突 62歳男性死亡 土浦（茨城新聞クロスアイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95QVNodWlYaFZKOFMxRVZJNlJlRTR3eWREVDNLVEVabkU1S3Q3RVlEUDRSbjZwY2ROYmJRekxIVEVrWDJtSXFhM0V1OG1ibXZiN3VKUC1yN0M3OFAtTEtiWjBxa21CT1I2QmJEOXJmaGJIWC1Ca0lVN3JHX2NickE?oc=5",
+      "date": "Wed, 18 Nov 2026 08:40:00 GMT"
+    }
+  ],
   "official_links": [
     {
       "label": "茨城県警察 公式サイトを検索",
