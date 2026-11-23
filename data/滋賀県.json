@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-24T00:03:13.219522",
+  "generated_at": "2026-11-24T03:05:31.782289",
   "pref": "滋賀県",
   "region": "近畿地方",
   "capital": "大津",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 10.0,
-    "temp_max": 13.3,
-    "temp_min": 7.3,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 10.5,
+    "temp_max": 13.9,
+    "temp_min": 7.2,
     "precip_prob_max": 100,
-    "precip_sum": 29.9,
-    "wind_speed": 7.0,
+    "precip_sum": 23.7,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.0,
+        "temp": 9.5,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 11.1,
-        "weather": "晴れ",
+        "temp": 10.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 12.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 69
+        "temp": 11.9,
+        "weather": "曇り",
+        "precip_prob": 67
       },
       {
         "time": "09:00",
-        "temp": 12.8,
-        "weather": "弱い雨",
+        "temp": 13.4,
+        "weather": "弱い霧雨",
         "precip_prob": 100
       },
       {
         "time": "12:00",
-        "temp": 12.9,
-        "weather": "雨",
+        "temp": 13.1,
+        "weather": "強い雨",
         "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 12.3,
+        "temp": 12.4,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
         "time": "18:00",
-        "temp": 10.3,
+        "temp": 10.4,
         "weather": "晴れ時々曇",
-        "precip_prob": 33
+        "precip_prob": 20
       },
       {
         "time": "21:00",
-        "temp": 8.4,
+        "temp": 8.5,
         "weather": "晴れ",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOGkwYkNQNVcwcDZpbEpHMjgwWHFQRHJuQ0Y0WDlfcUMtOEh5aEF5bWdVUkpneHVHaEdlMnFVMFNpOU9qTGN4ZnFrV0VWQzZoM2c5V1Q0Ykk4R2lTb2pwNk5yU1ZwZ2dCemF4dmt3d9IBdEFVX3lxTE5NRVZoYm1FSU9CTDJPTjMzZlR1MnFPd0xCaXVKVlJsWTl0VWw2aUs3NE9fdjI2TnN6NzBjQnREVDlCMHR5dUowMGVUUm9CdEV6U0F3ZHdEVFFwcl9meFRzcHotUk0xLTlpZzJjQksxcDVwdHRv?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
+    },
     {
       "title": "神奈川県警が不適切な交通取り締まり、違反２７００件取り消しへ…反則切符の虚偽記載疑いも判明",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za2tBLW5RSnotZVlWVHI2Y3l6Y0pDTmotXzVPaV9HWTA3cnhSVHZOemIyVUJyQ1JzLU1vaUlRUEtWbEF6R0YyUDFTZl84NExqcEQtMlc4X3lNdDY2c1JvT2w1QTcwZw?oc=5",
@@ -78,11 +83,6 @@
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
       "date": "Thu, 09 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "title": "検問や警戒活動など「一掃大作戦」奏功か 滋賀・大津署管内 昨年の飲酒人身事故が大幅減",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rd2JUSUtEZWNlMGgzdGdfYzN6aHpTbnhyejU3SW9hZUFlQXJaZXZhTk1Rb0cyWENnaE95bmNuTEUtQ1BXMmIwcEdPOWFTT2Z5TlU5bUNTOW1TT1ZZczNhS0ZILVlyVWN3VmVaNnZCemZ3Z3Z6VXc?oc=5",
-      "date": "Thu, 05 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "「子供の列に思いやりを」 滋賀県警、通学路や生活道路で見守り・交通違反取り締まり実施",
@@ -112,9 +112,9 @@
       "date": "Fri, 25 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "市役所職員の男性（59）はねられ死亡 夜の県道で水道工事の交通整理中 ライトバン運転の男性「人に気づかず」 滋賀・高島市",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NQzBOQ2k0RzJvaXJlWHQxRFpnSXZ0S0lmN0k5aGE4NVRIcUVrMzhNdmY0WXVabkxuNG1WcVkxbmp4WW9fbUMxajczanBDVEF0MkgwWUFJSlNpY3VBZExFUU5wX3NFRi1uLVc2YTYzZG1FaVJhMTk1UU1ZUmdZOEE?oc=5",
-      "date": "Thu, 19 Nov 2026 02:31:08 GMT"
+      "title": "滋賀・高島市 県道の交通整理の作業をしていた市職員が軽四貨物自動車と衝突し死亡 市職員は交通整理の準備をしていたとみられる",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SM2hqcHJyQ0hwSU04OFNJamg0Q1VadjVyeURYanJRdm90TG1MOHRCUHp6WjhONXA2WF8wd1l0d2UwM0NOVjFGcm40eWpxMTBTbk1oV3pqdDhZeWxEdEg3UFVKejA5cF9pR0hRNDNvaDNlWEF2QTdRdmFlcHVFNW8?oc=5",
+      "date": "Thu, 19 Nov 2026 03:40:43 GMT"
     }
   ],
   "official_links": [
