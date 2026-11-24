@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-24T21:04:29.180238",
+  "generated_at": "2026-11-25T00:05:05.751966",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 6.1,
-    "temp_max": 11.8,
-    "temp_min": 4.4,
-    "precip_prob_max": 100,
-    "precip_sum": 29.2,
-    "wind_speed": 12.5,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 4.8,
+    "temp_max": 9.5,
+    "temp_min": 3.9,
+    "precip_prob_max": 0,
+    "precip_sum": 0,
+    "wind_speed": 9.7,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.5,
-        "weather": "弱い霧雨",
-        "precip_prob": 16
-      },
-      {
-        "time": "03:00",
-        "temp": 10.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "06:00",
-        "temp": 11.0,
-        "weather": "雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "09:00",
-        "temp": 11.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
-        "temp": 10.7,
-        "weather": "晴れ",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 10.1,
+        "temp": 4.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
+        "time": "03:00",
+        "temp": 4.2,
+        "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "06:00",
+        "temp": 4.1,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "09:00",
+        "temp": 6.0,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "12:00",
+        "temp": 8.7,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
+        "time": "15:00",
+        "temp": 9.4,
+        "weather": "快晴",
+        "precip_prob": 0
+      },
+      {
         "time": "18:00",
-        "temp": 9.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 22
+        "temp": 6.4,
+        "weather": "快晴",
+        "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 6.1,
+        "temp": 5.4,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 0
       }
     ]
   },
