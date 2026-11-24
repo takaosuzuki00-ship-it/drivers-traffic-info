@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-24T18:04:44.761453",
+  "generated_at": "2026-11-24T21:02:21.063896",
   "pref": "千葉県",
   "region": "関東地方",
   "capital": "千葉",
   "weather": {
     "code": 65,
     "weather": "強い雨",
-    "temp_now": 16.8,
-    "temp_max": 18.2,
-    "temp_min": 11.4,
+    "temp_now": 13.5,
+    "temp_max": 18.5,
+    "temp_min": 11.3,
     "precip_prob_max": 100,
-    "precip_sum": 17.7,
-    "wind_speed": 16.0,
+    "precip_sum": 19.2,
+    "wind_speed": 11.4,
     "hourly": [
       {
         "time": "00:00",
@@ -41,29 +41,39 @@
         "time": "12:00",
         "temp": 18.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 27
+        "precip_prob": 31
       },
       {
         "time": "15:00",
-        "temp": 18.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 90
+        "temp": 18.5,
+        "weather": "曇り",
+        "precip_prob": 41
       },
       {
         "time": "18:00",
-        "temp": 16.8,
+        "temp": 16.2,
         "weather": "強い雨",
         "precip_prob": 100
       },
       {
         "time": "21:00",
         "temp": 13.5,
-        "weather": "霧雨",
+        "weather": "弱い霧雨",
         "precip_prob": 100
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
+      "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "移動オービスは赤く光る？ 白く光る？ 福岡県警も教えてくれた、これがみんなが気になる移動オービスの光り方！【交通取締情報】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNei1Pb09kQWdRTkJLSHM4a2ctd0VaR2VCOTNleFFPSWY2RXhoTGJTMEZFTExjTFFhWHlIbUhFa2ExYmdrQTRCTGwwOUpqdw?oc=5",
+      "date": "Wed, 10 Jun 2026 09:37:52 GMT"
+    },
     {
       "title": "都道府県警察／10月の公開交通取締り情報更新、重点場所などを取締り",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U2tVUk9xZFpsSk4xNzdKT1pjbHhNWnZ6di1jYk05MW8zTmZnSVVkQmhSTENWU1BLbEtDa1VuODdsMk11UE16NTN0ZnRSb2t6QksyRw?oc=5",
@@ -78,16 +88,6 @@
       "title": "年末の飲酒運転、許さない 銚子大橋で合同検問",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4YUhoT0hBbzhSLVllZWFuVUw4amxiNXdaMzBheldVX0wxcHRyRzFNRW5VZ01TeV9kVm9DSFIyNVRYUndjYm16RWs1M2hkNW1QRk5lenloMy0?oc=5",
       "date": "Sat, 21 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "年末の飲酒運転、許さない 銚子大橋で合同検問",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pTGN0WWhaSE1SQ3dkbHBfbEc2dXN1Y3paMHFfbU5FcW9JanFtMS1rQU5qYXU2SnlwZWtwdkJwcDloMHlTNjJlU2tIWQ?oc=5",
-      "date": "Sun, 22 Nov 2026 05:15:10 GMT"
-    },
-    {
-      "title": "飲酒検問から逃走、自称会社役員を逮捕 酒酔い運転の疑い 千葉市内",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zTXc4eEk4cHNNSmRHSUVWR3ZwdnVhQ1JrMTl4TlJzdWVsV2NIdlFMYlQ2NmpQSllUc0pncnNnRnhqeUFsMzY3b3d1NjMwbDY2aXR2elRiMk0?oc=5",
-      "date": "Fri, 06 Nov 2026 20:05:50 GMT"
     }
   ],
   "accident_news": [
@@ -103,8 +103,8 @@
     },
     {
       "title": "交通事故の発生について｜ニュース｜ジェフユナイテッド市原・千葉 公式ウェブサイト",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aOElCQVhHUkV5ajdwaE84SDNJMUxRWExISFlnanI5WThQQ25idVM2SUd5a1dNT014TWotLXU2V1FKZ0s0TlNpYlUxNUtQMlBqX0E?oc=5",
-      "date": "Wed, 23 Sep 2026 01:15:35 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LMGE3NkZPWUhRaG1vSC1taU1CbG5Kd0pjaldfRUdjeTVNaXQwOEtkZ3dzNWY4RVV2V3JLR0t4R2VOMVAtYlNLZ1M4NVZ2dlZhc2c?oc=5",
+      "date": "Wed, 22 Jul 2026 09:22:32 GMT"
     },
     {
       "title": "高架にトラック荷台が衝突し横転、助手席の男性（51）が死亡 運転手の男（61）を逮捕 千葉市",
@@ -112,9 +112,9 @@
       "date": "Thu, 05 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "東関東道でトレーラーと車2台の事故 トレーラーは横転 3人軽傷 千葉・四街道市",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96aVdGbG5CdkZ0VnlPb1FaYmJHcmZEQ29KTEtObUFUZnVYUUJDckNCVjl4UzBaYm1FQjl6d1FtNkJYNjYtY3dNckdKdk5iYlRsUlRScU9NbTkyZGx4TTFJVUN3SDFlRWFmZmtUV3J3blVCZw?oc=5",
-      "date": "Sat, 14 Nov 2026 08:00:00 GMT"
+      "title": "90歳男性、軽乗用車にはねられ死亡 千葉市若葉区（千葉日報オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aLTB0UWZMZXRTcGdreTFpdjNXc1dxb1Q5RFJpTmtoNGxuSTZVc28tendiQ3E0bjZiVUhxQ0JOeldMQk9KRHlFSmlWVjR5bXBWaGhobDh0ZzZUc2xaa2hyV1U0SldjZkZJWnpLLVRiejIzYlJsSWgtWDRoSDFtTUE?oc=5",
+      "date": "Tue, 24 Nov 2026 03:11:13 GMT"
     }
   ],
   "official_links": [
