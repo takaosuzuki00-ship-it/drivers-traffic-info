@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-11-25T00:01:13.899282",
+  "generated_at": "2026-11-25T12:08:12.270424",
   "pref": "北海道",
   "region": "北海道地方",
   "capital": "札幌",
   "weather": {
-    "code": 85,
-    "weather": "にわか雪",
-    "temp_now": -1.1,
-    "temp_max": -0.5,
+    "code": 71,
+    "weather": "弱い雪",
+    "temp_now": -0.9,
+    "temp_max": -0.7,
     "temp_min": -3.3,
-    "precip_prob_max": 96,
-    "precip_sum": 1.2,
-    "wind_speed": 10.2,
+    "precip_prob_max": 100,
+    "precip_sum": 1.0,
+    "wind_speed": 16.8,
     "hourly": [
       {
         "time": "00:00",
         "temp": -1.1,
-        "weather": "弱い雪",
-        "precip_prob": 22
+        "weather": "快晴",
+        "precip_prob": 27
       },
       {
         "time": "03:00",
-        "temp": -2.5,
+        "temp": -2.6,
         "weather": "弱い雪",
-        "precip_prob": 49
+        "precip_prob": 53
       },
       {
         "time": "06:00",
         "temp": -3.3,
-        "weather": "弱い雪",
-        "precip_prob": 61
+        "weather": "晴れ",
+        "precip_prob": 59
       },
       {
         "time": "09:00",
-        "temp": -1.4,
+        "temp": -1.7,
         "weather": "晴れ",
-        "precip_prob": 51
+        "precip_prob": 29
       },
       {
         "time": "12:00",
-        "temp": -0.5,
-        "weather": "にわか雪",
-        "precip_prob": 96
+        "temp": -0.9,
+        "weather": "弱い雪",
+        "precip_prob": 90
       },
       {
         "time": "15:00",
-        "temp": -1.3,
+        "temp": -1.2,
         "weather": "弱い雪",
-        "precip_prob": 82
+        "precip_prob": 92
       },
       {
         "time": "18:00",
-        "temp": -2.8,
+        "temp": -2.7,
         "weather": "晴れ",
-        "precip_prob": 63
+        "precip_prob": 69
       },
       {
         "time": "21:00",
-        "temp": -2.5,
-        "weather": "晴れ時々曇",
-        "precip_prob": 69
+        "temp": -2.3,
+        "weather": "曇り",
+        "precip_prob": 90
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月18日（水）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVTlsMmYyaEdlWnFkRjJBU0RlNms3UFJua25nRUVLYnJKWERaUkt0S3RRZUJaQWZEdWM2UjRkR3V2RlZpeDgtRVA4cWhCZ3JtejdPaW1CVkg3QmhHOFJFLTNYZ3VPRkZUc0VZZmNhY9IBdEFVX3lxTFA5d2V6eW5vR0lVZWhxd2sxbDhqVUNycnVRT2RPZGIzYTV1dURRdUtpbXZheGFYZ3czeFRLanM3QW9PTmtob1BDWDRrM3BmR2FjV3lTUEpOeEJQMGxzNXhBa09lZENTYVc0NGhINlcyVDRCOUtq?oc=5",
-      "date": "Tue, 17 Nov 2026 20:00:00 GMT"
-    },
-    {
       "title": "社説：交通取り締まり 摘発ありきで目的見失ったか",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbmEtdnNmZEFaNUxMX0lDZ2VWOF9pZ29ZSzBFWTlwczVTdHdxV3ZzRkdUNW9CY2RSM0dxOUEtdHhxYklYV1l6NVNpVXVEdUR5REFuQUY3ZFAtVUp1Z21vLTBSMDZVYU0?oc=5",
       "date": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "11月18日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVTlsMmYyaEdlWnFkRjJBU0RlNms3UFJua25nRUVLYnJKWERaUkt0S3RRZUJaQWZEdWM2UjRkR3V2RlZpeDgtRVA4cWhCZ3JtejdPaW1CVkg3QmhHOFJFLTNYZ3VPRkZUc0VZZmNhY9IBdEFVX3lxTFA5d2V6eW5vR0lVZWhxd2sxbDhqVUNycnVRT2RPZGIzYTV1dURRdUtpbXZheGFYZ3czeFRLanM3QW9PTmtob1BDWDRrM3BmR2FjV3lTUEpOeEJQMGxzNXhBa09lZENTYVc0NGhINlcyVDRCOUtq?oc=5",
+      "date": "Tue, 17 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "北海道警察 高速道路 速度取締指針",
@@ -85,26 +85,21 @@
       "date": "Sun, 01 Oct 2017 07:00:00 GMT"
     },
     {
-      "title": "重大事故防止へ検問 道警北本など、北見の国道で運転手に注意呼びかけ 冬の交通安全運動",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96eTFVOUpzUjVnd20teUFIZDdwTUFOWGRHb2hVZno0UEhwN2IxTDVUbXk1Wi13M0wxNzlNbXZFaS1pN19FYW9fLW9MZGlkbDQ2TG1uTTctemd0UQ?oc=5",
-      "date": "Tue, 17 Nov 2026 02:31:13 GMT"
+      "title": "大型連休初日に飲酒検問_酒酔い運転と酒気帯び運転で\"自転車\"を検挙_北海道では2026年の飲酒運転の人身事故は59件_秋の全国交通安全運動に合わせ飲酒運転や速度違反の取り締まり強化へ〈北海道〉（北海道ニュースUHB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVFI3OGFBeWI3ckZfOFI5ZDFJdUdzajFoQWdOTlQ2UkpvZjNxbU1KYVdjNDZGWlJZQk1nTjJHQ0JCQ0toVnNUTG5wUzNCa21qQlZDdjVpN0ZDN21pN1hmWktacnZ6OHZ6emtDX2dtdmhwY3BPTWJkTXdGOG9scE0?oc=5",
+      "date": "Sat, 19 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "北海道内の交通事故死者が今年100人に 凍結路面の交差点で乗用車とダンプカーが衝突 北海道鷹栖町",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUWZTbWM2NGZQNm5EXzc3MC1PNmFpYXY4YXFYT3pBQjJQUEplWGtpQmc2SU4yTnZMTmdBUVEtNm1EZExNbjVySEhfNGdabmtYYVRCYk1SdG9Lb2l0UTdyTjVzeG1FUnNRM21XNE4wN0E3U2VENVpuODlOX3FHeDg?oc=5",
-      "date": "Fri, 13 Nov 2026 08:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhWTBOVW5mdmJHcDZoNHAxOXQ2ZDJnX2RJQ2c2TkJxb1BjMEhFMFZQcHJMQUgzaGlNQV8yWVNzWG84ak1yU3ljZmNZdmlJZ0V2ZWlCdXYtMGhUOEJ4dWZXZnRMcUdkbDg?oc=5",
+      "date": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "北海道が交通死亡事故多発警報 3日間で5人死亡受け 22日まで",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DN1R2MF9lenA2WFZTUTdxYU1JVGF0LThoVk0xdG1UZ0tJS09ONmt4RUJqZnVTaTZhY3pxbnI3cnZDYWxfRjFnRjU1MlZaTmhPdTg2X0phcjRrUQ?oc=5",
       "date": "Mon, 09 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "北海道内の交通事故死者が今年100人に 凍結路面の交差点で乗用車とダンプカーが衝突 北海道鷹栖町",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMHByOUt5UGtiZkFRY1g0aDZXaWlNeWljbEl0eDZRekJ1dHhBYjNScXQwUnpsREdZQmFua1A3T19jM2l5WHdZUE4zbkdYc05KU0pnMFZvbw?oc=5",
-      "date": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "「加害者生まない社会に」室蘭の高校生に語る 前北海道交通事故被害者の会代表、札幌の前田敏章さん",
@@ -115,6 +110,11 @@
       "title": "自転車ロードレース「ツール・ド・北海道」死亡事故から3年…競技中の選手が対向車線にはみ出し車と衝突して死亡→道交法違反の疑いで書類送検された男子大学生を旭川地検が“不起訴処分”〈北海道〉",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWGlfR2lKWE5VcE9fQm5IQjktYzlPYml5WEQ4ajlYTDdZT2R1T0txX2hmMllENXFZODR6TWdBM2N0SEJzNXJDU1NZcnkxWWY0dkNJSWNWNXhwS3JFM0RTU2VwUllNbWJPMEhhSk9odjV4Vy0wYXQ4ZURfMjhRem8?oc=5",
       "date": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ツール・ド・北海道 死亡事故から3年 再開見通し立たず",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hTGpuUjF2RGtzQWczVGhEZTdER1Baak56NVRqLVloMXVXWEJkS05vZDJCNDYzYjNZTy1tWWlqVjlvdkZWNVR3WkMwem9GNmFlNXRZakJtMnE2QQ?oc=5",
+      "date": "Tue, 08 Sep 2026 07:00:00 GMT"
     }
   ],
   "official_links": [
