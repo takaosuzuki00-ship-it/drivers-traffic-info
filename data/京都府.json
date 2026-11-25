@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-26T03:04:37.346191",
+  "generated_at": "2026-11-26T06:02:53.142083",
   "pref": "京都府",
   "region": "近畿地方",
   "capital": "京都",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 4.4,
-    "temp_max": 12.9,
-    "temp_min": 3.3,
+    "temp_now": 4.0,
+    "temp_max": 13.1,
+    "temp_min": 4.0,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 2.2,
+    "wind_speed": 3.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 5.0,
+        "temp": 5.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 4.4,
-        "weather": "快晴",
+        "temp": 4.3,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 3.5,
-        "weather": "晴れ時々曇",
+        "temp": 4.0,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 5.9,
+        "temp": 6.1,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 11.0,
+        "temp": 11.4,
         "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 12.7,
-        "weather": "晴れ",
-        "precip_prob": 0
-      },
-      {
-        "time": "18:00",
-        "temp": 10.8,
+        "temp": 13.0,
         "weather": "曇り",
         "precip_prob": 0
       },
       {
-        "time": "21:00",
-        "temp": 9.3,
+        "time": "18:00",
+        "temp": 10.7,
         "weather": "晴れ",
+        "precip_prob": 0
+      },
+      {
+        "time": "21:00",
+        "temp": 9.5,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月26日（木）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kMEZ5Y1hkUmRWZVltSkF2STBSMUhaelpjXzFNa1htZTRrYnh4dkhjTHVXcEdNUnFfRUxFZnFBdXRibFJxMTFhMTR1aU9EWlh6NWJhdFhPS25WOEZrZk9mNDVNMmlSbXpXcWlyd0NDY9IBdEFVX3lxTE5YbEt1WklsN0JVZzFCbHA3LXVTWm5NTDUxZTd4aWlLeTNtMk5maV94bG4yVE5acEZKcldvSFFiek1iRFFneUQwZUxqRHRyX2tuTXRSNGRibzM3blNCaGp1TDk1dmFHZXVyWFlDM1pjdjdiNlVL?oc=5",
+      "date": "Wed, 25 Nov 2026 20:06:37 GMT"
+    },
     {
       "title": "１１月２２日（日）【高知県 交通取締情報】午前・午後 各警察署別一覧",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZ2tFQ2I0ZUJnNFpiNTBpek51VEdpVDNiNzhCOUlwMGhQNVVFUk9KMnJZaXlkQVFFRTg5d3A2ZkwtRklSRlpmRGJEeFV2VEpxQlQ2NWlCMFNtQlBQV1JVclVseGRVb09a?oc=5",
@@ -73,11 +78,6 @@
       "title": "11月25日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISmw3U0tteElxNElRUU5tWGtjSUtlSDUtSW4zWThSU24zMzh1RlBwQUlIYmxuLS02aWhITGJLbk1SVHhnV3c1VzdJZHVjVk13TVVreklILWJJRGEzclFsb0ZQTGg1b1BwbDh4cmJMUdIBdEFVX3lxTE5xRnFzWjhMa1poNTlxcHFMbzdHSzlqaGo3aUtzUjhJdlJLbkR2bTBfRERGX1RHY0dEWjhjM09hVF92dm9CNjMyVXcwLXhrNG1kUUJRMl9wSFU0Rktpd0Y3QXhiRUp0UVNQX0RuUWQwWnBpSnBE?oc=5",
       "date": "Tue, 24 Nov 2026 20:09:35 GMT"
-    },
-    {
-      "title": "１１月２５日（水）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfOWdyeE14eGJlQnB6bUhWUUtfOVlkd2M1N3dqaVpMUXNwLVhqbVMzZW44LTBDa200QXFnTGp2Nm5Cb0FRY3Rpd0l5UWZnOHgxNXBpUmdackxRWXpLQmJwZnVkNXpsaFlCYW5PX0NQTVFtUdIBd0FVX3lxTFA4SkU0TGFQcW0zampkZTVGaFk5RncyQm5IV2Q3MHBXWFdSVnRWX0JCRmhCdWpLZ2tEell1Q1llM0RJTVJicnljeENjVDRoOFRCbGx1dENHcnNUOExYbHBqVVZkR0Y0enE5QmpFTDlhWDNQUGxGeGxV?oc=5",
-      "date": "Tue, 24 Nov 2026 20:09:33 GMT"
     },
     {
       "title": "１１月１７日（火）【高知県 交通取締情報】午前・午後 各警察署別一覧 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
