@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-11-26T00:02:40.396783",
+  "generated_at": "2026-11-26T03:03:08.108892",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
     "code": 2,
     "weather": "晴れ時々曇",
-    "temp_now": 3.3,
-    "temp_max": 15.1,
-    "temp_min": 3.2,
+    "temp_now": 4.0,
+    "temp_max": 15.2,
+    "temp_min": 2.8,
     "precip_prob_max": 0,
     "precip_sum": 0,
-    "wind_speed": 3.1,
+    "wind_speed": 8.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 3.3,
+        "temp": 2.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 4.1,
-        "weather": "晴れ",
+        "temp": 4.0,
+        "weather": "晴れ時々曇",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 6.0,
+        "temp": 6.1,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 10.6,
+        "temp": 10.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 14.5,
+        "temp": 14.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 14.5,
-        "weather": "晴れ",
+        "temp": 14.6,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 10.5,
-        "weather": "晴れ",
+        "temp": 10.4,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 8.6,
+        "temp": 8.5,
         "weather": "快晴",
         "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月25日（水）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yNk8xdS1RamIxdVVTbFU2anp5RDItRkE2d21nS3IxbFo1b1ZoZ2pwaG9JRmhLVVcyOE5PMHZKZmN3WkxqZ1ZqTFFscG9jS1B1eHUtNnRWUl9KQ2Nwd0ZRV1IxNG5VNmFGV1pOZEZkY9IBdEFVX3lxTFBNZHZXMm4wT01xeHpYRGFwMnBqUW1KWHNPMFBzd3g5YTltTzJtNmppSTd3aFFHbERTeEtaRzZSSkhBTmZsb204ZXg3d0JRZnFhNi1jZVd1N1hZSEpLdXg4TzhNdktQVU5Pd1labkx4Uzk3Z3kw?oc=5",
+      "date": "Tue, 24 Nov 2026 20:09:34 GMT"
+    },
+    {
+      "title": "朝の交通指導取締中に職務質問で発覚 酒気帯び運転の疑いで会社員の男(32)現行犯逮捕 福島・棚倉町",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHaGw1VzU3VGFkYlUwMVMyMnNUcFM5WVVVQzU5MGhGdElJREVUeWFxUVBVeWJITlRjemZZR0t4Mldra1V1UXV5N21LT05TS012Y3ZQMDd5MVhwdw?oc=5",
+      "date": "Fri, 06 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "11月23日（月）【熊本県 交通取締情報 午前・午後・夜間】自転車・歩行者妨害",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44MzRYZEo4WmdFaWs0c0MxYXVpR21kNndUU2FGNl9LclVMNnBWZXc3dWx5ai01Tnd3S1M5ekk2WmpPQkRQNl9VNFNDWGxPYmtRMFBfWXUtcGhqblVPcGdtM3BmQlFGLTZFZ1QyTVhPUdIBdEFVX3lxTFBQTUNtTmUyaHk2RTJyTmtfcTVmR25wM1NYdmdfbEhiUm5sM0c4SjZkZ044aVVNUDVuZ0hWOTY4S0l5bzJCTi1ycTc4OURNYzZ0RmNYTFBKZWpSdGFaQ25oNmh6UWw5V1EzV19YSklFYjBPM0M0?oc=5",
+      "date": "Sun, 22 Nov 2026 20:02:00 GMT"
+    },
     {
       "title": "国道４号で夜間検問実施 須賀川署",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
@@ -73,21 +88,6 @@
       "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）｜中テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnliNEgxdUF0WmFhNG0yU2xWVDlCcGR4STZVWGZYeU5rWEI3dkMtYnRWbF9SejVCWmNnY0NlTW5fd01STTZvcUlsb2tFV2txM3FwSXdOWGpZMmg1bTVqR3YzakFSWFR1YTRmdHRzOW1wa3haNGI1Qnp4Q0RwZzhPQWsyYkUzaDA?oc=5",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oM3NTVy11cjdZdzNNRDJfWTdZVnVxRGZKX2hVbHJXb0dLUldPUFA4UG52NUxvOUlxM0Nrb1hwV0lIRElwWHZWOW5QVQ?oc=5",
-      "date": "Tue, 28 Apr 2026 02:08:34 GMT"
-    },
-    {
-      "title": "郡山の受験生死亡事故から１年 いわき市では飲酒運転撲滅に向けて検問実施",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYllnNWFOVVB0NDhhdHZyTm1JMEkzb2ZQN2hvelE3Y0NxRjdpR1ZrSmJZbjM2a1JWY1l1eWZVd0xNckVnay1GZEFvLWJLNS10YnhlZGxoQ012QQ?oc=5",
-      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "title": "桜井勝延元南相馬市長を書類送検 告示前にチラシ折り込み配布、公選法違反の疑い 福島",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pNURKamxkU0pvTGNOa0NmSFF2ZGVTYmQ0X1h3eUhUbzI5NFlNYjVJX010ajA4YVk0NjJBXzFGU3pmckVQNlMtZkEwWHJ0d3RRUGtXVWc2OA?oc=5",
-      "date": "Wed, 12 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
