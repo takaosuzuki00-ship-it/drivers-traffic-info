@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T03:03:34.334530",
+  "generated_at": "2026-11-27T06:02:06.916405",
   "pref": "愛知県",
   "region": "中部地方",
   "capital": "名古屋",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 6.7,
-    "temp_max": 14.8,
-    "temp_min": 5.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 5.9,
+    "temp_max": 14.2,
+    "temp_min": 5.7,
     "precip_prob_max": 95,
-    "precip_sum": 3.3,
-    "wind_speed": 2.7,
+    "precip_sum": 1.2,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
@@ -21,19 +21,19 @@
       },
       {
         "time": "03:00",
-        "temp": 6.7,
+        "temp": 6.8,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 5.8,
+        "temp": 5.9,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "09:00",
-        "temp": 8.1,
+        "temp": 8.2,
         "weather": "晴れ",
         "precip_prob": 0
       },
@@ -45,29 +45,34 @@
       },
       {
         "time": "15:00",
-        "temp": 14.8,
-        "weather": "晴れ時々曇",
+        "temp": 14.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 11.8,
-        "weather": "弱い雨",
+        "temp": 12.8,
+        "weather": "晴れ時々曇",
         "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 10.9,
-        "weather": "晴れ時々曇",
+        "temp": 11.0,
+        "weather": "弱い霧雨",
         "precip_prob": 76
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月24日（火）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルトなど",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12QjQ1VndHTE5qbjZmb2ZxU3A1V3VGSzBGendsbWZCYVZPYU9KYjlqeFpMQUVFcEdvZlBBclN2VkFKNEQ3VTEtbG95MkRxSzZqVHM1RUlGdW9wQ2hmMVAwdTkzMXdnT25CV2RHeURn?oc=5",
-      "date": "Mon, 23 Nov 2026 20:02:12 GMT"
+      "title": "１１月２４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zNjk2VWFleDZuU0lQU2lVb3hzZ2FqWnB2V3B2VUtOQUZXVFN5dEhCZ3ZxQU1FN2Q0OWFZSldDamdLUVd3c3EydXh3ejBDTDBzVHpmQUdPNF82N1B6NGFwYVVGYUdsR05OTDlnY0M5S3Zzd9IBd0FVX3lxTE10YnhIUk01Q0RKUS04R19XQXExOVlkTHhiN2x3ODdfWmVqSVdGM25COG9tNGtqX0JiendPMWtoeUEzTW14ak44TGVKNjlLRFhnY05kYlJHZ0pYejFscl93b1BYQ3NwTVlaVkhyNzFHUUlOcWtJU1pB?oc=5",
+      "date": "Mon, 23 Nov 2026 20:04:19 GMT"
+    },
+    {
+      "title": "１１月２３日（月）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1INGhBZk52RjlOaTF0bVJTYVdTN2gzYlZWeUhiaENZc1B6QW01bk5FcVVFV29UVUJaZXhQanN3cHZjNlVYVTh2eDk3ZkdaTlNMZWVTaUdrUjd2dFZPMVNTSy1NQ25jSUxKTFdpczZLdldGUdIBd0FVX3lxTE9GXy1lOTl2YXNncjdoWmFGUjZ2M1Q1eWYzTVhQR2RzRk1fV3ZlM1JFcHFfZzlQSWNSdEFySEtMc1NUOUNqTTMwREFLTmFoNDhHeGtyTzVUUmhoV3VRZ3JmZldMdXRPeDlrMkFkMGF2T2tCZHMzbFYw?oc=5",
+      "date": "Sun, 22 Nov 2026 20:00:00 GMT"
     },
     {
       "title": "レーダー探知機お手上げの移動オービス取締緊急情報！ ついに愛知県で、オービスによる反則行為（青切符）の後日検挙事例が発覚!?【交通取締情報】",
@@ -78,11 +83,6 @@
       "title": "「交通事故抑止に県境はない」県境の橋で愛知県警と岐阜県警が合同で飲酒検問",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84NkdBSmJZclkwc1EteXBqWmttaUxXVEpFUjdwb1NzYjlBU094TFNlSDg0OUltNjdqeTlicDdDc04tR3lSd3ZvYk53b0dMZVFKY2ljaENMRlBBRTVzb2pqYTRQZFBzZw?oc=5",
       "date": "Fri, 14 Jul 2023 07:00:00 GMT"
-    },
-    {
-      "title": "愛知県犬山署と一機・自ら隊で緊急の違法改造車両取締り検問",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpOVVEYm01RUMza0gySGhzNWg0QXNiWEUxbWdNeHlqTUIyZjRmWHluYU16LUV1Z2o4NzZxaUpTSURkVm9ZMjEyTlAybnVfQjdnbHJCU2tsZ2owREE?oc=5",
-      "date": "Tue, 24 Jan 2023 08:00:00 GMT"
     },
     {
       "title": "道路法第47条第2項違反者（重量超過車両）の告発について",
@@ -97,14 +97,14 @@
       "date": "Thu, 26 Nov 2026 00:58:00 GMT"
     },
     {
+      "title": "【県内初】時速100キロ超で事故起こし同乗者死亡させた疑いで男書類送検 高速運転手助けした2人も検挙（テレビ愛知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYlRCWERDTl91MFBpSkVzTjFnVThhT2RGb2pIYXZDdFg0WkFKQWxPck52OEVzTkExUHJPOFhuWUd3TF9SRG5tdHIwZGdKczQydWdwdmZMSW9LNG1HNjM3R1FHX1ktYzNpRDZEc1RZV3U5MU8yNHgyTEF0dE9LOG8?oc=5",
+      "date": "Thu, 12 Nov 2026 08:00:00 GMT"
+    },
+    {
       "title": "酒酔い運転で当て逃げか 男（74）を逮捕 「交通事故を起こした覚えはありません」と容疑一部否認 愛知・豊橋市",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1ZlbW1xbGpLUFE3MFNEWkczWVozUVUtUWN4d2pkNnlqTkZXMzdaQkluZFBJRzZBTDZJMHJPVnJySXF3TjJ2c1d4TTRPN203NVY5UkNSQ0NGZHp2VlY0Z042UGFlRXdGQW5jdDYzMnYzcmVqVnNmMHNZMzBmMWtSQUtkM0o4eTQ?oc=5",
       "date": "Sat, 21 Nov 2026 22:23:00 GMT"
-    },
-    {
-      "title": "道路を横断中の人も… 愛知で高齢歩行者の事故相次ぐ 女性2人が死亡",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yc0RYak05RE5yNTRZZWZiR19MMDVldHEybWs1OGZEeFVfdlYzNE1JQ3MtTUNycFBuN254NmNBOWQxWjBlbU9pMTh5TFd0U1Z4RjQ5blI5U3hWdUQ2dXZNUDJrSjBTV1J0SS1ERHhB?oc=5",
-      "date": "Wed, 25 Nov 2026 21:44:22 GMT"
     },
     {
       "title": "東海4県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
