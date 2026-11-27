@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T12:02:23.668314",
+  "generated_at": "2026-11-27T15:02:57.608757",
   "pref": "新潟県",
   "region": "中部地方",
   "capital": "新潟",
   "weather": {
     "code": 3,
     "weather": "曇り",
-    "temp_now": 14.6,
-    "temp_max": 17.1,
+    "temp_now": 17.2,
+    "temp_max": 17.2,
     "temp_min": 9.1,
     "precip_prob_max": 67,
     "precip_sum": 0,
-    "wind_speed": 11.5,
+    "wind_speed": 7.6,
     "hourly": [
       {
         "time": "00:00",
@@ -39,36 +39,31 @@
       },
       {
         "time": "12:00",
-        "temp": 14.6,
+        "temp": 15.3,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 17.0,
+        "temp": 17.2,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 14.6,
+        "temp": 14.7,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 12.8,
+        "temp": 13.4,
         "weather": "晴れ時々曇",
         "precip_prob": 2
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月27日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zc2NEVi1IUUJCZDB3M0FJSzZITjJ0R3c4eUN1UUtXd0tsdWVFU2FScjFTLXBMMlpaYjNBRHUxbjV4S1YyT3VUZFNDT0F6Q1pKYW1RSnRkRkJXOVYxcXRSSldCQ3o0UDA1UGlTazVn?oc=5",
-      "date": "Thu, 26 Nov 2026 20:04:17 GMT"
-    },
     {
       "title": "［交通取り締まり情報・新潟］飲酒、横断歩行者妨害…3月の交通違反「公開取り締まり」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5venN2UFNSWFpPTy1ZSnY2aXBmcEJIZ3JJdTVYaXVuOXFmSjJ4Q1hEdTY0VlBzdkhuUWNvRVFEOHpabHdXV3M1RFU5LXlwdmxVd3FYN284Q3JtSmF0YXc?oc=5",
@@ -80,26 +75,36 @@
       "date": "Tue, 24 Nov 2026 20:10:24 GMT"
     },
     {
+      "title": "11月20日（金）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTYmdUV1pRUFNKQUdpdkkzRy1kMGVJcVRzS0RmQ2xoQ2JMaUluMWd0c2gtZlNSbTFqZWMzNUh4VlpibHQtMXNPWHRqNVNaV1doMVpVbUlfQnZtQjN5NjhBaWFtWFBmbFNFOEpwRUZlWdIBdEFVX3lxTFBYc3M3bjNURGFCSmFfVExRaWg5SjZyeDctY3Z0aWFaUTNIUV9WS2EyTndyaEJVY25fQ2k0WnVudG9kaGphRVVnYWpPZHNGbHZZTDlXUXExcHpHbWlHU2d2eG1GOGtHNkFUeHpZcVB0TjdDR1cz?oc=5",
+      "date": "Thu, 19 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "自転車の交通違反「青切符」による取り締まり状況 県内で4月は11件 9割が携帯電話の“ながら運転”《新潟》",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0lweWlfeXEzaVp0cFRFcWktaWxqbmg3MHo3WWlKU09WMG1aYjlJVVFubVdzeXRGQUhZaE91MTVxZ1dfV2dYUVJSVzgteXZ6c0RmQWJsVjNoc085MXJITjBfcndScWxub2F3aUwwU2JMWktuMk5Xd0RmdzF3aWpGdzhKRHl4My16?oc=5",
+      "date": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
       "title": "速度違反の取り締まりに新兵器「可搬式の自動取締装置」夏の交通事故防止運動【新潟・佐渡市】",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPT0FlTFVzM3VJNXhTMFZ0UEdjUDl6XzZTX2ZCVDB3N1lpaEl3T1ZKNVBXdkZ6MmZmWGx5WHhoSnlERF93cGRVRWUzaVYyb0ZyZWpfeHprUXhjU0QxVmE2REFOU2VQZ3NfWnNVYkNGcFZTbHZWSkNrRXZDbmEyUE1hZ1FIbXV0V1dhTmRDQkpUWktYYkZNZUlMR2xNZmRzWjF1WERGR0thNUpac0J6clZNdW1sSzNmY3JrV3JUMF9lVGlDd1d6VDNfeGJYT2F0d0tQLXpEaDhnWmtEb18wMS02MUdrMGxGZ3dPVUx3c2hUMmhZSWUxVTdzdU15bHlld3Z2NEhURG1wSW1ad05GckRMLUtmVzRieFZMMEU0QW5UVERBTk8tMGtZYTg1VjRWYWRmSmowbm5LTEZ6YzU1Q2JOalI4UzhJc1puS3lENWNKdw?oc=5",
       "date": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "「事故のない連休に」新潟バイパスで早朝の一斉取り締まり、速度超過や携帯使用を摘発",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53V19ZNWFUNUhiZTVQRXVGNjVwTk8yVkVPanhoamwyZ014aXJtVF9CMHNLeGlweWRqMkRCZ3hXbFZjYU95NUoyX3ZRekw2b2RzN01oWWxCLVRoN0NSd0E?oc=5",
-      "date": "Sat, 02 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
-      "title": "交通事故発生状況",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk52LUJsTWdrM20zZFFVUEZjM0dPV1Y1UlB5V3RNOTZyVXF0ZndSZ1BoenliVGFNYVpzZG91dlh0cHpYZU1XLUtKSndDbkUxbmcxZVh1TDBnSVR6a3Zpb2M5RGxMdTB5T042UGZvdXFxejUtRkViblpVYmQyX3hoVg?oc=5",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "［道路情報］新潟市北区の新新バイパス、事故で一時車線減少（11月24日）",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6eWdSVU9tZEh0MHZGbTNwckN3N1I2bUxzUWpEM2Njc0xlWWNNNmFTeTdkRXc0anNVVlV1X0xOVEZnNW1BOWN3UkU4aktjdUltU3NrRU5SLVd5dkUxOGc?oc=5",
       "date": "Tue, 24 Nov 2026 07:05:00 GMT"
+    },
+    {
+      "title": "令和8年「冬の交通事故防止運動」",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUGJRYWdSeVBYMHpUdTVQZ2tRNWFtc0tnQVpPNzJBcDYzdDhfNFBNU2VTbGloc2tydjBhaTNHZXRlOEQ1TVU3RFpnVmVaUEhsMV9kS2V0THFpN3oy?oc=5",
+      "date": "Fri, 20 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通事故に急病人、迷わず動いた球児 新潟・新発田農野球部員の善行 [新潟県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hMWFaU3V4dnMzY3RDUktIYVMwVVdZU1h5RHg0ZXVMNFZYV3FvZWdjNmVCYUt1amplcTFMZ2luckVhR0F3Z1psd0ZRY1hsZy1mVVBtZ1AtQzF3MG03U1lGbnRzcUM5UkE?oc=5",
+      "date": "Sat, 21 Nov 2026 02:15:01 GMT"
     },
     {
       "title": "気温下がる時期“ヒートショック”に注意を 入浴中の事故…消防が注意呼びかけ 県内の死者は120人超える《新潟》",
@@ -107,14 +112,9 @@
       "date": "Tue, 24 Nov 2026 13:02:00 GMT"
     },
     {
-      "title": "2人乗りの原付バイクが交差点で車と衝突 16歳少年が意識不明の重体 どちらかが信号無視か 新潟・燕市",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZWQ1WmJEQzV1Y3dUY3ZlRFBTdTZETFd1NUFYWVZRc2pUTkROOGhrdnJaTDdPdG56WUY0ODliZTNqcE5yRHZUX09NcHlMUVhjYzlKRzhObVBKei1oeWo0?oc=5",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "関越道大型バイクによる死亡事故 死亡したのは新潟市西区の20代の男性と確認【新潟】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOa1MxWnJIZ1dxSEt1ZGh0aTNUV1pUSFdKMWVrLUFfQmJWY2FFLWVoaHk4ZmVDeXBUeWNUYTVfQkctUWF0dWZMOXUyOVQzZw?oc=5",
-      "date": "Mon, 02 Nov 2026 08:00:00 GMT"
+      "title": "＜続報＞軽乗用車と大型トラックが正面衝突か・・・重体の10代男性 その後死亡＜新潟・刈羽村＞",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15MXB3b0NKZE9UaHh6M1RiaGw0ZGZOUjdEWG9TNXhsTkNHM2ZQTVgwbnlCMjVGbU8yZHVZNW5vMTdNWEY2b01mZDR6anZUczZENVNJZDljRkpuazZpQXp3?oc=5",
+      "date": "Sun, 15 Nov 2026 08:00:00 GMT"
     }
   ],
   "official_links": [
