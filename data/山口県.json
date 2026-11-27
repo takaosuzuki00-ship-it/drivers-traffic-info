@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T09:06:07.160467",
+  "generated_at": "2026-11-27T12:03:47.939336",
   "pref": "山口県",
   "region": "中国地方",
   "capital": "山口",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 12.9,
-    "temp_max": 17.6,
+    "code": 53,
+    "weather": "霧雨",
+    "temp_now": 15.2,
+    "temp_max": 16.8,
     "temp_min": 9.7,
-    "precip_prob_max": 56,
-    "precip_sum": 1.3,
-    "wind_speed": 2.9,
+    "precip_prob_max": 78,
+    "precip_sum": 2.2,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
@@ -29,46 +29,52 @@
         "time": "06:00",
         "temp": 10.9,
         "weather": "弱い霧雨",
-        "precip_prob": 6
+        "precip_prob": 2
       },
       {
         "time": "09:00",
-        "temp": 12.9,
+        "temp": 13.6,
         "weather": "弱い霧雨",
-        "precip_prob": 41
+        "precip_prob": 49
       },
       {
         "time": "12:00",
-        "temp": 15.7,
-        "weather": "晴れ時々曇",
-        "precip_prob": 29
+        "temp": 15.2,
+        "weather": "霧雨",
+        "precip_prob": 65
       },
       {
         "time": "15:00",
-        "temp": 17.6,
+        "temp": 16.7,
         "weather": "晴れ",
-        "precip_prob": 51
+        "precip_prob": 78
       },
       {
         "time": "18:00",
-        "temp": 15.2,
+        "temp": 14.6,
         "weather": "晴れ",
-        "precip_prob": 47
+        "precip_prob": 61
       },
       {
         "time": "21:00",
-        "temp": 14.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 47
+        "temp": 13.4,
+        "weather": "晴れ",
+        "precip_prob": 73
       }
     ]
   },
-  "enforcement_news": [],
+  "enforcement_news": [
+    {
+      "title": "通行禁止違反、スピード違反…全国一斉取り締まり日に山口県内で８５件摘発",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTVZEcXR0SE1tQlB6UlBXVUlXTTA1d3AteENqZldyY2tXQ2NkaXhiY1Brd3JWdGlRay1UNlVPR3VKZ1EzSDJrdnJpYmpiMFdGSllJOUlnUk1GNlZZTEZnQXNNVG5lZw?oc=5",
+      "date": "Wed, 19 Apr 2023 07:00:00 GMT"
+    }
+  ],
   "accident_news": [
     {
-      "title": "山口県内の交通事故発生状況/2026年11月25日",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pc0JUQm5KcWtVT28tSnlxWjVVMW54YXVaYnNWb0VCRDJMWXF1MGRsZVYtMVpSMUg5X3NSNXRVS015MmRLNUJJNTE3U0dzSWlVUEJzWS00NWZvYTlNYUpiM21kbGh6OVZKWVE?oc=5",
-      "date": "Thu, 26 Nov 2026 01:00:00 GMT"
+      "title": "山口県内の交通事故発生状況/2026年11月26日",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKQnNoWHhFbXN0dUNSakgycWNqbjNQazZhU2EzV1pLbS1rdXdfVHlEZ18tRVY3VGk4Z2tsVzFJY0gtbW5XckJXWGVrNHB1WUp5ZVBQNU9GUTVnalV4ajFiN1V1RmFmVmlqaHc?oc=5",
+      "date": "Fri, 27 Nov 2026 01:00:00 GMT"
     },
     {
       "title": "【事故】山口・美祢市の中国自動車道で大型トラック2台が絡む事故～1人の死亡を確認",
@@ -81,14 +87,14 @@
       "date": "Thu, 26 Nov 2026 02:47:00 GMT"
     },
     {
-      "title": "複数の車にはねられる事故…男性はその場で死亡確認 警察はほかに関わった車がないかなど事故の状況を捜査 山口",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53c2dRN1VXd1gyLTZOTGVPTGlHRVQwQmNQMDlqTkh4MUFhdFhSSUZYellETDBCeENQY3l5VDNPd2pNS3E5eU9kOTl4Qnh3VEtsY0JyLXNDZw?oc=5",
-      "date": "Tue, 17 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "美祢市の中国道上り線小月IC~美祢西ICが通行止め 大型トラック同士の衝突事故で1人重傷か（ｔｙｓテレビ山口）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mYlZwOFN4OTZ3U1FQMHlhdUNDaFg5c3lQYURfanlYUEFyeElRU2E3bFQyRGhBUFJCeXVnRmVLZENTWUNRWTRlNG5xTUQ0WGdrSFBnSnhacGpqYllvb0N5VGROQy1TRHA2NndoQi1tbUZaV3BGNmZmWXJ1REFhNU0?oc=5",
       "date": "Tue, 24 Nov 2026 19:38:12 GMT"
+    },
+    {
+      "title": "ふ頭で車が27歳男性はね海に転落 運転の84歳女性が死亡 男性は左足首切断 山口・下関市",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xak9CaEg5eWQ4UmRrRUFDeUhob0pXQy1QamtsdHBkVnotbzdvbUs5Y2Z2ZUtVYW5kOFd6RllHNXhrTlRQOVU2UjJqQ19jVUNmVHJfekMta05kTUh5ZXpUb0dwRQ?oc=5",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT"
     }
   ],
   "official_links": [

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T09:06:54.156157",
+  "generated_at": "2026-11-27T12:04:20.894496",
   "pref": "熊本県",
   "region": "九州・沖縄地方",
   "capital": "熊本",
   "weather": {
-    "code": 53,
-    "weather": "霧雨",
-    "temp_now": 13.1,
-    "temp_max": 21.1,
+    "code": 51,
+    "weather": "弱い霧雨",
+    "temp_now": 18.7,
+    "temp_max": 21.3,
     "temp_min": 11.2,
-    "precip_prob_max": 78,
-    "precip_sum": 0.6,
-    "wind_speed": 0.4,
+    "precip_prob_max": 82,
+    "precip_sum": 0.2,
+    "wind_speed": 1.8,
     "hourly": [
       {
         "time": "00:00",
@@ -27,39 +27,39 @@
       },
       {
         "time": "06:00",
-        "temp": 11.6,
+        "temp": 11.5,
+        "weather": "晴れ",
+        "precip_prob": 33
+      },
+      {
+        "time": "09:00",
+        "temp": 12.9,
         "weather": "晴れ",
         "precip_prob": 47
       },
       {
-        "time": "09:00",
-        "temp": 13.1,
-        "weather": "弱い霧雨",
-        "precip_prob": 24
-      },
-      {
         "time": "12:00",
         "temp": 18.7,
-        "weather": "快晴",
+        "weather": "晴れ",
         "precip_prob": 24
       },
       {
         "time": "15:00",
-        "temp": 21.1,
+        "temp": 21.3,
         "weather": "晴れ",
-        "precip_prob": 57
+        "precip_prob": 37
       },
       {
         "time": "18:00",
-        "temp": 18.4,
-        "weather": "快晴",
-        "precip_prob": 76
+        "temp": 18.5,
+        "weather": "晴れ",
+        "precip_prob": 78
       },
       {
         "time": "21:00",
-        "temp": 16.7,
+        "temp": 17.0,
         "weather": "晴れ",
-        "precip_prob": 78
+        "precip_prob": 82
       }
     ]
   },

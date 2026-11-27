@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T09:05:59.936271",
+  "generated_at": "2026-11-27T12:03:43.197426",
   "pref": "広島県",
   "region": "中国地方",
   "capital": "広島",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 11.5,
-    "temp_max": 16.0,
+    "temp_now": 14.4,
+    "temp_max": 15.2,
     "temp_min": 9.9,
-    "precip_prob_max": 56,
-    "precip_sum": 0.1,
-    "wind_speed": 4.5,
+    "precip_prob_max": 72,
+    "precip_sum": 0.4,
+    "wind_speed": 0.4,
     "hourly": [
       {
         "time": "00:00",
@@ -27,52 +27,47 @@
       },
       {
         "time": "06:00",
-        "temp": 10.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 2
+        "temp": 10.1,
+        "weather": "晴れ",
+        "precip_prob": 6
       },
       {
         "time": "09:00",
-        "temp": 11.5,
+        "temp": 11.8,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "12:00",
-        "temp": 15.1,
-        "weather": "晴れ時々曇",
-        "precip_prob": 12
-      },
-      {
-        "time": "15:00",
-        "temp": 15.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 24
-      },
-      {
-        "time": "18:00",
         "temp": 14.4,
-        "weather": "晴れ",
+        "weather": "曇り",
         "precip_prob": 51
       },
       {
-        "time": "21:00",
-        "temp": 13.3,
+        "time": "15:00",
+        "temp": 15.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
+      },
+      {
+        "time": "18:00",
+        "temp": 14.0,
         "weather": "晴れ",
-        "precip_prob": 55
+        "precip_prob": 39
+      },
+      {
+        "time": "21:00",
+        "temp": 13.0,
+        "weather": "晴れ",
+        "precip_prob": 71
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月27日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mb040N2U5SExCUU0zOUZ2dW5JclhWNU5CbmRoRTNNelpGZERYZG42Mm94S19jQ2Y4aDJ1WktwcjFNSnI1MURMUXE1clVrREI1M2lGV0NNVUdha2FDbHh3RV9lQTRWdXJZdlh6bENGc9IBdEFVX3lxTE8wdzdsMl92bjVfaXN2b0s2SWhPSVkwOURody1UTzVIVEluY1JaZGVMTXduRUpTY1prbWxBZVgzNXhQV1pFWTI1TThQV2dNbWE5TEJkVC1zUHZaS1Bha2pRam93OURLOUo5OEFQblllRUtGSUwt?oc=5",
-      "date": "Thu, 26 Nov 2026 20:13:16 GMT"
-    },
-    {
-      "title": "竹原警察署 令和８年３月中の速度違反取締り計画",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM21CTkJjLVI2OGdYanNSTmg4UUFJNy1BQjJFWV9wZzZWMzEwVlpNNGdhWHhQLWx5YzBJWUYyaWF1bWg1UlE5eG4waUR2X1RuT1lsNGw3LWFxbnkxVDJ0bVVfWmQtaGxxY3cwTE5XSTlndUcwd21GdndwOGM2bWhENEZBNA?oc=5",
-      "date": "Mon, 02 Mar 2026 08:00:00 GMT"
+      "title": "11月25日（水）【熊本県 交通取締情報 午前・午後・夜間】携帯電話・シートベルト",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISmw3U0tteElxNElRUU5tWGtjSUtlSDUtSW4zWThSU24zMzh1RlBwQUlIYmxuLS02aWhITGJLbk1SVHhnV3c1VzdJZHVjVk13TVVreklILWJJRGEzclFsb0ZQTGg1b1BwbDh4cmJMUdIBdEFVX3lxTE5xRnFzWjhMa1poNTlxcHFMbzdHSzlqaGo3aUtzUjhJdlJLbkR2bTBfRERGX1RHY0dEWjhjM09hVF92dm9CNjMyVXcwLXhrNG1kUUJRMl9wSFU0Rktpd0Y3QXhiRUp0UVNQX0RuUWQwWnBpSnBE?oc=5",
+      "date": "Tue, 24 Nov 2026 20:09:35 GMT"
     },
     {
       "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
@@ -80,14 +75,19 @@
       "date": "Sat, 21 Nov 2026 20:02:23 GMT"
     },
     {
-      "title": "法定速度30㎞に引き下げ「生活道路」で県内初の摘発 9月に2件 自転車の青切符交付件数は132件 広島県警（RCC中国放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BZ3BablRtcHY5bW5YT1pfcGthRFUtYTA1T3dnOGN0QTZGRGJkYlc5dG54cUxIVnZrY185azFRM0t5XzVQY1FXTHU5QXlubFNwTkRuRjJnS1ZHdWY5SkxuMGpoaTBXTnc3dFd2V2gyU2lhMnplUzVqV1NmM3A1SkU?oc=5",
-      "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+      "title": "広島市内で爆音バイクの110番増加、摘発しても減らず 広島県警の対策室発足2年、五日市港などで検問強化",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JbU9LNVd5WUg1ZHdXR1RYRi1jb1Q2WFhRN3hIZnNSWDByTGw4WDI5N29NMl9KNVVyb0p2THZaTnBIaEl5dE8wTVlTZjAyTm1HSnFTZFlYaEFUQQ?oc=5",
+      "date": "Sat, 01 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "法定速度30㎞に引き下げ「生活道路」で県内初の摘発 9月に2件 自転車の青切符交付件数は132件 広島県警",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3VmhQWG5EMTYzc1ROelVqVkFGVjFyaWxwaDd0WWxWY2V0c0Iza0VuYk42VWZWOWVTR0stbUotdlQta1JpZlZWeXlKSDJpU2RMM2lhOG1xUExwS1hwSHJFeERFWQ?oc=5",
-      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jQ3JSMmFsT2VFVTZHYjkxeWxGUzU4UU1uTEtZRnp3YlBhZzFUdXI4WjBlQzJYSk5QdVNKWnY5dUZ4TE5qZjZ1ZlVucw?oc=5",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "車の暴走運転で問題の廿日市の峠道、広島県警などが検問で反則切符 米軍関係者に整備命令も",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fODdMcHBWMzNrYy1VWEhCNFc1eEhTd25SSUZrOFdOdWV3VlZFYzFVMjM5TVRmT0IyejlYa0R3UVV4Zmk4WHdPR2JhT0xWM2w5clFUMEJxYUd5dw?oc=5",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -95,11 +95,6 @@
       "title": "全国の状況と広島県の概要 - 統計資料 > 交通事故統計",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jeGpDaDNUYVB6dWtXRnJKU1ZxdXBfWnowR1B0WjFTVGlTSlc5WXRRWV9ZY1IzMWNSQUJ0MnBCcjJZSzVMSURhTTdCZ2lubmgzVWtTVnRXdm5KTjMzNDJBeUU5SUJ3STJtZU5j?oc=5",
       "date": "Thu, 05 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "【交通情報】「大型トラック同士の事故」と通報 山陽道で尾道ICー尾道JCT（上り）で通行止め 合流の際にトラック同士が衝突か 車両や散乱物が車線を塞ぎ 広島（RCC中国放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pSGdsaWRiTEVXV1BmOTRFc3J4elpxVTdxLVlJdEVETVljeHNCRklON3JsbDNGdXcwZ012b2luTXVpYlhLd3k0Nk90elppY2s5cVhhS3NFQnVrMmtJQ1Z0enNrSVBRSlJ6eVBxa0ZTUTc5RTVHcy05eGhTTGFVRVE?oc=5",
-      "date": "Tue, 24 Nov 2026 03:20:25 GMT"
     },
     {
       "title": "交通事故データ",
@@ -112,9 +107,14 @@
       "date": "Tue, 24 Nov 2026 06:48:00 GMT"
     },
     {
-      "title": "【事故多発】平野橋東交差点付近（広島市南区） 目立つ左折車と自転車の衝突、注意点は?",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMX0ZNMTVvdEU0YkllR21NQ000Ym5hajFsdENCX29Qd25UMTZPYjBacUR2VTFkOVNPYllmNXNJWF9COGtSOU83a0Njc1drMnJGR1lNVC0xeHhrdw?oc=5",
-      "date": "Tue, 27 Oct 2026 07:00:00 GMT"
+      "title": "廿日市市の国道 3台絡む事故 軽自動車の女性が意識不明（HOME広島ホームテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMWdMZF9QU2hhUWNTZk40RGxEOXVkX1R1QlE0SmZlVC1ycGtDN1pieTJDOVVNMjZhRTZHM3A0SThTa2NULTJhTGNINlRCZndoRUFwSWw3SkVTTC1Dd2pkb3RZV2JkVmV6UVpVeE9lSFB3THBrRTFBZVFhZEFySms?oc=5",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "年末交通事故防止県民総ぐるみ運動",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMkJEY0hVMHl2T3oyV2JzVjBCSkNFUjA0Qk00M1dfTnlneVdzUC1BX1Z0enF4R2laUGlWM2J3ZlJWa0RtT0pORjVLcnh3WVZob1RhQ1FweXNwQ200MEdKWVpFR2d1Mkl4dHJxUENYdkZYSkMtdlFjTEJueTdMZw?oc=5",
+      "date": "Fri, 20 Nov 2026 09:09:10 GMT"
     }
   ],
   "official_links": [

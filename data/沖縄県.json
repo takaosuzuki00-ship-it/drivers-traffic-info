@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T09:07:28.993401",
+  "generated_at": "2026-11-27T12:04:42.089039",
   "pref": "沖縄県",
   "region": "九州・沖縄地方",
   "capital": "那覇",
   "weather": {
-    "code": 80,
-    "weather": "にわか雨",
-    "temp_now": 23.9,
-    "temp_max": 25.5,
+    "code": 95,
+    "weather": "雷雨",
+    "temp_now": 25.0,
+    "temp_max": 25.4,
     "temp_min": 21.9,
     "precip_prob_max": 100,
-    "precip_sum": 5.0,
-    "wind_speed": 2.0,
+    "precip_sum": 16.6,
+    "wind_speed": 12.5,
     "hourly": [
       {
         "time": "00:00",
@@ -21,49 +21,54 @@
       },
       {
         "time": "03:00",
-        "temp": 22.6,
+        "temp": 22.3,
         "weather": "弱い霧雨",
         "precip_prob": 98
       },
       {
         "time": "06:00",
-        "temp": 21.9,
-        "weather": "曇り",
-        "precip_prob": 82
+        "temp": 22.0,
+        "weather": "強いにわか雨",
+        "precip_prob": 96
       },
       {
         "time": "09:00",
-        "temp": 23.9,
+        "temp": 24.1,
         "weather": "晴れ",
-        "precip_prob": 37
+        "precip_prob": 65
       },
       {
         "time": "12:00",
-        "temp": 24.9,
+        "temp": 25.0,
         "weather": "曇り",
-        "precip_prob": 35
-      },
-      {
-        "time": "15:00",
-        "temp": 25.1,
-        "weather": "弱い霧雨",
         "precip_prob": 39
       },
       {
-        "time": "18:00",
-        "temp": 23.5,
+        "time": "15:00",
+        "temp": 24.8,
         "weather": "曇り",
-        "precip_prob": 8
+        "precip_prob": 33
+      },
+      {
+        "time": "18:00",
+        "temp": 23.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 12
       },
       {
         "time": "21:00",
-        "temp": 23.0,
-        "weather": "晴れ時々曇",
-        "precip_prob": 8
+        "temp": 23.1,
+        "weather": "曇り",
+        "precip_prob": 16
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月27日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mb040N2U5SExCUU0zOUZ2dW5JclhWNU5CbmRoRTNNelpGZERYZG42Mm94S19jQ2Y4aDJ1WktwcjFNSnI1MURMUXE1clVrREI1M2lGV0NNVUdha2FDbHh3RV9lQTRWdXJZdlh6bENGc9IBdEFVX3lxTE8wdzdsMl92bjVfaXN2b0s2SWhPSVkwOURody1UTzVIVEluY1JaZGVMTXduRUpTY1prbWxBZVgzNXhQV1pFWTI1TThQV2dNbWE5TEJkVC1zUHZaS1Bha2pRam93OURLOUo5OEFQblllRUtGSUwt?oc=5",
+      "date": "Thu, 26 Nov 2026 20:13:16 GMT"
+    },
     {
       "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BNGJ2VjB4dXFlRWxVTTlGbWd6TWhfZmRLSml2UXZiLWZ5dUZxZ0w4Y2JrSkp6TTNuX1VrODdzVDBMa3kxVEs1MnhJWk85eXJlcGc3OC1TbTQtM3NybHFSNEJ2TFhZVlpGWkwya0FB?oc=5",
@@ -83,23 +88,18 @@
       "title": "国道58号で検問 現行犯逮捕者も 夏の交通安全運動 沖縄",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZF81SzZQdUgtd1VWQzlwdGpFUVRHRkdQblk2YURwVXZFUjBnMEhwbEVmaHBFTVdDY016QWxXLUxTTlZGMGNrQWlIV3d0T0l0TWNVb1Z3ckU2akh0NnpYRg?oc=5",
       "date": "Tue, 21 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "安全な速度の遵守や見通し悪い夜間の運転注意をよびかけ 本部警察署が検問実施 沖縄・今帰仁村",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWEtLeVhyV1ZnR3lsdXFsNUNKLWJtSy1OZVcwLWU1M195MktPQjdXdUFCdFVERVd6SkQydE1VVkR3c083ZE9RSHl2VmN1M2VpNDRxbnhQYm95UQ?oc=5",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
+      "title": "交通死亡事故で高校教諭を減給処分 沖縄県教育委員会（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSmtFNUEydXhoWDY2Q3FiTFQ1VEZYcnZhYnZNMTN5SmdSdG9VZVF4b0JsQ2t1ZzNLQUprQVdoalI1bDdxaVJ4MGpKbnRzaC1Tc2tWQWVHMUVjRjA5ZFNROWFIM1VSUEpMRUJjVlBaNXNjdFhyd19GbF8yNjl4ZGM?oc=5",
+      "date": "Fri, 27 Nov 2026 01:50:53 GMT"
+    },
+    {
       "title": "クロウサギの交通事故、過去最多 鹿児島・奄美、生息数が増加",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5ek5mXzBYQjQ1aHA3Y3BnV01lTEdKMGE2TExUc204N3ZEV201aDEtVmVLMUJ2dmEzSWNmTVFsSm4tRzUzaXNBSi1MRDR4Zjk3RmpUNlBCWDZldzFjcEE?oc=5",
       "date": "Thu, 26 Nov 2026 10:24:44 GMT"
-    },
-    {
-      "title": "交通事故から回復したカンムリワシを放鳥 石垣市（RBC琉球放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43SmhfTVdVVlBKY3lhUGZITnNENkZEY1RoNGJldWFEY212SXUxMEkta0RLMVFOYmJqQWxlTVBoaU9VUVBwQnQ3NEV3TEtNTmNQSjJOQU10ckxQNnMwdmJxWllTX0FFVEoyc080UVFfcmZGSTRlUGNKX3huWmJ1MnM?oc=5",
-      "date": "Thu, 26 Nov 2026 03:05:24 GMT"
     },
     {
       "title": "歩行者はねられ意識不明 名護市・沖縄市で事故相次ぐ 81歳と75歳女性が搬送",
