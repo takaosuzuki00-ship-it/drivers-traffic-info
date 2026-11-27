@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-11-27T21:02:25.894507",
+  "generated_at": "2026-11-28T00:03:54.174643",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 2,
-    "weather": "晴れ時々曇",
-    "temp_now": 11.4,
-    "temp_max": 16.7,
-    "temp_min": 6.4,
-    "precip_prob_max": 50,
-    "precip_sum": 0,
-    "wind_speed": 5.7,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 10.8,
+    "temp_max": 20.3,
+    "temp_min": 10.1,
+    "precip_prob_max": 100,
+    "precip_sum": 4.1,
+    "wind_speed": 2.3,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 8.2,
-        "weather": "晴れ時々曇",
-        "precip_prob": 4
+        "temp": 10.8,
+        "weather": "弱い霧雨",
+        "precip_prob": 61
       },
       {
         "time": "03:00",
-        "temp": 7.1,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 10.4,
+        "weather": "弱い雨",
+        "precip_prob": 96
       },
       {
         "time": "06:00",
-        "temp": 6.5,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 10.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 96
       },
       {
         "time": "09:00",
-        "temp": 8.9,
+        "temp": 12.3,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 49
       },
       {
         "time": "12:00",
-        "temp": 14.3,
+        "temp": 17.9,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 43
       },
       {
         "time": "15:00",
-        "temp": 16.6,
+        "temp": 20.3,
         "weather": "快晴",
-        "precip_prob": 0
+        "precip_prob": 75
       },
       {
         "time": "18:00",
-        "temp": 13.4,
-        "weather": "快晴",
-        "precip_prob": 0
+        "temp": 14.9,
+        "weather": "晴れ",
+        "precip_prob": 63
       },
       {
         "time": "21:00",
-        "temp": 11.4,
+        "temp": 12.4,
         "weather": "晴れ",
-        "precip_prob": 0
+        "precip_prob": 51
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
-      "date": "Tue, 26 May 2026 07:00:00 GMT"
+      "title": "11月27日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mb040N2U5SExCUU0zOUZ2dW5JclhWNU5CbmRoRTNNelpGZERYZG42Mm94S19jQ2Y4aDJ1WktwcjFNSnI1MURMUXE1clVrREI1M2lGV0NNVUdha2FDbHh3RV9lQTRWdXJZdlh6bENGc9IBdEFVX3lxTE8wdzdsMl92bjVfaXN2b0s2SWhPSVkwOURody1UTzVIVEluY1JaZGVMTXduRUpTY1prbWxBZVgzNXhQV1pFWTI1TThQV2dNbWE5TEJkVC1zUHZaS1Bha2pRam93OURLOUo5OEFQblllRUtGSUwt?oc=5",
+      "date": "Thu, 26 Nov 2026 20:13:16 GMT"
+    },
+    {
+      "title": "11月22日（日）【熊本県 交通取締情報 午前・午後・夜間】交差点違反",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01YTRjTGpadkZkWHR2dk1TaE8yU3V4T3R6aFcwSlFVbnNjeWNHaDJqOUp0Zy1jYWdrODJPNks4MWpydzVmbjlhUlhtRTlqOTJhYUlhOXR2RQ?oc=5",
+      "date": "Sat, 21 Nov 2026 20:02:00 GMT"
     },
     {
       "title": "１１月２１日（土）【高知県 交通取締情報】午前・午後 各警察署別一覧",
@@ -75,26 +80,21 @@
       "date": "Fri, 20 Nov 2026 20:12:09 GMT"
     },
     {
-      "title": "11月22日（日）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iWU5LZ3VNRWFGbnR3UlB1cWk2SjgwTGZmNzFZWVRFN3F3TERrcThKUnRzUzNkdzRmbkJza2lrTzlLa1FSYVIwLUZzcWNlNGY2T3lfQ2hiOEJRMGpUazdiZTBJRTE5OWtqVERQUUdjWdIBdEFVX3lxTE4zUjg1alktZktkaTQyMXVBWUlkRDhLTXpaN0l2b2xsZFRwSmk0a2s3TG02M3VHLWJ5eV9fQXo0VHBBX3BSaFJldDBtc1F1eEg0VnBTVDZQMW8wQUF5b3RqdGJyTVBUQS1kbkJHSTRfd0UwZkdB?oc=5",
-      "date": "Sat, 21 Nov 2026 20:00:00 GMT"
+      "title": "１１月２４日（火）【高知県 交通取締情報】午前・午後　各警察署別一覧",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zNjk2VWFleDZuU0lQU2lVb3hzZ2FqWnB2V3B2VUtOQUZXVFN5dEhCZ3ZxQU1FN2Q0OWFZSldDamdLUVd3c3EydXh3ejBDTDBzVHpmQUdPNF82N1B6NGFwYVVGYUdsR05OTDlnY0M5S3Zzd9IBd0FVX3lxTE10YnhIUk01Q0RKUS04R19XQXExOVlkTHhiN2x3ODdfWmVqSVdGM25COG9tNGtqX0JiendPMWtoeUEzTW14ak44TGVKNjlLRFhnY05kYlJHZ0pYejFscl93b1BYQ3NwTVlaVkhyNzFHUUlOcWtJU1pB?oc=5",
+      "date": "Mon, 23 Nov 2026 20:04:19 GMT"
     },
     {
-      "title": "飲酒運転取り締まり場所を公表 7月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQzM0bFE3aE8tTm10blduajAxUXNmNXhXTGNuUkV1MkkxU2ktSTllYlZlMjV3MmxJSUpRa0wxQXVubkNrMVJOOGV3UEFxWGRVSGlZeDlhTGVYODVsX19KMXNTZU5tU28?oc=5",
-      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "飲酒運転取り締まり場所を公表 8月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83ZjVwUDNNYjJpZmtvVGRBLTNRT3hzWVhfWGoyNTNPTUo4RGJHYm1kWlFLSHFOM2NzLUZfSEJjSEFQajItX1BmdG9KN3V5ZlNCeDRoSjZvQQ?oc=5",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT"
+      "title": "飲酒運転取り締まり場所を公表 9月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mUFNqTGREckFXY0VsVkM3a09HNDZWekhCY3ppbUxRNkE1Q1hpazFSSm1RQ3dZQ2Vzb2x4M0FxOE5SWjhxSlRKcV9Jd3pEVnJYeUZyQUNPS29kUQ?oc=5",
+      "date": "Fri, 11 Sep 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
     {
       "title": "下校途中の小学生大けが 交通事故相次ぐ 山梨",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13LVJRcjFUeU1kcmIySEtyNll6VS0zNUVjOEdIb1JoLTNicW1nMVczMlNIdmFmSHhpMlRqUW9wVDItOS1zX3BfZ1BfaldJSEJYSlI1TlNXNHJMTzlyaVB3?oc=5",
-      "date": "Fri, 27 Nov 2026 08:49:03 GMT"
+      "date": "Fri, 27 Nov 2026 08:49:00 GMT"
     },
     {
       "title": "山梨・静岡高速隊が交通事故初動対応訓練 トンネルでの事故を想定",
@@ -113,7 +113,7 @@
     },
     {
       "title": "【運転していた86歳の男性が死亡】カーブを曲がり切れず壁に衝突 86歳の男性が運転する車が事故 病院に搬送も死亡 山梨",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Yamd4d3dkaG9xZjBvTVozNlhaM3ktNDdFZl93LUR3NE1KZFBnWGJhbXUxd19MMVFpaDFLSThJU2lFazJUN0VHcWpwaG4xS3pLWEo1X3AtblFNZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BUnJpNVBwRjNQZ1l5bEJCNGJFdnpHUGx1ZW1TanRnbUxxN0x0SXFpQTVIdkI1VDVJX0taczdnMkdFSTBmZnN0VzNITHVuV1hkUnNpQlotc002OHBxZnc1RUtMelNhZnc?oc=5",
       "date": "Fri, 27 Nov 2026 11:03:00 GMT"
     }
   ],
