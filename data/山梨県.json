@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T18:02:49.282682",
+  "generated_at": "2026-11-27T21:02:25.894507",
   "pref": "山梨県",
   "region": "中部地方",
   "capital": "甲府",
   "weather": {
-    "code": 51,
-    "weather": "弱い霧雨",
-    "temp_now": 13.6,
-    "temp_max": 17.0,
+    "code": 2,
+    "weather": "晴れ時々曇",
+    "temp_now": 11.4,
+    "temp_max": 16.7,
     "temp_min": 6.4,
-    "precip_prob_max": 31,
-    "precip_sum": 0.3,
-    "wind_speed": 4.3,
+    "precip_prob_max": 50,
+    "precip_sum": 0,
+    "wind_speed": 5.7,
     "hourly": [
       {
         "time": "00:00",
@@ -45,30 +45,25 @@
       },
       {
         "time": "15:00",
-        "temp": 17.0,
+        "temp": 16.6,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 13.6,
-        "weather": "晴れ",
+        "temp": 13.4,
+        "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "21:00",
-        "temp": 11.2,
+        "temp": 11.4,
         "weather": "晴れ",
-        "precip_prob": 14
+        "precip_prob": 0
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "11月27日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mb040N2U5SExCUU0zOUZ2dW5JclhWNU5CbmRoRTNNelpGZERYZG42Mm94S19jQ2Y4aDJ1WktwcjFNSnI1MURMUXE1clVrREI1M2lGV0NNVUdha2FDbHh3RV9lQTRWdXJZdlh6bENGc9IBdEFVX3lxTE8wdzdsMl92bjVfaXN2b0s2SWhPSVkwOURody1UTzVIVEluY1JaZGVMTXduRUpTY1prbWxBZVgzNXhQV1pFWTI1TThQV2dNbWE5TEJkVC1zUHZaS1Bha2pRam93OURLOUo5OEFQblllRUtGSUwt?oc=5",
-      "date": "Thu, 26 Nov 2026 20:13:16 GMT"
-    },
     {
       "title": "暴走族の取締強化へ 山梨県警が特別指定取締員「Gメン」の実践塾",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vT2x5alpTU3d3LUZfNDVhMGxDMC0yVHdXaUlWb2R0Z3RnME1FWGNpMmxfVERtekJPTllEcjlwOU1zYVRVZk95SGRnN0d1cVJQajBobUZ1YTRXSFE?oc=5",
@@ -80,9 +75,14 @@
       "date": "Fri, 20 Nov 2026 20:12:09 GMT"
     },
     {
-      "title": "飲酒運転取り締まり場所を公表 9月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mUFNqTGREckFXY0VsVkM3a09HNDZWekhCY3ppbUxRNkE1Q1hpazFSSm1RQ3dZQ2Vzb2x4M0FxOE5SWjhxSlRKcV9Jd3pEVnJYeUZyQUNPS29kUQ?oc=5",
-      "date": "Fri, 11 Sep 2026 07:00:00 GMT"
+      "title": "11月22日（日）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iWU5LZ3VNRWFGbnR3UlB1cWk2SjgwTGZmNzFZWVRFN3F3TERrcThKUnRzUzNkdzRmbkJza2lrTzlLa1FSYVIwLUZzcWNlNGY2T3lfQ2hiOEJRMGpUazdiZTBJRTE5OWtqVERQUUdjWdIBdEFVX3lxTE4zUjg1alktZktkaTQyMXVBWUlkRDhLTXpaN0l2b2xsZFRwSmk0a2s3TG02M3VHLWJ5eV9fQXo0VHBBX3BSaFJldDBtc1F1eEg0VnBTVDZQMW8wQUF5b3RqdGJyTVBUQS1kbkJHSTRfd0UwZkdB?oc=5",
+      "date": "Sat, 21 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転取り締まり場所を公表 7月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQzM0bFE3aE8tTm10blduajAxUXNmNXhXTGNuUkV1MkkxU2ktSTllYlZlMjV3MmxJSUpRa0wxQXVubkNrMVJOOGV3UEFxWGRVSGlZeDlhTGVYODVsX19KMXNTZU5tU28?oc=5",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "飲酒運転取り締まり場所を公表 8月に実施予定の12か所 この他にも非公開の取締り 山梨県警",
@@ -107,14 +107,14 @@
       "date": "Fri, 13 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "乗用車と衝突 小学生重傷 山梨市【社会／山梨】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGV3dQbWI1clhiekNoMll4MUNnSHRhRzMxX0FDckNTd3ZPQmsybnJzQ3lDRWtsZjduUjE5NWJUbWl1R0xCSmFPVkctVXo1anU0UHhyVmlyZVJ6dmFzTmNIZ2w2cDc?oc=5",
-      "date": "Thu, 26 Nov 2026 13:22:35 GMT"
+      "title": "オートバイが橋から4ｍ下に転落 運転手の男性死亡 県道を走行中に単独で衝突事故 山梨",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNazd1QkZwOHJyQmhIY3VpalhuRUdXM3ZabVB5TnRkZ2JFLW9zby01cjVpOWRRUGIzcWc3al9PUVRwTkpIdTZ6eVpZbmRFXzNNaERuWkNUaTBlLTUtYV81VEUyeDFiN3hpaXduQy1VLU5RSlpjSGhrVzY0RS0tZFJxbmN0dThaWWM?oc=5",
+      "date": "Mon, 23 Nov 2026 03:57:00 GMT"
     },
     {
-      "title": "オートバイが橋から4ｍ下に転落 運転手の男性死亡 県道を走行中に単独で衝突事故 山梨（YBS山梨放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWERkTHZNZzBONE16RWQtMEUxZG0yaWMtbEZSOVdybkhpWnNKWF9iQmIxQ0xqbkhVaWZQMzF6bjJLdExSZDhkRWZUWk8tOWxNcWs0ME43REE3bWlOa0tjeWJtYUs0eVRSamxwMG43bFMzbFdtaXRJSG5ZdnVMYms?oc=5",
-      "date": "Mon, 23 Nov 2026 03:57:00 GMT"
+      "title": "【運転していた86歳の男性が死亡】カーブを曲がり切れず壁に衝突 86歳の男性が運転する車が事故 病院に搬送も死亡 山梨",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Yamd4d3dkaG9xZjBvTVozNlhaM3ktNDdFZl93LUR3NE1KZFBnWGJhbXUxd19MMVFpaDFLSThJU2lFazJUN0VHcWpwaG4xS3pLWEo1X3AtblFNZw?oc=5",
+      "date": "Fri, 27 Nov 2026 11:03:00 GMT"
     }
   ],
   "official_links": [
