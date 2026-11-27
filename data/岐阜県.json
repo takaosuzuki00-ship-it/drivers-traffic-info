@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-27T06:02:00.158212",
+  "generated_at": "2026-11-27T09:04:00.927291",
   "pref": "岐阜県",
   "region": "中部地方",
   "capital": "岐阜",
   "weather": {
-    "code": 61,
-    "weather": "弱い雨",
-    "temp_now": 5.7,
-    "temp_max": 13.8,
-    "temp_min": 5.3,
-    "precip_prob_max": 94,
-    "precip_sum": 2.9,
-    "wind_speed": 4.3,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 8.4,
+    "temp_max": 14.1,
+    "temp_min": 5.5,
+    "precip_prob_max": 96,
+    "precip_sum": 2.8,
+    "wind_speed": 2.9,
     "hourly": [
       {
         "time": "00:00",
@@ -21,13 +21,13 @@
       },
       {
         "time": "03:00",
-        "temp": 6.4,
+        "temp": 6.5,
         "weather": "快晴",
         "precip_prob": 0
       },
       {
         "time": "06:00",
-        "temp": 5.7,
+        "temp": 5.8,
         "weather": "快晴",
         "precip_prob": 0
       },
@@ -39,45 +39,40 @@
       },
       {
         "time": "12:00",
-        "temp": 12.7,
+        "temp": 12.4,
         "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "15:00",
-        "temp": 13.8,
-        "weather": "晴れ時々曇",
+        "temp": 14.1,
+        "weather": "晴れ",
         "precip_prob": 0
       },
       {
         "time": "18:00",
-        "temp": 12.2,
-        "weather": "弱い霧雨",
-        "precip_prob": 24
+        "temp": 12.0,
+        "weather": "強い霧雨",
+        "precip_prob": 59
       },
       {
         "time": "21:00",
-        "temp": 10.9,
-        "weather": "霧雨",
-        "precip_prob": 78
+        "temp": 11.2,
+        "weather": "弱い霧雨",
+        "precip_prob": 92
       }
     ]
   },
   "enforcement_news": [
     {
-      "title": "11月24日（火）【岩手県】 日中・夜間の交通取締情報",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PdnVsdjhBUGtId2FkNnFTdlJxYVhlQzdpNzhJemhZRjdzUzJHdmhzeUZSMlphSWp6aEJoQ1dEemFUN0YyOTBsemxjQ1NKbWhlT3AwZnlRT3BKMEFPSDNtYkE3M2t4ZmZPRENXd29DVdIBdEFVX3lxTE8wRWFubFF4by1NSlFtYl9PS242N1FqZnMxem1DUC1LeVZ4bXh6T0VrSTYyVVM4QUlxZ2w2RFpsdzlGV194R1hjVDFreUtLV0xuZXpjRkI4U2FxY0dwU0U0NVBuMC1JeFg1eTVsZG1kWXd6ZWNS?oc=5",
-      "date": "Mon, 23 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "【各務原警察署】覚醒剤取締法違反被疑者の逮捕（10月22日）",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VEVEOElXWmltRml1ZXZ3TUswSm1xemsyVW0wTWE3bWVoYmpDcmJwSlNGQnFYTU1CWU9fSWUzdDBJaGVGdzVWUlJhNC1sU0kxTno1bXYyZEZhRlZLVjNIeTV1QkVjX2NKXy1kVkV3?oc=5",
-      "date": "Fri, 23 Oct 2026 03:59:22 GMT"
-    },
-    {
       "title": "11月21日（土）【岩手県】 日中・夜間の交通取締情報",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzaVh5UE9HYXQwWE5ILVFtZnIyd19TazFVWXBEOHk3OHZ6S3NPLW83S3FmVldBVnRKLUo4dGNvZXMxalRHMkNtN2NPS1d2U2V4OS1WazJWY09iUEVwdnlsbkEwNHoxTFJhYl80ZXd3?oc=5",
       "date": "Fri, 20 Nov 2026 20:14:05 GMT"
+    },
+    {
+      "title": "麻薬取締法違反被疑者の逮捕",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xWTY2S0dxU3JQc2VOOUhwMFJ1RVlMZE42d1o4LVV4bDFWOXhKNXZveGdjMkNqQ01WaDY0TXlabVVNYS1qbWNTZ2ZKeENkdV9Pd1E2NjdzSXBKb0lpSlY5cWdFWQ?oc=5",
+      "date": "Mon, 16 Mar 2026 00:55:26 GMT"
     },
     {
       "title": "【岐阜北警察署】『岐阜中警察署、岐阜北警察署合同検問の実施！！』",
@@ -88,6 +83,11 @@
       "title": "お盆に合わせ飲酒検問、岐阜県内で一斉に 県警が県内１２カ所で",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQ0xGclRZcS1SQnU5djZaeS04RFJGQnEzU1pLelJZanA4N0lIQUdoSWxMTkVPVlM3Q3FBVVBVRFUwV0lnbTE0SlZIYTZHdmhtLVVKLVZR?oc=5",
       "date": "Sat, 08 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "岐阜県警が6所属合同の一斉検問 交通違反の取締りで連携",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05RmFxRnZqSV9iazYwQV9ZcWoxNUptOEFtNUlkMVdPU1YtZGxyaTl5MUVESVptZUFUVC1QREZsRFE5X3Fhd2dIYm9wd20tTFdycDU2RW13WFFKekk?oc=5",
+      "date": "Thu, 07 May 2026 07:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,24 +97,24 @@
       "date": "Fri, 07 Aug 2026 09:22:15 GMT"
     },
     {
-      "title": "同じ交差点で今年3度目の死亡事故 岐阜県大野町麻生、軽乗用車と大型トラックが出合い頭で衝突",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pRHM2cVdjQXd2a0dKU2R0YlVMX1dYd1dtMjY4a2t1ZWdJck5rLXl5Qk9GcHBObms2a0MxUnJBN1NOY180Ni1zYlo2NkdSb1dsdjVkcQ?oc=5",
-      "date": "Mon, 16 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "岐阜・関ケ原町の国道、横断の８０代男性はねられ死亡",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jdVFXZUkzc0VMYXltbkVXRElhVjk5RlJMc2E0S3BDd2t1ZzlQd0lEQmp0cnhtX0RiUVl6YThvR19fSUttOXMwRlJ4aHU0TG5yazltak1n?oc=5",
-      "date": "Sat, 21 Nov 2026 02:53:00 GMT"
-    },
-    {
       "title": "岐阜県警公式が警告 死亡事故多発の“魔の交差点”なぜ危険？ SNSも「本当にここ危ない」「初見殺し」（1/2 ページ）",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aLXBCT2lxQ3dNRmJ1SXRnMmVYVTBlM25LemlhNGh0OGoxN1F5by1JUW1ZYkJScXk4cDNhVy1BNjZjdTRweE5IWWdB?oc=5",
       "date": "Wed, 25 Nov 2026 07:12:00 GMT"
     },
     {
-      "title": "岐阜・瑞浪の横転事故、3～6歳の子ども含む8人搬送 女性1人死亡",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVaXNyZFJkSV9wWEpMRHU1VzhFZWU4Z3Q0Y3ZQSFZQSm0yaUo1R3V2RGtOWXk4aE1EQWx5aFpXRW1QcEJ1VzNuelQ0T1BfM1hPZGFoY2tHQW5GMExMYUd3TlFwRHVGMTZP?oc=5",
-      "date": "Sun, 25 Oct 2026 07:00:00 GMT"
+      "title": "路線バスと自転車の事故で自転車の男性（71）が死亡 バスの乗員乗客にはけがなし 岐阜市（中京テレビＮＥＷＳ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rLTZtX196NDk2RHRMY05OcllSLXMybUdybjFWRlJtRzR3T01NMnRrYnBhUjZzYmZfV3JUOG9rZjBiZGZrUjZqdWZ3cjRISm5ad3ZxX3lwSjRUZkxqb1pTVVdWWUY0MlR6RDBQeDdQN3N2b01xaWtJMHFjaUdBdnc?oc=5",
+      "date": "Tue, 10 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "交通事故、岐阜県内最多は岐南町の上印食交差点 交通量多く 昨年度 [岐阜県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TZm9ybUdIME5lRktFMXFoUGZwR3FhM1FwcTRRRHo2VjVlZWtKV2JiWkFRSFZBcUk1aEZrWWRWd0FyRmF3dk9Ka2ltOVh5eFBYM2dKYXNkTUlrbW93azRHOEdjWEFqVEU?oc=5",
+      "date": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "機械のベルトに挟まれ、作業員男性（６８）死亡 岐阜県瑞浪市（ぎふチャンDIGITAL）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVbVRIWXp1TlBEOWJ1Y1BfbXlKMGl2S1lLT3NYQ21TZzd0czh5c2FjU2JEV2lMUmxLYzF6bTlCX0QxdERlMDJnVlZnZG9hcGd6SG5ucUZaakNFU2VnX1Qwc0JRdWhLY1I2QU93WmkwcENBLUo2X3Z3N056aWNnNHM?oc=5",
+      "date": "Tue, 24 Nov 2026 02:22:21 GMT"
     }
   ],
   "official_links": [
