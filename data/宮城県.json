@@ -1,69 +1,74 @@
 {
-  "generated_at": "2026-11-28T06:01:38.707473",
+  "generated_at": "2026-11-28T09:02:44.944396",
   "pref": "宮城県",
   "region": "東北地方",
   "capital": "仙台",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 8.5,
-    "temp_max": 12.8,
-    "temp_min": 8.2,
-    "precip_prob_max": 100,
-    "precip_sum": 11.6,
-    "wind_speed": 3.7,
+    "code": 61,
+    "weather": "弱い雨",
+    "temp_now": 9.0,
+    "temp_max": 13.6,
+    "temp_min": 7.9,
+    "precip_prob_max": 99,
+    "precip_sum": 5.4,
+    "wind_speed": 2.1,
     "hourly": [
       {
         "time": "00:00",
         "temp": 9.5,
         "weather": "晴れ時々曇",
-        "precip_prob": 6
+        "precip_prob": 0
       },
       {
         "time": "03:00",
-        "temp": 8.6,
+        "temp": 8.5,
         "weather": "霧雨",
-        "precip_prob": 8
+        "precip_prob": 2
       },
       {
         "time": "06:00",
-        "temp": 8.5,
+        "temp": 7.9,
         "weather": "強い霧雨",
-        "precip_prob": 63
-      },
-      {
-        "time": "09:00",
-        "temp": 9.1,
-        "weather": "雨",
-        "precip_prob": 90
-      },
-      {
-        "time": "12:00",
-        "temp": 10.3,
-        "weather": "弱い霧雨",
-        "precip_prob": 76
-      },
-      {
-        "time": "15:00",
-        "temp": 11.9,
-        "weather": "晴れ時々曇",
-        "precip_prob": 35
-      },
-      {
-        "time": "18:00",
-        "temp": 11.8,
-        "weather": "快晴",
         "precip_prob": 59
       },
       {
-        "time": "21:00",
-        "temp": 9.9,
+        "time": "09:00",
+        "temp": 9.0,
+        "weather": "弱い霧雨",
+        "precip_prob": 80
+      },
+      {
+        "time": "12:00",
+        "temp": 11.2,
+        "weather": "晴れ",
+        "precip_prob": 78
+      },
+      {
+        "time": "15:00",
+        "temp": 13.2,
+        "weather": "晴れ時々曇",
+        "precip_prob": 31
+      },
+      {
+        "time": "18:00",
+        "temp": 13.4,
         "weather": "快晴",
-        "precip_prob": 96
+        "precip_prob": 67
+      },
+      {
+        "time": "21:00",
+        "temp": 10.0,
+        "weather": "快晴",
+        "precip_prob": 90
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月24日（火）【岩手県】 日中・夜間の交通取締情報",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZEZnNy0tTEF6M1U5VXNWbU9zdWIxdE9Ha21FOGJjS1k5QVNnU1g5eXJwa1NYSkhmX1hkeE9ZemhEdENkU0hQX3FhbEJ4SDQwTVRydVJpNUM3OE9kRm1YS0Zhb2FlUkoxbDJ0QlB3?oc=5",
+      "date": "Mon, 23 Nov 2026 20:13:13 GMT"
+    },
     {
       "title": "自転車\"右側通行\"で4人に指導警告\"スピード違反\"や自転車\"右側通行\"を交通安全運動最終日に取り締まり 宮城",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OdGdibkh4Zk9nV0M4VXV6TlhKVHBTcGJPU1JVWHVJdTlvZFVpcmVodERZdTlhcGRiT24tdERpN2s5YzVIOGFmX1lOelVWQUNQVUVnSHRWSQ?oc=5",
@@ -73,11 +78,6 @@
       "title": "新学期に通学路で速度違反の取り締まり 春の交通安全運動 宮城・大河原町",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90RzB2ZEhvUVRSYnVSZXphZjVtLU5IWDJRMnJ6Q29nTjZfN2RLRmtXN2hCY0VJSTBzaDB3ZEdESlZBUkU4ZmFfQ1l5TDZvTWc?oc=5",
       "date": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "衆院選へ 選挙違反取締本部を設置 宮城県警",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xRlVOUzJwUFpWYkJEMjY5b2VYcUxQaHBtQ3NnUW1XdzNHdGgxRE9GZ2hFRzJLVzZyQ0lGRW5Xbm1tWl9FUGFsajFPVXdHR1U?oc=5",
-      "date": "Sat, 24 Jan 2026 09:41:03 GMT"
     },
     {
       "title": "仙台育英高の生徒3人犠牲 飲酒事故から21年、宮城で検問実施",
@@ -99,7 +99,22 @@
     {
       "title": "日没が早まる秋 夕方の交通事故に注意",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWkp6MG13QnhoVzNkOVpBRmkyWGRPelVQcEhvYVUzbU5jbDhHX1l1c01KNmJ6OHFUMXBfSURCQU52bTVSYms4TFVVTFA4UzQ?oc=5",
-      "date": "Tue, 06 Oct 2026 09:42:01 GMT"
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "殺虫剤誤飲死亡事故 保健所が市に対し厳重注意した際に死亡した事実を報告せず 宮城・石巻市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yYzJBYmRQR2dLb011dEFCQU15UmpQck1MMUc5YzZSb0hBZGJhRzl1UWIwam9ueGo3cGxDTlhKeGs2a2dIYlh2NUNtMzdlMWxmREZiUzJQUVFFaGFXRnNB?oc=5",
+      "date": "Thu, 26 Nov 2026 20:35:57 GMT"
+    },
+    {
+      "title": "重機とトラックの間に挟まれ 男性作業員（55）が死亡 宮城・松島町",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MWU0Z1RXbmJGaWI4NVBzeHFXdDVJbUtrTWZsMFh5anBsaUhwclZ0OHZSUnVWS0FibjJnQS0tUTFDS2NGZmdlTnJNTGtEZ1U?oc=5",
+      "date": "Fri, 20 Nov 2026 13:21:00 GMT"
+    },
+    {
+      "title": "重機とトラックの荷台に挟まれ…工事現場で作業中の50代男性死亡 宮城・松島町（ミヤギテレビ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwN1NZQ1VKeUppTXhMZlYzbk55SDFVd2JBdU8xTDk5M0stZmQtcTFsUjJ6Tl9LT21CdlJKQ09XaE52OEhGMk9kYkFMeVNueFVGcDk4UzRuMmJRaXRvdzVpc1RuMVg2cXRHSjhWVGdhTkIwdjRfdEl3ZnhocjVqV1k?oc=5",
+      "date": "Fri, 20 Nov 2026 23:19:00 GMT"
     }
   ],
   "official_links": [
