@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-28T18:01:12.506950",
+  "generated_at": "2026-11-28T21:01:31.364617",
   "pref": "福島県",
   "region": "東北地方",
   "capital": "福島",
   "weather": {
     "code": 51,
     "weather": "弱い霧雨",
-    "temp_now": 14.1,
+    "temp_now": 10.3,
     "temp_max": 17.3,
-    "temp_min": 7.9,
-    "precip_prob_max": 99,
-    "precip_sum": 0.7,
-    "wind_speed": 7.7,
+    "temp_min": 8.2,
+    "precip_prob_max": 100,
+    "precip_sum": 1.2,
+    "wind_speed": 6.5,
     "hourly": [
       {
         "time": "00:00",
@@ -41,44 +41,29 @@
         "time": "12:00",
         "temp": 13.3,
         "weather": "晴れ",
-        "precip_prob": 92
+        "precip_prob": 100
       },
       {
         "time": "15:00",
-        "temp": 16.9,
+        "temp": 17.0,
         "weather": "晴れ",
-        "precip_prob": 18
+        "precip_prob": 2
       },
       {
         "time": "18:00",
-        "temp": 14.1,
-        "weather": "晴れ",
-        "precip_prob": 51
+        "temp": 14.3,
+        "weather": "弱い霧雨",
+        "precip_prob": 37
       },
       {
         "time": "21:00",
-        "temp": 10.7,
-        "weather": "曇り",
-        "precip_prob": 94
+        "temp": 10.3,
+        "weather": "晴れ時々曇",
+        "precip_prob": 98
       }
     ]
   },
   "enforcement_news": [
-    {
-      "title": "１１月２８日（土）【高知県 交通取締情報】午前・午後　各警察署別一覧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jckl1UW1fcHEwY2RYZTlNRldSbkgtU2pTd0ZrTGxTOEMzYUZwZlNRZHZZSzhGSDUwNHRoRnZnOGlDU1VlaEhHejVCRl9kZS1TNXR6di1qQmVEajZVNlA1OTZGR3hnakRVUlFJSnlSeGRWUdIBd0FVX3lxTE1SUVB6U0lJRlBlc0RGWmwxVTV5aFEtLVI5THJaWk9lYlAycGJuYUtVY0g5Z1hGOE1OXzJsUEc5VE5fY1JvUzlDYk5DcFQxckk0UFhKdGptLVJZdmpNR2tzUmVKdmV2bk0xR2lTb3FaMC1nbGVRZGo4?oc=5",
-      "date": "Fri, 27 Nov 2026 20:10:34 GMT"
-    },
-    {
-      "title": "朝の交通指導取締中に職務質問で発覚 酒気帯び運転の疑いで会社員の男(32)現行犯逮捕 福島・棚倉町",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHaGw1VzU3VGFkYlUwMVMyMnNUcFM5WVVVQzU5MGhGdElJREVUeWFxUVBVeWJITlRjemZZR0t4Mldra1V1UXV5N21LT05TS012Y3ZQMDd5MVhwdw?oc=5",
-      "date": "Fri, 06 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "11月26日（木）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”あり",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EN2hfQ21FS2ZIVW0xX3RJcVNEaDI0RmxWbU5oTC1GTkgxYjJIOUJxWGFidmprOTlTd2IxY3VFS3VWTV9TSnhsa01sVWJXelNJZUZWTE5NT0syRmtjZFRVUzZaSjk4czZ0bWdkV2N1TdIBdEFVX3lxTFB3SjJKZ1JabEU5R0hYWVBXS2Z2bHlndlhEbS1MX09fTzhHR3VUV2ZPUVUzcTgycXc5Z0NQTnBzcXRUQUhIUktHN3NPaTItOU05MHJKVktyNVNkNHl4QlpMdnRHa3FZVDJhU1Y0clkwdl9XcG1v?oc=5",
-      "date": "Wed, 25 Nov 2026 20:02:00 GMT"
-    },
     {
       "title": "国道４号で夜間検問実施 須賀川署",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUWlWdlVEelhiRWFYdWNfRFdPYkRfMmhsalVCZC1UcXM1cXpvUmo4QkZPd0FRZkJzajBtdjE5dkRxbnVkUW1sdjJUV2Z1dEU?oc=5",
@@ -88,6 +73,16 @@
       "title": "飲酒運転根絶へ厳罰化 県警が検問強化し撲滅目指す 福島（2026年8月5日掲載）｜中テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnliNEgxdUF0WmFhNG0yU2xWVDlCcGR4STZVWGZYeU5rWEI3dkMtYnRWbF9SejVCWmNnY0NlTW5fd01STTZvcUlsb2tFV2txM3FwSXdOWGpZMmg1bTVqR3YzakFSWFR1YTRmdHRzOW1wa3haNGI1Qnp4Q0RwZzhPQWsyYkUzaDA?oc=5",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "飲酒運転撲滅へ 駅前で夜間検問 いわき中央署",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oM3NTVy11cjdZdzNNRDJfWTdZVnVxRGZKX2hVbHJXb0dLUldPUFA4UG52NUxvOUlxM0Nrb1hwV0lIRElwWHZWOW5QVQ?oc=5",
+      "date": "Tue, 28 Apr 2026 02:08:34 GMT"
+    },
+    {
+      "title": "郡山の受験生死亡事故から１年 いわき市では飲酒運転撲滅に向けて検問実施",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYllnNWFOVVB0NDhhdHZyTm1JMEkzb2ZQN2hvelE3Y0NxRjdpR1ZrSmJZbjM2a1JWY1l1eWZVd0xNckVnay1GZEFvLWJLNS10YnhlZGxoQ012QQ?oc=5",
+      "date": "Sat, 24 Jan 2026 08:00:00 GMT"
     }
   ],
   "accident_news": [
@@ -97,24 +92,24 @@
       "date": "Sat, 28 Nov 2026 00:15:02 GMT"
     },
     {
-      "title": "いわき市の横断歩道で事故 10代女性死亡 過失運転致傷の疑いで男逮捕（2026年11月27日掲載）｜中テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjRPV0dHa0xySE1SSDdnQUpXdEl4ajEwVDgtVzJQNnNtemVFSWVLa2VueklGam45eWpIaURJUWVneHpJc0c0VTc3SURfNlBDREQtR2YtOUVQLVd3b1A2UmZOOGYwa2hkUVdheWFuWUtGTVNQWFZhRllHMkVNMXBuZUxCUWJnNjQ?oc=5",
-      "date": "Sat, 28 Nov 2026 00:52:00 GMT"
+      "title": "気をつけたい12月に増える交通事故 危険個所をチェック 歩行者横断危険箇所マップ 福島 ：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sbU1yTWtmQjhEakQ4UWptX2l6UlBoTU9XRkVBb0dDR1d3V1F1Z0RzbC1oTGtMME9Mek8tR0lNZFV6YTJmUTlDOFhUdjR3NFRVM0VMVkRDTHF4ZjVlTzVRb3RWd21BQ0tsSUdZbVNNeHQtRUFMVHlLWHlB?oc=5",
+      "date": "Tue, 24 Nov 2026 10:29:00 GMT"
     },
     {
-      "title": "いわき市男児死亡事件 市の対応検証や再発防止策を検討 児童虐待検証会議",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mcWt3ektGb010SmxlT1oya0NpRkROdWx3aVNmUEFIVDl2a1RfZGloc2UzR2FWWE1vWTVDVnhrR3dRVlA4a25mVUpCUkwtWmVBaWhJMFhWOA?oc=5",
-      "date": "Sat, 28 Nov 2026 06:06:00 GMT"
+      "title": "信号機ない横断歩道で女性がはねられ重体 運転の男を過失運転致傷の疑いで現行犯逮捕 いわき市",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLR01DRExoeFNvVmp6eTN3amRva1dfdy1GblQyNjdGVzI5dVlQTjk3Z2VEWVF1TVVkbFZtVTNZZGg2c0tpWlBhODIzZXRCVDhhSFFvVnZ3?oc=5",
+      "date": "Fri, 27 Nov 2026 08:08:00 GMT"
     },
     {
-      "title": "16歳高校生はねられ死亡 過失致傷疑いで24歳男逮捕 福島・いわき（福島民友新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbEVpRnpqdmxwZi02d1MzbzFLT3Z4bUN4NGNUMmhYdy1reEhWdl8xalhxMWIzbE5DZTU2SnhrSWZUT1luLW1DQ3VIQmh2b2pWcW5NOE9Gb0VSOGlIMnFITC1qZEF3TmUxd3NVdXZFdWZYT2NjV0lvSFVuMzNoQUE?oc=5",
-      "date": "Fri, 27 Nov 2026 23:28:06 GMT"
+      "title": "【交通事故】会津若松市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZUxoeWg0Uk1CaTVHUUkwT2F5YUZhcmg4VGtvQUNxa05ySlYtelhYeHRHZk1BZndEMl9Db2dEVlNqcUpOSE0wU1RIQktTSnM?oc=5",
+      "date": "Sat, 28 Nov 2026 00:15:00 GMT"
     },
     {
-      "title": "アンダーパスに路面標示 福島・いわき、冠水で死亡事故を受け [福島県]",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZ3ZKUDhEb3Y0NndpZF9IaWF2MUdaODFka1pRLUxaRlRpcnYySnZDREtTdGQxSFZMbUdMVGJqSTJ5RFRDS0k3dzJjTTBzSFYzS3JJWTIwY1dMLXZ0RnN0bWNsdEVST0FKVkhLX013?oc=5",
-      "date": "Wed, 25 Nov 2026 01:00:00 GMT"
+      "title": "福島市御山の国道13号線で救急車とトラックが衝突する事故 救急車に患者は乗っておらずケガ人なし",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yUzhTNnNGVjQzTWlnRUxiSXJ1a0ZxLVZQMWRJamtzNVkyQndSUTFYMWs5Ul9Jb0JiaHBoX1J2TWNxSnhweE51bzI5RnhTZw?oc=5",
+      "date": "Mon, 23 Nov 2026 02:56:00 GMT"
     }
   ],
   "official_links": [
