@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-28T21:02:17.466287",
+  "generated_at": "2026-11-29T00:01:44.509141",
   "pref": "福井県",
   "region": "中部地方",
   "capital": "福井",
   "weather": {
-    "code": 63,
-    "weather": "雨",
-    "temp_now": 10.2,
-    "temp_max": 16.7,
-    "temp_min": 8.9,
+    "code": 65,
+    "weather": "強い雨",
+    "temp_now": 8.6,
+    "temp_max": 8.6,
+    "temp_min": 5.4,
     "precip_prob_max": 100,
-    "precip_sum": 26.3,
-    "wind_speed": 9.9,
+    "precip_sum": 36.3,
+    "wind_speed": 7.0,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 13.2,
-        "weather": "曇り",
-        "precip_prob": 96
+        "temp": 8.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 13.1,
-        "weather": "曇り",
-        "precip_prob": 86
-      },
-      {
-        "time": "06:00",
-        "temp": 13.3,
-        "weather": "弱い雨",
-        "precip_prob": 98
-      },
-      {
-        "time": "09:00",
-        "temp": 14.8,
-        "weather": "晴れ時々曇",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
-        "temp": 16.5,
-        "weather": "弱い雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "15:00",
-        "temp": 14.1,
-        "weather": "強い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "18:00",
-        "temp": 12.2,
+        "temp": 7.8,
         "weather": "霧雨",
         "precip_prob": 100
       },
       {
-        "time": "21:00",
-        "temp": 10.2,
-        "weather": "弱い霧雨",
+        "time": "06:00",
+        "temp": 5.6,
+        "weather": "強い雨",
         "precip_prob": 100
+      },
+      {
+        "time": "09:00",
+        "temp": 6.9,
+        "weather": "弱い雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "12:00",
+        "temp": 7.4,
+        "weather": "霧雨",
+        "precip_prob": 100
+      },
+      {
+        "time": "15:00",
+        "temp": 7.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
+      },
+      {
+        "time": "18:00",
+        "temp": 6.9,
+        "weather": "晴れ時々曇",
+        "precip_prob": 24
+      },
+      {
+        "time": "21:00",
+        "temp": 6.0,
+        "weather": "晴れ時々曇",
+        "precip_prob": 2
       }
     ]
   },
@@ -77,11 +77,6 @@
   ],
   "accident_news": [
     {
-      "title": "福井県内で交通死亡事故が多発 県警が警報発令 交通指導や取り締まり、啓発を強化 11月30日まで",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mUm5LamxYVUI5WldYYjB6VjFwazVJcU9pVWw2a2tqU1pjdnQtRWxESGh6MUlwQTNnU0ZEb3laUXpGZFFsNGZUX1VTeG1rQm9CUEJFQ0pGcWd6Ym1DRXc?oc=5",
-      "date": "Sun, 22 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "鯖江と勝山で交通死亡事故 福井",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fVVRJSERKS0ZhUlBPd3pVcFY4aEFyM1NrVTVEZXFvSFIxSE4zUkRoMDNVZGdxd1VyaGc5d2dBbE91STRaeXIyWUllVXZFYnV0dUd6ZTJDVVEtY1ZzYy1r?oc=5",
       "date": "Fri, 20 Nov 2026 02:59:00 GMT"
@@ -92,14 +87,19 @@
       "date": "Fri, 06 Nov 2026 19:49:59 GMT"
     },
     {
-      "title": "トラック荷台から落ちたガードレールが首に当たり26歳男性が死亡 越前市北山町の国道365号上 ガードレールの設置作業中",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uNjZhYUViOGttelNLdXByUzRrVTJPQnhUaWFKRzh4anFlUkF5bGk3VmF4dDlZMHRkRHFtQ1QtdVh3WUFXVkV4c2dpQXNaVkNoLTVSSzY5NkdiVlFmMkxoYUhsRTNQWXlmYUFsY3QzdVVqSWpBbWpKaThwSm5Wc00?oc=5",
-      "date": "Fri, 06 Nov 2026 08:00:00 GMT"
+      "title": "福井県内で交通死亡事故が多発 県警が警報発令 交通指導や取り締まり、啓発を強化 11月30日まで",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mUm5LamxYVUI5WldYYjB6VjFwazVJcU9pVWw2a2tqU1pjdnQtRWxESGh6MUlwQTNnU0ZEb3laUXpGZFFsNGZUX1VTeG1rQm9CUEJFQ0pGcWd6Ym1DRXc?oc=5",
+      "date": "Sun, 22 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "管内死亡事故受け 安全運転呼びかけ 勝山署 | 社会 | 福井のニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVlBUVldLVUFtLVRNNVV4eWJOdUFfa25uVVk3OV95UllhSkg5bjZMTzRMQnJNdVJGRzk0X3gyM29YNFY0dWRPT2NtQ21JQzhoWUc1RlItUWhSWXRkZHc?oc=5",
-      "date": "Thu, 26 Nov 2026 20:00:00 GMT"
+      "title": "交通死亡事故相次ぎ警報、福井ト協が注意喚起",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pRlZMQk1FQ19qZi1Pak5FQm1BcHRJMWVmTDRjdEN3RFJyLTNHdk9nOFBubHhRNUxUODQwNVJuZTZ3Q0MzTWRYVHVR?oc=5",
+      "date": "Wed, 25 Nov 2026 22:38:20 GMT"
+    },
+    {
+      "title": "DJポリス出動「早く着くより無事に着くことが大切」 死亡事故多発で福井署が呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVEVSc1BWbGRtNXB0X0cxZDFod29KSHFwQzU0MTU0UkItVWlmdXExUDVkYmpYRHViamFnMmxoUGFDRXlvTDhwZ2Q0NFhtdnFGLXRfOA?oc=5",
+      "date": "Wed, 25 Nov 2026 20:05:00 GMT"
     }
   ],
   "official_links": [

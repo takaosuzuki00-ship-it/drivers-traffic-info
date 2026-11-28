@@ -1,69 +1,84 @@
 {
-  "generated_at": "2026-11-28T21:01:21.205765",
+  "generated_at": "2026-11-29T00:01:07.139736",
   "pref": "秋田県",
   "region": "東北地方",
   "capital": "秋田",
   "weather": {
-    "code": 65,
-    "weather": "強い雨",
-    "temp_now": 7.9,
-    "temp_max": 13.5,
-    "temp_min": 7.7,
+    "code": 55,
+    "weather": "強い霧雨",
+    "temp_now": 7.6,
+    "temp_max": 7.6,
+    "temp_min": 3.1,
     "precip_prob_max": 100,
-    "precip_sum": 33.2,
-    "wind_speed": 5.3,
+    "precip_sum": 3.6,
+    "wind_speed": 14.1,
     "hourly": [
       {
         "time": "00:00",
-        "temp": 10.3,
-        "weather": "晴れ",
-        "precip_prob": 0
+        "temp": 7.6,
+        "weather": "弱い霧雨",
+        "precip_prob": 100
       },
       {
         "time": "03:00",
-        "temp": 9.9,
+        "temp": 6.2,
         "weather": "晴れ時々曇",
-        "precip_prob": 73
+        "precip_prob": 100
       },
       {
         "time": "06:00",
-        "temp": 9.8,
+        "temp": 4.7,
+        "weather": "曇り",
+        "precip_prob": 96
+      },
+      {
+        "time": "09:00",
+        "temp": 3.2,
+        "weather": "曇り",
+        "precip_prob": 69
+      },
+      {
+        "time": "12:00",
+        "temp": 3.3,
         "weather": "霧雨",
         "precip_prob": 94
       },
       {
-        "time": "09:00",
-        "temp": 10.3,
-        "weather": "強い霧雨",
-        "precip_prob": 100
-      },
-      {
-        "time": "12:00",
-        "temp": 12.8,
-        "weather": "霧雨",
-        "precip_prob": 100
-      },
-      {
         "time": "15:00",
-        "temp": 13.1,
-        "weather": "雨",
-        "precip_prob": 100
+        "temp": 3.1,
+        "weather": "弱い霧雨",
+        "precip_prob": 94
       },
       {
         "time": "18:00",
-        "temp": 9.3,
-        "weather": "霧雨",
-        "precip_prob": 100
+        "temp": 3.6,
+        "weather": "曇り",
+        "precip_prob": 96
       },
       {
         "time": "21:00",
-        "temp": 7.9,
-        "weather": "強い霧雨",
-        "precip_prob": 100
+        "temp": 4.7,
+        "weather": "晴れ時々曇",
+        "precip_prob": 18
       }
     ]
   },
   "enforcement_news": [
+    {
+      "title": "11月27日（金）【熊本県 交通取締情報 午前・午後・夜間】“スピード違反”多数",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mb040N2U5SExCUU0zOUZ2dW5JclhWNU5CbmRoRTNNelpGZERYZG42Mm94S19jQ2Y4aDJ1WktwcjFNSnI1MURMUXE1clVrREI1M2lGV0NNVUdha2FDbHh3RV9lQTRWdXJZdlh6bENGc9IBdEFVX3lxTE8wdzdsMl92bjVfaXN2b0s2SWhPSVkwOURody1UTzVIVEluY1JaZGVMTXduRUpTY1prbWxBZVgzNXhQV1pFWTI1TThQV2dNbWE5TEJkVC1zUHZaS1Bha2pRam93OURLOUo5OEFQblllRUtGSUwt?oc=5",
+      "date": "Thu, 26 Nov 2026 20:13:16 GMT"
+    },
+    {
+      "title": "8月4日（火）【岩手県】 日中・夜間の交通取締情報 | IBC NEWS | IBC岩手放送 (1ページ)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zUWpiNUp0Vk9SWkV2aWZQSHJqWkx6TGZJQlNkaXU4a1Z6YWtKaU9ycUY3ODdKaTVDMkpwV0RCbm9qakY0S1pJQ1dnekIzdkF4UkZXOWhBOGMyQmRnZnBpenVtQXVRWXc?oc=5",
+      "date": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "４月から導入、自転車「青切符」制度 悪質・危険が摘発対象",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JQWJxMnV3UEZiVXpyOU54RTR6T0htckxiRlBVcllaMG90M291NjVCREJvSjh0OHFqTDgwQTJneUhRVVJVZ2lORGpTRXktdXNBSHJmTHpyMzQ2ZkpNeUZ1WWZ3?oc=5",
+      "date": "Fri, 27 Mar 2026 07:00:00 GMT"
+    },
     {
       "title": "土石流、中国の救助活動難航 国境検問所は跡形もなく",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKeHFteFh3STNnTWQ5Uk5QOTRnVXJPekZhSEhzaEQ3eUZzSFllMzBRSzVTYU4xU3dXbXpUZUo0MWVXcG1ZMl80OFhhZHpDcVZ5TDF5c1RDYlF3VFcxMUNZMkNn?oc=5",
@@ -77,24 +92,24 @@
   ],
   "accident_news": [
     {
-      "title": "瀬戸内・邑久中生に命の大切さ訴え 交通事故で娘亡くした秋田さん",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81QlB6X3VyMm1Tcm9YMW5VdTFDcWc5Z0Zqb01QUE5jRGNTcmVkOWJOV0tOZjNmRkRyS1VIVnQ5Z09SelJfZElERjJkUy1MRzlESWc?oc=5",
-      "date": "Fri, 27 Nov 2026 01:50:00 GMT"
-    },
-    {
-      "title": "にかほ市、交通死亡事故ゼロ７３０日達成 秋田県と県警が表彰",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tLUV6Mm1aNG1mSU95QnYtdDhCYWpaT3JHNTRHOWFrazc3RTZvc084TlowZ3pWbUw5cGlIbC1WVUY5UWZqVkNnZ0NkYk5ndzhxVGZGZUVIQl9PTHA2V29XNDl3?oc=5",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "【速報】秋田市土崎港相染町で大型トラックと乗用車の事故 乗用車の男性がけが 港湾道路の一部区間が通行止め 21日 秋田【内容修正】",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3VaMFdIdk5hMTBmZ1I2RE9wUE5HaERJcDlQeE13eC0tMnlqa1RFQWNvWURhOHFKXzhhUlhvYThycTBTMy12Q3o0U1VXV21oc1lQemlCV0ZHcFpKTzI1S1FtSFBoSTFJMjFiR2ZrbGZLcXM2bnVXeE4tOHgxeC1yZ1doWVhCbEk?oc=5",
-      "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+      "title": "【続報】秋田市の通称・港湾道路の通行止めが解除 土崎港相染町浜ナシ山地内の約1.3キロ 交通事故で午前11時過ぎから通行止めに 21日 秋田",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFRFSElnNzZqbzhTVnFfZmFLYm91OHVpS1h4S2JsYzg2eFJPWFRjYkxPWDNrakFkWjN0MW9tYXNMd3ctb0puMTExLVF0anlxUnZZU2dQNm5FcHdDODNCUnBJX2kwZjFGVVFHdXhHNXdkWkRibHR4ZUkxTGdpeC1WNUplSnpBdGs?oc=5",
+      "date": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "東北6県の交通事故多発交差点ワースト1【2026年版】｜自動車交通トピックス",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQVFFZ096dEc1Y0xxakxLZ29KXy1kSmVIeEwwYXR2UkNNSzEyX3FMVmJrZWIzbDNHUEJxcWMtY3RSbGdKQzNEdnlBN211SUh5akY0ZUI3bHJYNXl5Wl9TU24wWktJTXlfSnRB?oc=5",
       "date": "Wed, 16 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "交通事故防止に貢献 秋田市の桑原さんに「警察協力章」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuQWlEcm44Z1RYZm8taWVJcTdiT2JUYUp3MjVWcHkxZUpTRGJqRFN3VE1zMUpHZUNzaEZoejZwcDJrRE5VYWpNcHZUUHM5bU1kY1pmLUxpMFpvZlBEWDctd0lR?oc=5",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "秋田県警の交通担当の署員、飲酒運転で物損事故か 逮捕せず任意捜査 [秋田県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wem5MdGN0aEVtOUdBZTh1YzNoSkszdjVWa05DZmZ3aHgxV1JGR25HTUp5eDh5WXFxZnN6bE1IUE1VS3lma1VvTXJxbHZNSFQ5eVk0bURfcVVwNVU5blg5UzkyUDZ5cFk?oc=5",
+      "date": "Mon, 02 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "去年発生の66歳女性死亡火災 “放火”の疑いで34歳男を逮捕 住宅に火をつけ全焼させたか 秋田・羽後町",
